@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-23T07:22:14.462895Z",
+  "summary": {
+    "total_pages_with_permalink": 256,
+    "visible_pages": 200,
+    "hidden_pages": 56,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1006,
+    "inline_internal_target_page_count": 200,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 199,
+    "average_inline_inbound_links_per_visible_page": 5.03,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "New_South_Wales_f92f26",
+        "title": "What Makes New South Wales UFO Reports Endure?",
+        "permalink": "/what-makes-new-south-wales-ufo-reports/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "Northern_Territory_205118",
+        "title": "What Really Happened in Northern Territory Skies?",
+        "permalink": "/what-really-happened-in-northern/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "Queensland_95a7a7",
+        "title": "Queensland's UFO Stories, Evidence and Doubts",
+        "permalink": "/queenslands-ufo-stories-evidence-and/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "South_Australia_717e9f_port_augusta_1947_46c95c_railway_witness_test_8e0e09",
+        "title": "Witnesses",
+        "permalink": "/witnesses/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "Tasmania_ef1772",
+        "title": "What Really Happened in Tasmania's UFO Record?",
+        "permalink": "/what-really-happened-in-tasmanias-ufo/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "Victoria_df8cd5",
+        "title": "Why Victoria Became Australia's UFO Hotspot",
+        "permalink": "/why-victoria-became-australias-ufo/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "Western_Australia_1c735d",
+        "title": "What Did Western Australia Really See?",
+        "permalink": "/what-did-western-australia-really-see/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba",
+        "title": "Canberra's UFO Files Without the Hype",
+        "permalink": "/australian-capital-territory/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "Victoria_df8cd5_melbourne_aviation_r_e79228",
+        "title": "Aviation",
+        "permalink": "/aviation/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "Victoria_df8cd5_victorian_ufo_record_b05ace",
+        "title": "Records",
+        "permalink": "/records/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "South_Australia_717e9f",
+        "title": "Why South Australia's UFO Stories Still Matter",
+        "permalink": "/why-south-australias-ufo-stories-still/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Tasmania_ef1772_cressy_1960_af23f9_brownings_testimony_74648a",
+        "title": "Witnesses",
+        "permalink": "/witnesses-e9d9f7/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Victoria_df8cd5_westall_schoolyard_e_0cecb4",
+        "title": "Westall",
+        "permalink": "/westall/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "Western_Australia_1c735d_outback_misidentific_80bcb3",
+        "title": "Explanations",
+        "permalink": "/explanations-7a0dd2/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "New_South_Wales_f92f26_rural_coastal_lights_9bb1ae",
+        "title": "Lights",
+        "permalink": "/lights/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_ordinary_expl_7490bc",
+        "title": "Explanations",
+        "permalink": "/explanations-0349ac/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "South_Australia_717e9f_woomera_defence_rang_fc60cc",
+        "title": "Woomera",
+        "permalink": "/woomera/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "South_Australia_717e9f_maralinga_wewak_ligh_3d462d_vixen_a_balloons_c50e84",
+        "title": "Balloons",
+        "permalink": "/balloons-b62c7f/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "Victoria_df8cd5_valentich_bass_strai_536e2d",
+        "title": "Valentich",
+        "permalink": "/valentich-d58109/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "Tasmania_ef1772_cressy_1960_af23f9",
+        "title": "Cressy",
+        "permalink": "/cressy/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "title": "Archives",
+        "permalink": "/archives/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "South_Australia_717e9f_1954_newspaper_flap_5a49ef_ordinary_explanation_8b84b7",
+        "title": "Explanations",
+        "permalink": "/explanations-44cf05/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Queensland_95a7a7_north_queensland_fla_724568",
+        "title": "Northern Flap",
+        "permalink": "/northern-flap/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "South_Australia_717e9f_maralinga_wewak_ligh_3d462d",
+        "title": "Maralinga",
+        "permalink": "/maralinga/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "South_Australia_717e9f_official_civilian_ar_1918e1",
+        "title": "Archives",
+        "permalink": "/archives-d7c21b/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Victoria_df8cd5_official_files_raaf_53c368_unexplained_raaf_fil_7efa73",
+        "title": "Unexplained",
+        "permalink": "/unexplained/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Northern_Territory_205118_top_end_sighting_clu_a7d378",
+        "title": "Top End",
+        "permalink": "/top-end/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Queensland_95a7a7_tully_saucer_nest_89923a",
+        "title": "Tully Nest",
+        "permalink": "/tully-nest/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Victoria_df8cd5_official_files_raaf_53c368",
+        "title": "Official Files",
+        "permalink": "/official-files-a58fb3/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "title": "Airport Case",
+        "permalink": "/airport-case/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0",
+        "title": "Wycliffe Well",
+        "permalink": "/wycliffe-well/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Queensland_95a7a7_civilian_ufo_records_17cde1_qfsrb_record_keeper_96c1a8",
+        "title": "Research Bureau",
+        "permalink": "/research-bureau/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Tasmania_ef1772_valentich_bass_strai_536e2d",
+        "title": "Valentich",
+        "permalink": "/valentich/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5",
+        "title": "RAAF Pearce",
+        "permalink": "/raaf-pearce/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Western_Australia_1c735d_wa_police_ufo_file_d89d08",
+        "title": "Police File",
+        "permalink": "/police-file/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_canberra_ufo_workflo_45f812",
+        "title": "Paper Trail",
+        "permalink": "/paper-trail/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Northern_Territory_205118_pine_gap_ufo_rumours_737361",
+        "title": "Pine Gap",
+        "permalink": "/pine-gap/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Northern_Territory_205118_raaf_darwin_files_b457dd",
+        "title": "RAAF Files",
+        "permalink": "/raaf-files-c842ff/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Queensland_95a7a7_north_queensland_fla_724568_millaa_millaa_balloo_e3ed4e",
+        "title": "Millaa Millaa",
+        "permalink": "/millaa-millaa/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "title": "RAAF Files",
+        "permalink": "/raaf-files/",
+        "inline_inbound_count": 7
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "Australian_Capital_T_2949ba",
+        "to": "New_South_Wales_f92f26",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba",
+        "to": "Northern_Territory_205118",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba",
+        "to": "Queensland_95a7a7",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba",
+        "to": "South_Australia_717e9f",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba",
+        "to": "Tasmania_ef1772",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba",
+        "to": "Victoria_df8cd5",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba",
+        "to": "Western_Australia_1c735d",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba",
+        "to": "Australian_Capital_T_2949ba_index",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_index",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_recordsearch_keyword_7fbfdb",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_woomera_sensitive_si_6dbef1",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_index",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_raaf_canberra_record_8390ca",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_airport_fli_c9b32c",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_index",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_index",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_ivanisevic_media_pre_ca63c8",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_kambah_video_disc_sh_ba1295",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_gundaroo_photo_post_06d772",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_index",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_record_c_1f9344",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_water_my_930727",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_canberra_ufo_workflo_45f812",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_defence_ufo_policy_e_0762bb",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_index",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_raaf_unknown_cases_6f0d0e",
+        "type": "child"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_recordsearch_keyword_7fbfdb",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_woomera_sensitive_si_6dbef1",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_recordsearch_keyword_7fbfdb",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_recordsearch_keyword_7fbfdb",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_recordsearch_keyword_7fbfdb",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_woomera_sensitive_si_6dbef1",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_recordsearch_keyword_7fbfdb",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_recordsearch_keyword_7fbfdb",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_woomera_sensitive_si_6dbef1",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_woomera_sensitive_si_6dbef1",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_woomera_sensitive_si_6dbef1",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_recordsearch_keyword_7fbfdb",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_woomera_sensitive_si_6dbef1",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_woomera_sensitive_si_6dbef1",
+        "to": "Australian_Capital_T_2949ba_act_ufo_archives_1e924f",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_raaf_unknown_cases_6f0d0e",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_raaf_unknown_cases_6f0d0e",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_canberra_ufo_workflo_45f812",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_raaf_unknown_cases_6f0d0e",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_defence_ufo_policy_e_0762bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_raaf_unknown_cases_6f0d0e",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_raaf_unknown_cases_6f0d0e",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_gundaroo_photo_post_06d772",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_gundaroo_photo_post_06d772",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_record_c_1f9344",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_gundaroo_photo_post_06d772",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_water_my_930727",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_gundaroo_photo_post_06d772",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_gundaroo_photo_post_06d772",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_raaf_canberra_record_8390ca",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_raaf_canberra_record_8390ca",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_raaf_canberra_record_8390ca",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_raaf_canberra_record_8390ca",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_raaf_canberra_record_8390ca",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_raaf_canberra_record_8390ca",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_raaf_canberra_record_8390ca",
+        "to": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_airport_fli_c9b32c",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_airport_fli_c9b32c",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_airport_fli_c9b32c",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_airport_fli_c9b32c",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_airport_fli_c9b32c",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_airport_fli_c9b32c",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_airport_fli_c9b32c",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862",
+        "to": "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_ivanisevic_media_pre_ca63c8",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_ivanisevic_media_pre_ca63c8",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_kambah_video_disc_sh_ba1295",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_ivanisevic_media_pre_ca63c8",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_ivanisevic_media_pre_ca63c8",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_ivanisevic_media_pre_ca63c8",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_kambah_video_disc_sh_ba1295",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_kambah_video_disc_sh_ba1295",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_ivanisevic_media_pre_ca63c8",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_kambah_video_disc_sh_ba1295",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_kambah_video_disc_sh_ba1295",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_kambah_video_disc_sh_ba1295",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_ivanisevic_media_pre_ca63c8",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_kambah_video_disc_sh_ba1295",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9",
+        "to": "Australian_Capital_T_2949ba_kambah_video_sightin_640f76",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_record_c_1f9344",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_record_c_1f9344",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_gundaroo_photo_post_06d772",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_record_c_1f9344",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_water_my_930727",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_record_c_1f9344",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_record_c_1f9344",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_water_my_930727",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_water_my_930727",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_gundaroo_photo_post_06d772",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_water_my_930727",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_record_c_1f9344",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_water_my_930727",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_water_my_930727",
+        "to": "Australian_Capital_T_2949ba_lake_george_folklore_942f37",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_canberra_ufo_workflo_45f812",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_canberra_ufo_workflo_45f812",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_defence_ufo_policy_e_0762bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_canberra_ufo_workflo_45f812",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_raaf_unknown_cases_6f0d0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_canberra_ufo_workflo_45f812",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_canberra_ufo_workflo_45f812",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_defence_ufo_policy_e_0762bb",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "type": "parent"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_defence_ufo_policy_e_0762bb",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_canberra_ufo_workflo_45f812",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_defence_ufo_policy_e_0762bb",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_raaf_unknown_cases_6f0d0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_defence_ufo_policy_e_0762bb",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_defence_ufo_policy_e_0762bb",
+        "to": "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "Northern_Territory_205118",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "Queensland_95a7a7",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "South_Australia_717e9f",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "Tasmania_ef1772",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "Victoria_df8cd5",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "Western_Australia_1c735d",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_index",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_media_memory_7f75c6",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_modern_checks_1086a1",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_parramatta_1868_198b1a",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_pilot_sightings_c37adf",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_raaf_records_522e07",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_rural_coastal_lights_9bb1ae",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_media_memory_7f75c6",
+        "to": "New_South_Wales_f92f26",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_media_memory_7f75c6",
+        "to": "New_South_Wales_f92f26_modern_checks_1086a1",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_media_memory_7f75c6",
+        "to": "New_South_Wales_f92f26_parramatta_1868_198b1a",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_media_memory_7f75c6",
+        "to": "New_South_Wales_f92f26_pilot_sightings_c37adf",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_media_memory_7f75c6",
+        "to": "New_South_Wales_f92f26_raaf_records_522e07",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_media_memory_7f75c6",
+        "to": "New_South_Wales_f92f26_rural_coastal_lights_9bb1ae",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_media_memory_7f75c6",
+        "to": "New_South_Wales_f92f26_media_memory_7f75c6_gosford_media_flap_f3bd84",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_media_memory_7f75c6",
+        "to": "New_South_Wales_f92f26_media_memory_7f75c6_index",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_media_memory_7f75c6",
+        "to": "New_South_Wales_f92f26_media_memory_7f75c6_north_coast_flap_exp_d4c3c2",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_media_memory_7f75c6",
+        "to": "New_South_Wales_f92f26_media_memory_7f75c6_raaf_withdrawal_medi_905fab",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_media_memory_7f75c6",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_raaf_records_522e07",
+        "to": "New_South_Wales_f92f26",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_raaf_records_522e07",
+        "to": "New_South_Wales_f92f26_media_memory_7f75c6",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_raaf_records_522e07",
+        "to": "New_South_Wales_f92f26_modern_checks_1086a1",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_raaf_records_522e07",
+        "to": "New_South_Wales_f92f26_parramatta_1868_198b1a",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_raaf_records_522e07",
+        "to": "New_South_Wales_f92f26_pilot_sightings_c37adf",
+        "type": "sibling"
+      }
+    ]
+  }
+}

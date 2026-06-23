@@ -1,0 +1,3096 @@
+{
+  "generated_at": "2026-06-23T08:22:17",
+  "passed": true,
+  "baseline": {
+    "article_pages": 256,
+    "amazon_specific_pages": 200,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 200,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Australian_Capital_T_2949ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_act_ufo_archives_1e924f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_recordsearch_keyword_7fbfdb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_woomera_sensitive_si_6dbef1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_airport_sig_409db1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_raaf_canberra_record_8390ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_airport_fli_c9b32c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_kambah_video_sightin_640f76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_ivanisevic_media_pre_ca63c8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_kambah_video_disc_sh_ba1295": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_lake_george_folklore_942f37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_lake_george_folklore_942f37_gundaroo_photo_post_06d772": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_lake_george_folklore_942f37_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_record_c_1f9344": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_water_my_930727": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_canberra_ufo_workflo_45f812": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_defence_ufo_policy_e_0762bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_raaf_unknown_cases_6f0d0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_media_memory_7f75c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_media_memory_7f75c6_gosford_media_flap_f3bd84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_media_memory_7f75c6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_media_memory_7f75c6_north_coast_flap_exp_d4c3c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_media_memory_7f75c6_raaf_withdrawal_medi_905fab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_modern_checks_1086a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_modern_checks_1086a1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_modern_checks_1086a1_june_2026_rocket_plu_08f9ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_modern_checks_1086a1_satellite_sighting_c_312b26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_modern_checks_1086a1_sydney_webtrak_ufo_c_d9fc80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_parramatta_1868_198b1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_parramatta_1868_198b1a_ark_air_navigation_i_a5657f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_parramatta_1868_198b1a_birmingham_vision_ac_922d79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_parramatta_1868_198b1a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_parramatta_1868_198b1a_parramatta_ark_sourc_4b2135": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_pilot_sightings_c37adf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_pilot_sightings_c37adf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_pilot_sightings_c37adf_jerrabomberra_divers_a9e238": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_pilot_sightings_c37adf_south_sydney_cylinde_471c3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_pilot_sightings_c37adf_sydney_flight_tracks_b0e6aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_raaf_records_522e07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_raaf_records_522e07_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_raaf_records_522e07_nowra_sea_fury_radar_690330": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_raaf_records_522e07_raaf_1984_policy_shi_bbaeb5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_raaf_records_522e07_sydney_williamtown_r_2e270a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_rural_coastal_lights_9bb1ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_rural_coastal_lights_9bb1ae_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_rural_coastal_lights_9bb1ae_nsw_horizon_tricks_b5d38a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_rural_coastal_lights_9bb1ae_rocket_plume_ufo_eff_da449f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_rural_coastal_lights_9bb1ae_starlink_coastal_lig_01cc18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_katherine_1974_light_d52979": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_katherine_1974_light_d52979_ats1_rocket_body_94d838": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_katherine_1974_light_d52979_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_katherine_1974_light_d52979_katherine_witness_sp_31f149": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_katherine_1974_light_d52979_raaf_darwin_assessme_c895aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_ordinary_sky_causes_971a90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_ordinary_sky_causes_971a90_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_ordinary_sky_causes_971a90_rocket_plume_ufo_rep_93f8c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_ordinary_sky_causes_971a90_satellite_train_illu_0e0b20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_ordinary_sky_causes_971a90_weather_balloons_old_6f9b69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_pine_gap_ufo_rumours_737361": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_pine_gap_ufo_rumours_737361_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_area_51_com_05b911": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_radomes_rum_bba501": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_restricted_fd6a3a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_raaf_darwin_files_b457dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_raaf_darwin_files_b457dd_darwin_uas_investiga_449156": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_raaf_darwin_files_b457dd_humpty_doo_mirage_de_c26d1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_raaf_darwin_files_b457dd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_raaf_darwin_files_b457dd_top_end_1983_sightin_27d27a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_top_end_sighting_clu_a7d378": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_top_end_sighting_clu_a7d378_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_top_end_sighting_clu_a7d378_nightcliff_coastal_l_e31463": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_top_end_sighting_clu_a7d378_raaf_darwin_forms_85b095": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_top_end_sighting_clu_a7d378_top_end_misidentific_fdd74a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_alien_branding_hotsp_8bd09b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_wycliffe_roadhouse_d_471931": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_wycliffe_sightings_l_35a4d8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_civilian_ufo_records_17cde1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_civilian_ufo_records_17cde1_contactee_era_credib_390db5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_civilian_ufo_records_17cde1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_civilian_ufo_records_17cde1_qfsrb_record_keeper_96c1a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_civilian_ufo_records_17cde1_qld_ufo_periodicals_dcf255": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_min_min_lights_ecea73": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_min_min_lights_ecea73_boulia_following_lig_f2d321": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_min_min_lights_ecea73_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_min_min_lights_ecea73_min_min_mirage_mecha_700d40": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_min_min_lights_ecea73_pettigrew_field_evid_a1425b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_north_queensland_fla_724568": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_north_queensland_fla_724568_daunia_station_trace_137067": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_north_queensland_fla_724568_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_north_queensland_fla_724568_millaa_millaa_balloo_e3ed4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_north_queensland_fla_724568_mount_garnet_fast_ob_2848de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_official_ufo_files_98c8b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_official_ufo_files_98c8b0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_official_ufo_files_98c8b0_official_attention_n_de45c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_official_ufo_files_98c8b0_queensland_police_fi_682a93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_official_ufo_files_98c8b0_raaf_aircraft_checks_1786da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_tully_saucer_nest_89923a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_tully_saucer_nest_89923a_horseshoe_lagoon_ree_0aa718": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_tully_saucer_nest_89923a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_tully_saucer_nest_89923a_pedley_witness_evide_ff34da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_tully_saucer_nest_89923a_tully_vortex_explana_93b34a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_weakened_ufo_claims_20726e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_weakened_ufo_claims_20726e_castle_hill_lager_ca_cc606d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_weakened_ufo_claims_20726e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_weakened_ufo_claims_20726e_media_memory_weak_ev_da412f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_weakened_ufo_claims_20726e_tully_weakened_not_s_3316ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_1954_newspaper_flap_5a49ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_1954_newspaper_flap_5a49ef_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_1954_newspaper_flap_5a49ef_morgan_pilots_optica_f9b9c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_1954_newspaper_flap_5a49ef_newspapers_saucer_fl_e5f1f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_1954_newspaper_flap_5a49ef_ordinary_explanation_8b84b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_maralinga_wewak_ligh_3d462d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_maralinga_wewak_ligh_3d462d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_maralinga_wewak_ligh_3d462d_maralinga_secrecy_fi_e87f20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_maralinga_wewak_ligh_3d462d_vixen_a_balloons_c50e84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_maralinga_wewak_ligh_3d462d_wewak_meteor_static_9bf6a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_official_civilian_ar_1918e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_official_civilian_ar_1918e1_basterfield_sa_catal_84444d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_official_civilian_ar_1918e1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_official_civilian_ar_1918e1_raaf_files_proof_3760e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_official_civilian_ar_1918e1_woomera_movie_debunk_5ef886": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_outback_ufo_explanat_ecea1b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_outback_ufo_explanat_ecea1b_hayabusa2_fireball_l_c7c024": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_outback_ufo_explanat_ecea1b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_outback_ufo_explanat_ecea1b_nullarbor_following_6e9557": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_outback_ufo_explanat_ecea1b_outback_ufo_checklis_a22f64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_port_augusta_1947_46c95c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_port_augusta_1947_46c95c_dodwell_meteor_objec_3db61c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_port_augusta_1947_46c95c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_port_augusta_1947_46c95c_lock_regional_corrob_90f49a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_port_augusta_1947_46c95c_railway_witness_test_8e0e09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_woomera_defence_rang_fc60cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_woomera_defence_rang_fc60cc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_woomera_defence_rang_fc60cc_wewak_1960_light_f0c3ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_woomera_defence_rang_fc60cc_woomera_official_che_cb2a54": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_woomera_defence_rang_fc60cc_woomera_range_causes_92144c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_bass_strait_aviation_9e955c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_bass_strait_aviation_9e955c_1959_blue_flashes_ae49f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_bass_strait_aviation_9e955c_beaufort_shadow_doub_18746e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_bass_strait_aviation_9e955c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_bass_strait_aviation_9e955c_miss_hobart_myth_6a28ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_cressy_1960_af23f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_cressy_1960_af23f9_brownings_testimony_74648a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_cressy_1960_af23f9_cressy_media_wave_6b90d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_cressy_1960_af23f9_cressy_weather_dista_3654ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_cressy_1960_af23f9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_hobart_launceston_cl_964ee7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_hobart_launceston_cl_964ee7_hobart_bay_water_ent_fd1aaa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_hobart_launceston_cl_964ee7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_hobart_launceston_cl_964ee7_northern_tasmania_co_1e2f59": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_hobart_launceston_cl_964ee7_official_launceston_419646": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_raaf_files_ba8c4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_raaf_files_ba8c4d_cressy_file_caution_5b857b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_raaf_files_ba8c4d_devonport_u2_case_319207": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_raaf_files_ba8c4d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_raaf_files_ba8c4d_raaf_sighting_forms_ef1d95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_tufoic_archives_2c10b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_tufoic_archives_2c10b6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_tufoic_archives_2c10b6_st_helens_tufoic_fol_277a7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_newsletter_ar_f8e1d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_ordinary_expl_7490bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_valentich_bass_strai_536e2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_valentich_bass_strai_536e2d_bass_strait_disorien_13f212": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_valentich_bass_strai_536e2d_flinders_cowl_flap_fd8373": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_valentich_bass_strai_536e2d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_radio_call_aa0f5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_melbourne_aviation_r_e79228": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_melbourne_aviation_r_e79228_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_melbourne_aviation_r_e79228_melbourne_ufo_air_tr_d922d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_melbourne_aviation_r_e79228_moorabbin_training_m_2c4f2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_melbourne_aviation_r_e79228_westall_five_pilots_fd4019": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_official_files_raaf_53c368": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_official_files_raaf_53c368_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_official_files_raaf_53c368_raaf_ufo_reporting_e_cef1aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_official_files_raaf_53c368_unexplained_raaf_fil_7efa73": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_official_files_raaf_53c368_westall_missing_defe_32b685": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_valentich_bass_strai_536e2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_valentich_bass_strai_536e2d_bass_strait_night_fl_044d96": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_valentich_bass_strai_536e2d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_valentich_bass_strai_536e2d_later_debris_claims_7f234d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_valentich_bass_strai_536e2d_radio_transcript_clu_1b4e7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_explan_9ea2df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_explan_9ea2df_hibal_westall_offici_4df939": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_explan_9ea2df_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_explan_9ea2df_raaf_explained_unres_2da5c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_explan_9ea2df_valentich_planet_pat_7d0117": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_record_b05ace": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_record_b05ace_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_record_b05ace_local_newspaper_reco_2a8fe0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_record_b05ace_moorabbin_case_files_f1e188": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_record_b05ace_raaf_archive_trails_f286e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_westall_schoolyard_e_0cecb4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_westall_schoolyard_e_0cecb4_grange_ground_marks_053993": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_westall_schoolyard_e_0cecb4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_westall_schoolyard_e_0cecb4_school_silence_83eef2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_westall_schoolyard_e_0cecb4_westall_alternative_6ec395": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_country_wa_sightings_1e185b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_country_wa_sightings_1e185b_donnybrook_blue_ligh_b79cae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_country_wa_sightings_1e185b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_country_wa_sightings_1e185b_police_reliability_l_ce8b11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_country_wa_sightings_1e185b_remote_road_distance_85088a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_car_evidence_7af24b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_media_growth_0d74df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_nullarbor_mirage_lig_291234": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_outback_misidentific_80bcb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_outback_misidentific_80bcb3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_outback_misidentific_80bcb3_mid_west_ship_refrac_486922": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_outback_misidentific_80bcb3_satellite_trains_wa_8826a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_outback_misidentific_80bcb3_wa_fireballs_misiden_d50297": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_perth_aircraft_expla_4c4451": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_perth_aircraft_expla_4c4451_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_perth_aircraft_expla_4c4451_perth_aviation_check_a7b74e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_perth_aircraft_expla_4c4451_swanbourne_airport_l_0aa0e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_perth_aircraft_expla_4c4451_wembley_macchi_expla_6ba02b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_pearce_reporting_cha_7940c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_wagin_jupiter_explan_b42de7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_watheroo_pilot_sight_53de31": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_wa_police_ufo_file_d89d08": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_wa_police_ufo_file_d89d08_cunderdin_witness_re_6bfaf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_wa_police_ufo_file_d89d08_dalwallinu_raaf_chai_aa36d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_wa_police_ufo_file_d89d08_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_wa_police_ufo_file_d89d08_official_records_vs_9a41bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 256,
+    "amazon_specific_pages": 200,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 200,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Australian_Capital_T_2949ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_act_ufo_archives_1e924f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_recordsearch_keyword_7fbfdb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_act_ufo_archives_1e924f_woomera_sensitive_si_6dbef1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_airport_sig_409db1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_raaf_canberra_record_8390ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_airport_fli_c9b32c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_kambah_video_sightin_640f76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_ivanisevic_media_pre_ca63c8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_kambah_video_disc_sh_ba1295": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_lake_george_folklore_942f37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_lake_george_folklore_942f37_gundaroo_photo_post_06d772": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_lake_george_folklore_942f37_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_record_c_1f9344": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_lake_george_folklore_942f37_lake_george_water_my_930727": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_canberra_ufo_workflo_45f812": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_defence_ufo_policy_e_0762bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b_raaf_unknown_cases_6f0d0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_media_memory_7f75c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_media_memory_7f75c6_gosford_media_flap_f3bd84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_media_memory_7f75c6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_media_memory_7f75c6_north_coast_flap_exp_d4c3c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_media_memory_7f75c6_raaf_withdrawal_medi_905fab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_modern_checks_1086a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_modern_checks_1086a1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_modern_checks_1086a1_june_2026_rocket_plu_08f9ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_modern_checks_1086a1_satellite_sighting_c_312b26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_modern_checks_1086a1_sydney_webtrak_ufo_c_d9fc80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_parramatta_1868_198b1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_parramatta_1868_198b1a_ark_air_navigation_i_a5657f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_parramatta_1868_198b1a_birmingham_vision_ac_922d79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_parramatta_1868_198b1a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_parramatta_1868_198b1a_parramatta_ark_sourc_4b2135": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_pilot_sightings_c37adf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_pilot_sightings_c37adf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_pilot_sightings_c37adf_jerrabomberra_divers_a9e238": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_pilot_sightings_c37adf_south_sydney_cylinde_471c3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_pilot_sightings_c37adf_sydney_flight_tracks_b0e6aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_raaf_records_522e07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_raaf_records_522e07_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_raaf_records_522e07_nowra_sea_fury_radar_690330": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_raaf_records_522e07_raaf_1984_policy_shi_bbaeb5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_raaf_records_522e07_sydney_williamtown_r_2e270a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_rural_coastal_lights_9bb1ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_rural_coastal_lights_9bb1ae_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_rural_coastal_lights_9bb1ae_nsw_horizon_tricks_b5d38a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_rural_coastal_lights_9bb1ae_rocket_plume_ufo_eff_da449f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_South_Wales_f92f26_rural_coastal_lights_9bb1ae_starlink_coastal_lig_01cc18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_katherine_1974_light_d52979": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_katherine_1974_light_d52979_ats1_rocket_body_94d838": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_katherine_1974_light_d52979_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_katherine_1974_light_d52979_katherine_witness_sp_31f149": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_katherine_1974_light_d52979_raaf_darwin_assessme_c895aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_ordinary_sky_causes_971a90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_ordinary_sky_causes_971a90_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_ordinary_sky_causes_971a90_rocket_plume_ufo_rep_93f8c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_ordinary_sky_causes_971a90_satellite_train_illu_0e0b20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_ordinary_sky_causes_971a90_weather_balloons_old_6f9b69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_pine_gap_ufo_rumours_737361": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_pine_gap_ufo_rumours_737361_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_area_51_com_05b911": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_radomes_rum_bba501": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_restricted_fd6a3a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_raaf_darwin_files_b457dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_raaf_darwin_files_b457dd_darwin_uas_investiga_449156": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_raaf_darwin_files_b457dd_humpty_doo_mirage_de_c26d1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_raaf_darwin_files_b457dd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_raaf_darwin_files_b457dd_top_end_1983_sightin_27d27a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_top_end_sighting_clu_a7d378": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_top_end_sighting_clu_a7d378_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_top_end_sighting_clu_a7d378_nightcliff_coastal_l_e31463": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_top_end_sighting_clu_a7d378_raaf_darwin_forms_85b095": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_top_end_sighting_clu_a7d378_top_end_misidentific_fdd74a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_alien_branding_hotsp_8bd09b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_wycliffe_roadhouse_d_471931": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_wycliffe_sightings_l_35a4d8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_civilian_ufo_records_17cde1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_civilian_ufo_records_17cde1_contactee_era_credib_390db5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_civilian_ufo_records_17cde1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_civilian_ufo_records_17cde1_qfsrb_record_keeper_96c1a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_civilian_ufo_records_17cde1_qld_ufo_periodicals_dcf255": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_min_min_lights_ecea73": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_min_min_lights_ecea73_boulia_following_lig_f2d321": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_min_min_lights_ecea73_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_min_min_lights_ecea73_min_min_mirage_mecha_700d40": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_min_min_lights_ecea73_pettigrew_field_evid_a1425b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_north_queensland_fla_724568": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_north_queensland_fla_724568_daunia_station_trace_137067": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_north_queensland_fla_724568_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_north_queensland_fla_724568_millaa_millaa_balloo_e3ed4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_north_queensland_fla_724568_mount_garnet_fast_ob_2848de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_official_ufo_files_98c8b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_official_ufo_files_98c8b0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_official_ufo_files_98c8b0_official_attention_n_de45c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_official_ufo_files_98c8b0_queensland_police_fi_682a93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_official_ufo_files_98c8b0_raaf_aircraft_checks_1786da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_tully_saucer_nest_89923a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_tully_saucer_nest_89923a_horseshoe_lagoon_ree_0aa718": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_tully_saucer_nest_89923a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_tully_saucer_nest_89923a_pedley_witness_evide_ff34da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_tully_saucer_nest_89923a_tully_vortex_explana_93b34a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_weakened_ufo_claims_20726e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_weakened_ufo_claims_20726e_castle_hill_lager_ca_cc606d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_weakened_ufo_claims_20726e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_weakened_ufo_claims_20726e_media_memory_weak_ev_da412f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Queensland_95a7a7_weakened_ufo_claims_20726e_tully_weakened_not_s_3316ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_1954_newspaper_flap_5a49ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_1954_newspaper_flap_5a49ef_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_1954_newspaper_flap_5a49ef_morgan_pilots_optica_f9b9c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_1954_newspaper_flap_5a49ef_newspapers_saucer_fl_e5f1f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_1954_newspaper_flap_5a49ef_ordinary_explanation_8b84b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_maralinga_wewak_ligh_3d462d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_maralinga_wewak_ligh_3d462d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_maralinga_wewak_ligh_3d462d_maralinga_secrecy_fi_e87f20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_maralinga_wewak_ligh_3d462d_vixen_a_balloons_c50e84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_maralinga_wewak_ligh_3d462d_wewak_meteor_static_9bf6a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_official_civilian_ar_1918e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_official_civilian_ar_1918e1_basterfield_sa_catal_84444d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_official_civilian_ar_1918e1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_official_civilian_ar_1918e1_raaf_files_proof_3760e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_official_civilian_ar_1918e1_woomera_movie_debunk_5ef886": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_outback_ufo_explanat_ecea1b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_outback_ufo_explanat_ecea1b_hayabusa2_fireball_l_c7c024": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_outback_ufo_explanat_ecea1b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_outback_ufo_explanat_ecea1b_nullarbor_following_6e9557": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_outback_ufo_explanat_ecea1b_outback_ufo_checklis_a22f64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_port_augusta_1947_46c95c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_port_augusta_1947_46c95c_dodwell_meteor_objec_3db61c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_port_augusta_1947_46c95c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_port_augusta_1947_46c95c_lock_regional_corrob_90f49a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_port_augusta_1947_46c95c_railway_witness_test_8e0e09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_woomera_defence_rang_fc60cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_woomera_defence_rang_fc60cc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_woomera_defence_rang_fc60cc_wewak_1960_light_f0c3ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_woomera_defence_rang_fc60cc_woomera_official_che_cb2a54": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "South_Australia_717e9f_woomera_defence_rang_fc60cc_woomera_range_causes_92144c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_bass_strait_aviation_9e955c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_bass_strait_aviation_9e955c_1959_blue_flashes_ae49f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_bass_strait_aviation_9e955c_beaufort_shadow_doub_18746e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_bass_strait_aviation_9e955c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_bass_strait_aviation_9e955c_miss_hobart_myth_6a28ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_cressy_1960_af23f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_cressy_1960_af23f9_brownings_testimony_74648a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_cressy_1960_af23f9_cressy_media_wave_6b90d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_cressy_1960_af23f9_cressy_weather_dista_3654ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_cressy_1960_af23f9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_hobart_launceston_cl_964ee7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_hobart_launceston_cl_964ee7_hobart_bay_water_ent_fd1aaa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_hobart_launceston_cl_964ee7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_hobart_launceston_cl_964ee7_northern_tasmania_co_1e2f59": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_hobart_launceston_cl_964ee7_official_launceston_419646": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_raaf_files_ba8c4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_raaf_files_ba8c4d_cressy_file_caution_5b857b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_raaf_files_ba8c4d_devonport_u2_case_319207": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_raaf_files_ba8c4d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_raaf_files_ba8c4d_raaf_sighting_forms_ef1d95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_tufoic_archives_2c10b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_tufoic_archives_2c10b6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_tufoic_archives_2c10b6_st_helens_tufoic_fol_277a7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_newsletter_ar_f8e1d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_ordinary_expl_7490bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_valentich_bass_strai_536e2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_valentich_bass_strai_536e2d_bass_strait_disorien_13f212": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_valentich_bass_strai_536e2d_flinders_cowl_flap_fd8373": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_valentich_bass_strai_536e2d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_radio_call_aa0f5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_melbourne_aviation_r_e79228": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_melbourne_aviation_r_e79228_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_melbourne_aviation_r_e79228_melbourne_ufo_air_tr_d922d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_melbourne_aviation_r_e79228_moorabbin_training_m_2c4f2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_melbourne_aviation_r_e79228_westall_five_pilots_fd4019": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_official_files_raaf_53c368": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_official_files_raaf_53c368_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_official_files_raaf_53c368_raaf_ufo_reporting_e_cef1aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_official_files_raaf_53c368_unexplained_raaf_fil_7efa73": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_official_files_raaf_53c368_westall_missing_defe_32b685": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_valentich_bass_strai_536e2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_valentich_bass_strai_536e2d_bass_strait_night_fl_044d96": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_valentich_bass_strai_536e2d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_valentich_bass_strai_536e2d_later_debris_claims_7f234d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_valentich_bass_strai_536e2d_radio_transcript_clu_1b4e7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_explan_9ea2df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_explan_9ea2df_hibal_westall_offici_4df939": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_explan_9ea2df_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_explan_9ea2df_raaf_explained_unres_2da5c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_explan_9ea2df_valentich_planet_pat_7d0117": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_record_b05ace": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_record_b05ace_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_record_b05ace_local_newspaper_reco_2a8fe0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_record_b05ace_moorabbin_case_files_f1e188": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_victorian_ufo_record_b05ace_raaf_archive_trails_f286e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_westall_schoolyard_e_0cecb4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_westall_schoolyard_e_0cecb4_grange_ground_marks_053993": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_westall_schoolyard_e_0cecb4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_westall_schoolyard_e_0cecb4_school_silence_83eef2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Victoria_df8cd5_westall_schoolyard_e_0cecb4_westall_alternative_6ec395": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_country_wa_sightings_1e185b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_country_wa_sightings_1e185b_donnybrook_blue_ligh_b79cae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_country_wa_sightings_1e185b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_country_wa_sightings_1e185b_police_reliability_l_ce8b11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_country_wa_sightings_1e185b_remote_road_distance_85088a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_car_evidence_7af24b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_media_growth_0d74df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_nullarbor_mirage_lig_291234": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_outback_misidentific_80bcb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_outback_misidentific_80bcb3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_outback_misidentific_80bcb3_mid_west_ship_refrac_486922": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_outback_misidentific_80bcb3_satellite_trains_wa_8826a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_outback_misidentific_80bcb3_wa_fireballs_misiden_d50297": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_perth_aircraft_expla_4c4451": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_perth_aircraft_expla_4c4451_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_perth_aircraft_expla_4c4451_perth_aviation_check_a7b74e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_perth_aircraft_expla_4c4451_swanbourne_airport_l_0aa0e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_perth_aircraft_expla_4c4451_wembley_macchi_expla_6ba02b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_pearce_reporting_cha_7940c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_wagin_jupiter_explan_b42de7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_watheroo_pilot_sight_53de31": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_wa_police_ufo_file_d89d08": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_wa_police_ufo_file_d89d08_cunderdin_witness_re_6bfaf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_wa_police_ufo_file_d89d08_dalwallinu_raaf_chai_aa36d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_wa_police_ufo_file_d89d08_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Western_Australia_1c735d_wa_police_ufo_file_d89d08_official_records_vs_9a41bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 256,
+  "regressions": []
+}
