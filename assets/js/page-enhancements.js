@@ -9195,7 +9195,7 @@
     };
     var repairMojibakeText = function(value) {
       var text = String(value || '');
-      if (!/[ÃƒÃ‚Ã¢]/.test(text)) {
+      if (!/[ÃÂâ�]/.test(text)) {
         return text;
       }
       try {
@@ -9212,7 +9212,7 @@
             }
           }
           var decoded = new TextDecoder('utf-8', { fatal: false }).decode(new Uint8Array(bytes));
-          if (decoded && !/[ÃƒÃ‚Ã¢]\uFFFD?/.test(decoded)) {
+          if (decoded && !/[ÃÂâ�]\uFFFD?/.test(decoded)) {
             return decoded;
           }
         }
@@ -9222,6 +9222,8 @@
         .replace(/\u00e2\u20ac\u0153/g, '\u201c')
         .replace(/\u00e2\u20ac\u009d/g, '\u201d')
         .replace(/\u00e2\u20ac\u009d/g, '\u201d')
+        .replace(/\u00e2\u20ac\u2018/g, '-')
+        .replace(/\u00e2\u20ac\u2011/g, '-')
         .replace(/\u00e2\u20ac\u201d/g, '\u2014')
         .replace(/\u00e2\u20ac\u201c/g, '\u2013')
         .replace(/\u00e2\u20ac\u00a6/g, '\u2026')
@@ -9234,8 +9236,8 @@
       if (!item || typeof item !== 'object') {
         return item;
       }
-      ['country', 'mapName', 'title', 'label', 'summary', 'displayLabel', 'displayTitle', 'displaySummary'].forEach(function(key) {
-        if (item[key]) {
+      Object.keys(item).forEach(function(key) {
+        if (typeof item[key] === 'string') {
           item[key] = repairMojibakeText(item[key]);
         }
       });

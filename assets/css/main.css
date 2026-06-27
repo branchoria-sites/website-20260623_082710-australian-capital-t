@@ -15963,7 +15963,7 @@ a.fr-book-fit:focus-visible {
   --map-preview-image-height: clamp(8rem, 18vh, 11.4rem);
   --map-preview-meta-height: 1.52rem;
   --map-preview-kicker-height: 1.28rem;
-  --map-preview-title-height: calc(1.12em * 3);
+  --map-preview-title-height: clamp(3.95rem, 5vw, 4.35rem);
   --map-preview-cta-height: 2.2rem;
   display: grid;
   grid-template-rows: clamp(8rem, 18vh, 11.4rem)
@@ -16026,6 +16026,7 @@ a.fr-book-fit:focus-visible {
   display: -webkit-box;
   font-size: clamp(1.05rem, 0.36vw + 0.98rem, 1.18rem);
   line-height: 1.12;
+  height: var(--map-preview-title-height);
   min-height: var(--map-preview-title-height);
   max-height: var(--map-preview-title-height);
   overflow: hidden;
