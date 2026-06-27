@@ -15793,7 +15793,7 @@ a.fr-book-fit:focus-visible {
 :where(.interactive-map-shell, .uap-world-map-shell) {
   position: relative;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(17rem, 0.34fr);
+  grid-template-columns: minmax(0, 1fr) minmax(18rem, 0.34fr);
   align-items: stretch;
   isolation: isolate;
   gap: clamp(0.85rem, 1.2vw, 1.15rem);
@@ -15880,15 +15880,28 @@ a.fr-book-fit:focus-visible {
   min-height: 0;
 }
 
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="province"] :where(.interactive-map-canvas, .uap-world-map-canvas),
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="county"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
-  aspect-ratio: 4 / 5;
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="canada"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="australia"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="uk-counties"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
+  aspect-ratio: 16 / 9;
+}
+
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="uk-counties"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
+  background: rgba(8, 21, 36, 0.12);
 }
 
 :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="county"] .map-context-ireland {
   fill: #9aa6b5 !important;
   opacity: 0.72;
   pointer-events: none;
+}
+
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="uk-counties"] rect[id="rect21763"] {
+  fill: transparent !important;
+}
+
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="uk-counties"] svg[data-map-fit-applied="linked-bounds"] :where(path, polygon, polyline, rect, circle):not([data-interactive-map-item]):not(.map-context-ireland) {
+  display: none !important;
 }
 
 :root[data-theme="dark"] :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="county"] .map-context-ireland {
@@ -16044,9 +16057,9 @@ a.fr-book-fit:focus-visible {
   align-content: start;
   gap: clamp(0.34rem, 0.6vw, 0.54rem);
   align-self: stretch;
-  height: clamp(20rem, 54vh, 35rem);
-  min-height: clamp(20rem, 54vh, 35rem);
-  max-height: clamp(20rem, 54vh, 35rem);
+  height: 100%;
+  min-height: 0;
+  max-height: none;
   overflow: hidden;
   padding: clamp(0.9rem, 1.4vw, 1.1rem);
   border-color: rgba(255, 255, 255, 0.56);

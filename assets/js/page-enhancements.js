@@ -9103,6 +9103,7 @@
     var mapLabel = root.getAttribute('data-map-label') || 'Interactive map';
     var fallbackSummary = root.getAttribute('data-map-fallback-summary') || 'Open this item from the map.';
     var previewPreloadLimit = root.getAttribute('data-map-preview-preload') || 'all';
+    var mapFitMode = root.getAttribute('data-map-fit') || '';
     if (!canvas || !mapSrc || !dataSrc) {
       return;
     }
@@ -9491,6 +9492,7 @@
       });
       svg.setAttribute('role', 'img');
       svg.setAttribute('aria-label', mapLabel);
+      svg.setAttribute('preserveAspectRatio', 'xMidYMid meet');
       var zoomState = { scale: 1, x: 0, y: 0 };
       var minZoom = 1;
       var maxZoom = 6;
@@ -9827,6 +9829,76 @@
       var active = null;
       var activeItem = null;
       var nodesByIso = {};
+      var fitSvgToLinkedBounds = function() {
+        if (mapFitMode !== 'linked-bounds' || !svg.createSVGPoint) {
+          return;
+        }
+        var matrix = null;
+        try {
+          matrix = svg.getScreenCTM();
+        } catch (err) {
+          matrix = null;
+        }
+        if (!matrix) {
+          return;
+        }
+        var inverse = matrix.inverse();
+        var point = svg.createSVGPoint();
+        var bounds = null;
+        var addClientPoint = function(clientX, clientY) {
+          point.x = clientX;
+          point.y = clientY;
+          var svgPoint = point.matrixTransform(inverse);
+          if (!bounds) {
+            bounds = {
+              left: svgPoint.x,
+              top: svgPoint.y,
+              right: svgPoint.x,
+              bottom: svgPoint.y
+            };
+            return;
+          }
+          bounds.left = Math.min(bounds.left, svgPoint.x);
+          bounds.top = Math.min(bounds.top, svgPoint.y);
+          bounds.right = Math.max(bounds.right, svgPoint.x);
+          bounds.bottom = Math.max(bounds.bottom, svgPoint.y);
+        };
+        Object.keys(nodesByIso).forEach(function(iso) {
+          forEachMapNode(nodesByIso[iso], function(node) {
+            if (!node || !node.getBoundingClientRect) {
+              return;
+            }
+            var rect = node.getBoundingClientRect();
+            if (!rect || !rect.width || !rect.height) {
+              return;
+            }
+            addClientPoint(rect.left, rect.top);
+            addClientPoint(rect.right, rect.top);
+            addClientPoint(rect.right, rect.bottom);
+            addClientPoint(rect.left, rect.bottom);
+          });
+        });
+        if (!bounds || bounds.right <= bounds.left || bounds.bottom <= bounds.top) {
+          return;
+        }
+        var width = bounds.right - bounds.left;
+        var height = bounds.bottom - bounds.top;
+        var pad = Math.max(width, height) * 0.035;
+        svg.setAttribute(
+          'viewBox',
+          [
+            bounds.left - pad,
+            bounds.top - pad,
+            width + pad * 2,
+            height + pad * 2
+          ].map(function(value) { return Number(value).toFixed(3); }).join(' ')
+        );
+        svg.removeAttribute('width');
+        svg.removeAttribute('height');
+        svg.setAttribute('data-map-fit-applied', 'linked-bounds');
+        zoomState = { scale: 1, x: 0, y: 0 };
+        applyZoom();
+      };
       var zoomToScreenBounds = function(bounds, nextScale) {
         var canvasRect = canvas.getBoundingClientRect();
         if (!bounds || !canvasRect.width || !canvasRect.height || bounds.right <= bounds.left || bounds.bottom <= bounds.top) {
@@ -10065,6 +10137,7 @@
           });
         });
       });
+      fitSvgToLinkedBounds();
       if (root.getAttribute('data-map-auto-focus') === 'visitor' && guessedIso && guessedNode) {
         window.setTimeout(function() {
           if (!active) {
