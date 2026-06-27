@@ -9104,6 +9104,7 @@
     var fallbackSummary = root.getAttribute('data-map-fallback-summary') || 'Open this item from the map.';
     var previewPreloadLimit = root.getAttribute('data-map-preview-preload') || 'all';
     var mapFitMode = root.getAttribute('data-map-fit') || '';
+    var initialItemId = String(root.getAttribute('data-map-initial-item') || '').trim().toUpperCase();
     if (!canvas || !mapSrc || !dataSrc) {
       return;
     }
@@ -9883,6 +9884,34 @@
         }
         var width = bounds.right - bounds.left;
         var height = bounds.bottom - bounds.top;
+        var canvasRect = canvas.getBoundingClientRect();
+        var canvasAspect = canvasRect && canvasRect.width && canvasRect.height
+          ? canvasRect.width / canvasRect.height
+          : 0;
+        if (canvasAspect > 0 && width > 0 && height > 0) {
+          var boundsAspect = width / height;
+          if (canvasAspect > boundsAspect) {
+            var expandedWidth = height * canvasAspect;
+            var extraWidth = expandedWidth - width;
+            bounds.left -= extraWidth / 2;
+            bounds.right += extraWidth / 2;
+            width = expandedWidth;
+          } else if (canvasAspect < boundsAspect) {
+            var expandedHeight = width / canvasAspect;
+            var extraHeight = expandedHeight - height;
+            bounds.top -= extraHeight / 2;
+            bounds.bottom += extraHeight / 2;
+            height = expandedHeight;
+          }
+        }
+        if (root.getAttribute('data-map-layout') === 'canada') {
+          var canadaTopCrop = height * 0.12;
+          bounds.top += canadaTopCrop;
+          height -= canadaTopCrop;
+          var canadaShiftDown = height * 0.05;
+          bounds.top += canadaShiftDown;
+          bounds.bottom += canadaShiftDown;
+        }
         var pad = Math.max(width, height) * 0.035;
         svg.setAttribute(
           'viewBox',
@@ -10044,7 +10073,9 @@
         forEachMapNode(node, function(part) {
           part.classList.add('is-hovered');
         });
-        updatePreview(item);
+        if (!options || !options.preservePreview) {
+          updatePreview(item);
+        }
         if (options && options.zoom) {
           var bounds = getMapNodesBounds(node);
           if (bounds) {
@@ -10138,6 +10169,49 @@
         });
       });
       fitSvgToLinkedBounds();
+      var resolveInitialIso = function() {
+        if (initialItemId && byIso[initialItemId] && nodesByIso[initialItemId]) {
+          return initialItemId;
+        }
+        if (root.getAttribute('data-map-layout') === 'uk-counties' && byIso['UK-HC-SUFFOLK'] && nodesByIso['UK-HC-SUFFOLK']) {
+          return 'UK-HC-SUFFOLK';
+        }
+        var previewTitleNode = preview && preview.querySelector('[data-interactive-map-preview-title], [data-uap-world-map-preview-title]');
+        var previewTitle = normaliseMapSvgLabel(previewTitleNode ? previewTitleNode.textContent : '');
+        var previewKickerNode = preview && preview.querySelector('.interactive-map-preview-kicker, .uap-world-map-preview-kicker');
+        var previewKicker = normaliseMapSvgLabel(previewKickerNode ? previewKickerNode.textContent : '');
+        var matchedIso = '';
+        Object.keys(byIso).some(function(iso) {
+          var item = byIso[iso];
+          var labels = [
+            getItemLabel(item),
+            getItemTitle(item),
+            item && item.mapName,
+            item && item.country,
+            item && item.province,
+            item && item.state,
+            item && item.county
+          ].concat((item && item.mapAliases) || []);
+          var normalisedLabels = labels.map(normaliseMapSvgLabel).filter(Boolean);
+          if (
+            (previewKicker && normalisedLabels.indexOf(previewKicker) !== -1)
+            || (previewTitle && normalisedLabels.some(function(label) { return previewTitle.indexOf(label) !== -1 || label.indexOf(previewTitle) !== -1; }))
+          ) {
+            matchedIso = iso;
+            return true;
+          }
+          return false;
+        });
+        if (matchedIso && byIso[matchedIso] && nodesByIso[matchedIso]) {
+          return matchedIso;
+        }
+        var firstIso = Object.keys(byIso).filter(function(iso) { return nodesByIso[iso]; })[0] || '';
+        return firstIso;
+      };
+      var initialIso = resolveInitialIso();
+      if (initialIso && byIso[initialIso] && nodesByIso[initialIso]) {
+        focusCountry(nodesByIso[initialIso], byIso[initialIso], { preservePreview: !initialItemId });
+      }
       if (root.getAttribute('data-map-auto-focus') === 'visitor' && guessedIso && guessedNode) {
         window.setTimeout(function() {
           if (!active) {
