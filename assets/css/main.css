@@ -16052,8 +16052,18 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview) {
+  --map-preview-image-height: clamp(8rem, 18vh, 11.4rem);
+  --map-preview-meta-height: 1.52rem;
+  --map-preview-kicker-height: 1.28rem;
+  --map-preview-title-height: calc(1.14em * 2);
+  --map-preview-cta-height: 2.2rem;
   display: grid;
-  grid-template-rows: clamp(8rem, 18vh, 11.4rem) minmax(1.48rem, auto) minmax(1.35rem, auto) minmax(3.15rem, auto) minmax(4.5rem, 1fr) auto;
+  grid-template-rows: clamp(8rem, 18vh, 11.4rem)
+    var(--map-preview-meta-height)
+    var(--map-preview-kicker-height)
+    var(--map-preview-title-height)
+    minmax(4.5rem, 1fr)
+    var(--map-preview-cta-height);
   align-content: start;
   gap: clamp(0.34rem, 0.6vw, 0.54rem);
   align-self: stretch;
@@ -16080,7 +16090,12 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview):not(:has(img)) {
-  grid-template-rows: minmax(1.48rem, auto) minmax(1.35rem, auto) minmax(3.15rem, auto) minmax(4.5rem, 1fr) auto;
+  grid-template-rows:
+    var(--map-preview-meta-height)
+    var(--map-preview-kicker-height)
+    var(--map-preview-title-height)
+    minmax(4.5rem, 1fr)
+    var(--map-preview-cta-height);
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview):hover {
@@ -16103,8 +16118,8 @@ a.fr-book-fit:focus-visible {
   display: -webkit-box;
   font-size: clamp(1.05rem, 0.36vw + 0.98rem, 1.18rem);
   line-height: 1.14;
-  min-height: calc(1.14em * 2);
-  max-height: calc(1.14em * 2);
+  min-height: var(--map-preview-title-height);
+  max-height: var(--map-preview-title-height);
   overflow: hidden;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
@@ -16124,9 +16139,21 @@ a.fr-book-fit:focus-visible {
 
 :where(.interactive-map-preview-meta, .uap-world-map-preview-meta) {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 0.34rem;
   align-items: center;
+  min-height: var(--map-preview-meta-height);
+  max-height: var(--map-preview-meta-height);
+  overflow: hidden;
+}
+
+:where(.interactive-map-preview-kicker, .uap-world-map-preview-kicker) {
+  display: block;
+  min-height: var(--map-preview-kicker-height);
+  max-height: var(--map-preview-kicker-height);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 :where(.interactive-map-preview-chip, .uap-world-map-preview-chip),
@@ -16135,6 +16162,8 @@ a.fr-book-fit:focus-visible {
   display: inline-flex;
   align-items: center;
   min-height: 1.48rem;
+  max-height: 1.48rem;
+  max-width: 100%;
   padding: 0.18rem 0.46rem;
   border: 1px solid rgba(126, 210, 223, 0.28);
   border-radius: 999px;
@@ -16145,6 +16174,9 @@ a.fr-book-fit:focus-visible {
   font-weight: 760;
   letter-spacing: 0.035em;
   text-transform: uppercase;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 :where(button.interactive-map-preview-chip-action, button.uap-world-map-preview-chip-action) {
@@ -16179,6 +16211,8 @@ a.fr-book-fit:focus-visible {
   align-items: center;
   gap: 0.3rem;
   margin-top: 0.24rem;
+  min-height: var(--map-preview-cta-height);
+  max-height: var(--map-preview-cta-height);
   padding: 0.46rem 0.7rem;
   border-radius: 999px;
   background: linear-gradient(135deg, rgba(217, 130, 43, 0.92), rgba(242, 166, 74, 0.82));
