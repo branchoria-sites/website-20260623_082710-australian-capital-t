@@ -16022,6 +16022,7 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview) img {
+  grid-row: 1;
   width: 100%;
   height: clamp(8rem, 18vh, 11.4rem);
   max-height: clamp(8rem, 18vh, 11.4rem);
@@ -16033,6 +16034,7 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview) strong {
+  grid-row: 4;
   display: -webkit-box;
   font-size: clamp(1.05rem, 0.36vw + 0.98rem, 1.18rem);
   line-height: 1.12;
@@ -16046,6 +16048,7 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview) :where(span[data-interactive-map-preview-summary], span[data-uap-world-map-preview-summary]) {
+  grid-row: 5;
   display: -webkit-box;
   margin-top: 0;
   font-size: 0.9rem;
@@ -16059,6 +16062,7 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-preview-meta, .uap-world-map-preview-meta) {
+  grid-row: 2;
   display: flex;
   flex-wrap: nowrap;
   gap: 0.34rem;
@@ -16069,12 +16073,17 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-preview-kicker, .uap-world-map-preview-kicker) {
+  grid-row: 3;
   display: block;
   min-height: var(--map-preview-kicker-height);
   max-height: var(--map-preview-kicker-height);
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+:where(.interactive-map-preview-kicker, .uap-world-map-preview-kicker).is-placeholder {
+  visibility: hidden;
 }
 
 :where(.interactive-map-preview-chip, .uap-world-map-preview-chip),
@@ -16126,6 +16135,7 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-preview-cta, .uap-world-map-preview-cta) {
+  grid-row: 7;
   align-self: end;
   justify-self: start;
   display: inline-flex;
@@ -16145,6 +16155,26 @@ a.fr-book-fit:focus-visible {
   letter-spacing: 0.04em;
   text-transform: uppercase;
   box-shadow: 0 12px 26px rgba(217, 130, 43, 0.24);
+}
+
+:where(.interactive-map-preview, .uap-world-map-preview):not(:has(img)) :where(.interactive-map-preview-meta, .uap-world-map-preview-meta) {
+  grid-row: 1;
+}
+
+:where(.interactive-map-preview, .uap-world-map-preview):not(:has(img)) :where(.interactive-map-preview-kicker, .uap-world-map-preview-kicker) {
+  grid-row: 2;
+}
+
+:where(.interactive-map-preview, .uap-world-map-preview):not(:has(img)) strong {
+  grid-row: 3;
+}
+
+:where(.interactive-map-preview, .uap-world-map-preview):not(:has(img)) :where(span[data-interactive-map-preview-summary], span[data-uap-world-map-preview-summary]) {
+  grid-row: 4;
+}
+
+:where(.interactive-map-preview, .uap-world-map-preview):not(:has(img)) :where(.interactive-map-preview-cta, .uap-world-map-preview-cta) {
+  grid-row: 6;
 }
 
 :where(.interactive-map-preview-cta, .uap-world-map-preview-cta)::after {

@@ -9996,9 +9996,10 @@
         var imageHtml = imageUrl ? '<img src="' + escapeHtml(imageUrl) + '" alt="" loading="eager" decoding="async" fetchpriority="high">' : '';
         var previewLabel = getItemLabel(item);
         var previewTitle = getItemTitle(item);
-        var kickerHtml = shouldShowPreviewKicker(previewLabel, previewTitle)
+        var showKicker = shouldShowPreviewKicker(previewLabel, previewTitle);
+        var kickerHtml = showKicker
           ? '<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">' + escapeHtml(previewLabel) + '</span>'
-          : '';
+          : '<span class="interactive-map-preview-kicker uap-world-map-preview-kicker is-placeholder" aria-hidden="true">&nbsp;</span>';
         preview.innerHTML = imageHtml
           + getPreviewMetaHtml(item)
           + kickerHtml
