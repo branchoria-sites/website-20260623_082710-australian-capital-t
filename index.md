@@ -175,7 +175,7 @@ site_image_description: A quiet Canberra airport control tower at dusk with runw
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-  <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="australia" data-map-item-type="state" data-map-label="UFO and UAP Australian states and territories map" data-map-fallback-summary="Open this state or territory file from the map." data-map-src="{{ 'assets/maps/australia.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/australian-states.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="AU-ACT" data-map-preview-preload="all">
+  <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="australia" data-map-item-type="state" data-map-label="UFO and UAP Australian states and territories map" data-map-fallback-summary="Open this state or territory file from the map." data-map-src="{{ 'assets/maps/australia.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/australian-states.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="AU-WA" data-map-preview-preload="all">
     <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
     <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
       <img src="{{ '/assets/images/Australian_Capital_T_2949ba-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
@@ -194,4 +194,3 @@ site_image_description: A quiet Canberra airport control tower at dusk with runw
   <p class="home-map-panel-source"><a href="https://mapsvg.com/maps/australia" rel="license noopener" target="_blank">Map source (CC0 1.0 Universal)</a></p>
   <p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
 </section>
-
