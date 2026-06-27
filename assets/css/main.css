@@ -15654,6 +15654,7 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-shell, .uap-world-map-shell) {
+  --interactive-map-frame-height: clamp(22rem, 32vw, 31.5rem);
   position: relative;
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(18rem, 0.34fr);
@@ -15684,7 +15685,9 @@ a.fr-book-fit:focus-visible {
   position: relative;
   overflow: hidden;
   touch-action: pan-y;
-  min-height: clamp(19rem, 54vh, 35rem);
+  height: var(--interactive-map-frame-height);
+  min-height: 0;
+  max-height: var(--interactive-map-frame-height);
   border: 1px solid rgba(255, 255, 255, 0.58);
   border-radius: 20px;
   background:
@@ -15730,7 +15733,7 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
-  min-height: clamp(19rem, 54vh, 35rem);
+  min-height: 0;
 }
 
 :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas),
@@ -15870,6 +15873,10 @@ a.fr-book-fit:focus-visible {
   pointer-events: auto;
 }
 
+:where(.interactive-map-pan-control, .uap-world-map-pan-control)[hidden] {
+  display: none !important;
+}
+
 :where(.interactive-map-pan-controls, .uap-world-map-pan-controls) {
   position: absolute;
   inset: 0;
@@ -15975,9 +15982,9 @@ a.fr-book-fit:focus-visible {
   align-content: start;
   gap: clamp(0.34rem, 0.6vw, 0.54rem);
   align-self: stretch;
-  height: 100%;
+  height: var(--interactive-map-frame-height);
   min-height: 0;
-  max-height: none;
+  max-height: var(--interactive-map-frame-height);
   overflow: hidden;
   padding: clamp(0.9rem, 1.4vw, 1.1rem);
   border-color: rgba(255, 255, 255, 0.56);
@@ -16222,7 +16229,9 @@ a.fr-book-fit:focus-visible {
 
   :where(.interactive-map-canvas, .uap-world-map-canvas),
   :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
+    height: auto;
     min-height: 15rem;
+    max-height: none;
   }
 
   :where(.interactive-map-canvas, .uap-world-map-canvas)::after {

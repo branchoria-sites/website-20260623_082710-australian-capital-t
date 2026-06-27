@@ -9516,7 +9516,9 @@
         }
         button.hidden = !isAvailable;
         button.disabled = !isAvailable;
+        button.classList.toggle('is-available', Boolean(isAvailable));
         button.setAttribute('aria-hidden', isAvailable ? 'false' : 'true');
+        button.setAttribute('tabindex', isAvailable ? '0' : '-1');
       };
       var updatePanControls = function() {
         var limits = getPanLimits();
@@ -9635,6 +9637,10 @@
         var factor = event.deltaY < 0 ? 1.18 : 1 / 1.18;
         setZoom(zoomState.scale * factor, event.clientX - rect.left, event.clientY - rect.top);
       }, { passive: false });
+      window.addEventListener('resize', function() {
+        clampPan();
+        applyZoom();
+      });
       var dragState = null;
       var activePointers = {};
       var pinchState = null;
