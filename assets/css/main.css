@@ -15715,8 +15715,8 @@ a.fr-book-fit:focus-visible {
 :where(.interactive-map-canvas, .uap-world-map-canvas)::after {
   content: "Click a highlighted area";
   position: absolute;
-  right: 0.85rem;
-  bottom: 0.75rem;
+  right: 1.55rem;
+  bottom: 1rem;
   z-index: 2;
   padding: 0.36rem 0.62rem;
   border: 1px solid rgba(255, 255, 255, 0.5);
@@ -15891,7 +15891,7 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-pan-control-right, .uap-world-map-pan-control-right) {
-  right: 0.8rem;
+  right: 1.3rem;
   top: 50%;
   transform: translateY(-50%);
 }
@@ -15970,14 +15970,16 @@ a.fr-book-fit:focus-visible {
   --map-preview-image-height: clamp(8rem, 18vh, 11.4rem);
   --map-preview-meta-height: 1.52rem;
   --map-preview-kicker-height: 1.28rem;
-  --map-preview-title-height: clamp(3.95rem, 5vw, 4.35rem);
+  --map-preview-title-height: clamp(4.75rem, 6vw, 5.25rem);
+  --map-preview-summary-height: calc(1.42em * 3);
   --map-preview-cta-height: 2.2rem;
   display: grid;
   grid-template-rows: clamp(8rem, 18vh, 11.4rem)
     var(--map-preview-meta-height)
     var(--map-preview-kicker-height)
     var(--map-preview-title-height)
-    minmax(4.5rem, 1fr)
+    var(--map-preview-summary-height)
+    minmax(0.55rem, 1fr)
     var(--map-preview-cta-height);
   align-content: start;
   gap: clamp(0.34rem, 0.6vw, 0.54rem);
@@ -16009,7 +16011,8 @@ a.fr-book-fit:focus-visible {
     var(--map-preview-meta-height)
     var(--map-preview-kicker-height)
     var(--map-preview-title-height)
-    minmax(4.5rem, 1fr)
+    var(--map-preview-summary-height)
+    minmax(0.55rem, 1fr)
     var(--map-preview-cta-height);
 }
 
@@ -16046,13 +16049,13 @@ a.fr-book-fit:focus-visible {
   display: -webkit-box;
   margin-top: 0;
   font-size: 0.9rem;
-  line-height: 1.5;
-  min-height: calc(1.5em * 4);
-  max-height: calc(1.5em * 4);
+  line-height: 1.42;
+  min-height: var(--map-preview-summary-height);
+  max-height: var(--map-preview-summary-height);
   overflow: hidden;
   contain: paint;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 4;
+  -webkit-line-clamp: 3;
 }
 
 :where(.interactive-map-preview-meta, .uap-world-map-preview-meta) {
@@ -16129,6 +16132,7 @@ a.fr-book-fit:focus-visible {
   align-items: center;
   gap: 0.3rem;
   margin-top: 0.24rem;
+  margin-left: clamp(0.35rem, 0.8vw, 0.72rem);
   min-height: var(--map-preview-cta-height);
   max-height: var(--map-preview-cta-height);
   padding: 0.46rem 0.7rem;
