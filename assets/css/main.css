@@ -15967,14 +15967,14 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview) {
-  --map-preview-image-height: clamp(8rem, 18vh, 11.4rem);
+  --map-preview-image-height: clamp(7.2rem, 16vh, 10.2rem);
   --map-preview-meta-height: 1.52rem;
   --map-preview-kicker-height: 1.28rem;
-  --map-preview-title-height: clamp(4.75rem, 6vw, 5.25rem);
-  --map-preview-summary-height: calc(1.42em * 3);
+  --map-preview-title-height: clamp(4rem, 5vw, 4.35rem);
+  --map-preview-summary-height: calc(1.36em * 3);
   --map-preview-cta-height: 2.2rem;
   display: grid;
-  grid-template-rows: clamp(8rem, 18vh, 11.4rem)
+  grid-template-rows: var(--map-preview-image-height)
     var(--map-preview-meta-height)
     var(--map-preview-kicker-height)
     var(--map-preview-title-height)
@@ -15982,13 +15982,13 @@ a.fr-book-fit:focus-visible {
     minmax(0.55rem, 1fr)
     var(--map-preview-cta-height);
   align-content: start;
-  gap: clamp(0.34rem, 0.6vw, 0.54rem);
+  gap: clamp(0.24rem, 0.48vw, 0.42rem);
   align-self: stretch;
   height: var(--interactive-map-frame-height);
   min-height: 0;
   max-height: var(--interactive-map-frame-height);
   overflow: hidden;
-  padding: clamp(0.9rem, 1.4vw, 1.1rem);
+  padding: clamp(0.72rem, 1.1vw, 0.9rem);
   border-color: rgba(255, 255, 255, 0.56);
   border-radius: 20px;
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.82), rgba(244, 250, 252, 0.66));
@@ -16024,8 +16024,8 @@ a.fr-book-fit:focus-visible {
 :where(.interactive-map-preview, .uap-world-map-preview) img {
   grid-row: 1;
   width: 100%;
-  height: clamp(8rem, 18vh, 11.4rem);
-  max-height: clamp(8rem, 18vh, 11.4rem);
+  height: var(--map-preview-image-height);
+  max-height: var(--map-preview-image-height);
   margin: 0;
   object-fit: cover;
   border: 1px solid rgba(255, 255, 255, 0.64);
@@ -16052,7 +16052,7 @@ a.fr-book-fit:focus-visible {
   display: -webkit-box;
   margin-top: 0;
   font-size: 0.9rem;
-  line-height: 1.42;
+  line-height: 1.36;
   min-height: var(--map-preview-summary-height);
   max-height: var(--map-preview-summary-height);
   overflow: hidden;
