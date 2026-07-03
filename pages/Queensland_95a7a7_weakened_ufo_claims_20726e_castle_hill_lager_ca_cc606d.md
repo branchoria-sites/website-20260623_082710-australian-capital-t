@@ -256,7 +256,7 @@ image: /assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e_castle_hill_l
 
 ## Introduction
 
-The Castle Hill lager-carton incident is one of the clearest examples in [Queensland]({{ 'queenslands-ufo-stories-evidence-and/' | relative_url }}) UFO history of a mystery disappearing once someone could inspect the object directly. Reported at Townsville’s Castle Hill on 24 June 1965, the case began when a strange shape was spotted lodged in a crevice on the face of the prominent granite hill overlooking the city. From a distance, observers could not determine what it was. The object looked unusual enough to attract [official attention]({{ 'official-attention/' | relative_url }}), yet the outcome was strikingly ordinary: after a close inspection, it proved to be an empty Foster’s lager carton. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
+The Castle Hill lager-carton incident is one of the clearest examples in [Queensland]({{ 'queenslands-ufo-stories-evidence-and/' | relative_url }}) UFO history of a mystery disappearing once someone could inspect the object directly. Reported at Townsville’s Castle Hill on 24 June 1965, the case began when a strange shape was spotted lodged in a crevice on the face of the prominent granite hill overlooking the city. From a distance, observers could not determine what it was. The object looked unusual enough to attract [official attention]({{ 'official-attention/' | relative_url }}), yet the outcome was strikingly ordinary: after a close inspection, it proved to be an empty Foster’s lager carton.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e_castle_hill_lager_ca_cc606d-Illustration-1-dark.svg" | relative_url }}" alt="Castle Hill illustration 1" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e_castle_hill_lager_ca_cc606d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e_castle_hill_lager_ca_cc606d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -267,11 +267,11 @@ Within the wider history of solved and weakened Queensland UFO claims, the value
 
 ## What was seen on Castle Hill
 
-Castle Hill dominates the Townsville skyline, rising abruptly above the surrounding city and creating steep rock faces and inaccessible crevices. In June 1965, observers noticed a peculiar object lodged in one of those crevices. Because of its position on the cliff face, the object could not be examined closely from the ground. Even binoculars failed to identify it with confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
+Castle Hill dominates the Townsville skyline, rising abruptly above the surrounding city and creating steep rock faces and inaccessible crevices. In June 1965, observers noticed a peculiar object lodged in one of those crevices. Because of its position on the cliff face, the object could not be examined closely from the ground. Even binoculars failed to identify it with confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
 
 The surviving archival account describes the object as sufficiently unusual that attempts were made to determine its nature through observation alone. Those attempts failed. The case therefore entered the category that often produces UFO reports: something visible, apparently unusual, and not immediately identifiable.
 
-An important detail is that this was not a report of a structured craft manoeuvring through the sky. The mystery centred on a stationary object whose appearance changed depending on the observer’s distance and viewing angle. The uncertainty arose from lack of access rather than extraordinary behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
+An important detail is that this was not a report of a structured craft manoeuvring through the sky. The mystery centred on a stationary object whose appearance changed depending on the observer’s distance and viewing angle. The uncertainty arose from lack of access rather than extraordinary behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yM7YtfUhEWM" title="Queensland&#x27;s X-Files: UFO sightings in North Queensland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer">Queensland&#x27;s X-Files: UFO sightings in North Queensland</a></p><p class="youtube-embed-meta">Channel: Queensland State Archives &middot; Views: 50.1K &middot; Uploaded: September 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yM7YtfUhEWM">Open on YouTube</a></p></div></div></div>
@@ -280,7 +280,7 @@ An important detail is that this was not a report of a structured craft manoeuvr
 
 Instead of leaving the matter unresolved, investigators arranged a direct examination.
 
-According to the Queensland State Archives record, a rope was obtained from the RAAF Marine Section in Townsville. A member of the section was lowered over the cliff face to reach the object. Once close enough to inspect it properly, he identified it immediately as an empty carton of Foster’s lager and removed it from the crevice. The rope was then returned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
+According to the Queensland State Archives record, a rope was obtained from the RAAF Marine Section in Townsville. A member of the section was lowered over the cliff face to reach the object. Once close enough to inspect it properly, he identified it immediately as an empty carton of Foster’s lager and removed it from the crevice. The rope was then returned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
 
 The sequence is important because it shows the difference between observation and verification.
 
@@ -306,7 +306,7 @@ After direct access:
 
 </div>
 
-Many UFO cases never progress beyond the first stage. Witnesses see something unusual but cannot approach it, photograph it clearly, or recover it. The Castle Hill incident is unusual because investigators were able to move from uncertainty to direct inspection and obtain a definitive answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
+Many UFO cases never progress beyond the first stage. Witnesses see something unusual but cannot approach it, photograph it clearly, or recover it. The Castle Hill incident is unusual because investigators were able to move from uncertainty to direct inspection and obtain a definitive answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e_castle_hill_lager_ca_cc606d-Illustration-2-dark.svg" | relative_url }}" alt="Castle Hill illustration 2" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e_castle_hill_lager_ca_cc606d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e_castle_hill_lager_ca_cc606d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,9 +314,9 @@ Many UFO cases never progress beyond the first stage. Witnesses see something un
 
 One reason the Castle Hill case remains useful is that it highlights a common misunderstanding in UFO history: official involvement is not evidence that a UFO claim is true.
 
-The incident involved police reporting and assistance from a Royal Australian Air Force unit. To some readers, that level of attention might sound impressive. Yet the official involvement did not strengthen an extraordinary interpretation. Instead, it helped eliminate one. The purpose of the inspection was to determine what the object was, not to validate a UFO explanation. The investigation succeeded precisely because it produced a mundane answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
+The incident involved police reporting and assistance from a Royal Australian Air Force unit. To some readers, that level of attention might sound impressive. Yet the official involvement did not strengthen an extraordinary interpretation. Instead, it helped eliminate one. The purpose of the inspection was to determine what the object was, not to validate a UFO explanation. The investigation succeeded precisely because it produced a mundane answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
 
-This pattern appears repeatedly in government and military UFO files internationally. Authorities often investigate reports because they are unexplained at the time, not because they are believed to represent alien spacecraft or unknown technology. Many archived cases begin as mysteries and end as aircraft, balloons, astronomical objects, debris or other ordinary causes once sufficient information becomes available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
+This pattern appears repeatedly in government and military UFO files internationally. Authorities often investigate reports because they are unexplained at the time, not because they are believed to represent alien spacecraft or unknown technology. Many archived cases begin as mysteries and end as aircraft, balloons, astronomical objects, debris or other ordinary causes once sufficient information becomes available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
 Castle Hill provides a particularly clean example because the object was recovered and identified rather than merely assigned a probable explanation.
 
@@ -333,202 +333,202 @@ The case illustrates three recurring features of UFO reports:
 
 **Access matters.** An inaccessible location can prevent observers from gathering the information needed for identification.
 
-**“Unidentified” is not the same as “unexplainable”.** The object genuinely was unidentified at first. That status changed once better evidence became available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
+**“Unidentified” is not the same as “unexplainable”.** The object genuinely was unidentified at first. That status changed once better evidence became available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
 
-For historians of Queensland UFO reports, the Castle Hill lager carton stands as a reminder that some mysteries survive only because nobody can get close enough to look properly. In this case, once someone did, the apparent UFO turned out to be a piece of discarded packaging lodged in a cliff face. The investigation did not reveal something extraordinary hidden behind an ordinary explanation. It revealed that the ordinary explanation had been there all along. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
+For historians of Queensland UFO reports, the Castle Hill lager carton stands as a reminder that some mysteries survive only because nobody can get close enough to look properly. In this case, once someone did, the apparent UFO turned out to be a piece of discarded packaging lodged in a cliff face. The investigation did not reveal something extraordinary hidden behind an ordinary explanation. It revealed that the ordinary explanation had been there all along.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Stories from the Archives Queensland&#x27;s X-Files: UFO sightings in North Queensland</span><span class="citation-popover-snippet">Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters ...Read more</span></span></span>
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e_castle_hill_lager_ca_cc606d-Illustration-3-dark.svg" | relative_url }}" alt="Castle Hill illustration 3" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e_castle_hill_lager_ca_cc606d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e_castle_hill_lager_ca_cc606d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a UFO was just a beer carton. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a UFO was just a beer carton. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides the broader UFO-investigation context that helps readers understand how unusual sightings are assessed and often resolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the broader UFO-investigation context that helps readers understand how unusual sightings are assessed and often resolved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explores perception, belief, and misinterpretation, all central to understanding how mundane objects become UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explores perception, belief, and misinterpretation, all central to understanding how mundane objects become UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Focuses on mistaken identifications and conventional explanations, closely matching the theme of this solved case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on mistaken identifications and conventional explanations, closely matching the theme of this solved case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly supports the lesson of the beer-carton incident: careful investigation can turn mysteries into ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the lesson of the beer-carton incident: careful investigation can turn mysteries into ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="castle-hill-when-a-ufo-was-just-a-beer-carton-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-ufo-was-just-a-beer-carton-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ For historians of Queensland UFO reports, the Castle Hill lager carton stands as
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ For historians of Queensland UFO reports, the Castle Hill lager carton stands as
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ For historians of Queensland UFO reports, the Castle Hill lager carton stands as
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ For historians of Queensland UFO reports, the Castle Hill lager carton stands as
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ For historians of Queensland UFO reports, the Castle Hill lager carton stands as
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,86 +734,86 @@ For historians of Queensland UFO reports, the Castle Hill lager carton stands as
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: queensland.com  
    Title: Castle Hill  
-   Link: <a href="https://www.queensland.com/au/en/things-to-do/attractions/p-56b260ae7b935fbe730e0344-castle-hill" target="_blank" rel="noopener noreferrer nofollow">https://www.queensland.com/au/en/things-to-do/attractions/p-56b260ae7b935fbe730e0344-castle-hill</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Just metres short of a mountain, Castle Hill is the giant pink granite monolith that stands proud in the centre of Townsville...</p></details>
+   Link:<a href="https://www.queensland.com/au/en/things-to-do/attractions/p-56b260ae7b935fbe730e0344-castle-hill" target="_blank" rel="noopener noreferrer nofollow">https://www.queensland.com/au/en/things-to-do/attractions/p-56b260ae7b935fbe730e0344-castle-hill</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just metres short of a mountain, Castle Hill is the giant pink granite monolith that stands proud in the centre of Townsville...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?9 Feb 2018 — The National Archives and Records Administration is actually home to several collections of documents pertaining to unident...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?9 Feb 2018 — The National Archives and Records Administration is actually home to several collections of documents pertaining to unident...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: blogs.archives.qld.gov.au  
-   Link: <a href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-[north-queensland" target="_blank" rel="noopener noreferrer nofollow">https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-[north-queensland</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters...Read more...</p></details>
+   Link:<a href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-[north-queensland" target="_blank" rel="noopener noreferrer nofollow">https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-[north-queensland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marine Section was lowered over the cliff. [And] he identified the object as an empty carton of Fosters...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: townsville.qld.gov.au  
-   Link: <a href="https://www.townsville.qld.gov.au/__data/assets/pdf_file/0023/5378/In-the-Shadow-of-Castle-Hill.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.townsville.qld.gov.au/__data/assets/pdf_file/0023/5378/In-the-Shadow-of-Castle-Hill.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the Shadow of Castle HillRAAF Photographer. of Melton Hill known as The Rocks. This outcrop originally extended into the sea from Melt...</p></details>
+   Link:<a href="https://www.townsville.qld.gov.au/__data/assets/pdf_file/0023/5378/In-the-Shadow-of-Castle-Hill.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.townsville.qld.gov.au/__data/assets/pdf_file/0023/5378/In-the-Shadow-of-Castle-Hill.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the Shadow of Castle HillRAAF Photographer. of Melton Hill known as The Rocks. This outcrop originally extended into the sea from Melt...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCRadio4/videos/thatis-no-satellite-investigate-the-original-ufo-case-with-us-in-this-weeks-epis/1985185992370112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCRadio4/videos/thatis-no-satellite-investigate-the-original-ufo-case-with-us-in-this-weeks-epis/1985185992370112/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nnyColdCases! Can what Betty and Barney Hill experienced all those...</p></details>
+   Link:<a href="https://www.facebook.com/BBCRadio4/videos/thatis-no-satellite-investigate-the-original-ufo-case-with-us-in-this-weeks-epis/1985185992370112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCRadio4/videos/thatis-no-satellite-investigate-the-original-ufo-case-with-us-in-this-weeks-epis/1985185992370112/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nnyColdCases! Can what Betty and Barney Hill experienced all those...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: marinersnorth.com.au  
    Title: unearth townsvilles history and culture  
-   Link: <a href="https://www.marinersnorth.com.au/unearth-townsvilles-history-and-culture/" target="_blank" rel="noopener noreferrer nofollow">https://www.marinersnorth.com.au/unearth-townsvilles-history-and-culture/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>25 May 2023 — Located in the heart of Townsville, the Queensland Museum Tropics explores life in the tropics from prehistoric times to th...</p></details>
+   Link:<a href="https://www.marinersnorth.com.au/unearth-townsvilles-history-and-culture/" target="_blank" rel="noopener noreferrer nofollow">https://www.marinersnorth.com.au/unearth-townsvilles-history-and-culture/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 May 2023 — Located in the heart of Townsville, the Queensland Museum Tropics explores life in the tropics from prehistoric times to th...</p></details>
    Published: May 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: navyhistory.au  
    Title: the raaf and the ufos some of the story  
-   Link: <a href="https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/" target="_blank" rel="noopener noreferrer nofollow">https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The RAAF and the UFO&#x27;s: some of the story11 Jul 2021 — RAAF&#x27;s investigation of Unidentified Flying Objects – UFO&#x27;s. UFO sightings became...</p></details>
+   Link:<a href="https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/" target="_blank" rel="noopener noreferrer nofollow">https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The RAAF and the UFO&#x27;s: some of the story11 Jul 2021 — RAAF&#x27;s investigation of Unidentified Flying Objects – UFO&#x27;s. UFO sightings became...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSTownsville/videos/60-years-ago-the-worlds-ufo-attention-turned-to-far-north-queensland/26751342061122234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSTownsville/videos/60-years-ago-the-worlds-ufo-attention-turned-to-far-north-queensland/26751342061122234/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Queensland where locals claimed a UFO had touched down in a...</p></details>
+   Link:<a href="https://www.facebook.com/7NEWSTownsville/videos/60-years-ago-the-worlds-ufo-attention-turned-to-far-north-queensland/26751342061122234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSTownsville/videos/60-years-ago-the-worlds-ufo-attention-turned-to-far-north-queensland/26751342061122234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Queensland where locals claimed a UFO had touched down in a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DKWgb-ltfqn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DKWgb-ltfqn/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Island. Day 3 delivered big on scenery and challenge...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DKWgb-ltfqn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DKWgb-ltfqn/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Island. Day 3 delivered big on scenery and challenge...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: townsvillebulletin.com.au  
-   Link: <a href="https://www.townsvillebulletin.com.au/news/20-townsville-ufo-sightings/news-story/01311b900767af6ebb5d41769576f605" target="_blank" rel="noopener noreferrer nofollow">https://www.townsvillebulletin.com.au/news/20-townsville-ufo-sightings/news-story/01311b900767af6ebb5d41769576f605</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Townsville UFO sightings28 Jul 2017 — THE truth is out there. Twenty frightened Townsville residents have reporting seeing unidentifie...</p></details>
+   Link:<a href="https://www.townsvillebulletin.com.au/news/20-townsville-ufo-sightings/news-story/01311b900767af6ebb5d41769576f605" target="_blank" rel="noopener noreferrer nofollow">https://www.townsvillebulletin.com.au/news/20-townsville-ufo-sightings/news-story/01311b900767af6ebb5d41769576f605</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Townsville UFO sightings28 Jul 2017 — THE truth is out there. Twenty frightened Townsville residents have reporting seeing unidentifie...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcnews.au/videos/did-you-know-a-crop-circle-phenomenon-was-inspired-by-this-mystery-in-far-north-/1111241240569665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/videos/did-you-know-a-crop-circle-phenomenon-was-inspired-by-this-mystery-in-far-north-/1111241240569665/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>but it came from the most unlikely person...</p></details>
+   Link:<a href="https://www.facebook.com/abcnews.au/videos/did-you-know-a-crop-circle-phenomenon-was-inspired-by-this-mystery-in-far-north-/1111241240569665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/videos/did-you-know-a-crop-circle-phenomenon-was-inspired-by-this-mystery-in-far-north-/1111241240569665/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>but it came from the most unlikely person...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vmYIuvD3tkw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vmYIuvD3tkw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>that behave in ways that can&#x27;t be explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vmYIuvD3tkw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vmYIuvD3tkw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>that behave in ways that can&#x27;t be explained...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Global crop circle phenomenon inspired by UFO mystery in Far North Queensland?  
-   Link: <a href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0YvaAlgokSs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0YvaAlgokSs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Queensland's X-Files: UFO sightings in North Queensland  
-   Link: <a href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yM7YtfUhEWM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global crop circle phenomenon inspired by UFO mystery in Far North Queensland?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yM7YtfUhEWM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global crop circle phenomenon inspired by UFO mystery in Far North Queensland?...</p></details>

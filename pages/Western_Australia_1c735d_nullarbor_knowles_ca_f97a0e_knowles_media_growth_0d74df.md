@@ -262,7 +262,7 @@ image: /assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowl
 
 ## Introduction
 
-The [Nullarbor Knowles]({{ 'nullarbor/' | relative_url }}) incident became more than a reported UFO encounter because it arrived at the perfect moment for a media explosion. Within days of the family's report to police in January 1988, the story had moved from a remote highway near the [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }})–South Australia border to front pages, radio bulletins, television news programmes and overseas wire services. What began as a police matter involving frightened motorists quickly became one of Australia's most famous UFO stories. The growth of the case illustrates a recurring pattern in UFO history: early uncertainty is often replaced in public memory by a simplified, dramatic version that proves much harder to dislodge later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove+2UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reportedADELAIDE: A Perth family say they were terrorised by a UFO which plucked thei...</span></span></span>
+The [Nullarbor Knowles]({{ 'nullarbor/' | relative_url }}) incident became more than a reported UFO encounter because it arrived at the perfect moment for a media explosion. Within days of the family's report to police in January 1988, the story had moved from a remote highway near the [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }})–South Australia border to front pages, radio bulletins, television news programmes and overseas wire services. What began as a police matter involving frightened motorists quickly became one of Australia's most famous UFO stories. The growth of the case illustrates a recurring pattern in UFO history: early uncertainty is often replaced in public memory by a simplified, dramatic version that proves much harder to dislodge later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reportedADELAIDE: A Perth family say they were terrorised by a UFO which plucked thei...</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_media_growth_0d74df-Illustration-1-dark.svg" | relative_url }}" alt="Media growth illustration 1" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_media_growth_0d74df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_media_growth_0d74df-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -273,9 +273,9 @@ For understanding the Knowles case within Western Australia's UFO history, the m
 
 ## From Ceduna police report to national headlines
 
-The first reports already contained elements guaranteed to attract attention. Newspapers described a family claiming that a glowing object had chased their car, lifted it from the road and left unusual residue on the vehicle. Police statements that the witnesses appeared genuinely distressed added credibility in the eyes of many readers. Early coverage emphasised that officers were taking the matter seriously and that other motorists had reportedly seen unusual lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reportedADELAIDE: A Perth family say they were terrorised by a UFO which plucked thei...</span></span></span>
+The first reports already contained elements guaranteed to attract attention. Newspapers described a family claiming that a glowing object had chased their car, lifted it from the road and left unusual residue on the vehicle. Police statements that the witnesses appeared genuinely distressed added credibility in the eyes of many readers. Early coverage emphasised that officers were taking the matter seriously and that other motorists had reportedly seen unusual lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reportedADELAIDE: A Perth family say they were terrorised by a UFO which plucked thei...</span></span></span>
 
-The story travelled unusually fast for a remote outback incident. National newspapers carried versions of the account within days, and international news agencies distributed it abroad. Reports often highlighted the most dramatic claims: the alleged lifting of the vehicle, distorted voices, a blown tyre and apparent physical traces. These details made the incident stand out from ordinary reports of strange lights in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reportedADELAIDE: A Perth family say they were terrorised by a UFO which plucked thei...</span></span></span>
+The story travelled unusually fast for a remote outback incident. National newspapers carried versions of the account within days, and international news agencies distributed it abroad. Reports often highlighted the most dramatic claims: the alleged lifting of the vehicle, distorted voices, a blown tyre and apparent physical traces. These details made the incident stand out from ordinary reports of strange lights in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reportedADELAIDE: A Perth family say they were terrorised by a UFO which plucked thei...</span></span></span>
 
 As media interest grew, the Knowles family became public figures. Interviews were repeated across multiple outlets, and each retelling reinforced a common narrative structure: an ordinary family, a lonely highway, a terrifying encounter and apparently supportive police officers. This was a far more compelling story than a discussion of atmospheric optics, vehicle mechanics or witness perception.
 
@@ -284,21 +284,21 @@ As media interest grew, the Knowles family became public figures. Interviews wer
 
 ## How dramatic phrases shaped public memory
 
-One reason the Knowles case endured is that several memorable phrases became attached to it very early. Descriptions such as an object that "picked the car up off the road" or a UFO that "terrorised" a family were easy for journalists and readers to remember. Once these phrases entered headlines, they often became the defining features of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reportedADELAIDE: A Perth family say they were terrorised by a UFO which plucked thei...</span></span></span>
+One reason the Knowles case endured is that several memorable phrases became attached to it very early. Descriptions such as an object that "picked the car up off the road" or a UFO that "terrorised" a family were easy for journalists and readers to remember. Once these phrases entered headlines, they often became the defining features of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reportedADELAIDE: A Perth family say they were terrorised by a UFO which plucked thei...</span></span></span>
 
 The media also favoured visual and emotional details. The image of a frightened family hiding beside the Eyre Highway after their vehicle was supposedly attacked was more powerful than later technical discussions about timing discrepancies or atmospheric conditions. In public memory, vivid scenes tend to survive longer than complex analysis.
 
 Another factor was repetition. Each new article frequently referred back to previous reports rather than revisiting the original evidence from scratch. As a result, later accounts often treated earlier claims as established facts. The story gradually evolved from "a family reported an encounter" into "the famous Nullarbor UFO case". That shift may seem subtle, but it changed how many people understood the event.
 
-Over time, documentaries, magazine features and retrospective UFO collections tended to focus on the most sensational aspects because those were the details audiences already recognised. The case became part of Australian UFO folklore, regardless of whether every reported element could be supported by evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open...22 Feb 2018 — We&#x27;ll start in the outback, where a traumatised family w...</span></span></span>
+Over time, documentaries, magazine features and retrospective UFO collections tended to focus on the most sensational aspects because those were the details audiences already recognised. The case became part of Australian UFO folklore, regardless of whether every reported element could be supported by evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open...22 Feb 2018 — We&#x27;ll start in the outback, where a traumatised family w...</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_media_growth_0d74df-Illustration-2-dark.svg" | relative_url }}" alt="Media growth illustration 2" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_media_growth_0d74df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_media_growth_0d74df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why later technical work struggled to catch up
 
-The difficulty for later investigators was that sceptical [explanations]({{ 'explanations-7a0dd2/' | relative_url }}) rarely generate the same attention as a dramatic original report. After the initial media surge, researchers examined witness statements, timelines, weather conditions and possible astronomical or atmospheric explanations. Retired meteorologist A. T. Brunt's investigation argued that aspects of the sighting could be explained by unusual atmospheric refraction affecting distant lights, combined with stress and misinterpretation during a high-speed night-time drive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">From the archives: The 1988 Nullarbor UFO Mystery – Solved. By A.T. Brunt. 5th December 1989. Facebook · Twitter · WhatsApp · Email.Read...</span><span class="citation-popover-meta">Published: December 1989</span></span></span>
+The difficulty for later investigators was that sceptical [explanations]({{ 'explanations-7a0dd2/' | relative_url }}) rarely generate the same attention as a dramatic original report. After the initial media surge, researchers examined witness statements, timelines, weather conditions and possible astronomical or atmospheric explanations. Retired meteorologist A. T. Brunt's investigation argued that aspects of the sighting could be explained by unusual atmospheric refraction affecting distant lights, combined with stress and misinterpretation during a high-speed night-time drive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">From the archives: The 1988 Nullarbor UFO Mystery – Solved. By A.T. Brunt. 5th December 1989. Facebook · Twitter · WhatsApp · Email.Read...</span><span class="citation-popover-meta">Published: December 1989</span></span></span>
 
-These investigations appeared much later and in more specialised publications than the original headlines. By then, many members of the public had already formed an impression of the case. Corrective or alternative explanations rarely received equal coverage. Even when sceptical analyses challenged major parts of the story, they were competing against a narrative that had already become widely known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">From the archives: The 1988 Nullarbor UFO Mystery – Solved. By A.T. Brunt. 5th December 1989. Facebook · Twitter · WhatsApp · Email.Read...</span><span class="citation-popover-meta">Published: December 1989</span></span></span>
+These investigations appeared much later and in more specialised publications than the original headlines. By then, many members of the public had already formed an impression of the case. Corrective or alternative explanations rarely received equal coverage. Even when sceptical analyses challenged major parts of the story, they were competing against a narrative that had already become widely known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">From the archives: The 1988 Nullarbor UFO Mystery – Solved. By A.T. Brunt. 5th December 1989. Facebook · Twitter · WhatsApp · Email.Read...</span><span class="citation-popover-meta">Published: December 1989</span></span></span>
 
 This imbalance is common in famous UFO cases. The first version reaches the largest audience because it is new and dramatic. Subsequent technical work is often slower, more cautious and less newsworthy. As a result, public memory can become disconnected from the state of the evidence.
 
@@ -307,7 +307,7 @@ This imbalance is common in famous UFO cases. The first version reaches the larg
 
 ## How folklore replaced investigation
 
-The Knowles incident occupies an unusual place in Western Australian UFO history because it sits between a documented report and a modern legend. The original event involved real witnesses, police involvement and immediate publicity. Yet the version remembered decades later is often shaped more by media retellings than by the detailed investigations that followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reportedADELAIDE: A Perth family say they were terrorised by a UFO which plucked thei...</span></span></span>
+The Knowles incident occupies an unusual place in Western Australian UFO history because it sits between a documented report and a modern legend. The original event involved real witnesses, police involvement and immediate publicity. Yet the version remembered decades later is often shaped more by media retellings than by the detailed investigations that followed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reportedADELAIDE: A Perth family say they were terrorised by a UFO which plucked thei...</span></span></span>
 
 Several features encouraged this transformation:
 
@@ -318,204 +318,204 @@ Several features encouraged this transformation:
 * The witnesses appeared sincere and distressed.
 * Police comments were widely quoted.
 * The alleged physical effects on the vehicle sounded testable and concrete.
-* National and international coverage amplified the story before technical critiques emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove+2UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reportedADELAIDE: A Perth family say they were terrorised by a UFO which plucked thei...</span></span></span>
+* National and international coverage amplified the story before technical critiques emerged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reportedADELAIDE: A Perth family say they were terrorised by a UFO which plucked thei...</span></span></span>
 
 </div>
 
-The result was a case that became far larger than the available evidence. For many Australians, especially those interested in unexplained phenomena, the Knowles encounter remains the classic Nullarbor UFO story. Yet its lasting significance lies not only in what may have happened on the highway, but also in how media attention transformed a police report into enduring folklore. The case remains a useful reminder that publicity can strengthen a story's cultural impact even while later investigation weakens parts of the original claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">From the archives: The 1988 Nullarbor UFO Mystery – Solved. By A.T. Brunt. 5th December 1989. Facebook · Twitter · WhatsApp · Email.Read...</span><span class="citation-popover-meta">Published: December 1989</span></span></span>
+The result was a case that became far larger than the available evidence. For many Australians, especially those interested in unexplained phenomena, the Knowles encounter remains the classic Nullarbor UFO story. Yet its lasting significance lies not only in what may have happened on the highway, but also in how media attention transformed a police report into enduring folklore. The case remains a useful reminder that publicity can strengthen a story's cultural impact even while later investigation weakens parts of the original claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[skeptic.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">From the archives: The 1988 Nullarbor UFO Mystery – Solved. By A.T. Brunt. 5th December 1989. Facebook · Twitter · WhatsApp · Email.Read...</span><span class="citation-popover-meta">Published: December 1989</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_media_growth_0d74df-Illustration-3-dark.svg" | relative_url }}" alt="Media growth illustration 3" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_media_growth_0d74df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_media_growth_0d74df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How did the Nullarbor story become folklore?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How did the Nullarbor story become folklore?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly matches the page&#x27;s focus on a UFO case evolving into folklore and public memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches the page&#x27;s focus on a UFO case evolving into folklore and public memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly supports critical assessment of UFO reports, witness testimony and misperception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly supports critical assessment of UFO reports, witness testimony and misperception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=veNOAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Carl Gustav Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=veNOAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Carl Gustav Jung</p>
         
-        <p class="fr-book-desc">Explores the psychological and cultural processes that turn UFO reports into enduring myths and folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the psychological and cultural processes that turn UFO reports into enduring myths and folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Shows how media coverage, official investigations and public fascination shape UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how media coverage, official investigations and public fascination shape UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW"><img src="{{ '/assets/images/marketplace-covers/e68baf432778c29305a0.jpg' | relative_url }}" alt="Listing image for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW"><img src="{{ '/assets/images/marketplace-covers/e68baf432778c29305a0.jpg' | relative_url }}" alt="Listing image for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="media-growth-how-did-the-nullarbor-story-become-folklore-western-australia-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ The result was a case that became far larger than the available evidence. For ma
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ The result was a case that became far larger than the available evidence. For ma
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ The result was a case that became far larger than the available evidence. For ma
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ The result was a case that became far larger than the available evidence. For ma
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ The result was a case that became far larger than the available evidence. For ma
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,98 +721,98 @@ The result was a case that became far larger than the available evidence. For ma
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: upi.com  
    Title: Australian family tells of close encounter with UFO  
-   Link: <a href="https://www.upi.com/Archives/1988/01/21/Australian-family-tells-of-close-encounter-with-UFO/4740569739600/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1988/01/21/Australian-family-tells-of-close-encounter-with-UFO/4740569739600/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 1988 — An Australian family told police a &#x27;huge bright glowing object&#x27; chased their car down a remote desert highway and sucked...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1988/01/21/Australian-family-tells-of-close-encounter-with-UFO/4740569739600/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1988/01/21/Australian-family-tells-of-close-encounter-with-UFO/4740569739600/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 1988 — An Australian family told police a &#x27;huge bright glowing object&#x27; chased their car down a remote desert highway and sucked...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: upi.com  
    Title: Australian family says UFO chased its car  
-   Link: <a href="https://www.upi.com/Archives/1988/01/21/Australian-family-says-UFO-chased-its-car/8141569739600/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1988/01/21/Australian-family-says-UFO-chased-its-car/8141569739600/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Apart from the family&#x27;s report, a truck driver reported being followed by a...Read more...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1988/01/21/Australian-family-says-UFO-chased-its-car/8141569739600/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1988/01/21/Australian-family-says-UFO-chased-its-car/8141569739600/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Apart from the family&#x27;s report, a truck driver reported being followed by a...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/101971256</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 1988 - UFO encounter on Nullarbor Plain reportedADELAIDE: A Perth family say they were terrorised by a UFO which plucked thei...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/101971256</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 1988 - UFO encounter on Nullarbor Plain reportedADELAIDE: A Perth family say they were terrorised by a UFO which plucked thei...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skeptic.org.uk  
    Title: from the archives the 1988 nullarbor ufo mystery solved  
-   Link: <a href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From the archives: The 1988 Nullarbor UFO Mystery – Solved. By A.T. Brunt. 5th December 1989. Facebook · Twitter · WhatsApp · Email.Read...</p></details>
+   Link:<a href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From the archives: The 1988 Nullarbor UFO Mystery – Solved. By A.T. Brunt. 5th December 1989. Facebook · Twitter · WhatsApp · Email.Read...</p></details>
    Published: December 1989  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open...22 Feb 2018 — We&#x27;ll start in the outback, where a traumatised family w...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open...22 Feb 2018 — We&#x27;ll start in the outback, where a traumatised family w...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skepticalinquirer.org  
    Title: Issue 04 9  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-9.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Nullarbor UFO Incident: Dramatic Case Quickly Fades. THE THIRD week of January 1988 will go down in the annals of...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-9.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Nullarbor UFO Incident: Dramatic Case Quickly Fades. THE THIRD week of January 1988 will go down in the annals of...</p></details>
    Published: January 1988  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skeptics.com.au  
-   Link: <a href="https://www.skeptics.com.au/wp-content/uploads/magazine/The%20Skeptic%20Volume%208%20%281988%29%20No%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptics.com.au/wp-content/uploads/magazine/The%20Skeptic%20Volume%208%20%281988%29%20No%201.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>behind the headlinesIf we have no facts about UFOs, then we cannot delimit their abilities. For this reason, the UFO, or any other parano...</p></details>
+   Link:<a href="https://www.skeptics.com.au/wp-content/uploads/magazine/The%20Skeptic%20Volume%208%20%281988%29%20No%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptics.com.au/wp-content/uploads/magazine/The%20Skeptic%20Volume%208%20%281988%29%20No%201.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>behind the headlinesIf we have no facts about UFOs, then we cannot delimit their abilities. For this reason, the UFO, or any other parano...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: 60 years ago this month the worlds attention turned to tully in far north queens  
-   Link: <a href="https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7NEWS Central Queensland© CHRIS FITHALL A strange saga befell the Knowles Family on 19 January 1988. By the tiny outpost Mundrabilla in t...</p></details>
+   Link:<a href="https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7NEWS Central Queensland© CHRIS FITHALL A strange saga befell the Knowles Family on 19 January 1988. By the tiny outpost Mundrabilla in t...</p></details>
    Published: January 1988  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWxo8zwCUw4/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWxo8zwCUw4/?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An expert reveals what the unusual sighting actually was (and unfortunately it wasn&#x27;t aliens). Click...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWxo8zwCUw4/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWxo8zwCUw4/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An expert reveals what the unusual sighting actually was (and unfortunately it wasn&#x27;t aliens). Click...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But whether they are signs of alien visitors, secret projects, natural...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But whether they are signs of alien visitors, secret projects, natural...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/97akdf/1988_the_knowles_family_encountered_a_ufo_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/97akdf/1988_the_knowles_family_encountered_a_ufo_in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>outback...1988 the Knowles Family encountered a UFO in outback Australia. I&#x27;ve gathered news footage interviewing witnesses who corrobor...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/97akdf/1988_the_knowles_family_encountered_a_ufo_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/97akdf/1988_the_knowles_family_encountered_a_ufo_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>outback...1988 the Knowles Family encountered a UFO in outback Australia. I&#x27;ve gathered news footage interviewing witnesses who corrobor...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nullarborroadhouse.com.au  
    Title: Hidden secrets on the Nullarbor Plain  
-   Link: <a href="https://nullarborroadhouse.com.au/hidden-secrets-nullarbor-plain-ufo-edition/" target="_blank" rel="noopener noreferrer nofollow">https://nullarborroadhouse.com.au/hidden-secrets-nullarbor-plain-ufo-edition/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO edition.25 May 2017 — This story entails an unexpected visitor encountered by the Knowles family on their trip across the Nullarbor P...</p></details>
+   Link:<a href="https://nullarborroadhouse.com.au/hidden-secrets-nullarbor-plain-ufo-edition/" target="_blank" rel="noopener noreferrer nofollow">https://nullarborroadhouse.com.au/hidden-secrets-nullarbor-plain-ufo-edition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO edition.25 May 2017 — This story entails an unexpected visitor encountered by the Knowles family on their trip across the Nullarbor P...</p></details>
    Published: May 2017  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: the knowles family ufo encounter 1988  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1lk0x12/the_knowles_family_ufo_encounter_1988/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1lk0x12/the_knowles_family_ufo_encounter_1988/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Knowles Family UFO Encounter, 1988.: r/UFOBComments Section; 10-yo Frank Warily&#x27;s encounter with a strange UFO and its silly-lookin...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1lk0x12/the_knowles_family_ufo_encounter_1988/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1lk0x12/the_knowles_family_ufo_encounter_1988/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Knowles Family UFO Encounter, 1988.: r/UFOBComments Section; 10-yo Frank Warily&#x27;s encounter with a strange UFO and its silly-lookin...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
    Title: The Nullarbor Plain UFO Incident  
-   Link: <a href="https://medium.com/horror-hounds/the-nullarbor-plain-ufo-incident-6b1d74c48058" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/horror-hounds/the-nullarbor-plain-ufo-incident-6b1d74c48058</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Case FilesIn 1988, a terrified family drove straight to a police station in a small town. They Claimed to be victims of a terr...</p></details>
+   Link:<a href="https://medium.com/horror-hounds/the-nullarbor-plain-ufo-incident-6b1d74c48058" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/horror-hounds/the-nullarbor-plain-ufo-incident-6b1d74c48058</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Case FilesIn 1988, a terrified family drove straight to a police station in a small town. They Claimed to be victims of a terr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: museumoflost.com  
    Title: aliens on the nullarbor  
-   Link: <a href="https://www.museumoflost.com/aliens-on-the-nullarbor/" target="_blank" rel="noopener noreferrer nofollow">https://www.museumoflost.com/aliens-on-the-nullarbor/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Museum of Lost ThingsAliens on the Nullarbor17 Jul 2021 — What the Knowles told Longley was a sensational story: crossing the Nullarb...</p></details>
+   Link:<a href="https://www.museumoflost.com/aliens-on-the-nullarbor/" target="_blank" rel="noopener noreferrer nofollow">https://www.museumoflost.com/aliens-on-the-nullarbor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Museum of Lost ThingsAliens on the Nullarbor17 Jul 2021 — What the Knowles told Longley was a sensational story: crossing the Nullarb...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The 5 Strangest U.F.O. ENCOUNTERS in Australia | Australian Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=fY2gXIjcOZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY2gXIjcOZU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oz Encounters: UFO&#x27;s In Australia (1997) VHS Capture...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fY2gXIjcOZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY2gXIjcOZU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oz Encounters: UFO&#x27;s In Australia (1997) VHS Capture...</p></details>

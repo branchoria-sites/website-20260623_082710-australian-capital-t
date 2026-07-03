@@ -290,13 +290,13 @@ Many [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url 
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_ordinary_sky_causes_971a90-overview.webp" | relative_url }}" alt="Overview image for Sky Causes" loading="eager" decoding="sync" fetchpriority="high">
-The most useful starting point is therefore not “aliens or hoax?” but “what was in the sky at that time?” Australian Air Force records treated that question seriously. Between 1960 and 1971, the RAAF said it received 595 UFO reports and assessed 93 per cent as explainable by existing scientific knowledge, while 6 per cent lacked enough information and 1 per cent were attributed to unknown causes. The same summary noted common explanations such as meteorological [balloons]({{ 'balloons/' | relative_url }}), meteors and aircraft lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+The most useful starting point is therefore not “aliens or hoax?” but “what was in the sky at that time?” Australian Air Force records treated that question seriously. Between 1960 and 1971, the RAAF said it received 595 UFO reports and assessed 93 per cent as explainable by existing scientific knowledge, while 6 per cent lacked enough information and 1 per cent were attributed to unknown causes. The same summary noted common explanations such as meteorological [balloons]({{ 'balloons/' | relative_url }}), meteors and aircraft lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 ## Why the Territory sky makes judgement harder
 
 The Northern Territory’s best-known UFO places, from [Wycliffe Well]({{ 'wycliffe-well/' | relative_url }}) to the highways around Alice Springs and the Top End, share one practical feature: a witness can be looking at a very large piece of sky with very few reference points. In a city, a light passes behind buildings, streetlights, towers or cloud layers. On a remote road, it may sit against blackness. A satellite can seem lower than it is. A meteor can look close enough to land beyond the next ridge. An aircraft turning towards the observer can appear to hover.
 
-This is one reason the Territory can generate strong UFO stories without strong evidence. Central Australia is promoted for stargazing precisely because its dry air, low artificial light and broad horizons make the sky vivid; Northern Territory tourism material describes the Outback as having low humidity and little superficial light, with Uluṟu and Central Australia especially valued for night-sky viewing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://northernterritory.com/articles/stargazing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northernterritory.com">[Northern Territory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northernterritory.com</span><span class="citation-popover-snippet">Open source on northernterritory.com.</span></span></span> Those are excellent conditions for astronomy, but they also make faint or unfamiliar objects more visible than they would be in brighter suburbs.
+This is one reason the Territory can generate strong UFO stories without strong evidence. Central Australia is promoted for stargazing precisely because its dry air, low artificial light and broad horizons make the sky vivid; Northern Territory tourism material describes the Outback as having low humidity and little superficial light, with Uluṟu and Central Australia especially valued for night-sky viewing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://northernterritory.com/articles/stargazing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northernterritory.com">[Northern Territory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northernterritory.com</span><span class="citation-popover-snippet">Open source on northernterritory.com.</span></span></span> Those are excellent conditions for astronomy, but they also make faint or unfamiliar objects more visible than they would be in brighter suburbs.
 
 The same point applies in the Top End in a different way. Around Darwin, Palmerston, Humpty Doo and the rural area, people often have open views across flat ground, water, industrial lighting, aircraft routes and weather systems. A distant aircraft, searchlight, drone, satellite train, rocket plume or reflection can be seen by many people at once, producing a “wave” of reports before anyone has checked flight paths, launch notices, satellite predictions or meteor records.
 
@@ -306,11 +306,11 @@ The same point applies in the Top End in a different way. Around Darwin, Palmers
 
 Ordinary explanations are not interchangeable. A good check starts with motion, duration and direction. A report of a silent light crossing the whole sky in a few minutes points to a different family of causes from a flash lasting two seconds or a bright light that appears stationary for twenty minutes.
 
-Satellites are a strong candidate when a light is silent, steady, high, and moves smoothly across the sky shortly after sunset or before sunrise. They shine because they reflect sunlight while the ground below is already dark. Modern satellite constellations have made this explanation more important. ABC reporting on North Queensland sightings described Starlink satellites as a chain of close, equal lights that can look like one long object crossing the sky, especially in the few days after launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2021-11-21/ufo-explained-mackay-spacex-elon-musk-satellites/100634840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span> That same mechanism is directly relevant to Northern Territory reports because remote skies make such trains easier to notice.
+Satellites are a strong candidate when a light is silent, steady, high, and moves smoothly across the sky shortly after sunset or before sunrise. They shine because they reflect sunlight while the ground below is already dark. Modern satellite constellations have made this explanation more important. ABC reporting on North Queensland sightings described Starlink satellites as a chain of close, equal lights that can look like one long object crossing the sky, especially in the few days after launch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2021-11-21/ufo-explained-mackay-spacex-elon-musk-satellites/100634840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span> That same mechanism is directly relevant to Northern Territory reports because remote skies make such trains easier to notice.
 
 Aircraft lights behave differently. A plane flying towards a witness can appear almost fixed, then suddenly seem to move sideways as it turns. Landing lights can be extremely bright from a distance. In Darwin and the Top End, aviation is not background noise in the same way it is in Sydney or Melbourne, so an unusual approach, military aircraft, helicopter, police activity, offshore traffic or medevac flight may stand out. The key test is whether the light blinks in a regular aviation pattern, changes colour, follows a plausible flight path, makes engine noise after a delay, or appears near known airport corridors.
 
-Meteors and fireballs are usually brief, but they can be startling. A bright meteor can produce green, blue, orange or white light, flare dramatically, fragment, and leave a persistent trail. University of Southern Queensland astrophysicist Jonti Horner explained after a 2026 eastern Australian fireball that a bolide is a meteor brighter than Venus that may explode or break apart in the atmosphere; he also distinguished fast meteors from slower space junk, which tends to enter at a shallower angle and can cross the sky over a minute or more. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unisq.edu.au/news/2026/05/the-conversation-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unisq.edu.au">[University of Southern Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unisq.edu.au</span><span class="citation-popover-snippet">Open source on edu.au.</span></span></span>
+Meteors and fireballs are usually brief, but they can be startling. A bright meteor can produce green, blue, orange or white light, flare dramatically, fragment, and leave a persistent trail. University of Southern Queensland astrophysicist Jonti Horner explained after a 2026 eastern Australian fireball that a bolide is a meteor brighter than Venus that may explode or break apart in the atmosphere; he also distinguished fast meteors from slower space junk, which tends to enter at a shallower angle and can cross the sky over a minute or more.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unisq.edu.au/news/2026/05/the-conversation-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unisq.edu.au">[University of Southern Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unisq.edu.au</span><span class="citation-popover-snippet">Open source on edu.au.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FFXvtcVIQTE" title="South Koreans spooked as secret rocket launch mistaken for UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FFXvtcVIQTE" target="_blank" rel="noopener noreferrer">South Koreans spooked as secret rocket launch mistaken for UFO</a></p><p class="youtube-embed-meta">Channel: South China Morning Post &middot; Views: 82.8K &middot; Uploaded: January 2023 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FFXvtcVIQTE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FFXvtcVIQTE">Open on YouTube</a></p></div></div></div>
@@ -319,7 +319,7 @@ Meteors and fireballs are usually brief, but they can be startling. A bright met
 
 Older Northern Territory UFO files often raised balloons, aircraft and astronomical objects. Modern reports increasingly need one extra check: recent space launches. A rocket upper stage, satellite deployment or fuel vent can look much stranger than a simple moving dot. It may form a white or blue “jellyfish” shape, a glowing cloud, a spiral, or a plume that seems to expand while drifting across the sky.
 
-A 2026 ABC report on a Chinese-launched rocket over north-eastern Australia gives a useful model for Territory sightings. The Zhuque-2E rocket was visible after launch because it was high enough to remain sunlit while night had fallen on the ground; Professor Horner explained that excess gas released at orbital altitude reflected sunlight, creating a glowing cloud that some viewers found eerie as it moved into Earth’s shadow and changed colour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+A 2026 ABC report on a Chinese-launched rocket over north-eastern Australia gives a useful model for Territory sightings. The Zhuque-2E rocket was visible after launch because it was high enough to remain sunlit while night had fallen on the ground; Professor Horner explained that excess gas released at orbital altitude reflected sunlight, creating a glowing cloud that some viewers found eerie as it moved into Earth’s shadow and changed colour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
 For Northern Territory readers, the important lesson is that “it did not look like a plane” is not enough to rule out a human-made cause. A rocket plume is not meant to look like a plane. Neither is a satellite train. Neither is a re-entering object breaking up over hundreds of kilometres. The Territory’s large sky can turn these events into regional spectacles, especially when videos from Darwin, Katherine, Tennant Creek, Alice Springs, Queensland and northern Western Australia are posted separately before anyone connects them to the same object.
 
@@ -329,9 +329,9 @@ For Northern Territory readers, the important lesson is that “it did not look 
 
 Weather and research balloons are easy to underestimate because the word “balloon” sounds too simple for a dramatic sighting. In practice, balloons can rise high, reflect sunlight, drift with upper winds, change apparent shape, and appear motionless when seen from a distance. At night, balloon-related observations can also involve radar, attached lights, or confusion with other objects.
 
-This matters for Northern Territory history because RAAF records include a Darwin example. A 3 June 1961 RAAF Darwin radar report described a contact during a meteorological balloon flight at 9.30 pm, at about 40,000 feet descending to 32,000 feet over roughly five minutes, with no apparent lateral movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span> That is not a sensational alien case; it is more valuable than that. It shows how a Territory “unusual aerial sighting” could sit right on the boundary between defence procedure, radar observation and a mundane atmospheric explanation.
+This matters for Northern Territory history because RAAF records include a Darwin example. A 3 June 1961 RAAF Darwin radar report described a contact during a meteorological balloon flight at 9.30 pm, at about 40,000 feet descending to 32,000 feet over roughly five minutes, with no apparent lateral movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span> That is not a sensational alien case; it is more valuable than that. It shows how a Territory “unusual aerial sighting” could sit right on the boundary between defence procedure, radar observation and a mundane atmospheric explanation.
 
-The Bureau of Meteorology’s continuing upper-air observation network is also relevant. Its aviation pages provide aerological diagrams and wind soundings for Australian locations, reflecting the routine meteorological need to measure temperature, moisture and winds aloft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bom.gov.au/aviation/observations/aerological-diagrams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bom.gov.au">[Bureau of Meteorology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bom.gov.au</span><span class="citation-popover-title">Bureau of Meteorology Aerological Diagrams</span><span class="citation-popover-snippet">Bureau of Meteorology Aerological Diagrams</span></span></span> For a UFO report, those data can matter because upper-level winds may carry a balloon in a direction very different from surface winds felt by the witness.
+The Bureau of Meteorology’s continuing upper-air observation network is also relevant. Its aviation pages provide aerological diagrams and wind soundings for Australian locations, reflecting the routine meteorological need to measure temperature, moisture and winds aloft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bom.gov.au/aviation/observations/aerological-diagrams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bom.gov.au">[Bureau of Meteorology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bom.gov.au</span><span class="citation-popover-title">Bureau of Meteorology Aerological Diagrams</span><span class="citation-popover-snippet">Bureau of Meteorology Aerological Diagrams</span></span></span> For a UFO report, those data can matter because upper-level winds may carry a balloon in a direction very different from surface winds felt by the witness.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/43GtQesBTFU" title="SpaceX Rocket with glowing light mistaken for UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=43GtQesBTFU" target="_blank" rel="noopener noreferrer">SpaceX Rocket with glowing light mistaken for UFO</a></p><p class="youtube-embed-meta">Channel: IBTimes UK &middot; Views: 29.2K &middot; Uploaded: December 2017 &middot; Length: 1 minute 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=43GtQesBTFU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=43GtQesBTFU">Open on YouTube</a></p></div></div></div>
@@ -340,7 +340,7 @@ The Bureau of Meteorology’s continuing upper-air observation network is also r
 
 A sighting can remain unidentified for a dull reason: the report may not contain the details needed to test it. A witness may remember the light vividly but not the exact time. A video may lack a horizon, compass direction or fixed landmark. Social-media posts may compress several separate sightings into one story. A report may say “it shot upwards” when the object actually dimmed, entered shadow, passed behind cloud, or moved relative to a car.
 
-The RAAF’s own policy history points in that direction. In 1984, Defence Minister Gordon Scholes announced that the RAAF would fully investigate only unusual aerial sightings with a possible defence or national security implication; other reports would be recorded, with observers referred to civilian research organisations if they wanted to pursue the matter. The announcement said previous investigation of public reports had often been time-consuming and unproductive, involving the RAAF, Department of Aviation and Bureau of Meteorology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span>
+The RAAF’s own policy history points in that direction. In 1984, Defence Minister Gordon Scholes announced that the RAAF would fully investigate only unusual aerial sightings with a possible defence or national security implication; other reports would be recorded, with observers referred to civilian research organisations if they wanted to pursue the matter. The announcement said previous investigation of public reports had often been time-consuming and unproductive, involving the RAAF, Department of Aviation and Bureau of Meteorology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span>
 
 That shift does not prove every sighting was ordinary. It does show why public UFO archives are uneven. Some reports were checked against aircraft, weather and astronomical information; others were simply logged. A weak file is not the same as a strong mystery. In Territory cases, the difference is crucial because sparse documentation can make an ordinary light seem more mysterious decades later than it was at the time.
 
@@ -376,194 +376,194 @@ The best reading of the evidence is therefore balanced. RAAF-era files show that
 For the Northern Territory branch of Australian UFO history, the real lesson is not that every report has been solved. It is that the first layer of explanation is often sky literacy: satellites before spacecraft, balloons before secret vehicles, aircraft lights before hovering discs, meteors before mystery fireballs, and missing data before dramatic conclusions. That approach leaves room for genuinely unresolved cases, but it stops weak or ordinary sightings from carrying more weight than the evidence can support.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Ordinary Lights Look Strange Here. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Ordinary Lights Look Strange Here. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores UFO reports while emphasizing investigation, classification and ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores UFO reports while emphasizing investigation, classification and ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify common celestial objects and phenomena often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify common celestial objects and phenomena often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for UFO reporting and investigation, complementing discussions of explainable sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for UFO reporting and investigation, complementing discussions of explainable sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Teaches critical evaluation of unusual claims and observational errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches critical evaluation of unusual claims and observational errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Father Custom star map/constellation night sky map - Fantastic"><img src="{{ '/assets/images/marketplace-covers/4079d34209d8bd9937c4.jpg' | relative_url }}" alt="Listing image for Personalised Father Custom star map/constellation night sky map - Fantastic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised Father Custom star map/constellation night sky map - Fantastic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Father Custom star map/constellation night sky map - Fantastic"><img src="{{ '/assets/images/marketplace-covers/4079d34209d8bd9937c4.jpg' | relative_url }}" alt="Listing image for Personalised Father Custom star map/constellation night sky map - Fantastic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised Father Custom star map/constellation night sky map - Fantastic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised BRIGHTEST STAR custom star map/constellation night sky map"><img src="{{ '/assets/images/marketplace-covers/ef04cd3ed756f0a5f1d4.jpg' | relative_url }}" alt="Listing image for Personalised BRIGHTEST STAR custom star map/constellation night sky map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised BRIGHTEST STAR custom star map/constellation night sky map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised BRIGHTEST STAR custom star map/constellation night sky map"><img src="{{ '/assets/images/marketplace-covers/ef04cd3ed756f0a5f1d4.jpg' | relative_url }}" alt="Listing image for Personalised BRIGHTEST STAR custom star map/constellation night sky map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised BRIGHTEST STAR custom star map/constellation night sky map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift"><img src="{{ '/assets/images/marketplace-covers/62cfe6602546b20f8e9a.jpg' | relative_url }}" alt="Listing image for Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift"><img src="{{ '/assets/images/marketplace-covers/62cfe6602546b20f8e9a.jpg' | relative_url }}" alt="Listing image for Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised &#x27;3 DATE&#x27; star map/constellation night sky map - Fantastic Special"><img src="{{ '/assets/images/marketplace-covers/bd484d45c3ede99b5543.jpg' | relative_url }}" alt="Listing image for Personalised &#x27;3 DATE&#x27; star map/constellation night sky map - Fantastic Special" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised &#x27;3 DATE&#x27; star map/constellation night sky map - Fantastic Special</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised &#x27;3 DATE&#x27; star map/constellation night sky map - Fantastic Special"><img src="{{ '/assets/images/marketplace-covers/bd484d45c3ede99b5543.jpg' | relative_url }}" alt="Listing image for Personalised &#x27;3 DATE&#x27; star map/constellation night sky map - Fantastic Special" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised &#x27;3 DATE&#x27; star map/constellation night sky map - Fantastic Special</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="sky-causes-why-ordinary-lights-look-strange-here-northern-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ For the Northern Territory branch of Australian UFO history, the real lesson is 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ For the Northern Territory branch of Australian UFO history, the real lesson is 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ For the Northern Territory branch of Australian UFO history, the real lesson is 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ For the Northern Territory branch of Australian UFO history, the real lesson is 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ For the Northern Territory branch of Australian UFO history, the real lesson is 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,178 +769,178 @@ For the Northern Territory branch of Australian UFO history, the real lesson is 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Australian UFO Files"  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: project1947.com  
    Title: kb uasgov  
-   Link: <a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</p></details>
+   Link:<a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
    Title: starlink satellite train how to see and track it  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: australia.com  
-   Link: <a href="https://www.australia.com/en-gb/things-to-do/nature-and-national-parks/best-places-for-stargazing-australia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.australia.com/en-gb/things-to-do/nature-and-national-parks/best-places-for-stargazing-australia.html</a>  
+   Link:<a href="https://www.australia.com/en-gb/things-to-do/nature-and-national-parks/best-places-for-stargazing-australia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.australia.com/en-gb/things-to-do/nature-and-national-parks/best-places-for-stargazing-australia.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/upperair/reqdahdr" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/reqdahdr</a>  
+   Link:<a href="https://www.weather.gov/upperair/reqdahdr" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/reqdahdr</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: northernterritory.com  
-   Link: <a href="https://northernterritory.com/articles/stargazing" target="_blank" rel="noopener noreferrer nofollow">https://northernterritory.com/articles/stargazing</a>  
+   Link:<a href="https://northernterritory.com/articles/stargazing" target="_blank" rel="noopener noreferrer nofollow">https://northernterritory.com/articles/stargazing</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2021-11-21/ufo-explained-mackay-spacex-elon-musk-satellites/100634840" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-11-21/ufo-explained-mackay-spacex-elon-musk-satellites/100634840</a>  
+   Link:<a href="https://www.abc.net.au/news/2021-11-21/ufo-explained-mackay-spacex-elon-musk-satellites/100634840" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-11-21/ufo-explained-mackay-spacex-elon-musk-satellites/100634840</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: unisq.edu.au  
-   Link: <a href="https://www.unisq.edu.au/news/2026/05/the-conversation-meteor" target="_blank" rel="noopener noreferrer nofollow">https://www.unisq.edu.au/news/2026/05/the-conversation-meteor</a>  
+   Link:<a href="https://www.unisq.edu.au/news/2026/05/the-conversation-meteor" target="_blank" rel="noopener noreferrer nofollow">https://www.unisq.edu.au/news/2026/05/the-conversation-meteor</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074</a>  
+   Link:<a href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bom.gov.au  
    Title: Bureau of Meteorology Aerological Diagrams  
-   Link: <a href="https://www.bom.gov.au/aviation/observations/aerological-diagrams/" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/aviation/observations/aerological-diagrams/</a>  
+   Link:<a href="https://www.bom.gov.au/aviation/observations/aerological-diagrams/" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/aviation/observations/aerological-diagrams/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCDarwin/videos/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1717258449435989/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCDarwin/videos/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1717258449435989/</a>  
+   Link:<a href="https://www.facebook.com/ABCDarwin/videos/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1717258449435989/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCDarwin/videos/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1717258449435989/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/</a>  
+   Link:<a href="https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: northernterritory.com  
-   Link: <a href="https://northernterritory.com/gb/en/articles/stargazing" target="_blank" rel="noopener noreferrer nofollow">https://northernterritory.com/gb/en/articles/stargazing</a>  
+   Link:<a href="https://northernterritory.com/gb/en/articles/stargazing" target="_blank" rel="noopener noreferrer nofollow">https://northernterritory.com/gb/en/articles/stargazing</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXOTUB9D0b9/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXOTUB9D0b9/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/reel/DXOTUB9D0b9/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXOTUB9D0b9/?hl=en-gb</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYn4jEsBr9p/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYn4jEsBr9p/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DYn4jEsBr9p/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYn4jEsBr9p/?hl=en</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXOTUB9D0b9/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXOTUB9D0b9/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DXOTUB9D0b9/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXOTUB9D0b9/?hl=en</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DMMg7h8srtL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DMMg7h8srtL/</a>  
+   Link:<a href="https://www.instagram.com/p/DMMg7h8srtL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DMMg7h8srtL/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abc.net.au  
    Title: nsw suspected meteor lights sydney skies  
-   Link: <a href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918</a>  
+   Link:<a href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abc.net.au  
    Title: dark sky trend offers boost for outback nt tourism operators  
-   Link: <a href="https://www.abc.net.au/news/2025-07-12/dark-sky-trend-offers-boost-for-outback-nt-tourism-operators/105517644" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2025-07-12/dark-sky-trend-offers-boost-for-outback-nt-tourism-operators/105517644</a>  
+   Link:<a href="https://www.abc.net.au/news/2025-07-12/dark-sky-trend-offers-boost-for-outback-nt-tourism-operators/105517644" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2025-07-12/dark-sky-trend-offers-boost-for-outback-nt-tourism-operators/105517644</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: anao.gov.au  
    Title: anao report 1999 00 22  
-   Link: <a href="https://www.anao.gov.au/sites/default/files/anao_report_1999-00_22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anao.gov.au/sites/default/files/anao_report_1999-00_22.pdf</a>  
+   Link:<a href="https://www.anao.gov.au/sites/default/files/anao_report_1999-00_22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anao.gov.au/sites/default/files/anao_report_1999-00_22.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2020-02/research-guide-government-records-nt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-02/research-guide-government-records-nt.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2020-02/research-guide-government-records-nt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-02/research-guide-government-records-nt.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force</a>  
+   Link:<a href="https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: abs.gov.au  
    Title: 1301.0Feature Article91988  
-   Link: <a href="https://www.abs.gov.au/ausstats/abs%40.nsf/Previousproducts/1301.0Feature%20Article91988?issue=1988&amp;num=&amp;opendocument=&amp;prodno=1301.0&amp;tabname=Summary&amp;view=" target="_blank" rel="noopener noreferrer nofollow">https://www.abs.gov.au/ausstats/abs%40.nsf/Previousproducts/1301.0Feature%20Article91988?issue=1988&amp;num=&amp;opendocument=&amp;prodno=1301.0&amp;tabname=Summary&amp;view=</a>  
+   Link:<a href="https://www.abs.gov.au/ausstats/abs%40.nsf/Previousproducts/1301.0Feature%20Article91988?issue=1988&amp;num=&amp;opendocument=&amp;prodno=1301.0&amp;tabname=Summary&amp;view=" target="_blank" rel="noopener noreferrer nofollow">https://www.abs.gov.au/ausstats/abs%40.nsf/Previousproducts/1301.0Feature%20Article91988?issue=1988&amp;num=&amp;opendocument=&amp;prodno=1301.0&amp;tabname=Summary&amp;view=</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: territorystories.nt.gov.au  
-   Link: <a href="https://territorystories.nt.gov.au/10070/198775/0" target="_blank" rel="noopener noreferrer nofollow">https://territorystories.nt.gov.au/10070/198775/0</a>  
+   Link:<a href="https://territorystories.nt.gov.au/10070/198775/0" target="_blank" rel="noopener noreferrer nofollow">https://territorystories.nt.gov.au/10070/198775/0</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: aer.gov.au  
    Title: Attachment 3 Bureau of Meteorology A history of stormy weather  
-   Link: <a href="https://www.aer.gov.au/system/files/Attachment%203%20-%20Bureau%20of%20Meteorology%20-%20A%20history%20of%20stormy%20weather.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aer.gov.au/system/files/Attachment%203%20-%20Bureau%20of%20Meteorology%20-%20A%20history%20of%20stormy%20weather.pdf</a>  
+   Link:<a href="https://www.aer.gov.au/system/files/Attachment%203%20-%20Bureau%20of%20Meteorology%20-%20A%20history%20of%20stormy%20weather.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aer.gov.au/system/files/Attachment%203%20-%20Bureau%20of%20Meteorology%20-%20A%20history%20of%20stormy%20weather.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: winton.qld.gov.au  
-   Link: <a href="https://www.winton.qld.gov.au/Community/Dark-Sky-Community" target="_blank" rel="noopener noreferrer nofollow">https://www.winton.qld.gov.au/Community/Dark-Sky-Community</a>  
+   Link:<a href="https://www.winton.qld.gov.au/Community/Dark-Sky-Community" target="_blank" rel="noopener noreferrer nofollow">https://www.winton.qld.gov.au/Community/Dark-Sky-Community</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Line of lights in the sky: Starlink satellite train seen over south-central Pa  
-   Link: <a href="https://www.youtube.com/watch?v=hZ0qZ5T9bCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hZ0qZ5T9bCg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink: How Elon Musk Is Building a Global Internet Network...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hZ0qZ5T9bCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hZ0qZ5T9bCg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink: How Elon Musk Is Building a Global Internet Network...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Starlink: How Elon Musk Is Building a Global Internet Network  
-   Link: <a href="https://www.youtube.com/watch?v=8Th-rywphdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8Th-rywphdI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Koreans spooked as secret rocket launch mistaken for UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8Th-rywphdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8Th-rywphdI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Koreans spooked as secret rocket launch mistaken for UFO...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: South Koreans spooked as secret rocket launch mistaken for UFO  
-   Link: <a href="https://www.youtube.com/watch?v=FFXvtcVIQTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FFXvtcVIQTE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket with glowing light mistaken for UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FFXvtcVIQTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FFXvtcVIQTE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket with glowing light mistaken for UFO...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Space X Rocket with glowing light mistaken for UFO  
-   Link: <a href="https://www.youtube.com/watch?v=43GtQesBTFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=43GtQesBTFU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disclosure Nobody Expected: UFOs Aren&#x27;t Aliens | Dr. Hugh Ross...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=43GtQesBTFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=43GtQesBTFU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Disclosure Nobody Expected: UFOs Aren&#x27;t Aliens | Dr. Hugh Ross...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheNTNews/videos/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/2025907868280209/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNTNews/videos/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/2025907868280209/</a>  
+   Link:<a href="https://www.facebook.com/TheNTNews/videos/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/2025907868280209/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNTNews/videos/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/2025907868280209/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXOUvU4Eohk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXOUvU4Eohk/</a>  
+   Link:<a href="https://www.instagram.com/reel/DXOUvU4Eohk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXOUvU4Eohk/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheNTNews/posts/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/1505194630956170/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNTNews/posts/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/1505194630956170/</a>  
+   Link:<a href="https://www.facebook.com/TheNTNews/posts/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/1505194630956170/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNTNews/posts/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/1505194630956170/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DNEXCIxOopv/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNEXCIxOopv/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DNEXCIxOopv/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNEXCIxOopv/?hl=en</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYn52D-S086/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYn52D-S086/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DYn52D-S086/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYn52D-S086/?hl=en</a>  

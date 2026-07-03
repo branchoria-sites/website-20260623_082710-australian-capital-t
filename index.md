@@ -171,26 +171,31 @@ map_view:
   items: 8
   map: /assets/maps/australia.svg
   data: /assets/maps/australian-states.json
+header:
+  og_image: /assets/images/South_Australia_717e9f-overview-social.jpg
+  preview_image: /assets/images/South_Australia_717e9f-overview-social.jpg
+image: /assets/images/South_Australia_717e9f-overview-social.jpg
 site_image_description: A quiet Canberra airport control tower at dusk with runway lights, distant hills and a pale unexplained light high in the sky.
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-  <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="australia" data-map-item-type="state" data-map-label="UFO and UAP Australian states and territories map" data-map-fallback-summary="Open this state or territory file from the map." data-map-src="{{ 'assets/maps/australia.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/australian-states.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="AU-WA" data-map-preview-preload="all">
-    <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
-    <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
-      <img src="{{ '/assets/images/Australian_Capital_T_2949ba-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
-      <span class="interactive-map-preview-meta uap-world-map-preview-meta">
-        <span class="interactive-map-preview-chip uap-world-map-preview-chip">ACT</span>
-        <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="eastern-australia" data-uap-world-map-region-focus="eastern-australia" aria-label="Focus map on Eastern Australia">Eastern Australia</button>
-        <span class="interactive-map-preview-count uap-world-map-preview-count">25 pages</span>
-      </span>
-      <span class="interactive-map-preview-kicker uap-world-map-preview-kicker">Australian Capital Territory</span>
-      <strong data-interactive-map-preview-title data-uap-world-map-preview-title>Canberra&#x27;s UFO Files Without the Hype</strong>
-      <span data-interactive-map-preview-summary data-uap-world-map-preview-summary>The Australian Capital Territory has a smaller UFO history than larger states such as Victoria, South Australia or Western Australia, but it has one...</span>
-      <span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
-    </article>
-  </section>
-  <p class="home-map-panel-note">Use the map to jump into an Australian state or territory file, or browse the full list below.</p>
-  <p class="home-map-panel-source"><a href="https://mapsvg.com/maps/australia" rel="license noopener" target="_blank">Map source (CC0 1.0 Universal)</a></p>
-  <p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
+<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="australia" data-map-item-type="state" data-map-label="UFO and UAP Australian states and territories map" data-map-fallback-summary="Open this state or territory file from the map." data-map-src="{{ 'assets/maps/australia.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/australian-states.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="AU-WA" data-map-preview-preload="all">
+<div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
+<article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
+<img src="{{ '/assets/images/Western_Australia_1c735d-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<span class="interactive-map-preview-meta uap-world-map-preview-meta">
+<span class="interactive-map-preview-chip uap-world-map-preview-chip">WA</span>
+<button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="western-australia" data-uap-world-map-region-focus="western-australia" aria-label="Focus map on Western Australia">Western Australia</button>
+<span class="interactive-map-preview-count uap-world-map-preview-count">25 pages</span>
+</span>
+<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">Western Australia</span>
+<strong data-interactive-map-preview-title data-uap-world-map-preview-title>What Did Western Australia Really See?</strong>
+<span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Western Australia’s UFO history is not built around one single state-defining case.</span>
+<span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
+</article>
 </section>
+<p class="home-map-panel-note">Use the map to jump into an Australian state or territory file, or browse the full list below.</p>
+<p class="home-map-panel-source"><a href="https://mapsvg.com/maps/australia" rel="license noopener" target="_blank">Map source (CC0 1.0 Universal)</a></p>
+<p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
+</section>
+

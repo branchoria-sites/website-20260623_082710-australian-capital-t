@@ -262,28 +262,28 @@ image: /assets/images/New_South_Wales_f92f26_raaf_records_522e07_nowra_sea_fury_
 
 ## Introduction
 
-The 1954 Nowra Sea Fury incident remains one of the most discussed UFO cases in [New South Wales]({{ 'what-makes-new-south-wales-ufo-reports/' | relative_url }}) because it combined two elements that are rarely present together: a report from a trained military pilot and a claim that the same objects were detected on radar. Unlike many civilian sightings from the era, the incident occurred within a defence aviation environment centred on the Royal Australian Navy air station at Nowra, now associated with HMAS Albatross. For historians of Australian UFO investigations, the case matters not because it proves anything extraordinary, but because it survived official scrutiny without receiving a definitive explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
+The 1954 Nowra Sea Fury incident remains one of the most discussed UFO cases in [New South Wales]({{ 'what-makes-new-south-wales-ufo-reports/' | relative_url }}) because it combined two elements that are rarely present together: a report from a trained military pilot and a claim that the same objects were detected on radar. Unlike many civilian sightings from the era, the incident occurred within a defence aviation environment centred on the Royal Australian Navy air station at Nowra, now associated with HMAS Albatross. For historians of Australian UFO investigations, the case matters not because it proves anything extraordinary, but because it survived official scrutiny without receiving a definitive explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_nowra_sea_fury_radar_690330-Illustration-1-dark.svg" | relative_url }}" alt="Nowra Sea Fury illustration 1" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_nowra_sea_fury_radar_690330-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_nowra_sea_fury_radar_690330-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-On the night of 31 August 1954, Lieutenant J. A. O'Farrell was flying a Hawker Sea Fury back to Nowra when he reported seeing two unusual bright [lights]({{ 'lights/' | relative_url }}) pacing his aircraft. According to later archival summaries, personnel at Nowra informed him that corresponding targets were appearing on radar. The combination of visual observation and claimed radar correlation elevated the case well above the level of a routine “strange light” report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
+On the night of 31 August 1954, Lieutenant J. A. O'Farrell was flying a Hawker Sea Fury back to Nowra when he reported seeing two unusual bright [lights]({{ 'lights/' | relative_url }}) pacing his aircraft. According to later archival summaries, personnel at Nowra informed him that corresponding targets were appearing on radar. The combination of visual observation and claimed radar correlation elevated the case well above the level of a routine “strange light” report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
 
 ## Why the Nowra Sea Fury case still matters
 
-Within the history of New South Wales UFO reports, the Nowra incident became an important benchmark because it involved operational military aviation rather than a ground-based civilian observation. Defence investigators were generally more interested in cases that touched on air safety, aircraft identification or possible security concerns. A naval pilot reporting unidentified objects in flight naturally attracted more attention than a distant light seen from a suburban backyard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
+Within the history of New South Wales UFO reports, the Nowra incident became an important benchmark because it involved operational military aviation rather than a ground-based civilian observation. Defence investigators were generally more interested in cases that touched on air safety, aircraft identification or possible security concerns. A naval pilot reporting unidentified objects in flight naturally attracted more attention than a distant light seen from a suburban backyard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
 
-The case also emerged during the intense international “flying saucer” period of the early 1950s, when air forces across several countries were collecting reports of unidentified aerial phenomena. Australia's military authorities were not attempting to prove extraterrestrial visitation; they were trying to determine whether unknown objects represented aircraft, atmospheric phenomena, equipment faults or something requiring further investigation. The Nowra case fitted that operational concern precisely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
+The case also emerged during the intense international “flying saucer” period of the early 1950s, when air forces across several countries were collecting reports of unidentified aerial phenomena. Australia's military authorities were not attempting to prove extraterrestrial visitation; they were trying to determine whether unknown objects represented aircraft, atmospheric phenomena, equipment faults or something requiring further investigation. The Nowra case fitted that operational concern precisely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zlrz84nEXtk" title="WATCH: Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped unidentified flying object" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zlrz84nEXtk" target="_blank" rel="noopener noreferrer">WATCH: Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped unidentified flying object</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 1.0M &middot; Uploaded: July 2021 &middot; Length: 4 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zlrz84nEXtk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zlrz84nEXtk">Open on YouTube</a></p></div></div></div>
 
 ## Pilot testimony and flight context
 
-Lieutenant O'Farrell was returning to the naval air station at Nowra in a Hawker Sea Fury, one of the Royal Australian Navy's principal fighter aircraft of the period. During the flight he observed a bright light near his aircraft and then a second object appearing nearby. He later described the objects as having a vague form with a bright white light positioned centrally. According to accounts preserved in later archival summaries, the lights appeared to maintain pace with the aircraft rather than behaving like distant stars or planets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
+Lieutenant O'Farrell was returning to the naval air station at Nowra in a Hawker Sea Fury, one of the Royal Australian Navy's principal fighter aircraft of the period. During the flight he observed a bright light near his aircraft and then a second object appearing nearby. He later described the objects as having a vague form with a bright white light positioned centrally. According to accounts preserved in later archival summaries, the lights appeared to maintain pace with the aircraft rather than behaving like distant stars or planets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
 
-The encounter reportedly lasted long enough for O'Farrell to communicate with ground personnel and monitor the objects' movements. One reason investigators regarded the report seriously was that O'Farrell was not an inexperienced observer. Military pilots are trained to identify aircraft lighting, celestial objects and common visual illusions encountered during night flying. That does not make them infallible, but it does give their observations greater evidential weight than many casual reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
+The encounter reportedly lasted long enough for O'Farrell to communicate with ground personnel and monitor the objects' movements. One reason investigators regarded the report seriously was that O'Farrell was not an inexperienced observer. Military pilots are trained to identify aircraft lighting, celestial objects and common visual illusions encountered during night flying. That does not make them infallible, but it does give their observations greater evidential weight than many casual reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
 
-Newspaper coverage that emerged later in 1954 stated that O'Farrell encountered the objects while flying over southern New South Wales before returning to Nowra. The story quickly became one of Australia's most widely discussed military UFO cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/96500678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-title">Trove&quot;FLYING SAUCERS&quot; CONFIRMED BY NOWRA RADAR</span><span class="citation-popover-snippet">The pilot, Lieutenant O&#x27;Farrell, saw two objects which he took to be &quot;flying saucers&quot; when flying at night over Goulburn, NSW, on a...</span></span></span>
+Newspaper coverage that emerged later in 1954 stated that O'Farrell encountered the objects while flying over southern New South Wales before returning to Nowra. The story quickly became one of Australia's most widely discussed military UFO cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/96500678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-title">Trove&quot;FLYING SAUCERS&quot; CONFIRMED BY NOWRA RADAR</span><span class="citation-popover-snippet">The pilot, Lieutenant O&#x27;Farrell, saw two objects which he took to be &quot;flying saucers&quot; when flying at night over Goulburn, NSW, on a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p9lLYAltbe0" title="1954 🇦🇺 #UFOB [CASE] The &#x27;Sea Fury&#x27; incident Australia, backed by radar evidence." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p9lLYAltbe0" target="_blank" rel="noopener noreferrer">1954 🇦🇺 #UFOB [CASE] The &#x27;Sea Fury&#x27; incident Australia, backed by radar evidence.</a></p><p class="youtube-embed-meta">Channel: UFOB | Your UAP Library</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p9lLYAltbe0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p9lLYAltbe0">Open on YouTube</a></p></div></div></div>
@@ -292,19 +292,19 @@ Newspaper coverage that emerged later in 1954 stated that O'Farrell encountered 
 
 The feature that separates the Nowra case from most Australian UFO reports is the alleged radar confirmation.
 
-According to the National Archives of Australia summary of the event, O'Farrell radioed Nowra after noticing the objects. Personnel on the ground reportedly advised that unknown targets were appearing on radar at the same time. The archival summary specifically notes that the objects were “registering on radar” while the visual observation was taking place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
+According to the National Archives of Australia summary of the event, O'Farrell radioed Nowra after noticing the objects. Personnel on the ground reportedly advised that unknown targets were appearing on radar at the same time. The archival summary specifically notes that the objects were “registering on radar” while the visual observation was taking place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
 
-Later discussions of the case identify the radar operator as Petty Officer Keith Jessop. Accounts based on released records state that two radar returns appeared near the Sea Fury's position on a ground-controlled interception display. These reports have been widely cited because they suggest an apparent correlation between what the pilot claimed to see and what radar operators believed they were tracking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-sea-fury-incident-august-31-1954-nowra-australia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultThe “Sea Fury Incident” August 31, 1954, Nowra, Australia3 Apr 2015 — The radar operator, Petty Officer Keith Jessop, conf...</span><span class="citation-popover-meta">Published: August 31, 1954</span></span></span>
+Later discussions of the case identify the radar operator as Petty Officer Keith Jessop. Accounts based on released records state that two radar returns appeared near the Sea Fury's position on a ground-controlled interception display. These reports have been widely cited because they suggest an apparent correlation between what the pilot claimed to see and what radar operators believed they were tracking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-sea-fury-incident-august-31-1954-nowra-australia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultThe “Sea Fury Incident” August 31, 1954, Nowra, Australia3 Apr 2015 — The radar operator, Petty Officer Keith Jessop, conf...</span><span class="citation-popover-meta">Published: August 31, 1954</span></span></span>
 
-For investigators, radar evidence is important because it potentially moves a case beyond pure eyewitness testimony. If a radar return genuinely corresponds to an observed object, there is at least some indication that the event involved a physical target rather than a purely visual misperception. However, radar data also has limitations. Radar systems can produce false returns, anomalous echoes, clutter and other misleading signals, particularly in the era of 1950s equipment. The existence of a radar report therefore strengthens the case without automatically proving the nature of the object detected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
+For investigators, radar evidence is important because it potentially moves a case beyond pure eyewitness testimony. If a radar return genuinely corresponds to an observed object, there is at least some indication that the event involved a physical target rather than a purely visual misperception. However, radar data also has limitations. Radar systems can produce false returns, anomalous echoes, clutter and other misleading signals, particularly in the era of 1950s equipment. The existence of a radar report therefore strengthens the case without automatically proving the nature of the object detected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_nowra_sea_fury_radar_690330-Illustration-2-dark.svg" | relative_url }}" alt="Nowra Sea Fury illustration 2" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_nowra_sea_fury_radar_690330-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_nowra_sea_fury_radar_690330-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the radar evidence remains debated
 
-The strongest version of the Nowra story presents it as a classic radar-visual case: a pilot sees unknown objects while radar operators independently track corresponding targets. If accepted at face value, that combination is difficult to dismiss as a simple misidentification of a planet or star. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
+The strongest version of the Nowra story presents it as a classic radar-visual case: a pilot sees unknown objects while radar operators independently track corresponding targets. If accepted at face value, that combination is difficult to dismiss as a simple misidentification of a planet or star.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
 
-The problem is that historians do not possess the kind of complete technical record that modern investigators would ideally want. Surviving summaries describe the radar confirmation, but there is limited publicly available information on the exact radar characteristics, target behaviour, equipment performance or potential sources of interference. As a result, researchers disagree about how much evidential weight should be attached to the radar component. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
+The problem is that historians do not possess the kind of complete technical record that modern investigators would ideally want. Surviving summaries describe the radar confirmation, but there is limited publicly available information on the exact radar characteristics, target behaviour, equipment performance or potential sources of interference. As a result, researchers disagree about how much evidential weight should be attached to the radar component.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
 
 Sceptical interpretations generally focus on several possibilities:
 
@@ -314,11 +314,11 @@ Sceptical interpretations generally focus on several possibilities:
 * Misinterpretation of radar returns rather than tracking of a distinct object.
 * Incomplete records that make later reconstruction difficult.
 * The possibility that visual and radar observations became linked in recollections after the event.
-* Lack of independent technical data allowing modern verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/sea_fury_1954.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">sea fury 1954</span><span class="citation-popover-snippet">Project 1947THE &#x27;SEA FURY&#x27; RADAR INCIDENT REVISITEDOne of the most fascinating and controversial Australian radar/visual sighting reports...</span></span></span>
+* Lack of independent technical data allowing modern verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/sea_fury_1954.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">sea fury 1954</span><span class="citation-popover-snippet">Project 1947THE &#x27;SEA FURY&#x27; RADAR INCIDENT REVISITEDOne of the most fascinating and controversial Australian radar/visual sighting reports...</span></span></span>
 
 </div>
 
-At the same time, supporters of the case point out that the radar claim was recorded close to the time of the incident and formed part of the reason the report received lasting attention within official files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
+At the same time, supporters of the case point out that the radar claim was recorded close to the time of the incident and formed part of the reason the report received lasting attention within official files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_nowra_sea_fury_radar_690330-Illustration-3-dark.svg" | relative_url }}" alt="Nowra Sea Fury illustration 3" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_nowra_sea_fury_radar_690330-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_nowra_sea_fury_radar_690330-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -326,205 +326,205 @@ At the same time, supporters of the case point out that the radar claim was reco
 
 The most significant fact about the Nowra Sea Fury incident is not that investigators reached an extraordinary conclusion. It is that they did not reach a satisfactory ordinary one.
 
-The National Archives summary states that after accompanying the aircraft for a period, the lights accelerated away towards the north-east and disappeared. O'Farrell subsequently filed a detailed report, and the associated records did not produce a definitive identification. The incident therefore remained classified within the broad category of an unresolved unusual aerial sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
+The National Archives summary states that after accompanying the aircraft for a period, the lights accelerated away towards the north-east and disappeared. O'Farrell subsequently filed a detailed report, and the associated records did not produce a definitive identification. The incident therefore remained classified within the broad category of an unresolved unusual aerial sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
 
-Over subsequent decades the case continued to attract attention from Australian researchers because it appeared in official files rather than existing solely as folklore. It was later discussed by civilian investigators and became one of the best-known examples of a military radar-visual report in Australian UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/seafury.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook+2Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookThe &quot;Sea Fury Incident&quot; August 31, 1954, Nowra, AustraliaOne of the most controversial radar visual reports of the fifties oc...</span><span class="citation-popover-meta">Published: August 31, 1954</span></span></span>
+Over subsequent decades the case continued to attract attention from Australian researchers because it appeared in official files rather than existing solely as folklore. It was later discussed by civilian investigators and became one of the best-known examples of a military radar-visual report in Australian UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/seafury.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookThe &quot;Sea Fury Incident&quot; August 31, 1954, Nowra, AustraliaOne of the most controversial radar visual reports of the fifties oc...</span><span class="citation-popover-meta">Published: August 31, 1954</span></span></span>
 
-Within the broader story of [RAAF records]({{ 'raaf-records/' | relative_url }}) and official UFO scrutiny in New South Wales, the Nowra Sea Fury incident occupies a distinctive position. It is not compelling because it offers proof of an extraordinary explanation. It remains important because it brought together a trained naval aviator, a military aviation setting, contemporaneous reporting and claimed radar confirmation, yet still resisted a clear resolution. More than seventy years later, that combination continues to make it one of the strongest and most frequently cited official UFO cases associated with New South Wales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA+2Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
+Within the broader story of [RAAF records]({{ 'raaf-records/' | relative_url }}) and official UFO scrutiny in New South Wales, the Nowra Sea Fury incident occupies a distinctive position. It is not compelling because it offers proof of an extraordinary explanation. It remains important because it brought together a trained naval aviator, a military aviation setting, contemporaneous reporting and claimed radar confirmation, yet still resisted a clear resolution. More than seventy years later, that combination continues to make it one of the strongest and most frequently cited official UFO cases associated with New South Wales.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[naa.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MRQTAHAVG_0" title="Sea Fury pilot J.A. &quot;Shamus&quot; O&#x27;Farrell encountered 2 radar confirmed UFOs, Nowra, Australia, 1954" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MRQTAHAVG_0" target="_blank" rel="noopener noreferrer">Sea Fury pilot J.A. &quot;Shamus&quot; O&#x27;Farrell encountered 2 radar confirmed UFOs, Nowra, Australia, 1954</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MRQTAHAVG_0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MRQTAHAVG_0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Nowra Sea Fury case still matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Nowra Sea Fury case still matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes pilot testimony and radar-correlated cases, directly echoing the Nowra Sea Fury incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes pilot testimony and radar-correlated cases, directly echoing the Nowra Sea Fury incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses witness reliability, investigation standards and classification of unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses witness reliability, investigation standards and classification of unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for unresolved military aviation cases and investigative limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for unresolved military aviation cases and investigative limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Another defence-related case study illustrating why some official investigations remain unresolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Another defence-related case study illustrating why some official investigations remain unresolved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="nowra-sea-fury-why-the-nowra-sea-fury-case-still-matters-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-nowra-sea-fury-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-nowra-sea-fury-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ Within the broader story of [RAAF records]({{ 'raaf-records/' | relative_url }})
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ Within the broader story of [RAAF records]({{ 'raaf-records/' | relative_url }})
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ Within the broader story of [RAAF records]({{ 'raaf-records/' | relative_url }})
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ Within the broader story of [RAAF records]({{ 'raaf-records/' | relative_url }})
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ Within the broader story of [RAAF records]({{ 'raaf-records/' | relative_url }})
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,107 +730,107 @@ Within the broader story of [RAAF records]({{ 'raaf-records/' | relative_url }})
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: naa.gov.au  
    Title: flying saucers fact or fiction  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</p></details>
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers – fact or fiction?28 Feb 2018 — The Sea Fury incident. One such case was the Sea Fury incident of 1954. On 31 August Ro...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: project1947.com  
    Title: sea fury 1954  
-   Link: <a href="https://www.project1947.com/kbcat/sea_fury_1954.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/sea_fury_1954.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947THE &#x27;SEA FURY&#x27; RADAR INCIDENT REVISITEDOne of the most fascinating and controversial Australian radar/visual sighting reports...</p></details>
+   Link:<a href="https://www.project1947.com/kbcat/sea_fury_1954.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/sea_fury_1954.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947THE &#x27;SEA FURY&#x27; RADAR INCIDENT REVISITEDOne of the most fascinating and controversial Australian radar/visual sighting reports...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: trove.nla.gov.au  
    Title: Trove"FLYING SAUCERS" CONFIRMED BY NOWRA RADAR  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/96500678" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/96500678</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The pilot, Lieutenant O&#x27;Farrell, saw two objects which he took to be &quot;flying saucers&quot; when flying at night over Goulburn, NSW, on a...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/96500678" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/96500678</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The pilot, Lieutenant O&#x27;Farrell, saw two objects which he took to be &quot;flying saucers&quot; when flying at night over Goulburn, NSW, on a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-sea-fury-incident-august-31-1954-nowra-australia/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-sea-fury-incident-august-31-1954-nowra-australia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe “Sea Fury Incident” August 31, 1954, Nowra, Australia3 Apr 2015 — The radar operator, Petty Officer Keith Jessop, conf...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-sea-fury-incident-august-31-1954-nowra-australia/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-sea-fury-incident-august-31-1954-nowra-australia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe “Sea Fury Incident” August 31, 1954, Nowra, Australia3 Apr 2015 — The radar operator, Petty Officer Keith Jessop, conf...</p></details>
    Published: August 31, 1954  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/seafury.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/seafury.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookThe &quot;Sea Fury Incident&quot; August 31, 1954, Nowra, AustraliaOne of the most controversial radar visual reports of the fifties oc...</p></details>
+   Link:<a href="https://www.ufocasebook.com/seafury.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/seafury.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookThe &quot;Sea Fury Incident&quot; August 31, 1954, Nowra, AustraliaOne of the most controversial radar visual reports of the fifties oc...</p></details>
    Published: August 31, 1954  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: seapower.navy.gov.au  
-   Link: <a href="https://seapower.navy.gov.au/history/units/hawker-sea-fury-mark-11" target="_blank" rel="noopener noreferrer nofollow">https://seapower.navy.gov.au/history/units/hawker-sea-fury-mark-11</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sea Fury Mark 11Left: A Hawker Sea Fury at the Naval Air Station, Nowra with wings folded. Right: A Sea Fury on a training flight over th...</p></details>
+   Link:<a href="https://seapower.navy.gov.au/history/units/hawker-sea-fury-mark-11" target="_blank" rel="noopener noreferrer nofollow">https://seapower.navy.gov.au/history/units/hawker-sea-fury-mark-11</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sea Fury Mark 11Left: A Hawker Sea Fury at the Naval Air Station, Nowra with wings folded. Right: A Sea Fury on a training flight over th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: airforce.gov.au  
    Title: Our Journey  
-   Link: <a href="https://www.airforce.gov.au/about-us/history/our-journey" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/about-us/history/our-journey</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction of the Sabre Aircraft. 30 August 1954. Rollout of the Sabre...Read more...</p></details>
+   Link:<a href="https://www.airforce.gov.au/about-us/history/our-journey" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/about-us/history/our-journey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction of the Sabre Aircraft. 30 August 1954. Rollout of the Sabre...Read more...</p></details>
    Published: August 1954  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/MP926-1%203079-101-1%203173603.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/MP926-1%203079-101-1%203173603.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comMP926-1 3079-101-1 3173603.pdfThe latter says that the naval pilot who is alleged to have reported the &quot;Saucers&quot; is beli...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/MP926-1%203079-101-1%203173603.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/MP926-1%203079-101-1%203173603.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comMP926-1 3079-101-1 3173603.pdfThe latter says that the naval pilot who is alleged to have reported the &quot;Saucers&quot; is beli...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: awm.gov.au  
-   Link: <a href="https://www.awm.gov.au/sites/default/files/135846/files/36-43-awm-wt86-james0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/sites/default/files/135846/files/36-43-awm-wt86-james0.pdf</a>  
+   Link:<a href="https://www.awm.gov.au/sites/default/files/135846/files/36-43-awm-wt86-james0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/sites/default/files/135846/files/36-43-awm-wt86-james0.pdf</a>  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: navywings.org.uk  
-   Link: <a href="https://navywings.org.uk/new-sea-fury-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://navywings.org.uk/new-sea-fury-pilots/</a>  
+   Link:<a href="https://navywings.org.uk/new-sea-fury-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://navywings.org.uk/new-sea-fury-pilots/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zlrz84nEXtk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zlrz84nEXtk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped...WATCH: Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped unidentified f...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zlrz84nEXtk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zlrz84nEXtk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped...WATCH: Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped unidentified f...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
    Title: But we've established one thing. They exist. OCR. NAVY PILOT SAW IT  
-   Link: <a href="https://www.instagram.com/reel/B_gn6OghkpE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/B_gn6OghkpE/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On Monday, the U.S Navy released 3 official incident footages...These unidentified flying phenomenon or objects, I don&#x27;t know what they are...</p></details>
+   Link:<a href="https://www.instagram.com/reel/B_gn6OghkpE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/B_gn6OghkpE/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On Monday, the U.S Navy released 3 official incident footages...These unidentified flying phenomenon or objects, I don&#x27;t know what they are...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: australian navy hawker sea fury over nowra nsw  
-   Link: <a href="https://www.reddit.com/r/WWIIplanes/comments/1du8zwi/australian_navy_hawker_sea_fury_over_nowra_nsw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WWIIplanes/comments/1du8zwi/australian_navy_hawker_sea_fury_over_nowra_nsw/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Navy Hawker Sea Fury over Nowra, NSW...Although the Sea Fury first flew in Feb 1945 it was not introduced until 1947 hence mi...</p></details>
+   Link:<a href="https://www.reddit.com/r/WWIIplanes/comments/1du8zwi/australian_navy_hawker_sea_fury_over_nowra_nsw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WWIIplanes/comments/1du8zwi/australian_navy_hawker_sea_fury_over_nowra_nsw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Navy Hawker Sea Fury over Nowra, NSW...Although the Sea Fury first flew in Feb 1945 it was not introduced until 1947 hence mi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: southcoastregister.com.au  
-   Link: <a href="https://www.southcoastregister.com.au/story/8295105/odd-history-nowra-had-its-own-alleged-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.southcoastregister.com.au/story/8295105/odd-history-nowra-had-its-own-alleged-ufo-sighting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Odd history: Nowra had its own alleged UFO sighting6 Aug 2023 — Odd history: Nowra had its own alleged UFO sighting, by an HMAS Albatross...</p></details>
+   Link:<a href="https://www.southcoastregister.com.au/story/8295105/odd-history-nowra-had-its-own-alleged-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.southcoastregister.com.au/story/8295105/odd-history-nowra-had-its-own-alleged-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Odd history: Nowra had its own alleged UFO sighting6 Aug 2023 — Odd history: Nowra had its own alleged UFO sighting, by an HMAS Albatross...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=MRQTAHAVG_0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MRQTAHAVG_0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Australian UFO Archive: The Sea Fury, Maralinga, and the Valentich Mystery...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=MRQTAHAVG_0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MRQTAHAVG_0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Australian UFO Archive: The Sea Fury, Maralinga, and the Valentich Mystery...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abc.net.au  
    Title: accessing australia secret ufo files  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Bill Chalker became one of the first civilians to access...6 Dec 2024 — Bill Chalker was one of the first civilians to access Austra...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Bill Chalker became one of the first civilians to access...6 Dec 2024 — Bill Chalker was one of the first civilians to access Austra...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flightradar24/comments/1775k0g/unidentified_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flightradar24/comments/1775k0g/unidentified_aircraft/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>k off from ADS in Dallas-fort worth area.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/flightradar24/comments/1775k0g/unidentified_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flightradar24/comments/1775k0g/unidentified_aircraft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>k off from ADS in Dallas-fort worth area.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=8yFIRaalq10" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8yFIRaalq10</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1954 🇦🇺 #UFOB [CASE] The &#x27;Sea Fury&#x27; incident Australia, backed by radar evidence...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8yFIRaalq10" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8yFIRaalq10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1954 🇦🇺 #UFOB [CASE] The &#x27;Sea Fury&#x27; incident Australia, backed by radar evidence...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=p9lLYAltbe0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=p9lLYAltbe0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot UFO Encounter - Lieutenant J.A. O&#x27;Farrell THE SEA FURY INCIDENT 1954...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=p9lLYAltbe0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=p9lLYAltbe0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot UFO Encounter - Lieutenant J.A. O&#x27;Farrell THE SEA FURY INCIDENT 1954...</p></details>

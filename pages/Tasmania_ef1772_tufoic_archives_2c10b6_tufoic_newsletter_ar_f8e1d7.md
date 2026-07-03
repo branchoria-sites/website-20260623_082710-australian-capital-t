@@ -262,7 +262,7 @@ image: /assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_newsletter_a
 
 ## Introduction
 
-The most important thing [TUFOIC]({{ 'tufoic/' | relative_url }})’s newsletters achieved was not proving that any Tasmanian UFO sighting was extraordinary. Their real achievement was turning isolated reports into a record that could be checked, compared and preserved. Before online databases, many sightings existed only as a telephone call, a letter to a newspaper, or a story passed between friends. Once those accounts were entered into a TUFOIC newsletter, they gained a date, a location, a witness description and a place within a growing archive. Over time, hundreds of small entries accumulated into one of [Tasmania]({{ 'what-really-happened-in-tasmanias-ufo/' | relative_url }})’s most significant civilian collections of UFO reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Australian ufology</span><span class="citation-popover-snippet">May 16, 2025 —... UFO And Phenomena. 1970s. edit. In late 1970, Tasmania UFO Investigation Centre (TUFOIC) produced the Tasmanian UFO Re...</span><span class="citation-popover-meta">Published: May 16, 2025</span></span></span>
+The most important thing [TUFOIC]({{ 'tufoic/' | relative_url }})’s newsletters achieved was not proving that any Tasmanian UFO sighting was extraordinary. Their real achievement was turning isolated reports into a record that could be checked, compared and preserved. Before online databases, many sightings existed only as a telephone call, a letter to a newspaper, or a story passed between friends. Once those accounts were entered into a TUFOIC newsletter, they gained a date, a location, a witness description and a place within a growing archive. Over time, hundreds of small entries accumulated into one of [Tasmania]({{ 'what-really-happened-in-tasmanias-ufo/' | relative_url }})’s most significant civilian collections of UFO reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Australian ufology</span><span class="citation-popover-snippet">May 16, 2025 —... UFO And Phenomena. 1970s. edit. In late 1970, Tasmania UFO Investigation Centre (TUFOIC) produced the Tasmanian UFO Re...</span><span class="citation-popover-meta">Published: May 16, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_newsletter_ar_f8e1d7-Illustration-1-dark.svg" | relative_url }}" alt="Newsletters illustration 1" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_newsletter_ar_f8e1d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_newsletter_ar_f8e1d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -281,7 +281,7 @@ The newsletter format provided a practical solution. Even brief entries could re
 * Initial investigative comments.
 * Possible conventional [explanations]({{ 'explanations-0349ac/' | relative_url }}) where known.
 
-By publishing reports soon after they were received, TUFOIC created a time-stamped trail. Later researchers could see not only what was reported but when it entered the record. This was particularly valuable during periods when multiple sightings were reported across Tasmania, because investigators could compare accounts rather than treat each one as an isolated mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://policycommons.net/artifacts/21884693/tufoic-newsletter-no-066-june-1992-undefined/22784881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: policycommons.net">[Policy Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">policycommons.net</span><span class="citation-popover-title">tufoic newsletter no 066 june 1992 undefined</span><span class="citation-popover-snippet">Policy CommonsTUFOIC Newsletter No 066 June 1992 undefinedThis newsletter from the Tasmanian UFO Investigation Centre (TUFOIC) summarizes...</span><span class="citation-popover-meta">Published: june 1992</span></span></span>
+By publishing reports soon after they were received, TUFOIC created a time-stamped trail. Later researchers could see not only what was reported but when it entered the record. This was particularly valuable during periods when multiple sightings were reported across Tasmania, because investigators could compare accounts rather than treat each one as an isolated mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://policycommons.net/artifacts/21884693/tufoic-newsletter-no-066-june-1992-undefined/22784881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: policycommons.net">[Policy Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">policycommons.net</span><span class="citation-popover-title">tufoic newsletter no 066 june 1992 undefined</span><span class="citation-popover-snippet">Policy CommonsTUFOIC Newsletter No 066 June 1992 undefinedThis newsletter from the Tasmanian UFO Investigation Centre (TUFOIC) summarizes...</span><span class="citation-popover-meta">Published: june 1992</span></span></span>
 
 The newsletters also acted as a feedback mechanism. Readers occasionally recognised similar events, supplied additional information or suggested explanations. In that sense, publication was part of the investigation process rather than merely a final report.
 
@@ -292,7 +292,7 @@ The newsletters also acted as a feedback mechanism. Readers occasionally recogni
 
 As the number of reports increased, newsletters alone were not enough. Information had to be organised so that older cases could still be found.
 
-Evidence from Australian UFO-history sources indicates that TUFOIC began publishing the *Tasmanian UFO Report* in 1970, later continuing as the *TUFOIC Newsletter*, which ultimately ran for many decades and dozens of issues. Histories of Australian ufology commonly describe a long publication run extending from 1970 into the late twentieth century. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Australian ufology</span><span class="citation-popover-snippet">May 16, 2025 —... UFO And Phenomena. 1970s. edit. In late 1970, Tasmania UFO Investigation Centre (TUFOIC) produced the Tasmanian UFO Re...</span><span class="citation-popover-meta">Published: May 16, 2025</span></span></span>
+Evidence from Australian UFO-history sources indicates that TUFOIC began publishing the *Tasmanian UFO Report* in 1970, later continuing as the *TUFOIC Newsletter*, which ultimately ran for many decades and dozens of issues. Histories of Australian ufology commonly describe a long publication run extending from 1970 into the late twentieth century.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Australian ufology</span><span class="citation-popover-snippet">May 16, 2025 —... UFO And Phenomena. 1970s. edit. In late 1970, Tasmania UFO Investigation Centre (TUFOIC) produced the Tasmanian UFO Re...</span><span class="citation-popover-meta">Published: May 16, 2025</span></span></span>
 
 This continuity allowed several layers of archiving to develop:
 
@@ -306,7 +306,7 @@ This continuity allowed several layers of archiving to develop:
 
 The result was cumulative. A sighting from a small Tasmanian town might first appear as a short newsletter note. Years later it could be incorporated into an annual review. Decades after that, it might appear again in a historical compilation. Each step reduced the risk that the original report would be lost.
 
-This layered approach is visible in later TUFOIC publications. Keith Roberts’ *Tasmania: A UFO History* assembled historical reports, newspaper clippings, sketches and case summaries stretching back into the nineteenth century, demonstrating how earlier newsletter material had been preserved and reused rather than forgotten. National Library of Australia Catalogue+2UFOs Scientific Research <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catalogue.nla.gov.au/catalog/6150730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.nla.gov.au">[catalogue.nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.nla.gov.au</span><span class="citation-popover-snippet">Request Order a copy... Hobart: Tasmanian UFO Investigation Centre, 2011; 76 p.: ill. (some col...Read more...</span></span></span>
+This layered approach is visible in later TUFOIC publications. Keith Roberts’ *Tasmania: A UFO History* assembled historical reports, newspaper clippings, sketches and case summaries stretching back into the nineteenth century, demonstrating how earlier newsletter material had been preserved and reused rather than forgotten. National Library of Australia Catalogue+2UFOs Scientific Research<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catalogue.nla.gov.au/catalog/6150730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.nla.gov.au">[catalogue.nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.nla.gov.au</span><span class="citation-popover-snippet">Request Order a copy... Hobart: Tasmanian UFO Investigation Centre, 2011; 76 p.: ill. (some col...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_newsletter_ar_f8e1d7-Illustration-2-dark.svg" | relative_url }}" alt="Newsletters illustration 2" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_newsletter_ar_f8e1d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_newsletter_ar_f8e1d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,7 +329,7 @@ The newsletters therefore preserve reporting history as much as sighting history
 
 The greatest weakness of newsletter-based archives was their vulnerability. Small print runs meant that many copies were easily lost. A collection held by a single researcher could disappear through neglect, relocation or estate dispersal.
 
-For that reason, wider archival preservation became essential. TUFOIC material eventually reached larger repositories and collections beyond Tasmania. Copies of newsletters have been preserved by specialist UFO archives, while later TUFOIC publications entered institutional catalogues such as the National Library of Australia. Surviving issues have also been digitised by archival projects, making material that was once available only to a handful of subscribers accessible to researchers around the world. Internet Archive+2National Library of Australia Catalogue <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/details/TUFOIC_Newsletter_No_097_February_2005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">TUFOIC Newsletter No 097 February 2005</span><span class="citation-popover-snippet">Internet ArchiveTUFOIC Newsletter No 097 February 200515 Oct 2019 — TUFOIC Newsletter No 097 February 2005; Publication date: 2005; Top...</span><span class="citation-popover-meta">Published: February 2005</span></span></span>
+For that reason, wider archival preservation became essential. TUFOIC material eventually reached larger repositories and collections beyond Tasmania. Copies of newsletters have been preserved by specialist UFO archives, while later TUFOIC publications entered institutional catalogues such as the National Library of Australia. Surviving issues have also been digitised by archival projects, making material that was once available only to a handful of subscribers accessible to researchers around the world. Internet Archive+2National Library of Australia Catalogue<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/details/TUFOIC_Newsletter_No_097_February_2005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">TUFOIC Newsletter No 097 February 2005</span><span class="citation-popover-snippet">Internet ArchiveTUFOIC Newsletter No 097 February 200515 Oct 2019 — TUFOIC Newsletter No 097 February 2005; Publication date: 2005; Top...</span><span class="citation-popover-meta">Published: February 2005</span></span></span>
 
 This migration from photocopied newsletter to library catalogue illustrates the larger significance of TUFOIC’s work. The organisation did not create a modern database from the outset. Instead, it built an archive gradually through repeated acts of documentation: recording a witness account, printing a newsletter item, compiling annual summaries and preserving older reports.
 
@@ -346,194 +346,194 @@ What the newsletters do provide is continuity. Without them, many Tasmanian sigh
 <img src="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_newsletter_ar_f8e1d7-Illustration-3-dark.svg" | relative_url }}" alt="Newsletters illustration 3" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_newsletter_ar_f8e1d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_tufoic_newsletter_ar_f8e1d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Small Newsletters Saved Tasmanian Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Small Newsletters Saved Tasmanian Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented reports and source-based investigation rather than sensationalism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented reports and source-based investigation rather than sensationalism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains case collection, classification, and evaluation of witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains case collection, classification, and evaluation of witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Illustrates how sightings move from witness reports into organized records and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how sightings move from witness reports into organized records and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s emphasis on preserving reports, cataloguing cases, and building long-term archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s emphasis on preserving reports, cataloguing cases, and building long-term archives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="{{ '/assets/images/marketplace-covers/0c2eebb918fe7513f183.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="newsletters-how-small-newsletters-saved-tasmanian-reports-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-small-newsletters-saved-tasmanian-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-small-newsletters-saved-tasmanian-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ What the newsletters do provide is continuity. Without them, many Tasmanian sigh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ What the newsletters do provide is continuity. Without them, many Tasmanian sigh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ What the newsletters do provide is continuity. Without them, many Tasmanian sigh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ What the newsletters do provide is continuity. Without them, many Tasmanian sigh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ What the newsletters do provide is continuity. Without them, many Tasmanian sigh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,88 +739,88 @@ What the newsletters do provide is continuity. Without them, many Tasmanian sigh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Australian ufology  
-   Link: <a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 16, 2025 —... UFO And Phenomena. 1970s. edit. In late 1970, Tasmania UFO Investigation Centre (TUFOIC) produced the Tasmanian UFO Re...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 16, 2025 —... UFO And Phenomena. 1970s. edit. In late 1970, Tasmania UFO Investigation Centre (TUFOIC) produced the Tasmanian UFO Re...</p></details>
    Published: May 16, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
    Title: TUFOIC Newsletter No 097 February 2005  
-   Link: <a href="https://archive.org/details/TUFOIC_Newsletter_No_097_February_2005" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/TUFOIC_Newsletter_No_097_February_2005</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveTUFOIC Newsletter No 097 February 200515 Oct 2019 — TUFOIC Newsletter No 097 February 2005; Publication date: 2005; Top...</p></details>
+   Link:<a href="https://archive.org/details/TUFOIC_Newsletter_No_097_February_2005" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/TUFOIC_Newsletter_No_097_February_2005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveTUFOIC Newsletter No 097 February 200515 Oct 2019 — TUFOIC Newsletter No 097 February 2005; Publication date: 2005; Top...</p></details>
    Published: February 2005  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/6150730" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/6150730</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Request Order a copy... Hobart: Tasmanian UFO Investigation Centre, 2011; 76 p.: ill. (some col...Read more...</p></details>
+   Link:<a href="https://catalogue.nla.gov.au/catalog/6150730" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/6150730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Request Order a copy... Hobart: Tasmanian UFO Investigation Centre, 2011; 76 p.: ill. (some col...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: policycommons.net  
    Title: tufoic newsletter no 066 june 1992 undefined  
-   Link: <a href="https://policycommons.net/artifacts/21884693/tufoic-newsletter-no-066-june-1992-undefined/22784881/" target="_blank" rel="noopener noreferrer nofollow">https://policycommons.net/artifacts/21884693/tufoic-newsletter-no-066-june-1992-undefined/22784881/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Policy CommonsTUFOIC Newsletter No 066 June 1992 undefinedThis newsletter from the Tasmanian UFO Investigation Centre (TUFOIC) summarizes...</p></details>
+   Link:<a href="https://policycommons.net/artifacts/21884693/tufoic-newsletter-no-066-june-1992-undefined/22784881/" target="_blank" rel="noopener noreferrer nofollow">https://policycommons.net/artifacts/21884693/tufoic-newsletter-no-066-june-1992-undefined/22784881/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Policy CommonsTUFOIC Newsletter No 066 June 1992 undefinedThis newsletter from the Tasmanian UFO Investigation Centre (TUFOIC) summarizes...</p></details>
    Published: june 1992  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: UFOs Scientific Research Tasmania  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2013/01/tasmania-ufo-history.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2013/01/tasmania-ufo-history.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tasmania - a UFO history18 Jan 2013 — Hi all, The Tasmanian UFO Investigation Centre (TUFOIC) has recently produced a new 77 page publica...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2013/01/tasmania-ufo-history.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2013/01/tasmania-ufo-history.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tasmania - a UFO history18 Jan 2013 — Hi all, The Tasmanian UFO Investigation Centre (TUFOIC) has recently produced a new 77 page publica...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/auroraaustralis/posts/24527287733546112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/auroraaustralis/posts/24527287733546112/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in southern Tasmania?UFOs in Australia As depicted in the art and petroglyphs of the Aboriginal people, UFO and alien sighti...</p></details>
+   Link:<a href="https://www.facebook.com/groups/auroraaustralis/posts/24527287733546112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/auroraaustralis/posts/24527287733546112/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in southern Tasmania?UFOs in Australia As depicted in the art and petroglyphs of the Aboriginal people, UFO and alien sighti...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: shop.fullersbookshop.com.au  
-   Link: <a href="https://shop.fullersbookshop.com.au/p/tasmania-a-ufo-history" target="_blank" rel="noopener noreferrer nofollow">https://shop.fullersbookshop.com.au/p/tasmania-a-ufo-history</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO History: TASUFO; Publisher: tufoic; Product Type: books. Special Fields. Author: Keith Roberts. In recognition of the deep histo...</p></details>
+   Link:<a href="https://shop.fullersbookshop.com.au/p/tasmania-a-ufo-history" target="_blank" rel="noopener noreferrer nofollow">https://shop.fullersbookshop.com.au/p/tasmania-a-ufo-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO History: TASUFO; Publisher: tufoic; Product Type: books. Special Fields. Author: Keith Roberts. In recognition of the deep histo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCiview/videos/ufos-in-australia-arj-barker-investigates-australia-talks-monday-21-june-8pm-on-/562449445137971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCiview/videos/ufos-in-australia-arj-barker-investigates-australia-talks-monday-21-june-8pm-on-/562449445137971/</a>  
+   Link:<a href="https://www.facebook.com/ABCiview/videos/ufos-in-australia-arj-barker-investigates-australia-talks-monday-21-june-8pm-on-/562449445137971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCiview/videos/ufos-in-australia-arj-barker-investigates-australia-talks-monday-21-june-8pm-on-/562449445137971/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/flightfacilities/posts/ufo-sightings-were-at-an-all-time-high-last-night-tasmania-you-were-amazing-as-a/748555269960318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/flightfacilities/posts/ufo-sightings-were-at-an-all-time-high-last-night-tasmania-you-were-amazing-as-a/748555269960318/</a>  
+   Link:<a href="https://www.facebook.com/flightfacilities/posts/ufo-sightings-were-at-an-all-time-high-last-night-tasmania-you-were-amazing-as-a/748555269960318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/flightfacilities/posts/ufo-sightings-were-at-an-all-time-high-last-night-tasmania-you-were-amazing-as-a/748555269960318/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: yet more australian pdfs 95 issues of tufoic tasmanian ufo investigation centre  
-   Link: <a href="https://www.facebook.com/isaac.koi/posts/yet-more-australian-pdfs-95-issues-of-tufoic-tasmanian-ufo-investigation-centre-/10211875296867448/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/isaac.koi/posts/yet-more-australian-pdfs-95-issues-of-tufoic-tasmanian-ufo-investigation-centre-/10211875296867448/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>95 issues of TUFOIC [Tasmanian UFO Investigation Centre...4 Oct 2018 — Yet more Australian PDFs - 95 issues of TUFOIC [Tasmanian UFO Inv...</p></details>
+   Link:<a href="https://www.facebook.com/isaac.koi/posts/yet-more-australian-pdfs-95-issues-of-tufoic-tasmanian-ufo-investigation-centre-/10211875296867448/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/isaac.koi/posts/yet-more-australian-pdfs-95-issues-of-tufoic-tasmanian-ufo-investigation-centre-/10211875296867448/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>95 issues of TUFOIC [Tasmanian UFO Investigation Centre...4 Oct 2018 — Yet more Australian PDFs - 95 issues of TUFOIC [Tasmanian UFO Inv...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/492616223/Australian-UFO-Magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/492616223/Australian-UFO-Magazine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 pages. UFO Sightings and Reports Overview. PDF. No ratings yet. UFO Sightings and Reports Overview. 7 pages.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/492616223/Australian-UFO-Magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/492616223/Australian-UFO-Magazine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 pages. UFO Sightings and Reports Overview. PDF. No ratings yet. UFO Sightings and Reports Overview. 7 pages.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ence, less well known, stretching back to the sixteenth century.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ence, less well known, stretching back to the sixteenth century.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scribd.com  
    Title: Catalog for Collectors UFO Newsletters 2023  
-   Link: <a href="https://www.scribd.com/document/729071349/Catalog-for-Collectors-UFO-Newsletters-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/729071349/Catalog-for-Collectors-UFO-Newsletters-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Newsletter Collector&#x27;s Catalog 2023 | PDF3 May 2024 — The document appears to be a catalog listing UFO newsletters from various count...</p></details>
+   Link:<a href="https://www.scribd.com/document/729071349/Catalog-for-Collectors-UFO-Newsletters-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/729071349/Catalog-for-Collectors-UFO-Newsletters-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Newsletter Collector&#x27;s Catalog 2023 | PDF3 May 2024 — The document appears to be a catalog listing UFO newsletters from various count...</p></details>
    Published: May 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nZ6s2NmySbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nZ6s2NmySbs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the 80s the RAAF held hundreds of files documenting UFO sightings 🛸 | Uncropped | ABC Australia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nZ6s2NmySbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nZ6s2NmySbs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the 80s the RAAF held hundreds of files documenting UFO sightings 🛸 | Uncropped | ABC Australia...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ignaciodarnaude.es  
    Title: AF U Serials Archive by Country and Title  
-   Link: <a href="https://ignaciodarnaude.es/wp-content/uploads/2025/08/Rev.UFO-Journals-List.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ignaciodarnaude.es/wp-content/uploads/2025/08/Rev.UFO-Journals-List.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Newsletter. 1. 1970. 2=May/June, 3=July/Aug. Editor: G Aldunati. 2. Aurora (El Grupo Aurora). 1. Mayo. 199? Editor: P Warmkraut. 1. B...</p></details>
+   Link:<a href="https://ignaciodarnaude.es/wp-content/uploads/2025/08/Rev.UFO-Journals-List.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ignaciodarnaude.es/wp-content/uploads/2025/08/Rev.UFO-Journals-List.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Newsletter. 1. 1970. 2=May/June, 3=July/Aug. Editor: G Aldunati. 2. Aurora (El Grupo Aurora). 1. Mayo. 199? Editor: P Warmkraut. 1. B...</p></details>

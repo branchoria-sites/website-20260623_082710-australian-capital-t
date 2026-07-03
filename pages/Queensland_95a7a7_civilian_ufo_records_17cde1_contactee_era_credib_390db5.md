@@ -256,19 +256,19 @@ image: /assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_contactee_er
 
 ## Introduction
 
-Did contactee culture blur [Queensland]({{ 'queenslands-ufo-stories-evidence-and/' | relative_url }}) UFO research? The short answer is yes, but not in a simple way. During the 1950s and early 1960s, Queensland’s emerging UFO organisations grew at the same time that the international contactee movement was reaching its peak. Claims of friendly “Space Brothers”, secret knowledge and direct communication with extraterrestrials attracted public attention and helped bring new members into flying-saucer groups. Yet the same beliefs also created credibility problems for investigators who wanted UFO research to be taken seriously. In Queensland, this tension became a defining feature of the era. The state’s civilian UFO archives preserve both strands: enthusiastic belief and attempts at careful documentation. Understanding that balance is essential when assessing the historical value of Queensland’s early UFO records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
+Did contactee culture blur [Queensland]({{ 'queenslands-ufo-stories-evidence-and/' | relative_url }}) UFO research? The short answer is yes, but not in a simple way. During the 1950s and early 1960s, Queensland’s emerging UFO organisations grew at the same time that the international contactee movement was reaching its peak. Claims of friendly “Space Brothers”, secret knowledge and direct communication with extraterrestrials attracted public attention and helped bring new members into flying-saucer groups. Yet the same beliefs also created credibility problems for investigators who wanted UFO research to be taken seriously. In Queensland, this tension became a defining feature of the era. The state’s civilian UFO archives preserve both strands: enthusiastic belief and attempts at careful documentation. Understanding that balance is essential when assessing the historical value of Queensland’s early UFO records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[uforq.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_contactee_era_credib_390db5-Illustration-1-dark.svg" | relative_url }}" alt="Contactee Era illustration 1" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_contactee_era_credib_390db5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_contactee_era_credib_390db5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Membership growth in the Adamski period
 
-The strongest influence on early Australian UFO culture came from the American contactee George Adamski. Beginning in the early 1950s, Adamski claimed repeated encounters with human-looking visitors from Venus and other planets. His books, lectures and photographs became internationally famous and inspired a wider contactee movement that presented extraterrestrials as benevolent guides concerned about humanity’s future. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George Adamski</span></span></span>
+The strongest influence on early Australian UFO culture came from the American contactee George Adamski. Beginning in the early 1950s, Adamski claimed repeated encounters with human-looking visitors from Venus and other planets. His books, lectures and photographs became internationally famous and inspired a wider contactee movement that presented extraterrestrials as benevolent guides concerned about humanity’s future.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George Adamski</span></span></span>
 
-Queensland’s UFO movement developed during precisely this period. The history maintained by UFO Research Queensland states that membership rose to around 200 during the Adamski era, making it one of the most significant growth phases in the organisation’s early life. The increase reflected a broader international pattern in which flying-saucer groups attracted people interested not only in unexplained aerial sightings but also in claims of direct extraterrestrial contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
+Queensland’s UFO movement developed during precisely this period. The history maintained by UFO Research Queensland states that membership rose to around 200 during the Adamski era, making it one of the most significant growth phases in the organisation’s early life. The increase reflected a broader international pattern in which flying-saucer groups attracted people interested not only in unexplained aerial sightings but also in claims of direct extraterrestrial contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
 
-This growth brought advantages. Larger memberships meant more reports, more newsletters, more public meetings and better preservation of local sightings. Without that influx of interest, many Queensland reports from the late 1950s might never have been recorded at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
+This growth brought advantages. Larger memberships meant more reports, more newsletters, more public meetings and better preservation of local sightings. Without that influx of interest, many Queensland reports from the late 1950s might never have been recorded at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
 
-However, the Adamski influence also introduced a credibility challenge. Even within the UFO community, many investigators regarded contactee stories as weak evidence. Critics pointed out that Adamski’s descriptions of inhabited Venus and Mars conflicted with developing scientific knowledge. By the late 1950s, a divide had emerged between researchers focused on witness reports and those attracted to spiritual or philosophical contact claims. Internationally, prominent UFO investigators argued that sensational contactee narratives made serious investigation harder. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George Adamski</span></span></span>
+However, the Adamski influence also introduced a credibility challenge. Even within the UFO community, many investigators regarded contactee stories as weak evidence. Critics pointed out that Adamski’s descriptions of inhabited Venus and Mars conflicted with developing scientific knowledge. By the late 1950s, a divide had emerged between researchers focused on witness reports and those attracted to spiritual or philosophical contact claims. Internationally, prominent UFO investigators argued that sensational contactee narratives made serious investigation harder.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George Adamski</span></span></span>
 
 Queensland researchers inherited that same dilemma. The organisations needed public interest, but the most effective way of attracting attention often involved the very stories that damaged their reputation among sceptics and scientists.
 
@@ -279,7 +279,7 @@ Queensland researchers inherited that same dilemma. The organisations needed pub
 
 The central problem was not merely whether contactee stories were true or false. It was that they changed the standards of evidence.
 
-A conventional sighting report could be examined through witness testimony, timing, location, weather conditions and possible astronomical or aviation explanations. A contactee claim typically involved private conversations with extraterrestrials, predictions, spiritual messages or journeys aboard spacecraft. Such claims were much harder to verify independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Beginning in 1952, with George Adamski, a number of people emerged who claimed that they had met and communicated with the humanoids who...</span></span></span>
+A conventional sighting report could be examined through witness testimony, timing, location, weather conditions and possible astronomical or aviation explanations. A contactee claim typically involved private conversations with extraterrestrials, predictions, spiritual messages or journeys aboard spacecraft. Such claims were much harder to verify independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Beginning in 1952, with George Adamski, a number of people emerged who claimed that they had met and communicated with the humanoids who...</span></span></span>
 
 For Queensland groups trying to establish themselves as research organisations, this created several risks:
 
@@ -293,7 +293,7 @@ For Queensland groups trying to establish themselves as research organisations, 
 
 </div>
 
-The result was a persistent question that followed Queensland [UFO groups]({{ 'ufo-groups/' | relative_url }}) for decades: were they investigators collecting unusual reports, or advocates promoting a belief system? The answer varied from member to member, but the ambiguity affected public perceptions of the movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
+The result was a persistent question that followed Queensland [UFO groups]({{ 'ufo-groups/' | relative_url }}) for decades: were they investigators collecting unusual reports, or advocates promoting a belief system? The answer varied from member to member, but the ambiguity affected public perceptions of the movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[uforq.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_contactee_era_credib_390db5-Illustration-2-dark.svg" | relative_url }}" alt="Contactee Era illustration 2" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_contactee_era_credib_390db5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_contactee_era_credib_390db5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -301,11 +301,11 @@ The result was a persistent question that followed Queensland [UFO groups]({{ 'u
 
 One reason the Queensland archives remain important despite these credibility problems is their connection with the Father William Gill sightings of 1959.
 
-Gill, an Anglican missionary at Boianai in what was then Papua and New Guinea, reported a series of unusual aerial observations witnessed by multiple people over several evenings. The case became one of the most discussed incidents in Australasian UFO history because it involved numerous observers and contemporaneous documentation rather than a single isolated witness. Records of the case circulated widely through Australian UFO organisations, including those linked to Queensland. UFO Research Queensland states that it still holds material associated with the Gill reports. UFO Research Queensland - Australia+2National Library of Australia Catalogue <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[uforq.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
+Gill, an Anglican missionary at Boianai in what was then Papua and New Guinea, reported a series of unusual aerial observations witnessed by multiple people over several evenings. The case became one of the most discussed incidents in Australasian UFO history because it involved numerous observers and contemporaneous documentation rather than a single isolated witness. Records of the case circulated widely through Australian UFO organisations, including those linked to Queensland. UFO Research Queensland states that it still holds material associated with the Gill reports. UFO Research Queensland - Australia+2National Library of Australia Catalogue<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[uforq.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
 
-The significance of the Gill case within this contactee-era context is revealing. Unlike classic Adamski-style narratives, the Gill observations began as reports of unusual aerial activity rather than claims of personal extraterrestrial communication. The case therefore occupied a middle ground. Supporters viewed it as stronger evidence because of the number of witnesses and the documentation produced at the time. Sceptics argued that even well-intentioned observers can misinterpret distant lights or unusual visual phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947“Unusual Aerial Sightings” - A Search Through The...The dramatic events of the reported Jun 1959 CE3 events at Boianai, Papu...</span></span></span>
+The significance of the Gill case within this contactee-era context is revealing. Unlike classic Adamski-style narratives, the Gill observations began as reports of unusual aerial activity rather than claims of personal extraterrestrial communication. The case therefore occupied a middle ground. Supporters viewed it as stronger evidence because of the number of witnesses and the documentation produced at the time. Sceptics argued that even well-intentioned observers can misinterpret distant lights or unusual visual phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947“Unusual Aerial Sightings” - A Search Through The...The dramatic events of the reported Jun 1959 CE3 events at Boianai, Papu...</span></span></span>
 
-For Queensland researchers, preserving such records offered a way to move beyond purely contactee-based narratives. The Gill material represented the sort of documented case that investigators could discuss without relying entirely on unverifiable personal revelations. It also strengthened interstate connections among Australian UFO groups, which shared reports through newsletters and research networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
+For Queensland researchers, preserving such records offered a way to move beyond purely contactee-based narratives. The Gill material represented the sort of documented case that investigators could discuss without relying entirely on unverifiable personal revelations. It also strengthened interstate connections among Australian UFO groups, which shared reports through newsletters and research networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV9u8664XZ8" title="Tully Saucer Nest: Reeds Died in 8 Hours, Still Unexplained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV9u8664XZ8" target="_blank" rel="noopener noreferrer">Tully Saucer Nest: Reeds Died in 8 Hours, Still Unexplained</a></p><p class="youtube-embed-meta">Channel: Darksteinfiles</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV9u8664XZ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV9u8664XZ8">Open on YouTube</a></p></div></div></div>
@@ -314,14 +314,14 @@ For Queensland researchers, preserving such records offered a way to move beyond
 
 Modern historians examining Queensland UFO archives face a challenge that differs from the question of whether UFOs were extraterrestrial craft.
 
-The archives contain material produced in a culture where investigation and belief often overlapped. Some reports were collected with considerable care. Others were influenced by expectations created by popular contactee literature. The presence of questionable claims does not automatically invalidate the entire archive, but it does require caution when interpreting it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
+The archives contain material produced in a culture where investigation and belief often overlapped. Some reports were collected with considerable care. Others were influenced by expectations created by popular contactee literature. The presence of questionable claims does not automatically invalidate the entire archive, but it does require caution when interpreting it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
 
 Several factors increase the historical value of these records:
 
 * They preserve witness statements that might otherwise have been lost.
 * They reveal how Queenslanders interpreted unusual experiences during the Cold War and Space Age.
 * They document disagreements within the UFO community itself.
-* They show how international ideas, particularly those associated with Adamski and other contactees, reached Australian audiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
+* They show how international ideas, particularly those associated with Adamski and other contactees, reached Australian audiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[uforq.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
 
 At the same time, several factors limit their evidential strength:
 
@@ -331,7 +331,7 @@ At the same time, several factors limit their evidential strength:
 * Some reports were filtered through organisations sympathetic to extraordinary explanations.
 * Independent corroboration is often incomplete.
 * Later retellings sometimes became more dramatic than the earliest accounts.
-* Membership publications occasionally mixed investigation with advocacy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/download/the-lure-of-the-edge-scientific-passions-religious-beliefs-and-the-pursuit-of-ufos-9780520930278.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">The Lure of the EdgeAdamski&#x27;s contact reports: The contactee was almost always a relatively obscure individual who had his experiences in...</span></span></span>
+* Membership publications occasionally mixed investigation with advocacy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/download/the-lure-of-the-edge-scientific-passions-religious-beliefs-and-the-pursuit-of-ufos-9780520930278.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">The Lure of the EdgeAdamski&#x27;s contact reports: The contactee was almost always a relatively obscure individual who had his experiences in...</span></span></span>
 
 </div>
 
@@ -341,205 +341,205 @@ The most useful approach is therefore neither wholesale acceptance nor dismissal
 <img src="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_contactee_era_credib_390db5-Illustration-3-dark.svg" | relative_url }}" alt="Contactee Era illustration 3" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_contactee_era_credib_390db5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_contactee_era_credib_390db5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Adamski era ultimately left behind
 
-The Adamski years left Queensland UFO research with a mixed legacy. Membership growth, organisational development and the preservation of records all benefited from the enthusiasm generated by the flying-saucer boom. Without that period of public fascination, some of Queensland’s earliest UFO documentation might never have survived. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
+The Adamski years left Queensland UFO research with a mixed legacy. Membership growth, organisational development and the preservation of records all benefited from the enthusiasm generated by the flying-saucer boom. Without that period of public fascination, some of Queensland’s earliest UFO documentation might never have survived.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
 
-Yet the same era also attached UFO investigation to contactee narratives that many researchers, both then and now, consider poorly supported. The resulting credibility debate became a permanent feature of Australian ufology. Cases linked to multiple witnesses and substantial documentation, such as the Father Gill reports, tended to retain interest. Claims resting solely on personal contact narratives generally fared less well under later scrutiny. Project 1947+2National Library of Australia Catalogue <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947“Unusual Aerial Sightings” - A Search Through The...The dramatic events of the reported Jun 1959 CE3 events at Boianai, Papu...</span></span></span>
+Yet the same era also attached UFO investigation to contactee narratives that many researchers, both then and now, consider poorly supported. The resulting credibility debate became a permanent feature of Australian ufology. Cases linked to multiple witnesses and substantial documentation, such as the Father Gill reports, tended to retain interest. Claims resting solely on personal contact narratives generally fared less well under later scrutiny. Project 1947+2National Library of Australia Catalogue<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947“Unusual Aerial Sightings” - A Search Through The...The dramatic events of the reported Jun 1959 CE3 events at Boianai, Papu...</span></span></span>
 
-For readers exploring Queensland’s civilian UFO records, that tension is one of the most important lessons of the period. The archives are valuable not because they settle the UFO question, but because they show how a growing research community attempted to separate observation from belief while operating in a cultural moment when the two were often intertwined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
+For readers exploring Queensland’s civilian UFO records, that tension is one of the most important lessons of the period. The archives are valuable not because they settle the UFO question, but because they show how a growing research community attempted to separate observation from belief while operating in a cultural moment when the two were often intertwined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZqSHlmpBbIY" title="Oz Encounters: UFO&#x27;s In Australia (1997) VHS Capture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZqSHlmpBbIY" target="_blank" rel="noopener noreferrer">Oz Encounters: UFO&#x27;s In Australia (1997) VHS Capture</a></p><p class="youtube-embed-meta">Channel: Analog Jones and the Temple of Film</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZqSHlmpBbIY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZqSHlmpBbIY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did contactee culture blur Queensland UFO research?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did contactee culture blur Queensland UFO research?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a contrasting research-oriented framework useful for understanding tensions between evidence gathering and belief culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a contrasting research-oriented framework useful for understanding tensions between evidence gathering and belief culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers Have Landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5yCy5kmLW40C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers Have Landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers Have Landed">Flying Saucers Have Landed</a>
-        </h4>
-        <p class="fr-book-author">By Desmond Leslie, George Adamski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers Have Landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5yCy5kmLW40C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers Have Landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers Have Landed">Flying Saucers Have Landed</a>
+</h4>
+<p class="fr-book-author">By Desmond Leslie, George Adamski</p>
         
-        <p class="fr-book-desc">George Adamski&#x27;s claims were central to the membership-growth period discussed in the article.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">George Adamski&#x27;s claims were central to the membership-growth period discussed in the article.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Messengers of Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=w-XWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Messengers of Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Messengers of Deception">Messengers of Deception</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Messengers of Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=w-XWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Messengers of Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Messengers of Deception">Messengers of Deception</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly explores UFO contact movements, belief communities, and the credibility challenges they create for researchers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores UFO contact movements, belief communities, and the credibility challenges they create for researchers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Focuses on contact experiences and how witness narratives should be interpreted, closely aligning with contactee-era debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on contact experiences and how witness narratives should be interpreted, closely aligning with contactee-era debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Have Landed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Messengers+of+Deception&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Messengers of Deception</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Have Landed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Messengers+of+Deception&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Messengers of Deception</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="contactee-era-did-contactee-culture-blur-queensland-ufo-research-queensland-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ For readers exploring Queensland’s civilian UFO records, that tension is one o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ For readers exploring Queensland’s civilian UFO records, that tension is one o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ For readers exploring Queensland’s civilian UFO records, that tension is one o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ For readers exploring Queensland’s civilian UFO records, that tension is one o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ For readers exploring Queensland’s civilian UFO records, that tension is one o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,142 +745,142 @@ For readers exploring Queensland’s civilian UFO records, that tension is one o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: uforq.org  
    Title: UFO Research Queensland  
-   Link: <a href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow">https://uforq.org/a-brief-history-of-ufo-research-queensland/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</p></details>
+   Link:<a href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow">https://uforq.org/a-brief-history-of-ufo-research-queensland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AustraliaA Brief History of UFO Research QueenslandSeptember 27, 2023 — The Queensland Flying Saucer Bureau, now known as UFO Research Qu...</p></details>
    Published: September 27, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: George Adamski  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beginning in 1952, with George Adamski, a number of people emerged who claimed that they had met and communicated with the humanoids who...</p></details>
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beginning in 1952, with George Adamski, a number of people emerged who claimed that they had met and communicated with the humanoids who...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, science and the quest for transcendence, 1947–1972controversial protagonists such as &#x27;contactee&#x27; George Adamski became prominent me...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, science and the quest for transcendence, 1947–1972controversial protagonists such as &#x27;contactee&#x27; George Adamski became prominent me...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Australian ufology  
-   Link: <a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian ufologyQueensland members called for an independent structure and went their own way. They formed the Queensland Flying Sau...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian ufologyQueensland members called for an independent structure and went their own way. They formed the Queensland Flying Sau...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adamski and the Space BrothersGeorge Adamski preached an interplanetary gospel based on contact with UFOs and aliens. Though serious inve...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adamski and the Space BrothersGeorge Adamski preached an interplanetary gospel based on contact with UFOs and aliens. Though serious inve...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/the-lure-of-the-edge-scientific-passions-religious-beliefs-and-the-pursuit-of-ufos-9780520930278.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/the-lure-of-the-edge-scientific-passions-religious-beliefs-and-the-pursuit-of-ufos-9780520930278.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lure of the EdgeAdamski&#x27;s contact reports: The contactee was almost always a relatively obscure individual who had his experiences in...</p></details>
+   Link:<a href="https://dokumen.pub/download/the-lure-of-the-edge-scientific-passions-religious-beliefs-and-the-pursuit-of-ufos-9780520930278.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/the-lure-of-the-edge-scientific-passions-religious-beliefs-and-the-pursuit-of-ufos-9780520930278.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lure of the EdgeAdamski&#x27;s contact reports: The contactee was almost always a relatively obscure individual who had his experiences in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947“Unusual Aerial Sightings” - A Search Through The...The dramatic events of the reported Jun 1959 CE3 events at Boianai, Papu...</p></details>
+   Link:<a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947“Unusual Aerial Sightings” - A Search Through The...The dramatic events of the reported Jun 1959 CE3 events at Boianai, Papu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>archive.orgUFOs: The Definitive Casebookstudy of modem day UFO claims with the folklore claims of earlier centuries and particularly the...</p></details>
+   Link:<a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>archive.orgUFOs: The Definitive Casebookstudy of modem day UFO claims with the folklore claims of earlier centuries and particularly the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;DTIC AD0688332: UFOs AND RELATED...This is believed to be the most comprehensive bibliography published to date on the sub...</p></details>
+   Link:<a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;DTIC AD0688332: UFOs AND RELATED...This is believed to be the most comprehensive bibliography published to date on the sub...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: history.com  
    Title: george adamski ufo alien photos  
-   Link: <a href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/george-adamski-ufo-alien-photos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starting in the late 1940s, he took countless photos of what he insisted were flying saucers.Read more...</p></details>
+   Link:<a href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/george-adamski-ufo-alien-photos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starting in the late 1940s, he took countless photos of what he insisted were flying saucers.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: digitalcommons.chapman.edu  
-   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — George Adamski collaborated with...</p></details>
+   Link:<a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — George Adamski collaborated with...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/2951975" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/2951975</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gill describes his experiences in New Guinea during June, 1959 · Moorabbin, Vic.: Victorian UFO...Read more...</p></details>
+   Link:<a href="https://catalogue.nla.gov.au/catalog/2951975" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/2951975</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gill describes his experiences in New Guinea during June, 1959 · Moorabbin, Vic.: Victorian UFO...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/289262933043096/posts/611416027494450/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/289262933043096/posts/611416027494450/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting history of 1959 Boianai UFO sightings...He would be the main subject of an amazing series of UFO sightings, complete with al...</p></details>
+   Link:<a href="https://www.facebook.com/groups/289262933043096/posts/611416027494450/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/289262933043096/posts/611416027494450/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting history of 1959 Boianai UFO sightings...He would be the main subject of an amazing series of UFO sightings, complete with al...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/800711166/adamski" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/800711166/adamski</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski: UFO Contactee History | PDFknown in ufology circles, Adamski&#x27;s narrative significantly influenced the 1950s contactee mov...</p></details>
+   Link:<a href="https://www.scribd.com/document/800711166/adamski" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/800711166/adamski</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski: UFO Contactee History | PDFknown in ufology circles, Adamski&#x27;s narrative significantly influenced the 1950s contactee mov...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/492616223/Australian-UFO-Magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/492616223/Australian-UFO-Magazine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian UFO Magazine | PDF | Unidentified Flying ObjectResearch NSW, which was in keeping Australian Flying Saucer Bureau and with bro...</p></details>
+   Link:<a href="https://www.scribd.com/document/492616223/Australian-UFO-Magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/492616223/Australian-UFO-Magazine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian UFO Magazine | PDF | Unidentified Flying ObjectResearch NSW, which was in keeping Australian Flying Saucer Bureau and with bro...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/george-adamski-a-well-known-ufo-contactee-is-pictured-holding-a-photograph-he-sa/1602709641855669/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/george-adamski-a-well-known-ufo-contactee-is-pictured-holding-a-photograph-he-sa/1602709641855669/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s travels with them aboard their spaceships: Flying Saucers Have...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/george-adamski-a-well-known-ufo-contactee-is-pictured-holding-a-photograph-he-sa/1602709641855669/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/george-adamski-a-well-known-ufo-contactee-is-pictured-holding-a-photograph-he-sa/1602709641855669/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s travels with them aboard their spaceships: Flying Saucers Have...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ence, less well known, stretching back to the sixteenth century.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ence, less well known, stretching back to the sixteenth century.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: father gill sighting papua new guinea 1959  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/13g4lph/father_gill_sighting_papua_new_guinea_1959/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13g4lph/father_gill_sighting_papua_new_guinea_1959/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Father Gill Sighting, Papua New Guinea, 1959: r/UFOsr/UFOs - UFO photographed in Balwyn, Melbourne, Australia on April 2. 6. 327.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/13g4lph/father_gill_sighting_papua_new_guinea_1959/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13g4lph/father_gill_sighting_papua_new_guinea_1959/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Father Gill Sighting, Papua New Guinea, 1959: r/UFOsr/UFOs - UFO photographed in Balwyn, Melbourne, Australia on April 2. 6. 327.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: allergique.org  
-   Link: <a href="https://www.allergique.org/IMG/Global_Atlas_of_Allergic_ENT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.allergique.org/IMG/Global_Atlas_of_Allergic_ENT.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allergic rhinitis (AR) and chronic...Read more...</p></details>
+   Link:<a href="https://www.allergique.org/IMG/Global_Atlas_of_Allergic_ENT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.allergique.org/IMG/Global_Atlas_of_Allergic_ENT.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allergic rhinitis (AR) and chronic...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: history.denverlibrary.org  
    Title: man who met venusian allegedly  
-   Link: <a href="https://history.denverlibrary.org/news/western-history/man-who-met-venusian-allegedly" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/man-who-met-venusian-allegedly</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MAN WHO MET A VENUSIAN (ALLEGEDLY)30 Aug 2022 — George Adamski – a man who professed to have been sought out personally by alien entities...</p></details>
+   Link:<a href="https://history.denverlibrary.org/news/western-history/man-who-met-venusian-allegedly" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/man-who-met-venusian-allegedly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MAN WHO MET A VENUSIAN (ALLEGEDLY)30 Aug 2022 — George Adamski – a man who professed to have been sought out personally by alien entities...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: s3.us-west-1.wasabisys.com  
    Title: Vallee Anatomy of a phenomenon  
-   Link: <a href="https://s3.us-west-1.wasabisys.com/luminist/EB/U%20-%20V/Vallee%20-%20Anatomy%20of%20a%20phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/luminist/EB/U%20-%20V/Vallee%20-%20Anatomy%20of%20a%20phenomenon.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of a phenomenonThe appearance of this book&#x27;s original edition in June 1965 has cx)incided with two remarkable events: the success of the...</p></details>
+   Link:<a href="https://s3.us-west-1.wasabisys.com/luminist/EB/U%20-%20V/Vallee%20-%20Anatomy%20of%20a%20phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/luminist/EB/U%20-%20V/Vallee%20-%20Anatomy%20of%20a%20phenomenon.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of a phenomenonThe appearance of this book&#x27;s original edition in June 1965 has cx)incided with two remarkable events: the success of the...</p></details>
    Published: June 1965  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: documents.theblackvault.com  
    Title: A703 554 1 30 Part 1 637518  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comA703_554-1-30_Part 1_637518.pdf~ueensland Flying Saucer ReHarch Bureau. Paoif&quot;ic Highway.,_l&#x27;t. Slack&#x27; e Creek... E...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comA703_554-1-30_Part 1_637518.pdf~ueensland Flying Saucer ReHarch Bureau. Paoif&quot;ic Highway.,_l&#x27;t. Slack&#x27; e Creek... E...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: open.spotify.com  
    Title: 5Dc CQemv JSi WKd AQh YMo Hk  
-   Link: <a href="https://open.spotify.com/episode/5DcCQemvJSiWKdAQhYMoHk" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/5DcCQemvJSiWKdAQhYMoHk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Father Gill UFO Encounter - Mostly True Alien Stories28 Jan 2026 — The Father Gill UFO Encounter. Mostly True Alien Stories. Jan 28. 37 m...</p></details>
+   Link:<a href="https://open.spotify.com/episode/5DcCQemvJSiWKdAQhYMoHk" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/5DcCQemvJSiWKdAQhYMoHk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Father Gill UFO Encounter - Mostly True Alien Stories28 Jan 2026 — The Father Gill UFO Encounter. Mostly True Alien Stories. Jan 28. 37 m...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: [Tully Saucer Nest](&#123;&#123; 'tully-nest/' | relative_url &#125;&#125;): Reeds Died in 8 Hours, Still Unexplained  
-   Link: <a href="https://www.youtube.com/watch?v=NV9u8664XZ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NV9u8664XZ8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious object above Australian skies identified | 9 News Australia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NV9u8664XZ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NV9u8664XZ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious object above Australian skies identified | 9 News Australia...</p></details>

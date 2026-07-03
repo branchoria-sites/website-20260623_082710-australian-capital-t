@@ -260,7 +260,7 @@ Many of [Western Australia]({{ 'what-did-western-australia-really-see/' | relati
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_country_wa_sightings_1e185b_remote_road_distance_85088a-Illustration-1-dark.svg" | relative_url }}" alt="Remote Roads illustration 1" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_country_wa_sightings_1e185b_remote_road_distance_85088a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_country_wa_sightings_1e185b_remote_road_distance_85088a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because witness credibility and witness accuracy are not the same thing. The [WA Police UFO files]({{ 'police-file/' | relative_url }}) contain many reports from people described as reliable and sober, particularly from regional areas, yet the physical conditions of remote roads often made accurate estimates extremely difficult. Vast horizons, sparse lighting, dark skies and a lack of nearby reference points could turn an ordinary aircraft, bright planet, distant vehicle or atmospheric effect into something that appeared much closer, larger or faster than it really was. The result is a recurring pattern in Western Australia’s country-town UFO history: sincere witnesses reporting extraordinary behaviour in situations where human distance judgement was operating at its limits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
+This matters because witness credibility and witness accuracy are not the same thing. The [WA Police UFO files]({{ 'police-file/' | relative_url }}) contain many reports from people described as reliable and sober, particularly from regional areas, yet the physical conditions of remote roads often made accurate estimates extremely difficult. Vast horizons, sparse lighting, dark skies and a lack of nearby reference points could turn an ordinary aircraft, bright planet, distant vehicle or atmospheric effect into something that appeared much closer, larger or faster than it really was. The result is a recurring pattern in Western Australia’s country-town UFO history: sincere witnesses reporting extraordinary behaviour in situations where human distance judgement was operating at its limits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
 
 ## How country roads shaped what witnesses could see
 
@@ -268,7 +268,7 @@ Regional Western Australia offers unusually long sightlines. On highways through
 
 During the day, buildings, trees, power poles and terrain features help the brain estimate how far away an object is. At night on an isolated road, many of those reference points disappear. A single bright light may be visible against a dark background with little indication of whether it is a few hundred metres away or many kilometres distant.
 
-This helps explain why remote-road reports appear so frequently in Western Australian UFO archives. The State Library of Western Australia notes that many reports in the police UFO file originated in country areas during the 1950s, 1960s and 1970s. These were often observations made from farms, roadsides and sparsely populated districts rather than from urban environments rich in visual cues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
+This helps explain why remote-road reports appear so frequently in Western Australian UFO archives. The State Library of Western Australia notes that many reports in the police UFO file originated in country areas during the 1950s, 1960s and 1970s. These were often observations made from farms, roadsides and sparsely populated districts rather than from urban environments rich in visual cues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
 
 A witness may therefore have been entirely honest when describing an object as low and nearby while unknowingly observing something much farther away. Once the estimated distance is wrong, every other estimate becomes unreliable as well. Apparent size, speed and altitude are all calculated mentally from assumptions about range.
 
@@ -282,7 +282,7 @@ The difficulty is that perceived motion depends heavily on perceived distance.
 
 A light believed to be one kilometre away appears to be moving extremely fast if it shifts position across the horizon. The same angular movement viewed at a distance of twenty or thirty kilometres may represent nothing unusual. If the observer cannot accurately judge the range, the speed estimate becomes little more than an educated guess.
 
-Night-driving research has long shown that darkness removes visual cues and changes how drivers perceive the environment. Studies of rural night driving note that darkness reduces available information and complicates judgement of objects, hazards and distances. Visibility depends on contrast, lighting conditions and the presence of reference points rather than simply on whether an object can be seen at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rosap.ntl.bts.gov/view/dot/67607/dot_67607_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rosap.ntl.bts.gov">[ROSA P]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rosap.ntl.bts.gov</span><span class="citation-popover-title">ROSA PQUANTIFYING THE NIGHT DRIVER&#x27;S VISUAL</span><span class="citation-popover-snippet">June 8, 2023 — by RA Olsen · 1980 · Cited by 1 — Night Driving, Vision, Visibility Visual Environment, The solution is special (more nega...</span><span class="citation-popover-meta">Published: June 8, 2023</span></span></span>
+Night-driving research has long shown that darkness removes visual cues and changes how drivers perceive the environment. Studies of rural night driving note that darkness reduces available information and complicates judgement of objects, hazards and distances. Visibility depends on contrast, lighting conditions and the presence of reference points rather than simply on whether an object can be seen at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rosap.ntl.bts.gov/view/dot/67607/dot_67607_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rosap.ntl.bts.gov">[ROSA P]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rosap.ntl.bts.gov</span><span class="citation-popover-title">ROSA PQUANTIFYING THE NIGHT DRIVER&#x27;S VISUAL</span><span class="citation-popover-snippet">June 8, 2023 — by RA Olsen · 1980 · Cited by 1 — Night Driving, Vision, Visibility Visual Environment, The solution is special (more nega...</span><span class="citation-popover-meta">Published: June 8, 2023</span></span></span>
 
 The problem becomes even greater when the witness is moving. A driver travelling along a straight road may experience changing viewing angles that create the impression that a distant light is following the vehicle. The light may actually be stationary or travelling on a very different path. Without fixed landmarks, the brain can interpret ordinary geometric effects as deliberate manoeuvring.
 
@@ -295,13 +295,13 @@ Western Australia's open landscapes create another source of confusion: the hori
 
 On a dark road, a light close to the horizon may appear to sit just above the ground. Witnesses sometimes describe such objects as hovering over paddocks, roads or bushland. Yet a light near the horizon could be many kilometres away, especially in flat country.
 
-Bright celestial objects are particularly prone to this effect. A planet or bright star low in the sky may appear unusually large and close because there are few surrounding visual references. When viewed for extended periods, small involuntary eye movements can even create the impression that the light itself is drifting or changing direction. Aviation researchers recognise this phenomenon as autokinesis, a visual illusion that has repeatedly led observers to believe stationary lights were moving. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
+Bright celestial objects are particularly prone to this effect. A planet or bright star low in the sky may appear unusually large and close because there are few surrounding visual references. When viewed for extended periods, small involuntary eye movements can even create the impression that the light itself is drifting or changing direction. Aviation researchers recognise this phenomenon as autokinesis, a visual illusion that has repeatedly led observers to believe stationary lights were moving.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
 
 For a motorist already concentrating on driving through darkness, such effects can be surprisingly convincing.
 
 ## When a reliable witness still gets the distance wrong
 
-The language used in historical police files is revealing. Officers often recorded that witnesses were trustworthy, respectable or not prone to exaggeration. Those comments tell us something important: investigators were assessing the person, not necessarily validating the interpretation of what had been seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
+The language used in historical police files is revealing. Officers often recorded that witnesses were trustworthy, respectable or not prone to exaggeration. Those comments tell us something important: investigators were assessing the person, not necessarily validating the interpretation of what had been seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
 
 A reliable witness can accurately report:
 
@@ -334,7 +334,7 @@ Several ordinary phenomena become surprisingly difficult to interpret when viewe
 
 **Aircraft on approach or crossing routes.** A plane flying toward an observer may appear almost stationary because its apparent sideways movement is minimal. When it eventually changes angle, it can seem to accelerate suddenly.
 
-**Bright planets and stars.** Venus has been responsible for numerous UFO reports worldwide. Against a dark rural horizon it can appear unusually bright, close and persistent. Autokinetic effects can create an illusion of motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
+**Bright planets and stars.** Venus has been responsible for numerous UFO reports worldwide. Against a dark rural horizon it can appear unusually bright, close and persistent. Autokinetic effects can create an illusion of motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
 
 **Vehicle headlights.** Distant headlights viewed across flat terrain can appear detached from roads, especially when terrain features are hidden by darkness. Their brightness can fluctuate because of atmospheric conditions or changing road elevations.
 
@@ -360,194 +360,194 @@ This is why remote-road sightings occupy a distinctive place within Western Aust
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Remote Roads Made UFOs Harder To Judge. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Remote Roads Made UFOs Harder To Judge. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on UFO reports, witness testimony, and the challenge of evaluating unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on UFO reports, witness testimony, and the challenge of evaluating unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Examines eyewitness error, belief formation, and the interpretation of unusual experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Examines eyewitness error, belief formation, and the interpretation of unusual experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how perception, misjudgment, and critical thinking affect extraordinary claims and observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains how perception, misjudgment, and critical thinking affect extraordinary claims and observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Shows how perception and attention can mislead observers in real-world situations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how perception and attention can mislead observers in real-world situations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="remote-roads-why-remote-roads-made-ufos-harder-to-judge-western-australia-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ This is why remote-road sightings occupy a distinctive place within Western Aust
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ This is why remote-road sightings occupy a distinctive place within Western Aust
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ This is why remote-road sightings occupy a distinctive place within Western Aust
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ This is why remote-road sightings occupy a distinctive place within Western Aust
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ This is why remote-road sightings occupy a distinctive place within Western Aust
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,77 +753,77 @@ This is why remote-road sightings occupy a distinctive place within Western Aust
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: slwa.wa.gov.au  
-   Link: <a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</p></details>
+   Link:<a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO file&#x27; sheds light on strange encounters in Western...27 Jul 2020 — The UFO file holds dozens of police reports linked to sightings...</p></details>
+   Link:<a href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO file&#x27; sheds light on strange encounters in Western...27 Jul 2020 — The UFO file holds dozens of police reports linked to sightings...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: rosap.ntl.bts.gov  
    Title: ROSA PQUANTIFYING THE NIGHT DRIVER'S VISUAL  
-   Link: <a href="https://rosap.ntl.bts.gov/view/dot/67607/dot_67607_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rosap.ntl.bts.gov/view/dot/67607/dot_67607_DS1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 8, 2023 — by RA Olsen · 1980 · Cited by 1 — Night Driving, Vision, Visibility Visual Environment, The solution is special (more nega...</p></details>
+   Link:<a href="https://rosap.ntl.bts.gov/view/dot/67607/dot_67607_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rosap.ntl.bts.gov/view/dot/67607/dot_67607_DS1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 8, 2023 — by RA Olsen · 1980 · Cited by 1 — Night Driving, Vision, Visibility Visual Environment, The solution is special (more nega...</p></details>
    Published: June 8, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/375671690_Analysis_of_Pilot_Distance_Estimation_in_Different_Lighting_and_Visibility_Conditions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375671690_Analysis_of_Pilot_Distance_Estimation_in_Different_Lighting_and_Visibility_Conditions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Pilot Distance Estimation in Different Lighting...3 Nov 2023 — In this study, distance was estimated considering objects det...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/375671690_Analysis_of_Pilot_Distance_Estimation_in_Different_Lighting_and_Visibility_Conditions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375671690_Analysis_of_Pilot_Distance_Estimation_in_Different_Lighting_and_Visibility_Conditions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Pilot Distance Estimation in Different Lighting...3 Nov 2023 — In this study, distance was estimated considering objects det...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A13693_3092-2-000_30030606.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A13693_3092-2-000_30030606.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.com000two documents attached are intended to focus on aspecto of the UFO problem that have tended to remain hidden. The rep...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/A13693_3092-2-000_30030606.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A13693_3092-2-000_30030606.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.com000two documents attached are intended to focus on aspecto of the UFO problem that have tended to remain hidden. The rep...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thewest.com.au  
-   Link: <a href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow">https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>State records show the skies over WA have seen many UFOs5 Nov 2022 — Malcolm Quekett trawls through the Western Australian State records...</p></details>
+   Link:<a href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow">https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State records show the skies over WA have seen many UFOs5 Nov 2022 — Malcolm Quekett trawls through the Western Australian State records...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the lead up to Halloween, we&#x27;re diving into Perth&#x27;s history of alien encounters. Many of the reports come from country towns across WA...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the lead up to Halloween, we&#x27;re diving into Perth&#x27;s history of alien encounters. Many of the reports come from country towns across WA...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: malcolm quekett trawls through the western australian state records to reveal we  
-   Link: <a href="https://www.facebook.com/thewestaustralian/posts/malcolm-quekett-trawls-through-the-western-australian-state-records-to-reveal-we/454895320083010/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thewestaustralian/posts/malcolm-quekett-trawls-through-the-western-australian-state-records-to-reveal-we/454895320083010/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malcolm Quekett trawls through the Western Australian...4 Nov 2022 — Malcolm Quekett trawls through the Western Australian State records...</p></details>
+   Link:<a href="https://www.facebook.com/thewestaustralian/posts/malcolm-quekett-trawls-through-the-western-australian-state-records-to-reveal-we/454895320083010/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thewestaustralian/posts/malcolm-quekett-trawls-through-the-western-australian-state-records-to-reveal-we/454895320083010/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malcolm Quekett trawls through the Western Australian...4 Nov 2022 — Malcolm Quekett trawls through the Western Australian State records...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: onlinepubs.trb.org  
-   Link: <a href="https://onlinepubs.trb.org/Onlinepubs/trr/1974/502/502-006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://onlinepubs.trb.org/Onlinepubs/trr/1974/502/502-006.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The size of the obstacles was 0.4 by 0.4 m (1.3 by 1.3 ft). Conditions in Nightime Driving on Roads Without...</p></details>
+   Link:<a href="https://onlinepubs.trb.org/Onlinepubs/trr/1974/502/502-006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://onlinepubs.trb.org/Onlinepubs/trr/1974/502/502-006.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The size of the obstacles was 0.4 by 0.4 m (1.3 by 1.3 ft). Conditions in Nightime Driving on Roads Without...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/112647671/Analysis_of_Pilot_Distance_Estimation_in_Different_Lighting_and_Visibility_Conditions" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/112647671/Analysis_of_Pilot_Distance_Estimation_in_Different_Lighting_and_Visibility_Conditions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g the helicopter flight by the pilots in different visibility conditions.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/112647671/Analysis_of_Pilot_Distance_Estimation_in_Different_Lighting_and_Visibility_Conditions" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/112647671/Analysis_of_Pilot_Distance_Estimation_in_Different_Lighting_and_Visibility_Conditions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g the helicopter flight by the pilots in different visibility conditions.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings are retained in the national archival collection...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings are retained in the national archival collection...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YMu5k3Ik7JU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YMu5k3Ik7JU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how to measure distance in the night sky, starting with the full sky and horizon... light...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YMu5k3Ik7JU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YMu5k3Ik7JU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how to measure distance in the night sky, starting with the full sky and horizon... light...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/Rrou1Yl-hao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/Rrou1Yl-hao</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One civilian wanted to get eyes on those files to see what was in them...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/Rrou1Yl-hao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/Rrou1Yl-hao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One civilian wanted to get eyes on those files to see what was in them...</p></details>

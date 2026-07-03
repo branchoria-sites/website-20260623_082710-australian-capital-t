@@ -262,7 +262,7 @@ image: /assets/images/New_South_Wales_f92f26_modern_checks_1086a1_satellite_sigh
 
 ## Introduction
 
-When people in [New South Wales]({{ 'what-makes-new-south-wales-ufo-reports/' | relative_url }}) report a strange light crossing the sky, one of the most important [modern checks]({{ 'modern-checks/' | relative_url }}) is whether a satellite was visible at the time. Satellites can create surprisingly dramatic effects. They may appear to brighten suddenly, fade away without warning, travel in perfectly straight lines, or move in groups that look unlike ordinary aircraft. To an observer who is not expecting them, these effects can seem mysterious or even extraordinary. Yet many recent reports that initially attracted UFO speculation have later matched known satellite passes, particularly from large constellations such as Starlink. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+When people in [New South Wales]({{ 'what-makes-new-south-wales-ufo-reports/' | relative_url }}) report a strange light crossing the sky, one of the most important [modern checks]({{ 'modern-checks/' | relative_url }}) is whether a satellite was visible at the time. Satellites can create surprisingly dramatic effects. They may appear to brighten suddenly, fade away without warning, travel in perfectly straight lines, or move in groups that look unlike ordinary aircraft. To an observer who is not expecting them, these effects can seem mysterious or even extraordinary. Yet many recent reports that initially attracted UFO speculation have later matched known satellite passes, particularly from large constellations such as Starlink.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_satellite_sighting_c_312b26-Illustration-1-dark.svg" | relative_url }}" alt="Satellite Clues illustration 1" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_satellite_sighting_c_312b26-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_satellite_sighting_c_312b26-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -270,7 +270,7 @@ For investigators examining sightings from Sydney, Newcastle, the Central Coast,
 
 ## Brightness Changes and Sudden Fading
 
-One reason satellites generate UFO reports is that they do not always maintain a constant brightness. Unlike aircraft, satellites usually do not produce their own visible light. Instead, they reflect sunlight. As the angle between the Sun, the satellite and the observer changes, a satellite can brighten dramatically and then dim again within seconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
+One reason satellites generate UFO reports is that they do not always maintain a constant brightness. Unlike aircraft, satellites usually do not produce their own visible light. Instead, they reflect sunlight. As the angle between the Sun, the satellite and the observer changes, a satellite can brighten dramatically and then dim again within seconds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
 
 This effect can produce several puzzling observations:
 
@@ -284,9 +284,9 @@ This effect can produce several puzzling observations:
 
 </div>
 
-The last effect is particularly common. Satellites in low Earth orbit often disappear when they enter the Earth's shadow. To a witness, the light can appear to extinguish itself without explanation even though the object continues its orbit. Astronomical tracking services routinely predict these fade-outs because they occur when sunlight no longer reaches the satellite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Sky &amp; Telescope+3Heavens-Above+3Alyn Wallace Photography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Explanatory NotesThis means that visible passes only occur within about 2 hours after sunset, or 2 hours before sunrise. All...</span></span></span>
+The last effect is particularly common. Satellites in low Earth orbit often disappear when they enter the Earth's shadow. To a witness, the light can appear to extinguish itself without explanation even though the object continues its orbit. Astronomical tracking services routinely predict these fade-outs because they occur when sunlight no longer reaches the satellite.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[heavens-above.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Explanatory NotesThis means that visible passes only occur within about 2 hours after sunset, or 2 hours before sunrise. All...</span></span></span>
 
-Historically, highly reflective Iridium communications satellites became famous for producing intense "flares" that could briefly outshine most stars. Although the original Iridium constellation has largely been replaced, sunlight reflections from satellite surfaces and solar panels still create sudden brightness changes that can surprise observers. Orion XT8 Blog: Every Night is a New Sky <span class="citation-link-wrap"><a class="citation-inline-link" href="https://xt8dob.wordpress.com/2015/06/04/crash-course-in-heavens-above-part-three-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: xt8dob.wordpress.com">[xt8dob.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">xt8dob.wordpress.com</span><span class="citation-popover-title">crash course in heavens above part three iridium flares</span><span class="citation-popover-snippet">Orion XT8 Blog: Every Night is a New SkyCrash Course in Heavens-Above: Part Three – Iridium Flares4 Jun 2015 — When one of these Iridium...</span></span></span>
+Historically, highly reflective Iridium communications satellites became famous for producing intense "flares" that could briefly outshine most stars. Although the original Iridium constellation has largely been replaced, sunlight reflections from satellite surfaces and solar panels still create sudden brightness changes that can surprise observers. Orion XT8 Blog: Every Night is a New Sky<span class="citation-link-wrap"><a class="citation-inline-link" href="https://xt8dob.wordpress.com/2015/06/04/crash-course-in-heavens-above-part-three-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: xt8dob.wordpress.com">[xt8dob.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">xt8dob.wordpress.com</span><span class="citation-popover-title">crash course in heavens above part three iridium flares</span><span class="citation-popover-snippet">Orion XT8 Blog: Every Night is a New SkyCrash Course in Heavens-Above: Part Three – Iridium Flares4 Jun 2015 — When one of these Iridium...</span></span></span>
 
 For a witness in NSW watching a clear evening sky, a satellite that brightens unexpectedly and then vanishes may seem far stranger than a normal aircraft, even though the behaviour follows predictable orbital geometry.
 
@@ -295,7 +295,7 @@ For a witness in NSW watching a clear evening sky, a satellite that brightens un
 
 ## Why Satellite Formations Look Unusual
 
-Another source of confusion is the growing number of satellite constellations. SpaceX's Starlink network has introduced a sight that many people had never seen before: a line of evenly spaced lights travelling together across the sky. Shortly after launch, groups of satellites can resemble a moving chain or "train" of lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[NBC 5 Dallas-Fort Worth+3Space+3Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+Another source of confusion is the growing number of satellite constellations. SpaceX's Starlink network has introduced a sight that many people had never seen before: a line of evenly spaced lights travelling together across the sky. Shortly after launch, groups of satellites can resemble a moving chain or "train" of lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
 From the ground, these formations can appear:
 
@@ -309,7 +309,7 @@ From the ground, these formations can appear:
 
 </div>
 
-Reports of "fleets", "convoys" or "formations" of lights have increased internationally since large satellite constellations became common. Even experienced observers can initially be surprised by the appearance of dozens of objects moving together on a shared track. Official and scientific reviews of unidentified aerial reports have noted that Starlink passes are increasingly being mistaken for unusual aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">a lot of people are mistaking elon musks starlink satellites for uaps</span><span class="citation-popover-snippet">Ars TechnicaA lot of people are mistaking Elon Musk&#x27;s Starlink satellites...15 Nov 2024 — AARO assessed that this sighting of flashing l...</span></span></span>
+Reports of "fleets", "convoys" or "formations" of lights have increased internationally since large satellite constellations became common. Even experienced observers can initially be surprised by the appearance of dozens of objects moving together on a shared track. Official and scientific reviews of unidentified aerial reports have noted that Starlink passes are increasingly being mistaken for unusual aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">a lot of people are mistaking elon musks starlink satellites for uaps</span><span class="citation-popover-snippet">Ars TechnicaA lot of people are mistaking Elon Musk&#x27;s Starlink satellites...15 Nov 2024 — AARO assessed that this sighting of flashing l...</span></span></span>
 
 In New South Wales, where large stretches of coastline and inland regions offer excellent visibility of the night sky, such formations may be visible across hundreds of kilometres at the same time.
 
@@ -321,7 +321,7 @@ Many people assume that if numerous witnesses see the same object, the sighting 
 
 A bright satellite may be visible across a vast area simultaneously. A single pass can be observed from Sydney, Wollongong, Newcastle and many regional centres. This means social media may suddenly fill with reports describing the same object from different locations.
 
-In some cases, the wide geographic spread actually points towards a satellite explanation rather than an unknown craft. Satellites orbit hundreds of kilometres above Earth, making them visible to large numbers of observers at once. Aircraft, drones and other local objects are generally visible across much smaller areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Explanatory NotesThis means that visible passes only occur within about 2 hours after sunset, or 2 hours before sunrise. All...</span></span></span>
+In some cases, the wide geographic spread actually points towards a satellite explanation rather than an unknown craft. Satellites orbit hundreds of kilometres above Earth, making them visible to large numbers of observers at once. Aircraft, drones and other local objects are generally visible across much smaller areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Explanatory NotesThis means that visible passes only occur within about 2 hours after sunset, or 2 hours before sunrise. All...</span></span></span>
 
 For investigators, multiple independent witnesses remain valuable evidence. However, the key question becomes whether the reported directions, timings and movements are consistent with a satellite pass. If they are, a large witness count may strengthen the identification rather than deepen the mystery.
 
@@ -340,7 +340,7 @@ These perception effects are not unique to satellites, but satellites combine th
 
 ## Checking Satellite Passes Against Sightings
 
-Modern UFO investigation in New South Wales increasingly relies on satellite tracking tools. When a report includes an accurate time, location and direction, investigators can compare it with predicted satellite positions and visibility data. Services such as Heavens-Above and other satellite-tracking platforms allow users to reconstruct many passes after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above+2SatelliteMap.space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Explanatory NotesThis means that visible passes only occur within about 2 hours after sunset, or 2 hours before sunrise. All...</span></span></span>
+Modern UFO investigation in New South Wales increasingly relies on satellite tracking tools. When a report includes an accurate time, location and direction, investigators can compare it with predicted satellite positions and visibility data. Services such as Heavens-Above and other satellite-tracking platforms allow users to reconstruct many passes after the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[heavens-above.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Explanatory NotesThis means that visible passes only occur within about 2 hours after sunset, or 2 hours before sunrise. All...</span></span></span>
 
 Several clues often support a satellite identification:
 
@@ -351,7 +351,7 @@ Several clues often support a satellite identification:
 * No navigation lights or colour changes typical of aircraft.
 * Brightening and fading linked to reflection angles.
 * Disappearance at a predictable point where the object enters Earth's shadow.
-* Timing that matches a known satellite or satellite train. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noctilucents.com/blog/planes-satellites-amp-a-meteor-decoding-londons-nights-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noctilucents.com">[Noctilucents Trilogy+2Alyn Wallace Photography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noctilucents.com</span><span class="citation-popover-snippet">Noctilucents TrilogyPlanes, satellites &amp; a meteor: decoding London&#x27;s night&#x27;s sky25 Apr 2026 — You can also see how the dotted line toward...</span></span></span>
+* Timing that matches a known satellite or satellite train.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noctilucents.com/blog/planes-satellites-amp-a-meteor-decoding-londons-nights-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noctilucents.com">[noctilucents.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noctilucents.com</span><span class="citation-popover-snippet">Noctilucents TrilogyPlanes, satellites &amp; a meteor: decoding London&#x27;s night&#x27;s sky25 Apr 2026 — You can also see how the dotted line toward...</span></span></span>
 
 </div>
 
@@ -361,7 +361,7 @@ The most useful reports include precise timestamps, viewing direction and locati
 <img src="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_satellite_sighting_c_312b26-Illustration-3-dark.svg" | relative_url }}" alt="Satellite Clues illustration 3" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_satellite_sighting_c_312b26-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_satellite_sighting_c_312b26-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Satellite Explanations Matter in NSW UFO Research
 
-Satellite explanations do not automatically dismiss every unusual sighting. Some reports remain ambiguous because the timing is uncertain, the observation was brief, or the available data is incomplete. However, satellites have become one of the most common sources of initially puzzling lights in the night sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science+2Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science You didn&#x27;t see a UFO</span><span class="citation-popover-snippet">It was probably one of these things.10 Sept 2023 — &#x27; No, it&#x27;s just a meteor, because it blew up in only two seconds. Or: &#x27;Is this a UFO?&#x27;...</span></span></span>
+Satellite explanations do not automatically dismiss every unusual sighting. Some reports remain ambiguous because the timing is uncertain, the observation was brief, or the available data is incomplete. However, satellites have become one of the most common sources of initially puzzling lights in the night sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[popsci.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science You didn&#x27;t see a UFO</span><span class="citation-popover-snippet">It was probably one of these things.10 Sept 2023 — &#x27; No, it&#x27;s just a meteor, because it blew up in only two seconds. Or: &#x27;Is this a UFO?&#x27;...</span></span></span>
 
 For New South Wales UFO research, this has changed the investigative process. A sighting that once might have remained unexplained for years can now often be tested against detailed orbital predictions. Understanding how satellites brighten, fade, travel in formation and remain visible across huge distances helps separate genuinely unusual reports from events that only appear mysterious at first glance.
 
@@ -370,194 +370,194 @@ For New South Wales UFO research, this has changed the investigative process. A 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Ordinary Satellites Can Look So Strange. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Ordinary Satellites Can Look So Strange. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Matches the article&#x27;s focus on testing UFO reports with evidence and modern tools.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Matches the article&#x27;s focus on testing UFO reports with evidence and modern tools.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify and understand moving lights, satellites, planets and other common causes of unusual sky sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify and understand moving lights, satellites, planets and other common causes of unusual sky sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Builds familiarity with the night sky, reducing misidentification of ordinary astronomical and orbital objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds familiarity with the night sky, reducing misidentification of ordinary astronomical and orbital objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses investigation standards and the importance of eliminating conventional explanations before drawing conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses investigation standards and the importance of eliminating conventional explanations before drawing conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting"><img src="{{ '/assets/images/marketplace-covers/b962bd3da6424d670f7d.jpg' | relative_url }}" alt="Listing image for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="satellite-clues-why-ordinary-satellites-can-look-so-strange-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Landscape Painting Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/0kkAAeSw4ulo1amc/s-l225.jpg" alt="Listing image for UFO Abduction Landscape Painting Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Landscape Painting Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-satellites-can-look-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ordinary-satellites-can-look-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ For New South Wales UFO research, this has changed the investigative process. A 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ For New South Wales UFO research, this has changed the investigative process. A 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ For New South Wales UFO research, this has changed the investigative process. A 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ For New South Wales UFO research, this has changed the investigative process. A 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ For New South Wales UFO research, this has changed the investigative process. A 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,214 +763,214 @@ For New South Wales UFO research, this has changed the investigative process. A 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>re much more reflective than others) and the satellites&#x27; orbits...</p></details>
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>re much more reflective than others) and the satellites&#x27; orbits...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/explain.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explanatory NotesThis means that visible passes only occur within about 2 hours after sunset, or 2 hours before sunrise. All...</p></details>
+   Link:<a href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/explain.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explanatory NotesThis means that visible passes only occur within about 2 hours after sunset, or 2 hours before sunrise. All...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: Starlink satellites are easier to see  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomy5 days ago — The satellites can appear as a string of pearls or a &quot;train...</p></details>
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomy5 days ago — The satellites can appear as a string of pearls or a &quot;train...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: satellitemap.space  
-   Link: <a href="https://satellitemap.space/" target="_blank" rel="noopener noreferrer nofollow">https://satellitemap.space/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>See [Starlink trains](&amp;#123;&amp;#123; &#x27;starlink-trains-a8142a/&#x27; | relative_url &amp;#125;&amp;#125;), space stations, rocket bodies, and satellite passes visible from your location...</p></details>
+   Link:<a href="https://satellitemap.space/" target="_blank" rel="noopener noreferrer nofollow">https://satellitemap.space/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See [Starlink trains](&amp;#123;&amp;#123; &#x27;starlink-trains-a8142a/&#x27; | relative_url &amp;#125;&amp;#125;), space stations, rocket bodies, and satellite passes visible from your location...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: noctilucents.com  
-   Link: <a href="https://www.noctilucents.com/blog/planes-satellites-amp-a-meteor-decoding-londons-nights-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.noctilucents.com/blog/planes-satellites-amp-a-meteor-decoding-londons-nights-sky</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Noctilucents TrilogyPlanes, satellites &amp; a meteor: decoding London&#x27;s night&#x27;s sky25 Apr 2026 — You can also see how the dotted line toward...</p></details>
+   Link:<a href="https://www.noctilucents.com/blog/planes-satellites-amp-a-meteor-decoding-londons-nights-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.noctilucents.com/blog/planes-satellites-amp-a-meteor-decoding-londons-nights-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noctilucents TrilogyPlanes, satellites &amp; a meteor: decoding London&#x27;s night&#x27;s sky25 Apr 2026 — You can also see how the dotted line toward...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askscience/comments/2cutjc/why_do_satellites_in_the_night_sky_sometimes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/2cutjc/why_do_satellites_in_the_night_sky_sometimes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>uld do this...</p></details>
+   Link:<a href="https://www.reddit.com/r/askscience/comments/2cutjc/why_do_satellites_in_the_night_sky_sometimes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/2cutjc/why_do_satellites_in_the_night_sky_sometimes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uld do this...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/j7pij9/eli5_why_do_satellites_not_cast_shadows_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/j7pij9/eli5_why_do_satellites_not_cast_shadows_on_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>E today. Maybe I have a misunderstanding of how many satellite are...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/j7pij9/eli5_why_do_satellites_not_cast_shadows_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/j7pij9/eli5_why_do_satellites_not_cast_shadows_on_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E today. Maybe I have a misunderstanding of how many satellite are...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/15n15b1/its_starlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/15n15b1/its_starlink/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ere being attacked by aliens...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/15n15b1/its_starlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/15n15b1/its_starlink/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ere being attacked by aliens...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1m6xyz4/can_anybody_help_me_figure_out_what_this_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1m6xyz4/can_anybody_help_me_figure_out_what_this_was/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can anybody help me figure out what this was?: r/AstronomyIt&#x27;s the Tiangong Chinese Space Station. Crested the horizon at 10:23:25 in Ak...</p></details>
+   Link:<a href="https://www.reddit.com/r/Astronomy/comments/1m6xyz4/can_anybody_help_me_figure_out_what_this_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1m6xyz4/can_anybody_help_me_figure_out_what_this_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can anybody help me figure out what this was?: r/AstronomyIt&#x27;s the Tiangong Chinese Space Station. Crested the horizon at 10:23:25 in Ak...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16niyld/starlink_spotted_i_can_finally_understand_why/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16niyld/starlink_spotted_i_can_finally_understand_why/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feeling... r/UFOs - Reports from multiple witnesses who claim they saw the same UFO in.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16niyld/starlink_spotted_i_can_finally_understand_why/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16niyld/starlink_spotted_i_can_finally_understand_why/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feeling... r/UFOs - Reports from multiple witnesses who claim they saw the same UFO in.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Satellite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SatelliteA satellite or an artificial satellite [a] is an object, typically a spacecraft, placed into orbit around a celestial body.Re...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Satellite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SatelliteA satellite or an artificial satellite [a] is an object, typically a spacecraft, placed into orbit around a celestial body.Re...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HeavenHeaven, or the Heavens, is a common religious cosmological or supernatural place where beings such as deities, angels, souls, sa...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HeavenHeaven, or the Heavens, is a common religious cosmological or supernatural place where beings such as deities, angels, souls, sa...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: starwalk.space  
-   Link: <a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Star WalkStarlink Tracker: Find Starlink Satellites TonightThe weird-looking moving lights in the sky may be Starlink satellites, not ali...</p></details>
+   Link:<a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Star WalkStarlink Tracker: Find Starlink Satellites TonightThe weird-looking moving lights in the sky may be Starlink satellites, not ali...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arstechnica.com  
    Title: a lot of people are mistaking elon musks starlink satellites for uaps  
-   Link: <a href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaA lot of people are mistaking Elon Musk&#x27;s Starlink satellites...15 Nov 2024 — AARO assessed that this sighting of flashing l...</p></details>
+   Link:<a href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaA lot of people are mistaking Elon Musk&#x27;s Starlink satellites...15 Nov 2024 — AARO assessed that this sighting of flashing l...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: alynwallacephotography.com  
    Title: sorry thats no meteor its a satellite  
-   Link: <a href="https://alynwallacephotography.com/blog/2020/4/21/sorry-thats-no-meteor-its-a-satellite" target="_blank" rel="noopener noreferrer nofollow">https://alynwallacephotography.com/blog/2020/4/21/sorry-thats-no-meteor-its-a-satellite</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlike meteors, satellites don&#x27;t give off their own light, they reflect the Sun&#x27;s light. So as...Read more...</p></details>
+   Link:<a href="https://alynwallacephotography.com/blog/2020/4/21/sorry-thats-no-meteor-its-a-satellite" target="_blank" rel="noopener noreferrer nofollow">https://alynwallacephotography.com/blog/2020/4/21/sorry-thats-no-meteor-its-a-satellite</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unlike meteors, satellites don&#x27;t give off their own light, they reflect the Sun&#x27;s light. So as...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skyandtelescope.org  
    Title: flight into darkness observe the iss in earths shadow  
-   Link: <a href="https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observe the International Space Station in Earth&#x27;s Shadow28 Aug 2024 — My favorite satellite prediction site is Heavens Above, which list...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observe the International Space Station in Earth&#x27;s Shadow28 Aug 2024 — My favorite satellite prediction site is Heavens Above, which list...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: xt8dob.wordpress.com  
    Title: crash course in heavens above part three iridium flares  
-   Link: <a href="https://xt8dob.wordpress.com/2015/06/04/crash-course-in-heavens-above-part-three-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow">https://xt8dob.wordpress.com/2015/06/04/crash-course-in-heavens-above-part-three-iridium-flares/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orion XT8 Blog: Every Night is a New SkyCrash Course in Heavens-Above: Part Three – Iridium Flares4 Jun 2015 — When one of these Iridium...</p></details>
+   Link:<a href="https://xt8dob.wordpress.com/2015/06/04/crash-course-in-heavens-above-part-three-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow">https://xt8dob.wordpress.com/2015/06/04/crash-course-in-heavens-above-part-three-iridium-flares/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orion XT8 Blog: Every Night is a New SkyCrash Course in Heavens-Above: Part Three – Iridium Flares4 Jun 2015 — When one of these Iridium...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nbcdfw.com  
    Title: awestruck north texans mistake parade of starlink satellites for ufos  
-   Link: <a href="https://www.nbcdfw.com/news/local/awestruck-north-texans-mistake-parade-of-starlink-satellites-for-ufos/2626719/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcdfw.com/news/local/awestruck-north-texans-mistake-parade-of-starlink-satellites-for-ufos/2626719/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NBC 5 Dallas-Fort WorthStarlink Satellites Mistaken for UFOs To Be Visible Again...7 May 2021 — The parade of lights seen crossing the n...</p></details>
+   Link:<a href="https://www.nbcdfw.com/news/local/awestruck-north-texans-mistake-parade-of-starlink-satellites-for-ufos/2626719/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcdfw.com/news/local/awestruck-north-texans-mistake-parade-of-starlink-satellites-for-ufos/2626719/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NBC 5 Dallas-Fort WorthStarlink Satellites Mistaken for UFOs To Be Visible Again...7 May 2021 — The parade of lights seen crossing the n...</p></details>
    Published: May 2021  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: popsci.com  
    Title: Popular Science You didn't see a UFO  
-   Link: <a href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was probably one of these things.10 Sept 2023 — &#x27; No, it&#x27;s just a meteor, because it blew up in only two seconds. Or: &#x27;Is this a UFO?&#x27;...</p></details>
+   Link:<a href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was probably one of these things.10 Sept 2023 — &#x27; No, it&#x27;s just a meteor, because it blew up in only two seconds. Or: &#x27;Is this a UFO?&#x27;...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/heavens" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/heavens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago — an expression of surprise, anger, annoyance, or emphasis: Good heavens – I didn&#x27;t re...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/heavens" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/heavens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago — an expression of surprise, anger, annoyance, or emphasis: Good heavens – I didn&#x27;t re...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not aliens, but short of a planetary takeover by tall greys...Read more...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not aliens, but short of a planetary takeover by tall greys...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: space.science.narkive.com  
    Title: why does a star move across the night sky and then stop  
-   Link: <a href="https://space.science.narkive.com/FbtjACeM/why-does-a-star-move-across-the-night-sky-and-then-stop" target="_blank" rel="noopener noreferrer nofollow">https://space.science.narkive.com/FbtjACeM/why-does-a-star-move-across-the-night-sky-and-then-stop</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If something stops, then it&#x27;s not a satellite, probably an aircraft.Read more...</p></details>
+   Link:<a href="https://space.science.narkive.com/FbtjACeM/why-does-a-star-move-across-the-night-sky-and-then-stop" target="_blank" rel="noopener noreferrer nofollow">https://space.science.narkive.com/FbtjACeM/why-does-a-star-move-across-the-night-sky-and-then-stop</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If something stops, then it&#x27;s not a satellite, probably an aircraft.Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: futurism.com  
    Title: spacex starlink satellites ufos  
-   Link: <a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>People Keep Mistaking SpaceX&#x27;s Satellites for Alien...27 Dec 2019 — Sightings of &quot;strange lights&quot; in the Montana night sky turned out to...</p></details>
+   Link:<a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People Keep Mistaking SpaceX&#x27;s Satellites for Alien...27 Dec 2019 — Sightings of &quot;strange lights&quot; in the Montana night sky turned out to...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: assa.saao.ac.za  
-   Link: <a href="https://assa.saao.ac.za/how-to-observe/satellites/" target="_blank" rel="noopener noreferrer nofollow">https://assa.saao.ac.za/how-to-observe/satellites/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>satellites | ASSASometimes they fade suddenly and disappear as the satellite enters the shadow. Generally, Russian satellites tend to orb...</p></details>
+   Link:<a href="https://assa.saao.ac.za/how-to-observe/satellites/" target="_blank" rel="noopener noreferrer nofollow">https://assa.saao.ac.za/how-to-observe/satellites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>satellites | ASSASometimes they fade suddenly and disappear as the satellite enters the shadow. Generally, Russian satellites tend to orb...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: xt8dob.wordpress.com  
    Title: crash course heavens above part two satellite predictions  
-   Link: <a href="https://xt8dob.wordpress.com/2015/05/25/crash-course-heavens-above-part-two-satellite-predictions/" target="_blank" rel="noopener noreferrer nofollow">https://xt8dob.wordpress.com/2015/05/25/crash-course-heavens-above-part-two-satellite-predictions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Course in Heavens-Above: Part Two – Satellite...25 May 2015 — In this post, I will discuss the basic way of viewing predictions for spec...</p></details>
+   Link:<a href="https://xt8dob.wordpress.com/2015/05/25/crash-course-heavens-above-part-two-satellite-predictions/" target="_blank" rel="noopener noreferrer nofollow">https://xt8dob.wordpress.com/2015/05/25/crash-course-heavens-above-part-two-satellite-predictions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Course in Heavens-Above: Part Two – Satellite...25 May 2015 — In this post, I will discuss the basic way of viewing predictions for spec...</p></details>
    Published: May 2015  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings site receiving more than 150 reports about the satellite train.... SpaceXstarlinkUFOs. Join our commenting forum. Join tho...</p></details>
+   Link:<a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings site receiving more than 150 reports about the satellite train.... SpaceXstarlinkUFOs. Join our commenting forum. Join tho...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: james.darpinian.com  
-   Link: <a href="https://james.darpinian.com/satellites/?special=starlink" target="_blank" rel="noopener noreferrer nofollow">https://james.darpinian.com/satellites/?special=starlink</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>See A Satellite Tonight - James DarpinianSee a train of 60 Starlink satellites cross your sky! 🛰️ No telescope required. Find out when th...</p></details>
+   Link:<a href="https://james.darpinian.com/satellites/?special=starlink" target="_blank" rel="noopener noreferrer nofollow">https://james.darpinian.com/satellites/?special=starlink</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See A Satellite Tonight - James DarpinianSee a train of 60 Starlink satellites cross your sky! 🛰️ No telescope required. Find out when th...</p></details>
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: skymaps.com  
-   Link: <a href="https://skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow">https://skymaps.com/articles/n0012.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing Earth SatellitesLow Earth orbiting satellites are not visible throughout the night because at late hours the Earth&#x27;s shadow wil...</p></details>
+   Link:<a href="https://skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow">https://skymaps.com/articles/n0012.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observing Earth SatellitesLow Earth orbiting satellites are not visible throughout the night because at late hours the Earth&#x27;s shadow wil...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/27344302525165426/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/27344302525165426/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The pixels struggle to discharge completely or reach a steady state instantly as the light moves away, leading to a...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/27344302525165426/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/27344302525165426/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The pixels struggle to discharge completely or reach a steady state instantly as the light moves away, leading to a...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/26029741646621527/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/26029741646621527/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rather they reflect light from the sun, like the moon does. As the satellites move...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/26029741646621527/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/26029741646621527/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rather they reflect light from the sun, like the moon does. As the satellites move...Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: astronomy.stackexchange.com  
    Title: why do satellites arcs end abruptly when observed from earth  
-   Link: <a href="https://astronomy.stackexchange.com/questions/28880/why-do-satellites-arcs-end-abruptly-when-observed-from-earth" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/28880/why-do-satellites-arcs-end-abruptly-when-observed-from-earth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>do satellites arcs end abruptly when observed from...26 Dec 2018 — Because satellites are only visible when they are in sunlight, they a...</p></details>
+   Link:<a href="https://astronomy.stackexchange.com/questions/28880/why-do-satellites-arcs-end-abruptly-when-observed-from-earth" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/28880/why-do-satellites-arcs-end-abruptly-when-observed-from-earth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>do satellites arcs end abruptly when observed from...26 Dec 2018 — Because satellites are only visible when they are in sunlight, they a...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: astronomy.stackexchange.com  
-   Link: <a href="https://astronomy.stackexchange.com/questions/50156/what-could-be-an-explanation-for-a-satellite-like-moving-light-in-the-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/50156/what-could-be-an-explanation-for-a-satellite-like-moving-light-in-the-night-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>could be an explanation for a satellite-like moving...10 Aug 2022 — From your description, this was most likely a Satellite Flare...</p></details>
+   Link:<a href="https://astronomy.stackexchange.com/questions/50156/what-could-be-an-explanation-for-a-satellite-like-moving-light-in-the-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/50156/what-could-be-an-explanation-for-a-satellite-like-moving-light-in-the-night-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>could be an explanation for a satellite-like moving...10 Aug 2022 — From your description, this was most likely a Satellite Flare...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: merriam-webster.com  
    Title: SATELLIT E Definition & Meaning6 days ago — 1  
-   Link: <a href="https://www.merriam-webster.com/dictionary/satellite" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/satellite</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a: a celestial body orbiting another of larger size b: a manufactured object or vehicle intended to orbit the earth, the moon, or anoth...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/satellite" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/satellite</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a: a celestial body orbiting another of larger size b: a manufactured object or vehicle intended to orbit the earth, the moon, or anoth...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: foxnews.com  
    Title: ufo sightings spacex starlink train appears  
-   Link: <a href="https://www.foxnews.com/science/ufo-sightings-spacex-starlink-train-appears" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/ufo-sightings-spacex-starlink-train-appears</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &#x27;sightings&#x27; explode as SpaceX Starlink &#x27;train&#x27; appears28 May 2019 — Langbroek, who noted that the anomaly caused it to &quot;rain UFO repo...</p></details>
+   Link:<a href="https://www.foxnews.com/science/ufo-sightings-spacex-starlink-train-appears" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/ufo-sightings-spacex-starlink-train-appears</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &#x27;sightings&#x27; explode as SpaceX Starlink &#x27;train&#x27; appears28 May 2019 — Langbroek, who noted that the anomaly caused it to &quot;rain UFO repo...</p></details>
    Published: May 2019  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: astronomy.stackexchange.com  
    Title: two luminous points disappearing in the sky  
-   Link: <a href="https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>luminous points disappearing in the skyJul 22, 2020 — I saw a few days ago two luminous points in the sky, which were quite close (about...</p></details>
+   Link:<a href="https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>luminous points disappearing in the skyJul 22, 2020 — I saw a few days ago two luminous points in the sky, which were quite close (about...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: aol.com  
    Title: Airline Pilots Couldn't Stop Seeing UFOs  
-   Link: <a href="https://www.aol.com/airline-pilots-couldnt-stop-seeing-140000870.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/airline-pilots-couldnt-stop-seeing-140000870.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They...Researchers used around half a dozen pieces of software softwares to model a &#x27;UFO&#x27; sighting. With 5,500 Starlink satell...</p></details>
+   Link:<a href="https://www.aol.com/airline-pilots-couldnt-stop-seeing-140000870.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/airline-pilots-couldnt-stop-seeing-140000870.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They...Researchers used around half a dozen pieces of software softwares to model a &#x27;UFO&#x27; sighting. With 5,500 Starlink satell...</p></details>

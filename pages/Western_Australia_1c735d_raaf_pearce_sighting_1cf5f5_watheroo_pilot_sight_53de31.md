@@ -256,19 +256,19 @@ image: /assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_wathe
 
 ## Introduction
 
-The Watheroo pilot sighting of 25 February 1983 is one of the more interesting aviation-linked UFO reports in [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }}), not because it produced compelling physical evidence, but because it came from an experienced commercial pilot and was handled through official aviation channels rather than emerging as a newspaper story or folklore account. The case moved from a report to the Department of Aviation to a referral to RAAF Base Pearce, leaving behind a small but valuable documentary record. That record shows what the witnesses claimed to have seen, why aviation authorities took the report seriously enough to forward it, and why the case ultimately remains unresolved rather than proven. The surviving file neither confirms an extraordinary object nor provides a clear conventional explanation. Instead, it offers a rare glimpse into how unusual aerial reports were processed in Western Australia during the early 1980s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The Watheroo pilot sighting of 25 February 1983 is one of the more interesting aviation-linked UFO reports in [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }}), not because it produced compelling physical evidence, but because it came from an experienced commercial pilot and was handled through official aviation channels rather than emerging as a newspaper story or folklore account. The case moved from a report to the Department of Aviation to a referral to RAAF Base Pearce, leaving behind a small but valuable documentary record. That record shows what the witnesses claimed to have seen, why aviation authorities took the report seriously enough to forward it, and why the case ultimately remains unresolved rather than proven. The surviving file neither confirms an extraordinary object nor provides a clear conventional explanation. Instead, it offers a rare glimpse into how unusual aerial reports were processed in Western Australia during the early 1980s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_watheroo_pilot_sight_53de31-Illustration-1-dark.svg" | relative_url }}" alt="Watheroo illustration 1" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_watheroo_pilot_sight_53de31-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_watheroo_pilot_sight_53de31-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The 25 February 1983 sighting account
 
-The known account comes from a letter written on 28 February 1983 by a commercial pilot based in the Watheroo area. The pilot stated that he had already telephoned Perth Flight Service on the evening of the sighting and was sending written confirmation of the incident. According to the letter, the first alert came from a passenger, described as a senior technical officer, who drew attention to an unusual object or light display. The pilot then observed what he described as “a fast moving set of 3 intense silver gold lights”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The known account comes from a letter written on 28 February 1983 by a commercial pilot based in the Watheroo area. The pilot stated that he had already telephoned Perth Flight Service on the evening of the sighting and was sending written confirmation of the incident. According to the letter, the first alert came from a passenger, described as a senior technical officer, who drew attention to an unusual object or light display. The pilot then observed what he described as “a fast moving set of 3 intense silver gold lights”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-The lights were reported to be roughly 20–30 degrees above the horizon and appeared, in the pilot’s estimation, to be about two miles away. He described them moving across an arc of about 60 degrees at a speed exceeding 350 knots, descending slightly as they travelled from north towards south. The lights disappeared while still above the horizon, although the pilot felt they may have accelerated or turned immediately before vanishing from view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The lights were reported to be roughly 20–30 degrees above the horizon and appeared, in the pilot’s estimation, to be about two miles away. He described them moving across an arc of about 60 degrees at a speed exceeding 350 knots, descending slightly as they travelled from north towards south. The lights disappeared while still above the horizon, although the pilot felt they may have accelerated or turned immediately before vanishing from view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-Several details in the report stand out. The witnesses stated that they heard no sound at all. They specifically considered and rejected several obvious [explanations]({{ 'explanations-7a0dd2/' | relative_url }}), including reflections from the setting sun, windscreen defects and other visual artefacts. The accompanying sketch and notes emphasised the absence of navigation lights, strobe lights, afterburner glow, smoke or other features normally associated with military aircraft. The pilot wrote that the phenomenon “did not appear to be a fast moving military jet”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+Several details in the report stand out. The witnesses stated that they heard no sound at all. They specifically considered and rejected several obvious [explanations]({{ 'explanations-7a0dd2/' | relative_url }}), including reflections from the setting sun, windscreen defects and other visual artefacts. The accompanying sketch and notes emphasised the absence of navigation lights, strobe lights, afterburner glow, smoke or other features normally associated with military aircraft. The pilot wrote that the phenomenon “did not appear to be a fast moving military jet”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-Just as significant is what the report does not contain. There was no radar confirmation, no photograph, no independent ground report known from the file, and no indication that the object affected the aircraft or its instruments. The sighting was brief and depended entirely on visual observation by two witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+Just as significant is what the report does not contain. There was no radar confirmation, no photograph, no independent ground report known from the file, and no indication that the object affected the aircraft or its instruments. The sighting was brief and depended entirely on visual observation by two witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X7AgcmoSecg" title="Pilot Reports a UFO Just Flying By his Plane | &quot;Creepy!&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X7AgcmoSecg" target="_blank" rel="noopener noreferrer">Pilot Reports a UFO Just Flying By his Plane | &quot;Creepy!&quot;</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 139.1K &middot; Uploaded: October 2025 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X7AgcmoSecg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X7AgcmoSecg">Open on YouTube</a></p></div></div></div>
@@ -277,11 +277,11 @@ Just as significant is what the report does not contain. There was no radar conf
 
 The strongest feature of the Watheroo case is not the reported object but the witness.
 
-In his letter, the pilot stressed that he held a Commercial Pilot Licence and had accumulated approximately 3,500 flying hours across Australia and Papua New Guinea over an eighteen-year career. He also highlighted his continued good eyesight and emphasised that he and his passenger were sober and fully aware of the potential embarrassment associated with making such a report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+In his letter, the pilot stressed that he held a Commercial Pilot Licence and had accumulated approximately 3,500 flying hours across Australia and Papua New Guinea over an eighteen-year career. He also highlighted his continued good eyesight and emphasised that he and his passenger were sober and fully aware of the potential embarrassment associated with making such a report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 For investigators, those details matter because aviation professionals are generally familiar with the appearance of aircraft lighting, atmospheric effects and common aerial phenomena. A pilot's inability to identify something unusual therefore tends to attract more attention than an equivalent report from an untrained observer.
 
-However, aviation experience has limits. Pilots are trained observers, but they are still vulnerable to the same problems that affect all human perception, especially when judging distance, size and speed of lights seen against a darkening sky. Without an independently known range to the object, estimates such as “two miles away” or “350 knots” are often impossible to verify. A distant object can appear close, and an object moving directly towards or away from an observer can create misleading impressions of speed and manoeuvring. These limitations do not make the witnesses unreliable; they simply mean that sincere observations do not automatically translate into accurate measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+However, aviation experience has limits. Pilots are trained observers, but they are still vulnerable to the same problems that affect all human perception, especially when judging distance, size and speed of lights seen against a darkening sky. Without an independently known range to the object, estimates such as “two miles away” or “350 knots” are often impossible to verify. A distant object can appear close, and an object moving directly towards or away from an observer can create misleading impressions of speed and manoeuvring. These limitations do not make the witnesses unreliable; they simply mean that sincere observations do not automatically translate into accurate measurements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 That tension explains why the case remains interesting. The witnesses appear credible, yet the information available is insufficient to establish exactly what they saw.
 
@@ -291,11 +291,11 @@ That tension explains why the case remains interesting. The witnesses appear cre
 
 One of the most revealing aspects of the case is the paper trail itself.
 
-After receiving the pilot's written report, the Department of Aviation acknowledged it and informed the witness that the information had been forwarded to the Officer Commanding at RAAF Base Pearce “for information and necessary action”. A second document in the file shows the Department formally forwarding the report to Pearce on 18 March 1983. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+After receiving the pilot's written report, the Department of Aviation acknowledged it and informed the witness that the information had been forwarded to the Officer Commanding at RAAF Base Pearce “for information and necessary action”. A second document in the file shows the Department formally forwarding the report to Pearce on 18 March 1983.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-This referral was not unusual. During this period, reports categorised as “Unusual Aerial Sightings” frequently moved between civil aviation authorities and the RAAF when they appeared potentially relevant to airspace safety, defence activity or aircraft operations. Western Australia had relatively few military aviation centres, making Pearce the obvious destination for follow-up enquiries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+This referral was not unusual. During this period, reports categorised as “Unusual Aerial Sightings” frequently moved between civil aviation authorities and the RAAF when they appeared potentially relevant to airspace safety, defence activity or aircraft operations. Western Australia had relatively few military aviation centres, making Pearce the obvious destination for follow-up enquiries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-The surviving documents do not show a dramatic military investigation. Instead, they illustrate a routine administrative process. A report was received through aviation channels, logged, and passed to the military authority most likely to know whether aircraft operations or defence matters could explain it. The existence of a Pearce referral demonstrates official interest, but it should not be mistaken for official endorsement of an extraordinary explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The surviving documents do not show a dramatic military investigation. Instead, they illustrate a routine administrative process. A report was received through aviation channels, logged, and passed to the military authority most likely to know whether aircraft operations or defence matters could explain it. The existence of a Pearce referral demonstrates official interest, but it should not be mistaken for official endorsement of an extraordinary explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KPXoRm0ni8E" title="Let&#x27;s Watch the 1983 THOMAS PILOT!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KPXoRm0ni8E" target="_blank" rel="noopener noreferrer">Let&#x27;s Watch the 1983 THOMAS PILOT!</a></p><p class="youtube-embed-meta">Channel: The Unlucky Tug</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KPXoRm0ni8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KPXoRm0ni8E">Open on YouTube</a></p></div></div></div>
@@ -310,192 +310,192 @@ The surviving file is valuable because it preserves the original witness account
 * A commercial pilot and a technically trained passenger reported an unusual light phenomenon on 25 February 1983.
 * The report was made promptly through aviation channels.
 * The witnesses considered and rejected several straightforward explanations before submitting the report.
-* The Department of Aviation referred the matter to [RAAF Pearce]({{ 'raaf-pearce/' | relative_url }}) for follow-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+* The Department of Aviation referred the matter to [RAAF Pearce]({{ 'raaf-pearce/' | relative_url }}) for follow-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 At the same time, the file leaves major questions unanswered.
 
-The open documents contain no radar data, no confirmed aircraft correlation, no meteorological analysis and no surviving Pearce assessment explaining the sighting. Some pages in the archive remain withheld or were not available in the released material, making it impossible to know whether additional enquiries occurred behind the scenes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The open documents contain no radar data, no confirmed aircraft correlation, no meteorological analysis and no surviving Pearce assessment explaining the sighting. Some pages in the archive remain withheld or were not available in the released material, making it impossible to know whether additional enquiries occurred behind the scenes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-The absence of an explanation is not evidence of an exotic craft. Equally, the lack of a conventional solution in the surviving paperwork does not mean the witnesses were mistaken. The most cautious conclusion is that an experienced pilot and passenger observed a brief aerial light phenomenon they could not identify, and that available records do not contain enough information to determine its true nature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The absence of an explanation is not evidence of an exotic craft. Equally, the lack of a conventional solution in the surviving paperwork does not mean the witnesses were mistaken. The most cautious conclusion is that an experienced pilot and passenger observed a brief aerial light phenomenon they could not identify, and that available records do not contain enough information to determine its true nature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-Within Western Australia's UFO history, that places the Watheroo incident in a middle category: stronger than many anecdotal reports because it is documented and involves aviation professionals, but far short of a case that can establish the presence of an unknown craft. Its enduring significance lies in the official trail leading from a rural Western Australian sighting to RAAF Pearce, illustrating how unusual aerial reports were handled when aviation safety and defence authorities became involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+Within Western Australia's UFO history, that places the Watheroo incident in a middle category: stronger than many anecdotal reports because it is documented and involves aviation professionals, but far short of a case that can establish the presence of an unknown craft. Its enduring significance lies in the official trail leading from a rural Western Australian sighting to RAAF Pearce, illustrating how unusual aerial reports were handled when aviation safety and defence authorities became involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_watheroo_pilot_sight_53de31-Illustration-3-dark.svg" | relative_url }}" alt="Watheroo illustration 3" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_watheroo_pilot_sight_53de31-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_watheroo_pilot_sight_53de31-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Watheroo Pilot Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Watheroo Pilot Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly aligns with a pilot-witness case handled through official aviation channels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly aligns with a pilot-witness case handled through official aviation channels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how aviation and military personnel documented and investigated reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how aviation and military personnel documented and investigated reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for evaluating witness testimony and sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for evaluating witness testimony and sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Appeals to readers interested in documented cases involving official reporting channels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Appeals to readers interested in documented cases involving official reporting channels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF F/A-18 Hornet HUG RPT Joint Test Team Patch &amp; Coin Set - China Lake Rare"><img src="{{ '/assets/images/marketplace-covers/b0ddb4724eaffdeb9550.jpg' | relative_url }}" alt="Listing image for RAAF F/A-18 Hornet HUG RPT Joint Test Team Patch &amp; Coin Set - China Lake Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer">RAAF F/A-18 Hornet HUG RPT Joint Test Team Patch &amp; Coin Set - China Lake Rare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF F/A-18 Hornet HUG RPT Joint Test Team Patch &amp; Coin Set - China Lake Rare"><img src="{{ '/assets/images/marketplace-covers/b0ddb4724eaffdeb9550.jpg' | relative_url }}" alt="Listing image for RAAF F/A-18 Hornet HUG RPT Joint Test Team Patch &amp; Coin Set - China Lake Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer">RAAF F/A-18 Hornet HUG RPT Joint Test Team Patch &amp; Coin Set - China Lake Rare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF 1 Sqn F/A-18F Super Hornet Yellow Hot Wings F18 3D PVC Patch"><img src="{{ '/assets/images/marketplace-covers/3f3f9b9ed86f5fd62d2b.jpg' | relative_url }}" alt="Listing image for RAAF 1 Sqn F/A-18F Super Hornet Yellow Hot Wings F18 3D PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer">RAAF 1 Sqn F/A-18F Super Hornet Yellow Hot Wings F18 3D PVC Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF 1 Sqn F/A-18F Super Hornet Yellow Hot Wings F18 3D PVC Patch"><img src="{{ '/assets/images/marketplace-covers/3f3f9b9ed86f5fd62d2b.jpg' | relative_url }}" alt="Listing image for RAAF 1 Sqn F/A-18F Super Hornet Yellow Hot Wings F18 3D PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer">RAAF 1 Sqn F/A-18F Super Hornet Yellow Hot Wings F18 3D PVC Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ex PITCH BLACK 2026 3D PVC Patch Australia RAAF USAF RAF Voyager 10 101 Squadron"><img src="{{ '/assets/images/marketplace-covers/6e674565297ab9cffe74.jpg' | relative_url }}" alt="Listing image for Ex PITCH BLACK 2026 3D PVC Patch Australia RAAF USAF RAF Voyager 10 101 Squadron" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer">Ex PITCH BLACK 2026 3D PVC Patch Australia RAAF USAF RAF Voyager 10 101 Squadron</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ex PITCH BLACK 2026 3D PVC Patch Australia RAAF USAF RAF Voyager 10 101 Squadron"><img src="{{ '/assets/images/marketplace-covers/6e674565297ab9cffe74.jpg' | relative_url }}" alt="Listing image for Ex PITCH BLACK 2026 3D PVC Patch Australia RAAF USAF RAF Voyager 10 101 Squadron" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer">Ex PITCH BLACK 2026 3D PVC Patch Australia RAAF USAF RAF Voyager 10 101 Squadron</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="watheroo-what-did-the-watheroo-pilot-really-see-western-australia-raaf-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -511,7 +511,7 @@ Within Western Australia's UFO history, that places the Watheroo incident in a m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -531,7 +531,7 @@ Within Western Australia's UFO history, that places the Watheroo incident in a m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -563,7 +563,7 @@ Within Western Australia's UFO history, that places the Watheroo incident in a m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -615,7 +615,7 @@ Within Western Australia's UFO history, that places the Watheroo incident in a m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -660,7 +660,7 @@ Within Western Australia's UFO history, that places the Watheroo incident in a m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -701,67 +701,67 @@ Within Western Australia's UFO history, that places the Watheroo incident in a m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commanding 898211. UNUSUAL AERIAL SIGHTINGS...</p></details>
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commanding 898211. UNUSUAL AERIAL SIGHTINGS...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...&quot;The nation&#x27;s 8,500 commercial airline pilots have been seeing a lot of unusual objects while...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...&quot;The nation&#x27;s 8,500 commercial airline pilots have been seeing a lot of unusual objects while...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: meanjin.com.au  
-   Link: <a href="https://meanjin.com.au/essays/ufos-seen-and-unseen/" target="_blank" rel="noopener noreferrer nofollow">https://meanjin.com.au/essays/ufos-seen-and-unseen/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Seen and UnseenKeith Basterfield has a mundane theory. Keith is a retired astronomer, now analytical ufologist. Keith believes 95 pe...</p></details>
+   Link:<a href="https://meanjin.com.au/essays/ufos-seen-and-unseen/" target="_blank" rel="noopener noreferrer nofollow">https://meanjin.com.au/essays/ufos-seen-and-unseen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Seen and UnseenKeith Basterfield has a mundane theory. Keith is a retired astronomer, now analytical ufologist. Keith believes 95 pe...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/book/show/2619771-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/2619771-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: a Report on Australian Encounters by Keith BasterfieldA report on Australian encounters. Keith Basterfield. 3.50. 6 ratings 0 revie...</p></details>
+   Link:<a href="https://www.goodreads.com/book/show/2619771-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/2619771-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: a Report on Australian Encounters by Keith BasterfieldA report on Australian encounters. Keith Basterfield. 3.50. 6 ratings 0 revie...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/1468429" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1468429</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.auUFO&#x27;s: a report on Australian encounters / Keith BasterfieldClose encounters of an Australian kind: UFOs - the image hypothes...</p></details>
+   Link:<a href="https://catalogue.nla.gov.au/catalog/1468429" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1468429</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.auUFO&#x27;s: a report on Australian encounters / Keith BasterfieldClose encounters of an Australian kind: UFOs - the image hypothes...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fonic.co.uk  
-   Link: <a href="https://fonic.co.uk/press-releases/original-1983-thomas-the-tank-engine-pilot-restored-by-fonic-for-80th-anniversary-tribute/" target="_blank" rel="noopener noreferrer nofollow">https://fonic.co.uk/press-releases/original-1983-thomas-the-tank-engine-pilot-restored-by-fonic-for-80th-anniversary-tribute/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Original 1983 Thomas the Tank Engine Pilot Restored by...3 Jul 2025 — Fonic Post Production is proud to announce its collaboration with...</p></details>
+   Link:<a href="https://fonic.co.uk/press-releases/original-1983-thomas-the-tank-engine-pilot-restored-by-fonic-for-80th-anniversary-tribute/" target="_blank" rel="noopener noreferrer nofollow">https://fonic.co.uk/press-releases/original-1983-thomas-the-tank-engine-pilot-restored-by-fonic-for-80th-anniversary-tribute/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Original 1983 Thomas the Tank Engine Pilot Restored by...3 Jul 2025 — Fonic Post Production is proud to announce its collaboration with...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: it remains the biggest mass sighting of a ufo in australian history  
-   Link: <a href="https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It remains the biggest mass sighting of a UFO in Australian...UFO researcher Keith Basterfield told the Herald Sun in 2014 that he belie...</p></details>
+   Link:<a href="https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It remains the biggest mass sighting of a UFO in Australian...UFO researcher Keith Basterfield told the Herald Sun in 2014 that he belie...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: january 1969 childers queensland australia mr gv and his wife and two daughters  
-   Link: <a href="https://www.facebook.com/BundabergNewsMail/posts/-january-1969-childers-queensland-australia-mr-gv-and-his-wife-and-two-daughters/1783776706250613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BundabergNewsMail/posts/-january-1969-childers-queensland-australia-mr-gv-and-his-wife-and-two-daughters/1783776706250613/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>👽 January 1969, Childers, Queensland, Australia 👽 Mr GV...UFO sighting in Middelburg, Netherlands, 1983...</p></details>
+   Link:<a href="https://www.facebook.com/BundabergNewsMail/posts/-january-1969-childers-queensland-australia-mr-gv-and-his-wife-and-two-daughters/1783776706250613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BundabergNewsMail/posts/-january-1969-childers-queensland-australia-mr-gv-and-his-wife-and-two-daughters/1783776706250613/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>👽 January 1969, Childers, Queensland, Australia 👽 Mr GV...UFO sighting in Middelburg, Netherlands, 1983...</p></details>
    Published: january 1969  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk The Mull of Kintyre Review  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7cccbaed915d6b29fa8bdb/1348.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cccbaed915d6b29fa8bdb/1348.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mull of Kintyre Review - HC 1348This analysis concluded that the aircraft was following its intended flight path up to the waypoint chang...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7cccbaed915d6b29fa8bdb/1348.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cccbaed915d6b29fa8bdb/1348.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mull of Kintyre Review - HC 1348This analysis concluded that the aircraft was following its intended flight path up to the waypoint chang...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DSnIOiXjg6t/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSnIOiXjg6t/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mall, silver, cylinder-shaped object was hovering near his right wingtip...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DSnIOiXjg6t/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSnIOiXjg6t/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mall, silver, cylinder-shaped object was hovering near his right wingtip...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot; from military staff, police, and everyday Australians. As...</p></details>
+   Link:<a href="https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot; from military staff, police, and everyday Australians. As...</p></details>

@@ -256,7 +256,7 @@ image: /assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_woomera
 
 ## Introduction
 
-The 1964 [Woomera]({{ 'woomera/' | relative_url }}) UFO movie is one of [South Australia]({{ 'why-south-australias-ufo-stories-still/' | relative_url }})’s best examples of an impressive-looking UFO claim becoming weaker, not stronger, once the archive trail is followed. The story centred on footage from the 5 June 1964 Blue Streak rocket test at Woomera, where an oval bright shape appeared near the rocket in published stills and film. For years it was treated in UFO literature as a possible filmed anomaly. Later checks changed the case: Australian file searches found no matching official UFO report for June 1964, British records showed the film was not missing, and the object was identified as a classic internal lens reflection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2010/12/1964-woomera-ufo-movie-solved-cold-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific ResearchUnidentified Anomalous Phenomena - scientific research: 1964 Woomera UFO movie solved - cold case...</span></span></span>
+The 1964 [Woomera]({{ 'woomera/' | relative_url }}) UFO movie is one of [South Australia]({{ 'why-south-australias-ufo-stories-still/' | relative_url }})’s best examples of an impressive-looking UFO claim becoming weaker, not stronger, once the archive trail is followed. The story centred on footage from the 5 June 1964 Blue Streak rocket test at Woomera, where an oval bright shape appeared near the rocket in published stills and film. For years it was treated in UFO literature as a possible filmed anomaly. Later checks changed the case: Australian file searches found no matching official UFO report for June 1964, British records showed the film was not missing, and the object was identified as a classic internal lens reflection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2010/12/1964-woomera-ufo-movie-solved-cold-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific ResearchUnidentified Anomalous Phenomena - scientific research: 1964 Woomera UFO movie solved - cold case...</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_woomera_movie_debunk_5ef886-Illustration-1-dark.svg" | relative_url }}" alt="Woomera film illustration 1" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_woomera_movie_debunk_5ef886-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_woomera_movie_debunk_5ef886-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,11 +264,11 @@ That does not make the case worthless. It makes it useful. Within South Australi
 
 ## Why the film became an archive case
 
-The Woomera film mattered because it appeared to combine three ingredients that often make UFO stories durable: a restricted defence site, a real rocket programme and visual evidence. Woomera was not just an outback town with rumours attached. It was a major Anglo-Australian weapons and space testing range, and official records from the broader Woomera Prohibited Area show that unusual aerial reports near defence sites were sometimes taken seriously enough to generate investigations and witness interviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, Woomera &#124; naa.gov.au</span></span></span>
+The Woomera film mattered because it appeared to combine three ingredients that often make UFO stories durable: a restricted defence site, a real rocket programme and visual evidence. Woomera was not just an outback town with rumours attached. It was a major Anglo-Australian weapons and space testing range, and official records from the broader Woomera Prohibited Area show that unusual aerial reports near defence sites were sometimes taken seriously enough to generate investigations and witness interviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, Woomera &#124; naa.gov.au</span></span></span>
 
-The specific 1964 film claim entered UFO discussion through a still image. Keith Basterfield’s later review notes that the English magazine Flying Saucer Review published a black-and-white photograph in its September/October 1964 issue, showing an oval blob of light near a Blue Streak rocket; the print was apparently taken from a colour movie. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span> That was enough to give the case a long afterlife. A still frame can look more mysterious than moving footage, especially when readers cannot easily see how the bright shape behaves in relation to the camera, the rocket and the Sun.
+The specific 1964 film claim entered UFO discussion through a still image. Keith Basterfield’s later review notes that the English magazine Flying Saucer Review published a black-and-white photograph in its September/October 1964 issue, showing an oval blob of light near a Blue Streak rocket; the print was apparently taken from a colour movie.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span> That was enough to give the case a long afterlife. A still frame can look more mysterious than moving footage, especially when readers cannot easily see how the bright shape behaves in relation to the camera, the rocket and the Sun.
 
-The archive problem then deepened. Disclosure Australia researchers looked for a corresponding Australian government UFO record and found none for June 1964 in the relevant RAAF master UFO-report period. They also checked Department of Supply and Woomera-related files, including a 1952–1968 file titled “Reports on unidentified aircraft, strange occurrences etc”, but found nothing relating to the 5 June 1964 film. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2010/12/1964-woomera-ufo-movie-solved-cold-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific ResearchUnidentified Anomalous Phenomena - scientific research: 1964 Woomera UFO movie solved - cold case...</span></span></span>
+The archive problem then deepened. Disclosure Australia researchers looked for a corresponding Australian government UFO record and found none for June 1964 in the relevant RAAF master UFO-report period. They also checked Department of Supply and Woomera-related files, including a 1952–1968 file titled “Reports on unidentified aircraft, strange occurrences etc”, but found nothing relating to the 5 June 1964 film.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2010/12/1964-woomera-ufo-movie-solved-cold-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific ResearchUnidentified Anomalous Phenomena - scientific research: 1964 Woomera UFO movie solved - cold case...</span></span></span>
 
 That absence did not prove there was no image anomaly. It did, however, weaken the stronger version of the story. If a strange object had been observed independently at a major rocket launch, one might expect some trace in launch, range, defence, security or UFO correspondence. Instead, the surviving trail pointed mainly to a published image and later curiosity about where the original film had gone.
 
@@ -277,23 +277,23 @@ That absence did not prove there was no image anomaly. It did, however, weaken t
 
 ## What the Blue Streak context changed
 
-The Blue Streak setting is important because it explains why the image attracted attention in the first place. Blue Streak began as a British missile project and was later repurposed as part of a European satellite-launch effort. The National Space Centre describes it as Britain’s contribution to the Space Race, first launched at Woomera in 1964 and later cancelled in 1971. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacecentre.co.uk/news/space-now-blog/blue-streak-success-failure-and-extraterrestrials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacecentre.co.uk">[National Space Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacecentre.co.uk</span><span class="citation-popover-title">National Space Centre Blue Streak – Success, Failure and … Extraterrestrials?</span><span class="citation-popover-snippet">National Space Centre Blue Streak – Success, Failure and … Extraterrestrials?</span></span></span>
+The Blue Streak setting is important because it explains why the image attracted attention in the first place. Blue Streak began as a British missile project and was later repurposed as part of a European satellite-launch effort. The National Space Centre describes it as Britain’s contribution to the Space Race, first launched at Woomera in 1964 and later cancelled in 1971.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacecentre.co.uk/news/space-now-blog/blue-streak-success-failure-and-extraterrestrials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacecentre.co.uk">[National Space Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacecentre.co.uk</span><span class="citation-popover-title">National Space Centre Blue Streak – Success, Failure and … Extraterrestrials?</span><span class="citation-popover-snippet">National Space Centre Blue Streak – Success, Failure and … Extraterrestrials?</span></span></span>
 
-The timing also matters. In the House of Commons on 3 June 1964, the Minister of Aviation described several postponed Blue Streak firing attempts at Woomera caused by weather and technical issues, then said the next attempt was planned for Friday 5 June. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1964/jun/03/blue-streak-launching-project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[api.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">blue streak launching project</span><span class="citation-popover-snippet">blue streak launching project</span></span></span> That gives the UFO movie a firm operational setting: it was not a vague desert sighting but footage attached to a real, heavily observed launch event.
+The timing also matters. In the House of Commons on 3 June 1964, the Minister of Aviation described several postponed Blue Streak firing attempts at Woomera caused by weather and technical issues, then said the next attempt was planned for Friday 5 June.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/commons/1964/jun/03/blue-streak-launching-project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[api.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">blue streak launching project</span><span class="citation-popover-snippet">blue streak launching project</span></span></span> That gives the UFO movie a firm operational setting: it was not a vague desert sighting but footage attached to a real, heavily observed launch event.
 
 This context cuts both ways. For believers, a rocket test range sounds like exactly the kind of place where something unusual might be noticed. For sceptical investigators, it also means the scene was crowded with reasons for misleading images: strong sunlight, reflective metal, cameras pointed towards a bright launch area, multiple lenses, smoke, glare, tracking equipment and hurried media coverage.
 
-The film also became entangled with the Solway Spaceman story from Cumbria, because Blue Streak equipment had British links and the famous Solway photograph was taken shortly before the Woomera launch. David Clarke notes that some versions of the story linked the Solway image to a supposed Woomera range incident involving figures seen near the firing area. But the Woomera film case does not need that story to explain it. The key evidence concerns the 5 June rocket footage and the bright object recorded beside it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
+The film also became entangled with the Solway Spaceman story from Cumbria, because Blue Streak equipment had British links and the famous Solway photograph was taken shortly before the Woomera launch. David Clarke notes that some versions of the story linked the Solway image to a supposed Woomera range incident involving figures seen near the firing area. But the Woomera film case does not need that story to explain it. The key evidence concerns the 5 June rocket footage and the bright object recorded beside it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_woomera_movie_debunk_5ef886-Illustration-2-dark.svg" | relative_url }}" alt="Woomera film illustration 2" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_woomera_movie_debunk_5ef886-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_woomera_movie_debunk_5ef886-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How lens reflection replaced the mystery
 
-The decisive shift came when the film trail was clarified. Clarke’s account of the released UK files says the supposedly missing film was not secret or removed: it was a British Pathé newsreel, with the original held by the Imperial War Museum. The “mysterious object” visible beside the launch pad in the 5 June 1964 footage was, in his assessment, a classic lens reflection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
+The decisive shift came when the film trail was clarified. Clarke’s account of the released UK files says the supposedly missing film was not secret or removed: it was a British Pathé newsreel, with the original held by the Imperial War Museum. The “mysterious object” visible beside the launch pad in the 5 June 1964 footage was, in his assessment, a classic lens reflection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">The Solway Spaceman photograph &#124;...</span></span></span>
 
-That finding fits Basterfield’s independent cold-case review. He reported that when the British Pathé footage titled “Woomera, Blue Streak – Two, One, Zero” was located online, the object on the left side of the rocket was clearly an internal lens reflection. His conclusion was blunt: “Case solved.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2010/12/1964-woomera-ufo-movie-solved-cold-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific ResearchUnidentified Anomalous Phenomena - scientific research: 1964 Woomera UFO movie solved - cold case...</span></span></span>
+That finding fits Basterfield’s independent cold-case review. He reported that when the British Pathé footage titled “Woomera, Blue Streak – Two, One, Zero” was located online, the object on the left side of the rocket was clearly an internal lens reflection. His conclusion was blunt: “Case solved.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2010/12/1964-woomera-ufo-movie-solved-cold-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific ResearchUnidentified Anomalous Phenomena - scientific research: 1964 Woomera UFO movie solved - cold case...</span></span></span>
 
-The Imperial War Museum’s own catalogue helps confirm that the relevant Blue Streak material was ordinary archival film, not suppressed UFO evidence. It lists Blue Streak footage from Woomera, including films showing the rocket undergoing tests and later documentary material about the building and launch of the British-made rocket. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/collections/item/object/1060019200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Open source on iwm.org.uk.</span></span></span>
+The Imperial War Museum’s own catalogue helps confirm that the relevant Blue Streak material was ordinary archival film, not suppressed UFO evidence. It lists Blue Streak footage from Woomera, including films showing the rocket undergoing tests and later documentary material about the building and launch of the British-made rocket.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/collections/item/object/1060019200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Open source on iwm.org.uk.</span></span></span>
 
 The lesson is simple but important: visual evidence is not automatically stronger than testimony. A photograph or movie can preserve a mistake with unusual clarity. In this case, the more complete the visual record became, the less exotic the object looked.
 
@@ -304,7 +304,7 @@ The lesson is simple but important: visual evidence is not automatically stronge
 
 The Woomera movie is a useful cautionary case for South Australian UFO history because it shows why “official” and “archival” do not always mean “unexplained”. Woomera’s defence importance made the story feel weighty, but the archive trail did not support the dramatic version. Instead, it showed a media image, a later hunt for missing film, file searches that failed to produce a matching UFO report, and a mundane optical explanation once the footage was viewed in context.
 
-It also shows why civilian researchers matter. Basterfield’s cataloguing work did not simply preserve mystery stories; it created a route for checking them. By noting the original magazine source, the date, the Blue Streak connection and the later file searches, the case could be tested rather than endlessly repeated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2010/12/1964-woomera-ufo-movie-solved-cold-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific ResearchUnidentified Anomalous Phenomena - scientific research: 1964 Woomera UFO movie solved - cold case...</span></span></span>
+It also shows why civilian researchers matter. Basterfield’s cataloguing work did not simply preserve mystery stories; it created a route for checking them. By noting the original magazine source, the date, the Blue Streak connection and the later file searches, the case could be tested rather than endlessly repeated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2010/12/1964-woomera-ufo-movie-solved-cold-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific ResearchUnidentified Anomalous Phenomena - scientific research: 1964 Woomera UFO movie solved - cold case...</span></span></span>
 
 For readers exploring South Australia’s UFO record, the Woomera film belongs beside stronger and more ambiguous archive cases, not because it remains unexplained, but because it demonstrates the sorting process. Some reports survive as unresolved because the evidence is incomplete. Some survive as historically interesting because they reveal how [witnesses]({{ 'witnesses/' | relative_url }}), officials and journalists handled strange observations. And some, like the Woomera movie, survive because their debunking is part of the record.
 
@@ -319,194 +319,194 @@ The Woomera UFO movie did not survive close scrutiny as a convincing UFO film. I
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Woomera UFO movie survive scrutiny?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Woomera UFO movie survive scrutiny?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong match for a case study about examining UFO evidence, photographic claims, and scientific scrutiny.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for a case study about examining UFO evidence, photographic claims, and scientific scrutiny.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how serious UFO claims are assessed and documented, paralleling the Woomera archive trail discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how serious UFO claims are assessed and documented, paralleling the Woomera archive trail discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Verdict on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eFzxAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Verdict" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Verdict">The UFO Verdict</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Verdict on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eFzxAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Verdict" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Verdict">The UFO Verdict</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Useful for readers interested in how seemingly impressive UFO cases can acquire ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for readers interested in how seemingly impressive UFO cases can acquire ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how extraordinary claims should be tested against evidence, directly aligning with the debunking process described on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains how extraordinary claims should be tested against evidence, directly aligning with the debunking process described on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Verdict&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Verdict</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Verdict&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Verdict</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift"><img src="{{ '/assets/images/marketplace-covers/9d2e078b71d572691f24.jpg' | relative_url }}" alt="Listing image for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="{{ '/assets/images/marketplace-covers/184bb6bf3fc5597faf27.jpg' | relative_url }}" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="woomera-film-did-the-woomera-ufo-movie-survive-scrutiny-south-australia-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-woomera-ufo-movie-survive-scrutiny-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +522,7 @@ The Woomera UFO movie did not survive close scrutiny as a convincing UFO film. I
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +542,7 @@ The Woomera UFO movie did not survive close scrutiny as a convincing UFO film. I
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +574,7 @@ The Woomera UFO movie did not survive close scrutiny as a convincing UFO film. I
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -626,7 +626,7 @@ The Woomera UFO movie did not survive close scrutiny as a convincing UFO film. I
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -671,7 +671,7 @@ The Woomera UFO movie did not survive close scrutiny as a convincing UFO film. I
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -712,145 +712,145 @@ The Woomera UFO movie did not survive close scrutiny as a convincing UFO film. I
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: drdavidclarke.co.uk  
    Title: Dr. David Clarke  
-   Link: <a href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Solway Spaceman photograph |...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Solway Spaceman photograph |...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: project1947.com  
    Title: kb uasgov  
-   Link: <a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</p></details>
+   Link:<a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: api.parliament.uk  
    Title: blue streak launching project  
-   Link: <a href="https://api.parliament.uk/historic-hansard/commons/1964/jun/03/blue-streak-launching-project" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/commons/1964/jun/03/blue-streak-launching-project</a>  
+   Link:<a href="https://api.parliament.uk/historic-hansard/commons/1964/jun/03/blue-streak-launching-project" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/commons/1964/jun/03/blue-streak-launching-project</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/kbcat/kbwoomera.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbwoomera.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kbwoomera.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbwoomera.htm</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: project1947.com  
    Title: SOUT H AUSTRALIAN UFO REPORTS LISTING  
-   Link: <a href="https://www.project1947.com/kbcat/kbsaufo05-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbsaufo05-1.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kbsaufo05-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbsaufo05-1.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: project1947.com  
    Title: Keith Basterfield  
-   Link: <a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: project1947.com  
    Title: Keith Basterfield  
-   Link: <a href="https://www.project1947.com/kbcat/kbpre47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbpre47.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kbpre47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbpre47.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: BLUE STREAK  
-   Link: <a href="https://www.youtube.com/watch?v=qcAntms5QPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qcAntms5QPs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The History of Britain in Space, Ep 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qcAntms5QPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qcAntms5QPs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The History of Britain in Space, Ep 1...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Blue Streak | The History of Britain in Space, Ep 1  
-   Link: <a href="https://www.youtube.com/watch?v=VL2OpK60XY4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VL2OpK60XY4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s UFO Secrets Exposed with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VL2OpK60XY4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VL2OpK60XY4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s UFO Secrets Exposed with Ross Coulthart...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: UFOs Scientific Research Unidentified Anomalous Phenomena  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2010/12/1964-woomera-ufo-movie-solved-cold-case.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2010/12/1964-woomera-ufo-movie-solved-cold-case.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Scientific ResearchUnidentified Anomalous Phenomena - scientific research: 1964 Woomera UFO movie solved - cold case...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2010/12/1964-woomera-ufo-movie-solved-cold-case.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2010/12/1964-woomera-ufo-movie-solved-cold-case.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Scientific ResearchUnidentified Anomalous Phenomena - scientific research: 1964 Woomera UFO movie solved - cold case...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: naa.gov.au  
    Title: NAAUFO sightings at weapons testing site, Woomera | naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: spacecentre.co.uk  
    Title: National Space Centre Blue Streak – Success, Failure and … Extraterrestrials?  
-   Link: <a href="https://www.spacecentre.co.uk/news/space-now-blog/blue-streak-success-failure-and-extraterrestrials/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/news/space-now-blog/blue-streak-success-failure-and-extraterrestrials/</a>  
+   Link:<a href="https://www.spacecentre.co.uk/news/space-now-blog/blue-streak-success-failure-and-extraterrestrials/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/news/space-now-blog/blue-streak-success-failure-and-extraterrestrials/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: iwm.org.uk  
-   Link: <a href="https://www.iwm.org.uk/collections/item/object/1060019200" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/collections/item/object/1060019200</a>  
+   Link:<a href="https://www.iwm.org.uk/collections/item/object/1060019200" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/collections/item/object/1060019200</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: iwm.org.uk  
-   Link: <a href="https://www.iwm.org.uk/collections/item/object/1060006374" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/collections/item/object/1060006374</a>  
+   Link:<a href="https://www.iwm.org.uk/collections/item/object/1060006374" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/collections/item/object/1060006374</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theozfiles.blogspot.com  
    Title: ALIE N INTRUSION AT WOOMERA?  
-   Link: <a href="https://theozfiles.blogspot.com/2016/05/alien-intrusion-at-woomera-case-of.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2016/05/alien-intrusion-at-woomera-case-of.html</a>  
+   Link:<a href="https://theozfiles.blogspot.com/2016/05/alien-intrusion-at-woomera-case-of.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2016/05/alien-intrusion-at-woomera-case-of.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dst.defence.gov.au  
    Title: Fire Across the Desert  
-   Link: <a href="https://www.dst.defence.gov.au/sites/default/files/publications/documents/Fire%20Across%20the%20Desert.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dst.defence.gov.au/sites/default/files/publications/documents/Fire%20Across%20the%20Desert.pdf</a>  
+   Link:<a href="https://www.dst.defence.gov.au/sites/default/files/publications/documents/Fire%20Across%20the%20Desert.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dst.defence.gov.au/sites/default/files/publications/documents/Fire%20Across%20the%20Desert.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: digital.collections.slsa.sa.gov.au  
-   Link: <a href="https://digital.collections.slsa.sa.gov.au/nodes/view/2813" target="_blank" rel="noopener noreferrer nofollow">https://digital.collections.slsa.sa.gov.au/nodes/view/2813</a>  
+   Link:<a href="https://digital.collections.slsa.sa.gov.au/nodes/view/2813" target="_blank" rel="noopener noreferrer nofollow">https://digital.collections.slsa.sa.gov.au/nodes/view/2813</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Australia's UFO Secrets Exposed with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=hzoJPerhz-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hzoJPerhz-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Europa&quot; Rocket Fired At Woomera, Australia (1966)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hzoJPerhz-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hzoJPerhz-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Europa&quot; Rocket Fired At Woomera, Australia (1966)...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sbs.com.au  
-   Link: <a href="https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz</a>  
+   Link:<a href="https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheHauntsOfAdelaide/posts/an-influx-of-south-australian-ufo-sightings-in-january-1954-port-road-hindmarsh-/1402453781248258/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHauntsOfAdelaide/posts/an-influx-of-south-australian-ufo-sightings-in-january-1954-port-road-hindmarsh-/1402453781248258/</a>  
+   Link:<a href="https://www.facebook.com/TheHauntsOfAdelaide/posts/an-influx-of-south-australian-ufo-sightings-in-january-1954-port-road-hindmarsh-/1402453781248258/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHauntsOfAdelaide/posts/an-influx-of-south-australian-ufo-sightings-in-january-1954-port-road-hindmarsh-/1402453781248258/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/27043580855260108/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/27043580855260108/</a>  
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/27043580855260108/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/27043580855260108/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/218676792817854/posts/1420338929318295/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/218676792817854/posts/1420338929318295/</a>  
+   Link:<a href="https://www.facebook.com/groups/218676792817854/posts/1420338929318295/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/218676792817854/posts/1420338929318295/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/iwm.london/videos/4372499843038652/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iwm.london/videos/4372499843038652/</a>  
+   Link:<a href="https://www.facebook.com/iwm.london/videos/4372499843038652/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iwm.london/videos/4372499843038652/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/iwm.london/videos/the-british-made-blue-streak-rocket-takes-off-from-its-launch-site-at-woomera-au/4372499843038652/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iwm.london/videos/the-british-made-blue-streak-rocket-takes-off-from-its-launch-site-at-woomera-au/4372499843038652/</a>  
+   Link:<a href="https://www.facebook.com/iwm.london/videos/the-british-made-blue-streak-rocket-takes-off-from-its-launch-site-at-woomera-au/4372499843038652/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iwm.london/videos/the-british-made-blue-streak-rocket-takes-off-from-its-launch-site-at-woomera-au/4372499843038652/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/newsandstar/posts/the-spaceman-theory-shared-in-us/1569413361852234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newsandstar/posts/the-spaceman-theory-shared-in-us/1569413361852234/</a>  
+   Link:<a href="https://www.facebook.com/newsandstar/posts/the-spaceman-theory-shared-in-us/1569413361852234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newsandstar/posts/the-spaceman-theory-shared-in-us/1569413361852234/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/253550249143357/posts/1426691921829178/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253550249143357/posts/1426691921829178/</a>  
+   Link:<a href="https://www.facebook.com/groups/253550249143357/posts/1426691921829178/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253550249143357/posts/1426691921829178/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: tlcc.com.au  
-   Link: <a href="https://www.tlcc.com.au/trip-reports/crashed-rockets-at-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.tlcc.com.au/trip-reports/crashed-rockets-at-woomera</a>  
+   Link:<a href="https://www.tlcc.com.au/trip-reports/crashed-rockets-at-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.tlcc.com.au/trip-reports/crashed-rockets-at-woomera</a>  

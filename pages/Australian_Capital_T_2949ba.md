@@ -36,9 +36,9 @@ heading_title: Canberra's UFO Files Without the Hype
 page_heading_title: Canberra's UFO Files Without the Hype
 source_count: 160
 infographic_count: 3
-page_website_name: ACT UFOs
+page_website_name: ACT
 page_banner_line: Balanced Canberra UFO history, from airport sightings to Defence records.
-site_website_name: ACT UFOs
+site_website_name: ACT
 site_banner_line: Balanced Canberra UFO history, from airport sightings to Defence records.
 site_image_description: A quiet Canberra airport control tower at dusk with runway lights, distant hills and a pale unexplained light high in the sky.
 output_language: English
@@ -276,7 +276,7 @@ image: /assets/images/Australian_Capital_T_2949ba-overview-social.jpg
 
 ## Why Canberra matters in Australian UFO history
 
-Canberra’s importance is not mainly that it produced Australia’s most dramatic UFO stories. It matters because the ACT sits at the meeting point of public reports, aviation infrastructure, federal bureaucracy and national archives. When UFO reports were treated as “Unusual Aerial Sightings”, the Royal Australian Air Force was the key official body, and Canberra contained major Defence offices as well as the National Archives of Australia, where many surviving records can now be accessed. ABC reporting on researcher Bill Chalker’s access to [RAAF files]({{ 'raaf-files/' | relative_url }}) describes him going to Russell Offices in Canberra in 1982 to inspect declassified material, a reminder that the capital was central to the [paper trail]({{ 'paper-trail/' | relative_url }}) even when the sightings themselves occurred elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+Canberra’s importance is not mainly that it produced Australia’s most dramatic UFO stories. It matters because the ACT sits at the meeting point of public reports, aviation infrastructure, federal bureaucracy and national archives. When UFO reports were treated as “Unusual Aerial Sightings”, the Royal Australian Air Force was the key official body, and Canberra contained major Defence offices as well as the National Archives of Australia, where many surviving records can now be accessed. ABC reporting on researcher Bill Chalker’s access to [RAAF files]({{ 'raaf-files/' | relative_url }}) describes him going to Russell Offices in Canberra in 1982 to inspect declassified material, a reminder that the capital was central to the [paper trail]({{ 'paper-trail/' | relative_url }}) even when the sightings themselves occurred elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba-overview.webp" | relative_url }}" alt="Overview image for Australian Capital Territory" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,11 +284,11 @@ That distinction is important for readers. A Canberra UFO page should not preten
 
 ## The 1965 Canberra Airport sighting
 
-The best-known ACT case occurred on 15 July 1965, when air traffic control officers from the Department of Civil Aviation reported a white object north-east of the Canberra control tower. A Canberra Times report published on 24 July said RAAF investigators had not yet completed their report on two recent Canberra sightings: the daylight airport object and a separate report of a “white object with a tail” visible for about four seconds on a Monday night. At that stage, the airport object was believed possibly to be a daylight appearance of Venus, while the brief night-time object was thought more likely to have been a meteorite or a rocket body burning up on re-entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
+The best-known ACT case occurred on 15 July 1965, when air traffic control officers from the Department of Civil Aviation reported a white object north-east of the Canberra control tower. A Canberra Times report published on 24 July said RAAF investigators had not yet completed their report on two recent Canberra sightings: the daylight airport object and a separate report of a “white object with a tail” visible for about four seconds on a Monday night. At that stage, the airport object was believed possibly to be a daylight appearance of Venus, while the brief night-time object was thought more likely to have been a meteorite or a rocket body burning up on re-entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 
-The case became more interesting because early explanations did not fully settle the matter. Keith Basterfield’s later review of the Canberra Airport sighting drew together newspaper accounts and National [Archives]({{ 'archives/' | relative_url }}) references, noting that the case appeared repeatedly in UFO literature and that overseas newspapers also picked up the story. His summary cites contemporary reporting in which Canberra civil aviation personnel were clearly uneasy about the object, while Mount Stromlo Observatory was drawn into discussion of whether Venus could account for the sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">the classic canberra airport sighting</span><span class="citation-popover-snippet">the classic canberra airport sighting</span></span></span>
+The case became more interesting because early explanations did not fully settle the matter. Keith Basterfield’s later review of the Canberra Airport sighting drew together newspaper accounts and National [Archives]({{ 'archives/' | relative_url }}) references, noting that the case appeared repeatedly in UFO literature and that overseas newspapers also picked up the story. His summary cites contemporary reporting in which Canberra civil aviation personnel were clearly uneasy about the object, while Mount Stromlo Observatory was drawn into discussion of whether Venus could account for the sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">the classic canberra airport sighting</span><span class="citation-popover-snippet">the classic canberra airport sighting</span></span></span>
 
-The official explanation appears to have remained cautious rather than decisive. Basterfield’s review says a RAAF press release from 30 July 1965 suggested several possibilities: a high-altitude meteorological balloon released from Wagga, a brief condensation trail from a high-flying jet, or Venus. A Brisbane report framed the object as identified as a large weather balloon, while an Adelaide report said the RAAF had failed to identify it but favoured the balloon explanation. That mix of wording is exactly why the case keeps recurring: it is neither a cleanly solved hoax nor strong evidence of anything exotic. It is a well-witnessed daylight report with plausible mundane explanations and some ambiguity in the official language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">the classic canberra airport sighting</span><span class="citation-popover-snippet">the classic canberra airport sighting</span></span></span>
+The official explanation appears to have remained cautious rather than decisive. Basterfield’s review says a RAAF press release from 30 July 1965 suggested several possibilities: a high-altitude meteorological balloon released from Wagga, a brief condensation trail from a high-flying jet, or Venus. A Brisbane report framed the object as identified as a large weather balloon, while an Adelaide report said the RAAF had failed to identify it but favoured the balloon explanation. That mix of wording is exactly why the case keeps recurring: it is neither a cleanly solved hoax nor strong evidence of anything exotic. It is a well-witnessed daylight report with plausible mundane explanations and some ambiguity in the official language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">the classic canberra airport sighting</span><span class="citation-popover-snippet">the classic canberra airport sighting</span></span></span>
 
 For the ACT’s UFO history, the case matters for three reasons. First, the witnesses were not casual passers-by; they were aviation personnel working at an airport. Second, the object was seen in daylight, removing some common night-sky confusions but not eliminating Venus, balloons or aircraft effects. Third, the RAAF response shows the normal investigative pattern: collect witness information, check astronomy, weather and aircraft possibilities, and issue a cautious conclusion rather than a dramatic finding.
 
@@ -296,22 +296,22 @@ For the ACT’s UFO history, the case matters for three reasons. First, the witn
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba-Illustration-1-dark.svg" | relative_url }}" alt="Australian Capital Territory illustration 1" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Other ACT reports show the same pattern
 
-The 1965 case was not the only Canberra-area UFO story to reach the press. In February 1990, The Canberra Times reported that the Ivanisevic family of Kambah had been overwhelmed by media attention after seeing and filming an unusual object in Canberra’s skies at about 5.15 am. Zoran Ivanisevic reportedly said he had an open mind about UFOs and did not claim it was a flying saucer. The article also said an RAAF investigator visited the family, took a copy of the video and asked prepared questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
+The 1965 case was not the only Canberra-area UFO story to reach the press. In February 1990, The Canberra Times reported that the Ivanisevic family of Kambah had been overwhelmed by media attention after seeing and filming an unusual object in Canberra’s skies at about 5.15 am. Zoran Ivanisevic reportedly said he had an open mind about UFOs and did not claim it was a flying saucer. The article also said an RAAF investigator visited the family, took a copy of the video and asked prepared questions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 
 That episode is useful because it captures the late-RAAF era: public interest, television attention, an ordinary household suddenly under pressure, and an official still willing to collect material. The available newspaper report does not provide a final explanation, so the responsible assessment is modest. It is a documented local sighting with video mentioned in the press and an RAAF visit reported, but without enough public evidence in the accessible account to rank it as a strong unresolved case.
 
-A third ACT-linked thread is cultural rather than evidential. [Lake George]({{ 'lake-george/' | relative_url }}), just outside Canberra’s everyday mental geography and near the ACT-New South Wales border, is often folded into Canberra-region mystery stories, including UFO folklore. Local writing about Lake George describes it as a place associated with tales of bunyips, UFOs and apparitions, but that kind of regional lore is not the same as a documented sighting investigation. It belongs in the “local myth and atmosphere” category, not in the same evidential category as the Canberra [Airport case]({{ 'airport-case/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hercanberra.com.au">[HerCanberra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hercanberra.com.au</span><span class="citation-popover-title">the mysteries of lake george fact or folklore</span><span class="citation-popover-snippet">the mysteries of lake george fact or folklore</span></span></span>
+A third ACT-linked thread is cultural rather than evidential. [Lake George]({{ 'lake-george/' | relative_url }}), just outside Canberra’s everyday mental geography and near the ACT-New South Wales border, is often folded into Canberra-region mystery stories, including UFO folklore. Local writing about Lake George describes it as a place associated with tales of bunyips, UFOs and apparitions, but that kind of regional lore is not the same as a documented sighting investigation. It belongs in the “local myth and atmosphere” category, not in the same evidential category as the Canberra [Airport case]({{ 'airport-case/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hercanberra.com.au">[HerCanberra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hercanberra.com.au</span><span class="citation-popover-title">the mysteries of lake george fact or folklore</span><span class="citation-popover-snippet">the mysteries of lake george fact or folklore</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yePuBSftyhQ" title="Westall’s 50-year-old UFO sighting emerges again | 7NEWS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yePuBSftyhQ" target="_blank" rel="noopener noreferrer">Westall’s 50-year-old UFO sighting emerges again | 7NEWS</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia &middot; Views: 284.1K &middot; Uploaded: May 2021 &middot; Length: 2 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yePuBSftyhQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yePuBSftyhQ">Open on YouTube</a></p></div></div></div>
 
 ## What official investigation did and did not prove
 
-The RAAF’s UFO work is often misunderstood. It was not a secret confirmation programme for alien craft; nor was it merely a joke file. It was an air-defence and public-reporting function shaped by Cold War concerns, aviation safety, public pressure and limited resources. Canberra Daily summarised the rationale plainly: reports were investigated to decide whether the object posed a threat to national security, and RAAF bases were considered useful because they had knowledge of local weather, natural phenomena and aircraft movements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canberradaily.com.au/the-truth-is-out-there-canberra/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canberradaily.com.au">[Canberra Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canberradaily.com.au</span><span class="citation-popover-title">Canberra Daily The truth is out there, Canberra &#124; Canberra Daily</span><span class="citation-popover-snippet">Canberra Daily The truth is out there, Canberra &#124; Canberra Daily</span></span></span>
+The RAAF’s UFO work is often misunderstood. It was not a secret confirmation programme for alien craft; nor was it merely a joke file. It was an air-defence and public-reporting function shaped by Cold War concerns, aviation safety, public pressure and limited resources. Canberra Daily summarised the rationale plainly: reports were investigated to decide whether the object posed a threat to national security, and RAAF bases were considered useful because they had knowledge of local weather, natural phenomena and aircraft movements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canberradaily.com.au/the-truth-is-out-there-canberra/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canberradaily.com.au">[Canberra Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canberradaily.com.au</span><span class="citation-popover-title">Canberra Daily The truth is out there, Canberra &#124; Canberra Daily</span><span class="citation-popover-snippet">Canberra Daily The truth is out there, Canberra &#124; Canberra Daily</span></span></span>
 
 The RAAF process also tended to reduce mystery by applying ordinary checks. A sighting might be compared with known aircraft movements, astronomical objects, weather balloons, meteors, satellites, rocket re-entries or cloud and light effects. That does not mean every case was perfectly solved. It means that “unidentified” in these records usually meant “not identified from the available information”, not “identified as extraordinary technology”.
 
-By 1996, the Air Force had ceased handling reports after deciding there was no scientific or other compelling reason to keep devoting resources to recording and investigating UFO or UAP reports. A Senate Estimates answer in 2021 stated that the Unusual Aerial Sightings Policy had last been reviewed in November 2003 and was cancelled on 25 March 2013; it also said Defence had no protocol for reporting or recording UAP or UFO, and that public reports had previously been directed to local police. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aph.gov.au">[Parliament of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aph.gov.au</span><span class="citation-popover-snippet">Parliament of Australia</span></span></span>
+By 1996, the Air Force had ceased handling reports after deciding there was no scientific or other compelling reason to keep devoting resources to recording and investigating UFO or UAP reports. A Senate Estimates answer in 2021 stated that the Unusual Aerial Sightings Policy had last been reviewed in November 2003 and was cancelled on 25 March 2013; it also said Defence had no protocol for reporting or recording UAP or UFO, and that public reports had previously been directed to local police.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aph.gov.au">[Parliament of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aph.gov.au</span><span class="citation-popover-snippet">Parliament of Australia</span></span></span>
 
 This leaves a gap in modern ACT UFO history. A sighting over Canberra today may still be interesting, especially if photographed, filmed or reported by a pilot or trained observer, but there is no standing Australian equivalent of a modern official UAP office routinely publishing case assessments. As a result, recent reports are more likely to be assessed through astronomy tools, aviation tracking, satellite predictions, meteor networks, local media and civilian researchers.
 
@@ -321,20 +321,20 @@ This leaves a gap in modern ACT UFO history. A sighting over Canberra today may 
 
 Canberra is a good place for skywatching: it has dark-sky access nearby, an active astronomy culture and relatively clear horizons outside the city. That also means unusual lights are more likely to be noticed and photographed. Some reports may remain unidentified because the evidence is incomplete, but many common “UFO” triggers are well understood.
 
-**Venus and bright planets** are central to the ACT story because Venus was one of the proposed explanations for the 1965 Canberra Airport object. Bright planets can look surprisingly intense in twilight or daylight conditions, especially when seen near the horizon or through haze, though trained observers may dispute the fit if the direction, motion or timing seems wrong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
+**Venus and bright planets** are central to the ACT story because Venus was one of the proposed explanations for the 1965 Canberra Airport object. Bright planets can look surprisingly intense in twilight or daylight conditions, especially when seen near the horizon or through haze, though trained observers may dispute the fit if the direction, motion or timing seems wrong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 
-**Meteors and re-entering debris** can explain brief, fast, tailed objects. The second July 1965 Canberra report, described as a white object with a tail visible for about four seconds, was considered likely to have been a meteorite or rocket body burning up in the atmosphere. That is a classic example of a spectacular but ordinary event being reported as a UFO before identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
+**Meteors and re-entering debris** can explain brief, fast, tailed objects. The second July 1965 Canberra report, described as a white object with a tail visible for about four seconds, was considered likely to have been a meteorite or rocket body burning up in the atmosphere. That is a classic example of a spectacular but ordinary event being reported as a UFO before identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 
-**Balloons and high-altitude objects** are also recurring explanations. The RAAF’s possible explanation for the 1965 airport sighting included a meteorological balloon, and modern global interest in balloon-like UAP has made this category newly familiar. In the Canberra case, the balloon explanation is plausible but not beyond dispute because contemporary accounts differed in how strongly they described the RAAF’s conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">the classic canberra airport sighting</span><span class="citation-popover-snippet">the classic canberra airport sighting</span></span></span>
+**Balloons and high-altitude objects** are also recurring explanations. The RAAF’s possible explanation for the 1965 airport sighting included a meteorological balloon, and modern global interest in balloon-like UAP has made this category newly familiar. In the Canberra case, the balloon explanation is plausible but not beyond dispute because contemporary accounts differed in how strongly they described the RAAF’s conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">the classic canberra airport sighting</span><span class="citation-popover-snippet">the classic canberra airport sighting</span></span></span>
 
-**Satellites, especially [Starlink trains]({{ 'starlink-trains/' | relative_url }})**, now explain many reports of strings of moving lights. Canberra-region reports of strange lights increasingly need to be checked against satellite passes, because Starlink satellites can appear as bright, evenly spaced moving points shortly after launch. Astronomical studies have also shown that satellite brightness varies with viewing geometry, solar angle and satellite design, which helps explain why some passes look startling while others are barely visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Open source on forbes.com.</span></span></span>
+**Satellites, especially [Starlink trains]({{ 'starlink-trains/' | relative_url }})**, now explain many reports of strings of moving lights. Canberra-region reports of strange lights increasingly need to be checked against satellite passes, because Starlink satellites can appear as bright, evenly spaced moving points shortly after launch. Astronomical studies have also shown that satellite brightness varies with viewing geometry, solar angle and satellite design, which helps explain why some passes look startling while others are barely visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[forbes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Open source on forbes.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sEczN_8Q380" title="Secrets of the UFOs | Full Documentary | 7NEWS Spotlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sEczN_8Q380" target="_blank" rel="noopener noreferrer">Secrets of the UFOs | Full Documentary | 7NEWS Spotlight</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 4.5M &middot; Uploaded: December 2021 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sEczN_8Q380" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sEczN_8Q380">Open on YouTube</a></p></div></div></div>
 
 ## Recent Canberra sightings need stronger filters
 
-Recent local media has continued to use “UFO” in the older literal sense: an object not yet identified. In 2023, Canberra Daily reported that award-winning Canberra astrophotographer Ari Rex captured an image of an object moving west to east for about ten minutes before disappearing. A follow-up in Region reported that the mystery was considered very likely solved, with discussion pointing towards a space-launch explanation rather than an alien craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canberradaily.com.au/canberra-astro-photographer-captures-incredible-image-of-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canberradaily.com.au">[Canberra Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canberradaily.com.au</span><span class="citation-popover-snippet">Open source on com.au.</span></span></span>
+Recent local media has continued to use “UFO” in the older literal sense: an object not yet identified. In 2023, Canberra Daily reported that award-winning Canberra astrophotographer Ari Rex captured an image of an object moving west to east for about ten minutes before disappearing. A follow-up in Region reported that the mystery was considered very likely solved, with discussion pointing towards a space-launch explanation rather than an alien craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canberradaily.com.au/canberra-astro-photographer-captures-incredible-image-of-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canberradaily.com.au">[Canberra Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canberradaily.com.au</span><span class="citation-popover-snippet">Open source on com.au.</span></span></span>
 
 This is a useful modern counterpoint to the 1965 airport case. The public now has better cameras, faster media and more satellite traffic, but that does not automatically make reports stronger. A clear photograph can still be misleading if exposure time, lens effects, aircraft or satellite tracks, and launch schedules are not checked. The best modern Canberra cases would need more than a striking image: exact time, location, direction, duration, camera metadata, independent witnesses, aircraft and satellite exclusions, and ideally radar or official aviation correlation.
 
@@ -347,9 +347,9 @@ A balanced approach does not start by asking whether a Canberra sighting is “a
 
 **Strong local cases** have named witnesses, precise timing and location, multiple independent observations, official or aviation involvement, and a surviving record. The 1965 Canberra Airport sighting is the closest ACT example because it involved civil aviation officers and an RAAF inquiry, even though the likely explanations remain ordinary.
 
-**Interesting but incomplete cases** have a real report but not enough public evidence to support a firm conclusion. The 1990 [Kambah video]({{ 'kambah-video/' | relative_url }}) case fits here on the accessible record: there was a named family, a reported video and an RAAF visit, but no readily available final assessment in the cited report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
+**Interesting but incomplete cases** have a real report but not enough public evidence to support a firm conclusion. The 1990 [Kambah video]({{ 'kambah-video/' | relative_url }}) case fits here on the accessible record: there was a named family, a reported video and an RAAF visit, but no readily available final assessment in the cited report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 
-**Folklore or atmosphere cases** attach UFO language to places such as Lake George without necessarily providing a specific investigated incident. They are part of local culture but should not be mistaken for high-quality evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hercanberra.com.au">[HerCanberra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hercanberra.com.au</span><span class="citation-popover-title">the mysteries of lake george fact or folklore</span><span class="citation-popover-snippet">the mysteries of lake george fact or folklore</span></span></span>
+**Folklore or atmosphere cases** attach UFO language to places such as Lake George without necessarily providing a specific investigated incident. They are part of local culture but should not be mistaken for high-quality evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hercanberra.com.au">[HerCanberra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hercanberra.com.au</span><span class="citation-popover-title">the mysteries of lake george fact or folklore</span><span class="citation-popover-snippet">the mysteries of lake george fact or folklore</span></span></span>
 
 **Likely explained cases** are reports where astronomy, satellites, balloons, meteors, aircraft or re-entry debris account for the observation well. Many modern “mysterious lights” reports fall into this category once satellite and meteor data are checked.
 
@@ -360,194 +360,194 @@ A balanced approach does not start by asking whether a Canberra sighting is “a
 The Australian Capital Territory’s UFO history is best understood as a small but revealing chapter in Australia’s wider UAP record. It has one durable local case in the 1965 Canberra Airport sighting, a few media-documented reports such as the 1990 Kambah video episode, and a larger national role through Defence offices, archives and the policy history of RAAF investigations. The evidence does not support a claim that Canberra is a major UFO hotspot. It does support a more careful conclusion: Canberra is where several strands of Australian UFO history intersect — trained aviation witnesses, public curiosity, official procedure, archival survival, and the recurring difficulty of separating genuinely unresolved observations from bright planets, balloons, meteors, satellites and aircraft effects.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Canberra&#x27;s UFO Files Without the Hype. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Canberra&#x27;s UFO Files Without the Hype. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasizes investigation, classification and explanation of sightings, echoing the article&#x27;s sober approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes investigation, classification and explanation of sightings, echoing the article&#x27;s sober approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s emphasis on government files, aviation reports, official investigations and separating evidence from hype.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s emphasis on government files, aviation reports, official investigations and separating evidence from hype.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Focuses on the relationship between UFO reports and government institutions, fitting Canberra&#x27;s administrative role.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on the relationship between UFO reports and government institutions, fitting Canberra&#x27;s administrative role.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oz Files on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oz Files">The Oz Files</a>
-        </h4>
-        <p class="fr-book-author">By Bill Chalker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oz Files on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oz Files">The Oz Files</a>
+</h4>
+<p class="fr-book-author">By Bill Chalker</p>
         
-        <p class="fr-book-desc">Directly covers Australian UFO history, government files and notable Australian cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers Australian UFO history, government files and notable Australian cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="australian-capital-territory-canberra-s-ufo-files-without-the-hype-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ The Australian Capital Territory’s UFO history is best understood as a small b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ The Australian Capital Territory’s UFO history is best understood as a small b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ The Australian Capital Territory’s UFO history is best understood as a small b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ The Australian Capital Territory’s UFO history is best understood as a small b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ The Australian Capital Territory’s UFO history is best understood as a small b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,363 +753,363 @@ The Australian Capital Territory’s UFO history is best understood as a small b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: the classic canberra airport sighting  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aph.gov.au  
    Title: Parliament of Australia  
-   Link: <a href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2</a>  
+   Link:<a href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
+   Link:<a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.09735</a>  
+   Link:<a href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.09735</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2208.03226" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.03226</a>  
+   Link:<a href="https://arxiv.org/abs/2208.03226" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.03226</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufos-scientificresearch.blogspot.com  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2018/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2018/</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2018/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2018/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Craft  
-   Link: <a href="https://hansard.parliament.uk/Commons/1996-07-24/debates/4648c095-a881-46c9-b8e2-ac917b883ad2/UnidentifiedCraft" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1996-07-24/debates/4648c095-a881-46c9-b8e2-ac917b883ad2/UnidentifiedCraft</a>  
+   Link:<a href="https://hansard.parliament.uk/Commons/1996-07-24/debates/4648c095-a881-46c9-b8e2-ac917b883ad2/UnidentifiedCraft" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1996-07-24/debates/4648c095-a881-46c9-b8e2-ac917b883ad2/UnidentifiedCraft</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
    Title: 11892 australian government loses ufo files  
-   Link: <a href="https://www.space.com/11892-australian-government-loses-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/11892-australian-government-loses-ufo-files.html</a>  
+   Link:<a href="https://www.space.com/11892-australian-government-loses-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/11892-australian-government-loses-ufo-files.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105762549</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105762549</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/131180389</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/131180389</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hercanberra.com.au  
    Title: the mysteries of lake george fact or folklore  
-   Link: <a href="https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/" target="_blank" rel="noopener noreferrer nofollow">https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/</a>  
+   Link:<a href="https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/" target="_blank" rel="noopener noreferrer nofollow">https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: canberradaily.com.au  
    Title: Canberra Daily The truth is out there, Canberra | Canberra Daily  
-   Link: <a href="https://canberradaily.com.au/the-truth-is-out-there-canberra/" target="_blank" rel="noopener noreferrer nofollow">https://canberradaily.com.au/the-truth-is-out-there-canberra/</a>  
+   Link:<a href="https://canberradaily.com.au/the-truth-is-out-there-canberra/" target="_blank" rel="noopener noreferrer nofollow">https://canberradaily.com.au/the-truth-is-out-there-canberra/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: canberradaily.com.au  
-   Link: <a href="https://canberradaily.com.au/canberra-astro-photographer-captures-incredible-image-of-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://canberradaily.com.au/canberra-astro-photographer-captures-incredible-image-of-ufo/</a>  
+   Link:<a href="https://canberradaily.com.au/canberra-astro-photographer-captures-incredible-image-of-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://canberradaily.com.au/canberra-astro-photographer-captures-incredible-image-of-ufo/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force</a>  
+   Link:<a href="https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: naa.gov.au  
    Title: world war i internee alien and pow records held canberra  
-   Link: <a href="https://www.naa.gov.au/help-your-research/fact-sheets/world-war-i-internee-alien-and-pow-records-held-canberra" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/help-your-research/fact-sheets/world-war-i-internee-alien-and-pow-records-held-canberra</a>  
+   Link:<a href="https://www.naa.gov.au/help-your-research/fact-sheets/world-war-i-internee-alien-and-pow-records-held-canberra" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/help-your-research/fact-sheets/world-war-i-internee-alien-and-pow-records-held-canberra</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: naa.gov.au  
    Title: flying saucers fact or fiction  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: recordsearch.naa.gov.au  
    Title: naa.gov.au Record Search  
-   Link: <a href="https://recordsearch.naa.gov.au/" target="_blank" rel="noopener noreferrer nofollow">https://recordsearch.naa.gov.au/</a>  
+   Link:<a href="https://recordsearch.naa.gov.au/" target="_blank" rel="noopener noreferrer nofollow">https://recordsearch.naa.gov.au/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/learning-resources/learning-resource-themes/environment-and-nature/weather-and-climate/cloud-seeding-operation-coast-sydney" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/learning-resources/learning-resource-themes/environment-and-nature/weather-and-climate/cloud-seeding-operation-coast-sydney</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/learning-resources/learning-resource-themes/environment-and-nature/weather-and-climate/cloud-seeding-operation-coast-sydney" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/learning-resources/learning-resource-themes/environment-and-nature/weather-and-climate/cloud-seeding-operation-coast-sydney</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: naa.gov.au  
    Title: research guide the sinking of hmas sydney  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2020-06/research-guide-the-sinking-of-hmas-sydney.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-06/research-guide-the-sinking-of-hmas-sydney.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2020-06/research-guide-the-sinking-of-hmas-sydney.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-06/research-guide-the-sinking-of-hmas-sydney.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2022-06/research-guide-government-records-about-ACT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2022-06/research-guide-government-records-about-ACT.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2022-06/research-guide-government-records-about-ACT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2022-06/research-guide-government-records-about-ACT.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/101971256</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/101971256</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105763811</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105763811</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/104323945" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/104323945</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/104323945" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/104323945</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/128652719" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/128652719</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/128652719" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/128652719</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/2719366" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2719366</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/2719366" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2719366</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: trove.nla.gov.au  
    Title: nla.gov.au FLYIN G SAUCER REPORTS POUR INTO MELBOURNE  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/57285034" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/57285034</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/57285034" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/57285034</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/page/11669437" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/page/11669437</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/page/11669437" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/page/11669437</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/2772252" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2772252</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/2772252" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2772252</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/page/10999545" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/page/10999545</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/page/10999545" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/page/10999545</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/114841561/11487944" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/114841561/11487944</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/114841561/11487944" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/114841561/11487944</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/page/700514" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/page/700514</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/page/700514" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/page/700514</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/2867240" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2867240</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/2867240" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2867240</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/27527013" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/27527013</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/27527013" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/27527013</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/107090511?browse=ndp%3Abrowse%2Ftitle%2FC%2Ftitle%2F11%2F1969%2F04%2F25%2Fpage%2F11669437%2Farticle%2F107090511" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/107090511?browse=ndp%3Abrowse%2Ftitle%2FC%2Ftitle%2F11%2F1969%2F04%2F25%2Fpage%2F11669437%2Farticle%2F107090511</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/107090511?browse=ndp%3Abrowse%2Ftitle%2FC%2Ftitle%2F11%2F1969%2F04%2F25%2Fpage%2F11669437%2Farticle%2F107090511" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/107090511?browse=ndp%3Abrowse%2Ftitle%2FC%2Ftitle%2F11%2F1969%2F04%2F25%2Fpage%2F11669437%2Farticle%2F107090511</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/2780777" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2780777</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/2780777" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2780777</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/page/5498329" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/page/5498329</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/page/5498329" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/page/5498329</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: trove.nla.gov.au  
    Title: nla.gov.au POLIC E SEARCH EXTENDS IN BRISBANE CRIME  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/2864622" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2864622</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/2864622" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2864622</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: trove.nla.gov.au  
    Title: nla.gov.au"FLYING SAUCER" COULD NOT HAVE BEEN VENUS  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/47865425" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/47865425</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/47865425" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/47865425</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/106939973/11622786" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/106939973/11622786</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/106939973/11622786" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/106939973/11622786</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/27517909" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/27517909</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/27517909" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/27517909</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/105759850" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105759850</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/105759850" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105759850</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/18359857" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18359857</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/18359857" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18359857</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/131789756" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/131789756</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/131789756" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/131789756</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/18434678" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18434678</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/18434678" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18434678</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/2771752" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2771752</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/2771752" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2771752</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/2861334" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2861334</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/2861334" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2861334</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/110673756" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/110673756</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/110673756" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/110673756</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/2867236?browse=ndp%3Abrowse%2Ftitle%2FC%2Ftitle%2F11%2F1952%2F10%2F25%2Fpage%2F701320%2Farticle%2F2867236" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2867236?browse=ndp%3Abrowse%2Ftitle%2FC%2Ftitle%2F11%2F1952%2F10%2F25%2Fpage%2F701320%2Farticle%2F2867236</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/2867236?browse=ndp%3Abrowse%2Ftitle%2FC%2Ftitle%2F11%2F1952%2F10%2F25%2Fpage%2F701320%2Farticle%2F2867236" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/2867236?browse=ndp%3Abrowse%2Ftitle%2FC%2Ftitle%2F11%2F1952%2F10%2F25%2Fpage%2F701320%2Farticle%2F2867236</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/105763813" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105763813</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/105763813" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105763813</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/binaries/house/info/pro/41p_reports/middleeast_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/binaries/house/info/pro/41p_reports/middleeast_report.pdf</a>  
+   Link:<a href="https://www.aph.gov.au/binaries/house/info/pro/41p_reports/middleeast_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/binaries/house/info/pro/41p_reports/middleeast_report.pdf</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Search?chi=0&amp;coi=0&amp;drt=0&amp;drv=0&amp;drvH=0&amp;pi=0&amp;pnu=0&amp;pnuH=0&amp;ps=10&amp;q=&amp;speakerID=2L6&amp;sr=1&amp;st=1" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Search?chi=0&amp;coi=0&amp;drt=0&amp;drv=0&amp;drvH=0&amp;pi=0&amp;pnu=0&amp;pnuH=0&amp;ps=10&amp;q=&amp;speakerID=2L6&amp;sr=1&amp;st=1</a>  
+   Link:<a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Search?chi=0&amp;coi=0&amp;drt=0&amp;drv=0&amp;drvH=0&amp;pi=0&amp;pnu=0&amp;pnuH=0&amp;ps=10&amp;q=&amp;speakerID=2L6&amp;sr=1&amp;st=1" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Search?chi=0&amp;coi=0&amp;drt=0&amp;drv=0&amp;drvH=0&amp;pi=0&amp;pnu=0&amp;pnuH=0&amp;ps=10&amp;q=&amp;speakerID=2L6&amp;sr=1&amp;st=1</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2F28998%2F&amp;sid=0001" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2F28998%2F&amp;sid=0001</a>  
+   Link:<a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2F28998%2F&amp;sid=0001" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2F28998%2F&amp;sid=0001</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F28831%2F&amp;sid=0015" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F28831%2F&amp;sid=0015</a>  
+   Link:<a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F28831%2F&amp;sid=0015" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F28831%2F&amp;sid=0015</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/~/media/wopapub/house/committee/jfadt/Sydney/fullreport_pdf.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/~/media/wopapub/house/committee/jfadt/Sydney/fullreport_pdf.ashx</a>  
+   Link:<a href="https://www.aph.gov.au/~/media/wopapub/house/committee/jfadt/Sydney/fullreport_pdf.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/~/media/wopapub/house/committee/jfadt/Sydney/fullreport_pdf.ashx</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2F27451%2F&amp;sid=0001" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2F27451%2F&amp;sid=0001</a>  
+   Link:<a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2F27451%2F&amp;sid=0001" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2F27451%2F&amp;sid=0001</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2F0c8edcaf-9bf8-4042-84db-1e8207046b0e%2F&amp;sid=0001" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2F0c8edcaf-9bf8-4042-84db-1e8207046b0e%2F&amp;sid=0001</a>  
+   Link:<a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2F0c8edcaf-9bf8-4042-84db-1e8207046b0e%2F&amp;sid=0001" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2F0c8edcaf-9bf8-4042-84db-1e8207046b0e%2F&amp;sid=0001</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2Fc5d61275-a1aa-4194-b861-cfe08f848ab3%2F&amp;sid=0000" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2Fc5d61275-a1aa-4194-b861-cfe08f848ab3%2F&amp;sid=0000</a>  
+   Link:<a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2Fc5d61275-a1aa-4194-b861-cfe08f848ab3%2F&amp;sid=0000" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees%2Festimate%2Fc5d61275-a1aa-4194-b861-cfe08f848ab3%2F&amp;sid=0000</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/binaries/hansard/senate/commttee/s2351.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/binaries/hansard/senate/commttee/s2351.pdf</a>  
+   Link:<a href="https://www.aph.gov.au/binaries/hansard/senate/commttee/s2351.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/binaries/hansard/senate/commttee/s2351.pdf</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/binaries/hansard/joint/commttee/j838.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/binaries/hansard/joint/commttee/j838.pdf</a>  
+   Link:<a href="https://www.aph.gov.au/binaries/hansard/joint/commttee/j838.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/binaries/hansard/joint/commttee/j838.pdf</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: aph.gov.au  
    Title: PROOF 150223 Defence  
-   Link: <a href="https://www.aph.gov.au/-/media/Estimates/fadt/supp2223/Hansards/PROOF_150223_Defence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/-/media/Estimates/fadt/supp2223/Hansards/PROOF_150223_Defence.pdf</a>  
+   Link:<a href="https://www.aph.gov.au/-/media/Estimates/fadt/supp2223/Hansards/PROOF_150223_Defence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/-/media/Estimates/fadt/supp2223/Hansards/PROOF_150223_Defence.pdf</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: project1947.com  
    Title: Keith Basterfield  
-   Link: <a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19931106 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19931106-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19931106-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19931106-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19931106-1</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: abc.net.au  
    Title: australian defence dept says it is not looking at ufos  
-   Link: <a href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652</a>  
+   Link:<a href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: abc.net.au  
    Title: westall ufo mystery witnesses want answers  
-   Link: <a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
+   Link:<a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: abc.net.au  
    Title: astro photography tips with lachlan wilson astro lach  
-   Link: <a href="https://www.abc.net.au/listen/programs/canberra-breakfast/astro-photography-tips-with-lachlan-wilson-astro-lach/13674244" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/canberra-breakfast/astro-photography-tips-with-lachlan-wilson-astro-lach/13674244</a>  
+   Link:<a href="https://www.abc.net.au/listen/programs/canberra-breakfast/astro-photography-tips-with-lachlan-wilson-astro-lach/13674244" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/canberra-breakfast/astro-photography-tips-with-lachlan-wilson-astro-lach/13674244</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: documents.parliament.qld.gov.au  
-   Link: <a href="https://documents.parliament.qld.gov.au/events/han/2006/2006_03_28_WEEKLY.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.parliament.qld.gov.au/events/han/2006/2006_03_28_WEEKLY.pdf</a>  
+   Link:<a href="https://documents.parliament.qld.gov.au/events/han/2006/2006_03_28_WEEKLY.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.parliament.qld.gov.au/events/han/2006/2006_03_28_WEEKLY.pdf</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: blogs.slv.vic.gov.au  
    Title: strange lights in the sky the westall ufo event 1966  
-   Link: <a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
+   Link:<a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
 
 ### Additional References
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: youtube.com  
    Title: Secrets of the UFOs | Full Documentary | 7NEWS Spotlight  
-   Link: <a href="https://www.youtube.com/watch?v=sEczN_8Q380" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sEczN_8Q380</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s UFO Secrets Exposed with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sEczN_8Q380" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sEczN_8Q380</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s UFO Secrets Exposed with Ross Coulthart...</p></details>
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: youtube.com  
    Title: Australia's UFO Secrets Exposed with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=hzoJPerhz-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hzoJPerhz-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Westall&#x27;s 50-year-old UFO sighting emerges again | 7NEWS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hzoJPerhz-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hzoJPerhz-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Westall&#x27;s 50-year-old UFO sighting emerges again | 7NEWS...</p></details>
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: youtube.com  
    Title: Westall's 50-year-old UFO sighting emerges again | 7NEWS  
-   Link: <a href="https://www.youtube.com/watch?v=yePuBSftyhQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yePuBSftyhQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>665 // Frederick Valentich - UFO Mystery?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yePuBSftyhQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yePuBSftyhQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>665 // Frederick Valentich - UFO Mystery?...</p></details>
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSToowoomba/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/882280357493048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSToowoomba/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/882280357493048/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSToowoomba/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/882280357493048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSToowoomba/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/882280357493048/</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/9News/posts/a-meteor-has-lit-up-the-sky-over-sydney-seen-in-canberra-and-across-nsw-last-nig/1453039980185060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9News/posts/a-meteor-has-lit-up-the-sky-over-sydney-seen-in-canberra-and-across-nsw-last-nig/1453039980185060/</a>  
+   Link:<a href="https://www.facebook.com/9News/posts/a-meteor-has-lit-up-the-sky-over-sydney-seen-in-canberra-and-across-nsw-last-nig/1453039980185060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9News/posts/a-meteor-has-lit-up-the-sky-over-sydney-seen-in-canberra-and-across-nsw-last-nig/1453039980185060/</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abccanberra/photos/in-just-under-two-weeks-july-1-therell-be-a-change-to-learner-and-provisional-dr/10157700930772125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abccanberra/photos/in-just-under-two-weeks-july-1-therell-be-a-change-to-learner-and-provisional-dr/10157700930772125/</a>  
+   Link:<a href="https://www.facebook.com/abccanberra/photos/in-just-under-two-weeks-july-1-therell-be-a-change-to-learner-and-provisional-dr/10157700930772125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abccanberra/photos/in-just-under-two-weeks-july-1-therell-be-a-change-to-learner-and-provisional-dr/10157700930772125/</a>  
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcriverland/posts/2719523421401920/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcriverland/posts/2719523421401920/</a>  
+   Link:<a href="https://www.facebook.com/abcriverland/posts/2719523421401920/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcriverland/posts/2719523421401920/</a>  
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: canberratimes.com.au  
-   Link: <a href="https://www.canberratimes.com.au/story/927703/alien-abduction-defences-x-files-are-lost-in-space/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/story/927703/alien-abduction-defences-x-files-are-lost-in-space/</a>  
+   Link:<a href="https://www.canberratimes.com.au/story/927703/alien-abduction-defences-x-files-are-lost-in-space/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/story/927703/alien-abduction-defences-x-files-are-lost-in-space/</a>  
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DHQmEuWu2L9/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DHQmEuWu2L9/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DHQmEuWu2L9/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DHQmEuWu2L9/?hl=en</a>  

@@ -280,13 +280,13 @@ image: /assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e-overview-soci
 
 ## Introduction
 
-Solved and weakened Queensland UFO claims matter because they show how a strange report can change once witnesses, police, air force officers, scientists, archivists and later sceptics all leave their marks on it. Some cases shrink almost to nothing, as in the [Castle Hill]({{ 'castle-hill/' | relative_url }}) “object” that turned out to be an empty Foster’s lager carton. Others, especially the [Tully saucer nest]({{ 'tully-nest/' | relative_url }}), do not disappear so neatly, but later testing and natural explanations weaken the claim that the physical trace proved a landed craft. Queensland’s UFO history is therefore not only a list of mysteries. It is also a record of misidentification, local excitement, official caution, media amplification and the slow work of separating “unidentified” from “unexplainable”. Stories from the Archives+2State Library of Queensland <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[blogs.archives.qld.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-snippet">Open source on qld.gov.au.</span></span></span>
+Solved and weakened Queensland UFO claims matter because they show how a strange report can change once witnesses, police, air force officers, scientists, archivists and later sceptics all leave their marks on it. Some cases shrink almost to nothing, as in the [Castle Hill]({{ 'castle-hill/' | relative_url }}) “object” that turned out to be an empty Foster’s lager carton. Others, especially the [Tully saucer nest]({{ 'tully-nest/' | relative_url }}), do not disappear so neatly, but later testing and natural explanations weaken the claim that the physical trace proved a landed craft. Queensland’s UFO history is therefore not only a list of mysteries. It is also a record of misidentification, local excitement, official caution, media amplification and the slow work of separating “unidentified” from “unexplainable”. Stories from the Archives+2State Library of Queensland<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[blogs.archives.qld.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-snippet">Open source on qld.gov.au.</span></span></span>
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e-overview.webp" | relative_url }}" alt="Overview image for Debunked Cases" loading="eager" decoding="sync" fetchpriority="high">
 ## The Castle Hill lager-carton case
 
-The Castle Hill incident is one of [Queensland]({{ 'queenslands-ufo-stories-evidence-and/' | relative_url }})’s most useful debunked UFO stories precisely because it is so undramatic in the end. According to Queensland State Archives’ account of [North Queensland]({{ 'northern-flap/' | relative_url }}) UFO files, an object lodged in a cliff crevice on Castle Hill in Townsville could not be identified with binoculars. A rope was obtained from the RAAF Marine Section in Townsville, and a service member was lowered over the cliff to inspect it. The mysterious object was then identified and removed: it was an empty carton of Foster’s lager. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-snippet">Open source on qld.gov.au.</span></span></span>
+The Castle Hill incident is one of [Queensland]({{ 'queenslands-ufo-stories-evidence-and/' | relative_url }})’s most useful debunked UFO stories precisely because it is so undramatic in the end. According to Queensland State Archives’ account of [North Queensland]({{ 'northern-flap/' | relative_url }}) UFO files, an object lodged in a cliff crevice on Castle Hill in Townsville could not be identified with binoculars. A rope was obtained from the RAAF Marine Section in Townsville, and a service member was lowered over the cliff to inspect it. The mysterious object was then identified and removed: it was an empty carton of Foster’s lager.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-snippet">Open source on qld.gov.au.</span></span></span>
 
 That result makes the case easy to laugh at, but it also illustrates a serious point. From a distance, in an awkward location, an ordinary object can acquire a strange status simply because nobody can safely or clearly inspect it. The “UFO” label here did not mean a craft had been seen in flight. It meant that an object was unidentified at the time of reporting. Once the viewing problem was solved, the mystery collapsed.
 
@@ -294,13 +294,13 @@ The Castle Hill case also shows why official or semi-official involvement does n
 
 ## When physical traces lose some of their force
 
-Queensland’s most famous weakened case is not Castle Hill but Tully. On 19 January 1966, banana grower George Pedley reported seeing a saucer-like object rise from the lagoon area near Euramo, south of Tully. The feature that made the story famous was a circular patch of flattened reeds, later called a “saucer nest”, which drew intense public attention and national reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Tully&#x27;s cane farm crop circles and an enduring 58yo UFO</span><span class="citation-popover-snippet">ABC News Tully&#x27;s cane farm crop circles and an enduring 58yo UFO</span></span></span>
+Queensland’s most famous weakened case is not Castle Hill but Tully. On 19 January 1966, banana grower George Pedley reported seeing a saucer-like object rise from the lagoon area near Euramo, south of Tully. The feature that made the story famous was a circular patch of flattened reeds, later called a “saucer nest”, which drew intense public attention and national reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Tully&#x27;s cane farm crop circles and an enduring 58yo UFO</span><span class="citation-popover-snippet">ABC News Tully&#x27;s cane farm crop circles and an enduring 58yo UFO</span></span></span>
 
 The Tully case remains more complex than a simple debunking. It had a named witness, photographs, a physical site, police involvement and later public memory. Those are stronger ingredients than a fleeting light in the sky. But the physical trace also created a trap: people could mistake the existence of a circular reed formation for proof of what made it. A mark on the ground can be real while the most dramatic explanation for it is still unproven.
 
-The State Library of Queensland summarises the key weakening evidence. RAAF testing on reed samples concluded that the reeds had died “from natural submersion”. The Queensland Flying Saucer [Research Bureau]({{ 'research-bureau/' | relative_url }}) challenged that explanation, arguing that its own tests found no radiation effects and that the reeds’ rapid browning did not fit recent flooding. The result was not a clean solution, but it did move the case away from simple “physical proof” and into a dispute over botany, water conditions, timing and interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of Queensland The Truth Is Out There</span></span></span>
+The State Library of Queensland summarises the key weakening evidence. RAAF testing on reed samples concluded that the reeds had died “from natural submersion”. The Queensland Flying Saucer [Research Bureau]({{ 'research-bureau/' | relative_url }}) challenged that explanation, arguing that its own tests found no radiation effects and that the reeds’ rapid browning did not fit recent flooding. The result was not a clean solution, but it did move the case away from simple “physical proof” and into a dispute over botany, water conditions, timing and interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of Queensland The Truth Is Out There</span></span></span>
 
-Later natural explanations also narrowed what the case could reasonably be asked to prove. Meteorological suggestions included a whirlwind or waterspout-like disturbance, while other writers have pointed to unusual animal behaviour or local environmental effects as possible contributors. Australian Geographic’s sceptical treatment of the case notes that the absence of a satisfying single explanation does not make an extraterrestrial explanation the most likely one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">Australian Geographic Saucer hysteria: The case of the Tully crop circle</span><span class="citation-popover-snippet">Australian Geographic Saucer hysteria: The case of the Tully crop circle</span></span></span>
+Later natural explanations also narrowed what the case could reasonably be asked to prove. Meteorological suggestions included a whirlwind or waterspout-like disturbance, while other writers have pointed to unusual animal behaviour or local environmental effects as possible contributors. Australian Geographic’s sceptical treatment of the case notes that the absence of a satisfying single explanation does not make an extraterrestrial explanation the most likely one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">Australian Geographic Saucer hysteria: The case of the Tully crop circle</span><span class="citation-popover-snippet">Australian Geographic Saucer hysteria: The case of the Tully crop circle</span></span></span>
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e-Illustration-1-dark.svg" | relative_url }}" alt="Debunked Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -312,7 +312,7 @@ A useful way to read the case is to separate three claims:
 
 * **The witness claim:** Pedley said he saw a saucer-like object rise from the lagoon area. This remains testimony, not a repeatable measurement.
 * **The trace claim:** a circular reed formation existed and was photographed. This supports that something unusual-looking was found, not that a craft landed.
-* **The cause claim:** the circle was caused by an extraordinary vehicle or intelligence. This is the weakest part because later testing and natural explanations offered plausible non-extraordinary routes for at least part of the evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of Queensland The Truth Is Out There</span></span></span>
+* **The cause claim:** the circle was caused by an extraordinary vehicle or intelligence. This is the weakest part because later testing and natural explanations offered plausible non-extraordinary routes for at least part of the evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of Queensland The Truth Is Out There</span></span></span>
 
 This distinction matters across Queensland UFO history. Many reports become weaker not because witnesses are proven dishonest, but because the strongest interpretation outruns the evidence. A witness can sincerely report a strange sight. A police file can accurately preserve that report. A physical mark can be real. None of those facts, by itself, proves the most spectacular explanation.
 
@@ -323,9 +323,9 @@ This distinction matters across Queensland UFO history. Many reports become weak
 
 Western Queensland’s [Min Min lights]({{ 'min-min-lights/' | relative_url }}) sit near the edge of UFO history because they are often described in UFO-like language: glowing orbs, lights that appear to move, lights that seem to follow travellers, and lights that behave oddly on remote roads. They are also a good example of how a recurring mystery can be weakened by a strong natural mechanism without losing all cultural force.
 
-Professor John Pettigrew of the University of Queensland argued that many Min Min sightings can be explained as an inverted mirage, or Fata Morgana, in which temperature inversions bend light from distant natural or human-made sources over the horizon. The University of Queensland reported that Pettigrew drew on first-hand experience in western Queensland’s Diamantina region, and his 2003 paper in *Clinical and Experimental Optometry* offered an optical account based on direct observations and field demonstration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uq.edu.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uq.edu.au</span><span class="citation-popover-title">News UQ scientist unlocks secret of Min Min lights</span><span class="citation-popover-snippet">News UQ scientist unlocks secret of Min Min lights</span></span></span>
+Professor John Pettigrew of the University of Queensland argued that many Min Min sightings can be explained as an inverted mirage, or Fata Morgana, in which temperature inversions bend light from distant natural or human-made sources over the horizon. The University of Queensland reported that Pettigrew drew on first-hand experience in western Queensland’s Diamantina region, and his 2003 paper in *Clinical and Experimental Optometry* offered an optical account based on direct observations and field demonstration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uq.edu.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uq.edu.au</span><span class="citation-popover-title">News UQ scientist unlocks secret of Min Min lights</span><span class="citation-popover-snippet">News UQ scientist unlocks secret of Min Min lights</span></span></span>
 
-ABC Science reported that Pettigrew tested the idea by creating a Min Min-like effect under suitable conditions: a cool, calm night after a hot day, with a distant light source refracted so that observers saw a strange light rather than the actual source. Australian Geographic later summarised the same mechanism in plain terms: light trapped in cold air can appear spooky enough without invoking aliens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Mystery of the Min Min lights explained</span><span class="citation-popover-snippet">ABC News Mystery of the Min Min lights explained</span></span></span>
+ABC Science reported that Pettigrew tested the idea by creating a Min Min-like effect under suitable conditions: a cool, calm night after a hot day, with a distant light source refracted so that observers saw a strange light rather than the actual source. Australian Geographic later summarised the same mechanism in plain terms: light trapped in cold air can appear spooky enough without invoking aliens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Mystery of the Min Min lights explained</span><span class="citation-popover-snippet">ABC News Mystery of the Min Min lights explained</span></span></span>
 
 For UFO history, the Min Min lesson is not that every outback light report is automatically solved. It is that a recurring class of sightings can be partly demystified once the environment is treated as evidence. Remote roads, temperature inversions, long sightlines, headlights and atmospheric refraction can create effects that feel personal and intelligent to an observer, especially at night.
 
@@ -333,7 +333,7 @@ For UFO history, the Min Min lesson is not that every outback light report is au
 <img src="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e-Illustration-2-dark.svg" | relative_url }}" alt="Debunked Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why official files can weaken a claim
 
-Queensland’s UFO record is valuable because many reports were written down rather than left only as campfire stories. The National Archives of Australia notes that the RAAF kept records of possible UFO sightings in the post-war period, partly because Cold War and space-race conditions made unusual aerial reports worth recording for national-security reasons. The same archival context makes clear that many reports were later identified as ordinary aircraft, celestial objects such as the Moon or Venus, or other mundane causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">flying saucers fact or fiction</span></span></span>
+Queensland’s UFO record is valuable because many reports were written down rather than left only as campfire stories. The National Archives of Australia notes that the RAAF kept records of possible UFO sightings in the post-war period, partly because Cold War and space-race conditions made unusual aerial reports worth recording for national-security reasons. The same archival context makes clear that many reports were later identified as ordinary aircraft, celestial objects such as the Moon or Venus, or other mundane causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">flying saucers fact or fiction</span></span></span>
 
 This changes how readers should treat a file. A police or RAAF document is often evidence that a report existed, that someone made a claim, and that an agency considered whether it required attention. It is not automatically evidence that the extraordinary interpretation survived investigation. In some cases, the paper trail is exactly what weakens the story, because it records the moment a puzzling report became a known object, a likely natural effect, or an insufficiently supported claim.
 
@@ -344,9 +344,9 @@ That is why the Castle Hill file is so important despite being minor. It preserv
 
 ## Media attention can strengthen memory while weakening evidence
 
-Some Queensland claims grew in public life even as their evidential status became more uncertain. Tully is the clearest example. The 1966 saucer nest drew sightseers, became part of local identity, and later gained renewed attention through reporting on crop circles and UFO culture. ABC’s recent coverage emphasised both the media circus around the original event and the lasting human cost for George Pedley, whose family said he endured ridicule and became reluctant to speak publicly about the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Tully&#x27;s cane farm crop circles and an enduring 58yo UFO</span><span class="citation-popover-snippet">ABC News Tully&#x27;s cane farm crop circles and an enduring 58yo UFO</span></span></span>
+Some Queensland claims grew in public life even as their evidential status became more uncertain. Tully is the clearest example. The 1966 saucer nest drew sightseers, became part of local identity, and later gained renewed attention through reporting on crop circles and UFO culture. ABC’s recent coverage emphasised both the media circus around the original event and the lasting human cost for George Pedley, whose family said he endured ridicule and became reluctant to speak publicly about the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Tully&#x27;s cane farm crop circles and an enduring 58yo UFO</span><span class="citation-popover-snippet">ABC News Tully&#x27;s cane farm crop circles and an enduring 58yo UFO</span></span></span>
 
-This creates a tension. Public memory can preserve a case long after technical confidence has weakened. A story may become more famous because it is vivid, local and emotionally resonant, not because the evidence has become stronger. Tully’s later role in crop-circle culture is a good example: Australian Geographic notes that the Tully nest was later cited in discussions of the modern crop-circle phenomenon, while also stressing that later crop-circle history included admitted hoaxes and increasingly elaborate formations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">Australian Geographic Saucer hysteria: The case of the Tully crop circle</span><span class="citation-popover-snippet">Australian Geographic Saucer hysteria: The case of the Tully crop circle</span></span></span>
+This creates a tension. Public memory can preserve a case long after technical confidence has weakened. A story may become more famous because it is vivid, local and emotionally resonant, not because the evidence has become stronger. Tully’s later role in crop-circle culture is a good example: Australian Geographic notes that the Tully nest was later cited in discussions of the modern crop-circle phenomenon, while also stressing that later crop-circle history included admitted hoaxes and increasingly elaborate formations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">Australian Geographic Saucer hysteria: The case of the Tully crop circle</span><span class="citation-popover-snippet">Australian Geographic Saucer hysteria: The case of the Tully crop circle</span></span></span>
 
 For a balanced Queensland UFO history, that does not make Tully irrelevant. It makes it more interesting. The case is important not only because of what may have happened at Horseshoe Lagoon, but because it shows how a local trace report can become a global symbol, then be re-examined through scepticism, folklore, media studies and environmental explanation.
 
@@ -359,13 +359,13 @@ Debunked and weakened cases are not an embarrassment to UFO history. They are th
 
 Queensland’s solved and weakened cases show several recurring mechanisms:
 
-**Distance turns rubbish into mystery.** Castle Hill became strange because the object could not be identified from below. Once inspected directly, the claim ended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-snippet">Open source on qld.gov.au.</span></span></span>
+**Distance turns rubbish into mystery.** Castle Hill became strange because the object could not be identified from below. Once inspected directly, the claim ended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-snippet">Open source on qld.gov.au.</span></span></span>
 
-**Physical traces invite overinterpretation.** Tully’s reed circle was real enough to investigate, but later testing and natural explanations weakened the leap from “unusual mark” to “landed craft”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of Queensland The Truth Is Out There</span></span></span>
+**Physical traces invite overinterpretation.** Tully’s reed circle was real enough to investigate, but later testing and natural explanations weakened the leap from “unusual mark” to “landed craft”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of Queensland The Truth Is Out There</span></span></span>
 
-**Atmosphere can mimic agency.** Min Min-style lights may seem to follow or evade observers, yet refraction and temperature inversion provide a serious natural mechanism for many reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uq.edu.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uq.edu.au</span><span class="citation-popover-title">News UQ scientist unlocks secret of Min Min lights</span><span class="citation-popover-snippet">News UQ scientist unlocks secret of Min Min lights</span></span></span>
+**Atmosphere can mimic agency.** Min Min-style lights may seem to follow or evade observers, yet refraction and temperature inversion provide a serious natural mechanism for many reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uq.edu.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uq.edu.au</span><span class="citation-popover-title">News UQ scientist unlocks secret of Min Min lights</span><span class="citation-popover-snippet">News UQ scientist unlocks secret of Min Min lights</span></span></span>
 
-**Archives record claims, not confirmations.** RAAF and police material can make a story more traceable while also showing where the evidence failed, narrowed or became mundane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">flying saucers fact or fiction</span></span></span>
+**Archives record claims, not confirmations.** RAAF and police material can make a story more traceable while also showing where the evidence failed, narrowed or became mundane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">flying saucers fact or fiction</span></span></span>
 
 The payoff is a more honest Queensland UFO record. The state’s history still includes unresolved reports, famous witnesses, local clusters and enduring mysteries. But the solved and weakened cases teach the most transferable lesson: a UFO story should be allowed to change when better viewing, better records, scientific testing or local knowledge changes what the evidence can bear.
 
@@ -373,194 +373,194 @@ The payoff is a more honest Queensland UFO record. The state’s history still i
 <img src="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e-Illustration-3-dark.svg" | relative_url }}" alt="Debunked Cases illustration 3" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_weakened_ufo_claims_20726e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What happens when Queensland UFO cases weaken?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What happens when Queensland UFO cases weaken?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eCCmAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Encyclopedia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eCCmAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Encyclopedia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Covers historical UFO reports, investigations, and changing interpretations, matching the article&#x27;s focus on how cases evolve over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers historical UFO reports, investigations, and changing interpretations, matching the article&#x27;s focus on how cases evolve over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides balanced coverage of UFO cases, explanations, investigations, and historical debates relevant to weakened and solved UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides balanced coverage of UFO cases, explanations, investigations, and historical debates relevant to weakened and solved UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Presents notable UFO cases and official investigations, giving readers context for assessing stronger versus weaker claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents notable UFO cases and official investigations, giving readers context for assessing stronger versus weaker claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains skeptical inquiry, misidentification, and evidence evaluation—the same processes involved in debunking UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains skeptical inquiry, misidentification, and evidence evaluation—the same processes involved in debunking UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="debunked-cases-what-happens-when-queensland-ufo-cases-weaken-queensland-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-happens-when-queensland-ufo-cases-weaken-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ The payoff is a more honest Queensland UFO record. The state’s history still i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ The payoff is a more honest Queensland UFO record. The state’s history still i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ The payoff is a more honest Queensland UFO record. The state’s history still i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ The payoff is a more honest Queensland UFO record. The state’s history still i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ The payoff is a more honest Queensland UFO record. The state’s history still i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,129 +766,129 @@ The payoff is a more honest Queensland UFO record. The state’s history still i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: naa.gov.au  
    Title: flying saucers fact or fiction  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blogs.archives.qld.gov.au  
-   Link: <a href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/</a>  
+   Link:<a href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: slq.qld.gov.au  
    Title: State Library of Queensland The Truth Is Out There  
-   Link: <a href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-[periodicals" target="_blank" rel="noopener noreferrer nofollow">https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-[periodicals</a>  
+   Link:<a href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-[periodicals" target="_blank" rel="noopener noreferrer nofollow">https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-[periodicals</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: abc.net.au  
    Title: ABC News Tully's cane farm crop circles and an enduring 58yo UFO  
-   Link: <a href="https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abc.net.au  
    Title: reporting on taboo topics of ufos and crop circles  
-   Link: <a href="https://www.abc.net.au/news/2024-12-16/reporting-on-taboo-topics-of-ufos-and-crop-circles/104711618" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-16/reporting-on-taboo-topics-of-ufos-and-crop-circles/104711618</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-12-16/reporting-on-taboo-topics-of-ufos-and-crop-circles/104711618" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-16/reporting-on-taboo-topics-of-ufos-and-crop-circles/104711618</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: australiangeographic.com.au  
    Title: Australian Geographic Saucer hysteria: The case of the Tully crop circle  
-   Link: <a href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/</a>  
+   Link:<a href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.uq.edu.au  
    Title: News UQ scientist unlocks secret of Min Min lights  
-   Link: <a href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow">https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights</a>  
+   Link:<a href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow">https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: abc.net.au  
    Title: ABC News Mystery of the Min Min lights explained  
-   Link: <a href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/science/articles/2003/03/28/818193.htm</a>  
+   Link:<a href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/science/articles/2003/03/28/818193.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: australiangeographic.com.au  
    Title: the min min mystery  
-   Link: <a href="https://www.australiangeographic.com.au/blogs/need-to-know-with-dr-karl/2018/08/the-min-min-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/blogs/need-to-know-with-dr-karl/2018/08/the-min-min-mystery/</a>  
+   Link:<a href="https://www.australiangeographic.com.au/blogs/need-to-know-with-dr-karl/2018/08/the-min-min-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/blogs/need-to-know-with-dr-karl/2018/08/the-min-min-mystery/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: abc.net.au  
    Title: accessing australia secret ufo files  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: documents.parliament.qld.gov.au  
-   Link: <a href="https://documents.parliament.qld.gov.au/tableoffice/tabledpapers/2009/5309t121.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.parliament.qld.gov.au/tableoffice/tabledpapers/2009/5309t121.pdf</a>  
+   Link:<a href="https://documents.parliament.qld.gov.au/tableoffice/tabledpapers/2009/5309t121.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.parliament.qld.gov.au/tableoffice/tabledpapers/2009/5309t121.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: caseytours.com.au  
    Title: Min Min Lights  
-   Link: <a href="https://www.caseytours.com.au/news/min-min-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.caseytours.com.au/news/min-min-lights/</a>  
+   Link:<a href="https://www.caseytours.com.au/news/min-min-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.caseytours.com.au/news/min-min-lights/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: uforq.org  
    Title: the tully saucer nest  
-   Link: <a href="https://uforq.org/the-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow">https://uforq.org/the-tully-saucer-nest/</a>  
+   Link:<a href="https://uforq.org/the-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow">https://uforq.org/the-tully-saucer-nest/</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Every Mysterious UFO Encounter Explained in 13 Minutes  
-   Link: <a href="https://www.youtube.com/watch?v=-MioQLLOBFE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-MioQLLOBFE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Queensland UFO archives solved explained debunked Alderney UFO sighting explained | Why it&#x27;s one of the most incredible ever recorded | T...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-MioQLLOBFE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-MioQLLOBFE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Queensland UFO archives solved explained debunked Alderney UFO sighting explained | Why it&#x27;s one of the most incredible ever recorded | T...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Tan71e0Ny-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tan71e0Ny-g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tully Saucer Nest: Reeds Died in 8 Hours, Still Unexplained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Tan71e0Ny-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tan71e0Ny-g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tully Saucer Nest: Reeds Died in 8 Hours, Still Unexplained...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Queensland's X-Files: UFO sightings in North Queensland  
-   Link: <a href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yM7YtfUhEWM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia &#x27;UFO Mystery&#x27;: Glowing Orbs Lights Up Queensland Sky, Stuns Residents, Expert Reveals...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yM7YtfUhEWM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia &#x27;UFO Mystery&#x27;: Glowing Orbs Lights Up Queensland Sky, Stuns Residents, Expert Reveals...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Global crop circle phenomenon inspired by UFO mystery in Far North Queensland?  
-   Link: <a href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0YvaAlgokSs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Queensland&#x27;s X-Files: UFO sightings in North Queensland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0YvaAlgokSs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Queensland&#x27;s X-Files: UFO sightings in North Queensland...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Tully Saucer Nest: Reeds Died in 8 Hours, Still Unexplained  
-   Link: <a href="https://www.youtube.com/watch?v=NV9u8664XZ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NV9u8664XZ8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every Mysterious UFO Encounter Explained in 13 Minutes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NV9u8664XZ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NV9u8664XZ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every Mysterious UFO Encounter Explained in 13 Minutes...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTpXcyLja2S/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTpXcyLja2S/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DTpXcyLja2S/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTpXcyLja2S/?hl=en</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSCairns/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1196734315897568/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCairns/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1196734315897568/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSCairns/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1196734315897568/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCairns/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1196734315897568/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcnews.au/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-but-it-came/1147146796766589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-but-it-came/1147146796766589/</a>  
+   Link:<a href="https://www.facebook.com/abcnews.au/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-but-it-came/1147146796766589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-but-it-came/1147146796766589/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcnews.au/videos/did-you-know-a-crop-circle-phenomenon-was-inspired-by-this-mystery-in-far-north-/1111241240569665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/videos/did-you-know-a-crop-circle-phenomenon-was-inspired-by-this-mystery-in-far-north-/1111241240569665/</a>  
+   Link:<a href="https://www.facebook.com/abcnews.au/videos/did-you-know-a-crop-circle-phenomenon-was-inspired-by-this-mystery-in-far-north-/1111241240569665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/videos/did-you-know-a-crop-circle-phenomenon-was-inspired-by-this-mystery-in-far-north-/1111241240569665/</a>  

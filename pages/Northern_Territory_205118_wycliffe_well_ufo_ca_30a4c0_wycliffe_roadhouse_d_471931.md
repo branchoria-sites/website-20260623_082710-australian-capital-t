@@ -262,38 +262,38 @@ image: /assets/images/Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_wycl
 
 ## Introduction
 
-Wycliffe Well’s decline is important to [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) UFO history because the place itself helped create, collect and publicise many of the reports that made it famous. The end of the roadhouse was not caused by a single event, but by a combination of ownership changes, a weakening focus on the UFO theme, severe flooding in late 2022 and the long period of abandonment that followed. As the attraction closed, visitor numbers collapsed, the [sightings ledger]({{ 'sightings-ledger/' | relative_url }}) stopped growing, and one of Australia’s best-known UFO gathering points effectively disappeared. The result is a useful reminder that Wycliffe Well’s reputation depended not only on what people claimed to see in the sky, but also on the existence of a functioning tourist site that encouraged people to look, discuss and record unusual experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
+Wycliffe Well’s decline is important to [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) UFO history because the place itself helped create, collect and publicise many of the reports that made it famous. The end of the roadhouse was not caused by a single event, but by a combination of ownership changes, a weakening focus on the UFO theme, severe flooding in late 2022 and the long period of abandonment that followed. As the attraction closed, visitor numbers collapsed, the [sightings ledger]({{ 'sightings-ledger/' | relative_url }}) stopped growing, and one of Australia’s best-known UFO gathering points effectively disappeared. The result is a useful reminder that Wycliffe Well’s reputation depended not only on what people claimed to see in the sky, but also on the existence of a functioning tourist site that encouraged people to look, discuss and record unusual experiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_wycliffe_roadhouse_d_471931-Illustration-1-dark.svg" | relative_url }}" alt="Roadhouse Decline illustration 1" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_wycliffe_roadhouse_d_471931-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_wycliffe_roadhouse_d_471931-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The ownership and business changes before decline
 
-The first major shift came before the flood. After building [Wycliffe Well]({{ 'wycliffe-well/' | relative_url }}) into a UFO-themed destination over roughly 25 years, founder Lew Farkas sold the business around 2010 to Anthony “Arc” Vanderzalm. Vanderzalm continued the [alien branding]({{ 'alien-branding/' | relative_url }}) and maintained the site's unusual character, including its collection of UFO memorabilia and visitor stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
+The first major shift came before the flood. After building [Wycliffe Well]({{ 'wycliffe-well/' | relative_url }}) into a UFO-themed destination over roughly 25 years, founder Lew Farkas sold the business around 2010 to Anthony “Arc” Vanderzalm. Vanderzalm continued the [alien branding]({{ 'alien-branding/' | relative_url }}) and maintained the site's unusual character, including its collection of UFO memorabilia and visitor stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
 
-A later sale to fuel retailer United Petroleum marked a different phase. Former owner Vanderzalm later suggested that the company's primary interest was fuel sales rather than preserving the UFO attraction that had made the site famous. While the roadhouse still carried its UFO identity, observers increasingly described parts of the attraction as faded or neglected compared with its peak years. Even before the flood, some visitors and journalists noted signs of deterioration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
+A later sale to fuel retailer United Petroleum marked a different phase. Former owner Vanderzalm later suggested that the company's primary interest was fuel sales rather than preserving the UFO attraction that had made the site famous. While the roadhouse still carried its UFO identity, observers increasingly described parts of the attraction as faded or neglected compared with its peak years. Even before the flood, some visitors and journalists noted signs of deterioration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
 
-This matters because Wycliffe Well was never simply a location where sightings occurred. It was a curated destination. Alien statues, murals, themed accommodation, observation areas and the famous sightings book all encouraged travellers to engage with the UFO story. When investment and attention shifted elsewhere, part of that experience weakened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
+This matters because Wycliffe Well was never simply a location where sightings occurred. It was a curated destination. Alien statues, murals, themed accommodation, observation areas and the famous sightings book all encouraged travellers to engage with the UFO story. When investment and attention shifted elsewhere, part of that experience weakened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HKXjkZatnf4" title="ROAD TRIP PART 11 : Motorhome : Melbourne to Darwin Australia : Wycliffe Well: Abandoned UFO Hotspot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HKXjkZatnf4" target="_blank" rel="noopener noreferrer">ROAD TRIP PART 11 : Motorhome : Melbourne to Darwin Australia : Wycliffe Well: Abandoned UFO Hotspot</a></p><p class="youtube-embed-meta">Channel: Urban Aerial Explorer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HKXjkZatnf4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HKXjkZatnf4">Open on YouTube</a></p></div></div></div>
 
 ## How flood damage affected the attraction
 
-The decisive blow came during a major flood event on 25 December 2022. Heavy rainfall caused normally dry waterways around Wycliffe Well to overflow, flooding the low-lying roadhouse complex and forcing operators to evacuate. Official Northern Territory records later confirmed that the premises ceased operating after the flood and remained closed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://agd.nt.gov.au/media/docs/liquor-commission/disciplinary-actions-linked-pdfs-only/lc2024-039-decision-notice.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agd.nt.gov.au">[Attorney-General&#x27;s Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agd.nt.gov.au</span><span class="citation-popover-title">lc2024 039 decision notice</span><span class="citation-popover-snippet">Attorney-General&#x27;s DepartmentDISCIPLINARY ACTION AGAINST UNITED WYCLIFFE...28 Nov 2024 — On 25 December 2022, the premises were flooded...</span><span class="citation-popover-meta">Published: December 2022</span></span></span>
+The decisive blow came during a major flood event on 25 December 2022. Heavy rainfall caused normally dry waterways around Wycliffe Well to overflow, flooding the low-lying roadhouse complex and forcing operators to evacuate. Official Northern Territory records later confirmed that the premises ceased operating after the flood and remained closed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://agd.nt.gov.au/media/docs/liquor-commission/disciplinary-actions-linked-pdfs-only/lc2024-039-decision-notice.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agd.nt.gov.au">[Attorney-General&#x27;s Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agd.nt.gov.au</span><span class="citation-popover-title">lc2024 039 decision notice</span><span class="citation-popover-snippet">Attorney-General&#x27;s DepartmentDISCIPLINARY ACTION AGAINST UNITED WYCLIFFE...28 Nov 2024 — On 25 December 2022, the premises were flooded...</span><span class="citation-popover-meta">Published: December 2022</span></span></span>
 
-Flood damage alone was serious, but the consequences extended far beyond the initial event. After the water receded, the site was left vacant. Buildings, accommodation blocks and public areas deteriorated rapidly. Reports from 2024 described smashed windows, stripped interiors, vandalised facilities and damaged alien displays. Some of the attraction's most recognisable statues were decapitated or destroyed. Repair costs were estimated to run into the millions of dollars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
+Flood damage alone was serious, but the consequences extended far beyond the initial event. After the water receded, the site was left vacant. Buildings, accommodation blocks and public areas deteriorated rapidly. Reports from 2024 described smashed windows, stripped interiors, vandalised facilities and damaged alien displays. Some of the attraction's most recognisable statues were decapitated or destroyed. Repair costs were estimated to run into the millions of dollars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
 
-The closure became increasingly difficult to reverse. Northern Territory regulatory documents note that the premises remained shut for an extended period, while extensive vandalism and deterioration increased the scale of work required to reopen the site. Additional flooding within the following year further complicated recovery efforts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://agd.nt.gov.au/media/docs/liquor-commission/disciplinary-actions-linked-pdfs-only/lc2024-039-decision-notice.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agd.nt.gov.au">[Attorney-General&#x27;s Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agd.nt.gov.au</span><span class="citation-popover-title">lc2024 039 decision notice</span><span class="citation-popover-snippet">Attorney-General&#x27;s DepartmentDISCIPLINARY ACTION AGAINST UNITED WYCLIFFE...28 Nov 2024 — On 25 December 2022, the premises were flooded...</span><span class="citation-popover-meta">Published: December 2022</span></span></span>
+The closure became increasingly difficult to reverse. Northern Territory regulatory documents note that the premises remained shut for an extended period, while extensive vandalism and deterioration increased the scale of work required to reopen the site. Additional flooding within the following year further complicated recovery efforts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://agd.nt.gov.au/media/docs/liquor-commission/disciplinary-actions-linked-pdfs-only/lc2024-039-decision-notice.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agd.nt.gov.au">[Attorney-General&#x27;s Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agd.nt.gov.au</span><span class="citation-popover-title">lc2024 039 decision notice</span><span class="citation-popover-snippet">Attorney-General&#x27;s DepartmentDISCIPLINARY ACTION AGAINST UNITED WYCLIFFE...28 Nov 2024 — On 25 December 2022, the premises were flooded...</span><span class="citation-popover-meta">Published: December 2022</span></span></span>
 
-For UFO tourism, the loss was especially significant because many of the physical features that reinforced Wycliffe Well's reputation were damaged or inaccessible. The attraction had relied on more than a roadside sign; it depended on an immersive environment that linked local stories, visitor testimony and themed tourism into a single experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
+For UFO tourism, the loss was especially significant because many of the physical features that reinforced Wycliffe Well's reputation were damaged or inaccessible. The attraction had relied on more than a roadside sign; it depended on an immersive environment that linked local stories, visitor testimony and themed tourism into a single experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_wycliffe_roadhouse_d_471931-Illustration-2-dark.svg" | relative_url }}" alt="Roadhouse Decline illustration 2" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_wycliffe_roadhouse_d_471931-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_wycliffe_roadhouse_d_471931-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why fewer visitors meant fewer sightings
 
-One of the most revealing consequences of the closure is the apparent decline in reported sightings associated with Wycliffe Well. This does not necessarily mean that unusual aerial phenomena stopped occurring. Instead, it highlights how much the reporting process depended on the roadhouse itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2025/06/wycliffe-well-australias-outback-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-snippet">Australian GeographicWycliffe Well: Australia&#x27;s outback UFO hotspotJune 19, 2025 — 19 Jun 2025 — Since the roadhouse was abandoned, the n...</span><span class="citation-popover-meta">Published: June 19, 2025</span></span></span>
+One of the most revealing consequences of the closure is the apparent decline in reported sightings associated with Wycliffe Well. This does not necessarily mean that unusual aerial phenomena stopped occurring. Instead, it highlights how much the reporting process depended on the roadhouse itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2025/06/wycliffe-well-australias-outback-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-snippet">Australian GeographicWycliffe Well: Australia&#x27;s outback UFO hotspotJune 19, 2025 — 19 Jun 2025 — Since the roadhouse was abandoned, the n...</span><span class="citation-popover-meta">Published: June 19, 2025</span></span></span>
 
-During its peak years, visitors arrived expecting a UFO experience. They saw alien imagery, read previous reports, talked to staff and other travellers, and often spent the night watching the sky. If they noticed an unusual light, there was an immediate place to record it and an audience willing to discuss it. The famous sightings ledger functioned as a local archive of experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
+During its peak years, visitors arrived expecting a UFO experience. They saw alien imagery, read previous reports, talked to staff and other travellers, and often spent the night watching the sky. If they noticed an unusual light, there was an immediate place to record it and an audience willing to discuss it. The famous sightings ledger functioned as a local archive of experiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
 
 Once the roadhouse closed, several things changed at the same time:
 
@@ -301,9 +301,9 @@ Once the roadhouse closed, several things changed at the same time:
 * The sightings book was no longer available.
 * Staff were no longer collecting stories.
 * UFO-themed tours and conversations ceased.
-* The attraction lost its role as a meeting point for enthusiasts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
+* The attraction lost its role as a meeting point for enthusiasts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
 
-This creates an important caution for anyone evaluating Wycliffe Well's UFO reputation. A rise or fall in reported sightings may reflect changes in observation and reporting opportunities as much as changes in whatever people were actually seeing. The site acted as both a collection point and a publicity mechanism. Remove the collection point, and the visible flow of reports naturally shrinks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
+This creates an important caution for anyone evaluating Wycliffe Well's UFO reputation. A rise or fall in reported sightings may reflect changes in observation and reporting opportunities as much as changes in whatever people were actually seeing. The site acted as both a collection point and a publicity mechanism. Remove the collection point, and the visible flow of reports naturally shrinks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qUbAYTnmcgM" title="WYCLIFFE WELL: Aussie Outback Abandoned UFO hotspot?!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qUbAYTnmcgM" target="_blank" rel="noopener noreferrer">WYCLIFFE WELL: Aussie Outback Abandoned UFO hotspot?!</a></p><p class="youtube-embed-meta">Channel: Adventure Intel Australia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qUbAYTnmcgM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qUbAYTnmcgM">Open on YouTube</a></p></div></div></div>
@@ -315,202 +315,202 @@ This creates an important caution for anyone evaluating Wycliffe Well's UFO repu
 
 The decline of Wycliffe Well does not settle the question of whether any particular sighting was unexplained. Instead, it reveals how strongly the location's reputation depended on tourism infrastructure and local storytelling.
 
-Supporters of the UFO tradition may view the abandoned site as the loss of a unique observation point where travellers regularly reported unusual lights. Sceptics often see the same outcome as evidence that the attraction itself helped generate reports by encouraging visitors to interpret ambiguous sights through a UFO lens. The reduction in reports after closure can be read in either direction: as the disappearance of a witness community or as the disappearance of a setting that amplified unusual interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
+Supporters of the UFO tradition may view the abandoned site as the loss of a unique observation point where travellers regularly reported unusual lights. Sceptics often see the same outcome as evidence that the attraction itself helped generate reports by encouraging visitors to interpret ambiguous sights through a UFO lens. The reduction in reports after closure can be read in either direction: as the disappearance of a witness community or as the disappearance of a setting that amplified unusual interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
 
-Within Northern Territory UFO history, the flood and closure therefore mark the end of an era. Wycliffe Well's fame was built on a combination of location, marketing, witness testimony and visitor participation. When the flood damaged the roadhouse and abandonment followed, the Territory's most famous UFO destination lost the very features that had sustained its reputation for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
+Within Northern Territory UFO history, the flood and closure therefore mark the end of an era. Wycliffe Well's fame was built on a combination of location, marketing, witness testimony and visitor participation. When the flood damaged the roadhouse and abandonment followed, the Territory's most famous UFO destination lost the very features that had sustained its reputation for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How a tiny outback NT roadhouse went from Australia&#x27;s</span><span class="citation-popover-snippet">ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</span><span class="citation-popover-meta">Published: July 21, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_wycliffe_roadhouse_d_471931-Illustration-3-dark.svg" | relative_url }}" alt="Roadhouse Decline illustration 3" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_wycliffe_roadhouse_d_471931-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_wycliffe_well_ufo_ca_30a4c0_wycliffe_roadhouse_d_471931-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What happened when the UFO capital closed?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What happened when the UFO capital closed?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context for how UFO sightings are collected, categorized and discussed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for how UFO sightings are collected, categorized and discussed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how local stories, culture and reported phenomena can shape enduring UFO legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how local stories, culture and reported phenomena can shape enduring UFO legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Visitors interested in Wycliffe Well&#x27;s UFO reputation are likely to want a credible overview of major UFO cases and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Visitors interested in Wycliffe Well&#x27;s UFO reputation are likely to want a credible overview of major UFO cases and reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Represents the popular culture side of UFO belief that helped sustain tourism and public fascination with places such as Wycliffe Well.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the popular culture side of UFO belief that helped sustain tourism and public fascination with places such as Wycliffe Well.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roadhouse-decline-what-happened-when-the-ufo-capital-closed-northern-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -526,7 +526,7 @@ Within Northern Territory UFO history, the flood and closure therefore mark the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -546,7 +546,7 @@ Within Northern Territory UFO history, the flood and closure therefore mark the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -578,7 +578,7 @@ Within Northern Territory UFO history, the flood and closure therefore mark the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -630,7 +630,7 @@ Within Northern Territory UFO history, the flood and closure therefore mark the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -675,7 +675,7 @@ Within Northern Territory UFO history, the flood and closure therefore mark the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -716,92 +716,92 @@ Within Northern Territory UFO history, the flood and closure therefore mark the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: abc.net.au  
    Title: ABC News How a tiny outback NT roadhouse went from Australia's  
-   Link: <a href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsHow a tiny outback NT roadhouse went from Australia&#x27;s...July 21, 2024 — 21 Jul 2024 — Wycliffe Well was once considered the most...</p></details>
    Published: July 21, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: agd.nt.gov.au  
    Title: lc2024 039 decision notice  
-   Link: <a href="https://agd.nt.gov.au/media/docs/liquor-commission/disciplinary-actions-linked-pdfs-only/lc2024-039-decision-notice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://agd.nt.gov.au/media/docs/liquor-commission/disciplinary-actions-linked-pdfs-only/lc2024-039-decision-notice.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Attorney-General&#x27;s DepartmentDISCIPLINARY ACTION AGAINST UNITED WYCLIFFE...28 Nov 2024 — On 25 December 2022, the premises were flooded...</p></details>
+   Link:<a href="https://agd.nt.gov.au/media/docs/liquor-commission/disciplinary-actions-linked-pdfs-only/lc2024-039-decision-notice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://agd.nt.gov.au/media/docs/liquor-commission/disciplinary-actions-linked-pdfs-only/lc2024-039-decision-notice.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Attorney-General&#x27;s DepartmentDISCIPLINARY ACTION AGAINST UNITED WYCLIFFE...28 Nov 2024 — On 25 December 2022, the premises were flooded...</p></details>
    Published: December 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Wycliffe Well  
-   Link: <a href="https://en.wikipedia.org/wiki/Wycliffe_Well" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wycliffe_Well</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wycliffe WellIn 2009 or 2010, Farkas sold the business to Anthony Vanderzalm, also known as Arc, who continued to collect alien paraph...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Wycliffe_Well" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wycliffe_Well</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wycliffe WellIn 2009 or 2010, Farkas sold the business to Anthony Vanderzalm, also known as Arc, who continued to collect alien paraph...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: australiangeographic.com.au  
-   Link: <a href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2025/06/wycliffe-well-australias-outback-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2025/06/wycliffe-well-australias-outback-ufo-hotspot/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian GeographicWycliffe Well: Australia&#x27;s outback UFO hotspotJune 19, 2025 — 19 Jun 2025 — Since the roadhouse was abandoned, the n...</p></details>
+   Link:<a href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2025/06/wycliffe-well-australias-outback-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2025/06/wycliffe-well-australias-outback-ufo-hotspot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian GeographicWycliffe Well: Australia&#x27;s outback UFO hotspotJune 19, 2025 — 19 Jun 2025 — Since the roadhouse was abandoned, the n...</p></details>
    Published: June 19, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: abc.net.au  
    Title: how a tiny roadhouse went from australias ufo  
-   Link: <a href="https://www.abc.net.au/news/2024-07-23/how-a-tiny-roadhouse-went-from-australias-ufo/104130510" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-07-23/how-a-tiny-roadhouse-went-from-australias-ufo/104130510</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How a tiny roadhouse went from Australia&#x27;s UFO capital to...22 Jul 2024 — VIDEO: How a tiny roadhouse went from Australia&#x27;s UFO capital...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2024-07-23/how-a-tiny-roadhouse-went-from-australias-ufo/104130510" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-07-23/how-a-tiny-roadhouse-went-from-australias-ufo/104130510</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a tiny roadhouse went from Australia&#x27;s UFO capital to...22 Jul 2024 — VIDEO: How a tiny roadhouse went from Australia&#x27;s UFO capital...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: Its "gimmick" was that it's the "alien capital of Australia."  
-   Link: <a href="https://www.facebook.com/groups/australianarttrails/posts/1090003142539332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/australianarttrails/posts/1090003142539332/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Closure of Wycliffe Well Roadhouse in Northern Territory...The former roadhouse at Wycliffe Well, on the Stuart Highway in the Northern...</p></details>
+   Link:<a href="https://www.facebook.com/groups/australianarttrails/posts/1090003142539332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/australianarttrails/posts/1090003142539332/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Closure of Wycliffe Well Roadhouse in Northern Territory...The former roadhouse at Wycliffe Well, on the Stuart Highway in the Northern...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vice.com  
    Title: the strange story of australias outback ufo capital  
-   Link: <a href="https://www.vice.com/en/article/the-strange-story-of-australias-outback-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-strange-story-of-australias-outback-ufo-capital/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wycliffe Well&#x27;s notoriety as the spot for UFO sightings. There have been UFO sightings around Wycliffe Well for decades. Google it and yo...</p></details>
+   Link:<a href="https://www.vice.com/en/article/the-strange-story-of-australias-outback-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-strange-story-of-australias-outback-ufo-capital/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wycliffe Well&#x27;s notoriety as the spot for UFO sightings. There have been UFO sightings around Wycliffe Well for decades. Google it and yo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCDarwin/videos/how-a-tiny-outback-nt-roadhouse-went-from-australias-ufo-capital-to-abandoned-mo/7922441191209956/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCDarwin/videos/how-a-tiny-outback-nt-roadhouse-went-from-australias-ufo-capital-to-abandoned-mo/7922441191209956/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>en or UFO in Australia, but the roadside stop now resembles a ghost town...</p></details>
+   Link:<a href="https://www.facebook.com/ABCDarwin/videos/how-a-tiny-outback-nt-roadhouse-went-from-australias-ufo-capital-to-abandoned-mo/7922441191209956/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCDarwin/videos/how-a-tiny-outback-nt-roadhouse-went-from-australias-ufo-capital-to-abandoned-mo/7922441191209956/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>en or UFO in Australia, but the roadside stop now resembles a ghost town...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: The sad state of Australia's UFO Capital!  
-   Link: <a href="https://www.facebook.com/TimYowie/posts/the-sad-state-of-australias-ufo-capitalthis-was-wycliffe-well-in-the-northern-te/1774333210638365/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimYowie/posts/the-sad-state-of-australias-ufo-capitalthis-was-wycliffe-well-in-the-northern-te/1774333210638365/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This was Wycliffe...Known as Wycliffe Well, it is a popular tourist spot renowned for UFO sightings. It is self-proclaimed as Australia&#x27;...</p></details>
+   Link:<a href="https://www.facebook.com/TimYowie/posts/the-sad-state-of-australias-ufo-capitalthis-was-wycliffe-well-in-the-northern-te/1774333210638365/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimYowie/posts/the-sad-state-of-australias-ufo-capitalthis-was-wycliffe-well-in-the-northern-te/1774333210638365/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This was Wycliffe...Known as Wycliffe Well, it is a popular tourist spot renowned for UFO sightings. It is self-proclaimed as Australia&#x27;...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amusingplanet.com  
    Title: wycliffe well ufo capital of australia  
-   Link: <a href="https://www.amusingplanet.com/2015/07/wycliffe-well-ufo-capital-of-australia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.amusingplanet.com/2015/07/wycliffe-well-ufo-capital-of-australia.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wycliffe Well: The UFO Capital of Australia23 Jul 2015 — It&#x27;s a tiny settlement called Wycliffe Well where people stop for gas, food and...</p></details>
+   Link:<a href="https://www.amusingplanet.com/2015/07/wycliffe-well-ufo-capital-of-australia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.amusingplanet.com/2015/07/wycliffe-well-ufo-capital-of-australia.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wycliffe Well: The UFO Capital of Australia23 Jul 2015 — It&#x27;s a tiny settlement called Wycliffe Well where people stop for gas, food and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dailymotion.com  
    Title: Unique Wycliffe Well motel abandoned after flood  
-   Link: <a href="https://www.dailymotion.com/video/x92pwbc" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x92pwbc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Well motel abandoned after flood 2 years ago. The demise of the unique tourist spot to restore Wycliffe...</p></details>
+   Link:<a href="https://www.dailymotion.com/video/x92pwbc" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x92pwbc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Well motel abandoned after flood 2 years ago. The demise of the unique tourist spot to restore Wycliffe...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ntnews.com.au  
-   Link: <a href="https://www.ntnews.com.au/news/nt-liquor-commission-cancels-liquor-license-at-abandoned-ufo-hotspot-wycliffe-well/news-story/d4bfa206d124fd78781aea337f2b7cb1" target="_blank" rel="noopener noreferrer nofollow">https://www.ntnews.com.au/news/nt-liquor-commission-cancels-liquor-license-at-abandoned-ufo-hotspot-wycliffe-well/news-story/d4bfa206d124fd78781aea337f2b7cb1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NT Liquor Commission cancels liquor license at &#x27;...3 Dec 2024 — Action has been taken against the owners of a roadhouse at one of Austra...</p></details>
+   Link:<a href="https://www.ntnews.com.au/news/nt-liquor-commission-cancels-liquor-license-at-abandoned-ufo-hotspot-wycliffe-well/news-story/d4bfa206d124fd78781aea337f2b7cb1" target="_blank" rel="noopener noreferrer nofollow">https://www.ntnews.com.au/news/nt-liquor-commission-cancels-liquor-license-at-abandoned-ufo-hotspot-wycliffe-well/news-story/d4bfa206d124fd78781aea337f2b7cb1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NT Liquor Commission cancels liquor license at &#x27;...3 Dec 2024 — Action has been taken against the owners of a roadhouse at one of Austra...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VashistSid/videos/wycliffe-well-roadhouse-once-one-of-the-worlds-top-ufo-hotspots-now-sadly-overgr/1077705777904782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VashistSid/videos/wycliffe-well-roadhouse-once-one-of-the-worlds-top-ufo-hotspots-now-sadly-overgr/1077705777904782/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y overgrown, vandalised and sitting idle...</p></details>
+   Link:<a href="https://www.facebook.com/VashistSid/videos/wycliffe-well-roadhouse-once-one-of-the-worlds-top-ufo-hotspots-now-sadly-overgr/1077705777904782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VashistSid/videos/wycliffe-well-roadhouse-once-one-of-the-worlds-top-ufo-hotspots-now-sadly-overgr/1077705777904782/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y overgrown, vandalised and sitting idle...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dailymotion.com  
    Title: Abandoned NT roadhouse faces difficult path forward  
-   Link: <a href="https://www.dailymotion.com/video/x92s5im" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x92s5im</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was once considered Australia&#x27;s most likely place to encounter an Alien or UFO, but now...</p></details>
+   Link:<a href="https://www.dailymotion.com/video/x92s5im" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x92s5im</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was once considered Australia&#x27;s most likely place to encounter an Alien or UFO, but now...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HKXjkZatnf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HKXjkZatnf4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep 18 Wycliffe Well &amp; Devils Marbles...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HKXjkZatnf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HKXjkZatnf4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep 18 Wycliffe Well &amp; Devils Marbles...</p></details>

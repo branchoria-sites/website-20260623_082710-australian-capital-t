@@ -286,11 +286,11 @@ image: /assets/images/Western_Australia_1c735d_country_wa_sightings_1e185b-overv
 <img src="{{ "/assets/images/Western_Australia_1c735d_country_wa_sightings_1e185b-overview.webp" | relative_url }}" alt="Overview image for Country Town UFO Record" loading="eager" decoding="sync" fetchpriority="high">
 ## Why country WA became a UFO-reporting landscape
 
-Western Australia is physically suited to strange-sky stories. It covers the western third of the continent, while much of its population is concentrated in and around Greater Perth; the 2021 Census counted 2,116,647 people in Greater Perth, leaving vast regional areas comparatively sparse. That matters because a light seen from a Wheatbelt paddock, a coastal road near Onslow, or a highway outside Bridgetown is not being viewed against the visual clutter of a large city. It may be seen across a clear horizon, from a moving vehicle, after dark, with few nearby reference points for height, distance or speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abs.gov.au/census/find-census-data/quickstats/2021/5GPER" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abs.gov.au">[Australian Bureau of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abs.gov.au</span><span class="citation-popover-snippet">Open source on abs.gov.au.</span></span></span>
+Western Australia is physically suited to strange-sky stories. It covers the western third of the continent, while much of its population is concentrated in and around Greater Perth; the 2021 Census counted 2,116,647 people in Greater Perth, leaving vast regional areas comparatively sparse. That matters because a light seen from a Wheatbelt paddock, a coastal road near Onslow, or a highway outside Bridgetown is not being viewed against the visual clutter of a large city. It may be seen across a clear horizon, from a moving vehicle, after dark, with few nearby reference points for height, distance or speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abs.gov.au/census/find-census-data/quickstats/2021/5GPER" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abs.gov.au">[Australian Bureau of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abs.gov.au</span><span class="citation-popover-snippet">Open source on abs.gov.au.</span></span></span>
 
-The State Library of Western Australia’s account of the WA Police “UFO File” says the file includes reports from government officials and the public dating back to 1951, before Sputnik made artificial [satellites]({{ 'satellites/' | relative_url }}) part of everyday skywatching. It also notes that many reports came from country areas during the 1950s, 1960s and 1970s, and that reporting officers sometimes added character assessments such as “reliable” or “teetotaller”. Those words are revealing. They do not validate the objects as extraordinary craft, but they show that police were weighing social trust, sobriety and local standing as part of the record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">Open source on wa.gov.au.</span></span></span>
+The State Library of Western Australia’s account of the WA Police “UFO File” says the file includes reports from government officials and the public dating back to 1951, before Sputnik made artificial [satellites]({{ 'satellites/' | relative_url }}) part of everyday skywatching. It also notes that many reports came from country areas during the 1950s, 1960s and 1970s, and that reporting officers sometimes added character assessments such as “reliable” or “teetotaller”. Those words are revealing. They do not validate the objects as extraordinary craft, but they show that police were weighing social trust, sobriety and local standing as part of the record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">Open source on wa.gov.au.</span></span></span>
 
-ABC Perth’s summary of the same file named Kojonup, [Dalwallinu]({{ 'dalwallinu/' | relative_url }}), Onslow and Bridgetown among the country locations represented, with the peak of sightings in the 1950s and 1960s. The file had been restricted for decades before being opened after a 2007 review of police records, which helps explain why these reports remained more archival than folkloric for many years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News&#x27;UFO file&#x27; sheds light on strange encounters in Western</span><span class="citation-popover-snippet">ABC News&#x27;UFO file&#x27; sheds light on strange encounters in Western</span></span></span>
+ABC Perth’s summary of the same file named Kojonup, [Dalwallinu]({{ 'dalwallinu/' | relative_url }}), Onslow and Bridgetown among the country locations represented, with the peak of sightings in the 1950s and 1960s. The file had been restricted for decades before being opened after a 2007 review of police records, which helps explain why these reports remained more archival than folkloric for many years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News&#x27;UFO file&#x27; sheds light on strange encounters in Western</span><span class="citation-popover-snippet">ABC News&#x27;UFO file&#x27; sheds light on strange encounters in Western</span></span></span>
 
 That country pattern should not be overread. A cluster can mean a real shared stimulus, such as a meteor, aircraft, satellite re-entry, atmospheric refraction or military activity. It can also mean that one report encouraged others to come forward, that local newspapers amplified a story, or that a police district happened to preserve fuller paperwork. In WA, the pattern is historically important because it shows where reports entered official channels, not because it proves a single hidden cause behind them all.
 
@@ -300,9 +300,9 @@ That country pattern should not be overread. A cluster can mean a real shared st
 
 The classic WA country-town sighting often began with a practical rural setting: a farm, a road, a paddock, a police station, a roadhouse, or a night drive. Those settings matter because they shaped both the sighting and the later evidence. On a remote road, a witness may have a long view but little scale. In a paddock, a reflective object may appear silent simply because it is distant. Near the coast, lights over water can be distorted by temperature layers. In mining or pastoral regions, aircraft, vehicles, flares, drones, satellites and industrial lights can all enter the visual field without being obvious to a casual observer.
 
-Dalwallinu in January 1953 is a useful example because it shows both the strength and weakness of country testimony. According to a historical account drawing on the WA [Police file]({{ 'police-file/' | relative_url }}) and newspaper reports, Richard Hunter and Keith McNamara were fox-hunting north-east of Dalwallinu at about 9.30 pm when they saw an object like a bright star surrounded by a white vapour-like ring, moving and then changing direction. Two other Dalwallinu residents, Les Angel and Kenneth Jefferis, also reported seeing the object, and a halo was said to remain after it disappeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files – The Dusty Box</span><span class="citation-popover-snippet">The Dusty Box U.F.O. Files – The Dusty Box</span></span></span>
+Dalwallinu in January 1953 is a useful example because it shows both the strength and weakness of country testimony. According to a historical account drawing on the WA [Police file]({{ 'police-file/' | relative_url }}) and newspaper reports, Richard Hunter and Keith McNamara were fox-hunting north-east of Dalwallinu at about 9.30 pm when they saw an object like a bright star surrounded by a white vapour-like ring, moving and then changing direction. Two other Dalwallinu residents, Les Angel and Kenneth Jefferis, also reported seeing the object, and a halo was said to remain after it disappeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files – The Dusty Box</span><span class="citation-popover-snippet">The Dusty Box U.F.O. Files – The Dusty Box</span></span></span>
 
-The case did not simply vanish into gossip. Newspaper reporting reached metropolitan readers, and the RAAF asked police to obtain details through a structured form. The same account says checks were reportedly made with the Government Astronomer, Perth Weather Bureau, RAAF and air traffic control; no simple aircraft or balloon explanation was supplied in that reporting. Les Angel’s claimed aviation background was also recorded: he reportedly had about 3,000 hours of RAAF flying experience, but still said it was extremely difficult to estimate the object’s height and almost impossible to estimate its speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files – The Dusty Box</span><span class="citation-popover-snippet">The Dusty Box U.F.O. Files – The Dusty Box</span></span></span>
+The case did not simply vanish into gossip. Newspaper reporting reached metropolitan readers, and the RAAF asked police to obtain details through a structured form. The same account says checks were reportedly made with the Government Astronomer, Perth Weather Bureau, RAAF and air traffic control; no simple aircraft or balloon explanation was supplied in that reporting. Les Angel’s claimed aviation background was also recorded: he reportedly had about 3,000 hours of RAAF flying experience, but still said it was extremely difficult to estimate the object’s height and almost impossible to estimate its speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files – The Dusty Box</span><span class="citation-popover-snippet">The Dusty Box U.F.O. Files – The Dusty Box</span></span></span>
 
 That last detail is one of the most important in the whole country-town record. A witness can be experienced, sincere and observant, yet still be unable to measure distance, altitude and speed from a brief night sighting. In UFO history, credibility and interpretive accuracy are related but not identical. A reliable person may give a faithful account of an experience that remains physically ambiguous.
 
@@ -311,13 +311,13 @@ That last detail is one of the most important in the whole country-town record. 
 
 ## Police reliability notes were useful, but limited
 
-Country police were often the bridge between witnesses and federal or aviation authorities. RAAF procedures from the period show why. A 1970 Air Staff instruction on unusual aerial sightings said reports might come to police, the RAAF, civil aviation agencies or the press, and that where an observer was remote from an RAAF unit, commanders should try to arrange for a responsible local person, such as a police officer, to complete the initial observer form. The same instruction said the purpose was to eliminate positively identified causes first, then examine the remainder carefully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+Country police were often the bridge between witnesses and federal or aviation authorities. RAAF procedures from the period show why. A 1970 Air Staff instruction on unusual aerial sightings said reports might come to police, the RAAF, civil aviation agencies or the press, and that where an observer was remote from an RAAF unit, commanders should try to arrange for a responsible local person, such as a police officer, to complete the initial observer form. The same instruction said the purpose was to eliminate positively identified causes first, then examine the remainder carefully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 That procedure made sense in WA, where distance from RAAF or aviation centres could be considerable. A country constable could interview witnesses quickly, preserve names, times and directions, and add a local assessment of character. The police note was not a scientific instrument, but it prevented some reports from being reduced to hearsay.
 
-The [Cunderdin]({{ 'cunderdin/' | relative_url }}) reports from 1954 show how this worked. In one February case, three people on a farm south of Cunderdin reportedly saw a shiny flat disc hovering before moving west. The local police response recorded that the witnesses were emphatic that it was not an aircraft or similar object and that they had never seen anything like it. The West Australian’s later account of the file quotes the police description of the witnesses as “adult, sensible type persons of some standing in the community”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files – The Dusty Box</span><span class="citation-popover-snippet">The Dusty Box U.F.O. Files – The Dusty Box</span></span></span>
+The [Cunderdin]({{ 'cunderdin/' | relative_url }}) reports from 1954 show how this worked. In one February case, three people on a farm south of Cunderdin reportedly saw a shiny flat disc hovering before moving west. The local police response recorded that the witnesses were emphatic that it was not an aircraft or similar object and that they had never seen anything like it. The West Australian’s later account of the file quotes the police description of the witnesses as “adult, sensible type persons of some standing in the community”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files – The Dusty Box</span><span class="citation-popover-snippet">The Dusty Box U.F.O. Files – The Dusty Box</span></span></span>
 
-A second Cunderdin report in April 1954 involved Vera May Fulwood and her children seeing a round, flat, silver object north of town. The reporting constable wrote that he had known Mrs Fulwood for about a year and saw no reason why the information should not be treated as reliable. Again, that is not a physical explanation. It is a credibility judgement: the report was worth recording and forwarding, not proof that the object was exotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files – The Dusty Box</span><span class="citation-popover-snippet">The Dusty Box U.F.O. Files – The Dusty Box</span></span></span>
+A second Cunderdin report in April 1954 involved Vera May Fulwood and her children seeing a round, flat, silver object north of town. The reporting constable wrote that he had known Mrs Fulwood for about a year and saw no reason why the information should not be treated as reliable. Again, that is not a physical explanation. It is a credibility judgement: the report was worth recording and forwarding, not proof that the object was exotic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files – The Dusty Box</span><span class="citation-popover-snippet">The Dusty Box U.F.O. Files – The Dusty Box</span></span></span>
 
 This is the key distinction readers should keep in mind. Police credibility notes strengthen the historical value of the witness record. They tell us that some reports were not anonymous rumours, intoxicated claims or obvious hoaxes. They do not remove the usual problems of night observation: poor scale, uncertain direction, memory drift, social reinforcement, and the lack of photographs, radar, recovered material or independent technical data.
 
@@ -327,11 +327,11 @@ This is the key distinction readers should keep in mind. Police credibility note
 
 A country-town cluster is most useful when it reveals a repeated reporting pattern: similar times, directions, descriptions, weather conditions, or independent witnesses in separated locations. It becomes stronger if investigators can compare the sighting against aircraft movements, astronomical events, weather balloons, satellite re-entries, radar returns or military activity. It remains weak if the only common feature is that several people in a region used similar UFO language after publicity.
 
-WA’s 1970s file entries show both sides. The West Australian’s account of the State Records Office file notes a 1970 Christmas Creek report involving a vapour trail east of Fitzroy Crossing; no missing aircraft were reported, and a satellite re-entry was later suggested. It also notes a 1973 [Donnybrook]({{ 'donnybrook/' | relative_url }})-area report involving a blue light and scorch marks in an orchard, where possible [explanations]({{ 'explanations-7a0dd2/' | relative_url }}) included spotlight shooters, a nearby highway truck and burn-off activity. These are not glamorous explanations, but they show how a report can move from “unidentified” towards “probably ordinary” when investigators look for local causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thewest.com.au">[The West Australian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thewest.com.au</span><span class="citation-popover-snippet">Open source on com.au.</span></span></span>
+WA’s 1970s file entries show both sides. The West Australian’s account of the State Records Office file notes a 1970 Christmas Creek report involving a vapour trail east of Fitzroy Crossing; no missing aircraft were reported, and a satellite re-entry was later suggested. It also notes a 1973 [Donnybrook]({{ 'donnybrook/' | relative_url }})-area report involving a blue light and scorch marks in an orchard, where possible [explanations]({{ 'explanations-7a0dd2/' | relative_url }}) included spotlight shooters, a nearby highway truck and burn-off activity. These are not glamorous explanations, but they show how a report can move from “unidentified” towards “probably ordinary” when investigators look for local causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thewest.com.au">[The West Australian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thewest.com.au</span><span class="citation-popover-snippet">Open source on com.au.</span></span></span>
 
-Other entries remained more stubborn. A 1974 Koolan Island report, from the north-west coast, involved five witnesses describing a bright circular light with a long reddish-white tail; two witnesses also described a cigar-shaped front section with lights underneath. Broome police reportedly noted similar sightings in Derby, and RAAF Pearce was sent the information. This is the kind of case where a cluster matters: multiple witnesses, a coastal-industrial setting, and nearby regional reports. But without a final technical identification, it still sits in the category of recorded but unresolved testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thewest.com.au">[The West Australian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thewest.com.au</span><span class="citation-popover-snippet">Open source on com.au.</span></span></span>
+Other entries remained more stubborn. A 1974 Koolan Island report, from the north-west coast, involved five witnesses describing a bright circular light with a long reddish-white tail; two witnesses also described a cigar-shaped front section with lights underneath. Broome police reportedly noted similar sightings in Derby, and RAAF Pearce was sent the information. This is the kind of case where a cluster matters: multiple witnesses, a coastal-industrial setting, and nearby regional reports. But without a final technical identification, it still sits in the category of recorded but unresolved testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thewest.com.au">[The West Australian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thewest.com.au</span><span class="citation-popover-snippet">Open source on com.au.</span></span></span>
 
-Modern WA sightings show that the same cluster logic still applies. In September 2025, ABC News reported strange lights across WA’s Mid West, with reports from the coast to inland locations such as Laverton, Mount Magnet and Cue. Perth Observatory checked flight radar and found no obvious aircraft activity, while Defence said there were no military training activities in the area. A Mid West Ports Authority harbour master suggested atmospheric refraction of ship lights as a possible explanation, but Perth Observatory noted that inland reports made a simple coastal-refraction explanation harder to accept. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+Modern WA sightings show that the same cluster logic still applies. In September 2025, ABC News reported strange lights across WA’s Mid West, with reports from the coast to inland locations such as Laverton, Mount Magnet and Cue. Perth Observatory checked flight radar and found no obvious aircraft activity, while Defence said there were no military training activities in the area. A Mid West Ports Authority harbour master suggested atmospheric refraction of ship lights as a possible explanation, but Perth Observatory noted that inland reports made a simple coastal-refraction explanation harder to accept.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
 That 2025 example is valuable because it mirrors the old police-file problem in a modern setting. There were multiple witnesses, wide geography, official checks and plausible natural or human-made explanations, yet no immediate agreed answer. The technology has improved, but the central question is much the same: are several reports describing one stimulus, several ordinary stimuli, or a social reporting wave?
 
@@ -340,11 +340,11 @@ That 2025 example is valuable because it mirrors the old police-file problem in 
 
 ## Why small-town trust could both help and hinder the record
 
-Small-town trust gave WA’s country UFO reports a seriousness they might not otherwise have had. In a rural police district, a constable might know whether a witness was steady, sober, publicity-seeking, frightened or usually sceptical. The State Library’s account specifically notes that some witnesses said they had previously been sceptical but were convinced by what they saw, and that some were genuinely frightened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">Open source on wa.gov.au.</span></span></span>
+Small-town trust gave WA’s country UFO reports a seriousness they might not otherwise have had. In a rural police district, a constable might know whether a witness was steady, sober, publicity-seeking, frightened or usually sceptical. The State Library’s account specifically notes that some witnesses said they had previously been sceptical but were convinced by what they saw, and that some were genuinely frightened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">Open source on wa.gov.au.</span></span></span>
 
 That local knowledge helped filter out weak claims, but it could also introduce its own biases. A respected farmer, ex-service pilot, teacher or long-term resident might be given more weight than an outsider. A witness described as a “teetotaller” could be treated as more credible because sobriety was a shorthand for reliability in the period. Those assessments are historically useful, but they are social judgements, not measurements.
 
-The Dalwallinu and Cunderdin cases show the best version of this system: named witnesses, local police follow-up, aviation or weather checks, and written forms. The weaker version appears when a report survives only as a newspaper paragraph, a recollection, or an official folder reference without the completed answers. The West Australian noted that in one early file entry, the reproduced form’s answer spaces were blank, limiting what later readers could infer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thewest.com.au">[The West Australian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thewest.com.au</span><span class="citation-popover-snippet">Open source on com.au.</span></span></span>
+The Dalwallinu and Cunderdin cases show the best version of this system: named witnesses, local police follow-up, aviation or weather checks, and written forms. The weaker version appears when a report survives only as a newspaper paragraph, a recollection, or an official folder reference without the completed answers. The West Australian noted that in one early file entry, the reproduced form’s answer spaces were blank, limiting what later readers could infer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thewest.com.au">[The West Australian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thewest.com.au</span><span class="citation-popover-snippet">Open source on com.au.</span></span></span>
 
 For modern readers, this means witness credibility should be treated as one layer of evidence. It can rule out some dismissive explanations, such as “they were making it up” or “no one responsible took it seriously”. It cannot by itself establish what was in the sky.
 
@@ -363,194 +363,194 @@ Country WA produced so many UFO reports because it combined dark skies, long dis
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Country WA Produced So Many UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Country WA Produced So Many UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how reports are evaluated and why some cases remain unidentified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how reports are evaluated and why some cases remain unidentified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on credible witnesses, official reports and the limits of evidence, closely matching the article&#x27;s themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on credible witnesses, official reports and the limits of evidence, closely matching the article&#x27;s themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines witness testimony, investigations and unresolved cases in a cautious investigative style.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness testimony, investigations and unresolved cases in a cautious investigative style.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides insight into official assessment of sightings and reporting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into official assessment of sightings and reporting patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="country-town-ufo-record-why-country-wa-produced-so-many-ufo-reports-western-australia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-country-wa-produced-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ Country WA produced so many UFO reports because it combined dark skies, long dis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ Country WA produced so many UFO reports because it combined dark skies, long dis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ Country WA produced so many UFO reports because it combined dark skies, long dis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ Country WA produced so many UFO reports because it combined dark skies, long dis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ Country WA produced so many UFO reports because it combined dark skies, long dis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,149 +756,149 @@ Country WA produced so many UFO reports because it combined dark skies, long dis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Australian UFO Files"  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: abs.gov.au  
-   Link: <a href="https://www.abs.gov.au/census/find-census-data/quickstats/2021/5GPER" target="_blank" rel="noopener noreferrer nofollow">https://www.abs.gov.au/census/find-census-data/quickstats/2021/5GPER</a>  
+   Link:<a href="https://www.abs.gov.au/census/find-census-data/quickstats/2021/5GPER" target="_blank" rel="noopener noreferrer nofollow">https://www.abs.gov.au/census/find-census-data/quickstats/2021/5GPER</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/history/western-australia" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/western-australia</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/history/western-australia" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/western-australia</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: slwa.wa.gov.au  
-   Link: <a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
+   Link:<a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abc.net.au  
    Title: ABC News'UFO file' sheds light on strange encounters in Western  
-   Link: <a href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372</a>  
+   Link:<a href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thedustybox.com  
    Title: The Dusty Box U.F.O. Files – The Dusty Box  
-   Link: <a href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow">https://thedustybox.com/2020/11/17/u-f-o-files/</a>  
+   Link:<a href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow">https://thedustybox.com/2020/11/17/u-f-o-files/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thewest.com.au  
-   Link: <a href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow">https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517</a>  
+   Link:<a href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow">https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264</a>  
+   Link:<a href="https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abc.net.au  
    Title: accessing australia secret ufo files  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Perth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perth</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Perth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perth</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Western Australia  
-   Link: <a href="https://en.wikipedia.org/wiki/Western_Australia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Western_Australia</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Western_Australia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Western_Australia</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: profile.id.com.au  
-   Link: <a href="https://profile.id.com.au/perth/about?WebID=230" target="_blank" rel="noopener noreferrer nofollow">https://profile.id.com.au/perth/about?WebID=230</a>  
+   Link:<a href="https://profile.id.com.au/perth/about?WebID=230" target="_blank" rel="noopener noreferrer nofollow">https://profile.id.com.au/perth/about?WebID=230</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: omi.wa.gov.au  
-   Link: <a href="https://www.omi.wa.gov.au/docs/librariesprovider2/statistics/022434omi-census-highlight-report-feb23---web-ready-2-%281%29.pdf?sfvrsn=3913e4d8_0" target="_blank" rel="noopener noreferrer nofollow">https://www.omi.wa.gov.au/docs/librariesprovider2/statistics/022434omi-census-highlight-report-feb23---web-ready-2-%281%29.pdf?sfvrsn=3913e4d8_0</a>  
+   Link:<a href="https://www.omi.wa.gov.au/docs/librariesprovider2/statistics/022434omi-census-highlight-report-feb23---web-ready-2-%281%29.pdf?sfvrsn=3913e4d8_0" target="_blank" rel="noopener noreferrer nofollow">https://www.omi.wa.gov.au/docs/librariesprovider2/statistics/022434omi-census-highlight-report-feb23---web-ready-2-%281%29.pdf?sfvrsn=3913e4d8_0</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: naa.gov.au  
    Title: flying saucers fact or fiction  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wa.gov.au  
-   Link: <a href="https://www.wa.gov.au/organisation/western-australia-police-force" target="_blank" rel="noopener noreferrer nofollow">https://www.wa.gov.au/organisation/western-australia-police-force</a>  
+   Link:<a href="https://www.wa.gov.au/organisation/western-australia-police-force" target="_blank" rel="noopener noreferrer nofollow">https://www.wa.gov.au/organisation/western-australia-police-force</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dodgyperth.com  
-   Link: <a href="https://dodgyperth.com/tag/dalwallinu/" target="_blank" rel="noopener noreferrer nofollow">https://dodgyperth.com/tag/dalwallinu/</a>  
+   Link:<a href="https://dodgyperth.com/tag/dalwallinu/" target="_blank" rel="noopener noreferrer nofollow">https://dodgyperth.com/tag/dalwallinu/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abs.gov.au  
    Title: Western Australia  
-   Link: <a href="https://www.abs.gov.au/AUSSTATS/abs%40.nsf/3d68c56307742d8fca257090002029cd/7f414deb0e4165adca256e3000025c0b/%24FILE/Western%20Australia%20-%20A%20Small%20Area%20Perspective_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.abs.gov.au/AUSSTATS/abs%40.nsf/3d68c56307742d8fca257090002029cd/7f414deb0e4165adca256e3000025c0b/%24FILE/Western%20Australia%20-%20A%20Small%20Area%20Perspective_1.pdf</a>  
+   Link:<a href="https://www.abs.gov.au/AUSSTATS/abs%40.nsf/3d68c56307742d8fca257090002029cd/7f414deb0e4165adca256e3000025c0b/%24FILE/Western%20Australia%20-%20A%20Small%20Area%20Perspective_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.abs.gov.au/AUSSTATS/abs%40.nsf/3d68c56307742d8fca257090002029cd/7f414deb0e4165adca256e3000025c0b/%24FILE/Western%20Australia%20-%20A%20Small%20Area%20Perspective_1.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: infrastructure.wa.gov.au  
-   Link: <a href="https://www.infrastructure.wa.gov.au/state-infrastructure-strategy/was-regions/perth-region" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure.wa.gov.au/state-infrastructure-strategy/was-regions/perth-region</a>  
+   Link:<a href="https://www.infrastructure.wa.gov.au/state-infrastructure-strategy/was-regions/perth-region" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure.wa.gov.au/state-infrastructure-strategy/was-regions/perth-region</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: parliament.wa.gov.au  
-   Link: <a href="https://www.parliament.wa.gov.au/intranet/libpages.nsf/WebFiles/ep%2B2025%2Bperth%2Bfull%2Bdoc/%24FILE/ep%2B2025%2Bperth%2Bfull%2Bdoc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.wa.gov.au/intranet/libpages.nsf/WebFiles/ep%2B2025%2Bperth%2Bfull%2Bdoc/%24FILE/ep%2B2025%2Bperth%2Bfull%2Bdoc.pdf</a>  
+   Link:<a href="https://www.parliament.wa.gov.au/intranet/libpages.nsf/WebFiles/ep%2B2025%2Bperth%2Bfull%2Bdoc/%24FILE/ep%2B2025%2Bperth%2Bfull%2Bdoc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.wa.gov.au/intranet/libpages.nsf/WebFiles/ep%2B2025%2Bperth%2Bfull%2Bdoc/%24FILE/ep%2B2025%2Bperth%2Bfull%2Bdoc.pdf</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DZP-x4Ko_JI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DZP-x4Ko_JI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Western Australia&quot; UFO police file witness credibility DARI UFO #Short Tribun Jogja Official...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DZP-x4Ko_JI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DZP-x4Ko_JI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Western Australia&quot; UFO police file witness credibility DARI UFO #Short Tribun Jogja Official...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Queensland's X-Files: UFO sightings in North Queensland  
-   Link: <a href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yM7YtfUhEWM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Australian UFO Archive: The Sea Fury, Maralinga, and the Valentich Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yM7YtfUhEWM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Australian UFO Archive: The Sea Fury, Maralinga, and the Valentich Mystery...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: BIZARRE UFO Sightings and Alien Encounters in Western Australia  
-   Link: <a href="https://www.youtube.com/watch?v=x0vrONvj-Bg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x0vrONvj-Bg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Queensland&#x27;s X-Files: UFO sightings in North Queensland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x0vrONvj-Bg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x0vrONvj-Bg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Queensland&#x27;s X-Files: UFO sightings in North Queensland...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: github.com  
-   Link: <a href="https://github.com/vishalshar/DataScience/blob/master/HW2/Fireball.csv" target="_blank" rel="noopener noreferrer nofollow">https://github.com/vishalshar/DataScience/blob/master/HW2/Fireball.csv</a>  
+   Link:<a href="https://github.com/vishalshar/DataScience/blob/master/HW2/Fireball.csv" target="_blank" rel="noopener noreferrer nofollow">https://github.com/vishalshar/DataScience/blob/master/HW2/Fireball.csv</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/</a>  
+   Link:<a href="https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/perthisok/videos/perth-ufo-sightings/915746570413733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/perthisok/videos/perth-ufo-sightings/915746570413733/</a>  
+   Link:<a href="https://www.facebook.com/perthisok/videos/perth-ufo-sightings/915746570413733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/perthisok/videos/perth-ufo-sightings/915746570413733/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  

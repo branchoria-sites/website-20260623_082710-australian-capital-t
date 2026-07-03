@@ -280,7 +280,7 @@ image: /assets/images/Tasmania_ef1772_bass_strait_aviation_9e955c-overview-socia
 
 ## Introduction
 
-Bass Strait keeps appearing in Tasmania’s UFO stories because it is both a real aviation corridor and a difficult place to interpret lights in the sky. Flights between [northern Tasmania]({{ 'northern-wave/' | relative_url }}), King Island and Melbourne put pilots over dark water, broken cloud, coastal lights, ships, islands and a horizon that can be hard to read, especially at dusk or at night. The result is a small but memorable cluster of aviation-linked reports: some are brief flashes that look like meteors or distant aircraft, some are later folklore wrapped around ordinary crashes, and one — Frederick Valentich’s 1978 disappearance — remains one of Australia’s most famous unresolved aviation mysteries. The strongest lesson is not that Bass Strait is a supernatural zone, but that its geography makes mistakes, uncertainty and dramatic interpretation more likely. Official and aviation-safety sources point to reduced visual cues, spatial [disorientation]({{ 'disorientation/' | relative_url }}), expectation and misidentified celestial objects as recurring explanations, while leaving a few historical reports unresolved because the evidence is too thin to close the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[National Archives of Australia+2ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+Bass Strait keeps appearing in Tasmania’s UFO stories because it is both a real aviation corridor and a difficult place to interpret lights in the sky. Flights between [northern Tasmania]({{ 'northern-wave/' | relative_url }}), King Island and Melbourne put pilots over dark water, broken cloud, coastal lights, ships, islands and a horizon that can be hard to read, especially at dusk or at night. The result is a small but memorable cluster of aviation-linked reports: some are brief flashes that look like meteors or distant aircraft, some are later folklore wrapped around ordinary crashes, and one — Frederick Valentich’s 1978 disappearance — remains one of Australia’s most famous unresolved aviation mysteries. The strongest lesson is not that Bass Strait is a supernatural zone, but that its geography makes mistakes, uncertainty and dramatic interpretation more likely. Official and aviation-safety sources point to reduced visual cues, spatial [disorientation]({{ 'disorientation/' | relative_url }}), expectation and misidentified celestial objects as recurring explanations, while leaving a few historical reports unresolved because the evidence is too thin to close the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[naa.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_bass_strait_aviation_9e955c-overview.webp" | relative_url }}" alt="Overview image for Air Routes" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ Bass Strait keeps appearing in Tasmania’s UFO stories because it is both a rea
 
 Bass Strait is not just a strip of water between [Tasmania]({{ 'what-really-happened-in-tasmanias-ufo/' | relative_url }}) and Victoria. For aviation history, it is a working route: Launceston, Devonport, Burnie, King Island, Flinders Island, Moorabbin, Essendon and Melbourne all sit inside the broader pattern of crossings and approaches that have linked Tasmania with the mainland for a century. That matters for UFO history because pilots and passengers often make their observations from moving aircraft, at altitude, over water, and under time pressure. A light that might be easy to interpret from a fixed ground position can become ambiguous when the observer is banking, descending, communicating with air traffic services or trying to maintain visual orientation.
 
-The Australian Transport Safety Bureau warns that visual-flight pilots need reliable visual cues to maintain orientation; darkness, cloud, rain, fog, smoke or haze can reduce those cues, and the same problem can occur at night even when forward visibility is technically good. The two risks it highlights are loss of orientation leading to loss of control, and controlled flight into terrain when the pilot cannot see enough to remain safely positioned. Over Bass Strait, the “terrain” may be black sea rather than land, but the human-factors problem is similar: without a clear horizon, the body can give false signals about attitude, speed and direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/flying-reduced-visual-cues" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-title">ATSBFlying with reduced visual cues &#124; ATSB</span><span class="citation-popover-snippet">ATSBFlying with reduced visual cues &#124; ATSB</span></span></span>
+The Australian Transport Safety Bureau warns that visual-flight pilots need reliable visual cues to maintain orientation; darkness, cloud, rain, fog, smoke or haze can reduce those cues, and the same problem can occur at night even when forward visibility is technically good. The two risks it highlights are loss of orientation leading to loss of control, and controlled flight into terrain when the pilot cannot see enough to remain safely positioned. Over Bass Strait, the “terrain” may be black sea rather than land, but the human-factors problem is similar: without a clear horizon, the body can give false signals about attitude, speed and direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/flying-reduced-visual-cues" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-title">ATSBFlying with reduced visual cues &#124; ATSB</span><span class="citation-popover-snippet">ATSBFlying with reduced visual cues &#124; ATSB</span></span></span>
 
-That is why Bass Strait sightings should be read as aviation reports first and UFO stories second. A pilot may be a better-than-average observer of aircraft behaviour, but that does not make them immune to optical illusion, expectation, distraction, fatigue or the limits of night vision. The National Archives of Australia makes the same broad point in its discussion of Australian UFO files: many reports were identified as aircraft or ordinary celestial objects, with the Moon and Venus recurring as [explanations]({{ 'explanations-0349ac/' | relative_url }}), while reports by trained defence or aviation [witnesses]({{ 'witnesses-e9d9f7/' | relative_url }}) were treated more seriously because they could carry safety or security implications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[National Archives of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+That is why Bass Strait sightings should be read as aviation reports first and UFO stories second. A pilot may be a better-than-average observer of aircraft behaviour, but that does not make them immune to optical illusion, expectation, distraction, fatigue or the limits of night vision. The National Archives of Australia makes the same broad point in its discussion of Australian UFO files: many reports were identified as aircraft or ordinary celestial objects, with the Moon and Venus recurring as [explanations]({{ 'explanations-0349ac/' | relative_url }}), while reports by trained defence or aviation [witnesses]({{ 'witnesses-e9d9f7/' | relative_url }}) were treated more seriously because they could carry safety or security implications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[National Archives of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_bass_strait_aviation_9e955c-Illustration-1-dark.svg" | relative_url }}" alt="Air Routes illustration 1" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_bass_strait_aviation_9e955c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_bass_strait_aviation_9e955c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -298,11 +298,11 @@ That is why Bass Strait sightings should be read as aviation reports first and U
 
 The Launceston–Melbourne corridor is important because it appears in several Bass Strait-linked aviation narratives, but the reports are not all of the same quality. Some are ordinary aviation accidents later folded into “mystery triangle” writing; others are short pilot observations recorded in UFO catalogues and archival references; only a few have enough detail to support careful analysis.
 
-One example often dragged into Bass Strait mystery writing is the disappearance of the de Havilland DH.86 airliner [Miss Hobart]({{ 'miss-hobart/' | relative_url }}) on 19 October 1934 during a Launceston-to-Melbourne flight. Modern heritage material treats it as an aviation loss: the aircraft carried two crew and nine passengers, disappeared near Wilsons Promontory, and inspired Dr David Warren — whose father was aboard — in his later work on the flight recorder, commonly known as the black box. Heritage Victoria’s submerged aircraft wrecks programme presents the case in aviation-history terms, not as a UFO encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heritage.vic.gov.au/our-programs-and-initiatives/submerged-aircraft-wrecks-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heritage.vic.gov.au">[Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heritage.vic.gov.au</span><span class="citation-popover-title">Heritage Submerged aircraft wrecks program</span><span class="citation-popover-snippet">Heritage Submerged aircraft wrecks program</span></span></span>
+One example often dragged into Bass Strait mystery writing is the disappearance of the de Havilland DH.86 airliner [Miss Hobart]({{ 'miss-hobart/' | relative_url }}) on 19 October 1934 during a Launceston-to-Melbourne flight. Modern heritage material treats it as an aviation loss: the aircraft carried two crew and nine passengers, disappeared near Wilsons Promontory, and inspired Dr David Warren — whose father was aboard — in his later work on the flight recorder, commonly known as the black box. Heritage Victoria’s submerged aircraft wrecks programme presents the case in aviation-history terms, not as a UFO encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heritage.vic.gov.au/our-programs-and-initiatives/submerged-aircraft-wrecks-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heritage.vic.gov.au">[Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heritage.vic.gov.au</span><span class="citation-popover-title">Heritage Submerged aircraft wrecks program</span><span class="citation-popover-snippet">Heritage Submerged aircraft wrecks program</span></span></span>
 
-The UFO connection to Miss Hobart appears to be a later overlay rather than a contemporary evidential claim. A specialist catalogue at “UFOs at close sight” argues that the story’s later reputation rests partly on the post-[Valentich]({{ 'valentich/' | relative_url }}) idea of a Bass Strait equivalent of the Bermuda Triangle, and notes that debris was reported in newspapers after the crash, weakening the claim that the event was a clean vanishing surrounded by unexplained aerial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufologie.patrickgross.org/acufo/1934-10-19-victoria.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
+The UFO connection to Miss Hobart appears to be a later overlay rather than a contemporary evidential claim. A specialist catalogue at “UFOs at close sight” argues that the story’s later reputation rests partly on the post-[Valentich]({{ 'valentich/' | relative_url }}) idea of a Bass Strait equivalent of the Bermuda Triangle, and notes that debris was reported in newspapers after the crash, weakening the claim that the event was a clean vanishing surrounded by unexplained aerial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufologie.patrickgross.org/acufo/1934-10-19-victoria.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
 
-More directly relevant are the short reports listed by Australian UFO researcher Keith Basterfield from archival and UFO-research sources. His catalogue records a 12 October 1959 report near Wonthaggi in which a “brilliant flash” in the western sky was seen from an ANA aircraft on the Launceston-to-Melbourne route; it is described by elevation and bearing, and the source is given as a National Archives of Australia file. A month later, on 11 November 1959 near Rosebud, an airline pilot on the Melbourne–Launceston route reported a brilliant blue flash with a blue trail to the southern horizon, lasting several minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">AUSTRALIAN UAP REPORTS - Updated June 3, 2016...</span><span class="citation-popover-meta">Published: June 3, 2016</span></span></span>
+More directly relevant are the short reports listed by Australian UFO researcher Keith Basterfield from archival and UFO-research sources. His catalogue records a 12 October 1959 report near Wonthaggi in which a “brilliant flash” in the western sky was seen from an ANA aircraft on the Launceston-to-Melbourne route; it is described by elevation and bearing, and the source is given as a National Archives of Australia file. A month later, on 11 November 1959 near Rosebud, an airline pilot on the Melbourne–Launceston route reported a brilliant blue flash with a blue trail to the southern horizon, lasting several minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">AUSTRALIAN UAP REPORTS - Updated June 3, 2016...</span><span class="citation-popover-meta">Published: June 3, 2016</span></span></span>
 
 Those reports are useful because they show the pattern without overstating it. They are pilot observations, they involve Tasmanian-mainland air routes, and they were considered notable enough to be catalogued. But they are also brief, light-based events with limited public detail. A brilliant flash, a trail, a bearing and a duration are exactly the kind of record that may point to a meteor, space debris, atmospheric effect or distant aircraft, yet may remain “unidentified” in the archival sense because no definitive matching object was logged.
 
@@ -311,9 +311,9 @@ Those reports are useful because they show the pattern without overstating it. T
 
 ## The 1944 Beaufort “shadow” report: memorable but doubtful
 
-One of the more dramatic Bass Strait pilot stories is the alleged February 1944 Beaufort bomber incident. In the version circulated in UFO literature, T. R. H. Royal was piloting a Beaufort over Bass Strait when a dark “shadow” kept pace with the aircraft for 18 to 20 minutes, showed a flickering light, seemed to emit flames from the rear, and then accelerated away. The same account says radio and direction-finding equipment malfunctioned during the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://data0.eklablog.com/scienceetovnis/perso/project%201947.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data0.eklablog.com">[Eklablog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data0.eklablog.com</span><span class="citation-popover-title">project 1947</span><span class="citation-popover-snippet">project 1947</span></span></span>
+One of the more dramatic Bass Strait pilot stories is the alleged February 1944 Beaufort bomber incident. In the version circulated in UFO literature, T. R. H. Royal was piloting a Beaufort over Bass Strait when a dark “shadow” kept pace with the aircraft for 18 to 20 minutes, showed a flickering light, seemed to emit flames from the rear, and then accelerated away. The same account says radio and direction-finding equipment malfunctioned during the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://data0.eklablog.com/scienceetovnis/perso/project%201947.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data0.eklablog.com">[Eklablog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data0.eklablog.com</span><span class="citation-popover-title">project 1947</span><span class="citation-popover-snippet">project 1947</span></span></span>
 
-On its face, that sounds like a classic wartime “foo fighter” style report: a military aircraft, an object pacing it, equipment trouble and a sudden departure. But the case is also a good example of why Tasmanian and Bass Strait UFO material needs source discipline. Basterfield’s later catalogue notes that a search of National Archives material suggested Royal was not a pilot at the time the incident was said to have occurred, and that no contemporary account had been located. His online catalogue similarly says there is doubt because the source is much later and the service-record check does not comfortably support the claimed flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">AUSTRALIAN UAP REPORTS - Updated June 3, 2016...</span><span class="citation-popover-meta">Published: June 3, 2016</span></span></span>
+On its face, that sounds like a classic wartime “foo fighter” style report: a military aircraft, an object pacing it, equipment trouble and a sudden departure. But the case is also a good example of why Tasmanian and Bass Strait UFO material needs source discipline. Basterfield’s later catalogue notes that a search of National Archives material suggested Royal was not a pilot at the time the incident was said to have occurred, and that no contemporary account had been located. His online catalogue similarly says there is doubt because the source is much later and the service-record check does not comfortably support the claimed flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">AUSTRALIAN UAP REPORTS - Updated June 3, 2016...</span><span class="citation-popover-meta">Published: June 3, 2016</span></span></span>
 
 The fairest reading is therefore cautious. The 1944 story belongs in a Bass Strait aviation-sighting page because it has become part of the route’s UFO tradition, but it should not be presented as a strong case. Its value is mainly historiographical: it shows how a striking aviation tale can survive in UFO catalogues even when later archival checking weakens the witness-and-flight foundation.
 
@@ -321,11 +321,11 @@ The fairest reading is therefore cautious. The 1944 story belongs in a Bass Stra
 <img src="{{ "/assets/images/Tasmania_ef1772_bass_strait_aviation_9e955c-Illustration-2-dark.svg" | relative_url }}" alt="Air Routes illustration 2" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_bass_strait_aviation_9e955c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_bass_strait_aviation_9e955c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Frederick Valentich and the case that fixed Bass Strait in UFO memory
 
-The Valentich disappearance is the reason Bass Strait became internationally familiar in UFO writing. On 21 October 1978, 20-year-old private pilot Frederick Valentich departed Moorabbin in a Cessna 182L, registration VH-DSJ, for King Island. The official Department of Transport accident summary records his intended route, the aircraft type, his approximate 150 total flying hours, his private licence, and his authorisation to operate at night in visual meteorological conditions. It also records that he had obtained a weather briefing, filed a night flight plan and departed Moorabbin at 1819 hours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/sites/default/files/investigation-reports/197802563.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-snippet">Open source on atsb.gov.au.</span></span></span>
+The Valentich disappearance is the reason Bass Strait became internationally familiar in UFO writing. On 21 October 1978, 20-year-old private pilot Frederick Valentich departed Moorabbin in a Cessna 182L, registration VH-DSJ, for King Island. The official Department of Transport accident summary records his intended route, the aircraft type, his approximate 150 total flying hours, his private licence, and his authorisation to operate at night in visual meteorological conditions. It also records that he had obtained a weather briefing, filed a night flight plan and departed Moorabbin at 1819 hours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/sites/default/files/investigation-reports/197802563.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-snippet">Open source on atsb.gov.au.</span></span></span>
 
-The extraordinary part is the radio transcript. At 1906, Valentich asked Melbourne Flight Service whether there was known traffic below 5,000 feet. He then described what seemed to him like a large aircraft, four bright lights or landing lights, an object passing at speed, and no known Air Force aircraft in the vicinity. As the exchange continued, he said it was “not an aircraft”, described a long shape, reported something stationary or orbiting above him, and mentioned a green light and a shiny or metallic appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/sites/default/files/investigation-reports/197802563.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-snippet">Open source on atsb.gov.au.</span></span></span>
+The extraordinary part is the radio transcript. At 1906, Valentich asked Melbourne Flight Service whether there was known traffic below 5,000 feet. He then described what seemed to him like a large aircraft, four bright lights or landing lights, an object passing at speed, and no known Air Force aircraft in the vicinity. As the exchange continued, he said it was “not an aircraft”, described a long shape, reported something stationary or orbiting above him, and mentioned a green light and a shiny or metallic appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/sites/default/files/investigation-reports/197802563.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-snippet">Open source on atsb.gov.au.</span></span></span>
 
-The final official page is stark. Valentich reported rough idling, said his intention was to continue to King Island, then said the “strange aircraft” was hovering above him again and was “not an aircraft”. After 17 seconds of open microphone, there were no further transmissions. The report states that the Cape Otway area weather was clear, visibility excellent and winds light; search-and-rescue procedures were activated, an intensive air, sea and land search continued until 25 October, and no trace of the aircraft was found. The official opinion as to cause was: “The reason for the disappearance of the aircraft has not been determined.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/sites/default/files/investigation-reports/197802563.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-snippet">Open source on atsb.gov.au.</span></span></span>
+The final official page is stark. Valentich reported rough idling, said his intention was to continue to King Island, then said the “strange aircraft” was hovering above him again and was “not an aircraft”. After 17 seconds of open microphone, there were no further transmissions. The report states that the Cape Otway area weather was clear, visibility excellent and winds light; search-and-rescue procedures were activated, an intensive air, sea and land search continued until 25 October, and no trace of the aircraft was found. The official opinion as to cause was: “The reason for the disappearance of the aircraft has not been determined.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/sites/default/files/investigation-reports/197802563.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-snippet">Open source on atsb.gov.au.</span></span></span>
 
 That official wording matters. It does not validate an extraterrestrial explanation, but it also does not reduce the event to a proven simple crash scenario. It leaves the disappearance unresolved in the formal aviation sense: the aircraft and pilot were presumed lost, the cause was not determined, and the radio exchange gave the case a lasting UFO significance.
 
@@ -336,11 +336,11 @@ That official wording matters. It does not validate an extraterrestrial explanat
 
 The Valentich case has two very different afterlives. UFO-oriented accounts emphasise the recorded voice of a pilot reporting an unknown object, the lack of wreckage, the open-microphone sounds, and later reports from people who said they saw unusual lights around Bass Strait or nearby coastal areas. Sceptical and aviation-safety accounts focus on the pilot’s relative inexperience, the night-over-water environment, distraction, possible spatial disorientation, and the possibility that bright planets or stars were misread as a structured object.
 
-The National Archives summary leans toward the prosaic interpretation. It notes that Valentich was a UFO enthusiast, that he had reported a sighting previously, and that Venus, Mars, Jupiter and Antares were highly visible in a diamond-like formation at the time. Its suggested mechanism is that a striking celestial arrangement, combined with inexperience, may have led him to imagine a craft above him and become fatally distracted from his instruments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[National Archives of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+The National Archives summary leans toward the prosaic interpretation. It notes that Valentich was a UFO enthusiast, that he had reported a sighting previously, and that Venus, Mars, Jupiter and Antares were highly visible in a diamond-like formation at the time. Its suggested mechanism is that a striking celestial arrangement, combined with inexperience, may have led him to imagine a craft above him and become fatally distracted from his instruments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[National Archives of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
-A more detailed sceptical reconstruction by James McGaha and Joe Nickell argues that Valentich could have connected four bright celestial points into a perceived shape, interpreted the “green light” through confusion or aircraft navigation-light effects, and then become spatially disorientated. They propose a spiral-dive scenario, noting that the final rough-running engine report could fit high forces or fuel-flow interruption in unusual attitude. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
+A more detailed sceptical reconstruction by James McGaha and Joe Nickell argues that Valentich could have connected four bright celestial points into a perceived shape, interpreted the “green light” through confusion or aircraft navigation-light effects, and then become spatially disorientated. They propose a spiral-dive scenario, noting that the final rough-running engine report could fit high forces or fuel-flow interruption in unusual attitude.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
-CASA’s Flight Safety Australia article takes a similar safety-first line without pretending that every detail is solved. It says expectation bias, spatial disorientation and pilot distraction are real hazards, and quotes the same celestial-object explanation while also acknowledging that the mystery remains open to projection because different observers emphasise different facts. Its practical lesson is not “there was no mystery”, but that cross-checking, trusting instruments, prioritising aircraft control and flight planning are the boring safeguards that matter when a pilot’s attention is captured by something outside the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Flight Safety Australia Leaving this world &#124; Flight Safety Australia</span><span class="citation-popover-snippet">Flight Safety Australia Leaving this world &#124; Flight Safety Australia</span></span></span>
+CASA’s Flight Safety Australia article takes a similar safety-first line without pretending that every detail is solved. It says expectation bias, spatial disorientation and pilot distraction are real hazards, and quotes the same celestial-object explanation while also acknowledging that the mystery remains open to projection because different observers emphasise different facts. Its practical lesson is not “there was no mystery”, but that cross-checking, trusting instruments, prioritising aircraft control and flight planning are the boring safeguards that matter when a pilot’s attention is captured by something outside the aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Flight Safety Australia Leaving this world &#124; Flight Safety Australia</span><span class="citation-popover-snippet">Flight Safety Australia Leaving this world &#124; Flight Safety Australia</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_bass_strait_aviation_9e955c-Illustration-3-dark.svg" | relative_url }}" alt="Air Routes illustration 3" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_bass_strait_aviation_9e955c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_bass_strait_aviation_9e955c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -348,11 +348,11 @@ CASA’s Flight Safety Australia article takes a similar safety-first line witho
 
 Across the Bass Strait aviation reports, the most plausible explanations are usually mundane but not always provable. The category “UFO” here often means “not identified from the surviving information”, not “physically extraordinary”. The likely explanation depends on the report type.
 
-For a brilliant flash or short-lived trail seen from an aircraft, a meteor or re-entering debris is often a stronger first hypothesis than a machine flying near the aircraft. The 1959 Launceston–Melbourne and Melbourne–Launceston entries are brief enough that this kind of explanation remains plausible, especially because the descriptions centre on flashes, trails and apparent direction rather than sustained manoeuvring around the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">AUSTRALIAN UAP REPORTS - Updated June 3, 2016...</span><span class="citation-popover-meta">Published: June 3, 2016</span></span></span>
+For a brilliant flash or short-lived trail seen from an aircraft, a meteor or re-entering debris is often a stronger first hypothesis than a machine flying near the aircraft. The 1959 Launceston–Melbourne and Melbourne–Launceston entries are brief enough that this kind of explanation remains plausible, especially because the descriptions centre on flashes, trails and apparent direction rather than sustained manoeuvring around the aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">AUSTRALIAN UAP REPORTS - Updated June 3, 2016...</span><span class="citation-popover-meta">Published: June 3, 2016</span></span></span>
 
-For a light that seems to pace, orbit or hover, the explanation may involve relative motion. A star, planet, distant aircraft, ship light or coastal light can appear to change position when the observer’s aircraft turns, climbs or banks. Over water, the absence of nearby fixed references makes this worse. ATSB’s warning about reduced visual cues is directly relevant: pilots under visual flight rules need outside references to know which way is up, and night can remove those references even when the air itself is clear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/flying-reduced-visual-cues" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-title">ATSBFlying with reduced visual cues &#124; ATSB</span><span class="citation-popover-snippet">ATSBFlying with reduced visual cues &#124; ATSB</span></span></span>
+For a light that seems to pace, orbit or hover, the explanation may involve relative motion. A star, planet, distant aircraft, ship light or coastal light can appear to change position when the observer’s aircraft turns, climbs or banks. Over water, the absence of nearby fixed references makes this worse. ATSB’s warning about reduced visual cues is directly relevant: pilots under visual flight rules need outside references to know which way is up, and night can remove those references even when the air itself is clear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/flying-reduced-visual-cues" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-title">ATSBFlying with reduced visual cues &#124; ATSB</span><span class="citation-popover-snippet">ATSBFlying with reduced visual cues &#124; ATSB</span></span></span>
 
-For longer, more dramatic stories, the best question is not “what was the object?” but “how good is the chain of evidence?” The 1944 Beaufort “shadow” report is striking, but later file checks cast doubt on the claimed flight context. The 1934 Miss Hobart loss is a real Bass Strait aviation tragedy, but the UFO aura around it appears to be retrospective rather than grounded in a strong contemporary sighting record. The Valentich disappearance, by contrast, has official documentation and a radio transcript, which is why it deserves more careful attention even when sceptical explanations are persuasive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://data0.eklablog.com/scienceetovnis/perso/project%201947.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data0.eklablog.com">[ATSB+3Eklablog+3Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data0.eklablog.com</span><span class="citation-popover-title">project 1947</span><span class="citation-popover-snippet">project 1947</span></span></span>
+For longer, more dramatic stories, the best question is not “what was the object?” but “how good is the chain of evidence?” The 1944 Beaufort “shadow” report is striking, but later file checks cast doubt on the claimed flight context. The 1934 Miss Hobart loss is a real Bass Strait aviation tragedy, but the UFO aura around it appears to be retrospective rather than grounded in a strong contemporary sighting record. The Valentich disappearance, by contrast, has official documentation and a radio transcript, which is why it deserves more careful attention even when sceptical explanations are persuasive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://data0.eklablog.com/scienceetovnis/perso/project%201947.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data0.eklablog.com">[eklablog.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data0.eklablog.com</span><span class="citation-popover-title">project 1947</span><span class="citation-popover-snippet">project 1947</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uDABl_N02iU" title="The 1960 Tasmanian Cressy Cigar UFO Sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uDABl_N02iU" target="_blank" rel="noopener noreferrer">The 1960 Tasmanian Cressy Cigar UFO Sighting</a></p><p class="youtube-embed-meta">Channel: Street of Silence</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uDABl_N02iU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uDABl_N02iU">Open on YouTube</a></p></div></div></div>
@@ -366,194 +366,194 @@ The pattern also helps separate stronger cases from weaker ones. A report is str
 For readers trying to understand Tasmania’s UFO record, Bass Strait is best treated as a mechanism rather than a magic place. It creates the conditions in which aircraft, meteors, planets, coastal lights, ships, cloud, darkness and human perception can combine into reports that feel vivid and sincere. Some are probably explainable. Some are too poorly documented to resolve. Valentich remains the exceptional case because a pilot disappeared while reporting something he could not identify, and the official investigation could not determine why.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Pilots Keep Entering Tasmania&#x27;s UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Pilots Keep Entering Tasmania&#x27;s UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a balanced investigation framework for UFO reports, fitting discussions of pilot observations, misidentifications, and the Valen...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a balanced investigation framework for UFO reports, fitting discussions of pilot observations, misidentifications, and the Valen...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating witness reports and mistaken observations, matching the article&#x27;s emphasis on interpreting aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating witness reports and mistaken observations, matching the article&#x27;s emphasis on interpreting aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Includes discussion of Australian UFO history and official responses, useful context for Bass Strait stories and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of Australian UFO history and official responses, useful context for Bass Strait stories and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
-        </h4>
-        <p class="fr-book-author">By Ernest K Gann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
+</h4>
+<p class="fr-book-author">By Ernest K Gann</p>
         
-        <p class="fr-book-desc">Explores pilot perception, weather, navigation, and uncertainty in flight—core themes behind many Bass Strait sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores pilot perception, weather, navigation, and uncertainty in flight—core themes behind many Bass Strait sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Map of Tasmania 1831 - Vintage Tasmania Art Wall Decor"><img src="{{ '/assets/images/marketplace-covers/ccfed8fbe614c1d934ae.jpg' | relative_url }}" alt="Listing image for Old Map of Tasmania 1831 - Vintage Tasmania Art Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Map of Tasmania 1831 - Vintage Tasmania Art Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Map of Tasmania 1831 - Vintage Tasmania Art Wall Decor"><img src="{{ '/assets/images/marketplace-covers/ccfed8fbe614c1d934ae.jpg' | relative_url }}" alt="Listing image for Old Map of Tasmania 1831 - Vintage Tasmania Art Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Map of Tasmania 1831 - Vintage Tasmania Art Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876"><img src="{{ '/assets/images/marketplace-covers/c7c0b466707cc4242e56.jpg' | relative_url }}" alt="Listing image for TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876"><img src="{{ '/assets/images/marketplace-covers/c7c0b466707cc4242e56.jpg' | relative_url }}" alt="Listing image for TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Map of Tasmania 1832 - Vintage Tasmania Art Wall Decor"><img src="{{ '/assets/images/marketplace-covers/1688d1118569e36e2663.jpg' | relative_url }}" alt="Listing image for Old Map of Tasmania 1832 - Vintage Tasmania Art Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Map of Tasmania 1832 - Vintage Tasmania Art Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Map of Tasmania 1832 - Vintage Tasmania Art Wall Decor"><img src="{{ '/assets/images/marketplace-covers/1688d1118569e36e2663.jpg' | relative_url }}" alt="Listing image for Old Map of Tasmania 1832 - Vintage Tasmania Art Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Map of Tasmania 1832 - Vintage Tasmania Art Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tasmania Map Poster Print Unframed Tasmania Australia Art Modern Wall Print"><img src="{{ '/assets/images/marketplace-covers/7d2e085543d514a91fd5.jpg' | relative_url }}" alt="Listing image for Tasmania Map Poster Print Unframed Tasmania Australia Art Modern Wall Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Tasmania Map Poster Print Unframed Tasmania Australia Art Modern Wall Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tasmania Map Poster Print Unframed Tasmania Australia Art Modern Wall Print"><img src="{{ '/assets/images/marketplace-covers/7d2e085543d514a91fd5.jpg' | relative_url }}" alt="Listing image for Tasmania Map Poster Print Unframed Tasmania Australia Art Modern Wall Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Tasmania Map Poster Print Unframed Tasmania Australia Art Modern Wall Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="air-routes-why-pilots-keep-entering-tasmania-s-ufo-stories-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ For readers trying to understand Tasmania’s UFO record, Bass Strait is best tr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ For readers trying to understand Tasmania’s UFO record, Bass Strait is best tr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ For readers trying to understand Tasmania’s UFO record, Bass Strait is best tr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ For readers trying to understand Tasmania’s UFO record, Bass Strait is best tr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ For readers trying to understand Tasmania’s UFO record, Bass Strait is best tr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,182 +759,182 @@ For readers trying to understand Tasmania’s UFO record, Bass Strait is best tr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: atsb.gov.au  
    Title: ATSBFlying with reduced visual cues | ATSB  
-   Link: <a href="https://www.atsb.gov.au/flying-reduced-visual-cues" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/flying-reduced-visual-cues</a>  
+   Link:<a href="https://www.atsb.gov.au/flying-reduced-visual-cues" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/flying-reduced-visual-cues</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/sites/default/files/investigation-reports/197802563.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/investigation-reports/197802563.pdf</a>  
+   Link:<a href="https://www.atsb.gov.au/sites/default/files/investigation-reports/197802563.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/investigation-reports/197802563.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AUSTRALIAN UAP REPORTS - Updated June 3, 2016...</p></details>
+   Link:<a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AUSTRALIAN UAP REPORTS - Updated June 3, 2016...</p></details>
    Published: June 3, 2016  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: data0.eklablog.com  
    Title: project 1947  
-   Link: <a href="https://data0.eklablog.com/scienceetovnis/perso/project%201947.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data0.eklablog.com/scienceetovnis/perso/project%201947.pdf</a>  
+   Link:<a href="https://data0.eklablog.com/scienceetovnis/perso/project%201947.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data0.eklablog.com/scienceetovnis/perso/project%201947.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/wikibase/wiki.php?id=166155" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/wiki.php?id=166155</a>  
+   Link:<a href="https://aviation-safety.net/wikibase/wiki.php?id=166155" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/wiki.php?id=166155</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/hfo/windbarbinfo" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/windbarbinfo</a>  
+   Link:<a href="https://www.weather.gov/hfo/windbarbinfo" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/windbarbinfo</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: naa.gov.au  
    Title: National Archives of Australia Flying saucers – fact or fiction? | naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: heritage.vic.gov.au  
    Title: Heritage Submerged aircraft wrecks program  
-   Link: <a href="https://www.heritage.vic.gov.au/our-programs-and-initiatives/submerged-aircraft-wrecks-program" target="_blank" rel="noopener noreferrer nofollow">https://www.heritage.vic.gov.au/our-programs-and-initiatives/submerged-aircraft-wrecks-program</a>  
+   Link:<a href="https://www.heritage.vic.gov.au/our-programs-and-initiatives/submerged-aircraft-wrecks-program" target="_blank" rel="noopener noreferrer nofollow">https://www.heritage.vic.gov.au/our-programs-and-initiatives/submerged-aircraft-wrecks-program</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/acufo/1934-10-19-victoria.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/acufo/1934-10-19-victoria.htm</a>  
+   Link:<a href="https://www.ufologie.patrickgross.org/acufo/1934-10-19-victoria.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/acufo/1934-10-19-victoria.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
+   Link:<a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: flightsafetyaustralia.com  
    Title: Flight Safety Australia Leaving this world | Flight Safety Australia  
-   Link: <a href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/</a>  
+   Link:<a href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/explore-collection" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection</a>  
+   Link:<a href="https://www.naa.gov.au/explore-collection" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/sites/default/files/media/29971/b20070063.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/media/29971/b20070063.pdf</a>  
+   Link:<a href="https://www.atsb.gov.au/sites/default/files/media/29971/b20070063.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/media/29971/b20070063.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: atsb.gov.au  
    Title: spatial disorientation after losing visual reference  
-   Link: <a href="https://www.atsb.gov.au/news/2025/spatial-disorientation-after-losing-visual-reference" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/news/2025/spatial-disorientation-after-losing-visual-reference</a>  
+   Link:<a href="https://www.atsb.gov.au/news/2025/spatial-disorientation-after-losing-visual-reference" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/news/2025/spatial-disorientation-after-losing-visual-reference</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: patreon.com  
    Title: Frederick Valentich  
-   Link: <a href="https://www.patreon.com/posts/frederick-flight-155644059" target="_blank" rel="noopener noreferrer nofollow">https://www.patreon.com/posts/frederick-flight-155644059</a>  
+   Link:<a href="https://www.patreon.com/posts/frederick-flight-155644059" target="_blank" rel="noopener noreferrer nofollow">https://www.patreon.com/posts/frederick-flight-155644059</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/shipping-forecast" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/shipping-forecast</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/shipping-forecast" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/specialist-forecasts/coast-and-sea/shipping-forecast</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: casa.gov.au  
    Title: visual flight rules guide  
-   Link: <a href="https://www.casa.gov.au/sites/default/files/2022-02/visual-flight-rules-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/sites/default/files/2022-02/visual-flight-rules-guide.pdf</a>  
+   Link:<a href="https://www.casa.gov.au/sites/default/files/2022-02/visual-flight-rules-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/sites/default/files/2022-02/visual-flight-rules-guide.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: casa.gov.au  
-   Link: <a href="https://www.casa.gov.au/sites/default/files/2021-06/safety-behaviours-human-factor-for-pilots-9-human-information-processing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/sites/default/files/2021-06/safety-behaviours-human-factor-for-pilots-9-human-information-processing.pdf</a>  
+   Link:<a href="https://www.casa.gov.au/sites/default/files/2021-06/safety-behaviours-human-factor-for-pilots-9-human-information-processing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/sites/default/files/2021-06/safety-behaviours-human-factor-for-pilots-9-human-information-processing.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: casa.gov.au  
-   Link: <a href="https://www.casa.gov.au/sites/default/files/2024-07/avsafety-spatial-disorientation-card.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/sites/default/files/2024-07/avsafety-spatial-disorientation-card.pdf</a>  
+   Link:<a href="https://www.casa.gov.au/sites/default/files/2024-07/avsafety-spatial-disorientation-card.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/sites/default/files/2024-07/avsafety-spatial-disorientation-card.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: bom.gov.au  
-   Link: <a href="https://www.bom.gov.au/marine/wind.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/marine/wind.shtml</a>  
+   Link:<a href="https://www.bom.gov.au/marine/wind.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/marine/wind.shtml</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/6150730" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/6150730</a>  
+   Link:<a href="https://catalogue.nla.gov.au/catalog/6150730" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/6150730</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/122408572" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/122408572</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/122408572" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/122408572</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: iheart.com  
    Title: Frederick Valentich  
-   Link: <a href="https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-flight--330281511/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-flight--330281511/</a>  
+   Link:<a href="https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-flight--330281511/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-flight--330281511/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: iheart.com  
    Title: Frederick Valentich  
-   Link: <a href="https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-unanswered--330573444/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-unanswered--330573444/</a>  
+   Link:<a href="https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-unanswered--330573444/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-unanswered--330573444/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dasa.defence.gov.au  
    Title: defence.gov.au SPATIA L DISORIENTATION  
-   Link: <a href="https://dasa.defence.gov.au/sites/default/files/Spotlight_EDT_0125.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dasa.defence.gov.au/sites/default/files/Spotlight_EDT_0125.pdf</a>  
+   Link:<a href="https://dasa.defence.gov.au/sites/default/files/Spotlight_EDT_0125.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dasa.defence.gov.au/sites/default/files/Spotlight_EDT_0125.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: flightsafetyaustralia.com  
    Title: visual flight rules quiz summer 2025 26  
-   Link: <a href="https://www.flightsafetyaustralia.com/2026/02/visual-flight-rules-quiz-summer-2025-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2026/02/visual-flight-rules-quiz-summer-2025-26/</a>  
+   Link:<a href="https://www.flightsafetyaustralia.com/2026/02/visual-flight-rules-quiz-summer-2025-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2026/02/visual-flight-rules-quiz-summer-2025-26/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: flightsafetyaustralia.com  
    Title: dont believe your ears 2  
-   Link: <a href="https://www.flightsafetyaustralia.com/2018/01/dont-believe-your-ears-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2018/01/dont-believe-your-ears-2/</a>  
+   Link:<a href="https://www.flightsafetyaustralia.com/2018/01/dont-believe-your-ears-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2018/01/dont-believe-your-ears-2/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: flightsafety.org  
    Title: wrong turn  
-   Link: <a href="https://flightsafety.org/asw-article/wrong-turn/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/asw-article/wrong-turn/</a>  
+   Link:<a href="https://flightsafety.org/asw-article/wrong-turn/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/asw-article/wrong-turn/</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: UFOs or PILOT error? | The Disappearance of Frederick Valentich  
-   Link: <a href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6LNnWxi_lw4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pilot Who Vanished After Reporting a UFO - Fred Valentich...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6LNnWxi_lw4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pilot Who Vanished After Reporting a UFO - Fred Valentich...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: 665 // Frederick Valentich  
-   Link: <a href="https://www.youtube.com/watch?v=AA_JueUmgqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AA_JueUmgqM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pilot Who Vanished in Seconds —The Haunting Last Transmission of Frederick Valentich! #atc...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AA_JueUmgqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AA_JueUmgqM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pilot Who Vanished in Seconds —The Haunting Last Transmission of Frederick Valentich! #atc...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: The Pilot Who Vanished After Reporting a UFO  
-   Link: <a href="https://www.youtube.com/watch?v=oByeIlDd8M4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oByeIlDd8M4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pilot Who Disappeared Forever After Spotting a UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oByeIlDd8M4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oByeIlDd8M4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pilot Who Disappeared Forever After Spotting a UFO...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CivilAviationSafetyAuthority/posts/a-routine-cross-country-flight-turned-into-a-nightmare-when-the-vfr-licensed-pil/1319153783653279/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CivilAviationSafetyAuthority/posts/a-routine-cross-country-flight-turned-into-a-nightmare-when-the-vfr-licensed-pil/1319153783653279/</a>  
+   Link:<a href="https://www.facebook.com/CivilAviationSafetyAuthority/posts/a-routine-cross-country-flight-turned-into-a-nightmare-when-the-vfr-licensed-pil/1319153783653279/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CivilAviationSafetyAuthority/posts/a-routine-cross-country-flight-turned-into-a-nightmare-when-the-vfr-licensed-pil/1319153783653279/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: pprune.org  
-   Link: <a href="https://www.pprune.org/pacific-general-aviation-questions/672526-ditching-bass-strait.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pprune.org/pacific-general-aviation-questions/672526-ditching-bass-strait.html</a>  
+   Link:<a href="https://www.pprune.org/pacific-general-aviation-questions/672526-ditching-bass-strait.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pprune.org/pacific-general-aviation-questions/672526-ditching-bass-strait.html</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: hobartandbeyond.com.au  
-   Link: <a href="https://hobartandbeyond.com.au/blog/fly-fishing-and-flying-saucers-5-things-to-do-at-cressy/" target="_blank" rel="noopener noreferrer nofollow">https://hobartandbeyond.com.au/blog/fly-fishing-and-flying-saucers-5-things-to-do-at-cressy/</a>  
+   Link:<a href="https://hobartandbeyond.com.au/blog/fly-fishing-and-flying-saucers-5-things-to-do-at-cressy/" target="_blank" rel="noopener noreferrer nofollow">https://hobartandbeyond.com.au/blog/fly-fishing-and-flying-saucers-5-things-to-do-at-cressy/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: monumentaustralia.org  
-   Link: <a href="https://www.monumentaustralia.org/themes/people/aviation/display/30627-frederick-valentich" target="_blank" rel="noopener noreferrer nofollow">https://www.monumentaustralia.org/themes/people/aviation/display/30627-frederick-valentich</a>  
+   Link:<a href="https://www.monumentaustralia.org/themes/people/aviation/display/30627-frederick-valentich" target="_blank" rel="noopener noreferrer nofollow">https://www.monumentaustralia.org/themes/people/aviation/display/30627-frederick-valentich</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: clubmarine.com.au  
-   Link: <a href="https://www.clubmarine.com.au/explore-boating/articles/how-to-understand-weather-forecasting.html" target="_blank" rel="noopener noreferrer nofollow">https://www.clubmarine.com.au/explore-boating/articles/how-to-understand-weather-forecasting.html</a>  
+   Link:<a href="https://www.clubmarine.com.au/explore-boating/articles/how-to-understand-weather-forecasting.html" target="_blank" rel="noopener noreferrer nofollow">https://www.clubmarine.com.au/explore-boating/articles/how-to-understand-weather-forecasting.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: aviationtheory.net.au  
-   Link: <a href="https://aviationtheory.net.au/wp-content/uploads/2018/09/04-Night-Flight-Rules-and-Proc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aviationtheory.net.au/wp-content/uploads/2018/09/04-Night-Flight-Rules-and-Proc.pdf</a>  
+   Link:<a href="https://aviationtheory.net.au/wp-content/uploads/2018/09/04-Night-Flight-Rules-and-Proc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aviationtheory.net.au/wp-content/uploads/2018/09/04-Night-Flight-Rules-and-Proc.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: aeroclubmaritime.com  
-   Link: <a href="https://www.aeroclubmaritime.com/files/live/sites/aeroclubmaritime/files/pdf/CAA%20NVFR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeroclubmaritime.com/files/live/sites/aeroclubmaritime/files/pdf/CAA%20NVFR.pdf</a>  
+   Link:<a href="https://www.aeroclubmaritime.com/files/live/sites/aeroclubmaritime/files/pdf/CAA%20NVFR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeroclubmaritime.com/files/live/sites/aeroclubmaritime/files/pdf/CAA%20NVFR.pdf</a>  

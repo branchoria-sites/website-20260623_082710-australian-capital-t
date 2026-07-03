@@ -262,7 +262,7 @@ image: /assets/images/Victoria_df8cd5_westall_schoolyard_e_0cecb4_grange_ground_
 
 ## Introduction
 
-The reported ground marks at The Grange are the most important physical-evidence claim in the [Westall]({{ 'westall/' | relative_url }}) story. Many UFO sightings depend entirely on descriptions of objects in the sky. Westall became different because a number of witnesses said that, after the object descended near The Grange reserve in Clayton South on 6 April 1966, they found unusual marks in the grass. Those reports transformed the event from a daylight aerial sighting into a possible landing case. At the same time, the ground marks are also one of the most disputed parts of the story. No verified photographs of the marks are known to survive, no formal scientific examination was documented at the time, and later accounts vary considerably in their details. As a result, the marks remain central to the mystery but cannot be treated as conclusive proof of a landing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2atomvic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+The reported ground marks at The Grange are the most important physical-evidence claim in the [Westall]({{ 'westall/' | relative_url }}) story. Many UFO sightings depend entirely on descriptions of objects in the sky. Westall became different because a number of witnesses said that, after the object descended near The Grange reserve in Clayton South on 6 April 1966, they found unusual marks in the grass. Those reports transformed the event from a daylight aerial sighting into a possible landing case. At the same time, the ground marks are also one of the most disputed parts of the story. No verified photographs of the marks are known to survive, no formal scientific examination was documented at the time, and later accounts vary considerably in their details. As a result, the marks remain central to the mystery but cannot be treated as conclusive proof of a landing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
 
 <img src="{{ "/assets/images/Victoria_df8cd5_westall_schoolyard_e_0cecb4_grange_ground_marks_053993-Illustration-1-dark.svg" | relative_url }}" alt="Ground marks illustration 1" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_westall_schoolyard_e_0cecb4_grange_ground_marks_053993-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_westall_schoolyard_e_0cecb4_grange_ground_marks_053993-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -270,11 +270,11 @@ The reported ground marks at The Grange are the most important physical-evidence
 
 Accounts collected over many decades broadly agree on one point: students and local residents who ran towards The Grange believed they had reached the area where the object had descended or hovered close to the ground. What they reported finding there, however, was not described in exactly the same way.
 
-Some witnesses recalled a circular patch of grass that appeared flattened or pressed down. Others described the vegetation as scorched, burnt, "boiled" or otherwise disturbed. There were also disagreements about how many marks existed. Certain witnesses remembered a single circle, while others later spoke of multiple circular areas. Contemporary recollections cited in later summaries include descriptions of grass flattened in a roughly circular shape rather than a sharply defined crater or physical impact site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+Some witnesses recalled a circular patch of grass that appeared flattened or pressed down. Others described the vegetation as scorched, burnt, "boiled" or otherwise disturbed. There were also disagreements about how many marks existed. Certain witnesses remembered a single circle, while others later spoke of multiple circular areas. Contemporary recollections cited in later summaries include descriptions of grass flattened in a roughly circular shape rather than a sharply defined crater or physical impact site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
-Researcher Shane Ryan, who spent years interviewing witnesses, has noted recurring testimony about circular patches of flattened grass at the location. Similar descriptions appear in later media interviews with former students, some of whom continued to insist that they personally saw a circular area where something unusual had been on or near the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/vicpolhistory/posts/shane-ryan-of-canberra-is-researching-an-incident-in-april-1966-where-school-stu/356522661637323/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook+29News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">shane ryan of canberra is researching an incident in april 1966 where school stu</span><span class="citation-popover-snippet">circular patches of flattened grass. Later that day we...Read more...</span><span class="citation-popover-meta">Published: april 1966</span></span></span>
+Researcher Shane Ryan, who spent years interviewing witnesses, has noted recurring testimony about circular patches of flattened grass at the location. Similar descriptions appear in later media interviews with former students, some of whom continued to insist that they personally saw a circular area where something unusual had been on or near the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/vicpolhistory/posts/shane-ryan-of-canberra-is-researching-an-incident-in-april-1966-where-school-stu/356522661637323/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">shane ryan of canberra is researching an incident in april 1966 where school stu</span><span class="citation-popover-snippet">circular patches of flattened grass. Later that day we...Read more...</span><span class="citation-popover-meta">Published: april 1966</span></span></span>
 
-An important detail is that the reports concern grass disturbance rather than a clearly documented physical trace such as excavated soil, melted material, radiation damage or recovered debris. Even among believers in the significance of the marks, the claimed evidence was essentially visual: an unusual circular area in the vegetation that appeared different from its surroundings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+An important detail is that the reports concern grass disturbance rather than a clearly documented physical trace such as excavated soil, melted material, radiation damage or recovered debris. Even among believers in the significance of the marks, the claimed evidence was essentially visual: an unusual circular area in the vegetation that appeared different from its surroundings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/akkAB9thpvE" title="Australia&#x27;s 60-year-old UFO mystery | Australian Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=akkAB9thpvE" target="_blank" rel="noopener noreferrer">Australia&#x27;s 60-year-old UFO mystery | Australian Story</a></p><p class="youtube-embed-meta">Channel: ABC News In-depth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=akkAB9thpvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=akkAB9thpvE">Open on YouTube</a></p></div></div></div>
@@ -285,9 +285,9 @@ The reported marks matter because they address the biggest weakness in most UFO 
 
 If witnesses merely observed a strange object moving in the sky, sceptics can reasonably argue that distance, perspective, atmospheric effects or misidentification may have played a role. A physical trace on the ground changes the discussion. It creates the possibility that an object interacted directly with the environment and potentially left evidence that could be examined.
 
-For that reason, the alleged circle at The Grange quickly became a focal point in later retellings of Westall. Documentary accounts, witness reunions and local-history discussions often mention the grass marks alongside the aerial sighting itself. In many narratives, the landing site serves as the bridge between what people saw overhead and what they believed happened on the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://atomvic.org/study-guides/westall-66-suburban-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atomvic.org">[atomvic.org+2Kingston Local History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atomvic.org</span><span class="citation-popover-title">westall 66 suburban ufo mystery</span><span class="citation-popover-snippet">Westall 66: A Suburban UFO Mystery7 Feb 2020 — Many reported seeing a circle of flattened grass on the ground... The 49-minute documenta...</span></span></span>
+For that reason, the alleged circle at The Grange quickly became a focal point in later retellings of Westall. Documentary accounts, witness reunions and local-history discussions often mention the grass marks alongside the aerial sighting itself. In many narratives, the landing site serves as the bridge between what people saw overhead and what they believed happened on the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://atomvic.org/study-guides/westall-66-suburban-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atomvic.org">[atomvic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atomvic.org</span><span class="citation-popover-title">westall 66 suburban ufo mystery</span><span class="citation-popover-snippet">Westall 66: A Suburban UFO Mystery7 Feb 2020 — Many reported seeing a circle of flattened grass on the ground... The 49-minute documenta...</span></span></span>
 
-The marks also reinforced witness confidence. Several former students later argued that the disturbed grass convinced them they had not merely witnessed an unusual aircraft or balloon at a distance. Seeing what appeared to be a physical trace made the experience feel more tangible and memorable. Decades later, many witnesses continued to cite the circle in the grass as one of the strongest reasons they remained convinced something unusual had occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au+29News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-snippet">A 2014 discovery of documents from a secret US-Australian radiation-testing initiative, the HIBAL project, fueled speculation that the ob...</span></span></span>
+The marks also reinforced witness confidence. Several former students later argued that the disturbed grass convinced them they had not merely witnessed an unusual aircraft or balloon at a distance. Seeing what appeared to be a physical trace made the experience feel more tangible and memorable. Decades later, many witnesses continued to cite the circle in the grass as one of the strongest reasons they remained convinced something unusual had occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-snippet">A 2014 discovery of documents from a secret US-Australian radiation-testing initiative, the HIBAL project, fueled speculation that the ob...</span></span></span>
 
 
 <img src="{{ "/assets/images/Victoria_df8cd5_westall_schoolyard_e_0cecb4_grange_ground_marks_053993-Illustration-2-dark.svg" | relative_url }}" alt="Ground marks illustration 2" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_westall_schoolyard_e_0cecb4_grange_ground_marks_053993-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_westall_schoolyard_e_0cecb4_grange_ground_marks_053993-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -295,7 +295,7 @@ The marks also reinforced witness confidence. Several former students later argu
 
 One reason the landing claim remains unresolved is that the chain of evidence was weak from the beginning.
 
-Reports indicate that civilian UFO investigators visited The Grange within days of the event. Some later accounts also claim that officials, police, military personnel or other authorities examined the area. However, there is no publicly available scientific report establishing what the marks were, how large they were, when they appeared, or whether samples were collected and analysed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+Reports indicate that civilian UFO investigators visited The Grange within days of the event. Some later accounts also claim that officials, police, military personnel or other authorities examined the area. However, there is no publicly available scientific report establishing what the marks were, how large they were, when they appeared, or whether samples were collected and analysed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
 The absence of documented measurements is significant. Investigators today cannot verify:
 
@@ -306,11 +306,11 @@ The absence of documented measurements is significant. Investigators today canno
 * Whether the grass was flattened, burned or naturally damaged.
 * How long the marks remained visible.
 * Whether photographs accurately showing the site ever existed.
-* Whether independent experts examined the area before it changed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+* Whether independent experts examined the area before it changed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
 </div>
 
-Some accounts state that the landowner later burned the field, while others describe authorities restricting access to the area. Whatever happened in the immediate aftermath, the opportunity for a rigorous, documented investigation appears to have been lost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+Some accounts state that the landowner later burned the field, while others describe authorities restricting access to the area. Whatever happened in the immediate aftermath, the opportunity for a rigorous, documented investigation appears to have been lost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/br8Rqum4HrM" title="The Grange Reserve (UFO Park)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=br8Rqum4HrM" target="_blank" rel="noopener noreferrer">The Grange Reserve (UFO Park)</a></p><p class="youtube-embed-meta">Channel: Kingston City Council</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=br8Rqum4HrM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=br8Rqum4HrM">Open on YouTube</a></p></div></div></div>
@@ -319,215 +319,215 @@ Some accounts state that the landowner later burned the field, while others desc
 
 The strongest challenge to the landing claim is not that witnesses necessarily invented the marks. It is that the evidential trail is incomplete.
 
-Many of the detailed interviews that shaped modern understanding of Westall were conducted decades after 1966. Human memory is not a recording device. Researchers studying eyewitness testimony have long shown that memories can change through discussion, media coverage and repeated retelling. In the Westall case, witnesses often shared stories with one another over many years, making it difficult to separate original observations from later interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+Many of the detailed interviews that shaped modern understanding of Westall were conducted decades after 1966. Human memory is not a recording device. Researchers studying eyewitness testimony have long shown that memories can change through discussion, media coverage and repeated retelling. In the Westall case, witnesses often shared stories with one another over many years, making it difficult to separate original observations from later interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
-The descriptions of the marks themselves illustrate this problem. Accounts differ on whether there was one circle or several, whether the grass was flattened or burned, and whether the object actually landed or merely hovered close to the ground. Such variation does not mean the witnesses were dishonest, but it does reduce confidence in any single reconstruction of events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+The descriptions of the marks themselves illustrate this problem. Accounts differ on whether there was one circle or several, whether the grass was flattened or burned, and whether the object actually landed or merely hovered close to the ground. Such variation does not mean the witnesses were dishonest, but it does reduce confidence in any single reconstruction of events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
-Chain of custody is another issue. In forensic terms, there is no continuous record showing who examined the site, what was collected, where any samples went, or what conclusions were reached. Without that chain, later claims about soil removal, testing or official investigation are difficult to verify independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://atomvic.org/study-guides/westall-66-suburban-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atomvic.org">[atomvic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atomvic.org</span><span class="citation-popover-title">westall 66 suburban ufo mystery</span><span class="citation-popover-snippet">Westall 66: A Suburban UFO Mystery7 Feb 2020 — Many reported seeing a circle of flattened grass on the ground... The 49-minute documenta...</span></span></span>
+Chain of custody is another issue. In forensic terms, there is no continuous record showing who examined the site, what was collected, where any samples went, or what conclusions were reached. Without that chain, later claims about soil removal, testing or official investigation are difficult to verify independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://atomvic.org/study-guides/westall-66-suburban-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atomvic.org">[atomvic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atomvic.org</span><span class="citation-popover-title">westall 66 suburban ufo mystery</span><span class="citation-popover-snippet">Westall 66: A Suburban UFO Mystery7 Feb 2020 — Many reported seeing a circle of flattened grass on the ground... The 49-minute documenta...</span></span></span>
 
 
 <img src="{{ "/assets/images/Victoria_df8cd5_westall_schoolyard_e_0cecb4_grange_ground_marks_053993-Illustration-3-dark.svg" | relative_url }}" alt="Ground marks illustration 3" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_westall_schoolyard_e_0cecb4_grange_ground_marks_053993-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_westall_schoolyard_e_0cecb4_grange_ground_marks_053993-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How much weight should the ground marks carry?
 
-Within the wider history of Victorian UFO reports, the reported marks at The Grange remain one of the most intriguing aspects of the Westall incident. Multiple witnesses independently referred to an unusual circular area in the grass, and those reports appeared early enough to become part of the case's core narrative rather than a much later embellishment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+Within the wider history of Victorian UFO reports, the reported marks at The Grange remain one of the most intriguing aspects of the Westall incident. Multiple witnesses independently referred to an unusual circular area in the grass, and those reports appeared early enough to become part of the case's core narrative rather than a much later embellishment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
-Yet the evidential value of the marks is limited by missing documentation. No surviving record conclusively demonstrates that an unknown craft landed there, and no scientific findings are available that would allow modern investigators to distinguish between a genuine anomaly and a more ordinary explanation such as flattened vegetation, vehicle activity, environmental damage or mistaken interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+Yet the evidential value of the marks is limited by missing documentation. No surviving record conclusively demonstrates that an unknown craft landed there, and no scientific findings are available that would allow modern investigators to distinguish between a genuine anomaly and a more ordinary explanation such as flattened vegetation, vehicle activity, environmental damage or mistaken interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
-The result is a paradox that has defined Westall for decades. The Grange ground marks are the feature that makes the case more than a simple sighting, but they are also too poorly documented to settle what happened. They remain suggestive evidence rather than proof: strong enough to keep the landing claim alive, yet not strong enough to resolve it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2atomvic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+The result is a paradox that has defined Westall for decades. The Grange ground marks are the feature that makes the case more than a simple sighting, but they are also too poorly documented to settle what happened. They remain suggestive evidence rather than proof: strong enough to keep the landing claim alive, yet not strong enough to resolve it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rNJJlMjNdcg" title="Ask a Librarian: If these walls could talk: uncovering the history of houses and buildings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rNJJlMjNdcg" target="_blank" rel="noopener noreferrer">Ask a Librarian: If these walls could talk: uncovering the history of houses and buildings</a></p><p class="youtube-embed-meta">Channel: State Library Victoria</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rNJJlMjNdcg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rNJJlMjNdcg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Westall leave marks on the ground?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Westall leave marks on the ground?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Ground-trace claims, witness testimony, landing reports, and evidential standards are central themes directly relevant to evaluating the...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ground-trace claims, witness testimony, landing reports, and evidential standards are central themes directly relevant to evaluating the...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidential assessment, witness credibility, and physical-trace cases rather than purely speculative UFO lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidential assessment, witness credibility, and physical-trace cases rather than purely speculative UFO lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6dcOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing disputed UFO reports, physical evidence claims, and government investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing disputed UFO reports, physical evidence claims, and government investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Useful for the page&#x27;s discussion of memory limits, witness recollection, evidence preservation, and how extraordinary claims are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for the page&#x27;s discussion of memory limits, witness recollection, evidence preservation, and how extraordinary claims are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CB Aviation Photography A400 Atlas PVC Patch"><img src="{{ '/assets/images/marketplace-covers/0076bd1df6d6fc67732d.jpg' | relative_url }}" alt="Listing image for CB Aviation Photography A400 Atlas PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">CB Aviation Photography A400 Atlas PVC Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CB Aviation Photography A400 Atlas PVC Patch"><img src="{{ '/assets/images/marketplace-covers/0076bd1df6d6fc67732d.jpg' | relative_url }}" alt="Listing image for CB Aviation Photography A400 Atlas PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">CB Aviation Photography A400 Atlas PVC Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pull To Eject Aviation Keyring"><img src="{{ '/assets/images/marketplace-covers/31159863ad7c9042deb5.jpg' | relative_url }}" alt="Listing image for Pull To Eject Aviation Keyring" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pull To Eject Aviation Keyring</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pull To Eject Aviation Keyring"><img src="{{ '/assets/images/marketplace-covers/31159863ad7c9042deb5.jpg' | relative_url }}" alt="Listing image for Pull To Eject Aviation Keyring" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Pull To Eject Aviation Keyring</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/599e54bbdff8784c1a83.jpg' | relative_url }}" alt="Listing image for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/599e54bbdff8784c1a83.jpg' | relative_url }}" alt="Listing image for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart"><img src="{{ '/assets/images/marketplace-covers/0c8ac86cb49df5913a9e.jpg' | relative_url }}" alt="Listing image for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart"><img src="{{ '/assets/images/marketplace-covers/0c8ac86cb49df5913a9e.jpg' | relative_url }}" alt="Listing image for Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">Genuine Aircraft Skin Tags by AviationTag | UK Stock | Fast Dispatch | Aviamart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation collectible" data-ebay-reference="ground-marks-did-westall-leave-marks-on-the-ground-victoria-aviation-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ The result is a paradox that has defined Westall for decades. The Grange ground 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ The result is a paradox that has defined Westall for decades. The Grange ground 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ The result is a paradox that has defined Westall for decades. The Grange ground 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ The result is a paradox that has defined Westall for decades. The Grange ground 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ The result is a paradox that has defined Westall for decades. The Grange ground 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,122 +733,122 @@ The result is a paradox that has defined Westall for decades. The Grange ground 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Westall UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westall_UFO</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westall_UFO</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: atomvic.org  
    Title: westall 66 suburban ufo mystery  
-   Link: <a href="https://atomvic.org/study-guides/westall-66-suburban-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://atomvic.org/study-guides/westall-66-suburban-ufo-mystery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Westall 66: A Suburban UFO Mystery7 Feb 2020 — Many reported seeing a circle of flattened grass on the ground... The 49-minute documenta...</p></details>
+   Link:<a href="https://atomvic.org/study-guides/westall-66-suburban-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://atomvic.org/study-guides/westall-66-suburban-ufo-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Westall 66: A Suburban UFO Mystery7 Feb 2020 — Many reported seeing a circle of flattened grass on the ground... The 49-minute documenta...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
    Title: shane ryan of canberra is researching an incident in april 1966 where school stu  
-   Link: <a href="https://www.facebook.com/vicpolhistory/posts/shane-ryan-of-canberra-is-researching-an-incident-in-april-1966-where-school-stu/356522661637323/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicpolhistory/posts/shane-ryan-of-canberra-is-researching-an-incident-in-april-1966-where-school-stu/356522661637323/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>circular patches of flattened grass. Later that day we...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/vicpolhistory/posts/shane-ryan-of-canberra-is-researching-an-incident-in-april-1966-where-school-stu/356522661637323/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicpolhistory/posts/shane-ryan-of-canberra-is-researching-an-incident-in-april-1966-where-school-stu/356522661637323/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>circular patches of flattened grass. Later that day we...Read more...</p></details>
    Published: april 1966  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A 2014 discovery of documents from a secret US-Australian radiation-testing initiative, the HIBAL project, fueled speculation that the ob...</p></details>
+   Link:<a href="https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A 2014 discovery of documents from a secret US-Australian radiation-testing initiative, the HIBAL project, fueled speculation that the ob...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCAustralianStory/posts/i-know-what-i-sawmany-witnesses-of-australias-biggest-mass-ufo-sighting-have-onl/947813277890968/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCAustralianStory/posts/i-know-what-i-sawmany-witnesses-of-australias-biggest-mass-ufo-sighting-have-onl/947813277890968/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;I know what I saw.&quot; Many witnesses of Australia&#x27;s biggest...1966 Westall UFO Australia [https://en.wikipedia.org/wiki/Westall_UFO](https://en.wikipedia.org/wiki/Westall_UFO) · May...</p></details>
+   Link:<a href="https://www.facebook.com/ABCAustralianStory/posts/i-know-what-i-sawmany-witnesses-of-australias-biggest-mass-ufo-sighting-have-onl/947813277890968/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCAustralianStory/posts/i-know-what-i-sawmany-witnesses-of-australias-biggest-mass-ufo-sighting-have-onl/947813277890968/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;I know what I saw.&quot; Many witnesses of Australia&#x27;s biggest...1966 Westall UFO Australia [https://en.wikipedia.org/wiki/Westall_UFO](https://en.wikipedia.org/wiki/Westall_UFO) · May...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcnews.au/posts/in-1966-more-than-a-hundred-students-at-westall-primary-and-high-schools-in-melb/1517277596420172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/in-1966-more-than-a-hundred-students-at-westall-primary-and-high-schools-in-melb/1517277596420172/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1966, more than a hundred students at Westall primary...Strange circular burn marks were found in the grass—scorched earth where the...</p></details>
+   Link:<a href="https://www.facebook.com/abcnews.au/posts/in-1966-more-than-a-hundred-students-at-westall-primary-and-high-schools-in-melb/1517277596420172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/in-1966-more-than-a-hundred-students-at-westall-primary-and-high-schools-in-melb/1517277596420172/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1966, more than a hundred students at Westall primary...Strange circular burn marks were found in the grass—scorched earth where the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/statelibraryvictoria/videos/%EF%B8%8F-the-library-files-making-a-book-cradle/599234647704022/?locale=ms_MY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/statelibraryvictoria/videos/%EF%B8%8F-the-library-files-making-a-book-cradle/599234647704022/?locale=ms_MY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>📽️ Welcome back to #TheLibraryFiles!⁠⁠ ⁠⁠ This video...This video series highlights the little known processes, stories and spaces of St...</p></details>
+   Link:<a href="https://www.facebook.com/statelibraryvictoria/videos/%EF%B8%8F-the-library-files-making-a-book-cradle/599234647704022/?locale=ms_MY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/statelibraryvictoria/videos/%EF%B8%8F-the-library-files-making-a-book-cradle/599234647704022/?locale=ms_MY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>📽️ Welcome back to #TheLibraryFiles!⁠⁠ ⁠⁠ This video...This video series highlights the little known processes, stories and spaces of St...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/529582147502825/posts/2118983448562679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/529582147502825/posts/2118983448562679/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In his memory the circle and associated marks in the ground and grass just grew over. His...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/529582147502825/posts/2118983448562679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/529582147502825/posts/2118983448562679/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In his memory the circle and associated marks in the ground and grass just grew over. His...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Australia's 60-year-old UFO mystery | Australian Story  
-   Link: <a href="https://www.youtube.com/watch?v=akkAB9thpvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=akkAB9thpvE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Westall 66 | Official Trailer | DocPlay[https://www.youtube.com/watch?v=ZY-xj_b-c7c...&quot;](https://www.youtube.com/watch?v=ZY-xj_b-c7c...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=akkAB9thpvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=akkAB9thpvE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Westall 66 | Official Trailer | DocPlay[https://www.youtube.com/watch?v=ZY-xj_b-c7c...&quot;](https://www.youtube.com/watch?v=ZY-xj_b-c7c...&quot;)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QsdoVUASVsE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QsdoVUASVsE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QsdoVUASVsE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QsdoVUASVsE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=br8Rqum4HrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=br8Rqum4HrM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=br8Rqum4HrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=br8Rqum4HrM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: localhistory.kingston.vic.gov.au  
-   Link: <a href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow">https://localhistory.kingston.vic.gov.au/articles/528</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kingston Local HistoryAn Ongoing Mystery: The Westall Flying Saucer Incident11 June 2012 — The Westall Flying Saucer incident represents...</p></details>
+   Link:<a href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow">https://localhistory.kingston.vic.gov.au/articles/528</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kingston Local HistoryAn Ongoing Mystery: The Westall Flying Saucer Incident11 June 2012 — The Westall Flying Saucer incident represents...</p></details>
    Published: June 2012  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: read.alia.org.au  
-   Link: <a href="https://read.alia.org.au/sites/default/files/documents/the_new_ux_at_state_library_[victoria" target="_blank" rel="noopener noreferrer nofollow">https://read.alia.org.au/sites/default/files/documents/the_new_ux_at_state_library_[victoria</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>new UX at State Library VictoriaThe project includes heritage restoration of Queen&#x27;s Hall as a reading room and events space, new childre...</p></details>
+   Link:<a href="https://read.alia.org.au/sites/default/files/documents/the_new_ux_at_state_library_[victoria" target="_blank" rel="noopener noreferrer nofollow">https://read.alia.org.au/sites/default/files/documents/the_new_ux_at_state_library_[victoria</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>new UX at State Library VictoriaThe project includes heritage restoration of Queen&#x27;s Hall as a reading room and events space, new childre...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-idea-of-reality/the-day-the-sky-fell-silent-the-westall-ufo-mystery-revisited-after-sixty-years-778e076604fb" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/the-day-the-sky-fell-silent-the-westall-ufo-mystery-revisited-after-sixty-years-778e076604fb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Sky Fell Silent: The Westall UFO Mystery...Captured by James Kibble near Melbourne, Australia, in 1966, the image is believe...</p></details>
+   Link:<a href="https://medium.com/the-idea-of-reality/the-day-the-sky-fell-silent-the-westall-ufo-mystery-revisited-after-sixty-years-778e076604fb" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/the-day-the-sky-fell-silent-the-westall-ufo-mystery-revisited-after-sixty-years-778e076604fb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Sky Fell Silent: The Westall UFO Mystery...Captured by James Kibble near Melbourne, Australia, in 1966, the image is believe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LFwGq6cRKWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFwGq6cRKWo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ask a Librarian: Explore historic LondonLibrarian Steven Kafkarisos introduces the London Low Life database and shows how to use its inte...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LFwGq6cRKWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFwGq6cRKWo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ask a Librarian: Explore historic LondonLibrarian Steven Kafkarisos introduces the London Low Life database and shows how to use its inte...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: slv.vic.gov.au  
-   Link: <a href="https://www.slv.vic.gov.au/visit/library-map" target="_blank" rel="noopener noreferrer nofollow">https://www.slv.vic.gov.au/visit/library-map</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Library mapUse StackMap to search for Collection items in the Library&#x27;s public spaces. You can search by subject or place to find the exa...</p></details>
+   Link:<a href="https://www.slv.vic.gov.au/visit/library-map" target="_blank" rel="noopener noreferrer nofollow">https://www.slv.vic.gov.au/visit/library-map</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library mapUse StackMap to search for Collection items in the Library&#x27;s public spaces. You can search by subject or place to find the exa...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: blogs.slv.vic.gov.au  
-   Link: <a href="https://blogs.slv.vic.gov.au/terms/london/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/terms/london/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Library Victoria – londonOverview of large map collections that can be found in State Library databases. More than 2000 maps are like hid...</p></details>
+   Link:<a href="https://blogs.slv.vic.gov.au/terms/london/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/terms/london/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library Victoria – londonOverview of large map collections that can be found in State Library databases. More than 2000 maps are like hid...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
    Title: Discover the original card catalogue hidden underground  
-   Link: <a href="https://www.instagram.com/reel/DWr32f_Jgg7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWr32f_Jgg7/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>State Library Victoria on Instagram: &quot; Gain exclusive access to...Gain exclusive access to the Library&#x27;s iconic Dome and magnificent her...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWr32f_Jgg7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWr32f_Jgg7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State Library Victoria on Instagram: &quot; Gain exclusive access to...Gain exclusive access to the Library&#x27;s iconic Dome and magnificent her...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ySmy5seIY38" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ySmy5seIY38</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Online Collections: Accessing our online resourcesJoin us for an introduction to accessing the State Library&#x27;s wealth of online resou...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ySmy5seIY38" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ySmy5seIY38</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our Online Collections: Accessing our online resourcesJoin us for an introduction to accessing the State Library&#x27;s wealth of online resou...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: historicengland.org.uk  
-   Link: <a href="https://historicengland.org.uk/listing/the-list/list-entry/1357166" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/listing/the-list/list-entry/1357166</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The places on the list are protected by law and most are not open to the...</p></details>
+   Link:<a href="https://historicengland.org.uk/listing/the-list/list-entry/1357166" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/listing/the-list/list-entry/1357166</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The places on the list are protected by law and most are not open to the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: abc.net.au  
    Title: westall ufo mystery witnesses want answers  
-   Link: <a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>After 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — Flying saucers, balloons or mass hysteria? It&#x27;s 60 years today since...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — Flying saucers, balloons or mass hysteria? It&#x27;s 60 years today since...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cranbournenews.starcommunity.com.au  
    Title: westall 1966 [official files](&#123;&#123; 'official-files-a58fb3/' | relative_url &#125;&#125;) remain secret  
-   Link: <a href="https://cranbournenews.starcommunity.com.au/news/2026-04-18/westall-1966-official-files-remain-secret/" target="_blank" rel="noopener noreferrer nofollow">https://cranbournenews.starcommunity.com.au/news/2026-04-18/westall-1966-official-files-remain-secret/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cranbourne Star NewsWestall 1966: Official files remain secret | Cranbourne Star News18 Apr 2026 — Shane Ryan, an academic who&#x27;s intervie...</p></details>
+   Link:<a href="https://cranbournenews.starcommunity.com.au/news/2026-04-18/westall-1966-official-files-remain-secret/" target="_blank" rel="noopener noreferrer nofollow">https://cranbournenews.starcommunity.com.au/news/2026-04-18/westall-1966-official-files-remain-secret/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cranbourne Star NewsWestall 1966: Official files remain secret | Cranbourne Star News18 Apr 2026 — Shane Ryan, an academic who&#x27;s intervie...</p></details>

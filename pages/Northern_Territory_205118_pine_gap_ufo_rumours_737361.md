@@ -286,29 +286,29 @@ image: /assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361-over
 
 ## Introduction
 
-Pine Gap attracts UFO rumours because it combines three ingredients that are unusually powerful in [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) UFO culture: a remote desert setting, visible secrecy, and a real defence role linked to satellites, signals intelligence and missile warning. The facility near Alice Springs is not a UFO case in the same sense as a reported close encounter or a documented aviation incident. It is better understood as a rumour engine: a place where restricted access, [radomes]({{ 'radomes/' | relative_url }}), protest history, sparse official comment and Central Australian night skies make extraordinary claims feel plausible to some observers. The evidence, however, points much more strongly to a secretive intelligence facility than to hidden alien craft. Australian government statements describe Pine Gap as a joint Australia–United States defence facility supporting intelligence, communications, counterterrorism, arms-control monitoring and ballistic missile warning; that secrecy explains suspicion, but it does not prove the UFO claims built around it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.minister.defence.gov.au/statements/2023-02-09/securing-australias-sovereignty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minister.defence.gov.au">[Defence Ministers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minister.defence.gov.au</span><span class="citation-popover-title">Defence Ministers Securing Australia&#x27;s Sovereignty &#124; Defence Ministers</span><span class="citation-popover-snippet">Defence MinistersSecuring Australia&#x27;s Sovereignty &#124; Defence MinistersFebruary 9, 2023 — 9 Feb 2023 — Australia jointly operates three fac...</span><span class="citation-popover-meta">Published: February 9, 2023</span></span></span>
+Pine Gap attracts UFO rumours because it combines three ingredients that are unusually powerful in [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) UFO culture: a remote desert setting, visible secrecy, and a real defence role linked to satellites, signals intelligence and missile warning. The facility near Alice Springs is not a UFO case in the same sense as a reported close encounter or a documented aviation incident. It is better understood as a rumour engine: a place where restricted access, [radomes]({{ 'radomes/' | relative_url }}), protest history, sparse official comment and Central Australian night skies make extraordinary claims feel plausible to some observers. The evidence, however, points much more strongly to a secretive intelligence facility than to hidden alien craft. Australian government statements describe Pine Gap as a joint Australia–United States defence facility supporting intelligence, communications, counterterrorism, arms-control monitoring and ballistic missile warning; that secrecy explains suspicion, but it does not prove the UFO claims built around it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.minister.defence.gov.au/statements/2023-02-09/securing-australias-sovereignty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minister.defence.gov.au">[Defence Ministers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minister.defence.gov.au</span><span class="citation-popover-title">Defence Ministers Securing Australia&#x27;s Sovereignty &#124; Defence Ministers</span><span class="citation-popover-snippet">Defence MinistersSecuring Australia&#x27;s Sovereignty &#124; Defence MinistersFebruary 9, 2023 — 9 Feb 2023 — Australia jointly operates three fac...</span><span class="citation-popover-meta">Published: February 9, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361-overview.webp" | relative_url }}" alt="Overview image for Pine Gap" loading="eager" decoding="sync" fetchpriority="high">
 ## The defence facility near Alice Springs
 
-Pine Gap sits close enough to Alice Springs to be part of the town’s public imagination, yet far enough out of sight to feel separate from ordinary civic life. ABC reporting describes it as a highly secretive joint US-Australian base about 18 kilometres from Alice Springs, while public defence and parliamentary material identify it as one of Australia’s longstanding joint facilities with the United States. It became operational in 1970, during the Cold War, and its official framing has shifted over time from “space research” language to the more direct name Joint Defence Facility Pine Gap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2Defence Ministers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">More protests took place on the road to Pine Gap as the Israel-...Read more...</span></span></span>
+Pine Gap sits close enough to Alice Springs to be part of the town’s public imagination, yet far enough out of sight to feel separate from ordinary civic life. ABC reporting describes it as a highly secretive joint US-Australian base about 18 kilometres from Alice Springs, while public defence and parliamentary material identify it as one of Australia’s longstanding joint facilities with the United States. It became operational in 1970, during the Cold War, and its official framing has shifted over time from “space research” language to the more direct name Joint Defence Facility Pine Gap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">More protests took place on the road to Pine Gap as the Israel-...Read more...</span></span></span>
 
-The most important point for UFO readers is that Pine Gap’s real known functions are already exotic enough to invite speculation. The Nautilus Institute’s long-running research on Australian defence facilities describes Pine Gap’s original and principal role as a ground control station for geosynchronous signals-intelligence satellites, with a large field of satellite dishes protected by radomes. Australian government statements say joint facilities such as Pine Gap support intelligence cooperation, communications, arms-control verification, counterterrorism and early warning of ballistic missile launches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Open source on nautilus.org.</span></span></span>
+The most important point for UFO readers is that Pine Gap’s real known functions are already exotic enough to invite speculation. The Nautilus Institute’s long-running research on Australian defence facilities describes Pine Gap’s original and principal role as a ground control station for geosynchronous signals-intelligence satellites, with a large field of satellite dishes protected by radomes. Australian government statements say joint facilities such as Pine Gap support intelligence cooperation, communications, arms-control verification, counterterrorism and early warning of ballistic missile launches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Open source on nautilus.org.</span></span></span>
 
 That matters because many UFO rumours begin with a mistaken choice: either Pine Gap is ordinary, or it must be hiding something alien. In reality, it is neither ordinary nor necessarily alien-related. A satellite intelligence base can involve classified equipment, unusual buildings, restricted [airspace]({{ 'airspace/' | relative_url }}), night-time lights, unfamiliar aircraft or service movements, and public refusal to discuss operations. Those features can look mysterious without requiring extraterrestrial explanations.
 
-Pine Gap also belongs to a wider Northern Territory defence geography. The Territory contains strategic airfields, training areas and US-linked defence infrastructure, which means unusual aircraft activity or military secrecy is not automatically evidence of UFO activity. In Pine Gap’s case, the official and specialist record points towards intelligence collection and space-linked military support, not a documented programme of recovered craft or non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/wp-content/uploads/2012/12/The-_Joint-Facilities_-revisited-1000-8-December-2012-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-title">The “Joint Facilities” revisited – Desmond Ball, democratic</span><span class="citation-popover-snippet">The “Joint Facilities” revisited – Desmond Ball, democratic</span></span></span>
+Pine Gap also belongs to a wider Northern Territory defence geography. The Territory contains strategic airfields, training areas and US-linked defence infrastructure, which means unusual aircraft activity or military secrecy is not automatically evidence of UFO activity. In Pine Gap’s case, the official and specialist record points towards intelligence collection and space-linked military support, not a documented programme of recovered craft or non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/wp-content/uploads/2012/12/The-_Joint-Facilities_-revisited-1000-8-December-2012-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-title">The “Joint Facilities” revisited – Desmond Ball, democratic</span><span class="citation-popover-snippet">The “Joint Facilities” revisited – Desmond Ball, democratic</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361-Illustration-1-dark.svg" | relative_url }}" alt="Pine Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why secrecy fuels UFO suspicion
 
-Pine Gap is compelling to UFO culture because it behaves, from the outside, like a classic forbidden zone. There are access controls, limited public photography, a remote road, visible radomes, a heavy security culture and a long history of protest. ABC reporting from Alice Springs notes that “everyone has an opinion” about the base, but few people want to talk openly about what happens inside; the same article says the Australian government describes Pine Gap as a longstanding security arrangement but does not comment on its operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">More protests took place on the road to Pine Gap as the Israel-...Read more...</span></span></span>
+Pine Gap is compelling to UFO culture because it behaves, from the outside, like a classic forbidden zone. There are access controls, limited public photography, a remote road, visible radomes, a heavy security culture and a long history of protest. ABC reporting from Alice Springs notes that “everyone has an opinion” about the base, but few people want to talk openly about what happens inside; the same article says the Australian government describes Pine Gap as a longstanding security arrangement but does not comment on its operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">More protests took place on the road to Pine Gap as the Israel-...Read more...</span></span></span>
 
-That silence creates a gap, and rumour fills gaps quickly. In online UFO discussion, Pine Gap is repeatedly compared with Area 51, sometimes as a possible location for hidden craft, underground facilities or secret technology. Those claims often rely on inference: the site is remote, it is connected to the United States, it has unusual antenna structures, and officials do not disclose much about it. But inference is not evidence. A secret intelligence base is expected to withhold operational details; that behaviour is consistent with military secrecy, not uniquely with UFO secrecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youngausint.org.au/post/2015/06/12/australias-own-area-51-pine-gap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youngausint.org.au">[youngausint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youngausint.org.au</span><span class="citation-popover-title">youngausint Australia&#x27;s own Area 51: Pine Gap</span><span class="citation-popover-snippet">youngausint Australia&#x27;s own Area 51: Pine Gap</span></span></span>
+That silence creates a gap, and rumour fills gaps quickly. In online UFO discussion, Pine Gap is repeatedly compared with Area 51, sometimes as a possible location for hidden craft, underground facilities or secret technology. Those claims often rely on inference: the site is remote, it is connected to the United States, it has unusual antenna structures, and officials do not disclose much about it. But inference is not evidence. A secret intelligence base is expected to withhold operational details; that behaviour is consistent with military secrecy, not uniquely with UFO secrecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youngausint.org.au/post/2015/06/12/australias-own-area-51-pine-gap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youngausint.org.au">[youngausint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youngausint.org.au</span><span class="citation-popover-title">youngausint Australia&#x27;s own Area 51: Pine Gap</span><span class="citation-popover-snippet">youngausint Australia&#x27;s own Area 51: Pine Gap</span></span></span>
 
-The facility’s airspace adds another layer. A Civil Aviation Safety Authority review of Alice Springs airspace noted that Restricted Area 215 at Pine Gap affected instrument flight routings, creating extra work for pilots and air traffic control. Flight Safety Australia has also discussed the practical need for pilots to negotiate airspace around Pine Gap when flying into Alice Springs. To a witness on the ground, restricted airspace can sound like confirmation that “something” is hidden there; in aviation terms, it is also a routine way to protect sensitive defence activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/preliminary-airspace-review-alice-springs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-title">Civil Aviation Safety Authority Alice Springs preliminary airspace review</span><span class="citation-popover-snippet">Civil Aviation Safety Authority Alice Springs preliminary airspace review</span></span></span>
+The facility’s airspace adds another layer. A Civil Aviation Safety Authority review of Alice Springs airspace noted that Restricted Area 215 at Pine Gap affected instrument flight routings, creating extra work for pilots and air traffic control. Flight Safety Australia has also discussed the practical need for pilots to negotiate airspace around Pine Gap when flying into Alice Springs. To a witness on the ground, restricted airspace can sound like confirmation that “something” is hidden there; in aviation terms, it is also a routine way to protect sensitive defence activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/preliminary-airspace-review-alice-springs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-title">Civil Aviation Safety Authority Alice Springs preliminary airspace review</span><span class="citation-popover-snippet">Civil Aviation Safety Authority Alice Springs preliminary airspace review</span></span></span>
 
 The strongest sceptical reading is therefore simple: Pine Gap’s secrecy is real, but the secrecy has a well-documented defence explanation. The weaker claim is to jump from “the public is not told everything” to “the hidden material must be alien”. That jump is the point at which the Pine Gap story leaves evidence and enters speculation.
 
@@ -317,11 +317,11 @@ The strongest sceptical reading is therefore simple: Pine Gap’s secrecy is rea
 
 ## What the UFO claims usually add
 
-Pine Gap rumours tend to develop in three overlapping ways. The first is the “Australia’s Area 51” comparison. This label is memorable because both places are remote, US-linked, guarded and culturally associated with classified aerospace activity. But the comparison can mislead. Area 51’s public mythology is bound up with test aircraft and American UFO folklore; Pine Gap’s documented role is centred on satellite intelligence, communications and warning systems. The sites share secrecy, not necessarily function. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youngausint.org.au/post/2015/06/12/australias-own-area-51-pine-gap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youngausint.org.au">[youngausint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youngausint.org.au</span><span class="citation-popover-title">youngausint Australia&#x27;s own Area 51: Pine Gap</span><span class="citation-popover-snippet">youngausint Australia&#x27;s own Area 51: Pine Gap</span></span></span>
+Pine Gap rumours tend to develop in three overlapping ways. The first is the “Australia’s Area 51” comparison. This label is memorable because both places are remote, US-linked, guarded and culturally associated with classified aerospace activity. But the comparison can mislead. Area 51’s public mythology is bound up with test aircraft and American UFO folklore; Pine Gap’s documented role is centred on satellite intelligence, communications and warning systems. The sites share secrecy, not necessarily function.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youngausint.org.au/post/2015/06/12/australias-own-area-51-pine-gap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youngausint.org.au">[youngausint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youngausint.org.au</span><span class="citation-popover-title">youngausint Australia&#x27;s own Area 51: Pine Gap</span><span class="citation-popover-snippet">youngausint Australia&#x27;s own Area 51: Pine Gap</span></span></span>
 
-The second pattern is proximity logic. Pine Gap sits in Central Australia, not far in outback terms from better-known UFO tourism and sighting lore such as [Wycliffe Well]({{ 'wycliffe-well/' | relative_url }}). Some popular accounts link the two by geography: strange lights in the desert are folded into a single regional mystery. But Wycliffe Well’s UFO identity is largely a roadside and tourism phenomenon, while Pine Gap’s significance comes from defence secrecy. They reinforce one another culturally, but they are not the same type of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2025/06/wycliffe-well-australias-outback-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">Australian Geographic Wycliffe Well: Australia&#x27;s outback UFO hotspot</span><span class="citation-popover-snippet">Australian Geographic Wycliffe Well: Australia&#x27;s outback UFO hotspot</span></span></span>
+The second pattern is proximity logic. Pine Gap sits in Central Australia, not far in outback terms from better-known UFO tourism and sighting lore such as [Wycliffe Well]({{ 'wycliffe-well/' | relative_url }}). Some popular accounts link the two by geography: strange lights in the desert are folded into a single regional mystery. But Wycliffe Well’s UFO identity is largely a roadside and tourism phenomenon, while Pine Gap’s significance comes from defence secrecy. They reinforce one another culturally, but they are not the same type of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2025/06/wycliffe-well-australias-outback-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">Australian Geographic Wycliffe Well: Australia&#x27;s outback UFO hotspot</span><span class="citation-popover-snippet">Australian Geographic Wycliffe Well: Australia&#x27;s outback UFO hotspot</span></span></span>
 
-The third pattern is “hidden infrastructure” speculation. Radomes, communications dishes and blank official language are reimagined as covers for underground hangars, recovered craft or advanced propulsion work. The problem is that the visible infrastructure already has a plausible technical purpose. Nautilus research describes Pine Gap in terms of satellite ground control, signals-intelligence systems and multiple operational functions; Australian official statements describe missile warning, intelligence cooperation and arms-control monitoring. None of that confirms every operational detail, but it gives a coherent non-UFO explanation for the structures that drive the rumours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Open source on nautilus.org.</span></span></span>
+The third pattern is “hidden infrastructure” speculation. Radomes, communications dishes and blank official language are reimagined as covers for underground hangars, recovered craft or advanced propulsion work. The problem is that the visible infrastructure already has a plausible technical purpose. Nautilus research describes Pine Gap in terms of satellite ground control, signals-intelligence systems and multiple operational functions; Australian official statements describe missile warning, intelligence cooperation and arms-control monitoring. None of that confirms every operational detail, but it gives a coherent non-UFO explanation for the structures that drive the rumours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Open source on nautilus.org.</span></span></span>
 
 This does not mean every unusual light seen near Alice Springs can be dismissed automatically. It does mean that a sighting’s value depends on its own evidence: time, direction, duration, witness position, flight data, astronomical conditions, photographs, radar records and independent corroboration. “It was near Pine Gap” is context, not proof.
 
@@ -329,11 +329,11 @@ This does not mean every unusual light seen near Alice Springs can be dismissed 
 <img src="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361-Illustration-2-dark.svg" | relative_url }}" alt="Pine Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence can and cannot show
 
-The evidence can show that Pine Gap is a major, secretive, strategically important defence facility. It can show that it is connected to US and Australian intelligence work, satellite systems, missile warning and wider military operations. It can also show that official secrecy around the facility has been politically controversial and locally sensitive for decades. Those points are well supported by government statements, parliamentary records, specialist defence research and contemporary reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.minister.defence.gov.au/statements/2023-02-09/securing-australias-sovereignty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minister.defence.gov.au">[Defence Ministers+2nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minister.defence.gov.au</span><span class="citation-popover-title">Defence Ministers Securing Australia&#x27;s Sovereignty &#124; Defence Ministers</span><span class="citation-popover-snippet">Defence MinistersSecuring Australia&#x27;s Sovereignty &#124; Defence MinistersFebruary 9, 2023 — 9 Feb 2023 — Australia jointly operates three fac...</span><span class="citation-popover-meta">Published: February 9, 2023</span></span></span>
+The evidence can show that Pine Gap is a major, secretive, strategically important defence facility. It can show that it is connected to US and Australian intelligence work, satellite systems, missile warning and wider military operations. It can also show that official secrecy around the facility has been politically controversial and locally sensitive for decades. Those points are well supported by government statements, parliamentary records, specialist defence research and contemporary reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.minister.defence.gov.au/statements/2023-02-09/securing-australias-sovereignty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minister.defence.gov.au">[defence.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minister.defence.gov.au</span><span class="citation-popover-title">Defence Ministers Securing Australia&#x27;s Sovereignty &#124; Defence Ministers</span><span class="citation-popover-snippet">Defence MinistersSecuring Australia&#x27;s Sovereignty &#124; Defence MinistersFebruary 9, 2023 — 9 Feb 2023 — Australia jointly operates three fac...</span><span class="citation-popover-meta">Published: February 9, 2023</span></span></span>
 
-The evidence cannot show, at least from the public record, that Pine Gap houses alien bodies, crashed saucers, reverse-engineered craft or a hidden UFO programme. Public speculation sometimes treats the absence of disclosure as evidence in itself, but that is a weak method. A facility can be secret because it handles intelligence from satellites, military communications and missile-warning systems. In Pine Gap’s case, those reasons are not hypothetical; they are the reasons most consistently described in credible sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Open source on nautilus.org.</span></span></span>
+The evidence cannot show, at least from the public record, that Pine Gap houses alien bodies, crashed saucers, reverse-engineered craft or a hidden UFO programme. Public speculation sometimes treats the absence of disclosure as evidence in itself, but that is a weak method. A facility can be secret because it handles intelligence from satellites, military communications and missile-warning systems. In Pine Gap’s case, those reasons are not hypothetical; they are the reasons most consistently described in credible sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Open source on nautilus.org.</span></span></span>
 
-The wider Australian UFO record also points towards caution. The Royal Australian Air Force did investigate “unusual aerial sightings” during the Cold War period, and ABC reporting on researcher Bill Chalker’s access to the [RAAF files]({{ 'raaf-files-c842ff/' | relative_url }}) shows that the files contained many kinds of reports, with national-security interest often tied to human space activity rather than aliens. Former RAAF intelligence officer Brett Biddington has explained that unusual aerial sightings were eventually judged not to be core business where there was no evidence of a threat of extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How Bill Chalker became one of the first civilians to access</span><span class="citation-popover-snippet">ABC News How Bill Chalker became one of the first civilians to access</span></span></span>
+The wider Australian UFO record also points towards caution. The Royal Australian Air Force did investigate “unusual aerial sightings” during the Cold War period, and ABC reporting on researcher Bill Chalker’s access to the [RAAF files]({{ 'raaf-files-c842ff/' | relative_url }}) shows that the files contained many kinds of reports, with national-security interest often tied to human space activity rather than aliens. Former RAAF intelligence officer Brett Biddington has explained that unusual aerial sightings were eventually judged not to be core business where there was no evidence of a threat of extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How Bill Chalker became one of the first civilians to access</span><span class="citation-popover-snippet">ABC News How Bill Chalker became one of the first civilians to access</span></span></span>
 
 That distinction is important for Pine Gap. A Cold War or post-Cold War defence site may be interested in objects in the sky for reasons that have nothing to do with alien craft: missile tests, satellite re-entry, foreign surveillance, high-altitude [balloons]({{ 'balloons/' | relative_url }}), aircraft movements, rocket debris or unusual communications signatures. The existence of an intelligence interest in the sky is not the same as evidence for extraterrestrial visitation.
 
@@ -342,7 +342,7 @@ That distinction is important for Pine Gap. A Cold War or post-Cold War defence 
 
 ## How Pine Gap changes Northern Territory UFO history
 
-Pine Gap gives Northern Territory UFO history a different texture from the state’s more familiar roadside stories. Wycliffe Well is public, playful and tourist-facing; Pine Gap is guarded, political and strategically serious. Together, they show how Central Australia can produce two very different kinds of UFO atmosphere: one built from local sightings and alien murals, the other from classified defence work and restricted access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2025/06/wycliffe-well-australias-outback-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">Australian Geographic Wycliffe Well: Australia&#x27;s outback UFO hotspot</span><span class="citation-popover-snippet">Australian Geographic Wycliffe Well: Australia&#x27;s outback UFO hotspot</span></span></span>
+Pine Gap gives Northern Territory UFO history a different texture from the state’s more familiar roadside stories. Wycliffe Well is public, playful and tourist-facing; Pine Gap is guarded, political and strategically serious. Together, they show how Central Australia can produce two very different kinds of UFO atmosphere: one built from local sightings and alien murals, the other from classified defence work and restricted access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2025/06/wycliffe-well-australias-outback-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">Australian Geographic Wycliffe Well: Australia&#x27;s outback UFO hotspot</span><span class="citation-popover-snippet">Australian Geographic Wycliffe Well: Australia&#x27;s outback UFO hotspot</span></span></span>
 
 For a reader trying to judge Northern Territory UFO claims, Pine Gap is useful less as a case file than as a test of reasoning. It asks whether mystery should be treated as evidence, or as a reason to look harder for ordinary but hidden explanations. The best-supported answer is that Pine Gap’s secrecy is real, its defence role is real, and its place in UFO speculation is culturally powerful. What is missing is the evidential bridge from secret satellite intelligence facility to alien technology.
 
@@ -367,194 +367,194 @@ Used this way, Pine Gap becomes a clarifying example in Northern Territory UFO h
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Pine Gap Attracts UFO Rumours. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Pine Gap Attracts UFO Rumours. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explains how secret defence facilities become magnets for UFO theories, a key theme of the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how secret defence facilities become magnets for UFO theories, a key theme of the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Gives readers broader context on UFO claims, evidence standards and government secrecy debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers broader context on UFO claims, evidence standards and government secrecy debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+RAINFALL+by+Tom+Gilling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project RAINFALL on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uoWaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project RAINFALL" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+RAINFALL+by+Tom+Gilling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project RAINFALL">Project RAINFALL</a>
-        </h4>
-        <p class="fr-book-author">By Tom Gilling</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+RAINFALL+by+Tom+Gilling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project RAINFALL on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uoWaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project RAINFALL" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+RAINFALL+by+Tom+Gilling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project RAINFALL">Project RAINFALL</a>
+</h4>
+<p class="fr-book-author">By Tom Gilling</p>
         
-        <p class="fr-book-desc">Directly explains the history, secrecy and intelligence role of Pine Gap that fuel UFO rumours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+RAINFALL+by+Tom+Gilling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains the history, secrecy and intelligence role of Pine Gap that fuel UFO rumours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+RAINFALL+by+Tom+Gilling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Inside+Pine+Gap+by+David+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Inside Pine Gap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kz3ZgegZ9KQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Inside Pine Gap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Inside+Pine+Gap+by+David+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside Pine Gap">Inside Pine Gap</a>
-        </h4>
-        <p class="fr-book-author">By David Rosenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Inside+Pine+Gap+by+David+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Inside Pine Gap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kz3ZgegZ9KQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Inside Pine Gap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Inside+Pine+Gap+by+David+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside Pine Gap">Inside Pine Gap</a>
+</h4>
+<p class="fr-book-author">By David Rosenberg</p>
         
-        <p class="fr-book-desc">Provides an insider account of the facility, helping readers understand what Pine Gap actually does versus UFO speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Inside+Pine+Gap+by+David+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an insider account of the facility, helping readers understand what Pine Gap actually does versus UFO speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Inside+Pine+Gap+by+David+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+RAINFALL&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project RAINFALL</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+RAINFALL&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project RAINFALL</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Alien Landscape Poster Sci-Fi Home Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/WyIAAOSwhFdn3E~e/s-l225.jpg" alt="Listing image for Retro UFO Alien Landscape Poster Sci-Fi Home Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Alien Landscape Poster Sci-Fi Home Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S"><img src="https://i.ebayimg.com/images/g/yRcAAOSwWhdmw231/s-l225.jpg" alt="Listing image for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="{{ '/assets/images/marketplace-covers/0c2eebb918fe7513f183.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pine-gap-why-pine-gap-attracts-ufo-rumours-northern-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-pine-gap-attracts-ufo-rumours-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ Used this way, Pine Gap becomes a clarifying example in Northern Territory UFO h
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ Used this way, Pine Gap becomes a clarifying example in Northern Territory UFO h
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ Used this way, Pine Gap becomes a clarifying example in Northern Territory UFO h
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ Used this way, Pine Gap becomes a clarifying example in Northern Territory UFO h
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ Used this way, Pine Gap becomes a clarifying example in Northern Territory UFO h
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,251 +760,251 @@ Used this way, Pine Gap becomes a clarifying example in Northern Territory UFO h
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nautilus.org  
    Title: Pine Gap  
-   Link: <a href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian defence facilitiesAn Agreement to extend the period of operation of the Joint Defence Facility at Pine Gap, Report of the Join...</p></details>
+   Link:<a href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian defence facilitiesAn Agreement to extend the period of operation of the Joint Defence Facility at Pine Gap, Report of the Join...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nautilus.org  
-   Link: <a href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/</a>  
+   Link:<a href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nautilus.org  
    Title: The “Joint Facilities” revisited – Desmond Ball, democratic  
-   Link: <a href="https://nautilus.org/wp-content/uploads/2012/12/The-_Joint-Facilities_-revisited-1000-8-December-2012-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/wp-content/uploads/2012/12/The-_Joint-Facilities_-revisited-1000-8-December-2012-2.pdf</a>  
+   Link:<a href="https://nautilus.org/wp-content/uploads/2012/12/The-_Joint-Facilities_-revisited-1000-8-December-2012-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/wp-content/uploads/2012/12/The-_Joint-Facilities_-revisited-1000-8-December-2012-2.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nautilus.org  
-   Link: <a href="https://nautilus.org/briefing-books/australian-defence-facilities/pine-gap/resources-joint-defence-facility-pine-gap/?view=pdf" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/briefing-books/australian-defence-facilities/pine-gap/resources-joint-defence-facility-pine-gap/?view=pdf</a>  
+   Link:<a href="https://nautilus.org/briefing-books/australian-defence-facilities/pine-gap/resources-joint-defence-facility-pine-gap/?view=pdf" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/briefing-books/australian-defence-facilities/pine-gap/resources-joint-defence-facility-pine-gap/?view=pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nautilus.org  
    Title: The corporatisation of Pine Gap  
-   Link: <a href="https://nautilus.org/napsnet/napsnet-special-reports/the-corporatisation-of-pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/napsnet/napsnet-special-reports/the-corporatisation-of-pine-gap/</a>  
+   Link:<a href="https://nautilus.org/napsnet/napsnet-special-reports/the-corporatisation-of-pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/napsnet/napsnet-special-reports/the-corporatisation-of-pine-gap/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nautilus.org  
    Title: Australias Participation in the Pine Gap Enterprise  
-   Link: <a href="https://nautilus.org/wp-content/uploads/2016/06/Australias-Participation-in-the-Pine-Gap-Enterprise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/wp-content/uploads/2016/06/Australias-Participation-in-the-Pine-Gap-Enterprise.pdf</a>  
+   Link:<a href="https://nautilus.org/wp-content/uploads/2016/06/Australias-Participation-in-the-Pine-Gap-Enterprise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/wp-content/uploads/2016/06/Australias-Participation-in-the-Pine-Gap-Enterprise.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nautilus.org  
    Title: The corporatisation of Pine Gap  
-   Link: <a href="https://nautilus.org/wp-content/uploads/2015/06/The-corporatisation-of-Pine-Gap.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/wp-content/uploads/2015/06/The-corporatisation-of-Pine-Gap.pdf</a>  
+   Link:<a href="https://nautilus.org/wp-content/uploads/2015/06/The-corporatisation-of-Pine-Gap.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/wp-content/uploads/2015/06/The-corporatisation-of-Pine-Gap.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nautilus.org  
    Title: Tanter Hiding from the light NAPSNet Policy Forum PDF Nov2 2019 1  
-   Link: <a href="https://www.nautilus.org/wp-content/uploads/2019/11/Tanter-Hiding-from-the-light-NAPSNet-Policy-Forum-PDF-Nov2-2019-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nautilus.org/wp-content/uploads/2019/11/Tanter-Hiding-from-the-light-NAPSNet-Policy-Forum-PDF-Nov2-2019-1.pdf</a>  
+   Link:<a href="https://www.nautilus.org/wp-content/uploads/2019/11/Tanter-Hiding-from-the-light-NAPSNet-Policy-Forum-PDF-Nov2-2019-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nautilus.org/wp-content/uploads/2019/11/Tanter-Hiding-from-the-light-NAPSNet-Policy-Forum-PDF-Nov2-2019-1.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nautilus.org  
-   Link: <a href="https://nautilus.org/wp-content/uploads/2012/01/Australian-bases-abroad.kmz" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/wp-content/uploads/2012/01/Australian-bases-abroad.kmz</a>  
+   Link:<a href="https://nautilus.org/wp-content/uploads/2012/01/Australian-bases-abroad.kmz" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/wp-content/uploads/2012/01/Australian-bases-abroad.kmz</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nautilus.org  
-   Link: <a href="https://nautilus.org/wp-content/uploads/2011/12/After-Obama-Back-to-the-Bases-footnoted-version-18-April-1500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/wp-content/uploads/2011/12/After-Obama-Back-to-the-Bases-footnoted-version-18-April-1500.pdf</a>  
+   Link:<a href="https://nautilus.org/wp-content/uploads/2011/12/After-Obama-Back-to-the-Bases-footnoted-version-18-April-1500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/wp-content/uploads/2011/12/After-Obama-Back-to-the-Bases-footnoted-version-18-April-1500.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: minister.defence.gov.au  
    Title: Defence Ministers Securing Australia's Sovereignty | Defence Ministers  
-   Link: <a href="https://www.minister.defence.gov.au/statements/2023-02-09/securing-australias-sovereignty" target="_blank" rel="noopener noreferrer nofollow">https://www.minister.defence.gov.au/statements/2023-02-09/securing-australias-sovereignty</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence MinistersSecuring Australia&#x27;s Sovereignty | Defence MinistersFebruary 9, 2023 — 9 Feb 2023 — Australia jointly operates three fac...</p></details>
+   Link:<a href="https://www.minister.defence.gov.au/statements/2023-02-09/securing-australias-sovereignty" target="_blank" rel="noopener noreferrer nofollow">https://www.minister.defence.gov.au/statements/2023-02-09/securing-australias-sovereignty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence MinistersSecuring Australia&#x27;s Sovereignty | Defence MinistersFebruary 9, 2023 — 9 Feb 2023 — Australia jointly operates three fac...</p></details>
    Published: February 9, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abc.net.au  
    Title: backstory expanse podcast spies in the outback pine gap barwick  
-   Link: <a href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More protests took place on the road to Pine Gap as the Israel-...Read more...</p></details>
+   Link:<a href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More protests took place on the road to Pine Gap as the Israel-...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youngausint.org.au  
    Title: youngausint Australia's own Area 51: Pine Gap  
-   Link: <a href="https://www.youngausint.org.au/post/2015/06/12/australias-own-area-51-pine-gap" target="_blank" rel="noopener noreferrer nofollow">https://www.youngausint.org.au/post/2015/06/12/australias-own-area-51-pine-gap</a>  
+   Link:<a href="https://www.youngausint.org.au/post/2015/06/12/australias-own-area-51-pine-gap" target="_blank" rel="noopener noreferrer nofollow">https://www.youngausint.org.au/post/2015/06/12/australias-own-area-51-pine-gap</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: casa.gov.au  
    Title: Civil Aviation Safety Authority Alice Springs preliminary airspace review  
-   Link: <a href="https://www.casa.gov.au/preliminary-airspace-review-alice-springs" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/preliminary-airspace-review-alice-springs</a>  
+   Link:<a href="https://www.casa.gov.au/preliminary-airspace-review-alice-springs" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/preliminary-airspace-review-alice-springs</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: australiangeographic.com.au  
    Title: Australian Geographic Wycliffe Well: Australia's outback UFO hotspot  
-   Link: <a href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2025/06/wycliffe-well-australias-outback-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2025/06/wycliffe-well-australias-outback-ufo-hotspot/</a>  
+   Link:<a href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2025/06/wycliffe-well-australias-outback-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2025/06/wycliffe-well-australias-outback-ufo-hotspot/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: abc.net.au  
    Title: ABC News How Bill Chalker became one of the first civilians to access  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: abc.net.au  
    Title: ABC News04 Uncropped | UAP in the USA  
-   Link: <a href="https://www.abc.net.au/listen/programs/expanse/uap-in-the-usa/104645762" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/expanse/uap-in-the-usa/104645762</a>  
+   Link:<a href="https://www.abc.net.au/listen/programs/expanse/uap-in-the-usa/104645762" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/expanse/uap-in-the-usa/104645762</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abc.net.au  
    Title: pine gap photo revealed in alice springs  
-   Link: <a href="https://www.abc.net.au/news/2016-04-17/pine-gap-photo-revealed-in-alice-springs/7332114" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2016-04-17/pine-gap-photo-revealed-in-alice-springs/7332114</a>  
+   Link:<a href="https://www.abc.net.au/news/2016-04-17/pine-gap-photo-revealed-in-alice-springs/7332114" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2016-04-17/pine-gap-photo-revealed-in-alice-springs/7332114</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F&amp;sid=0024" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F&amp;sid=0024</a>  
+   Link:<a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F&amp;sid=0024" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F&amp;sid=0024</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: parlinfo.aph.gov.au  
    Title: aph.gov.au Australia-United States Joint Facilities  
-   Link: <a href="https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bdb%3DCHAMBER%3Bid%3Dchamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F0026%3Bquery%3DId%3A%22chamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F0026%22" target="_blank" rel="noopener noreferrer nofollow">https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bdb%3DCHAMBER%3Bid%3Dchamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F0026%3Bquery%3DId%3A%22chamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F0026%22</a>  
+   Link:<a href="https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bdb%3DCHAMBER%3Bid%3Dchamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F0026%3Bquery%3DId%3A%22chamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F0026%22" target="_blank" rel="noopener noreferrer nofollow">https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bdb%3DCHAMBER%3Bid%3Dchamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F0026%3Bquery%3DId%3A%22chamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F0026%22</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: parlinfo.aph.gov.au  
-   Link: <a href="https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bquery%3DId%3A%22chamber%2Fhansardr%2F4d60a662-a538-4e48-b2d8-9a97b8276c77%2F0016%22%3Bsrc1%3Dsm1" target="_blank" rel="noopener noreferrer nofollow">https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bquery%3DId%3A%22chamber%2Fhansardr%2F4d60a662-a538-4e48-b2d8-9a97b8276c77%2F0016%22%3Bsrc1%3Dsm1</a>  
+   Link:<a href="https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bquery%3DId%3A%22chamber%2Fhansardr%2F4d60a662-a538-4e48-b2d8-9a97b8276c77%2F0016%22%3Bsrc1%3Dsm1" target="_blank" rel="noopener noreferrer nofollow">https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bquery%3DId%3A%22chamber%2Fhansardr%2F4d60a662-a538-4e48-b2d8-9a97b8276c77%2F0016%22%3Bsrc1%3Dsm1</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: parlinfo.aph.gov.au  
    Title: aph.gov.au PIN E GAP DEFENCE SPACE RESEARCH FACILITY  
-   Link: <a href="https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bquery%3DId%3A%22chamber%2Fhansards%2F1987-10-21%2F0130%22%3Bsrc1%3Dsm1" target="_blank" rel="noopener noreferrer nofollow">https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bquery%3DId%3A%22chamber%2Fhansards%2F1987-10-21%2F0130%22%3Bsrc1%3Dsm1</a>  
+   Link:<a href="https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bquery%3DId%3A%22chamber%2Fhansards%2F1987-10-21%2F0130%22%3Bsrc1%3Dsm1" target="_blank" rel="noopener noreferrer nofollow">https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bquery%3DId%3A%22chamber%2Fhansards%2F1987-10-21%2F0130%22%3Bsrc1%3Dsm1</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2F4d60a662-a538-4e48-b2d8-9a97b8276c77%2F&amp;sid=0015" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2F4d60a662-a538-4e48-b2d8-9a97b8276c77%2F&amp;sid=0015</a>  
+   Link:<a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2F4d60a662-a538-4e48-b2d8-9a97b8276c77%2F&amp;sid=0015" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2F4d60a662-a538-4e48-b2d8-9a97b8276c77%2F&amp;sid=0015</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/~/media/B0D648AB013F486FA9D6CE366DB9A91D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/~/media/B0D648AB013F486FA9D6CE366DB9A91D.pdf</a>  
+   Link:<a href="https://www.aph.gov.au/~/media/B0D648AB013F486FA9D6CE366DB9A91D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/~/media/B0D648AB013F486FA9D6CE366DB9A91D.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2F26420%2F&amp;sid=0049" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2F26420%2F&amp;sid=0049</a>  
+   Link:<a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2F26420%2F&amp;sid=0049" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2F26420%2F&amp;sid=0049</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aph.gov.au  
    Title: j5581563 pdf.ashx  
-   Link: <a href="https://www.aph.gov.au/~/media/wopapub/house/joint/commttee/j5581563_pdf.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/~/media/wopapub/house/joint/commttee/j5581563_pdf.ashx</a>  
+   Link:<a href="https://www.aph.gov.au/~/media/wopapub/house/joint/commttee/j5581563_pdf.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/~/media/wopapub/house/joint/commttee/j5581563_pdf.ashx</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: aphref.aph.gov.au  
    Title: 1992 nwandnt  
-   Link: <a href="https://aphref.aph.gov.au/house/committee/reports/1992/1992_nwandnt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aphref.aph.gov.au/house/committee/reports/1992/1992_nwandnt.pdf</a>  
+   Link:<a href="https://aphref.aph.gov.au/house/committee/reports/1992/1992_nwandnt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aphref.aph.gov.au/house/committee/reports/1992/1992_nwandnt.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2F26420%2F&amp;sid=0048" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2F26420%2F&amp;sid=0048</a>  
+   Link:<a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2F26420%2F&amp;sid=0048" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2F26420%2F&amp;sid=0048</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Pine Gap  
-   Link: <a href="https://en.wikipedia.org/wiki/Pine_Gap" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pine_Gap</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pine_Gap" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pine_Gap</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Wycliffe Well  
-   Link: <a href="https://en.wikipedia.org/wiki/Wycliffe_Well" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wycliffe_Well</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wycliffe_Well" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wycliffe_Well</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: recordsearch.naa.gov.au  
    Title: View Image.aspx  
-   Link: <a href="https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=30030606&amp;S=1" target="_blank" rel="noopener noreferrer nofollow">https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=30030606&amp;S=1</a>  
+   Link:<a href="https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=30030606&amp;S=1" target="_blank" rel="noopener noreferrer nofollow">https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=30030606&amp;S=1</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: naa.gov.au  
    Title: flying saucers fact or fiction  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: abc.net.au  
    Title: westall ufo mystery witnesses want answers  
-   Link: <a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
+   Link:<a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: abc.net.au  
    Title: wycliffe well alien roadhouse stuart highway ufo capital  
-   Link: <a href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-07-22/wycliffe-well-alien-roadhouse-stuart-highway-ufo-capital/104102510</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: abc.net.au  
    Title: 03 Uncropped | The UFO files  
-   Link: <a href="https://www.abc.net.au/listen/programs/expanse/the-ufo-files/104645758" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/expanse/the-ufo-files/104645758</a>  
+   Link:<a href="https://www.abc.net.au/listen/programs/expanse/the-ufo-files/104645758" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/expanse/the-ufo-files/104645758</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: dst.defence.gov.au  
    Title: Fire Across the Desert  
-   Link: <a href="https://www.dst.defence.gov.au/sites/default/files/publications/documents/Fire%20Across%20the%20Desert.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dst.defence.gov.au/sites/default/files/publications/documents/Fire%20Across%20the%20Desert.pdf</a>  
+   Link:<a href="https://www.dst.defence.gov.au/sites/default/files/publications/documents/Fire%20Across%20the%20Desert.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dst.defence.gov.au/sites/default/files/publications/documents/Fire%20Across%20the%20Desert.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
    Title: AB C News  
-   Link: <a href="https://www.facebook.com/abcnews.au/posts/when-journalist-danielle-oneal-revisited-a-sugar-cane-farm-at-the-centre-of-a-uf/1153086416172627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/when-journalist-danielle-oneal-revisited-a-sugar-cane-farm-at-the-centre-of-a-uf/1153086416172627/</a>  
+   Link:<a href="https://www.facebook.com/abcnews.au/posts/when-journalist-danielle-oneal-revisited-a-sugar-cane-farm-at-the-centre-of-a-uf/1153086416172627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/when-journalist-danielle-oneal-revisited-a-sugar-cane-farm-at-the-centre-of-a-uf/1153086416172627/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/sites/default/files/media/29977/b20070107_001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/media/29977/b20070107_001.pdf</a>  
+   Link:<a href="https://www.atsb.gov.au/sites/default/files/media/29977/b20070107_001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/media/29977/b20070107_001.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: ipan.org.au  
    Title: joint defence facility pine gap  
-   Link: <a href="https://ipan.org.au/joint-defence-facility-pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://ipan.org.au/joint-defence-facility-pine-gap/</a>  
+   Link:<a href="https://ipan.org.au/joint-defence-facility-pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://ipan.org.au/joint-defence-facility-pine-gap/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: awm.gov.au  
-   Link: <a href="https://www.awm.gov.au/collection/LIB100048957" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/LIB100048957</a>  
+   Link:<a href="https://www.awm.gov.au/collection/LIB100048957" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/LIB100048957</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WtyQxVVU1bw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WtyQxVVU1bw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap &#x27;The Base&#x27; and the American spy in the desert who tells all 🕵️ | Spies in the Outback Ep4...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WtyQxVVU1bw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WtyQxVVU1bw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap &#x27;The Base&#x27; and the American spy in the desert who tells all 🕵️ | Spies in the Outback Ep4...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=O0K0AaxnID0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O0K0AaxnID0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Huge Desert Base That Doesn&#x27;t (Officially) Exist...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O0K0AaxnID0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O0K0AaxnID0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Huge Desert Base That Doesn&#x27;t (Officially) Exist...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: The Huge Desert Base That Doesn't (Officially) Exist  
-   Link: <a href="https://www.youtube.com/watch?v=BkPmreMus0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BkPmreMus0k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-US intelligence agent lifts lid on top secret base in Australia: &#x27;It&#x27;s unique&#x27; | THE ISSUE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BkPmreMus0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BkPmreMus0k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-US intelligence agent lifts lid on top secret base in Australia: &#x27;It&#x27;s unique&#x27; | THE ISSUE...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: Australia's UFO Secrets Exposed with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=hzoJPerhz-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hzoJPerhz-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap: a secret US space base in the Aussie outback 🛰️ | Spies in the Outback Ep1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hzoJPerhz-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hzoJPerhz-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap: a secret US space base in the Aussie outback 🛰️ | Spies in the Outback Ep1...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/industry-info/pilot-tools/pilot-and-airside-safety/airspace-infringement-maps-and-hotspots/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/industry-info/pilot-tools/pilot-and-airside-safety/airspace-infringement-maps-and-hotspots/</a>  
+   Link:<a href="https://www.airservicesaustralia.com/industry-info/pilot-tools/pilot-and-airside-safety/airspace-infringement-maps-and-hotspots/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/industry-info/pilot-tools/pilot-and-airside-safety/airspace-infringement-maps-and-hotspots/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: dailymotion.com  
-   Link: <a href="https://www.dailymotion.com/video/xa37ik6" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/xa37ik6</a>  
+   Link:<a href="https://www.dailymotion.com/video/xa37ik6" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/xa37ik6</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
+   Link:<a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: uncrewedapprovals.com.au  
-   Link: <a href="https://www.uncrewedapprovals.com.au/resources/reoc-assessment-prep/classes-of-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.uncrewedapprovals.com.au/resources/reoc-assessment-prep/classes-of-airspace/</a>  
+   Link:<a href="https://www.uncrewedapprovals.com.au/resources/reoc-assessment-prep/classes-of-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.uncrewedapprovals.com.au/resources/reoc-assessment-prep/classes-of-airspace/</a>  

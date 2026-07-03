@@ -262,28 +262,28 @@ image: /assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_bass_strait_di
 
 ## Introduction
 
-Among the non-UFO [explanations]({{ 'explanations-0349ac/' | relative_url }}) for Frederick [Valentich]({{ 'valentich/' | relative_url }})’s disappearance, the most discussed is spatial disorientation: the possibility that a young pilot flying at night over Bass Strait misinterpreted lights, lost a reliable sense of orientation, and entered a descending turn or “graveyard spiral”. This theory matters because it attempts to explain both the strange observations reported during Valentich’s final radio transmission and the disappearance of his aircraft without requiring an unknown object. It remains a leading aviation-based interpretation, although it cannot be proved because neither the aircraft nor Valentich was conclusively recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Flight Safety Australia Leaving this world</span><span class="citation-popover-snippet">Flight Safety AustraliaLeaving this worldFebruary 23, 2025 — 24 Feb 2025 — It was Valentich who was orbiting, spatially disorientated aft...</span></span></span>
+Among the non-UFO [explanations]({{ 'explanations-0349ac/' | relative_url }}) for Frederick [Valentich]({{ 'valentich/' | relative_url }})’s disappearance, the most discussed is spatial disorientation: the possibility that a young pilot flying at night over Bass Strait misinterpreted lights, lost a reliable sense of orientation, and entered a descending turn or “graveyard spiral”. This theory matters because it attempts to explain both the strange observations reported during Valentich’s final radio transmission and the disappearance of his aircraft without requiring an unknown object. It remains a leading aviation-based interpretation, although it cannot be proved because neither the aircraft nor Valentich was conclusively recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Flight Safety Australia Leaving this world</span><span class="citation-popover-snippet">Flight Safety AustraliaLeaving this worldFebruary 23, 2025 — 24 Feb 2025 — It was Valentich who was orbiting, spatially disorientated aft...</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_bass_strait_disorien_13f212-Illustration-1-dark.svg" | relative_url }}" alt="Disorientation illustration 1" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_bass_strait_disorien_13f212-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_bass_strait_disorien_13f212-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The theory does not claim that Valentich invented what he saw. Instead, it proposes that real visual stimuli, combined with the challenges of night flying over dark water, may have created a misleading picture of what was happening around him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Flight Safety Australia Leaving this world</span><span class="citation-popover-snippet">Flight Safety AustraliaLeaving this worldFebruary 23, 2025 — 24 Feb 2025 — It was Valentich who was orbiting, spatially disorientated aft...</span></span></span>
+The theory does not claim that Valentich invented what he saw. Instead, it proposes that real visual stimuli, combined with the challenges of night flying over dark water, may have created a misleading picture of what was happening around him.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Flight Safety Australia Leaving this world</span><span class="citation-popover-snippet">Flight Safety AustraliaLeaving this worldFebruary 23, 2025 — 24 Feb 2025 — It was Valentich who was orbiting, spatially disorientated aft...</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_bass_strait_disorien_13f212-Illustration-3-dark.svg" | relative_url }}" alt="Disorientation illustration 3" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_bass_strait_disorien_13f212-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_bass_strait_disorien_13f212-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Could a night spiral explain it?
 
-Bass Strait presents conditions that aviation safety specialists have long regarded as potentially deceptive after dark. A pilot can be flying in acceptable weather while still lacking clear visual references. Over open water, especially on a moonless or dark night, the horizon may become difficult to distinguish from the sky. Without strong external cues, pilots can begin relying on bodily sensations that are known to be unreliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Flight Safety Australia Leaving this world</span><span class="citation-popover-snippet">Flight Safety AustraliaLeaving this worldFebruary 23, 2025 — 24 Feb 2025 — It was Valentich who was orbiting, spatially disorientated aft...</span></span></span>
+Bass Strait presents conditions that aviation safety specialists have long regarded as potentially deceptive after dark. A pilot can be flying in acceptable weather while still lacking clear visual references. Over open water, especially on a moonless or dark night, the horizon may become difficult to distinguish from the sky. Without strong external cues, pilots can begin relying on bodily sensations that are known to be unreliable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Flight Safety Australia Leaving this world</span><span class="citation-popover-snippet">Flight Safety AustraliaLeaving this worldFebruary 23, 2025 — 24 Feb 2025 — It was Valentich who was orbiting, spatially disorientated aft...</span></span></span>
 
-Spatial disorientation occurs when the brain’s sense of motion and position no longer matches the aircraft’s actual attitude. The inner ear can adapt to a gradual turn and stop signalling that a turn is occurring. A pilot may then believe the aircraft is flying straight and level when it is actually banking. If altitude begins to decrease, the natural reaction is often to pull back on the controls, tightening the turn and increasing the descent rate. This can develop into what pilots call a graveyard spiral. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Graveyard_spiral" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Graveyard spiral</span><span class="citation-popover-snippet">Graveyard spiral</span></span></span>
+Spatial disorientation occurs when the brain’s sense of motion and position no longer matches the aircraft’s actual attitude. The inner ear can adapt to a gradual turn and stop signalling that a turn is occurring. A pilot may then believe the aircraft is flying straight and level when it is actually banking. If altitude begins to decrease, the natural reaction is often to pull back on the controls, tightening the turn and increasing the descent rate. This can develop into what pilots call a graveyard spiral.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Graveyard_spiral" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Graveyard spiral</span><span class="citation-popover-snippet">Graveyard spiral</span></span></span>
 
-Several later aviation analyses have suggested that Valentich’s descriptions of an object apparently circling him could fit a scenario in which his own aircraft was turning while he believed the unknown object was moving around him. In this interpretation, the reported orbiting behaviour reflected the motion of the Cessna rather than the motion of an external craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Flight Safety Australia Leaving this world</span><span class="citation-popover-snippet">Flight Safety AustraliaLeaving this worldFebruary 23, 2025 — 24 Feb 2025 — It was Valentich who was orbiting, spatially disorientated aft...</span></span></span>
+Several later aviation analyses have suggested that Valentich’s descriptions of an object apparently circling him could fit a scenario in which his own aircraft was turning while he believed the unknown object was moving around him. In this interpretation, the reported orbiting behaviour reflected the motion of the Cessna rather than the motion of an external craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Flight Safety Australia Leaving this world</span><span class="citation-popover-snippet">Flight Safety AustraliaLeaving this worldFebruary 23, 2025 — 24 Feb 2025 — It was Valentich who was orbiting, spatially disorientated aft...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zqHdBxVl2BI" title="The Pilot Who Disappeared Forever After Spotting a UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zqHdBxVl2BI" target="_blank" rel="noopener noreferrer">The Pilot Who Disappeared Forever After Spotting a UFO</a></p><p class="youtube-embed-meta">Channel: Facts Verse &middot; Views: 2.4K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zqHdBxVl2BI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zqHdBxVl2BI">Open on YouTube</a></p></div></div></div>
 
 ## Why dark-water flying can mislead pilots
 
-One reason the disorientation theory gained traction is that it does not require poor weather. Aviation accidents involving spatial disorientation frequently occur in conditions that pilots initially consider manageable. The key issue is the absence of trustworthy visual references rather than the presence of storms or heavy cloud. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Graveyard_spiral" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Graveyard spiral</span><span class="citation-popover-snippet">Graveyard spiral</span></span></span>
+One reason the disorientation theory gained traction is that it does not require poor weather. Aviation accidents involving spatial disorientation frequently occur in conditions that pilots initially consider manageable. The key issue is the absence of trustworthy visual references rather than the presence of storms or heavy cloud.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Graveyard_spiral" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Graveyard spiral</span><span class="citation-popover-snippet">Graveyard spiral</span></span></span>
 
 In the Bass Strait environment, several factors can combine:
 
@@ -293,13 +293,13 @@ In the Bass Strait environment, several factors can combine:
 * A dark sea surface that provides little horizon definition.
 * Scattered coastal or island lights that appear isolated against black water.
 * Reflections and visual contrasts that make distance and movement difficult to judge.
-* The distraction of monitoring a perceived threat or unusual object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Flight Safety Australia Leaving this world</span><span class="citation-popover-snippet">Flight Safety AustraliaLeaving this worldFebruary 23, 2025 — 24 Feb 2025 — It was Valentich who was orbiting, spatially disorientated aft...</span></span></span>
+* The distraction of monitoring a perceived threat or unusual object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Flight Safety Australia Leaving this world</span><span class="citation-popover-snippet">Flight Safety AustraliaLeaving this worldFebruary 23, 2025 — 24 Feb 2025 — It was Valentich who was orbiting, spatially disorientated aft...</span></span></span>
 
 </div>
 
-The longer a pilot concentrates on something outside the cockpit, the less attention may be available for instrument scanning. In ordinary circumstances this may be harmless. In a developing disorientation event, however, reduced instrument cross-checking can allow a subtle bank or descent to continue unnoticed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://marvmelb.blogspot.com/2012/11/the-disappearance-of-frederick-valentich.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marvmelb.blogspot.com">[marvmelb.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marvmelb.blogspot.com</span><span class="citation-popover-snippet">The Disappearance of Frederick Valentich22 Nov 2012 — His destination, Kings Island in Bass Strait, was only a 90 minute flight away...</span></span></span>
+The longer a pilot concentrates on something outside the cockpit, the less attention may be available for instrument scanning. In ordinary circumstances this may be harmless. In a developing disorientation event, however, reduced instrument cross-checking can allow a subtle bank or descent to continue unnoticed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://marvmelb.blogspot.com/2012/11/the-disappearance-of-frederick-valentich.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marvmelb.blogspot.com">[marvmelb.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marvmelb.blogspot.com</span><span class="citation-popover-snippet">The Disappearance of Frederick Valentich22 Nov 2012 — His destination, Kings Island in Bass Strait, was only a 90 minute flight away...</span></span></span>
 
-This possibility has particular relevance to the Valentich case because the radio conversation shows him devoting considerable attention to the object he believed was nearby. Even if the object was real, the act of tracking it visually could have increased the risk of losing awareness of the aircraft’s actual attitude. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+This possibility has particular relevance to the Valentich case because the radio conversation shows him devoting considerable attention to the object he believed was nearby. Even if the object was real, the act of tracking it visually could have increased the risk of losing awareness of the aircraft’s actual attitude.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_bass_strait_disorien_13f212-Illustration-2-dark.svg" | relative_url }}" alt="Disorientation illustration 2" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_bass_strait_disorien_13f212-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_bass_strait_disorien_13f212-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -307,9 +307,9 @@ This possibility has particular relevance to the Valentich case because the radi
 
 A more specific version of the disorientation theory argues that Valentich may have been observing celestial objects rather than an unknown aircraft.
 
-Sceptical investigators and later aviation commentators have pointed to the bright star Antares and other astronomical features visible from southern Australia that evening. When viewed against a dark horizon, bright celestial objects can appear unusually large, distant or mobile, especially when a pilot is turning, climbing or descending. Small aircraft movements can create the impression that a fixed light is pacing the aircraft or changing position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</span></span></span>
+Sceptical investigators and later aviation commentators have pointed to the bright star Antares and other astronomical features visible from southern Australia that evening. When viewed against a dark horizon, bright celestial objects can appear unusually large, distant or mobile, especially when a pilot is turning, climbing or descending. Small aircraft movements can create the impression that a fixed light is pacing the aircraft or changing position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</span></span></span>
 
-According to this interpretation, Valentich may have mistaken a bright astronomical object for another aircraft. As his own aircraft gradually entered a turn, the apparent relationship between the light and the aircraft changed. What he described as an object “orbiting” or circling him could therefore have been a visual illusion created by his aircraft’s movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</span></span></span>
+According to this interpretation, Valentich may have mistaken a bright astronomical object for another aircraft. As his own aircraft gradually entered a turn, the apparent relationship between the light and the aircraft changed. What he described as an object “orbiting” or circling him could therefore have been a visual illusion created by his aircraft’s movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</span></span></span>
 
 This explanation is attractive to sceptics because it links several elements of the case into one chain:
 
@@ -325,7 +325,7 @@ This explanation is attractive to sceptics because it links several elements of 
 1. A bright light is observed.
 2. The pilot attempts to track it visually.
 3. The aircraft enters a gradual turn.
-4. Spatial disorientation develops. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Spatial_disorientation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spatial disorientation</span><span class="citation-popover-snippet">Spatial disorientation</span></span></span>
+4. Spatial disorientation develops.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Spatial_disorientation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spatial disorientation</span><span class="citation-popover-snippet">Spatial disorientation</span></span></span>
 5. The light appears to manoeuvre around the aircraft.
 6. Control is eventually lost. [Flight Safety Australia+2Skeptical Inquirer](https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/)
 
@@ -354,194 +354,194 @@ Within [Tasmania]({{ 'what-really-happened-in-tasmanias-ufo/' | relative_url }})
 For many aviation investigators, that possibility makes the disorientation theory the strongest conventional explanation. For others, the absence of conclusive physical evidence means it remains a plausible hypothesis rather than a solved answer. The enduring debate reflects the central tension of the Bass Strait mystery: the radio transmission is real, the disappearance is real, but the final moments of the flight remain beyond certain reconstruction. [Wikipedia+2Snopes](https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could a night spiral explain it?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could a night spiral explain it?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die+by+Paul+A.+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Killing Zone: How &amp; Why Pilots Die on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=esvc9h5nevUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Killing Zone: How &amp; Why Pilots Die" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die+by+Paul+A.+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Killing Zone: How &amp; Why Pilots Die">The Killing Zone: How &amp; Why Pilots Die</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Craig</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die+by+Paul+A.+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Killing Zone: How &amp; Why Pilots Die on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=esvc9h5nevUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Killing Zone: How &amp; Why Pilots Die" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die+by+Paul+A.+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Killing Zone: How &amp; Why Pilots Die">The Killing Zone: How &amp; Why Pilots Die</a>
+</h4>
+<p class="fr-book-author">By Paul A. Craig</p>
         
-        <p class="fr-book-desc">Examines common causes of general aviation accidents, including disorientation and loss of situational awareness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die+by+Paul+A.+Craig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines common causes of general aviation accidents, including disorientation and loss of situational awareness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die+by+Paul+A.+Craig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
-        </h4>
-        <p class="fr-book-author">By Ernest K Gann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
+</h4>
+<p class="fr-book-author">By Ernest K Gann</p>
         
-        <p class="fr-book-desc">Explores pilot decision-making, flight hazards, perception, and accident causation in real-world flying.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores pilot decision-making, flight hazards, perception, and accident causation in real-world flying.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Factors+in+Aviation+by+Eduardo+Salas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Factors in Aviation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ohjZXuvVTc0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human Factors in Aviation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Factors+in+Aviation+by+Eduardo+Salas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Factors in Aviation">Human Factors in Aviation</a>
-        </h4>
-        <p class="fr-book-author">By Eduardo Salas, Dan Maurino</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Factors+in+Aviation+by+Eduardo+Salas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Factors in Aviation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ohjZXuvVTc0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human Factors in Aviation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Factors+in+Aviation+by+Eduardo+Salas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Factors in Aviation">Human Factors in Aviation</a>
+</h4>
+<p class="fr-book-author">By Eduardo Salas, Dan Maurino</p>
         
-        <p class="fr-book-desc">Covers perception, cognition, pilot performance, and spatial-disorientation-related issues central to graveyard spiral theories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Factors+in+Aviation+by+Eduardo+Salas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers perception, cognition, pilot performance, and spatial-disorientation-related issues central to graveyard spiral theories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Factors+in+Aviation+by+Eduardo+Salas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spatial+Disorientation+in+Aviation+by+Fred+H.+Previc&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spatial Disorientation in Aviation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eYNTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spatial Disorientation in Aviation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spatial+Disorientation+in+Aviation+by+Fred+H.+Previc&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spatial Disorientation in Aviation">Spatial Disorientation in Aviation</a>
-        </h4>
-        <p class="fr-book-author">By Fred H. Previc, William R. Ercoline</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spatial+Disorientation+in+Aviation+by+Fred+H.+Previc&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spatial Disorientation in Aviation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eYNTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spatial Disorientation in Aviation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spatial+Disorientation+in+Aviation+by+Fred+H.+Previc&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spatial Disorientation in Aviation">Spatial Disorientation in Aviation</a>
+</h4>
+<p class="fr-book-author">By Fred H. Previc, William R. Ercoline</p>
         
-        <p class="fr-book-desc">Focused specifically on the physiology, psychology, and flight dynamics behind spatial disorientation and graveyard spirals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spatial+Disorientation+in+Aviation+by+Fred+H.+Previc&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focused specifically on the physiology, psychology, and flight dynamics behind spatial disorientation and graveyard spirals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spatial+Disorientation+in+Aviation+by+Fred+H.+Previc&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Killing Zone: How &amp; Why Pilots Die</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Factors+in+Aviation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Factors in Aviation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Killing Zone: How &amp; Why Pilots Die</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Factors+in+Aviation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Factors in Aviation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print 1935 Map Australia Vegitation Tasmania Bass Strait"><img src="{{ '/assets/images/marketplace-covers/2775ba0bad366a5f3c72.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print 1935 Map Australia Vegitation Tasmania Bass Strait" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print 1935 Map Australia Vegitation Tasmania Bass Strait</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print 1935 Map Australia Vegitation Tasmania Bass Strait"><img src="{{ '/assets/images/marketplace-covers/2775ba0bad366a5f3c72.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print 1935 Map Australia Vegitation Tasmania Bass Strait" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print 1935 Map Australia Vegitation Tasmania Bass Strait</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Cassell Map 1920 Australia Tasmania Bass Strait Tasmania New Zeal 20th"><img src="{{ '/assets/images/marketplace-covers/357e9d199fd411f0115a.jpg' | relative_url }}" alt="Listing image for Old Cassell Map 1920 Australia Tasmania Bass Strait Tasmania New Zeal 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Cassell Map 1920 Australia Tasmania Bass Strait Tasmania New Zeal 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Cassell Map 1920 Australia Tasmania Bass Strait Tasmania New Zeal 20th"><img src="{{ '/assets/images/marketplace-covers/357e9d199fd411f0115a.jpg' | relative_url }}" alt="Listing image for Old Cassell Map 1920 Australia Tasmania Bass Strait Tasmania New Zeal 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Cassell Map 1920 Australia Tasmania Bass Strait Tasmania New Zeal 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old 1897 Johnston Map Australia New South Wales Victoria Bass Strait Victorian"><img src="{{ '/assets/images/marketplace-covers/1abb0dcc1100e77265aa.jpg' | relative_url }}" alt="Listing image for Old 1897 Johnston Map Australia New South Wales Victoria Bass Strait Victorian" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Old 1897 Johnston Map Australia New South Wales Victoria Bass Strait Victorian</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old 1897 Johnston Map Australia New South Wales Victoria Bass Strait Victorian"><img src="{{ '/assets/images/marketplace-covers/1abb0dcc1100e77265aa.jpg' | relative_url }}" alt="Listing image for Old 1897 Johnston Map Australia New South Wales Victoria Bass Strait Victorian" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Old 1897 Johnston Map Australia New South Wales Victoria Bass Strait Victorian</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th"><img src="{{ '/assets/images/marketplace-covers/af92614b71fb97920405.jpg' | relative_url }}" alt="Listing image for Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th"><img src="{{ '/assets/images/marketplace-covers/af92614b71fb97920405.jpg' | relative_url }}" alt="Listing image for Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="disorientation-could-a-night-spiral-explain-it-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ For many aviation investigators, that possibility makes the disorientation theor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ For many aviation investigators, that possibility makes the disorientation theor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ For many aviation investigators, that possibility makes the disorientation theor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ For many aviation investigators, that possibility makes the disorientation theor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ For many aviation investigators, that possibility makes the disorientation theor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,106 +747,106 @@ For many aviation investigators, that possibility makes the disorientation theor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Disappearance of Frederick Valentich  
-   Link: <a href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Graveyard spiral  
-   Link: <a href="https://en.wikipedia.org/wiki/Graveyard_spiral" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Graveyard_spiral</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Graveyard_spiral" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Graveyard_spiral</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Spatial disorientation  
-   Link: <a href="https://en.wikipedia.org/wiki/Spatial_disorientation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spatial_disorientation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Spatial_disorientation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spatial_disorientation</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: marvmelb.blogspot.com  
-   Link: <a href="https://marvmelb.blogspot.com/2012/11/the-disappearance-of-frederick-valentich.html" target="_blank" rel="noopener noreferrer nofollow">https://marvmelb.blogspot.com/2012/11/the-disappearance-of-frederick-valentich.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disappearance of Frederick Valentich22 Nov 2012 — His destination, Kings Island in Bass Strait, was only a 90 minute flight away...</p></details>
+   Link:<a href="https://marvmelb.blogspot.com/2012/11/the-disappearance-of-frederick-valentich.html" target="_blank" rel="noopener noreferrer nofollow">https://marvmelb.blogspot.com/2012/11/the-disappearance-of-frederick-valentich.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Disappearance of Frederick Valentich22 Nov 2012 — His destination, Kings Island in Bass Strait, was only a 90 minute flight away...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: snopes.com  
    Title: frederick valentich ufo disappearance  
-   Link: <a href="https://www.snopes.com/articles/383824/frederick-valentich-ufo-disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/articles/383824/frederick-valentich-ufo-disappearance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frederick Valentich&#x27;s &#x27;UFO&#x27; Sighting and Disappearance3 Dec 2021 — Frederick Paul Valentich was an Australian pilot who flew in 1978 and...</p></details>
+   Link:<a href="https://www.snopes.com/articles/383824/frederick-valentich-ufo-disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/articles/383824/frederick-valentich-ufo-disappearance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frederick Valentich&#x27;s &#x27;UFO&#x27; Sighting and Disappearance3 Dec 2021 — Frederick Paul Valentich was an Australian pilot who flew in 1978 and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: abc.net.au  
    Title: ABC News Frederick Valentich disappearance: How UFO helped  
-   Link: <a href="https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFrederick Valentich disappearance: How UFO helped...July 7, 2016 — 6 Jul 2016 — Valentich was a 20-year-old pilot who went missi...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFrederick Valentich disappearance: How UFO helped...July 7, 2016 — 6 Jul 2016 — Valentich was a 20-year-old pilot who went missi...</p></details>
    Published: July 7, 2016  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/gb/podcast/frederick-valentich-the-unanswered-australian-mystery/id1837358967?i=1000761913482" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/gb/podcast/frederick-valentich-the-unanswered-australian-mystery/id1837358967?i=1000761913482</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Valentich - The Unanswered - Australian Mystery17 Apr 2026 — In Part Two of Strewth&#x27;s investigation into the disappearance of Frederick V...</p></details>
+   Link:<a href="https://podcasts.apple.com/gb/podcast/frederick-valentich-the-unanswered-australian-mystery/id1837358967?i=1000761913482" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/gb/podcast/frederick-valentich-the-unanswered-australian-mystery/id1837358967?i=1000761913482</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Valentich - The Unanswered - Australian Mystery17 Apr 2026 — In Part Two of Strewth&#x27;s investigation into the disappearance of Frederick V...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pilotspost.co.za  
-   Link: <a href="https://pilotspost.co.za/PsPpyarn2723" target="_blank" rel="noopener noreferrer nofollow">https://pilotspost.co.za/PsPpyarn2723</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A brief history of Frederich ValentichFrederich Valentich mysteriously disappears while flying a Cessna 182L over the Bass Strait in Aust...</p></details>
+   Link:<a href="https://pilotspost.co.za/PsPpyarn2723" target="_blank" rel="noopener noreferrer nofollow">https://pilotspost.co.za/PsPpyarn2723</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A brief history of Frederich ValentichFrederich Valentich mysteriously disappears while flying a Cessna 182L over the Bass Strait in Aust...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/ff8xft/the_disappearance_of_frederick_valentich/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/ff8xft/the_disappearance_of_frederick_valentich/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disappearance of Frederick ValentichOne believable theory is that he was re-enacting the ATC scene from Close Encounters of the Third...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/ff8xft/the_disappearance_of_frederick_valentich/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/ff8xft/the_disappearance_of_frederick_valentich/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Disappearance of Frederick ValentichOne believable theory is that he was re-enacting the ATC scene from Close Encounters of the Third...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/899531868720663/posts/1326622742678238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/899531868720663/posts/1326622742678238/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On October 21, 1978, 20-year-old pilot Frederick Valentich took off on a routine training flight over Bass Strait. What followed...</p></details>
+   Link:<a href="https://www.facebook.com/groups/899531868720663/posts/1326622742678238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/899531868720663/posts/1326622742678238/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On October 21, 1978, 20-year-old pilot Frederick Valentich took off on a routine training flight over Bass Strait. What followed...</p></details>
    Published: October 21, 1978  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The most widely accepted mainstream explanation comes from aviation experts and sceptics...Read more...</p></details>
+   Link:<a href="https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most widely accepted mainstream explanation comes from aviation experts and sceptics...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bassstraitflight.au  
-   Link: <a href="https://bassstraitflight.au/" target="_blank" rel="noopener noreferrer nofollow">https://bassstraitflight.au/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bass Strait Flight: HomeThe exhibition &#x27;Flying by the Seat of their Pants&#x27; was presented by the Tasmanian Aviation Historical Society dur...</p></details>
+   Link:<a href="https://bassstraitflight.au/" target="_blank" rel="noopener noreferrer nofollow">https://bassstraitflight.au/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bass Strait Flight: HomeThe exhibition &#x27;Flying by the Seat of their Pants&#x27; was presented by the Tasmanian Aviation Historical Society dur...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/301761279672585/posts/854668611048513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/301761279672585/posts/854668611048513/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frederick Valentich&#x27;s mysterious disappearance during a...In 1978, a 20-year-old pilot named Frederick Valentich disappeared...</p></details>
+   Link:<a href="https://www.facebook.com/groups/301761279672585/posts/854668611048513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/301761279672585/posts/854668611048513/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frederick Valentich&#x27;s mysterious disappearance during a...In 1978, a 20-year-old pilot named Frederick Valentich disappeared...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: simpleflying.com  
    Title: cessna 182 australia disappearance 44 years  
-   Link: <a href="https://simpleflying.com/cessna-182-australia-disappearance-44-years/" target="_blank" rel="noopener noreferrer nofollow">https://simpleflying.com/cessna-182-australia-disappearance-44-years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>44 Years Ago Today A Cessna 182 Disappeared Inflight...21 Oct 2022 — Valentich was fascinated with UFOs · Valentich thought he was being...</p></details>
+   Link:<a href="https://simpleflying.com/cessna-182-australia-disappearance-44-years/" target="_blank" rel="noopener noreferrer nofollow">https://simpleflying.com/cessna-182-australia-disappearance-44-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>44 Years Ago Today A Cessna 182 Disappeared Inflight...21 Oct 2022 — Valentich was fascinated with UFOs · Valentich thought he was being...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: darktales.blog  
    Title: The Disappearance of Frederick Valentich  
-   Link: <a href="https://darktales.blog/2020/12/17/the-disappearance-of-frederick-valentich/" target="_blank" rel="noopener noreferrer nofollow">https://darktales.blog/2020/12/17/the-disappearance-of-frederick-valentich/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Tales17 Dec 2020 — A pilot and ardent believer in UFOs, Frederick Valentich disappeared over the Bass Strait between Australia and T...</p></details>
+   Link:<a href="https://darktales.blog/2020/12/17/the-disappearance-of-frederick-valentich/" target="_blank" rel="noopener noreferrer nofollow">https://darktales.blog/2020/12/17/the-disappearance-of-frederick-valentich/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Tales17 Dec 2020 — A pilot and ardent believer in UFOs, Frederick Valentich disappeared over the Bass Strait between Australia and T...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tahs.org.au  
-   Link: <a href="https://tahs.org.au/wp-content/uploads/2022/03/TAHS-2022.003.0-Aviation-Mysteries.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tahs.org.au/wp-content/uploads/2022/03/TAHS-2022.003.0-Aviation-Mysteries.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strait and into regions of Tasmania.Read more...</p></details>
+   Link:<a href="https://tahs.org.au/wp-content/uploads/2022/03/TAHS-2022.003.0-Aviation-Mysteries.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tahs.org.au/wp-content/uploads/2022/03/TAHS-2022.003.0-Aviation-Mysteries.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strait and into regions of Tasmania.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: airlinepilotforums.com  
    Title: 83762 question pilots  
-   Link: <a href="https://www.airlinepilotforums.com/hangar-talk/83762-question-pilots.html" target="_blank" rel="noopener noreferrer nofollow">https://www.airlinepilotforums.com/hangar-talk/83762-question-pilots.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A question for pilots7 Sept 2014 — Valentich became disorientated and either 1. was flying upside and mistook his own lights for those of...</p></details>
+   Link:<a href="https://www.airlinepilotforums.com/hangar-talk/83762-question-pilots.html" target="_blank" rel="noopener noreferrer nofollow">https://www.airlinepilotforums.com/hangar-talk/83762-question-pilots.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A question for pilots7 Sept 2014 — Valentich became disorientated and either 1. was flying upside and mistook his own lights for those of...</p></details>

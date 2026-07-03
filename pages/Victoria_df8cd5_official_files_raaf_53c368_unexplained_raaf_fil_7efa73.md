@@ -260,7 +260,7 @@ Many Australian UFO debates turn on a single word found in Royal Australian Air 
 
 
 <img src="{{ "/assets/images/Victoria_df8cd5_official_files_raaf_53c368_unexplained_raaf_fil_7efa73-Illustration-1-dark.svg" | relative_url }}" alt="Unexplained illustration 1" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_official_files_raaf_53c368_unexplained_raaf_fil_7efa73-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_official_files_raaf_53c368_unexplained_raaf_fil_7efa73-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-When the RAAF investigated unusual aerial sighting reports, its main task was to determine whether a report could be identified and whether it had any defence or security significance. If investigators could not confidently match a sighting to an aircraft, astronomical object, meteorological phenomenon, satellite, balloon or other known cause, the report might remain classified as unexplained or unknown. That did not amount to confirmation of alien craft, secret technology or any other specific explanation. Often it simply reflected limitations in the available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</span></span></span>
+When the RAAF investigated unusual aerial sighting reports, its main task was to determine whether a report could be identified and whether it had any defence or security significance. If investigators could not confidently match a sighting to an aircraft, astronomical object, meteorological phenomenon, satellite, balloon or other known cause, the report might remain classified as unexplained or unknown. That did not amount to confirmation of alien craft, secret technology or any other specific explanation. Often it simply reflected limitations in the available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[naa.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</span></span></span>
 
 For [Victoria]({{ 'why-victoria-became-australias-ufo/' | relative_url }}), where debates continue around cases such as Westall and the disappearance of pilot Frederick [Valentich]({{ 'valentich-d58109/' | relative_url }}), understanding this distinction is essential. The official label tells us something about the quality of identification, not necessarily the nature of the object itself.
 
@@ -268,9 +268,9 @@ For [Victoria]({{ 'why-victoria-became-australias-ufo/' | relative_url }}), wher
 
 The short answer is no.
 
-[RAAF files]({{ 'raaf-files-65c0a7/' | relative_url }}) were created for administrative, intelligence and [aviation]({{ 'aviation/' | relative_url }}) purposes rather than to certify extraordinary phenomena. A sighting could remain unexplained because investigators lacked enough information to reach a reliable conclusion. The category meant that an identification had not been achieved, not that an extraordinary explanation had been proven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</span></span></span>
+[RAAF files]({{ 'raaf-files-65c0a7/' | relative_url }}) were created for administrative, intelligence and [aviation]({{ 'aviation/' | relative_url }}) purposes rather than to certify extraordinary phenomena. A sighting could remain unexplained because investigators lacked enough information to reach a reliable conclusion. The category meant that an identification had not been achieved, not that an extraordinary explanation had been proven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</span></span></span>
 
-This is reflected in official summaries of the RAAF's historical UFO work. The National Archives of Australia notes that when the Air Force ended its UFO investigations in the 1990s, only a small percentage of reports remained unexplained and those cases were judged to present little or no security threat. The existence of an unexplained residue was therefore not treated as evidence of a major unresolved defence problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</span></span></span>
+This is reflected in official summaries of the RAAF's historical UFO work. The National Archives of Australia notes that when the Air Force ended its UFO investigations in the 1990s, only a small percentage of reports remained unexplained and those cases were judged to present little or no security threat. The existence of an unexplained residue was therefore not treated as evidence of a major unresolved defence problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</span></span></span>
 
 The distinction matters because public discussions often compress several different categories into one. A report might be:
 
@@ -293,9 +293,9 @@ Only the first category clearly identifies the cause. The remaining categories v
 
 A common misconception is that an unexplained case survived exhaustive investigation and elimination of every possible explanation. In reality, many reports arrived with major information gaps.
 
-Investigators often depended on witness recollections, which could be incomplete or inconsistent. Important details might be missing, including exact time, direction of travel, altitude, weather conditions, duration, angular size, radar data or corroborating observations. Without those details, investigators could not confidently compare the report with aircraft movements, astronomical objects or atmospheric phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">accessing australia secret ufo files</span><span class="citation-popover-snippet">Most UFO sightings and encounters could be...</span></span></span>
+Investigators often depended on witness recollections, which could be incomplete or inconsistent. Important details might be missing, including exact time, direction of travel, altitude, weather conditions, duration, angular size, radar data or corroborating observations. Without those details, investigators could not confidently compare the report with aircraft movements, astronomical objects or atmospheric phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">accessing australia secret ufo files</span><span class="citation-popover-snippet">Most UFO sightings and encounters could be...</span></span></span>
 
-Even a sincere and credible witness can observe something under poor conditions. Night-time sightings are a classic example. A bright planet, distant aircraft lights, meteors or atmospheric effects may appear unusual when viewed briefly or without reference points. If investigators cannot reconstruct the circumstances accurately enough, the case may remain unidentified despite having an ordinary explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThere were Wewak sightings offered a range of explanations for the phenomena, ranging fr...</span></span></span>
+Even a sincere and credible witness can observe something under poor conditions. Night-time sightings are a classic example. A bright planet, distant aircraft lights, meteors or atmospheric effects may appear unusual when viewed briefly or without reference points. If investigators cannot reconstruct the circumstances accurately enough, the case may remain unidentified despite having an ordinary explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThere were Wewak sightings offered a range of explanations for the phenomena, ranging fr...</span></span></span>
 
 This is one reason [official files]({{ 'official-files-a58fb3/' | relative_url }}) contain cases that remain unresolved decades later. The uncertainty often comes from missing data rather than from evidence pointing strongly towards a remarkable conclusion.
 
@@ -309,7 +309,7 @@ Some involve a single witness, vague descriptions and little supporting informat
 
 Others involve multiple witnesses, trained observers, radar returns, photographs or detailed contemporaneous documentation. These cases may remain unexplained despite having far more information available. Such reports naturally attract greater attention from researchers because the unresolved element survives a stronger evidential test.
 
-The problem is that official file classifications do not always distinguish clearly between these very different situations. A reader may see the same word—*unexplained*—applied to both a poorly documented sighting and a much richer case file. As a result, the label itself tells only part of the story. The underlying evidence remains more important than the category attached to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">accessing australia secret ufo files</span><span class="citation-popover-snippet">Most UFO sightings and encounters could be...</span></span></span>
+The problem is that official file classifications do not always distinguish clearly between these very different situations. A reader may see the same word—*unexplained*—applied to both a poorly documented sighting and a much richer case file. As a result, the label itself tells only part of the story. The underlying evidence remains more important than the category attached to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">accessing australia secret ufo files</span><span class="citation-popover-snippet">Most UFO sightings and encounters could be...</span></span></span>
 
 This helps explain why historians and researchers often revisit original witness statements, correspondence and investigation [records]({{ 'records/' | relative_url }}) rather than relying solely on the final classification.
 
@@ -322,7 +322,7 @@ Victoria contains some of Australia's most discussed UFO-related incidents, and 
 
 ### Westall and the problem of missing records
 
-The 1966 [Westall]({{ 'westall/' | relative_url }}) sighting in Melbourne is often presented as evidence that authorities knew more than they admitted. Witnesses described unusual objects and reported aircraft activity in the area. Over the decades, the absence of a comprehensive official explanation has encouraged claims that the event remains unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — It may be of interest to researchers in Au...</span></span></span>
+The 1966 [Westall]({{ 'westall/' | relative_url }}) sighting in Melbourne is often presented as evidence that authorities knew more than they admitted. Witnesses described unusual objects and reported aircraft activity in the area. Over the decades, the absence of a comprehensive official explanation has encouraged claims that the event remains unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — It may be of interest to researchers in Au...</span></span></span>
 
 However, an unexplained status does not automatically support every later claim made about the incident. It may indicate that surviving evidence is incomplete, that records are fragmentary, or that competing explanations cannot be decisively tested. In other words, unresolved does not necessarily mean inexplicable.
 
@@ -330,7 +330,7 @@ However, an unexplained status does not automatically support every later claim 
 <img src="{{ "/assets/images/Victoria_df8cd5_official_files_raaf_53c368_unexplained_raaf_fil_7efa73-Illustration-3-dark.svg" | relative_url }}" alt="Unexplained illustration 3" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_official_files_raaf_53c368_unexplained_raaf_fil_7efa73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_official_files_raaf_53c368_unexplained_raaf_fil_7efa73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Frederick Valentich and competing interpretations
 
-The disappearance of Frederick Valentich over Bass Strait in 1978 remains one of Australia's most famous UFO-linked cases. Valentich reported a strange object before radio contact ended and his aircraft disappeared. The case entered popular culture as a possible UFO mystery, yet later researchers proposed more conventional explanations involving pilot disorientation and aviation factors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</span></span></span>
+The disappearance of Frederick Valentich over Bass Strait in 1978 remains one of Australia's most famous UFO-linked cases. Valentich reported a strange object before radio contact ended and his aircraft disappeared. The case entered popular culture as a possible UFO mystery, yet later researchers proposed more conventional explanations involving pilot disorientation and aviation factors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</span></span></span>
 
 Here again, the important point is that a lack of certainty about what Valentich saw is not the same as official confirmation of an extraordinary craft. The case remains debated because the available evidence does not permit a definitive reconstruction of events.
 
@@ -340,7 +340,7 @@ The word *unexplained* carries a stronger everyday meaning than it did in many o
 
 To the public, unexplained often implies that experts examined every possibility and found none satisfactory. In bureaucratic and investigative settings, the term can simply mean that no reliable identification was reached from the information available.
 
-This misunderstanding has fuelled secrecy claims for decades. When readers encounter a file marked unexplained, they may assume it represents hidden knowledge or suppressed conclusions. Yet the surviving RAAF record generally points in a different direction: investigators attempted to identify reports, explained most of them through ordinary causes, and left a small residue unresolved because the evidence was insufficient or inconclusive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA+2SBS Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</span></span></span>
+This misunderstanding has fuelled secrecy claims for decades. When readers encounter a file marked unexplained, they may assume it represents hidden knowledge or suppressed conclusions. Yet the surviving RAAF record generally points in a different direction: investigators attempted to identify reports, explained most of them through ordinary causes, and left a small residue unresolved because the evidence was insufficient or inconclusive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[naa.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</span></span></span>
 
 For students of Victoria's UFO history, that distinction is one of the most important lessons to draw from the archives. An unexplained case deserves attention, but the real question is not the label itself. The real question is how much evidence exists, how reliable it is, and whether the mystery survives careful scrutiny.
 
@@ -349,194 +349,194 @@ For students of Victoria's UFO history, that distinction is one of the most impo
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did unexplained ever mean confirmed UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did unexplained ever mean confirmed UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses how military, aviation, and government personnel handle unexplained sightings rather than treating them as confirmed e...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how military, aviation, and government personnel handle unexplained sightings rather than treating them as confirmed e...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains classification, evidence quality, and why many cases remain unidentified without implying extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains classification, evidence quality, and why many cases remain unidentified without implying extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores the limits of investigation and interpretation when reports cannot be conclusively identified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the limits of investigation and interpretation when reports cannot be conclusively identified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Challenges simplistic assumptions that unexplained reports automatically support a single extraordinary explanation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Challenges simplistic assumptions that unexplained reports automatically support a single extraordinary explanation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="unexplained-did-unexplained-ever-mean-confirmed-ufo-victoria-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-unexplained-ever-mean-confirmed-ufo-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ For students of Victoria's UFO history, that distinction is one of the most impo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ For students of Victoria's UFO history, that distinction is one of the most impo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ For students of Victoria's UFO history, that distinction is one of the most impo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ For students of Victoria's UFO history, that distinction is one of the most impo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ For students of Victoria's UFO history, that distinction is one of the most impo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,117 +742,117 @@ For students of Victoria's UFO history, that distinction is one of the most impo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: naa.gov.au  
    Title: flying saucers fact or fiction  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</p></details>
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: abc.net.au  
    Title: accessing australia secret ufo files  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most UFO sightings and encounters could be...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most UFO sightings and encounters could be...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sbs.com.au  
-   Link: <a href="https://www.sbs.com.au/news/article/if-you-see-an-ufo-dont-call-the-raaf/20fpw1f6x" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/if-you-see-an-ufo-dont-call-the-raaf/20fpw1f6x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SBS AustraliaIf you see an UFO, don&#x27;t call the RAAF18 Aug 2015 —... UFO function officially ended in 1996. &quot;Scientific records suggested...</p></details>
+   Link:<a href="https://www.sbs.com.au/news/article/if-you-see-an-ufo-dont-call-the-raaf/20fpw1f6x" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/if-you-see-an-ufo-dont-call-the-raaf/20fpw1f6x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SBS AustraliaIf you see an UFO, don&#x27;t call the RAAF18 Aug 2015 —... UFO function officially ended in 1996. &quot;Scientific records suggested...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThere were Wewak sightings offered a range of explanations for the phenomena, ranging fr...</p></details>
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThere were Wewak sightings offered a range of explanations for the phenomena, ranging fr...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blogs.slv.vic.gov.au  
    Title: strange lights in the sky the westall ufo event 1966  
-   Link: <a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — It may be of interest to researchers in Au...</p></details>
+   Link:<a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — It may be of interest to researchers in Au...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsSightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Ministry of Defence has kep...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsSightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Ministry of Defence has kep...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>During the Cold. War, for example, the major threat came from behind the Iron Curtain.Read more...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>During the Cold. War, for example, the major threat came from behind the Iron Curtain.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILES16 A sighting of a &#x27;flying saucer&#x27; by RAF. Shackleton aircrew. inYorkshire during a NATO exercise made news headlines in Septemb...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILES16 A sighting of a &#x27;flying saucer&#x27; by RAF. Shackleton aircrew. inYorkshire during a NATO exercise made news headlines in Septemb...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: abc.net.au  
    Title: australian defence dept says it is not looking at ufos  
-   Link: <a href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs remain a mystery to US intelligence. A newspaper report from Sydney&#x27;s The Daily Mirror on a UFO incident.Read more...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs remain a mystery to US intelligence. A newspaper report from Sydney&#x27;s The Daily Mirror on a UFO incident.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abc.net.au  
    Title: defence wont follow pentagon in ufo alien investigation  
-   Link: <a href="https://www.abc.net.au/news/2021-10-28/defence-wont-follow-pentagon-in-ufo-alien-investigation/100574392" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-10-28/defence-wont-follow-pentagon-in-ufo-alien-investigation/100574392</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence won&#x27;t follow Pentagon to launch an investigation...27 Oct 2021 — The Royal Australian Air Force chief says Australia has no plan...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2021-10-28/defence-wont-follow-pentagon-in-ufo-alien-investigation/100574392" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-10-28/defence-wont-follow-pentagon-in-ufo-alien-investigation/100574392</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence won&#x27;t follow Pentagon to launch an investigation...27 Oct 2021 — The Royal Australian Air Force chief says Australia has no plan...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsAware of this mounting skepticism, the Air Force quickly declassified and transferred it...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsAware of this mounting skepticism, the Air Force quickly declassified and transferred it...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A 2014 discovery of documents from a secret US-Australian radiation-testing initiative, the HIBAL project, fueled speculation that the ob...</p></details>
+   Link:<a href="https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A 2014 discovery of documents from a secret US-Australian radiation-testing initiative, the HIBAL project, fueled speculation that the ob...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It remains the biggest mass sighting of a UFO in Australian...RAAF Investigations and Declassified Documents For decades, the Royal Aust...</p></details>
+   Link:<a href="https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It remains the biggest mass sighting of a UFO in Australian...RAAF Investigations and Declassified Documents For decades, the Royal Aust...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_554-1-30%2C_part_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/a8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_554-1-30%2C_part_3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsJ 5~4nenreat RAAF base and if thie is impractical is nearest civil airport or police station. 3. The investigation of a...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_554-1-30%2C_part_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/a8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_554-1-30%2C_part_3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsJ 5~4nenreat RAAF base and if thie is impractical is nearest civil airport or police station. 3. The investigation of a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kjagAVNX9H0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kjagAVNX9H0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FROM THE ARCHIVE: How 7NEWS covered UFO &#x27;sightings...FROM THE ARCHIVE: How 7NEWS covered UFO &#x27;sightings&#x27; over the past five years | 7NEW...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kjagAVNX9H0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kjagAVNX9H0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FROM THE ARCHIVE: How 7NEWS covered UFO &#x27;sightings...FROM THE ARCHIVE: How 7NEWS covered UFO &#x27;sightings&#x27; over the past five years | 7NEW...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: australian government ufo report from 1960 hosted  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1d0gmns/australian_government_ufo_report_from_1960_hosted/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d0gmns/australian_government_ufo_report_from_1960_hosted/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian government UFO Report from 1960, hosted on...Australian government UFO Report from 1960, hosted on the Australian official Na...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1d0gmns/australian_government_ufo_report_from_1960_hosted/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d0gmns/australian_government_ufo_report_from_1960_hosted/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian government UFO Report from 1960, hosted on...Australian government UFO Report from 1960, hosted on the Australian official Na...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sed a potential threat to national security and aviation safety.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sed a potential threat to national security and aviation safety.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings are retained in the national archival...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings are retained in the national archival...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/odwhxt/called_the_national_archives_of_australia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/odwhxt/called_the_national_archives_of_australia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Compilation of UFOs, Aliens and Anomalies in the NASA Archives...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/odwhxt/called_the_national_archives_of_australia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/odwhxt/called_the_national_archives_of_australia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Compilation of UFOs, Aliens and Anomalies in the NASA Archives...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: themandarin.com.au  
    Title: 243606 defence drops 10 page ufo dossier  
-   Link: <a href="https://www.themandarin.com.au/243606-defence-drops-10-page-ufo-dossier/" target="_blank" rel="noopener noreferrer nofollow">https://www.themandarin.com.au/243606-defence-drops-10-page-ufo-dossier/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence drops 10-page UFO dossier8 Apr 2024 — Defence drops 10-page UFO dossier. The dossier... One document clarified Defence stopped a...</p></details>
+   Link:<a href="https://www.themandarin.com.au/243606-defence-drops-10-page-ufo-dossier/" target="_blank" rel="noopener noreferrer nofollow">https://www.themandarin.com.au/243606-defence-drops-10-page-ufo-dossier/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence drops 10-page UFO dossier8 Apr 2024 — Defence drops 10-page UFO dossier. The dossier... One document clarified Defence stopped a...</p></details>

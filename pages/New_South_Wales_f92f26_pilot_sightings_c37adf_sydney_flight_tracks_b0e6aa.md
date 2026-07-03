@@ -260,11 +260,11 @@ Sydney is one of the best places in Australia to test pilot UFO reports against 
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf_sydney_flight_tracks_b0e6aa-Illustration-1-dark.svg" | relative_url }}" alt="Flight Tracks illustration 1" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf_sydney_flight_tracks_b0e6aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf_sydney_flight_tracks_b0e6aa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For [New South Wales]({{ 'what-makes-new-south-wales-ufo-reports/' | relative_url }}) UFO researchers, flight-track reconstruction does not automatically solve a case. What it does provide is a way to move beyond witness testimony alone and ask a more precise question: was there a known aircraft, flight path or operational factor that could account for what the pilot reported? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">AirservicesWebTrak - AirservicesWebTrak uses information from air traffic control secondary surveillance radars to display aircraft movem...</span></span></span>
+For [New South Wales]({{ 'what-makes-new-south-wales-ufo-reports/' | relative_url }}) UFO researchers, flight-track reconstruction does not automatically solve a case. What it does provide is a way to move beyond witness testimony alone and ask a more precise question: was there a known aircraft, flight path or operational factor that could account for what the pilot reported?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">AirservicesWebTrak - AirservicesWebTrak uses information from air traffic control secondary surveillance radars to display aircraft movem...</span></span></span>
 
 ## What WebTrak and radar-linked data can show
 
-The most widely accessible reconstruction tool for Sydney-area sightings is Airservices Australia's WebTrak system. WebTrak uses information derived from air traffic control secondary surveillance radar to display aircraft movements within roughly 100 kilometres of major airports and up to 30,000 feet altitude. Historical movements can also be reviewed, allowing investigators to compare reported sighting times with known aircraft positions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">AirservicesWebTrak - AirservicesWebTrak uses information from air traffic control secondary surveillance radars to display aircraft movem...</span></span></span>
+The most widely accessible reconstruction tool for Sydney-area sightings is Airservices Australia's WebTrak system. WebTrak uses information derived from air traffic control secondary surveillance radar to display aircraft movements within roughly 100 kilometres of major airports and up to 30,000 feet altitude. Historical movements can also be reviewed, allowing investigators to compare reported sighting times with known aircraft positions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">AirservicesWebTrak - AirservicesWebTrak uses information from air traffic control secondary surveillance radars to display aircraft movem...</span></span></span>
 
 For a pilot UFO report, the reconstruction process usually begins with four basic questions:
 
@@ -278,18 +278,18 @@ For a pilot UFO report, the reconstruction process usually begins with four basi
 
 </div>
 
-If a sighting occurred near Sydney's approach corridors, WebTrak may reveal whether another aircraft was climbing, descending or crossing the observer's track. Public ADS-B tracking archives can sometimes supplement this information by showing aircraft identities, routes and historical positions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adsbexchange.com/api/aircraft/v2/docs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">ADS-B ExchangeADSB Exchange API DocumentationThe ADSB Exchange API provides real-time access to live global flight data, enabling retriev...</span></span></span>
+If a sighting occurred near Sydney's approach corridors, WebTrak may reveal whether another aircraft was climbing, descending or crossing the observer's track. Public ADS-B tracking archives can sometimes supplement this information by showing aircraft identities, routes and historical positions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adsbexchange.com/api/aircraft/v2/docs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">ADS-B ExchangeADSB Exchange API DocumentationThe ADSB Exchange API provides real-time access to live global flight data, enabling retriev...</span></span></span>
 
 This approach is especially valuable because pilot descriptions often focus on relative motion. An object that appears to accelerate, hover or make a sharp turn may actually be another aircraft viewed from an unusual angle. Once track data are plotted, apparent manoeuvres can sometimes be explained by geometry rather than extraordinary performance.
 
-A useful lesson comes from broader aviation-UAP research. Modern investigations have demonstrated that combining flight-track data with positional reconstruction can successfully explain some apparently mysterious pilot observations, including cases initially reported as anomalous objects. In one published study, researchers used ADS-B flight data and orbital information to reconstruct a pilot sighting later attributed to newly launched Starlink satellites rather than an unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+A useful lesson comes from broader aviation-UAP research. Modern investigations have demonstrated that combining flight-track data with positional reconstruction can successfully explain some apparently mysterious pilot observations, including cases initially reported as anomalous objects. In one published study, researchers used ADS-B flight data and orbital information to reconstruct a pilot sighting later attributed to newly launched Starlink satellites rather than an unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G8E5sDMzRG4" title="Package 3: Flight path options" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G8E5sDMzRG4" target="_blank" rel="noopener noreferrer">Package 3: Flight path options</a></p><p class="youtube-embed-meta">Channel: Airservices Australia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G8E5sDMzRG4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G8E5sDMzRG4">Open on YouTube</a></p></div></div></div>
 
 ## How Sydney traffic flows create strange impressions
 
-Sydney's airspace is unusually complex. Aircraft arrive and depart using multiple runways, and traffic patterns change according to wind direction, airport demand and noise-management procedures. Flights may follow different paths during "north flow" and "south flow" operations, producing dramatically different traffic geometries over the city and surrounding regions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise+2Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-snippet">Aircraft NoiseCategory: What are the flight paths in my areaThe inner suburbs of Sydney are affected by aircraft arriving to and departin...</span></span></span>
+Sydney's airspace is unusually complex. Aircraft arrive and depart using multiple runways, and traffic patterns change according to wind direction, airport demand and noise-management procedures. Flights may follow different paths during "north flow" and "south flow" operations, producing dramatically different traffic geometries over the city and surrounding regions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-snippet">Aircraft NoiseCategory: What are the flight paths in my areaThe inner suburbs of Sydney are affected by aircraft arriving to and departin...</span></span></span>
 
 For a pilot, several recurring visual effects can resemble something unusual:
 
@@ -303,7 +303,7 @@ For a pilot, several recurring visual effects can resemble something unusual:
 
 **Altitude misjudgement.** Night conditions, haze and cloud layers can make it difficult to estimate distance, causing ordinary aircraft to appear closer or more extraordinary than they are.
 
-Sydney's approach system regularly requires controllers to organise traffic from several directions into orderly landing sequences. Public flight-path illustrations show how aircraft can be turned over suburbs, the coast and the Sydney Basin before joining final approach. Viewed from another aircraft, these manoeuvres can sometimes appear puzzling if only a small portion of the movement is observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise+2Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-title">Aircraft Noise Category: What are the flight paths in my area North flow</span><span class="citation-popover-snippet">When the parallel runways are being used in a northerly direction, (“north flow”), arriving aircraft will pass over suburbs in the Suther...</span></span></span>
+Sydney's approach system regularly requires controllers to organise traffic from several directions into orderly landing sequences. Public flight-path illustrations show how aircraft can be turned over suburbs, the coast and the Sydney Basin before joining final approach. Viewed from another aircraft, these manoeuvres can sometimes appear puzzling if only a small portion of the movement is observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-title">Aircraft Noise Category: What are the flight paths in my area North flow</span><span class="citation-popover-snippet">When the parallel runways are being used in a northerly direction, (“north flow”), arriving aircraft will pass over suburbs in the Suther...</span></span></span>
 
 This does not mean every pilot report is mistaken. Rather, it means that any investigation that ignores local traffic patterns is likely to miss the most common explanations.
 
@@ -336,7 +336,7 @@ For example, if a pilot reported a bright object south of Sydney during a north-
 
 Despite the value of flight-track analysis, it has important limitations.
 
-WebTrak is not a complete air-surveillance archive. Airservices notes that the positional data used by the system contain inherent uncertainty, and the public display is designed primarily for community noise and flight-path awareness rather than forensic investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://au.webtrak.aero/syd3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: au.webtrak.aero">[WebTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">au.webtrak.aero</span><span class="citation-popover-title">Web Trak Sydney</span><span class="citation-popover-snippet">Sydney - WebTrakWebTrak provides a visualization of the traffic flow in and around the airspace. The positional and other data use...</span></span></span>
+WebTrak is not a complete air-surveillance archive. Airservices notes that the positional data used by the system contain inherent uncertainty, and the public display is designed primarily for community noise and flight-path awareness rather than forensic investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://au.webtrak.aero/syd3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: au.webtrak.aero">[WebTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">au.webtrak.aero</span><span class="citation-popover-title">Web Trak Sydney</span><span class="citation-popover-snippet">Sydney - WebTrakWebTrak provides a visualization of the traffic flow in and around the airspace. The positional and other data use...</span></span></span>
 
 Other limitations include:
 
@@ -344,16 +344,16 @@ Other limitations include:
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Not every aircraft appears equally in public tracking systems.
-* Historical data availability varies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[adsbexchange.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">Data ProductsLive and historical aircraft data for tracking, monitoring, and analysis, delivered via API and data feeds. Live data. The m...</span></span></span>
+* Historical data availability varies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[adsbexchange.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">Data ProductsLive and historical aircraft data for tracking, monitoring, and analysis, delivered via API and data feeds. Live data. The m...</span></span></span>
 * Military operations may not be fully represented in public datasets.
 * Small drones, balloons and some other aerial objects may not generate useful public tracking information.
 * Track data show positions, not what a pilot actually perceived from the cockpit.
 
 </div>
 
-ADS-B datasets themselves can contain dropouts, missing updates and other anomalies, meaning apparent gaps in tracking do not automatically indicate an unknown object. Researchers studying ADS-B performance have documented issues such as message loss and incomplete coverage that can affect reconstruction quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2306-5729/3/2/19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">UAT ADS-B Data Anomalies and the Effect of Flight...by A Tabassum · 2018 · Cited by 38 — The data investigation revealed ADS-B messa...</span></span></span>
+ADS-B datasets themselves can contain dropouts, missing updates and other anomalies, meaning apparent gaps in tracking do not automatically indicate an unknown object. Researchers studying ADS-B performance have documented issues such as message loss and incomplete coverage that can affect reconstruction quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2306-5729/3/2/19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">UAT ADS-B Data Anomalies and the Effect of Flight...by A Tabassum · 2018 · Cited by 38 — The data investigation revealed ADS-B messa...</span></span></span>
 
-Operational changes can also complicate analysis. Runway usage around Sydney may shift because of wind conditions or traffic-management requirements, altering aircraft routes from one day to the next. A reconstruction that ignores these factors can easily misinterpret what was happening in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise+2Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-snippet">Aircraft NoiseCategory: What are the flight paths in my areaNortherly wind conditions at the airport (including north-westerlies and nort...</span></span></span>
+Operational changes can also complicate analysis. Runway usage around Sydney may shift because of wind conditions or traffic-management requirements, altering aircraft routes from one day to the next. A reconstruction that ignores these factors can easily misinterpret what was happening in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-snippet">Aircraft NoiseCategory: What are the flight paths in my areaNortherly wind conditions at the airport (including north-westerlies and nort...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf_sydney_flight_tracks_b0e6aa-Illustration-3-dark.svg" | relative_url }}" alt="Flight Tracks illustration 3" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf_sydney_flight_tracks_b0e6aa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf_sydney_flight_tracks_b0e6aa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -363,201 +363,201 @@ Flight-track analysis is one of the strongest tools available for assessing mode
 
 In some cases, reconstruction shows that a reported UFO was probably another aircraft, a known flight path, or a visual effect created by Sydney's busy airspace. In other cases, the available data may be incomplete, leaving the sighting unresolved rather than explained. The important point is that Sydney's radar-linked tracking systems allow many reports to be tested against independent evidence instead of relying solely on memory and testimony.
 
-Within the broader history of Sydney air routes and pilot sighting evidence, that ability to reconstruct events is often more significant than the sighting itself. A report supported by timing, track data and operational context is far easier to evaluate than one that exists only as an anecdote, whether the final result points towards an ordinary explanation or remains genuinely uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices+2WebTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">AirservicesWebTrak - AirservicesWebTrak uses information from air traffic control secondary surveillance radars to display aircraft movem...</span></span></span>
+Within the broader history of Sydney air routes and pilot sighting evidence, that ability to reconstruct events is often more significant than the sighting itself. A report supported by timing, track data and operational context is far easier to evaluate than one that exists only as an anecdote, whether the final result points towards an ordinary explanation or remains genuinely uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[airservicesaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">AirservicesWebTrak - AirservicesWebTrak uses information from air traffic control secondary surveillance radars to display aircraft movem...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e-WDx7byI0k" title="UFO&#x27;s Over Palmdale August 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e-WDx7byI0k" target="_blank" rel="noopener noreferrer">UFO&#x27;s Over Palmdale August 2022</a></p><p class="youtube-embed-meta">Channel: FADE TO BLACK Radio &middot; Views: 5.2K &middot; Uploaded: November 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e-WDx7byI0k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e-WDx7byI0k">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Sydney flight tracks solve UFO reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Sydney flight tracks solve UFO reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses pilot sightings, radar-supported cases and the evaluation of unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses pilot sightings, radar-supported cases and the evaluation of unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on investigating reports systematically rather than relying on anecdote alone.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigating reports systematically rather than relying on anecdote alone.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers official investigations, witness reports and methods for assessing unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers official investigations, witness reports and methods for assessing unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader context for interpreting unusual aerial reports and recurring witness narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for interpreting unusual aerial reports and recurring witness narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="flight-tracks-can-sydney-flight-tracks-solve-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-sydney-flight-tracks-solve-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ Within the broader history of Sydney air routes and pilot sighting evidence, tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ Within the broader history of Sydney air routes and pilot sighting evidence, tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ Within the broader history of Sydney air routes and pilot sighting evidence, tha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ Within the broader history of Sydney air routes and pilot sighting evidence, tha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ Within the broader history of Sydney air routes and pilot sighting evidence, tha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,200 +763,200 @@ Within the broader history of Sydney air routes and pilot sighting evidence, tha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: au.webtrak.aero  
    Title: Web Trak Sydney  
-   Link: <a href="https://au.webtrak.aero/syd3" target="_blank" rel="noopener noreferrer nofollow">https://au.webtrak.aero/syd3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sydney - WebTrakWebTrak provides a visualization of the traffic flow in and around the airspace. The positional and other data use...</p></details>
+   Link:<a href="https://au.webtrak.aero/syd3" target="_blank" rel="noopener noreferrer nofollow">https://au.webtrak.aero/syd3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sydney - WebTrakWebTrak provides a visualization of the traffic flow in and around the airspace. The positional and other data use...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2306-5729/3/2/19" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2306-5729/3/2/19</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAT ADS-B Data Anomalies and the Effect of Flight...by A Tabassum · 2018 · Cited by 38 — The data investigation revealed ADS-B messa...</p></details>
+   Link:<a href="https://www.mdpi.com/2306-5729/3/2/19" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2306-5729/3/2/19</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAT ADS-B Data Anomalies and the Effect of Flight...by A Tabassum · 2018 · Cited by 38 — The data investigation revealed ADS-B messa...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.06254</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C Data...</p></details>
+   Link:<a href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.06254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C Data...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — Scientific investigation of Unidentified Anomalous Phenomena (UAP) is limited by poor data quality and incomp...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — Scientific investigation of Unidentified Anomalous Phenomena (UAP) is limited by poor data quality and incomp...</p></details>
    Published: May 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: airservicesaustralia.com  
    Title: Airservices Web Trak  
-   Link: <a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesWebTrak - AirservicesWebTrak uses information from air traffic control secondary surveillance radars to display aircraft movem...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesWebTrak - AirservicesWebTrak uses information from air traffic control secondary surveillance radars to display aircraft movem...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aircraftnoise.airservicesaustralia.com  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/5/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseCategory: What are the flight paths in my areaThe inner suburbs of Sydney are affected by aircraft arriving to and departin...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseCategory: What are the flight paths in my areaThe inner suburbs of Sydney are affected by aircraft arriving to and departin...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aviationcomplaints.gov.au  
-   Link: <a href="https://www.aviationcomplaints.gov.au/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationcomplaints.gov.au/aircraft-noise</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft noiseAirservices online system, WebTrak, shows information about aircraft movements around eight major Australian airports. Usin...</p></details>
+   Link:<a href="https://www.aviationcomplaints.gov.au/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationcomplaints.gov.au/aircraft-noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft noiseAirservices online system, WebTrak, shows information about aircraft movements around eight major Australian airports. Usin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/api/aircraft/v2/docs" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/api/aircraft/v2/docs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeADSB Exchange API DocumentationThe ADSB Exchange API provides real-time access to live global flight data, enabling retriev...</p></details>
+   Link:<a href="https://www.adsbexchange.com/api/aircraft/v2/docs" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/api/aircraft/v2/docs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeADSB Exchange API DocumentationThe ADSB Exchange API provides real-time access to live global flight data, enabling retriev...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data ProductsLive and historical aircraft data for tracking, monitoring, and analysis, delivered via API and data feeds. Live data. The m...</p></details>
+   Link:<a href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data ProductsLive and historical aircraft data for tracking, monitoring, and analysis, delivered via API and data feeds. Live data. The m...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aircraftnoise.airservicesaustralia.com  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseCategory: What are the flight paths in my areaNortherly wind conditions at the airport (including north-westerlies and nort...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseCategory: What are the flight paths in my areaNortherly wind conditions at the airport (including north-westerlies and nort...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aircraftnoise.airservicesaustralia.com  
    Title: Aircraft Noise When is each flight path used?  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/2020/04/30/when-is-each-flight-path-used/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2020/04/30/when-is-each-flight-path-used/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AsA National Insightfull30 Apr 2020 — For this reason, if the wind is not a factor in the decision, north flow will usually be preferre...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/2020/04/30/when-is-each-flight-path-used/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2020/04/30/when-is-each-flight-path-used/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AsA National Insightfull30 Apr 2020 — For this reason, if the wind is not a factor in the decision, north flow will usually be preferre...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aircraftnoise.airservicesaustralia.com  
    Title: Aircraft Noise Category: What are the flight paths in my area North flow  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/6/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the parallel runways are being used in a northerly direction, (“north flow”), arriving aircraft will pass over suburbs in the Suther...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/6/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the parallel runways are being used in a northerly direction, (“north flow”), arriving aircraft will pass over suburbs in the Suther...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aircraftnoise.airservicesaustralia.com  
    Title: sydney airport arrivals south flow  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/2020/05/18/sydney-airport-arrivals-south-flow/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2020/05/18/sydney-airport-arrivals-south-flow/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airport arrivals – south flow – AsA National Insightfull18 May 2020 — Suburbs to the north of the airport are affected primarily by aircr...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/2020/05/18/sydney-airport-arrivals-south-flow/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2020/05/18/sydney-airport-arrivals-south-flow/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airport arrivals – south flow – AsA National Insightfull18 May 2020 — Suburbs to the north of the airport are affected primarily by aircr...</p></details>
    Published: May 2020  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aircraftnoise.airservicesaustralia.com  
    Title: sydney airport flight paths over the sutherland shire  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/2020/05/18/sydney-airport-flight-paths-over-the-sutherland-shire/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2020/05/18/sydney-airport-flight-paths-over-the-sutherland-shire/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airport flight paths over the Sutherland Shire18 May 2020 — Aircraft arriving into Sydney from the south-west will pass over suburbs such...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/2020/05/18/sydney-airport-flight-paths-over-the-sutherland-shire/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2020/05/18/sydney-airport-flight-paths-over-the-sutherland-shire/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airport flight paths over the Sutherland Shire18 May 2020 — Aircraft arriving into Sydney from the south-west will pass over suburbs such...</p></details>
    Published: May 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aircraftnoise.airservicesaustralia.com  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/2020/04/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2020/04/page/2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseApril 2020 – Page 2 - Aircraft in your Neighbourhood30 Apr 2020 — Southerly wind conditions at the airport, including south...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/2020/04/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2020/04/page/2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseApril 2020 – Page 2 - Aircraft in your Neighbourhood30 Apr 2020 — Southerly wind conditions at the airport, including south...</p></details>
    Published: April 2020  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aircraftnoise.airservicesaustralia.com  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/noise-abatement-procedure-reporting/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/noise-abatement-procedure-reporting/page/2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporting dating back to January 2025 is...Read more...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/noise-abatement-procedure-reporting/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/noise-abatement-procedure-reporting/page/2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporting dating back to January 2025 is...Read more...</p></details>
    Published: January 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: engage.airservicesaustralia.com  
-   Link: <a href="https://engage.airservicesaustralia.com/96933/widgets/452915/documents/325989" target="_blank" rel="noopener noreferrer nofollow">https://engage.airservicesaustralia.com/96933/widgets/452915/documents/325989</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sydney International (Nancy-Bird Walton) AirportTherefore, the prevailing wind conditions influence which runway direction is being used...</p></details>
+   Link:<a href="https://engage.airservicesaustralia.com/96933/widgets/452915/documents/325989" target="_blank" rel="noopener noreferrer nofollow">https://engage.airservicesaustralia.com/96933/widgets/452915/documents/325989</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sydney International (Nancy-Bird Walton) AirportTherefore, the prevailing wind conditions influence which runway direction is being used...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aircraftnoise.airservicesaustralia.com  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/tag/sydney/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/tag/sydney/page/5/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 5 – AsA National InsightfullSydney Airport has three runways: Two parallel runways that are orientated north/south, and; A single...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/tag/sydney/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/tag/sydney/page/5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 5 – AsA National InsightfullSydney Airport has three runways: Two parallel runways that are orientated north/south, and; A single...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aircraftnoise.airservicesaustralia.com  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/2020/05/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2020/05/page/5/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2020 – Page 5 - Aircraft in your Neighbourhood18 May 2020 — When the parallel runways are being used in a southerly direction (“south flo...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/2020/05/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2020/05/page/5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2020 – Page 5 - Aircraft in your Neighbourhood18 May 2020 — When the parallel runways are being used in a southerly direction (“south flo...</p></details>
    Published: May 2020  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: engage.airservicesaustralia.com  
-   Link: <a href="https://engage.airservicesaustralia.com/96933/widgets/452915/documents/327029" target="_blank" rel="noopener noreferrer nofollow">https://engage.airservicesaustralia.com/96933/widgets/452915/documents/327029</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Details of the flight paths can be...Read more...</p></details>
+   Link:<a href="https://engage.airservicesaustralia.com/96933/widgets/452915/documents/327029" target="_blank" rel="noopener noreferrer nofollow">https://engage.airservicesaustralia.com/96933/widgets/452915/documents/327029</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Details of the flight paths can be...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aircraftnoise.airservicesaustralia.com  
    Title: sydney airport flight paths  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/2020/04/30/sydney-airport-flight-paths/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2020/04/30/sydney-airport-flight-paths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Runways can be used in both directions which results in four flows that are outlined in the illustration below.Read more...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/2020/04/30/sydney-airport-flight-paths/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2020/04/30/sydney-airport-flight-paths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Runways can be used in both directions which results in four flows that are outlined in the illustration below.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/about-us/our-services/how-air-traffic-control-works/our-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/about-us/our-services/how-air-traffic-control-works/our-technology/</a>  
+   Link:<a href="https://www.airservicesaustralia.com/about-us/our-services/how-air-traffic-control-works/our-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/about-us/our-services/how-air-traffic-control-works/our-technology/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: webtrak.emsbk.com  
-   Link: <a href="https://webtrak.emsbk.com/" target="_blank" rel="noopener noreferrer nofollow">https://webtrak.emsbk.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is a community-facing platform for reviewing airport operations (flight tracks) and noise. Investigate and review real-time and historica...</p></details>
+   Link:<a href="https://webtrak.emsbk.com/" target="_blank" rel="noopener noreferrer nofollow">https://webtrak.emsbk.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is a community-facing platform for reviewing airport operations (flight tracks) and noise. Investigate and review real-time and historica...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: globe.adsbexchange.com  
-   Link: <a href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://globe.adsbexchange.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic track labels: UTC. Smaller wind labels. Label units. Darker Colors. Dark Mode. Dim...Read more...</p></details>
+   Link:<a href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://globe.adsbexchange.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historic track labels: UTC. Smaller wind labels. Label units. Darker Colors. Dark Mode. Dim...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/data-products/sample-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/sample-data/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sample DataADS-B Exchange not only delivers real-time data through our Enterprise API but also maintains an extensive archive of historic...</p></details>
+   Link:<a href="https://www.adsbexchange.com/data-products/sample-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/sample-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sample DataADS-B Exchange not only delivers real-time data through our Enterprise API but also maintains an extensive archive of historic...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: sydneyairport.com.au  
-   Link: <a href="https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft noiseVisit the Airservices Australia website for useful tools including information on flight paths, movements, runways, aircraf...</p></details>
+   Link:<a href="https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft noiseVisit the Airservices Australia website for useful tools including information on flight paths, movements, runways, aircraf...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: spire.com  
-   Link: <a href="https://spire.com/wiki/ads-b-data-understanding-regulatory-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://spire.com/wiki/ads-b-data-understanding-regulatory-requirements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B data: understanding basic regulatory contextIn this article, we&#x27;ll take you through the current regulatory requirements for ADS-B s...</p></details>
+   Link:<a href="https://spire.com/wiki/ads-b-data-understanding-regulatory-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://spire.com/wiki/ads-b-data-understanding-regulatory-requirements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B data: understanding basic regulatory contextIn this article, we&#x27;ll take you through the current regulatory requirements for ADS-B s...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: westernsydneyairport.gov.au  
-   Link: <a href="https://www.westernsydneyairport.gov.au/flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.westernsydneyairport.gov.au/flight-paths</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight paths | Western Sydney AirportVisit the new WSI airspace and flight path design Online Community Portal (www.WSIflightpaths.gov.au...</p></details>
+   Link:<a href="https://www.westernsydneyairport.gov.au/flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.westernsydneyairport.gov.au/flight-paths</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flight paths | Western Sydney AirportVisit the new WSI airspace and flight path design Online Community Portal (www.WSIflightpaths.gov.au...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: masterplan2045.com.au  
-   Link: <a href="https://www.masterplan2045.com.au/pillars/noise-management/" target="_blank" rel="noopener noreferrer nofollow">https://www.masterplan2045.com.au/pillars/noise-management/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise managementPreferential runways, flight paths, and pilot noise-abatement procedures help minimise and fairly share aircraft noise ar...</p></details>
+   Link:<a href="https://www.masterplan2045.com.au/pillars/noise-management/" target="_blank" rel="noopener noreferrer nofollow">https://www.masterplan2045.com.au/pillars/noise-management/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noise managementPreferential runways, flight paths, and pilot noise-abatement procedures help minimise and fairly share aircraft noise ar...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/travel/travel-updates/incidents/gusty-neargale-winds-hit-sydney-airport-delaying-flights/news-story/a16e722a9d9e5b9d161ee7f9503a99a8" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/travel/travel-updates/incidents/gusty-neargale-winds-hit-sydney-airport-delaying-flights/news-story/a16e722a9d9e5b9d161ee7f9503a99a8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>At 11:10 am, wind speeds reached near gale force at 51.8 km/h from the west-southwest, prompting Airservices Australia to implement singl...</p></details>
+   Link:<a href="https://www.news.com.au/travel/travel-updates/incidents/gusty-neargale-winds-hit-sydney-airport-delaying-flights/news-story/a16e722a9d9e5b9d161ee7f9503a99a8" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/travel/travel-updates/incidents/gusty-neargale-winds-hit-sydney-airport-delaying-flights/news-story/a16e722a9d9e5b9d161ee7f9503a99a8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At 11:10 am, wind speeds reached near gale force at 51.8 km/h from the west-southwest, prompting Airservices Australia to implement singl...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/APAC/Meetings/2024/2024%20SURICG-9/4-Information%20Papers/IP08_AUS-AI.7-Update-on-Surveillance-Activities-in-Australia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2024/2024%20SURICG-9/4-Information%20Papers/IP08_AUS-AI.7-Update-on-Surveillance-Activities-in-Australia.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/APAC/Meetings/2024/2024%20SURICG-9/4-Information%20Papers/IP08_AUS-AI.7-Update-on-Surveillance-Activities-in-Australia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2024/2024%20SURICG-9/4-Information%20Papers/IP08_AUS-AI.7-Update-on-Surveillance-Activities-in-Australia.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ktla5/posts/while-the-faa-is-investigating-reports-of-the-strike-the-pilot-told-air-traffic-/1572042521178359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ktla5/posts/while-the-faa-is-investigating-reports-of-the-strike-the-pilot-told-air-traffic-/1572042521178359/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While the FAA is investigating reports of the strike, the pilot...ADS-B data showed that the airplane had begun to climb and reached a m...</p></details>
+   Link:<a href="https://www.facebook.com/ktla5/posts/while-the-faa-is-investigating-reports-of-the-strike-the-pilot-told-air-traffic-/1572042521178359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ktla5/posts/while-the-faa-is-investigating-reports-of-the-strike-the-pilot-told-air-traffic-/1572042521178359/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While the FAA is investigating reports of the strike, the pilot...ADS-B data showed that the airplane had begun to climb and reached a m...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ADSBexchange/comments/nnrp2w/adsb_flight_track_dumps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSBexchange/comments/nnrp2w/adsb_flight_track_dumps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSB flight track dumps?: r/ADSBexchangeHey y&#x27;all, is there a resource anywhere I could download a dump of historical flight tracks? As...</p></details>
+   Link:<a href="https://www.reddit.com/r/ADSBexchange/comments/nnrp2w/adsb_flight_track_dumps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSBexchange/comments/nnrp2w/adsb_flight_track_dumps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADSB flight track dumps?: r/ADSBexchangeHey y&#x27;all, is there a resource anywhere I could download a dump of historical flight tracks? As...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: rev.com  
-   Link: <a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe UAP independent study was commissioned to create a roadmap on how to use the tools...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe UAP independent study was commissioned to create a roadmap on how to use the tools...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61555466230888/posts/to-view-noise-levels-and-flight-paths-search-webtrak-airservices-then-select-syd/122174932358182207/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61555466230888/posts/to-view-noise-levels-and-flight-paths-search-webtrak-airservices-then-select-syd/122174932358182207/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To view noise levels and flight pathsTo view noise levels and flight paths - search WEBTRAK Airservices then select Sydney.... According...</p></details>
+   Link:<a href="https://www.facebook.com/61555466230888/posts/to-view-noise-levels-and-flight-paths-search-webtrak-airservices-then-select-syd/122174932358182207/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61555466230888/posts/to-view-noise-levels-and-flight-paths-search-webtrak-airservices-then-select-syd/122174932358182207/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To view noise levels and flight pathsTo view noise levels and flight paths - search WEBTRAK Airservices then select Sydney.... According...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=G8E5sDMzRG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G8E5sDMzRG4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Package 3: Flight path optionsThe Noise Action Plan for Brisbane is Airservices Australia&#x27;s plan to reduce the impact of aircraft noise o...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G8E5sDMzRG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G8E5sDMzRG4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Package 3: Flight path optionsThe Noise Action Plan for Brisbane is Airservices Australia&#x27;s plan to reduce the impact of aircraft noise o...</p></details>

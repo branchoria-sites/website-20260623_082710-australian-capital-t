@@ -290,27 +290,27 @@ RAAF Darwin’s UFO paperwork matters because it shows a practical, official sys
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd-overview.webp" | relative_url }}" alt="Overview image for RAAF Files" loading="eager" decoding="sync" fetchpriority="high">
-For the Northern Territory, that makes the Darwin files one of the most useful evidence trails. They sit between roadside UFO folklore and later popular retellings, preserving how sightings reached an official desk, what information was requested, and where the paper trail becomes stronger, weaker or incomplete. The surviving files are especially valuable for the early 1980s, when Darwin correspondence shows multiple civilian reports being followed up through formal observer forms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+For the Northern Territory, that makes the Darwin files one of the most useful evidence trails. They sit between roadside UFO folklore and later popular retellings, preserving how sightings reached an official desk, what information was requested, and where the paper trail becomes stronger, weaker or incomplete. The surviving files are especially valuable for the early 1980s, when Darwin correspondence shows multiple civilian reports being followed up through formal observer forms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 ## How unusual aerial reports were handled
 
-RAAF Darwin’s procedure was built around the term “UAS”, meaning “unusual aerial sighting”. A 1982 Darwin draft standing order stated that all reports received at RAAF units had to be investigated “without delay” and forwarded to higher authority. It also set out who should receive reports: during working hours, calls were to go first to the Formation Intelligence Officer; if that officer was unavailable, to the Formation Counter Intelligence Officer; outside working hours, to the Orderly Officer. Reports received through air-traffic communication links were to be written up by air-traffic-control staff and passed to the intelligence channel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+RAAF Darwin’s procedure was built around the term “UAS”, meaning “unusual aerial sighting”. A 1982 Darwin draft standing order stated that all reports received at RAAF units had to be investigated “without delay” and forwarded to higher authority. It also set out who should receive reports: during working hours, calls were to go first to the Formation Intelligence Officer; if that officer was unavailable, to the Formation Counter Intelligence Officer; outside working hours, to the Orderly Officer. Reports received through air-traffic communication links were to be written up by air-traffic-control staff and passed to the intelligence channel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
-That matters because it shows a chain of custody. A sighting was supposed to move from witness or controller, to a proforma report, to a named officer, and then upward under Headquarters Operational Command instructions. The system was not perfect — the same file notes that Darwin lacked formal internal procedures and that most reports that year had arrived through air-traffic channels, with one through the switchboard — but the point of the 1982 order was to make handling more consistent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+That matters because it shows a chain of custody. A sighting was supposed to move from witness or controller, to a proforma report, to a named officer, and then upward under Headquarters Operational Command instructions. The system was not perfect — the same file notes that Darwin lacked formal internal procedures and that most reports that year had arrived through air-traffic channels, with one through the switchboard — but the point of the 1982 order was to make handling more consistent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
-The proforma itself asked the kinds of questions that make or break UFO evidence: where the observer was, what direction the object moved, its colour, shape, brightness, speed, sound, duration, whether photographs or physical traces existed, and how many other witnesses saw it. That is a sober evidential framework. It does not assume the witness is wrong, but it also does not let a dramatic description stand on its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+The proforma itself asked the kinds of questions that make or break UFO evidence: where the observer was, what direction the object moved, its colour, shape, brightness, speed, sound, duration, whether photographs or physical traces existed, and how many other witnesses saw it. That is a sober evidential framework. It does not assume the witness is wrong, but it also does not let a dramatic description stand on its own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd-Illustration-1-dark.svg" | relative_url }}" alt="RAAF Files illustration 1" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1983 Top End correspondence cluster
 
-The late-1983 Darwin correspondence is a useful snapshot of how the system worked in practice. On 22 and 23 November 1983, RAAF Base Darwin sent several witnesses near Darwin and the rural [Top End]({{ 'top-end/' | relative_url }}) almost identical letters thanking them for reporting an “unusual aerial occurrence” and asking them to complete an observer’s report so further investigation could proceed. Recipients included people in Winnellie, Nightcliff, Humpty Doo, Darwin and Moil. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+The late-1983 Darwin correspondence is a useful snapshot of how the system worked in practice. On 22 and 23 November 1983, RAAF Base Darwin sent several witnesses near Darwin and the rural [Top End]({{ 'top-end/' | relative_url }}) almost identical letters thanking them for reporting an “unusual aerial occurrence” and asking them to complete an observer’s report so further investigation could proceed. Recipients included people in Winnellie, Nightcliff, Humpty Doo, Darwin and Moil.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 This cluster should not be inflated into a confirmed “flap” in the sensational sense. The file pages available online show official follow-up letters and forms, not a resolved finding that something extraordinary crossed the Top End. What they do show is that multiple local reports reached the base close together and were treated as worth documenting. That is exactly why the Darwin file is stronger than later hearsay: it captures names, dates, places, file references and the official request for more information.
 
-One of the more concrete examples is the [Humpty Doo case]({{ 'humpty-doo-case/' | relative_url }}) discussed by researcher Keith Basterfield from the digitised RAAF Darwin file E1327 5/4/Air Part 6/7. The witness, Richard Bett, reportedly described a small, low, fast object over McMinns Lagoon in November 1983, with a “fluttering” sound and a faint shock-wave sensation; the RAAF investigating officer noted that it may have been a Mirage, while also observing that the Saturday timing did not fit neatly and that no further investigation was proposed at that stage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
+One of the more concrete examples is the [Humpty Doo case]({{ 'humpty-doo-case/' | relative_url }}) discussed by researcher Keith Basterfield from the digitised RAAF Darwin file E1327 5/4/Air Part 6/7. The witness, Richard Bett, reportedly described a small, low, fast object over McMinns Lagoon in November 1983, with a “fluttering” sound and a faint shock-wave sensation; the RAAF investigating officer noted that it may have been a Mirage, while also observing that the Saturday timing did not fit neatly and that no further investigation was proposed at that stage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
 
-That example is revealing because it lands in the middle ground where many good UFO records sit. The report is more detailed than a vague “light in the sky”, but it still lacks the independent data needed to make it robust: no clear photograph, no instrument track cited in the summary, no recovered object, and no definitive matching aircraft record in the passage. The official note did not “solve” the case in a courtroom sense, but it did point to a plausible aviation explanation and then stop short of turning uncertainty into a larger claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
+That example is revealing because it lands in the middle ground where many good UFO records sit. The report is more detailed than a vague “light in the sky”, but it still lacks the independent data needed to make it robust: no clear photograph, no instrument track cited in the summary, no recovered object, and no definitive matching aircraft record in the passage. The official note did not “solve” the case in a courtroom sense, but it did point to a plausible aviation explanation and then stop short of turning uncertainty into a larger claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GqpAsmQnoZY" title="Government UFO/UAP Sightings Exposed: Shocking 2009 7NEWS Documentary | Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GqpAsmQnoZY" target="_blank" rel="noopener noreferrer">Government UFO/UAP Sightings Exposed: Shocking 2009 7NEWS Documentary | Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 1.3M &middot; Uploaded: May 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GqpAsmQnoZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GqpAsmQnoZY">Open on YouTube</a></p></div></div></div>
@@ -319,9 +319,9 @@ That example is revealing because it lands in the middle ground where many good 
 
 The Darwin records are useful because they preserve the boring details. For UFO history, boring details are often the difference between evidence and legend. File numbers, dates, addresses, proformas, routing instructions and officer names do not prove that an object was exotic, but they do prove that a report existed and was handled through a recognisable process.
 
-They also reveal the RAAF’s recurring practical concerns. A 1981 Air Office letter mentioned confusion around a meteorite re-entry near Marble Bar at the same time Cosmos 434 was expected to re-enter, and warned investigating officers against prematurely naming suspected space debris because of the media attention that could follow. In the Territory context, this is important: spectacular lights over remote northern skies could be linked to space debris, meteors or re-entry events, but officials were cautious about attaching a specific cause before they had enough evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
+They also reveal the RAAF’s recurring practical concerns. A 1981 Air Office letter mentioned confusion around a meteorite re-entry near Marble Bar at the same time Cosmos 434 was expected to re-enter, and warned investigating officers against prematurely naming suspected space debris because of the media attention that could follow. In the Territory context, this is important: spectacular lights over remote northern skies could be linked to space debris, meteors or re-entry events, but officials were cautious about attaching a specific cause before they had enough evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
 
-The files also show that Darwin was not an isolated curiosity. The National Archives of Australia says the Commonwealth retained RAAF records of possible UFO sightings and that the government’s interest developed in a Cold War and space-race setting, when unusual aerial reports could have defence or national-security relevance even if officials were not convinced by “little green men” explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+The files also show that Darwin was not an isolated curiosity. The National Archives of Australia says the Commonwealth retained RAAF records of possible UFO sightings and that the government’s interest developed in a Cold War and space-race setting, when unusual aerial reports could have defence or national-security relevance even if officials were not convinced by “little green men” explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd-Illustration-2-dark.svg" | relative_url }}" alt="RAAF Files illustration 2" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,9 +329,9 @@ The files also show that Darwin was not an isolated curiosity. The National Arch
 
 A common mistake in reading RAAF UFO files is to treat the existence of an official document as official confirmation of the claim inside it. The Darwin records do not support that leap. They show that sightings were received, logged, queried and sometimes investigated. They do not show that RAAF Darwin concluded that the Northern Territory was being visited by non-human craft.
 
-The National Archives’ own public account of Australian UFO records makes the same distinction. It notes that many public reports were identified as aircraft or ordinary celestial objects, while some defence-personnel cases were harder to dismiss. It also states that the RAAF ceased investigating UFO sightings in 1994, reasoning that only a small percentage could not be explained by natural phenomena and that those unexplained reports presented little or no threat to security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+The National Archives’ own public account of Australian UFO records makes the same distinction. It notes that many public reports were identified as aircraft or ordinary celestial objects, while some defence-personnel cases were harder to dismiss. It also states that the RAAF ceased investigating UFO sightings in 1994, reasoning that only a small percentage could not be explained by natural phenomena and that those unexplained reports presented little or no threat to security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
-Brett Biddington, who appears in the Darwin correspondence and later commented publicly on the end of RAAF UFO work, framed the issue as one of intelligence priorities. In a 2024 ABC account, he said unusual aerial sightings were not “core business” where there was no evidence of an extraterrestrial threat, and that logic led to a recommendation to stop devoting air-force intelligence effort to the subject. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+Brett Biddington, who appears in the Darwin correspondence and later commented publicly on the end of RAAF UFO work, framed the issue as one of intelligence priorities. In a 2024 ABC account, he said unusual aerial sightings were not “core business” where there was no evidence of an extraterrestrial threat, and that logic led to a recommendation to stop devoting air-force intelligence effort to the subject.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
 For readers, that is the key balance. The files are not worthless because many reports were probably mundane; they are valuable because they show how mundane, ambiguous and unresolved reports were separated as far as the available evidence allowed.
 
@@ -342,21 +342,21 @@ For readers, that is the key balance. The files are not worthless because many r
 
 The Northern Territory’s UFO reputation often leans on atmosphere: dark roads, wide skies, remote communities, [Wycliffe Well]({{ 'wycliffe-well/' | relative_url }}) stories, [Pine Gap]({{ 'pine-gap/' | relative_url }}) rumours and dramatic lights over sparsely populated country. RAAF Darwin’s files add something different. They provide a documentary spine.
 
-Three Darwin-linked National Archives file groups identified by researchers are especially relevant: E1327 5/4/Air Part 1, E1327 5/4/Air Part 6, and E1327 5/4/Air Part 6/7. The Part 6/7 file is titled “Unusual sightings and incidents” and covers material from the late 1970s into 1990, though only part of it was accessible when digitised; Part 1 covers earlier Darwin material from 1960 to 1968. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
+Three Darwin-linked National Archives file groups identified by researchers are especially relevant: E1327 5/4/Air Part 1, E1327 5/4/Air Part 6, and E1327 5/4/Air Part 6/7. The Part 6/7 file is titled “Unusual sightings and incidents” and covers material from the late 1970s into 1990, though only part of it was accessible when digitised; Part 1 covers earlier Darwin material from 1960 to 1968.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
 
 These files shift the Territory story away from a simple “believers versus sceptics” frame. They show a more interesting reality: RAAF Darwin was a receiving point for odd aerial reports, especially because of its aviation and defence role, but the reports were usually treated as raw information. Some were low-value. Some were followed up. Some had plausible explanations. Some remained limited because the witness evidence was thin.
 
-They also connect Darwin to wider Australian UFO administration. ABC reporting notes that, up until the 1990s, the RAAF was responsible for investigating UFOs in Australia under the “Unusual Aerial Sightings” label, receiving thousands of reports from civilians, researchers and military personnel over decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+They also connect Darwin to wider Australian UFO administration. ABC reporting notes that, up until the 1990s, the RAAF was responsible for investigating UFOs in Australia under the “Unusual Aerial Sightings” label, receiving thousands of reports from civilians, researchers and military personnel over decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd-Illustration-3-dark.svg" | relative_url }}" alt="RAAF Files illustration 3" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read a RAAF Darwin sighting report fairly
 
-A fair reading starts with the document type. A witness form is not the same as an intelligence conclusion. A thank-you letter requesting more details is not a finding. A handwritten report is not a corroborated event. A notation such as “may have been a Mirage” is a hypothesis, not necessarily a definitive explanation.
+A fair reading starts with the document type. A witness form is not the same as an intelligence conclusion. A thank-you letter requesting is not a finding. A handwritten report is not a corroborated event. A notation such as “may have been a Mirage” is a hypothesis, not necessarily a definitive explanation.
 
 The best Darwin reports are those with multiple independent witnesses, precise time and location, direction of travel, duration, weather conditions, photographs, radar or air-traffic context, and a documented attempt to compare the sighting with known aircraft, balloons, astronomical objects or space activity. The weaker reports are those that remain only a brief light description, a memory, or a newspaper item without the underlying observer form.
 
-That distinction is especially important for the 1983 correspondence cluster. The letters prove that several Top End reports were taken seriously enough to be followed up. They do not, by themselves, prove that the sightings shared one cause or that any object was extraordinary. The Humpty Doo example is memorable precisely because it shows both sides at once: a vivid witness description and a cautious official note pointing to a possible military-aircraft explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+That distinction is especially important for the 1983 correspondence cluster. The letters prove that several Top End reports were taken seriously enough to be followed up. They do not, by themselves, prove that the sightings shared one cause or that any object was extraordinary. The Humpty Doo example is memorable precisely because it shows both sides at once: a vivid witness description and a cautious official note pointing to a possible military-aircraft explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CEMkVSmI5L8" title="“It’s Been Kept from the Public”: TV Journalist Ross Coulthart Didn’t Believe in UFO&#x27;s until…" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CEMkVSmI5L8" target="_blank" rel="noopener noreferrer">“It’s Been Kept from the Public”: TV Journalist Ross Coulthart Didn’t Believe in UFO&#x27;s until…</a></p><p class="youtube-embed-meta">Channel: Mark Bouris</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CEMkVSmI5L8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CEMkVSmI5L8">Open on YouTube</a></p></div></div></div>
@@ -370,194 +370,194 @@ That makes these records a useful anchor for the Northern Territory branch of Au
 The files also make the Territory’s UFO history more human. Behind the forms are ordinary witnesses trying to describe something unexpected, switchboard and air-traffic staff working out where to send calls, and intelligence officers trying to turn unclear sightings into usable information. The result is not a hidden proof file. It is something more grounded: a record of how uncertainty was handled.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did RAAF Darwin Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did RAAF Darwin Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official reporting, military witnesses, and government handling of unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official reporting, military witnesses, and government handling of unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Describes how military authorities documented, evaluated, and processed unusual aerial sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Describes how military authorities documented, evaluated, and processed unusual aerial sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains sighting classification, investigation procedures, and evidence assessment similar to official reporting systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains sighting classification, investigation procedures, and evidence assessment similar to official reporting systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines governmental and military UFO files, making it highly relevant to RAAF Darwin paperwork and procedures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines governmental and military UFO files, making it highly relevant to RAAF Darwin paperwork and procedures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi AA32802 1:72 DH Mosquito FB VI RAAF Diecast Military Aircraft Model Boxed."><img src="{{ '/assets/images/marketplace-covers/ac8c821cd831ff09ee07.jpg' | relative_url }}" alt="Listing image for Corgi AA32802 1:72 DH Mosquito FB VI RAAF Diecast Military Aircraft Model Boxed." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Corgi AA32802 1:72 DH Mosquito FB VI RAAF Diecast Military Aircraft Model Boxed.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi AA32802 1:72 DH Mosquito FB VI RAAF Diecast Military Aircraft Model Boxed."><img src="{{ '/assets/images/marketplace-covers/ac8c821cd831ff09ee07.jpg' | relative_url }}" alt="Listing image for Corgi AA32802 1:72 DH Mosquito FB VI RAAF Diecast Military Aircraft Model Boxed." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Corgi AA32802 1:72 DH Mosquito FB VI RAAF Diecast Military Aircraft Model Boxed.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eclipse Model Aircraft 1/200 Hawk Mk127 No76 Sqn RAAF Williamtown"><img src="{{ '/assets/images/marketplace-covers/93bad3a9b41a8e88aa57.jpg' | relative_url }}" alt="Listing image for Eclipse Model Aircraft 1/200 Hawk Mk127 No76 Sqn RAAF Williamtown" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Eclipse Model Aircraft 1/200 Hawk Mk127 No76 Sqn RAAF Williamtown</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eclipse Model Aircraft 1/200 Hawk Mk127 No76 Sqn RAAF Williamtown"><img src="{{ '/assets/images/marketplace-covers/93bad3a9b41a8e88aa57.jpg' | relative_url }}" alt="Listing image for Eclipse Model Aircraft 1/200 Hawk Mk127 No76 Sqn RAAF Williamtown" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Eclipse Model Aircraft 1/200 Hawk Mk127 No76 Sqn RAAF Williamtown</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HK Models 1/32 01E042 A-20G Havoc RAAF Model Kit"><img src="{{ '/assets/images/marketplace-covers/8c9f7e7c2bb8ff92e07f.jpg' | relative_url }}" alt="Listing image for HK Models 1/32 01E042 A-20G Havoc RAAF Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">HK Models 1/32 01E042 A-20G Havoc RAAF Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HK Models 1/32 01E042 A-20G Havoc RAAF Model Kit"><img src="{{ '/assets/images/marketplace-covers/8c9f7e7c2bb8ff92e07f.jpg' | relative_url }}" alt="Listing image for HK Models 1/32 01E042 A-20G Havoc RAAF Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">HK Models 1/32 01E042 A-20G Havoc RAAF Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell Boeing C-17A Globemaster III 1:144 Scale Aircraft Model Kit 03747"><img src="{{ '/assets/images/marketplace-covers/696bf17928f388d48946.jpg' | relative_url }}" alt="Listing image for Revell Boeing C-17A Globemaster III 1:144 Scale Aircraft Model Kit 03747" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Revell Boeing C-17A Globemaster III 1:144 Scale Aircraft Model Kit 03747</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell Boeing C-17A Globemaster III 1:144 Scale Aircraft Model Kit 03747"><img src="{{ '/assets/images/marketplace-covers/696bf17928f388d48946.jpg' | relative_url }}" alt="Listing image for Revell Boeing C-17A Globemaster III 1:144 Scale Aircraft Model Kit 03747" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Revell Boeing C-17A Globemaster III 1:144 Scale Aircraft Model Kit 03747</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-c842ff-what-did-raaf-darwin-record-northern-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ The files also make the Territory’s UFO history more human. Behind the forms a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ The files also make the Territory’s UFO history more human. Behind the forms a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ The files also make the Territory’s UFO history more human. Behind the forms a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ The files also make the Territory’s UFO history more human. Behind the forms a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ The files also make the Territory’s UFO history more human. Behind the forms a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,128 +763,128 @@ The files also make the Territory’s UFO history more human. Behind the forms a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Australian UFO Files"  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: naa.gov.au  
    Title: NAAFlying saucers – fact or fiction? | naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: UFOs Scientific Research Unidentified Anomalous Phenomena  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: territorystories.nt.gov.au  
-   Link: <a href="https://territorystories.nt.gov.au/10070/198775/0" target="_blank" rel="noopener noreferrer nofollow">https://territorystories.nt.gov.au/10070/198775/0</a>  
+   Link:<a href="https://territorystories.nt.gov.au/10070/198775/0" target="_blank" rel="noopener noreferrer nofollow">https://territorystories.nt.gov.au/10070/198775/0</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: project1947.com  
    Title: “Unusual Aerial Sightings”  
-   Link: <a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: project1947.com  
    Title: Keith Basterfield  
-   Link: <a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2</a>  
+   Link:<a href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufos-scientificresearch.blogspot.com  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-neptune-aircraft-encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2012/08/raaf-neptune-aircraft-encounters.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-neptune-aircraft-encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2012/08/raaf-neptune-aircraft-encounters.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufos-scientificresearch.blogspot.com  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2012/08/unidentified-aerial-phenomena-uap.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2012/08/unidentified-aerial-phenomena-uap.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2012/08/unidentified-aerial-phenomena-uap.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2012/08/unidentified-aerial-phenomena-uap.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: australian naval vessel reports ufo  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2012/06/australian-naval-vessel-reports-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2012/06/australian-naval-vessel-reports-ufo.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2012/06/australian-naval-vessel-reports-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2012/06/australian-naval-vessel-reports-ufo.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: brett biddington unusual aerial 6  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2013/12/brett-biddington-unusual-aerial_6.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2013/12/brett-biddington-unusual-aerial_6.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2013/12/brett-biddington-unusual-aerial_6.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2013/12/brett-biddington-unusual-aerial_6.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: defence.gov.au  
    Title: Freedom of information disclosure log | About  
-   Link: <a href="https://www.defence.gov.au/about/accessing-information/freedom-information-disclosure-log?page=5" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/about/accessing-information/freedom-information-disclosure-log?page=5</a>  
+   Link:<a href="https://www.defence.gov.au/about/accessing-information/freedom-information-disclosure-log?page=5" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/about/accessing-information/freedom-information-disclosure-log?page=5</a>  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CEMkVSmI5L8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CEMkVSmI5L8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Schoolyard witnesses in mass UFO sighting demand answers | Australian Story...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CEMkVSmI5L8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CEMkVSmI5L8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schoolyard witnesses in mass UFO sighting demand answers | Australian Story...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GqpAsmQnoZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GqpAsmQnoZY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“It’s Been Kept from the Public”: TV Journalist Ross Coulthart Didn’t Believe in UFO’s until…...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GqpAsmQnoZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GqpAsmQnoZY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“It’s Been Kept from the Public”: TV Journalist Ross Coulthart Didn’t Believe in UFO’s until…...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Schoolyard witnesses in mass UFO sighting demand answers | Australian Story  
-   Link: <a href="https://www.youtube.com/watch?v=Ez_YkKnPBpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ez_YkKnPBpY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>665 // Frederick Valentich - UFO Mystery?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ez_YkKnPBpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ez_YkKnPBpY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>665 // Frederick Valentich - UFO Mystery?...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: 665 // Frederick Valentich  
-   Link: <a href="https://www.youtube.com/watch?v=AA_JueUmgqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AA_JueUmgqM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mystery Back In Spotlight As Witnesses Claim Cover Up | 10 News+...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AA_JueUmgqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AA_JueUmgqM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mystery Back In Spotlight As Witnesses Claim Cover Up | 10 News+...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/crikey.com.au/posts/australias-department-of-defence-could-neither-confirm-nor-deny-the-existence-of/1309087117905522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/crikey.com.au/posts/australias-department-of-defence-could-neither-confirm-nor-deny-the-existence-of/1309087117905522/</a>  
+   Link:<a href="https://www.facebook.com/crikey.com.au/posts/australias-department-of-defence-could-neither-confirm-nor-deny-the-existence-of/1309087117905522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/crikey.com.au/posts/australias-department-of-defence-could-neither-confirm-nor-deny-the-existence-of/1309087117905522/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
+   Link:<a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/downundermysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/downundermysteries/</a>  
+   Link:<a href="https://www.instagram.com/downundermysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/downundermysteries/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/YQCNews/posts/in-australia-scientists-interested-in-the-ufo-issue-managed-to-gain-access-to-th/2603546106436139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YQCNews/posts/in-australia-scientists-interested-in-the-ufo-issue-managed-to-gain-access-to-th/2603546106436139/</a>  
+   Link:<a href="https://www.facebook.com/YQCNews/posts/in-australia-scientists-interested-in-the-ufo-issue-managed-to-gain-access-to-th/2603546106436139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YQCNews/posts/in-australia-scientists-interested-in-the-ufo-issue-managed-to-gain-access-to-th/2603546106436139/</a>  

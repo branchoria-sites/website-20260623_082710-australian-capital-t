@@ -256,17 +256,17 @@ image: /assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_st
 
 ## Introduction
 
-Rows of silent lights moving across Canberra’s sky have become one of the most common modern explanations for reports that initially sound unusual. In many cases, witnesses describe a perfectly ordered line of bright points travelling together, sometimes likened to a train, convoy, string of pearls or even a “space centipede”. The explanation is often not an unknown aircraft or unexplained object but a newly launched group of Starlink satellites still flying close together before spreading into their operational orbits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://region.com.au/behold-the-space-centipede-weird-series-of-lights-spotted-over-canberras-night-sky/928532/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: region.com.au">[Region Canberra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">region.com.au</span><span class="citation-popover-snippet">Region CanberraBehold the &#x27;space centipede&#x27;: Weird series of lights spotted...14 Dec 2025 — Behold the &#x27;space centipede&#x27;: Weird series o...</span></span></span>
+Rows of silent lights moving across Canberra’s sky have become one of the most common modern explanations for reports that initially sound unusual. In many cases, witnesses describe a perfectly ordered line of bright points travelling together, sometimes likened to a train, convoy, string of pearls or even a “space centipede”. The explanation is often not an unknown aircraft or unexplained object but a newly launched group of Starlink satellites still flying close together before spreading into their operational orbits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://region.com.au/behold-the-space-centipede-weird-series-of-lights-spotted-over-canberras-night-sky/928532/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: region.com.au">[Region Canberra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">region.com.au</span><span class="citation-popover-snippet">Region CanberraBehold the &#x27;space centipede&#x27;: Weird series of lights spotted...14 Dec 2025 — Behold the &#x27;space centipede&#x27;: Weird series o...</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862-Illustration-1-dark.svg" | relative_url }}" alt="Starlink trains illustration 1" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the [Australian Capital Territory]({{ 'australian-capital-territory/' | relative_url }})’s recent sighting history, Starlink has become important because it produces exactly the kind of visual effect that many people have never seen before. A witness can observe dozens of lights moving in formation without engine noise, flashing navigation lamps or obvious aircraft features. Understanding how Starlink trains appear over Canberra helps solve a large share of recent “light string” reports before more exotic explanations are considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canberratimes.com.au/story/8381972/what-was-that-string-of-lights-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canberratimes.com.au">[Canberra Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canberratimes.com.au</span><span class="citation-popover-snippet">Canberra TimesSeveral Starlink satellites seen passing over Gungahlin in...October 11, 2023 — 11 Oct 2023 — Early risers will get a chan...</span><span class="citation-popover-meta">Published: October 11, 2023</span></span></span>
+Within the [Australian Capital Territory]({{ 'australian-capital-territory/' | relative_url }})’s recent sighting history, Starlink has become important because it produces exactly the kind of visual effect that many people have never seen before. A witness can observe dozens of lights moving in formation without engine noise, flashing navigation lamps or obvious aircraft features. Understanding how Starlink trains appear over Canberra helps solve a large share of recent “light string” reports before more exotic explanations are considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canberratimes.com.au/story/8381972/what-was-that-string-of-lights-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canberratimes.com.au">[Canberra Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canberratimes.com.au</span><span class="citation-popover-snippet">Canberra TimesSeveral Starlink satellites seen passing over Gungahlin in...October 11, 2023 — 11 Oct 2023 — Early risers will get a chan...</span><span class="citation-popover-meta">Published: October 11, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862-Illustration-3-dark.svg" | relative_url }}" alt="Starlink trains illustration 3" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_starlink_canberra_li_cdf862-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Starlink trains look from Canberra suburbs
 
-A Starlink train appears as a line of evenly spaced lights moving together at the same speed and in the same direction. Unlike aircraft, the lights generally do not blink. Unlike meteors, they do not streak across the sky in seconds. A typical pass can remain visible for several minutes as the satellites cross from one horizon to another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitalradar.com/how-to-see-starlink-tonight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[Orbital Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-title">Use ...Read more</span><span class="citation-popover-snippet">Orbital RadarHow to See Starlink Satellites TonightMarch 7, 2026 — 31 May 2026 — Like the ISS, Starlink satellites are visible in the hou...</span></span></span>
+A Starlink train appears as a line of evenly spaced lights moving together at the same speed and in the same direction. Unlike aircraft, the lights generally do not blink. Unlike meteors, they do not streak across the sky in seconds. A typical pass can remain visible for several minutes as the satellites cross from one horizon to another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitalradar.com/how-to-see-starlink-tonight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[Orbital Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-title">Use ...Read more</span><span class="citation-popover-snippet">Orbital RadarHow to See Starlink Satellites TonightMarch 7, 2026 — 31 May 2026 — Like the ISS, Starlink satellites are visible in the hou...</span></span></span>
 
 For Canberra observers, the effect is often most striking from suburban areas where there is a reasonably clear view of the sky. Witnesses commonly report:
 
@@ -277,15 +277,15 @@ For Canberra observers, the effect is often most striking from suburban areas wh
 * Uniform spacing between each light.
 * Silent movement.
 * No obvious change in formation.
-* A gradual fade as the satellites move into Earth’s shadow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitalradar.com/how-to-see-starlink-tonight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[Orbital Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-title">Use ...Read more</span><span class="citation-popover-snippet">Orbital RadarHow to See Starlink Satellites TonightMarch 7, 2026 — 31 May 2026 — Like the ISS, Starlink satellites are visible in the hou...</span></span></span>
+* A gradual fade as the satellites move into Earth’s shadow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitalradar.com/how-to-see-starlink-tonight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[Orbital Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-title">Use ...Read more</span><span class="citation-popover-snippet">Orbital RadarHow to See Starlink Satellites TonightMarch 7, 2026 — 31 May 2026 — Like the ISS, Starlink satellites are visible in the hou...</span></span></span>
 
 </div>
 
-The pattern can be startling because it does not resemble conventional aviation traffic. Many people expect satellites to appear one at a time, not as a procession stretching across a significant section of the sky. That unfamiliarity helps explain why sightings are frequently reported as mysterious when first observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+The pattern can be startling because it does not resemble conventional aviation traffic. Many people expect satellites to appear one at a time, not as a procession stretching across a significant section of the sky. That unfamiliarity helps explain why sightings are frequently reported as mysterious when first observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
-A Canberra example occurred in October 2023 when residents in Gungahlin reported a string of lights crossing the sky before dawn. Reporting identified the objects as Starlink satellites passing overhead. Similar reports have appeared repeatedly in local media and community groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canberratimes.com.au/story/8381972/what-was-that-string-of-lights-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canberratimes.com.au">[Canberra Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canberratimes.com.au</span><span class="citation-popover-snippet">Canberra TimesSeveral Starlink satellites seen passing over Gungahlin in...October 11, 2023 — 11 Oct 2023 — Early risers will get a chan...</span><span class="citation-popover-meta">Published: October 11, 2023</span></span></span>
+A Canberra example occurred in October 2023 when residents in Gungahlin reported a string of lights crossing the sky before dawn. Reporting identified the objects as Starlink satellites passing overhead. Similar reports have appeared repeatedly in local media and community groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canberratimes.com.au/story/8381972/what-was-that-string-of-lights-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canberratimes.com.au">[Canberra Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canberratimes.com.au</span><span class="citation-popover-snippet">Canberra TimesSeveral Starlink satellites seen passing over Gungahlin in...October 11, 2023 — 11 Oct 2023 — Early risers will get a chan...</span><span class="citation-popover-meta">Published: October 11, 2023</span></span></span>
 
-In December 2025, Canberra residents again shared sightings of what one observer described as a “space centipede”, a line of roughly thirty lights moving in formation. The reported object was another Starlink train. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://region.com.au/behold-the-space-centipede-weird-series-of-lights-spotted-over-canberras-night-sky/928532/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: region.com.au">[Region Canberra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">region.com.au</span><span class="citation-popover-snippet">Region CanberraBehold the &#x27;space centipede&#x27;: Weird series of lights spotted...14 Dec 2025 — Behold the &#x27;space centipede&#x27;: Weird series o...</span></span></span>
+In December 2025, Canberra residents again shared sightings of what one observer described as a “space centipede”, a line of roughly thirty lights moving in formation. The reported object was another Starlink train.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://region.com.au/behold-the-space-centipede-weird-series-of-lights-spotted-over-canberras-night-sky/928532/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: region.com.au">[Region Canberra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">region.com.au</span><span class="citation-popover-snippet">Region CanberraBehold the &#x27;space centipede&#x27;: Weird series of lights spotted...14 Dec 2025 — Behold the &#x27;space centipede&#x27;: Weird series o...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.4K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
@@ -294,9 +294,9 @@ In December 2025, Canberra residents again shared sightings of what one observer
 
 One reason Starlink trains generate so many reports is that they are often visible when the ground is dark but the satellites are still illuminated by the Sun.
 
-This happens shortly after sunset or before sunrise. An observer in Canberra may be standing in darkness while satellites hundreds of kilometres above Earth remain in direct sunlight. The satellites reflect that sunlight back toward observers, making them appear as bright moving points against a darker sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spaceflightnow.com/2019/11/14/starlink-train-traces-path-across-twilight-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceflightnow.com">[Spaceflight Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceflightnow.com</span><span class="citation-popover-title">Estimates ...Read more</span><span class="citation-popover-snippet">Spaceflight NowStarlink &#x27;train&#x27; traces path across twilight skies14 Nov 2019 — The satellites are only visible near dawn and dusk, when t...</span></span></span>
+This happens shortly after sunset or before sunrise. An observer in Canberra may be standing in darkness while satellites hundreds of kilometres above Earth remain in direct sunlight. The satellites reflect that sunlight back toward observers, making them appear as bright moving points against a darker sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spaceflightnow.com/2019/11/14/starlink-train-traces-path-across-twilight-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceflightnow.com">[Spaceflight Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceflightnow.com</span><span class="citation-popover-title">Estimates ...Read more</span><span class="citation-popover-snippet">Spaceflight NowStarlink &#x27;train&#x27; traces path across twilight skies14 Nov 2019 — The satellites are only visible near dawn and dusk, when t...</span></span></span>
 
-The effect is strongest during twilight, when lighting geometry is particularly favourable. Astronomical studies of Starlink brightness show that the largest areas of sky containing visible satellites occur during twilight conditions, and satellite brightness can increase significantly depending on viewing angle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span><span class="citation-popover-snippet">Starlink Mini Satellite Brightness Distributions Across the SkyJanuary 3, 2024...</span><span class="citation-popover-meta">Published: January 3, 2024</span></span></span>
+The effect is strongest during twilight, when lighting geometry is particularly favourable. Astronomical studies of Starlink brightness show that the largest areas of sky containing visible satellites occur during twilight conditions, and satellite brightness can increase significantly depending on viewing angle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span><span class="citation-popover-snippet">Starlink Mini Satellite Brightness Distributions Across the SkyJanuary 3, 2024...</span><span class="citation-popover-meta">Published: January 3, 2024</span></span></span>
 
 This creates several common misinterpretations:
 
@@ -306,11 +306,11 @@ This creates several common misinterpretations:
 * The lights appear brighter than expected for satellites.
 * The formation seems unusually deliberate or controlled.
 * The objects appear lower and closer than they really are.
-* Witnesses may assume the lights are atmospheric rather than orbital. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitalradar.com/how-to-see-starlink-tonight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[Orbital Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-title">Use ...Read more</span><span class="citation-popover-snippet">Orbital RadarHow to See Starlink Satellites TonightMarch 7, 2026 — 31 May 2026 — Like the ISS, Starlink satellites are visible in the hou...</span></span></span>
+* Witnesses may assume the lights are atmospheric rather than orbital.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitalradar.com/how-to-see-starlink-tonight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[Orbital Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-title">Use ...Read more</span><span class="citation-popover-snippet">Orbital RadarHow to See Starlink Satellites TonightMarch 7, 2026 — 31 May 2026 — Like the ISS, Starlink satellites are visible in the hou...</span></span></span>
 
 </div>
 
-Newly launched Starlink satellites are particularly noticeable because they remain clustered together for a period after deployment. During these early days they are lower, closer together and often brighter than they will be later in their operational life. As they gradually separate and raise their orbits, the dramatic train effect fades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitalradar.com/how-to-see-starlink-tonight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[Orbital Radar+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-title">Use ...Read more</span><span class="citation-popover-snippet">Orbital RadarHow to See Starlink Satellites TonightMarch 7, 2026 — 31 May 2026 — Like the ISS, Starlink satellites are visible in the hou...</span></span></span>
+Newly launched Starlink satellites are particularly noticeable because they remain clustered together for a period after deployment. During these early days they are lower, closer together and often brighter than they will be later in their operational life. As they gradually separate and raise their orbits, the dramatic train effect fades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitalradar.com/how-to-see-starlink-tonight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[orbitalradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-title">Use ...Read more</span><span class="citation-popover-snippet">Orbital RadarHow to See Starlink Satellites TonightMarch 7, 2026 — 31 May 2026 — Like the ISS, Starlink satellites are visible in the hou...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lv1bf0fmAvU" title="Strange lights seen in Illinois sky explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lv1bf0fmAvU" target="_blank" rel="noopener noreferrer">Strange lights seen in Illinois sky explained</a></p><p class="youtube-embed-meta">Channel: FOX 32 Chicago &middot; Views: 114.2K &middot; Uploaded: April 2022 &middot; Length: 3 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lv1bf0fmAvU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lv1bf0fmAvU">Open on YouTube</a></p></div></div></div>
@@ -321,7 +321,7 @@ Newly launched Starlink satellites are particularly noticeable because they rema
 
 For Canberra sighting investigators, the most useful test is often not analysing photographs but checking timing.
 
-A reported line of lights becomes much less mysterious if it occurred within days of a Starlink launch and matches a predicted satellite pass over the ACT. Newly launched satellites are typically easiest to see during the first several days after deployment, when they remain grouped into a visible train. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitalradar.com/how-to-see-starlink-tonight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[Orbital Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-title">Use ...Read more</span><span class="citation-popover-snippet">Orbital RadarHow to See Starlink Satellites TonightMarch 7, 2026 — 31 May 2026 — Like the ISS, Starlink satellites are visible in the hou...</span></span></span>
+A reported line of lights becomes much less mysterious if it occurred within days of a Starlink launch and matches a predicted satellite pass over the ACT. Newly launched satellites are typically easiest to see during the first several days after deployment, when they remain grouped into a visible train.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitalradar.com/how-to-see-starlink-tonight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[Orbital Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-title">Use ...Read more</span><span class="citation-popover-snippet">Orbital RadarHow to See Starlink Satellites TonightMarch 7, 2026 — 31 May 2026 — Like the ISS, Starlink satellites are visible in the hou...</span></span></span>
 
 When evaluating a Canberra report, useful questions include:
 
@@ -345,194 +345,194 @@ The significance is not that every unusual Canberra sighting is explained by Sta
 For that reason, checking Starlink launch schedules and satellite passes has become one of the fastest and most reliable first steps when assessing recent Canberra reports of “light strings”, “convoys of lights” or “objects flying in formation”. In the broader context of Canberra sky explanations, it is one of the clearest examples of how a striking visual event can appear extraordinary while still having a straightforward, evidence-based explanation. [Region Canberra+2Canberra Times](https://region.com.au/behold-the-space-centipede-weird-series-of-lights-spotted-over-canberras-night-sky/928532/)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were those Canberra light strings Starlink satellites?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were those Canberra light strings Starlink satellites?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Covers satellites and observational astronomy relevant to identifying Starlink trains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers satellites and observational astronomy relevant to identifying Starlink trains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Builds practical sky-recognition skills that help distinguish satellites from other phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds practical sky-recognition skills that help distinguish satellites from other phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IQhUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IQhUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Explains observing conditions, twilight effects and satellite visibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains observing conditions, twilight effects and satellite visibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Orbits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tLU-wjQktoMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Orbits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Orbits">Satellite Orbits</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Montenbruck, Eberhard Gill</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Orbits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tLU-wjQktoMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Orbits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Orbits">Satellite Orbits</a>
+</h4>
+<p class="fr-book-author">By Oliver Montenbruck, Eberhard Gill</p>
         
-        <p class="fr-book-desc">Provides background on orbital motion underlying Starlink satellite passes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on orbital motion underlying Starlink satellite passes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift"><img src="{{ '/assets/images/marketplace-covers/62cfe6602546b20f8e9a.jpg' | relative_url }}" alt="Listing image for Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift"><img src="{{ '/assets/images/marketplace-covers/62cfe6602546b20f8e9a.jpg' | relative_url }}" alt="Listing image for Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised BRIGHTEST STAR custom star map/constellation night sky map"><img src="{{ '/assets/images/marketplace-covers/ef04cd3ed756f0a5f1d4.jpg' | relative_url }}" alt="Listing image for Personalised BRIGHTEST STAR custom star map/constellation night sky map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised BRIGHTEST STAR custom star map/constellation night sky map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised BRIGHTEST STAR custom star map/constellation night sky map"><img src="{{ '/assets/images/marketplace-covers/ef04cd3ed756f0a5f1d4.jpg' | relative_url }}" alt="Listing image for Personalised BRIGHTEST STAR custom star map/constellation night sky map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised BRIGHTEST STAR custom star map/constellation night sky map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Anniversary custom star map/constellation night sky map"><img src="{{ '/assets/images/marketplace-covers/97d2ee827f2358e93cfd.jpg' | relative_url }}" alt="Listing image for Personalised Anniversary custom star map/constellation night sky map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised Anniversary custom star map/constellation night sky map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Anniversary custom star map/constellation night sky map"><img src="{{ '/assets/images/marketplace-covers/97d2ee827f2358e93cfd.jpg' | relative_url }}" alt="Listing image for Personalised Anniversary custom star map/constellation night sky map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised Anniversary custom star map/constellation night sky map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Parent and Child star map/constellation night sky map print"><img src="{{ '/assets/images/marketplace-covers/abffefe3c975afbcd4d1.jpg' | relative_url }}" alt="Listing image for Personalised Parent and Child star map/constellation night sky map print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised Parent and Child star map/constellation night sky map print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Parent and Child star map/constellation night sky map print"><img src="{{ '/assets/images/marketplace-covers/abffefe3c975afbcd4d1.jpg' | relative_url }}" alt="Listing image for Personalised Parent and Child star map/constellation night sky map print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised Parent and Child star map/constellation night sky map print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="starlink-trains-were-those-canberra-light-strings-starlink-satellites-australian-capital-territo-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ For that reason, checking Starlink launch schedules and satellite passes has bec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ For that reason, checking Starlink launch schedules and satellite passes has bec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ For that reason, checking Starlink launch schedules and satellite passes has bec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ For that reason, checking Starlink launch schedules and satellite passes has bec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ For that reason, checking Starlink launch schedules and satellite passes has bec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,100 +738,100 @@ For that reason, checking Starlink launch schedules and satellite passes has bec
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Starlink Mini Satellite Brightness Distributions Across the Sky  
-   Link: <a href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.01546</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Mini Satellite Brightness Distributions Across the SkyJanuary 3, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.01546</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Mini Satellite Brightness Distributions Across the SkyJanuary 3, 2024...</p></details>
    Published: January 3, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Assessment of Brightness Mitigation Practices for Starlink Satellites  
-   Link: <a href="https://arxiv.org/abs/2309.14152" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2309.14152</a>  
+   Link:<a href="https://arxiv.org/abs/2309.14152" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2309.14152</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: x starlink satellites  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomy1 Jun 2026 — Starlink satellites are easier to see a day or two after their l...</p></details>
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomy1 Jun 2026 — Starlink satellites are easier to see a day or two after their l...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Space X Starlink satellites deployed in stunning view from space  
-   Link: <a href="https://www.youtube.com/watch?v=25i4wdHqFXg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=25i4wdHqFXg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights seen in Illinois sky explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=25i4wdHqFXg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=25i4wdHqFXg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights seen in Illinois sky explained...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: region.com.au  
-   Link: <a href="https://region.com.au/behold-the-space-centipede-weird-series-of-lights-spotted-over-canberras-night-sky/928532/" target="_blank" rel="noopener noreferrer nofollow">https://region.com.au/behold-the-space-centipede-weird-series-of-lights-spotted-over-canberras-night-sky/928532/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Region CanberraBehold the &#x27;space centipede&#x27;: Weird series of lights spotted...14 Dec 2025 — Behold the &#x27;space centipede&#x27;: Weird series o...</p></details>
+   Link:<a href="https://region.com.au/behold-the-space-centipede-weird-series-of-lights-spotted-over-canberras-night-sky/928532/" target="_blank" rel="noopener noreferrer nofollow">https://region.com.au/behold-the-space-centipede-weird-series-of-lights-spotted-over-canberras-night-sky/928532/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Region CanberraBehold the &#x27;space centipede&#x27;: Weird series of lights spotted...14 Dec 2025 — Behold the &#x27;space centipede&#x27;: Weird series o...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: canberratimes.com.au  
-   Link: <a href="https://www.canberratimes.com.au/story/8381972/what-was-that-string-of-lights-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/story/8381972/what-was-that-string-of-lights-in-the-sky/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canberra TimesSeveral Starlink satellites seen passing over Gungahlin in...October 11, 2023 — 11 Oct 2023 — Early risers will get a chan...</p></details>
+   Link:<a href="https://www.canberratimes.com.au/story/8381972/what-was-that-string-of-lights-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/story/8381972/what-was-that-string-of-lights-in-the-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canberra TimesSeveral Starlink satellites seen passing over Gungahlin in...October 11, 2023 — 11 Oct 2023 — Early risers will get a chan...</p></details>
    Published: October 11, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: abc.net.au  
    Title: what were these lights in the sky eastern australia  
-   Link: <a href="https://www.abc.net.au/news/2021-04-13/what-were-these-lights-in-the-sky-eastern-australia/100064630" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-04-13/what-were-these-lights-in-the-sky-eastern-australia/100064630</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How many Starlink satellites are there? A 3d image...Read more...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2021-04-13/what-were-these-lights-in-the-sky-eastern-australia/100064630" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-04-13/what-were-these-lights-in-the-sky-eastern-australia/100064630</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How many Starlink satellites are there? A 3d image...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: verasatglobal.com  
-   Link: <a href="https://www.verasatglobal.com/en/how-to-see-starlink-satellites-in-the-night-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.verasatglobal.com/en/how-to-see-starlink-satellites-in-the-night-sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to see Starlink satellites in the night skyOne of the most fascinating aspects of Starlink satellites is that they can be seen with t...</p></details>
+   Link:<a href="https://www.verasatglobal.com/en/how-to-see-starlink-satellites-in-the-night-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.verasatglobal.com/en/how-to-see-starlink-satellites-in-the-night-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to see Starlink satellites in the night skyOne of the most fascinating aspects of Starlink satellites is that they can be seen with t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train observation guideIf Starlink satellites are bright enough, they should ALWAYS be visible in Astronomical twiligh...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train observation guideIf Starlink satellites are bright enough, they should ALWAYS be visible in Astronomical twiligh...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
    Title: My clearest sighting of a Starlink satellite "train" from orbit!  
-   Link: <a href="https://www.instagram.com/reel/DPhlge7jsq_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPhlge7jsq_/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Right after launch, SpaceX satellites travel closely together before drifting to their final operational orbits. ​It looks like a scene f...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DPhlge7jsq_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPhlge7jsq_/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Right after launch, SpaceX satellites travel closely together before drifting to their final operational orbits. ​It looks like a scene f...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/9255927157762906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/9255927157762906/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visibility of Starlink Satellites in the Sky During Twilight HoursSo, the thing is, trains of Starlink satellites go over us - often...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/9255927157762906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/9255927157762906/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visibility of Starlink Satellites in the Sky During Twilight HoursSo, the thing is, trains of Starlink satellites go over us - often...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/SpaceXLounge/comments/erkk9j/astronomer_complains_about_starlink_satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/erkk9j/astronomer_complains_about_starlink_satellites/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s the highest chance of reflecting the sun) and the low...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/SpaceXLounge/comments/erkk9j/astronomer_complains_about_starlink_satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/erkk9j/astronomer_complains_about_starlink_satellites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s the highest chance of reflecting the sun) and the low...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/1i3pmmi/how_long_after_launch_can_a_starlink_train_be_seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/1i3pmmi/how_long_after_launch_can_a_starlink_train_be_seen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ink train? PS: Apologies if this is the wrong place to post this...</p></details>
+   Link:<a href="https://www.reddit.com/r/Starlink/comments/1i3pmmi/how_long_after_launch_can_a_starlink_train_be_seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/1i3pmmi/how_long_after_launch_can_a_starlink_train_be_seen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ink train? PS: Apologies if this is the wrong place to post this...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: A string of lights across the night sky  
-   Link: <a href="https://www.facebook.com/10NewsSyd/posts/string-of-lights-across-nsw-skynsw-residents-looking-up-at-the-sky-last-night-ma/10158886932735259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsSyd/posts/string-of-lights-across-nsw-skynsw-residents-looking-up-at-the-sky-last-night-ma/10158886932735259/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Who was behind the...13 Apr 2021 —... Starlink This scene is actually a string of satellites from Elon Musks Starlink. Starlink has lau...</p></details>
+   Link:<a href="https://www.facebook.com/10NewsSyd/posts/string-of-lights-across-nsw-skynsw-residents-looking-up-at-the-sky-last-night-ma/10158886932735259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsSyd/posts/string-of-lights-across-nsw-skynsw-residents-looking-up-at-the-sky-last-night-ma/10158886932735259/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who was behind the...13 Apr 2021 —... Starlink This scene is actually a string of satellites from Elon Musks Starlink. Starlink has lau...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1265183881188733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1265183881188733/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>train tonight but I don’t see where there was a launch today...</p></details>
+   Link:<a href="https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1265183881188733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1265183881188733/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>train tonight but I don’t see where there was a launch today...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/canberracommunitynoticeboardgroup/posts/2707142662975099/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/canberracommunitynoticeboardgroup/posts/2707142662975099/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ine. Canberra Airport around 04:02AM. Thanks...</p></details>
+   Link:<a href="https://www.facebook.com/groups/canberracommunitynoticeboardgroup/posts/2707142662975099/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/canberracommunitynoticeboardgroup/posts/2707142662975099/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ine. Canberra Airport around 04:02AM. Thanks...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: starwalk.space  
-   Link: <a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Star WalkStarlink Tracker: Find Starlink Satellites TonightStarlink satellite trains are visible for a few days after launch, either shor...</p></details>
+   Link:<a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Star WalkStarlink Tracker: Find Starlink Satellites TonightStarlink satellite trains are visible for a few days after launch, either shor...</p></details>

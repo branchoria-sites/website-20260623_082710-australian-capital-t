@@ -256,7 +256,7 @@ image: /assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_st_helens_tufoic_fo
 
 ## Introduction
 
-The 1974 St Helens car-stop report is one of [Tasmania]({{ 'what-really-happened-in-tasmanias-ufo/' | relative_url }})’s best-known UFO cases, but it is also a good example of why the Tasmania UFO Investigation Centre ([TUFOIC]({{ 'tufoic/' | relative_url }})) matters. The original story was dramatic: a woman driving home at night near St Helens reported a bright object, unusual lights, apparent interference with her car, and a frightening roadside encounter. Over time, however, retellings often compressed the event into a simple “close encounter” narrative. What makes the case historically valuable is not only the witness account but also the follow-up investigation carried out within days by TUFOIC investigator Roger Brooks. His site visit, interviews and written notes added details that allow later readers to separate what was reported at the time from later embellishment and memory drift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
+The 1974 St Helens car-stop report is one of [Tasmania]({{ 'what-really-happened-in-tasmanias-ufo/' | relative_url }})’s best-known UFO cases, but it is also a good example of why the Tasmania UFO Investigation Centre ([TUFOIC]({{ 'tufoic/' | relative_url }})) matters. The original story was dramatic: a woman driving home at night near St Helens reported a bright object, unusual lights, apparent interference with her car, and a frightening roadside encounter. Over time, however, retellings often compressed the event into a simple “close encounter” narrative. What makes the case historically valuable is not only the witness account but also the follow-up investigation carried out within days by TUFOIC investigator Roger Brooks. His site visit, interviews and written notes added details that allow later readers to separate what was reported at the time from later embellishment and memory drift.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_st_helens_tufoic_fol_277a7a-Illustration-1-dark.svg" | relative_url }}" alt="St Helens illustration 1" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_st_helens_tufoic_fol_277a7a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_st_helens_tufoic_fol_277a7a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -267,9 +267,9 @@ Within Tasmania’s UFO history, the St Helens case stands out less because it p
 
 ## The roadside report and early witness account
 
-According to the contemporary TUFOIC file, the event occurred on the night of 16 September 1974 on Ansons Bay Road north of St Helens. The principal witness was Mrs A. Richards, travelling with her two young daughters after returning from Launceston. One daughter was asleep in the vehicle before the incident began. The reported time was approximately 9.15 pm, with dark conditions and light drizzle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
+According to the contemporary TUFOIC file, the event occurred on the night of 16 September 1974 on Ansons Bay Road north of St Helens. The principal witness was Mrs A. Richards, travelling with her two young daughters after returning from Launceston. One daughter was asleep in the vehicle before the incident began. The reported time was approximately 9.15 pm, with dark conditions and light drizzle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
 
-The witness stated that while driving she became aware of an unusual bright light ahead. The account developed into a sequence that later writers would classify as a vehicle-interference case: unusual illumination, concern about the operation of the car, and the impression that an unknown object was close to the vehicle. Such reports have long attracted UFO researchers because they contain more than a distant light in the sky; they involve claims about effects on people or machinery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
+The witness stated that while driving she became aware of an unusual bright light ahead. The account developed into a sequence that later writers would classify as a vehicle-interference case: unusual illumination, concern about the operation of the car, and the impression that an unknown object was close to the vehicle. Such reports have long attracted UFO researchers because they contain more than a distant light in the sky; they involve claims about effects on people or machinery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
 
 The early version of the story was already striking enough to circulate within Australian UFO circles. Yet, as with many cases from the 1970s, the crucial question was whether the details had been recorded close to the event or reconstructed much later. That is where the TUFOIC follow-up becomes important.
 
@@ -278,7 +278,7 @@ The early version of the story was already striking enough to circulate within A
 
 ## Roger Brooks' follow-up visit and case notes
 
-Only five days after the reported encounter, Roger Brooks travelled to the Richards property to investigate. Brooks was not simply collecting a second-hand story years later; he interviewed the [witnesses]({{ 'witnesses-e9d9f7/' | relative_url }}) while memories were still relatively fresh and examined the location connected with the report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
+Only five days after the reported encounter, Roger Brooks travelled to the Richards property to investigate. Brooks was not simply collecting a second-hand story years later; he interviewed the [witnesses]({{ 'witnesses-e9d9f7/' | relative_url }}) while memories were still relatively fresh and examined the location connected with the report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
 
 The surviving documentation shows several features that distinguish the case from many poorly sourced UFO stories:
 
@@ -286,11 +286,11 @@ The surviving documentation shows several features that distinguish the case fro
 * The vehicle involved was identified as a 1968 Toyota Crown manual.
 * The route, weather conditions and approximate timing were documented.
 * The location was narrowed to a specific stretch of road near a bridge on Ansons Bay Road north of St Helens.
-* The witness movements before the incident were reconstructed, including a stop at a relative’s house shortly beforehand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
+* The witness movements before the incident were reconstructed, including a stop at a relative’s house shortly beforehand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
 
 These details may appear mundane, but they are exactly the sort of information that allows later researchers to test claims. Knowing the road, weather, timing and vehicle creates opportunities to examine alternative [explanations]({{ 'explanations-0349ac/' | relative_url }}), visibility conditions and possible sources of misidentification.
 
-Brooks' report also preserved the sequence of events in a structured form rather than as a newspaper-style summary. That distinction matters. Many UFO stories survive only as short media reports, whereas the St Helens case retained a contemporaneous investigative document that recorded what witnesses said in a more systematic way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
+Brooks' report also preserved the sequence of events in a structured form rather than as a newspaper-style summary. That distinction matters. Many UFO stories survive only as short media reports, whereas the St Helens case retained a contemporaneous investigative document that recorded what witnesses said in a more systematic way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_st_helens_tufoic_fol_277a7a-Illustration-2-dark.svg" | relative_url }}" alt="St Helens illustration 2" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_st_helens_tufoic_fol_277a7a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_st_helens_tufoic_fol_277a7a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -298,9 +298,9 @@ Brooks' report also preserved the sequence of events in a structured form rather
 
 The value of the St Helens file lies as much in what it prevents as in what it proves.
 
-Without Brooks' notes, later retellings could easily have altered key facts. The investigation fixed a date, identified the witnesses, described the vehicle and established a location. These are basic historical controls. They do not verify the witness interpretation, but they make it harder for the case to drift into folklore detached from its original context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
+Without Brooks' notes, later retellings could easily have altered key facts. The investigation fixed a date, identified the witnesses, described the vehicle and established a location. These are basic historical controls. They do not verify the witness interpretation, but they make it harder for the case to drift into folklore detached from its original context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
 
-The file also demonstrates how TUFOIC operated during the 1970s. Rather than merely collecting rumours, investigators sometimes travelled to witnesses, checked locations and produced written case reports. In Tasmania, where many reports came from small towns and remote districts, that effort helped preserve information that would otherwise have been lost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
+The file also demonstrates how TUFOIC operated during the 1970s. Rather than merely collecting rumours, investigators sometimes travelled to witnesses, checked locations and produced written case reports. In Tasmania, where many reports came from small towns and remote districts, that effort helped preserve information that would otherwise have been lost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
 
 For historians of Australian UFO reporting, the St Helens case is therefore doubly significant: it is both a reported encounter and an example of how civilian investigators built Tasmania’s archival record.
 
@@ -311,208 +311,208 @@ For historians of Australian UFO reporting, the St Helens case is therefore doub
 
 The surviving TUFOIC material clarifies several issues that are often blurred in later accounts.
 
-First, the chronology is reasonably well established. The report was made in September 1974, and an investigator visited the witnesses within days. Second, the geography is more precise than many summaries suggest. Third, the identities of the witnesses and the circumstances of the journey were documented at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
+First, the chronology is reasonably well established. The report was made in September 1974, and an investigator visited the witnesses within days. Second, the geography is more precise than many summaries suggest. Third, the identities of the witnesses and the circumstances of the journey were documented at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
 
 What remains uncertain is the interpretation.
 
-No known physical evidence independently confirms the presence of an extraordinary object. The case rests primarily on witness testimony, however sincerely given. The reported effects on the vehicle and the observations made by the occupants cannot now be recreated or independently verified. As with many close-encounter reports, later researchers are left weighing the consistency of the testimony against the absence of definitive physical proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
+No known physical evidence independently confirms the presence of an extraordinary object. The case rests primarily on witness testimony, however sincerely given. The reported effects on the vehicle and the observations made by the occupants cannot now be recreated or independently verified. As with many close-encounter reports, later researchers are left weighing the consistency of the testimony against the absence of definitive physical proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
 
-The passage of time also complicates matters. Later retellings sometimes emphasise the most dramatic aspects of the story, while the original TUFOIC documentation contains a broader factual framework that includes ordinary details about the journey, weather and location. Those routine details are often less memorable than the encounter itself, yet they are crucial for assessing reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
+The passage of time also complicates matters. Later retellings sometimes emphasise the most dramatic aspects of the story, while the original TUFOIC documentation contains a broader factual framework that includes ordinary details about the journey, weather and location. Those routine details are often less memorable than the encounter itself, yet they are crucial for assessing reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
 
-In that sense, the St Helens case illustrates a wider lesson from Tasmania’s civilian UFO archives. The most useful contribution of TUFOIC was not to settle whether a witness saw something extraordinary. It was to preserve enough information that future readers could make their own assessment. The St Helens report remains unresolved, but thanks to Roger Brooks' follow-up investigation it is considerably better documented than many Australian UFO stories from the same era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
+In that sense, the St Helens case illustrates a wider lesson from Tasmania’s civilian UFO archives. The most useful contribution of TUFOIC was not to settle whether a witness saw something extraordinary. It was to preserve enough information that future readers could make their own assessment. The St Helens report remains unresolved, but thanks to Roger Brooks' follow-up investigation it is considerably better documented than many Australian UFO stories from the same era.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a detailed look at 1974 st helens</span><span class="citation-popover-snippet">UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_st_helens_tufoic_fol_277a7a-Illustration-3-dark.svg" | relative_url }}" alt="St Helens illustration 3" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_st_helens_tufoic_fol_277a7a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_tufoic_archives_2c10b6_st_helens_tufoic_fol_277a7a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What TUFOIC Added to St Helens. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What TUFOIC Added to St Helens. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises documented cases and investigative follow-up rather than sensational retellings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises documented cases and investigative follow-up rather than sensational retellings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Useful parallel to the St Helens case because it focuses on reconstructing a notable incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful parallel to the St Helens case because it focuses on reconstructing a notable incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader interpretive context for famous sighting narratives and their evolution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader interpretive context for famous sighting narratives and their evolution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek, J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek, J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relates to evaluating witness testimony, field investigations and close-encounter reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to evaluating witness testimony, field investigations and close-encounter reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="st-helens-what-tufoic-added-to-st-helens-tasmania-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Landscape Painting Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/0kkAAeSw4ulo1amc/s-l225.jpg" alt="Listing image for UFO Abduction Landscape Painting Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Landscape Painting Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tufoic-added-to-st-helens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-tufoic-added-to-st-helens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ In that sense, the St Helens case illustrates a wider lesson from Tasmania’s c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ In that sense, the St Helens case illustrates a wider lesson from Tasmania’s c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ In that sense, the St Helens case illustrates a wider lesson from Tasmania’s c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ In that sense, the St Helens case illustrates a wider lesson from Tasmania’s c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ In that sense, the St Helens case illustrates a wider lesson from Tasmania’s c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,80 +718,80 @@ In that sense, the St Helens case illustrates a wider lesson from Tasmania’s c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: a detailed look at 1974 st helens  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2014/01/a-detailed-look-at-1974-st-helens.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Scientific ResearchA detailed look at the 1974 St Helens, Tasmania, car stop...27 Jan 2014 — A TUFOIC investigator, Mr Roger Brooks...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufos-scientificresearch.blogspot.com  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2014/01/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2014/01/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Scientific ResearchJanuary 201431 Jan 2014 —... Tasmanian UFO Investigation Centre (TUFOIC click here.) A TUFOIC investigator, Mr R...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2014/01/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2014/01/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Scientific ResearchJanuary 201431 Jan 2014 —... Tasmanian UFO Investigation Centre (TUFOIC click here.) A TUFOIC investigator, Mr R...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FSR special issue, no. 2. London: FSR [Flying Sau- cer Review] Publications, June 1969.Read more...</p></details>
+   Link:<a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FSR special issue, no. 2. London: FSR [Flying Sau- cer Review] Publications, June 1969.Read more...</p></details>
    Published: June 1969  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: intcat.blogspot.com  
    Title: intcat 1984 1986  
-   Link: <a href="https://intcat.blogspot.com/2019/06/intcat-1984-1986.html" target="_blank" rel="noopener noreferrer nofollow">https://intcat.blogspot.com/2019/06/intcat-1984-1986.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>INTCAT 1984-1986The couple forgot about the incident for 4 years and only recalled it when reading a magazine article about UFOs. Richard...</p></details>
+   Link:<a href="https://intcat.blogspot.com/2019/06/intcat-1984-1986.html" target="_blank" rel="noopener noreferrer nofollow">https://intcat.blogspot.com/2019/06/intcat-1984-1986.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INTCAT 1984-1986The couple forgot about the incident for 4 years and only recalled it when reading a magazine article about UFOs. Richard...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1psd2py/ufo_sightings_and_alien_abduction_is_tasmania/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1psd2py/ufo_sightings_and_alien_abduction_is_tasmania/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings and Alien Abduction is Tasmania AustraliaLots of weird things going on during the 70s around the island! I think the aussie...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1psd2py/ufo_sightings_and_alien_abduction_is_tasmania/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1psd2py/ufo_sightings_and_alien_abduction_is_tasmania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings and Alien Abduction is Tasmania AustraliaLots of weird things going on during the 70s around the island! I think the aussie...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ufoupdates/posts/10155212742196790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/posts/10155212742196790/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO book bibliography by Keith RowellAnyway, &quot;The Myth and Mystery of UFOs&quot; is one of the most thorough and exhaustive academic works stu...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ufoupdates/posts/10155212742196790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/posts/10155212742196790/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO book bibliography by Keith RowellAnyway, &quot;The Myth and Mystery of UFOs&quot; is one of the most thorough and exhaustive academic works stu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESThis book is largely based upon the real-life accounts of UFO experiences recorded in files collected by Britain&#x27;s Ministry of D...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESThis book is largely based upon the real-life accounts of UFO experiences recorded in files collected by Britain&#x27;s Ministry of D...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The British Newspaper ArchiveWe love all the curious stories that can be found in our Archive - and none are more curious than the tales...</p></details>
+   Link:<a href="https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBritishNewspaperArchive/posts/we-love-all-the-curious-stories-that-can-be-found-in-our-archive-and-none-are-mo/870325985093926/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The British Newspaper ArchiveWe love all the curious stories that can be found in our Archive - and none are more curious than the tales...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/640223543/Untitled" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/640223543/Untitled</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vehicle interference effect cases are those in which a UFO sighting has included reported effects on the operation of a...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/640223543/Untitled" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/640223543/Untitled</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vehicle interference effect cases are those in which a UFO sighting has included reported effects on the operation of a...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/museodellereligioni/posts/4473082942786320/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/museodellereligioni/posts/4473082942786320/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Phenomenon – Time‐Life Books “Mysteries of the Unknown” 3. The Encyclopaedia of Alien Encounters...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/museodellereligioni/posts/4473082942786320/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/museodellereligioni/posts/4473082942786320/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Phenomenon – Time‐Life Books “Mysteries of the Unknown” 3. The Encyclopaedia of Alien Encounters...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FSR... cases no follow-up in vestigation was conducted by competent investigators.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FSR... cases no follow-up in vestigation was conducted by competent investigators.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: documents.theblackvault.com  
    Title: A703 580 1 1 Part 15 646568  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%2015_646568.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%2015_646568.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comA703_580-1-1_Part 15_646568.pdfThe following military aircraft were in the vicinity of the reported UFO... Report on UF...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%2015_646568.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%2015_646568.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comA703_580-1-1_Part 15_646568.pdfThe following military aircraft were in the vicinity of the reported UFO... Report on UF...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rune.ws  
    Title: Humanoid Encounters  
-   Link: <a href="https://rune.ws/spesBoker/Humanoid-Encounters-1975-1979-Albert-S-Rosales.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rune.ws/spesBoker/Humanoid-Encounters-1975-1979-Albert-S-Rosales.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rune Øverby&#x27;s base21 Oct 1978 — alien species when her car was stopped by a pair of long-haired... The incident occurred during a rash o...</p></details>
+   Link:<a href="https://rune.ws/spesBoker/Humanoid-Encounters-1975-1979-Albert-S-Rosales.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rune.ws/spesBoker/Humanoid-Encounters-1975-1979-Albert-S-Rosales.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rune Øverby&#x27;s base21 Oct 1978 — alien species when her car was stopped by a pair of long-haired... The incident occurred during a rash o...</p></details>

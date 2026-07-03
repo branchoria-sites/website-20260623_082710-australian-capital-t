@@ -256,15 +256,15 @@ image: /assets/images/Queensland_95a7a7_min_min_lights_ecea73_pettigrew_field_ev
 
 ## Introduction
 
-Jack Pettigrew’s work on the [Min Min lights]({{ 'min-min-lights/' | relative_url }}) is important because it shifted the debate from folklore and anecdotal mystery towards a testable scientific explanation. Rather than dismissing witnesses, the University of [Queensland]({{ 'queenslands-ufo-stories-evidence-and/' | relative_url }}) neuroscientist and vision researcher treated the lights as a real visual phenomenon that could be studied in the field. His 2003 paper in *Clinical and Experimental Optometry* became the most influential scientific account of Min Min lights in western Queensland, arguing that many sightings could be explained by a rare atmospheric mirage known as a Fata Morgana. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
+Jack Pettigrew’s work on the [Min Min lights]({{ 'min-min-lights/' | relative_url }}) is important because it shifted the debate from folklore and anecdotal mystery towards a testable scientific explanation. Rather than dismissing witnesses, the University of [Queensland]({{ 'queenslands-ufo-stories-evidence-and/' | relative_url }}) neuroscientist and vision researcher treated the lights as a real visual phenomenon that could be studied in the field. His 2003 paper in *Clinical and Experimental Optometry* became the most influential scientific account of Min Min lights in western Queensland, arguing that many sightings could be explained by a rare atmospheric mirage known as a Fata Morgana.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_min_min_lights_ecea73_pettigrew_field_evid_a1425b-Illustration-1-dark.svg" | relative_url }}" alt="Pettigrew Test illustration 1" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_min_min_lights_ecea73_pettigrew_field_evid_a1425b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_min_min_lights_ecea73_pettigrew_field_evid_a1425b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For Queensland’s UFO and mystery-light history, Pettigrew’s contribution matters because he did not rely solely on theory. He based his explanation on direct observations, interviews with witnesses and a field demonstration in the Channel Country. The strength of his work lies less in proving the source of every reported light and more in showing that a supposedly supernatural or unexplained phenomenon could be reproduced through known optical processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
+For Queensland’s UFO and mystery-light history, Pettigrew’s contribution matters because he did not rely solely on theory. He based his explanation on direct observations, interviews with witnesses and a field demonstration in the Channel Country. The strength of his work lies less in proving the source of every reported light and more in showing that a supposedly supernatural or unexplained phenomenon could be reproduced through known optical processes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
 
 ## What Pettigrew observed in western Queensland
 
-Pettigrew first encountered Min Min lights while conducting unrelated field research in western Queensland. He was studying the rare letter-winged kite and spending long periods in remote night-time conditions across the Diamantina and Channel Country regions. During this work he repeatedly heard local accounts of strange lights and eventually observed them himself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uq.edu.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uq.edu.au</span><span class="citation-popover-title">News UQ scientist unlocks secret of Min Min lights</span><span class="citation-popover-snippet">UQ scientist unlocks secret of Min Min lights - UQ News...</span></span></span>
+Pettigrew first encountered Min Min lights while conducting unrelated field research in western Queensland. He was studying the rare letter-winged kite and spending long periods in remote night-time conditions across the Diamantina and Channel Country regions. During this work he repeatedly heard local accounts of strange lights and eventually observed them himself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uq.edu.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uq.edu.au</span><span class="citation-popover-title">News UQ scientist unlocks secret of Min Min lights</span><span class="citation-popover-snippet">UQ scientist unlocks secret of Min Min lights - UQ News...</span></span></span>
 
 What interested him was not merely the appearance of the lights but their reported behaviour. Witnesses frequently described lights that seemed to:
 
@@ -275,13 +275,13 @@ What interested him was not merely the appearance of the lights but their report
 * Follow vehicles for long distances.
 * Retreat when approached.
 * Change colour or brightness.
-* Remain visible despite efforts to identify their source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uq.edu.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uq.edu.au</span><span class="citation-popover-title">News UQ scientist unlocks secret of Min Min lights</span><span class="citation-popover-snippet">UQ scientist unlocks secret of Min Min lights - UQ News...</span></span></span>
+* Remain visible despite efforts to identify their source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uq.edu.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uq.edu.au</span><span class="citation-popover-title">News UQ scientist unlocks secret of Min Min lights</span><span class="citation-popover-snippet">UQ scientist unlocks secret of Min Min lights - UQ News...</span></span></span>
 
 </div>
 
-Pettigrew noted that these reports were often coming from experienced outback residents rather than casual tourists. Some witnesses had spent decades working in remote environments and were familiar with ordinary lights, planets and atmospheric conditions. This made simple explanations such as misidentifying Venus or a nearby vehicle less persuasive on their own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm?site=scie&amp;topic=latest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsMystery of the Min Min lights explained28 Mar 2003 — Professor Jack Pettigrew, of the University of Queensland in Brisbane claims...</span></span></span>
+Pettigrew noted that these reports were often coming from experienced outback residents rather than casual tourists. Some witnesses had spent decades working in remote environments and were familiar with ordinary lights, planets and atmospheric conditions. This made simple explanations such as misidentifying Venus or a nearby vehicle less persuasive on their own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm?site=scie&amp;topic=latest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsMystery of the Min Min lights explained28 Mar 2003 — Professor Jack Pettigrew, of the University of Queensland in Brisbane claims...</span></span></span>
 
-His approach was therefore to ask whether unusual atmospheric conditions could create a genuinely strange visual experience without requiring an unknown physical object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
+His approach was therefore to ask whether unusual atmospheric conditions could create a genuinely strange visual experience without requiring an unknown physical object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8W_7TybTszM" title="The Min Min Lights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8W_7TybTszM" target="_blank" rel="noopener noreferrer">The Min Min Lights</a></p><p class="youtube-embed-meta">Channel: Geckos and Gum Leaves &middot; Views: 32.2K &middot; Uploaded: July 2017 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8W_7TybTszM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8W_7TybTszM">Open on YouTube</a></p></div></div></div>
@@ -290,15 +290,15 @@ His approach was therefore to ask whether unusual atmospheric conditions could c
 
 The centrepiece of Pettigrew’s case was not witness testimony but a practical demonstration.
 
-His hypothesis proposed that Min Min lights are often distant light sources carried over the horizon by a temperature inversion. Under these conditions, cold dense air lies close to the ground while warmer air sits above it. The resulting refractive layers bend light in unusual ways, producing a type of inverted mirage known as a Fata Morgana. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
+His hypothesis proposed that Min Min lights are often distant light sources carried over the horizon by a temperature inversion. Under these conditions, cold dense air lies close to the ground while warmer air sits above it. The resulting refractive layers bend light in unusual ways, producing a type of inverted mirage known as a Fata Morgana.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
 
-According to Pettigrew, this process can transport light from sources tens or even hundreds of kilometres away, making them appear as isolated glowing objects with no obvious origin. Because the observer sees only a single displaced light rather than the landscape around it, judging distance and movement becomes extremely difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
+According to Pettigrew, this process can transport light from sources tens or even hundreds of kilometres away, making them appear as isolated glowing objects with no obvious origin. Because the observer sees only a single displaced light rather than the landscape around it, judging distance and movement becomes extremely difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
 
-One of his best-known field tests involved using vehicle headlights as a controlled light source. In a reported experiment, Pettigrew drove approximately 10 kilometres from a campsite and switched his headlights on and off while maintaining radio contact with observers. The observers reported seeing a hovering light above the horizon that changed colour and appearance. When the headlights were extinguished, the apparent Min Min light disappeared; when they were turned on again, the light returned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/need-to-know-with-dr-karl/2018/08/the-min-min-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">the min min mystery</span><span class="citation-popover-snippet">Australian GeographicThe Min Min Mystery9 Aug 2018 — John Pettigrew used geometry to show a Min Min light was actually very bright truck...</span></span></span>
+One of his best-known field tests involved using vehicle headlights as a controlled light source. In a reported experiment, Pettigrew drove approximately 10 kilometres from a campsite and switched his headlights on and off while maintaining radio contact with observers. The observers reported seeing a hovering light above the horizon that changed colour and appearance. When the headlights were extinguished, the apparent Min Min light disappeared; when they were turned on again, the light returned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/need-to-know-with-dr-karl/2018/08/the-min-min-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">the min min mystery</span><span class="citation-popover-snippet">Australian GeographicThe Min Min Mystery9 Aug 2018 — John Pettigrew used geometry to show a Min Min light was actually very bright truck...</span></span></span>
 
-Pettigrew also argued that geometric analysis sometimes allowed him to trace apparent Min Min lights back to distant roads and vehicle traffic far beyond the visible horizon. In some cases he suggested that lights seen as mysterious objects were actually truck headlights at extraordinary distances, made visible by atmospheric refraction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/need-to-know-with-dr-karl/2018/08/the-min-min-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">the min min mystery</span><span class="citation-popover-snippet">Australian GeographicThe Min Min Mystery9 Aug 2018 — John Pettigrew used geometry to show a Min Min light was actually very bright truck...</span></span></span>
+Pettigrew also argued that geometric analysis sometimes allowed him to trace apparent Min Min lights back to distant roads and vehicle traffic far beyond the visible horizon. In some cases he suggested that lights seen as mysterious objects were actually truck headlights at extraordinary distances, made visible by atmospheric refraction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/need-to-know-with-dr-karl/2018/08/the-min-min-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">the min min mystery</span><span class="citation-popover-snippet">Australian GeographicThe Min Min Mystery9 Aug 2018 — John Pettigrew used geometry to show a Min Min light was actually very bright truck...</span></span></span>
 
-These demonstrations were significant because they transformed the discussion from “Could a mirage do this?” to “Here is a mechanism producing similar effects under field conditions.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
+These demonstrations were significant because they transformed the discussion from “Could a mirage do this?” to “Here is a mechanism producing similar effects under field conditions.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_min_min_lights_ecea73_pettigrew_field_evid_a1425b-Illustration-2-dark.svg" | relative_url }}" alt="Pettigrew Test illustration 2" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_min_min_lights_ecea73_pettigrew_field_evid_a1425b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_min_min_lights_ecea73_pettigrew_field_evid_a1425b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -306,11 +306,11 @@ These demonstrations were significant because they transformed the discussion fr
 
 Pettigrew’s model addressed several features that had long encouraged UFO-style interpretations.
 
-The apparent tendency of Min Min lights to follow travellers is one example. If the light source is extremely distant, changes in the observer’s position can create little apparent movement against the background. The result can be a light that seems to accompany a vehicle for many kilometres even though the source remains fixed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
+The apparent tendency of Min Min lights to follow travellers is one example. If the light source is extremely distant, changes in the observer’s position can create little apparent movement against the background. The result can be a light that seems to accompany a vehicle for many kilometres even though the source remains fixed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
 
-The model also helps explain why observers often fail to reach the light. If the visible glow is a refracted image rather than a nearby object, driving towards it does not necessarily reduce the distance in the expected way. The light can appear to retreat, shift position or vanish as atmospheric conditions change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
+The model also helps explain why observers often fail to reach the light. If the visible glow is a refracted image rather than a nearby object, driving towards it does not necessarily reduce the distance in the expected way. The light can appear to retreat, shift position or vanish as atmospheric conditions change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
 
-Colour changes are another point. Refraction through multiple air layers can distort and alter the appearance of distant lights, especially when they are viewed near the horizon. Witness descriptions of red, yellow, green or white lights are therefore not inconsistent with a mirage-based explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/need-to-know-with-dr-karl/2018/08/the-min-min-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">the min min mystery</span><span class="citation-popover-snippet">Australian GeographicThe Min Min Mystery9 Aug 2018 — John Pettigrew used geometry to show a Min Min light was actually very bright truck...</span></span></span>
+Colour changes are another point. Refraction through multiple air layers can distort and alter the appearance of distant lights, especially when they are viewed near the horizon. Witness descriptions of red, yellow, green or white lights are therefore not inconsistent with a mirage-based explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/need-to-know-with-dr-karl/2018/08/the-min-min-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">the min min mystery</span><span class="citation-popover-snippet">Australian GeographicThe Min Min Mystery9 Aug 2018 — John Pettigrew used geometry to show a Min Min light was actually very bright truck...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PQEcMG3QtlA" title="The Min Min Lights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PQEcMG3QtlA" target="_blank" rel="noopener noreferrer">The Min Min Lights</a></p><p class="youtube-embed-meta">Channel: ianc2903</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PQEcMG3QtlA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PQEcMG3QtlA">Open on YouTube</a></p></div></div></div>
@@ -319,11 +319,11 @@ Colour changes are another point. Refraction through multiple air layers can dis
 
 Although Pettigrew’s work remains the leading scientific explanation for many Queensland Min Min reports, it does not automatically resolve every historical account.
 
-First, his paper argued that *many* strange properties of the lights are explicable through atmospheric optics and human perception under low-information conditions. It did not claim that every reported sighting had been individually investigated and identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
+First, his paper argued that *many* strange properties of the lights are explicable through atmospheric optics and human perception under low-information conditions. It did not claim that every reported sighting had been individually investigated and identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
 
-Second, some reports pre-date modern vehicle traffic. Pettigrew suggested that earlier sightings could have involved campfires or other natural light sources rather than headlights, but historical cases are often too poorly documented to test directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
+Second, some reports pre-date modern vehicle traffic. Pettigrew suggested that earlier sightings could have involved campfires or other natural light sources rather than headlights, but historical cases are often too poorly documented to test directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
 
-Third, atmospheric conditions suitable for strong Fata Morgana effects are variable. Even supporters of the mirage model acknowledge that reproducing the exact circumstances of a particular sighting can be difficult. The explanation is strongest as a mechanism capable of producing Min Min-like experiences rather than as a complete reconstruction of every encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
+Third, atmospheric conditions suitable for strong Fata Morgana effects are variable. Even supporters of the mirage model acknowledge that reproducing the exact circumstances of a particular sighting can be difficult. The explanation is strongest as a mechanism capable of producing Min Min-like experiences rather than as a complete reconstruction of every encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
 
 For that reason, Pettigrew’s work is best understood as a major advance in understanding the phenomenon rather than a final verdict on every story associated with the Min Min tradition.
 
@@ -331,205 +331,205 @@ For that reason, Pettigrew’s work is best understood as a major advance in und
 <img src="{{ "/assets/images/Queensland_95a7a7_min_min_lights_ecea73_pettigrew_field_evid_a1425b-Illustration-3-dark.svg" | relative_url }}" alt="Pettigrew Test illustration 3" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_min_min_lights_ecea73_pettigrew_field_evid_a1425b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_min_min_lights_ecea73_pettigrew_field_evid_a1425b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Pettigrew's evidence remains influential
 
-Within Queensland’s history of unusual aerial and light phenomena, Pettigrew’s study stands out because it combined field observation with a specific physical mechanism. Many mystery-light explanations rely mainly on speculation or retrospective interpretation. Pettigrew instead attempted to observe the phenomenon directly, identify the environmental conditions involved and demonstrate a comparable effect using known light sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
+Within Queensland’s history of unusual aerial and light phenomena, Pettigrew’s study stands out because it combined field observation with a specific physical mechanism. Many mystery-light explanations rely mainly on speculation or retrospective interpretation. Pettigrew instead attempted to observe the phenomenon directly, identify the environmental conditions involved and demonstrate a comparable effect using known light sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
 
-As a result, his 2003 paper became the principal scientific reference for discussions of Min Min lights. Even critics and alternative theorists generally begin by addressing his Fata Morgana model because it remains the most detailed evidence-based explanation produced for the phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
+As a result, his 2003 paper became the principal scientific reference for discussions of Min Min lights. Even critics and alternative theorists generally begin by addressing his Fata Morgana model because it remains the most detailed evidence-based explanation produced for the phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
 
-In the broader context of Queensland UFO history, Pettigrew’s research is a reminder that some of the state's most famous “unexplained lights” may owe as much to atmospheric optics and human perception as to any unknown object. His field evidence did not eliminate the mystery entirely, but it gave investigators a concrete, testable framework that many earlier explanations lacked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
+In the broader context of Queensland UFO history, Pettigrew’s research is a reminder that some of the state's most famous “unexplained lights” may owe as much to atmospheric optics and human perception as to any unknown object. His field evidence did not eliminate the mystery entirely, but it gave investigators a concrete, testable framework that many earlier explanations lacked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1444 0938.2003.tb03069.x</span><span class="citation-popover-snippet">John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O4U_OB0Gat8" title="The Min Min Lights, A Big Country -1982/1978" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O4U_OB0Gat8" target="_blank" rel="noopener noreferrer">The Min Min Lights, A Big Country -1982/1978</a></p><p class="youtube-embed-meta">Channel: Geckos and Gum Leaves</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O4U_OB0Gat8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O4U_OB0Gat8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The scientist who tested the Min Min mystery. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The scientist who tested the Min Min mystery. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Matches Pettigrew’s approach of testing mysterious reports through observation, evidence and reproducible explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Matches Pettigrew’s approach of testing mysterious reports through observation, evidence and reproducible explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Readers interested in Min Min lights often explore broader unexplained aerial phenomena and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Readers interested in Min Min lights often explore broader unexplained aerial phenomena and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating unusual sightings, eyewitness testimony and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating unusual sightings, eyewitness testimony and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mystery+of+the+Min+Min+Lights+by+Janelle+Diller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mystery of the Min Min Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Di_3MAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mystery of the Min Min Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mystery+of+the+Min+Min+Lights+by+Janelle+Diller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mystery of the Min Min Lights">Mystery of the Min Min Lights</a>
-        </h4>
-        <p class="fr-book-author">By Janelle Diller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mystery+of+the+Min+Min+Lights+by+Janelle+Diller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mystery of the Min Min Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Di_3MAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mystery of the Min Min Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mystery+of+the+Min+Min+Lights+by+Janelle+Diller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mystery of the Min Min Lights">Mystery of the Min Min Lights</a>
+</h4>
+<p class="fr-book-author">By Janelle Diller</p>
         
-        <p class="fr-book-desc">Directly centers on the Min Min lights phenomenon that Pettigrew investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mystery+of+the+Min+Min+Lights+by+Janelle+Diller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly centers on the Min Min lights phenomenon that Pettigrew investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mystery+of+the+Min+Min+Lights+by+Janelle+Diller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day CD Basket Case Grüne Sammler Hülle"><img src="{{ '/assets/images/marketplace-covers/57b827fd9c64b46341f3.jpg' | relative_url }}" alt="Listing image for Green Day CD Basket Case Grüne Sammler Hülle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day CD Basket Case Grüne Sammler Hülle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day CD Basket Case Grüne Sammler Hülle"><img src="{{ '/assets/images/marketplace-covers/57b827fd9c64b46341f3.jpg' | relative_url }}" alt="Listing image for Green Day CD Basket Case Grüne Sammler Hülle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day CD Basket Case Grüne Sammler Hülle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day - Basket Case MCD #G12447"><img src="{{ '/assets/images/marketplace-covers/538d5f3f3c67d195b72b.jpg' | relative_url }}" alt="Listing image for Green Day - Basket Case MCD #G12447" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day - Basket Case MCD #G12447</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day - Basket Case MCD #G12447"><img src="{{ '/assets/images/marketplace-covers/538d5f3f3c67d195b72b.jpg' | relative_url }}" alt="Listing image for Green Day - Basket Case MCD #G12447" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day - Basket Case MCD #G12447</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min"><img src="{{ '/assets/images/marketplace-covers/7dce6efe1ae3f275cca6.jpg' | relative_url }}" alt="Listing image for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min"><img src="{{ '/assets/images/marketplace-covers/7dce6efe1ae3f275cca6.jpg' | relative_url }}" alt="Listing image for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min"><img src="{{ '/assets/images/marketplace-covers/4b0841c18a7477a70bf3.jpg' | relative_url }}" alt="Listing image for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min"><img src="{{ '/assets/images/marketplace-covers/4b0841c18a7477a70bf3.jpg' | relative_url }}" alt="Listing image for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="pettigrew-test-the-scientist-who-tested-the-min-min-mystery-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ In the broader context of Queensland UFO history, Pettigrew’s research is a re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ In the broader context of Queensland UFO history, Pettigrew’s research is a re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ In the broader context of Queensland UFO history, Pettigrew’s research is a re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ In the broader context of Queensland UFO history, Pettigrew’s research is a re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ In the broader context of Queensland UFO history, Pettigrew’s research is a re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,112 +735,112 @@ In the broader context of Queensland UFO history, Pettigrew’s research is a re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
    Title: j.1444 0938.2003.tb03069.x  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.2003.tb03069.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John D Pettigrew BSc(Med) MSc MBBS FRS...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med The Min Min light and the Fata Morgana  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12643807/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12643807/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An optical...by JD Pettigrew · 2003 · Cited by 23 — This explanation is based on the inverted mirage or Fata Morgana, where light is ref...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12643807/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12643807/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An optical...by JD Pettigrew · 2003 · Cited by 23 — This explanation is based on the inverted mirage or Fata Morgana, where light is ref...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.uq.edu.au  
    Title: News UQ scientist unlocks secret of Min Min lights  
-   Link: <a href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow">https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UQ scientist unlocks secret of Min Min lights - UQ News...</p></details>
+   Link:<a href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow">https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UQ scientist unlocks secret of Min Min lights - UQ News...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm?site=scie&amp;topic=latest" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/science/articles/2003/03/28/818193.htm?site=scie&amp;topic=latest</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsMystery of the Min Min lights explained28 Mar 2003 — Professor Jack Pettigrew, of the University of Queensland in Brisbane claims...</p></details>
+   Link:<a href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm?site=scie&amp;topic=latest" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/science/articles/2003/03/28/818193.htm?site=scie&amp;topic=latest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsMystery of the Min Min lights explained28 Mar 2003 — Professor Jack Pettigrew, of the University of Queensland in Brisbane claims...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: australiangeographic.com.au  
    Title: the min min mystery  
-   Link: <a href="https://www.australiangeographic.com.au/blogs/need-to-know-with-dr-karl/2018/08/the-min-min-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/blogs/need-to-know-with-dr-karl/2018/08/the-min-min-mystery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian GeographicThe Min Min Mystery9 Aug 2018 — John Pettigrew used geometry to show a Min Min light was actually very bright truck...</p></details>
+   Link:<a href="https://www.australiangeographic.com.au/blogs/need-to-know-with-dr-karl/2018/08/the-min-min-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/blogs/need-to-know-with-dr-karl/2018/08/the-min-min-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian GeographicThe Min Min Mystery9 Aug 2018 — John Pettigrew used geometry to show a Min Min light was actually very bright truck...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/science/articles/2003/03/28/818193.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery of the Min Min lights explained28 Mar 2003 — Professor Jack Pettigrew, of the University of Queensland in Brisbane claims the lig...</p></details>
+   Link:<a href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/science/articles/2003/03/28/818193.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery of the Min Min lights explained28 Mar 2003 — Professor Jack Pettigrew, of the University of Queensland in Brisbane claims the lig...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=O4U_OB0Gat8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O4U_OB0Gat8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Min Min Lights...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O4U_OB0Gat8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O4U_OB0Gat8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Min Min Lights...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Min Min Lights  
-   Link: <a href="https://www.youtube.com/watch?v=8W_7TybTszM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8W_7TybTszM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Travelling Australia in the Summertime - BEDOURIE AND BOULIA - Min Min Light Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8W_7TybTszM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8W_7TybTszM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travelling Australia in the Summertime - BEDOURIE AND BOULIA - Min Min Light Encounter...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Travelling Australia in the Summertime  
-   Link: <a href="https://www.youtube.com/watch?v=S_-2n49IGG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S_-2n49IGG4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Min Min Lights...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S_-2n49IGG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S_-2n49IGG4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Min Min Lights...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Min Min Lights  
-   Link: <a href="https://www.youtube.com/watch?v=PQEcMG3QtlA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PQEcMG3QtlA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=PQEcMG3QtlA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PQEcMG3QtlA</a>  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Min_Min_light" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Min_Min_light</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Min Min lightVarious hypotheses have been put forward to explain the lights, including: Bioluminescence. edit. Scientist Jack Pettigre...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Min_Min_light" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Min_Min_light</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Min Min lightVarious hypotheses have been put forward to explain the lights, including: Bioluminescence. edit. Scientist Jack Pettigre...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/australia/comments/977kku/an_australian_neuroscientist_has_solved_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/australia/comments/977kku/an_australian_neuroscientist_has_solved_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the ground, between the distant light and the observer, can trap light.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/australia/comments/977kku/an_australian_neuroscientist_has_solved_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/australia/comments/977kku/an_australian_neuroscientist_has_solved_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the ground, between the distant light and the observer, can trap light.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/488234828718601/posts/1992206231654779/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/488234828718601/posts/1992206231654779/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ious locations across Australia&#x27;s outback, including Boulia, the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/488234828718601/posts/1992206231654779/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/488234828718601/posts/1992206231654779/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ious locations across Australia&#x27;s outback, including Boulia, the...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227660028_The_Min_Min_light_and_the_Fata_Morgana_An_optical_account_of_a_mysterious_Australian_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227660028_The_Min_Min_light_and_the_Fata_Morgana_An_optical_account_of_a_mysterious_Australian_phenomenon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n, the Min Min light has never been explained in a satisfactory way.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227660028_The_Min_Min_light_and_the_Fata_Morgana_An_optical_account_of_a_mysterious_Australian_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227660028_The_Min_Min_light_and_the_Fata_Morgana_An_optical_account_of_a_mysterious_Australian_phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n, the Min Min light has never been explained in a satisfactory way.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ausgeo/posts/an-australian-neuroscientist-believes-hes-solved-the-mystery-of-min-min-lights/10158657217793339/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ausgeo/posts/an-australian-neuroscientist-believes-hes-solved-the-mystery-of-min-min-lights/10158657217793339/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However there is a flaw in this explanation...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ausgeo/posts/an-australian-neuroscientist-believes-hes-solved-the-mystery-of-min-min-lights/10158657217793339/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ausgeo/posts/an-australian-neuroscientist-believes-hes-solved-the-mystery-of-min-min-lights/10158657217793339/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However there is a flaw in this explanation...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/environment/natural-wonders/the-mystery-of-queenslands-eerie-min-min-lights/news-story/b63356761813663c76c5810485415f6d" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/environment/natural-wonders/the-mystery-of-queenslands-eerie-min-min-lights/news-story/b63356761813663c76c5810485415f6d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery of Queensland&#x27;s eerie Min Min lights7 Dec 2016 — They&#x27;re not spirits or UFOs, said Mr Pettigrew, but they are something very...</p></details>
+   Link:<a href="https://www.news.com.au/technology/environment/natural-wonders/the-mystery-of-queenslands-eerie-min-min-lights/news-story/b63356761813663c76c5810485415f6d" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/environment/natural-wonders/the-mystery-of-queenslands-eerie-min-min-lights/news-story/b63356761813663c76c5810485415f6d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery of Queensland&#x27;s eerie Min Min lights7 Dec 2016 — They&#x27;re not spirits or UFOs, said Mr Pettigrew, but they are something very...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dscribe.net.au  
    Title: Australia's alien light show  
-   Link: <a href="https://www.dscribe.net.au/2021/11/15/australias-alien-light-show/" target="_blank" rel="noopener noreferrer nofollow">https://www.dscribe.net.au/2021/11/15/australias-alien-light-show/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Nov 2021 — In 2003, Professor John Pettigrew of the University of Queensland provided the most substantial scientific debunking...</p></details>
+   Link:<a href="https://www.dscribe.net.au/2021/11/15/australias-alien-light-show/" target="_blank" rel="noopener noreferrer nofollow">https://www.dscribe.net.au/2021/11/15/australias-alien-light-show/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Nov 2021 — In 2003, Professor John Pettigrew of the University of Queensland provided the most substantial scientific debunking...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10501494/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10501494/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the reliability of binocular rivalry - PMCby M Acquafredda · 2023 · Cited by 6 — In this study, we investigated the reliability of binocu...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10501494/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10501494/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the reliability of binocular rivalry - PMCby M Acquafredda · 2023 · Cited by 6 — In this study, we investigated the reliability of binocu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/133" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/133</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chasing the Min Min Light23 Dec 2008 — Professor Jack Pettigrew, writing in the journal Clinical and Experimental Optometry, described Th...</p></details>
+   Link:<a href="https://skeptoid.com/episodes/133" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/133</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chasing the Min Min Light23 Dec 2008 — Professor Jack Pettigrew, writing in the journal Clinical and Experimental Optometry, described Th...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Min Min Lights: Mysterious Lights in the Australian Outback  
-   Link: <a href="https://www.youtube.com/watch?v=NwiMQm3wk1I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NwiMQm3wk1I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Min Min Lights, A Big Country -1982/1978...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NwiMQm3wk1I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NwiMQm3wk1I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Min Min Lights, A Big Country -1982/1978...</p></details>

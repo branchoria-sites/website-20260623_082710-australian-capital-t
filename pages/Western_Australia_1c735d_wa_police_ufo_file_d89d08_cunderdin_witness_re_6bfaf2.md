@@ -256,30 +256,30 @@ image: /assets/images/Western_Australia_1c735d_wa_police_ufo_file_d89d08_cunderd
 
 ## Introduction
 
-The Cunderdin reports from 1954 are often cited in discussions of [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }})’s police UFO files because they show something more specific than an unusual sighting. They reveal how local police officers assessed witnesses. In these records, constables did not claim to know what had been seen. Instead, they recorded observations, interviewed witnesses and added comments about whether those witnesses appeared trustworthy. The result is a useful case study in how rural Western Australian police weighed testimony during the early years of official UFO reporting. The reports strengthen confidence that the witnesses sincerely described what they believed they saw, but they do not by themselves prove that the objects were extraordinary. The Dusty Box+2State Library of Western Australia <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[thedustybox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
+The Cunderdin reports from 1954 are often cited in discussions of [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }})’s police UFO files because they show something more specific than an unusual sighting. They reveal how local police officers assessed witnesses. In these records, constables did not claim to know what had been seen. Instead, they recorded observations, interviewed witnesses and added comments about whether those witnesses appeared trustworthy. The result is a useful case study in how rural Western Australian police weighed testimony during the early years of official UFO reporting. The reports strengthen confidence that the witnesses sincerely described what they believed they saw, but they do not by themselves prove that the objects were extraordinary. The Dusty Box+2State Library of Western Australia<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[thedustybox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_wa_police_ufo_file_d89d08_cunderdin_witness_re_6bfaf2-Illustration-1-dark.svg" | relative_url }}" alt="Cunderdin illustration 1" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_wa_police_ufo_file_d89d08_cunderdin_witness_re_6bfaf2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_wa_police_ufo_file_d89d08_cunderdin_witness_re_6bfaf2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The February and April Cunderdin Reports
 
-The best-known Cunderdin material comes from two separate episodes in 1954 that entered the Western Australian police reporting system and were later forwarded through official channels connected to the Royal Australian Air Force (RAAF). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
+The best-known Cunderdin material comes from two separate episodes in 1954 that entered the Western Australian police reporting system and were later forwarded through official channels connected to the Royal Australian Air Force (RAAF).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
 
 ### February 1954: Three Witnesses Questioned
 
-A February 1954 sighting near Cunderdin attracted enough attention that Flight Lieutenant Arnold of the RAAF requested further information from police. The request moved through police channels from Perth to Northam and then to the local constable in Cunderdin. Witnesses were interviewed and their statements recorded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
+A February 1954 sighting near Cunderdin attracted enough attention that Flight Lieutenant Arnold of the RAAF requested further information from police. The request moved through police channels from Perth to Northam and then to the local constable in Cunderdin. Witnesses were interviewed and their statements recorded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
 
-The most revealing part of the surviving record is not the description of the object but the constable’s assessment of the witnesses. After conducting enquiries, Constable Webb reported that the three people involved were adamant that what they had seen was not an aircraft and was unlike anything they had previously observed. A related summary described them as “adult, sensible” people with standing in the community. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
+The most revealing part of the surviving record is not the description of the object but the constable’s assessment of the witnesses. After conducting enquiries, Constable Webb reported that the three people involved were adamant that what they had seen was not an aircraft and was unlike anything they had previously observed. A related summary described them as “adult, sensible” people with standing in the community.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
 
-That language was significant in a rural policing context. The officer was effectively telling his superiors that the witnesses were not known fantasists, pranksters or unreliable observers. He was not certifying that their conclusion was correct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thewest.com.au">[The West Australian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thewest.com.au</span><span class="citation-popover-snippet">The West AustralianState records show the skies over WA have seen many UFOs5 Nov 2022 — Malcolm Quekett trawls through the Western Austra...</span></span></span>
+That language was significant in a rural policing context. The officer was effectively telling his superiors that the witnesses were not known fantasists, pranksters or unreliable observers. He was not certifying that their conclusion was correct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thewest.com.au">[The West Australian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thewest.com.au</span><span class="citation-popover-snippet">The West AustralianState records show the skies over WA have seen many UFOs5 Nov 2022 — Malcolm Quekett trawls through the Western Austra...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GqpAsmQnoZY" title="Government UFO/UAP Sightings Exposed: Shocking 2009 7NEWS Documentary | Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GqpAsmQnoZY" target="_blank" rel="noopener noreferrer">Government UFO/UAP Sightings Exposed: Shocking 2009 7NEWS Documentary | Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 1.3M &middot; Uploaded: May 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GqpAsmQnoZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GqpAsmQnoZY">Open on YouTube</a></p></div></div></div>
 
 ### April 1954: Vera Fulwood's Observation
 
-A second Cunderdin report followed only weeks later. On 9 April 1954, Vera Fulwood and her children watched a silver-coloured object near their property north of Cunderdin. According to the police report, the object appeared round and flat, reflected sunlight, moved relatively slowly and seemed to rotate as it travelled westward. The witnesses watched it for several minutes before it disappeared into the sun’s glare. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
+A second Cunderdin report followed only weeks later. On 9 April 1954, Vera Fulwood and her children watched a silver-coloured object near their property north of Cunderdin. According to the police report, the object appeared round and flat, reflected sunlight, moved relatively slowly and seemed to rotate as it travelled westward. The witnesses watched it for several minutes before it disappeared into the sun’s glare.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
 
-Fulwood stated that she did not believe it was an aeroplane and noted the absence of engine noise. Her account was taken seriously enough to be formally documented and forwarded through police channels. Most important for later researchers, Constable Zanette added a personal note that he had known Fulwood for about a year and regarded her as reliable. Another version of the report records that he saw no reason the information should not be treated as trustworthy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
+Fulwood stated that she did not believe it was an aeroplane and noted the absence of engine noise. Her account was taken seriously enough to be formally documented and forwarded through police channels. Most important for later researchers, Constable Zanette added a personal note that he had known Fulwood for about a year and regarded her as reliable. Another version of the report records that he saw no reason the information should not be treated as trustworthy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
 
 Again, the officer was commenting on the witness rather than validating the object.
 
@@ -287,7 +287,7 @@ Again, the officer was commenting on the witness rather than validating the obje
 <img src="{{ "/assets/images/Western_Australia_1c735d_wa_police_ufo_file_d89d08_cunderdin_witness_re_6bfaf2-Illustration-2-dark.svg" | relative_url }}" alt="Cunderdin illustration 2" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_wa_police_ufo_file_d89d08_cunderdin_witness_re_6bfaf2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_wa_police_ufo_file_d89d08_cunderdin_witness_re_6bfaf2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Reliability Meant in Local Policing
 
-Modern readers sometimes misunderstand these credibility notes. In the [WA Police UFO file]({{ 'police-file/' | relative_url }}), words such as “reliable”, “sensible” or “teetotaller” were not technical findings that a UFO had been authenticated. They were shorthand judgements about the person making the report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
+Modern readers sometimes misunderstand these credibility notes. In the [WA Police UFO file]({{ 'police-file/' | relative_url }}), words such as “reliable”, “sensible” or “teetotaller” were not technical findings that a UFO had been authenticated. They were shorthand judgements about the person making the report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
 
 For a country constable in the 1950s, several factors influenced credibility assessments:
 
@@ -295,11 +295,11 @@ For a country constable in the 1950s, several factors influenced credibility ass
 * Their reputation within a small community.
 * Whether they appeared sober and responsible.
 * Whether their account remained consistent during questioning.
-* Whether there was any obvious motive for fabrication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
+* Whether there was any obvious motive for fabrication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
 
-The Cunderdin reports are valuable because the officers explicitly recorded these judgements. In a small Wheatbelt town, a constable often knew local residents personally. When Zanette stated that he considered Fulwood reliable, he was drawing on direct knowledge of her character rather than a brief encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
+The Cunderdin reports are valuable because the officers explicitly recorded these judgements. In a small Wheatbelt town, a constable often knew local residents personally. When Zanette stated that he considered Fulwood reliable, he was drawing on direct knowledge of her character rather than a brief encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
 
-This helps explain why the police file remains historically interesting. It preserves not only what witnesses claimed to see but also how local authorities evaluated those claims at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
+This helps explain why the police file remains historically interesting. It preserves not only what witnesses claimed to see but also how local authorities evaluated those claims at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rrou1Yl-hao" title="In the 80s the RAAF held hundreds of files documenting UFO sightings 🛸 | Uncropped | ABC Australia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rrou1Yl-hao" target="_blank" rel="noopener noreferrer">In the 80s the RAAF held hundreds of files documenting UFO sightings 🛸 | Uncropped | ABC Australia</a></p><p class="youtube-embed-meta">Channel: ABC Australia &middot; Views: 4.1K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rrou1Yl-hao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rrou1Yl-hao">Open on YouTube</a></p></div></div></div>
@@ -308,7 +308,7 @@ This helps explain why the police file remains historically interesting. It pres
 
 The Cunderdin material also illustrates an important distinction in UFO history: a credible witness and an extraordinary object are not the same thing.
 
-A witness can be honest, sincere and careful while still misidentifying what they observed. Human perception has limits, especially when judging the size, speed, distance and altitude of unfamiliar objects in the sky. Without independent evidence, investigators cannot easily determine whether a witness interpreted the scene correctly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
+A witness can be honest, sincere and careful while still misidentifying what they observed. Human perception has limits, especially when judging the size, speed, distance and altitude of unfamiliar objects in the sky. Without independent evidence, investigators cannot easily determine whether a witness interpreted the scene correctly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
 
 In the Cunderdin cases, several questions remain unanswered:
 
@@ -316,7 +316,7 @@ In the Cunderdin cases, several questions remain unanswered:
 * No radar data are known to accompany the reports.
 * No physical traces were recorded.
 * There is little surviving information about weather or atmospheric conditions.
-* The reports do not conclusively exclude all conventional [explanations]({{ 'explanations-7a0dd2/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
+* The reports do not conclusively exclude all conventional [explanations]({{ 'explanations-7a0dd2/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
 
 As a result, the reports support the conclusion that witnesses genuinely believed they had seen something unusual. They do not establish what that object actually was.
 
@@ -324,203 +324,203 @@ As a result, the reports support the conclusion that witnesses genuinely believe
 <img src="{{ "/assets/images/Western_Australia_1c735d_wa_police_ufo_file_d89d08_cunderdin_witness_re_6bfaf2-Illustration-3-dark.svg" | relative_url }}" alt="Cunderdin illustration 3" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_wa_police_ufo_file_d89d08_cunderdin_witness_re_6bfaf2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_wa_police_ufo_file_d89d08_cunderdin_witness_re_6bfaf2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Witness Testimony Still Falls Short
 
-The enduring value of the Cunderdin reports lies in their documentation rather than their mystery. They show local police carrying out interviews, forwarding information through official channels and recording their views on witness reliability. They also show the limits of that process. A constable could assess honesty and character, but could not necessarily identify an unfamiliar aerial object from witness recollections alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box+2The West Australian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
+The enduring value of the Cunderdin reports lies in their documentation rather than their mystery. They show local police carrying out interviews, forwarding information through official channels and recording their views on witness reliability. They also show the limits of that process. A constable could assess honesty and character, but could not necessarily identify an unfamiliar aerial object from witness recollections alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[thedustybox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O</span><span class="citation-popover-snippet">Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
 
-Within the broader history of Western Australia’s police UFO files, Cunderdin stands as a reminder that credibility notes were intended to answer one question only: “Do we trust this person to report what they think they saw?” They were never intended to answer the much harder question: “What was actually in the sky?” State Library of Western Australia+2ABC News <span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[slwa.wa.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
+Within the broader history of Western Australia’s police UFO files, Cunderdin stands as a reminder that credibility notes were intended to answer one question only: “Do we trust this person to report what they think they saw?” They were never intended to answer the much harder question: “What was actually in the sky?” State Library of Western Australia+2ABC News<span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[slwa.wa.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nZ6s2NmySbs" title="Inside the Australian UFO Archive: Tullamarine, Goulburn, and the Townsville Radar Case" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nZ6s2NmySbs" target="_blank" rel="noopener noreferrer">Inside the Australian UFO Archive: Tullamarine, Goulburn, and the Townsville Radar Case</a></p><p class="youtube-embed-meta">Channel: UFO to UAP</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nZ6s2NmySbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nZ6s2NmySbs">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Police Called Some Witnesses Reliable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Police Called Some Witnesses Reliable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses how UFO reports, witness credibility, and investigative standards were assessed, closely matching a page about police...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how UFO reports, witness credibility, and investigative standards were assessed, closely matching a page about police...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on the evidential value of testimony from trained observers and officials, paralleling police assessments of trustworthy witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on the evidential value of testimony from trained observers and officials, paralleling police assessments of trustworthy witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Draws on extensive case material and discusses the evaluation of reports, evidence, and witness credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Draws on extensive case material and discusses the evaluation of reports, evidence, and witness credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines large numbers of witness reports and how investigators should interpret testimony without assuming a final explanation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines large numbers of witness reports and how investigators should interpret testimony without assuming a final explanation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cunderdin-why-police-called-some-witnesses-reliable-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ Within the broader history of Western Australia’s police UFO files, Cunderdin 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ Within the broader history of Western Australia’s police UFO files, Cunderdin 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ Within the broader history of Western Australia’s police UFO files, Cunderdin 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ Within the broader history of Western Australia’s police UFO files, Cunderdin 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ Within the broader history of Western Australia’s police UFO files, Cunderdin 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,74 +726,74 @@ Within the broader history of Western Australia’s police UFO files, Cunderdin 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: thedustybox.com  
    Title: The Dusty Box U.F.O  
-   Link: <a href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow">https://thedustybox.com/2020/11/17/u-f-o-files/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</p></details>
+   Link:<a href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow">https://thedustybox.com/2020/11/17/u-f-o-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Files - The Dusty BoxNovember 17, 2020 — 17 Nov 2020 — Constable Zanette completed the report and noted at the end that he had known Vera...</p></details>
    Published: November 17, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: slwa.wa.gov.au  
-   Link: <a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</p></details>
+   Link:<a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: thewest.com.au  
-   Link: <a href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow">https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The West AustralianState records show the skies over WA have seen many UFOs5 Nov 2022 — Malcolm Quekett trawls through the Western Austra...</p></details>
+   Link:<a href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow">https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The West AustralianState records show the skies over WA have seen many UFOs5 Nov 2022 — Malcolm Quekett trawls through the Western Austra...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO file&#x27; sheds light on strange encounters in Western...27 Jul 2020 — The UFO file holds dozens of police reports linked to sightings...</p></details>
+   Link:<a href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO file&#x27; sheds light on strange encounters in Western...27 Jul 2020 — The UFO file holds dozens of police reports linked to sightings...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=GqpAsmQnoZY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GqpAsmQnoZY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian police UFO files RAAF declassified In the 80s the RAAF held hundreds of files documenting UFO sightings 🛸 | Uncropped | ABC Au...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=GqpAsmQnoZY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GqpAsmQnoZY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian police UFO files RAAF declassified In the 80s the RAAF held hundreds of files documenting UFO sightings 🛸 | Uncropped | ABC Au...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Many of the reports come from country towns across WA, including Kojonup, Onslow and Bridgetown...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many of the reports come from country towns across WA, including Kojonup, Onslow and Bridgetown...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: websail-fe.cs.northwestern.edu  
    Title: edubiennials Feijo BSDs Villalon woodi woods spiders  
-   Link: <a href="https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt" target="_blank" rel="noopener noreferrer nofollow">https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report 25,576 Beane Beano Kicklighter masted invincibility Canute Gretel... Ufo Ufa Evigan Open-Air Braugher Llanito Moquet approach Rev...</p></details>
+   Link:<a href="https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt" target="_blank" rel="noopener noreferrer nofollow">https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report 25,576 Beane Beano Kicklighter masted invincibility Canute Gretel... Ufo Ufa Evigan Open-Air Braugher Llanito Moquet approach Rev...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dokumen.pub  
    Title: bunyips and bigfoots 2nbsped 9798703605486  
-   Link: <a href="https://dokumen.pub/bunyips-and-bigfoots-2nbsped-9798703605486.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/bunyips-and-bigfoots-2nbsped-9798703605486.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bunyips and Bigfoots [2 ed.] 9798703605486On 28 February a witness phoned radio station 4BC to report that he had seen a... alien invade...</p></details>
+   Link:<a href="https://dokumen.pub/bunyips-and-bigfoots-2nbsped-9798703605486.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/bunyips-and-bigfoots-2nbsped-9798703605486.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bunyips and Bigfoots [2 ed.] 9798703605486On 28 February a witness phoned radio station 4BC to report that he had seen a... alien invade...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=Rrou1Yl-hao" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Rrou1Yl-hao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Australian UFO Archive: The Sea Fury, Maralinga, and the Valentich Mystery...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Rrou1Yl-hao" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Rrou1Yl-hao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Australian UFO Archive: The Sea Fury, Maralinga, and the Valentich Mystery...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=8yFIRaalq10" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8yFIRaalq10</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Australian UFO Archive: Tullamarine, Goulburn, and the Townsville Radar Case...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8yFIRaalq10" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8yFIRaalq10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Australian UFO Archive: Tullamarine, Goulburn, and the Townsville Radar Case...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=nZ6s2NmySbs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nZ6s2NmySbs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Filmmaker Claims To Have New Evidence Of 1980 UFO Sighting | 10 News+...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=nZ6s2NmySbs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nZ6s2NmySbs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Filmmaker Claims To Have New Evidence Of 1980 UFO Sighting | 10 News+...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=cPsNpvY1Xjc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cPsNpvY1Xjc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government UFO/UAP Sightings Exposed: Shocking 2009 7NEWS Documentary | Ross Coulthart...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=cPsNpvY1Xjc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cPsNpvY1Xjc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government UFO/UAP Sightings Exposed: Shocking 2009 7NEWS Documentary | Ross Coulthart...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fsb.raafansw.org.au  
    Title: raafansw.org.au Going Solo  
-   Link: <a href="https://fsb.raafansw.org.au/docPDF/HIST03-Going-Solo-The-Royal-Australian-Air-Force-1946-1971_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fsb.raafansw.org.au/docPDF/HIST03-Going-Solo-The-Royal-Australian-Air-Force-1946-1971_1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens, and did in fact lead to the capture of large numbers of Koreans trying to enter Japan illegally.34 Bcof&#x27;s air forces also repatri...</p></details>
+   Link:<a href="https://fsb.raafansw.org.au/docPDF/HIST03-Going-Solo-The-Royal-Australian-Air-Force-1946-1971_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fsb.raafansw.org.au/docPDF/HIST03-Going-Solo-The-Royal-Australian-Air-Force-1946-1971_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens, and did in fact lead to the capture of large numbers of Koreans trying to enter Japan illegally.34 Bcof&#x27;s air forces also repatri...</p></details>

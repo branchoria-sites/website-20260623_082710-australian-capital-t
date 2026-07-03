@@ -286,7 +286,7 @@ image: /assets/images/Victoria_df8cd5_official_files_raaf_53c368-overview-social
 
 ## Introduction
 
-Official files matter in [Victoria]({{ 'why-victoria-became-australias-ufo/' | relative_url }})’s UFO history because they show a more complicated story than either “the government proved UFOs were real” or “there was nothing to see”. The Royal Australian Air Force once received and assessed unusual aerial sighting reports across Australia, including cases with Victorian links, but later withdrew from that role. Its published rationale was practical and security-based: most reports were explainable, the [unexplained]({{ 'unexplained/' | relative_url }}) residue was small, and the Air Force saw no compelling reason to keep spending resources on the subject. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+Official files matter in [Victoria]({{ 'why-victoria-became-australias-ufo/' | relative_url }})’s UFO history because they show a more complicated story than either “the government proved UFOs were real” or “there was nothing to see”. The Royal Australian Air Force once received and assessed unusual aerial sighting reports across Australia, including cases with Victorian links, but later withdrew from that role. Its published rationale was practical and security-based: most reports were explainable, the [unexplained]({{ 'unexplained/' | relative_url }}) residue was small, and the Air Force saw no compelling reason to keep spending resources on the subject.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 
 <img src="{{ "/assets/images/Victoria_df8cd5_official_files_raaf_53c368-overview.webp" | relative_url }}" alt="Overview image for Official Files" loading="eager" decoding="sync" fetchpriority="high">
@@ -294,7 +294,7 @@ That leaves a tension at the heart of Victorian cases such as Westall and the Fr
 
 ## Why RAAF involvement mattered
 
-For much of the Cold War period, UFO reports were not treated only as curiosities. A sighting could be relevant to air safety, defence security, radar operations, weapons testing, civil aviation or public concern. In that setting, it made sense for the RAAF and other agencies to record some reports even when the likely explanations were mundane. The National Archives of Australia’s public account of its UFO holdings describes cases involving pilots, radar and official correspondence, and notes that the RAAF stopped investigating UFO sightings in 1994 after concluding that only about 3 per cent of reports remained unexplained and that those presented little or no security threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+For much of the Cold War period, UFO reports were not treated only as curiosities. A sighting could be relevant to air safety, defence security, radar operations, weapons testing, civil aviation or public concern. In that setting, it made sense for the RAAF and other agencies to record some reports even when the likely explanations were mundane. The National Archives of Australia’s public account of its UFO holdings describes cases involving pilots, radar and official correspondence, and notes that the RAAF stopped investigating UFO sightings in 1994 after concluding that only about 3 per cent of reports remained unexplained and that those presented little or no security threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 That figure is often misunderstood. “Unexplained” in an official file does not mean “alien”, “secret aircraft” or “confirmed anomalous technology”. It usually means that the available information was not enough to identify the stimulus confidently. A report might lack a precise time, bearing, altitude, weather data, radar confirmation, aircraft logs or independent witnesses. In other words, the unexplained category can reflect weak data as much as strong mystery.
 
@@ -302,7 +302,7 @@ The distinction is important for Victoria because its best-known UFO stories are
 
 ## RAAF UFO investigations in Australia
 
-The RAAF’s historic role was essentially a filtering role. It received or handled reports, looked for ordinary explanations, and considered whether anything had defence significance. Later government answers show that this role did not continue indefinitely. A Senate Estimates answer states that the Unusual Aerial Sightings Policy was last reviewed in November 2003 and cancelled on 25 March 2013; it also states that Defence had no protocol for reporting or recording UAP or UFO sightings and that the Air Force had ceased handling such reports in 1996 after finding no scientific or other compelling reason to keep recording and investigating them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aph.gov.au">[Australian Parliament House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aph.gov.au</span><span class="citation-popover-snippet">Australian Parliament House</span></span></span>
+The RAAF’s historic role was essentially a filtering role. It received or handled reports, looked for ordinary explanations, and considered whether anything had defence significance. Later government answers show that this role did not continue indefinitely. A Senate Estimates answer states that the Unusual Aerial Sightings Policy was last reviewed in November 2003 and cancelled on 25 March 2013; it also states that Defence had no protocol for reporting or recording UAP or UFO sightings and that the Air Force had ceased handling such reports in 1996 after finding no scientific or other compelling reason to keep recording and investigating them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aph.gov.au">[Australian Parliament House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aph.gov.au</span><span class="citation-popover-snippet">Australian Parliament House</span></span></span>
 
 This creates a useful timeline for Victorian readers:
 
@@ -310,10 +310,10 @@ This creates a useful timeline for Victorian readers:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Before the mid-1990s:** UFO or unusual aerial sighting reports could be handled through RAAF or defence-related channels.
-* **1994:** National Archives says the RAAF ceased investigating UFO sightings, citing the small unexplained residue and lack of security threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
-* **1996:** Defence later described the Air Force as having ceased handling UAP or UFO reports after deciding there was no compelling reason to continue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aph.gov.au">[Australian Parliament House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aph.gov.au</span><span class="citation-popover-snippet">Australian Parliament House</span></span></span>
-* **2013:** The remaining Unusual Aerial Sightings Policy was cancelled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aph.gov.au">[Australian Parliament House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aph.gov.au</span><span class="citation-popover-snippet">Australian Parliament House</span></span></span>
-* **2021:** Defence told the ABC it did not have a protocol covering the recording or reporting of UAP/UFO sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAustralian Defence Department not looking at UFOs despite landmark report on topic handed to US Congress - ABC News...</span></span></span>
+* **1994:** National Archives says the RAAF ceased investigating UFO sightings, citing the small unexplained residue and lack of security threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+* **1996:** Defence later described the Air Force as having ceased handling UAP or UFO reports after deciding there was no compelling reason to continue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aph.gov.au">[Australian Parliament House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aph.gov.au</span><span class="citation-popover-snippet">Australian Parliament House</span></span></span>
+* **2013:** The remaining Unusual Aerial Sightings Policy was cancelled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aph.gov.au">[Australian Parliament House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aph.gov.au</span><span class="citation-popover-snippet">Australian Parliament House</span></span></span>
+* **2021:** Defence told the ABC it did not have a protocol covering the recording or reporting of UAP/UFO sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAustralian Defence Department not looking at UFOs despite landmark report on topic handed to US Congress - ABC News...</span></span></span>
 
 </div>
 
@@ -323,36 +323,36 @@ The difference between the 1994 and 1996 dates is not necessarily a contradictio
 <img src="{{ "/assets/images/Victoria_df8cd5_official_files_raaf_53c368-Illustration-1-dark.svg" | relative_url }}" alt="Official Files illustration 1" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_official_files_raaf_53c368-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_official_files_raaf_53c368-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Westall and the official silence problem
 
-The Westall incident of 6 April 1966 is the Victorian case most closely associated with secrecy claims. Students and staff at Westall High School and nearby witnesses reported strange silvery objects over Clayton South, with local newspaper coverage soon focusing on the school’s silence and on reports of small aircraft near the object. State Library Victoria summarises contemporary accounts from *The Dandenong Journal* and the Westall school journal, including descriptions of “dazzling silvery” objects, a larger object with a rounded or humped form, and aircraft described as mainly Cessnas flying toward or around the reported UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
+The Westall incident of 6 April 1966 is the Victorian case most closely associated with secrecy claims. Students and staff at Westall High School and nearby witnesses reported strange silvery objects over Clayton South, with local newspaper coverage soon focusing on the school’s silence and on reports of small aircraft near the object. State Library Victoria summarises contemporary accounts from *The Dandenong Journal* and the Westall school journal, including descriptions of “dazzling silvery” objects, a larger object with a rounded or humped form, and aircraft described as mainly Cessnas flying toward or around the reported UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
 
 For readers trying to understand the official angle, Westall has three separate issues that are often blended together.
 
-First, there is the **witness claim**: many people said they saw something unusual in daylight. That is the strongest part of the case, because it rests on multiple accounts and contemporary local reporting rather than only later folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
+First, there is the **witness claim**: many people said they saw something unusual in daylight. That is the strongest part of the case, because it rests on multiple accounts and contemporary local reporting rather than only later folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
 
-Second, there is the **suppression claim**: witnesses have long said that school authorities, “men in suits” or military personnel discouraged discussion. Recent local reporting on the 60th anniversary again described claims of military jeeps, troops, a media ban and witnesses who remained reluctant to speak for many years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dandenong.starcommunity.com.au/news/2026-04-13/westall-1966-official-files-remain-secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dandenong.starcommunity.com.au">[Dandenong Star Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dandenong.starcommunity.com.au</span><span class="citation-popover-title">westall 1966 official files remain secret</span><span class="citation-popover-snippet">westall 1966 official files remain secret</span></span></span> These claims matter historically, but they are harder to test than the basic sighting because they depend on memory, institutional silence and missing or unavailable documentation.
+Second, there is the **suppression claim**: witnesses have long said that school authorities, “men in suits” or military personnel discouraged discussion. Recent local reporting on the 60th anniversary again described claims of military jeeps, troops, a media ban and witnesses who remained reluctant to speak for many years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dandenong.starcommunity.com.au/news/2026-04-13/westall-1966-official-files-remain-secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dandenong.starcommunity.com.au">[Dandenong Star Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dandenong.starcommunity.com.au</span><span class="citation-popover-title">westall 1966 official files remain secret</span><span class="citation-popover-snippet">westall 1966 official files remain secret</span></span></span> These claims matter historically, but they are harder to test than the basic sighting because they depend on memory, institutional silence and missing or unavailable documentation.
 
-Third, there is the **missing-file claim**: campaigners and some witnesses argue that Defence or another Commonwealth agency must hold, or once held, a report explaining what happened. In 2026, the *Dandenong Star Journal* reported frustration among witnesses and campaigners who wanted the Department of Defence to release its report or provide an answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dandenong.starcommunity.com.au/news/2026-04-13/westall-1966-official-files-remain-secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dandenong.starcommunity.com.au">[Dandenong Star Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dandenong.starcommunity.com.au</span><span class="citation-popover-title">westall 1966 official files remain secret</span><span class="citation-popover-snippet">westall 1966 official files remain secret</span></span></span> The problem is that a belief that a file should exist is not the same as evidence that a specific file still exists, says what campaigners think it says, or contains a concealed extraordinary explanation.
+Third, there is the **missing-file claim**: campaigners and some witnesses argue that Defence or another Commonwealth agency must hold, or once held, a report explaining what happened. In 2026, the *Dandenong Star Journal* reported frustration among witnesses and campaigners who wanted the Department of Defence to release its report or provide an answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dandenong.starcommunity.com.au/news/2026-04-13/westall-1966-official-files-remain-secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dandenong.starcommunity.com.au">[Dandenong Star Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dandenong.starcommunity.com.au</span><span class="citation-popover-title">westall 1966 official files remain secret</span><span class="citation-popover-snippet">westall 1966 official files remain secret</span></span></span> The problem is that a belief that a file should exist is not the same as evidence that a specific file still exists, says what campaigners think it says, or contains a concealed extraordinary explanation.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8yxg5BCdAHQ" title="The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer">The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown &middot; Views: 285.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8yxg5BCdAHQ">Open on YouTube</a></p></div></div></div>
 
 ## The HIBAL theory and why it does not end the argument
 
-One of the more grounded attempts to explain Westall points not to alien craft but to a secret or sensitive government balloon programme. Later reporting and archival discussion have linked the incident to HIBAL, a high-altitude balloon programme associated with radiation monitoring after British nuclear testing. Search results and later summaries describe researcher Keith Basterfield’s argument that a balloon launched from Mildura may have drifted off course and come down near Clayton South, with its white or silver appearance, parachute and trailing equipment matching some witness descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+One of the more grounded attempts to explain Westall points not to alien craft but to a secret or sensitive government balloon programme. Later reporting and archival discussion have linked the incident to HIBAL, a high-altitude balloon programme associated with radiation monitoring after British nuclear testing. Search results and later summaries describe researcher Keith Basterfield’s argument that a balloon launched from Mildura may have drifted off course and come down near Clayton South, with its white or silver appearance, parachute and trailing equipment matching some witness descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
 This theory is attractive because it explains several features at once: a silvery object, official embarrassment, possible instructions not to talk, and the absence of an exotic explanation. It also fits the broader Cold War pattern in which classified or sensitive aviation and balloon activity could be mistaken for UFOs.
 
-But it does not settle Westall beyond dispute. Witnesses have objected that the behaviour they remember — rapid movement, multiple objects, low manoeuvres and apparent pursuit by aircraft — does not sound like a drifting balloon. The State Library Victoria account also shows that contemporary descriptions varied, including reports of several objects and many aircraft, not one neat stimulus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span> This is where Westall remains genuinely difficult: the balloon theory may explain part of the event, but witness variation, elapsed time and incomplete official [records]({{ 'records/' | relative_url }}) prevent a clean final verdict.
+But it does not settle Westall beyond dispute. Witnesses have objected that the behaviour they remember — rapid movement, multiple objects, low manoeuvres and apparent pursuit by aircraft — does not sound like a drifting balloon. The State Library Victoria account also shows that contemporary descriptions varied, including reports of several objects and many aircraft, not one neat stimulus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span> This is where Westall remains genuinely difficult: the balloon theory may explain part of the event, but witness variation, elapsed time and incomplete official [records]({{ 'records/' | relative_url }}) prevent a clean final verdict.
 
 The careful conclusion is that HIBAL is a plausible official-secrecy explanation, not a proven complete solution. It turns Westall from a simple “UFO versus debunking” story into a governance story: if a sensitive Commonwealth activity caused a public scare at a school, even an ordinary explanation could have been withheld, blurred or minimised.
 
 ## Valentich: a UFO case inside an aviation disappearance
 
-The Frederick Valentich case is different from Westall because it is anchored in aviation records and a missing aircraft rather than a mass school sighting. On 21 October 1978, Valentich left Moorabbin Airport in a Cessna 182 for King Island and disappeared over Bass Strait after reporting an unidentified object with bright lights. The National Archives describes the disappearance as a media sensation that produced alien-abduction theories, while also noting later suggestions of a more prosaic and tragic explanation involving visible planets, Valentich’s relative inexperience and possible distraction from his instruments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+The Frederick Valentich case is different from Westall because it is anchored in aviation records and a missing aircraft rather than a mass school sighting. On 21 October 1978, Valentich left Moorabbin Airport in a Cessna 182 for King Island and disappeared over Bass Strait after reporting an unidentified object with bright lights. The National Archives describes the disappearance as a media sensation that produced alien-abduction theories, while also noting later suggestions of a more prosaic and tragic explanation involving visible planets, Valentich’s relative inexperience and possible distraction from his instruments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 The official loose end here is not that no one knew the flight happened. It is that the aircraft and pilot were not recovered, leaving no wreckage-based answer. That absence gives the UFO element a long afterlife. Valentich’s radio exchange, his request about other traffic and the final uncertainty around what he was seeing remain central to the case.
 
-Sceptical analysis has focused on astronomy and pilot disorientation. James McGaha and Joe Nickell argued in *Skeptical Inquirer* that a group of bright celestial objects was visible in the relevant part of the sky and that Valentich may have become distracted and entered a fatal spiral dive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span> The National Archives account similarly points to Venus, Mars, Jupiter and Antares being highly visible in a diamond formation at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+Sceptical analysis has focused on astronomy and pilot disorientation. James McGaha and Joe Nickell argued in *Skeptical Inquirer* that a group of bright celestial objects was visible in the relevant part of the sky and that Valentich may have become distracted and entered a fatal spiral dive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span> The National Archives account similarly points to Venus, Mars, Jupiter and Antares being highly visible in a diamond formation at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 That does not prove exactly what happened in the cockpit. It does, however, weaken the claim that the official record points uniquely to an extraordinary craft. The Valentich case remains unresolved in the ordinary accident-investigation sense because the aircraft was lost, but the official and sceptical material provide plausible non-extraordinary pathways: misidentification, spatial disorientation, fixation on lights, and a fatal loss of control.
 
@@ -362,7 +362,7 @@ That does not prove exactly what happened in the cockpit. It does, however, weak
 
 Secrecy claims around Victorian UFO cases usually rest on three kinds of evidence: witness memory of being told not to speak, gaps in archives, and the fact that defence agencies once took UFO reports seriously enough to file them. Each can be important, but each can also be overread.
 
-A missing or unlocated file can mean many things. It may have been destroyed under records schedules, miscatalogued, transferred, retained under a different title, never created, or created by an agency other than the one later asked to find it. A Senate Estimates answer on Defence UFO/UAP material shows how messy this can be: Defence said a file had been confirmed at the National Archives in 2008, but when its location was raised again in 2011, Defence could not verify where it was and held no record of it being destroyed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aph.gov.au">[Australian Parliament House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aph.gov.au</span><span class="citation-popover-snippet">Australian Parliament House</span></span></span> That is a real transparency problem, but it is not automatically evidence of a cover-up.
+A missing or unlocated file can mean many things. It may have been destroyed under records schedules, miscatalogued, transferred, retained under a different title, never created, or created by an agency other than the one later asked to find it. A Senate Estimates answer on Defence UFO/UAP material shows how messy this can be: Defence said a file had been confirmed at the National Archives in 2008, but when its location was raised again in 2011, Defence could not verify where it was and held no record of it being destroyed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aph.gov.au">[Australian Parliament House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aph.gov.au</span><span class="citation-popover-snippet">Australian Parliament House</span></span></span> That is a real transparency problem, but it is not automatically evidence of a cover-up.
 
 For Westall, official silence is especially powerful because the witnesses were children and because the alleged event happened in public, in daylight, near a school. If people were discouraged from talking, the public interest in knowing why is legitimate. Yet the same facts also make later memory vulnerable to contamination: a dramatic school event, decades of documentaries and reunions, and repeated retelling can sharpen some memories while blurring others. This is why contemporary newspaper accounts and original documents carry more weight than late, highly polished versions of the story.
 
@@ -394,11 +394,11 @@ This approach does not dismiss witnesses. It protects their accounts from being 
 
 ## What Victoria’s official UFO record really shows
 
-Victoria’s official-file story is less about a single hidden answer than about the limits of public knowledge. The RAAF and Defence once had a role in handling unusual aerial reports, then withdrew from that role after deciding the security and scientific value did not justify continued investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span> That policy shift means modern Victorian witnesses should not expect the RAAF to act as a standing UFO bureau, and it also means older cases now depend heavily on archives, journalism, civilian researchers and witness preservation.
+Victoria’s official-file story is less about a single hidden answer than about the limits of public knowledge. The RAAF and Defence once had a role in handling unusual aerial reports, then withdrew from that role after deciding the security and scientific value did not justify continued investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span> That policy shift means modern Victorian witnesses should not expect the RAAF to act as a standing UFO bureau, and it also means older cases now depend heavily on archives, journalism, civilian researchers and witness preservation.
 
-Westall remains the key Victorian secrecy case because the alleged official reaction is part of the story itself. The most cautious reading is that something unusual was reported by many people, that local media and later witnesses preserved a strong record of disturbance and silence, and that sensitive balloon or aviation activity remains a plausible but contested explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
+Westall remains the key Victorian secrecy case because the alleged official reaction is part of the story itself. The most cautious reading is that something unusual was reported by many people, that local media and later witnesses preserved a strong record of disturbance and silence, and that sensitive balloon or aviation activity remains a plausible but contested explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
 
-Valentich remains the key aviation case because it connects a UFO report with a fatal disappearance. Its official value lies not in proving an extraordinary object, but in showing how an unresolved aviation incident can become a UFO landmark when the last recorded words involve an unidentified craft and no wreckage is recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+Valentich remains the key aviation case because it connects a UFO report with a fatal disappearance. Its official value lies not in proving an extraordinary object, but in showing how an unresolved aviation incident can become a UFO landmark when the last recorded words involve an unidentified craft and no wreckage is recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 The strongest lesson for Victoria is therefore a sober one: official files can narrow possibilities, expose bureaucratic gaps and challenge folklore, but they rarely deliver the dramatic certainty people hope for. In the Victorian record, secrecy claims deserve scrutiny; they do not deserve automatic belief or automatic dismissal.
 
@@ -407,194 +407,194 @@ The strongest lesson for Victoria is therefore a sober one: official files can n
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Officials Know More Than They Said?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Officials Know More Than They Said?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses how governments and officials handled unexplained aerial reports and questions of transparency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how governments and officials handled unexplained aerial reports and questions of transparency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Strong fit for readers interested in official knowledge, secrecy claims, evidence assessment and Australian connections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for readers interested in official knowledge, secrecy claims, evidence assessment and Australian connections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Closely aligned with RAAF files, archival records, official investigations and the question of what governments knew.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely aligned with RAAF files, archival records, official investigations and the question of what governments knew.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oz Files on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oz Files">The Oz Files</a>
-        </h4>
-        <p class="fr-book-author">By Bill Chalker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oz Files on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oz Files">The Oz Files</a>
+</h4>
+<p class="fr-book-author">By Bill Chalker</p>
         
-        <p class="fr-book-desc">Most directly connected to Australian official records, RAAF-era investigations and archival evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Most directly connected to Australian official records, RAAF-era investigations and archival evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Transparent"><img src="{{ '/assets/images/marketplace-covers/33a3dfe1acbe0a8145f1.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Transparent" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Transparent</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Transparent"><img src="{{ '/assets/images/marketplace-covers/33a3dfe1acbe0a8145f1.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Transparent" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Transparent</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cfb4ea3791ac1f8a62da.jpg' | relative_url }}" alt="Listing image for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cfb4ea3791ac1f8a62da.jpg' | relative_url }}" alt="Listing image for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA"><img src="{{ '/assets/images/marketplace-covers/cefd61bc171d73ee0b9c.jpg' | relative_url }}" alt="Listing image for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA"><img src="{{ '/assets/images/marketplace-covers/cefd61bc171d73ee0b9c.jpg' | relative_url }}" alt="Listing image for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="official-files-a58fb3-did-officials-know-more-than-they-said-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -610,7 +610,7 @@ The strongest lesson for Victoria is therefore a sober one: official files can n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -630,7 +630,7 @@ The strongest lesson for Victoria is therefore a sober one: official files can n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -662,7 +662,7 @@ The strongest lesson for Victoria is therefore a sober one: official files can n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -714,7 +714,7 @@ The strongest lesson for Victoria is therefore a sober one: official files can n
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -759,7 +759,7 @@ The strongest lesson for Victoria is therefore a sober one: official files can n
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -800,131 +800,131 @@ The strongest lesson for Victoria is therefore a sober one: official files can n
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: naa.gov.au  
    Title: NAAFlying saucers – fact or fiction? | naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aph.gov.au  
    Title: Australian Parliament House  
-   Link: <a href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2</a>  
+   Link:<a href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Westall UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westall_UFO</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westall_UFO</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: petition.parliament.uk  
    Title: uk Declassify and publish all UAP/UFO records, whilst  
-   Link: <a href="https://petition.parliament.uk/petitions/769518" target="_blank" rel="noopener noreferrer nofollow">https://petition.parliament.uk/petitions/769518</a>  
+   Link:<a href="https://petition.parliament.uk/petitions/769518" target="_blank" rel="noopener noreferrer nofollow">https://petition.parliament.uk/petitions/769518</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Disappearance of Frederick Valentich  
-   Link: <a href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Australian ufology  
-   Link: <a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsAustralian Defence Department not looking at UFOs despite landmark report on topic handed to US Congress - ABC News...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsAustralian Defence Department not looking at UFOs despite landmark report on topic handed to US Congress - ABC News...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blogs.slv.vic.gov.au  
    Title: strange lights in the sky the westall ufo event 1966  
-   Link: <a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
+   Link:<a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: abc.net.au  
    Title: westall ufo mystery witnesses want answers  
-   Link: <a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
+   Link:<a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dandenong.starcommunity.com.au  
    Title: westall 1966 official files remain secret  
-   Link: <a href="https://dandenong.starcommunity.com.au/news/2026-04-13/westall-1966-official-files-remain-secret/" target="_blank" rel="noopener noreferrer nofollow">https://dandenong.starcommunity.com.au/news/2026-04-13/westall-1966-official-files-remain-secret/</a>  
+   Link:<a href="https://dandenong.starcommunity.com.au/news/2026-04-13/westall-1966-official-files-remain-secret/" target="_blank" rel="noopener noreferrer nofollow">https://dandenong.starcommunity.com.au/news/2026-04-13/westall-1966-official-files-remain-secret/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
+   Link:<a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abc.net.au  
    Title: disappearance frederick valentich inspired kettering incident  
-   Link: <a href="https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428</a>  
+   Link:<a href="https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: minister.defence.gov.au  
-   Link: <a href="https://www.minister.defence.gov.au/statements/2026-06-11/joint-statement-from-uk-australia-australia-uk-ministerial-consultations-aukmin-june-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.minister.defence.gov.au/statements/2026-06-11/joint-statement-from-uk-australia-australia-uk-ministerial-consultations-aukmin-june-2026</a>  
+   Link:<a href="https://www.minister.defence.gov.au/statements/2026-06-11/joint-statement-from-uk-australia-australia-uk-ministerial-consultations-aukmin-june-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.minister.defence.gov.au/statements/2026-06-11/joint-statement-from-uk-australia-australia-uk-ministerial-consultations-aukmin-june-2026</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/e-petitions/petition/EN7938" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/e-petitions/petition/EN7938</a>  
+   Link:<a href="https://www.aph.gov.au/e-petitions/petition/EN7938" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/e-petitions/petition/EN7938</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: atollon.com.au  
    Title: westall 1966  
-   Link: <a href="https://atollon.com.au/article/westall-1966/" target="_blank" rel="noopener noreferrer nofollow">https://atollon.com.au/article/westall-1966/</a>  
+   Link:<a href="https://atollon.com.au/article/westall-1966/" target="_blank" rel="noopener noreferrer nofollow">https://atollon.com.au/article/westall-1966/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: localhistory.kingston.vic.gov.au  
-   Link: <a href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow">https://localhistory.kingston.vic.gov.au/articles/528</a>  
+   Link:<a href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow">https://localhistory.kingston.vic.gov.au/articles/528</a>  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Westall Encounter: Australia's Most Profound UFO Sighting  
-   Link: <a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8yxg5BCdAHQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s UFO Secrets Exposed with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8yxg5BCdAHQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s UFO Secrets Exposed with Ross Coulthart...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Pilot Who Disappeared Forever After Spotting a UFO  
-   Link: <a href="https://www.youtube.com/watch?v=zqHdBxVl2BI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zqHdBxVl2BI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zqHdBxVl2BI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zqHdBxVl2BI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Australia's UFO Secrets Exposed with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=hzoJPerhz-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hzoJPerhz-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real Eyewitness Stories of UFOs | The Proof Is Out There...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hzoJPerhz-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hzoJPerhz-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real Eyewitness Stories of UFOs | The Proof Is Out There...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/pj8o4d/australia_has_declassified_their_uap_files/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/pj8o4d/australia_has_declassified_their_uap_files/</a>  
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/pj8o4d/australia_has_declassified_their_uap_files/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/pj8o4d/australia_has_declassified_their_uap_files/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/crikey.com.au/posts/australias-department-of-defence-could-neither-confirm-nor-deny-the-existence-of/1309087117905522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/crikey.com.au/posts/australias-department-of-defence-could-neither-confirm-nor-deny-the-existence-of/1309087117905522/</a>  
+   Link:<a href="https://www.facebook.com/crikey.com.au/posts/australias-department-of-defence-could-neither-confirm-nor-deny-the-existence-of/1309087117905522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/crikey.com.au/posts/australias-department-of-defence-could-neither-confirm-nor-deny-the-existence-of/1309087117905522/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
+   Link:<a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSsydney/posts/australias-department-of-defence-has-confirmed-it-will-not-be-looking-at-ufos-de/5223251181032306/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSsydney/posts/australias-department-of-defence-has-confirmed-it-will-not-be-looking-at-ufos-de/5223251181032306/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSsydney/posts/australias-department-of-defence-has-confirmed-it-will-not-be-looking-at-ufos-de/5223251181032306/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSsydney/posts/australias-department-of-defence-has-confirmed-it-will-not-be-looking-at-ufos-de/5223251181032306/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/geoff-cruickshank-a-former-australian-intelligence-official-on-the-connection-be/974359281637756/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/geoff-cruickshank-a-former-australian-intelligence-official-on-the-connection-be/974359281637756/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/geoff-cruickshank-a-former-australian-intelligence-official-on-the-connection-be/974359281637756/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/geoff-cruickshank-a-former-australian-intelligence-official-on-the-connection-be/974359281637756/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUdLZuEEt5_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUdLZuEEt5_/</a>  
+   Link:<a href="https://www.instagram.com/p/DUdLZuEEt5_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUdLZuEEt5_/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYSfxQUgv6B/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYSfxQUgv6B/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYSfxQUgv6B/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYSfxQUgv6B/</a>  

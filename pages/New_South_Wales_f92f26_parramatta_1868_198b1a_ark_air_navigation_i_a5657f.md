@@ -256,7 +256,7 @@ image: /assets/images/New_South_Wales_f92f26_parramatta_1868_198b1a_ark_air_navi
 
 ## Introduction
 
-The most intriguing aspect of Frederick William Birmingham’s 1868 [Parramatta]({{ 'parramatta-1868/' | relative_url }}) “ark” vision is not the sighting itself but what happened afterwards. Unlike many nineteenth-century visionary experiences, Birmingham appears to have tried to turn the idea into a practical engineering project. Later material linked to him shows that he did not merely remember an aerial ark; he attempted to work out how such a machine might achieve “navigation through the air”. In that respect, the Parramatta story sits at an unusual crossroads between religious vision, colonial engineering and the wider Victorian fascination with flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</span></span></span>
+The most intriguing aspect of Frederick William Birmingham’s 1868 [Parramatta]({{ 'parramatta-1868/' | relative_url }}) “ark” vision is not the sighting itself but what happened afterwards. Unlike many nineteenth-century visionary experiences, Birmingham appears to have tried to turn the idea into a practical engineering project. Later material linked to him shows that he did not merely remember an aerial ark; he attempted to work out how such a machine might achieve “navigation through the air”. In that respect, the Parramatta story sits at an unusual crossroads between religious vision, colonial engineering and the wider Victorian fascination with flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_parramatta_1868_198b1a_ark_air_navigation_i_a5657f-Illustration-1-dark.svg" | relative_url }}" alt="Air machine illustration 1" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_parramatta_1868_198b1a_ark_air_navigation_i_a5657f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_parramatta_1868_198b1a_ark_air_navigation_i_a5657f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,9 +264,9 @@ For readers interested in [New South Wales]({{ 'what-makes-new-south-wales-ufo-r
 
 ## Ships, arks and pre-aeroplane language
 
-One reason the Parramatta account feels unusual to modern readers is that the object was described as an ark or vessel rather than as anything resembling an aeroplane. Birmingham reportedly remarked that the machine looked better suited to water than to air. The shape was essentially nautical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</span></span></span>
+One reason the Parramatta account feels unusual to modern readers is that the object was described as an ark or vessel rather than as anything resembling an aeroplane. Birmingham reportedly remarked that the machine looked better suited to water than to air. The shape was essentially nautical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</span></span></span>
 
-That description becomes less surprising when viewed in its Victorian context. Before powered flight existed, many inventors imagined aerial travel using familiar maritime ideas. Proposed flying machines were often called aerial ships, airships or flying vessels. Designs regularly borrowed from boats, complete with hulls, cabins, steering positions and crew compartments. In the nineteenth century, the distinction between a ship for water and a ship for the air was often conceptual rather than visual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newenglandaviationhistory.com/tag/mcdermott-flying-machine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newenglandaviationhistory.com">[newenglandaviationhistory.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newenglandaviationhistory.com</span><span class="citation-popover-title">mcdermott flying machine</span><span class="citation-popover-snippet">30 Mar 2021 — An illustration of his idea depicts a boat supported by four balloons with a sail to provide forward motion. From the late...</span></span></span>
+That description becomes less surprising when viewed in its Victorian context. Before powered flight existed, many inventors imagined aerial travel using familiar maritime ideas. Proposed flying machines were often called aerial ships, airships or flying vessels. Designs regularly borrowed from boats, complete with hulls, cabins, steering positions and crew compartments. In the nineteenth century, the distinction between a ship for water and a ship for the air was often conceptual rather than visual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newenglandaviationhistory.com/tag/mcdermott-flying-machine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newenglandaviationhistory.com">[newenglandaviationhistory.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newenglandaviationhistory.com</span><span class="citation-popover-title">mcdermott flying machine</span><span class="citation-popover-snippet">30 Mar 2021 — An illustration of his idea depicts a boat supported by four balloons with a sail to provide forward motion. From the late...</span></span></span>
 
 The ark imagery therefore carried two meanings at once:
 
@@ -280,11 +280,11 @@ This combination helps explain why later UFO enthusiasts sometimes see the Parra
 
 ## The 1875 air-navigation letter
 
-The strongest evidence linking Birmingham's vision to aviation ideas comes from a letter he wrote in 1875. According to surviving discussions of the document, Birmingham described efforts to apply his engineering knowledge to the problem of aerial travel and explicitly referred to “navigation through the air”. The machine he discussed reportedly retained major features from the earlier vision, including an ark-like form and a pilot house. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</span></span></span>
+The strongest evidence linking Birmingham's vision to aviation ideas comes from a letter he wrote in 1875. According to surviving discussions of the document, Birmingham described efforts to apply his engineering knowledge to the problem of aerial travel and explicitly referred to “navigation through the air”. The machine he discussed reportedly retained major features from the earlier vision, including an ark-like form and a pilot house.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</span></span></span>
 
 This is a significant detail because it suggests continuity between the 1868 experience and Birmingham's later engineering thinking. The ark was not simply remembered as a supernatural spectacle. It became a design concept.
 
-The timing is also noteworthy. The 1870s were a period when flight remained a largely theoretical ambition. Inventors and scientific societies in Britain, Europe and North America were debating whether controlled aerial navigation was achievable at all. The Aeronautical Society of Great Britain had already been founded, and pioneers such as Sir George Cayley had established important principles of flight, but practical powered aircraft were still decades away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Frederick_Brearey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Frederick Brearey</span><span class="citation-popover-snippet">Frederick Brearey</span></span></span>
+The timing is also noteworthy. The 1870s were a period when flight remained a largely theoretical ambition. Inventors and scientific societies in Britain, Europe and North America were debating whether controlled aerial navigation was achievable at all. The Aeronautical Society of Great Britain had already been founded, and pioneers such as Sir George Cayley had established important principles of flight, but practical powered aircraft were still decades away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Frederick_Brearey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Frederick Brearey</span><span class="citation-popover-snippet">Frederick Brearey</span></span></span>
 
 Against that backdrop, Birmingham's interest in aerial navigation places him within a broader Victorian culture of experimentation. His ideas were not mainstream engineering solutions, but neither were they entirely isolated from contemporary discussions about flight.
 
@@ -294,9 +294,9 @@ Against that backdrop, Birmingham's interest in aerial navigation places him wit
 
 The most interesting historical question is whether Birmingham treated the vision as inspiration or as instruction.
 
-Later versions of the story describe him entering the ark and seeing papers covered with figures, calculations or formulae. Whether understood literally, symbolically or as part of a dream narrative, these details resemble a common nineteenth-century theme: the revelation of hidden technical knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</span></span></span>
+Later versions of the story describe him entering the ark and seeing papers covered with figures, calculations or formulae. Whether understood literally, symbolically or as part of a dream narrative, these details resemble a common nineteenth-century theme: the revelation of hidden technical knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</span></span></span>
 
-Birmingham appears to have taken that aspect seriously enough to pursue practical thinking about flight. The available evidence does not show that he built a successful aircraft, nor is there evidence that his designs influenced later aviation developments. However, the surviving references indicate that he attempted to bridge the gap between vision and engineering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</span></span></span>
+Birmingham appears to have taken that aspect seriously enough to pursue practical thinking about flight. The available evidence does not show that he built a successful aircraft, nor is there evidence that his designs influenced later aviation developments. However, the surviving references indicate that he attempted to bridge the gap between vision and engineering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</span></span></span>
 
 This distinction is important when assessing the story's place in New South Wales UFO history.
 
@@ -314,7 +314,7 @@ Several factors argue for caution:
 * Birmingham himself described the original event in visionary or dream-like terms.
 * The ark retained a ship-like appearance rather than displaying recognisably modern aeronautical features.
 * The later aviation connection comes largely from Birmingham's own efforts to interpret and develop the idea.
-* No evidence shows that the machine actually existed or that any flight demonstration occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</span></span></span>
+* No evidence shows that the machine actually existed or that any flight demonstration occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</span></span></span>
 
 The historical value of the case lies elsewhere. It shows how unusual aerial narratives existed long before the flying-saucer era and how those narratives were shaped by the technology and language available at the time. Where twentieth-century witnesses might describe discs, spacecraft or advanced aircraft, Birmingham described an ark with a pilot house because ships and navigation provided the closest available framework.
 
@@ -326,7 +326,7 @@ Within the broader story of New South Wales UFO history, Birmingham's ark is bes
 
 * Religious and visionary experience.
 * Enthusiasm for scientific and engineering progress.
-* Speculation about future air travel before practical aviation existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com+2ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</span></span></span>
+* Speculation about future air travel before practical aviation existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</span></span></span>
 
 That combination makes the Parramatta ark different from later UFO reports. Rather than anticipating flying saucers directly, it reflects a world in which the dream of flight was still largely imaginary. Birmingham's later attempts to turn the ark into an air-navigation concept reveal how easily visionary experiences and technological aspirations could merge in Victorian Australia, creating a story that sits halfway between folklore, invention and the long prehistory of UFO culture.
 
@@ -335,194 +335,194 @@ That combination makes the Parramatta ark different from later UFO reports. Rath
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the ark really a flying machine idea?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the ark really a flying machine idea?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wright+Brothers+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wright Brothers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=drS2CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Wright Brothers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Wright+Brothers+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wright Brothers">The Wright Brothers</a>
-        </h4>
-        <p class="fr-book-author">By David McCullough</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wright+Brothers+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wright Brothers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=drS2CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Wright Brothers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Wright+Brothers+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wright Brothers">The Wright Brothers</a>
+</h4>
+<p class="fr-book-author">By David McCullough</p>
         
-        <p class="fr-book-desc">Connects visionary ideas about flight with the practical invention process that mirrors Birmingham&#x27;s move from vision to engineering.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Wright+Brothers+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects visionary ideas about flight with the practical invention process that mirrors Birmingham&#x27;s move from vision to engineering.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Wright+Brothers+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Aerodynamics+by+John+David+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Aerodynamics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1OeCJFJY3ZYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A History of Aerodynamics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+Aerodynamics+by+John+David+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Aerodynamics">A History of Aerodynamics</a>
-        </h4>
-        <p class="fr-book-author">By John David Anderson, John D. Anderson, Jr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Aerodynamics+by+John+David+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Aerodynamics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1OeCJFJY3ZYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A History of Aerodynamics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+Aerodynamics+by+John+David+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Aerodynamics">A History of Aerodynamics</a>
+</h4>
+<p class="fr-book-author">By John David Anderson, John D. Anderson, Jr</p>
         
-        <p class="fr-book-desc">Provides deep context on pre-airplane theories and the development of flying-machine concepts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+Aerodynamics+by+John+David+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides deep context on pre-airplane theories and the development of flying-machine concepts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+Aerodynamics+by+John+David+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Progress+in+Flying+Machines+by+Octave+Chanute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Progress in Flying Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3VlJAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Progress in Flying Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Progress+in+Flying+Machines+by+Octave+Chanute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Progress in Flying Machines">Progress in Flying Machines</a>
-        </h4>
-        <p class="fr-book-author">By Octave Chanute</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Progress+in+Flying+Machines+by+Octave+Chanute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Progress in Flying Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3VlJAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Progress in Flying Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Progress+in+Flying+Machines+by+Octave+Chanute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Progress in Flying Machines">Progress in Flying Machines</a>
+</h4>
+<p class="fr-book-author">By Octave Chanute</p>
         
-        <p class="fr-book-desc">Contemporary to the era discussed and directly tied to Victorian attempts to achieve air navigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Progress+in+Flying+Machines+by+Octave+Chanute&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contemporary to the era discussed and directly tied to Victorian attempts to achieve air navigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Progress+in+Flying+Machines+by+Octave+Chanute&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Visions+of+a+Flying+Machine+by+Peter+L.+Jakab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visions of a Flying Machine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Visions+of+a+Flying+Machine+by+Peter+L.+Jakab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visions of a Flying Machine">Visions of a Flying Machine</a>
-        </h4>
-        <p class="fr-book-author">By Peter L. Jakab</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Visions+of+a+Flying+Machine+by+Peter+L.+Jakab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visions of a Flying Machine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Visions+of+a+Flying+Machine+by+Peter+L.+Jakab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visions of a Flying Machine">Visions of a Flying Machine</a>
+</h4>
+<p class="fr-book-author">By Peter L. Jakab</p>
         
-        <p class="fr-book-desc">Focuses on how imaginative concepts became workable flying machines, closely matching the article&#x27;s theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Visions+of+a+Flying+Machine+by+Peter+L.+Jakab&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on how imaginative concepts became workable flying machines, closely matching the article&#x27;s theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Visions+of+a+Flying+Machine+by+Peter+L.+Jakab&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Wright+Brothers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Wright Brothers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Aerodynamics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Aerodynamics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Progress+in+Flying+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Progress in Flying Machines</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Wright+Brothers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Wright Brothers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Aerodynamics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Aerodynamics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Progress+in+Flying+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Progress in Flying Machines</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="air-machine-was-the-ark-really-a-flying-machine-idea-new-south-wales-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ That combination makes the Parramatta ark different from later UFO reports. Rath
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ That combination makes the Parramatta ark different from later UFO reports. Rath
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ That combination makes the Parramatta ark different from later UFO reports. Rath
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ That combination makes the Parramatta ark different from later UFO reports. Rath
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ That combination makes the Parramatta ark different from later UFO reports. Rath
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,102 +728,102 @@ That combination makes the Parramatta ark different from later UFO reports. Rath
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: theozfiles.blogspot.com  
    Title: the 1868 ufo vision of frederick  
-   Link: <a href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</p></details>
+   Link:<a href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1868 &quot;UFO vision&quot; of Frederick William Birmingham12 Dec 2023 — A long letter he wrote in 1875 describing his efforts of applying his...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: icao.int  
    Title: aviation history the scientific visionaries or those men before the wrights  
-   Link: <a href="https://www.icao.int/sites/default/files/postalhistory/aviation_history_the_scientific_visionaries_or_those_men_before_the_wrights.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/postalhistory/aviation_history_the_scientific_visionaries_or_those_men_before_the_wrights.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Visionaries or those Men before the WrightsIn England, Sir George Cayley (1773-1857) is recognized both as the inventor of...</p></details>
+   Link:<a href="https://www.icao.int/sites/default/files/postalhistory/aviation_history_the_scientific_visionaries_or_those_men_before_the_wrights.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/postalhistory/aviation_history_the_scientific_visionaries_or_those_men_before_the_wrights.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Visionaries or those Men before the WrightsIn England, Sir George Cayley (1773-1857) is recognized both as the inventor of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: newenglandaviationhistory.com  
    Title: mcdermott flying machine  
-   Link: <a href="https://newenglandaviationhistory.com/tag/mcdermott-flying-machine/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandaviationhistory.com/tag/mcdermott-flying-machine/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Mar 2021 — An illustration of his idea depicts a boat supported by four balloons with a sail to provide forward motion. From the late...</p></details>
+   Link:<a href="https://newenglandaviationhistory.com/tag/mcdermott-flying-machine/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandaviationhistory.com/tag/mcdermott-flying-machine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 Mar 2021 — An illustration of his idea depicts a boat supported by four balloons with a sail to provide forward motion. From the late...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Frederick Marriott  
-   Link: <a href="https://en.wikipedia.org/wiki/Frederick_Marriott" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Frederick_Marriott</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Frederick_Marriott" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Frederick_Marriott</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Frederick Brearey  
-   Link: <a href="https://en.wikipedia.org/wiki/Frederick_Brearey" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Frederick_Brearey</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Frederick_Brearey" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Frederick_Brearey</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Early flying machines  
-   Link: <a href="https://en.wikipedia.org/wiki/Early_flying_machines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Early_flying_machines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Early flying machinesEarly flying machines include all forms of aircraft studied or constructed before the development of the modern a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Early_flying_machines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Early_flying_machines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Early flying machinesEarly flying machines include all forms of aircraft studied or constructed before the development of the modern a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=HqAgQbngtOw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HqAgQbngtOw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1868 &quot;UFO vision&quot; - the investigation by Bill Chalker Part 2 of 2...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=HqAgQbngtOw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HqAgQbngtOw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1868 &quot;UFO vision&quot; - the investigation by Bill Chalker Part 2 of 2...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=toC4MC86GD8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=toC4MC86GD8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1863 “Gravitational” Flight (motor-less) &amp; The Great American Steam Airships of the 19th Century...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=toC4MC86GD8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=toC4MC86GD8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1863 “Gravitational” Flight (motor-less) &amp; The Great American Steam Airships of the 19th Century...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tile.loc.gov  
-   Link: <a href="https://tile.loc.gov/storage-services/service/gdc/gdclccn/31/01/53/66/31015366/31015366.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/service/gdc/gdclccn/31/01/53/66/31015366/31015366.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>machinessuccess can be hoped for in navigating the air with flying machines. He has engaged in the effort to work out the maintenance of...</p></details>
+   Link:<a href="https://tile.loc.gov/storage-services/service/gdc/gdclccn/31/01/53/66/31015366/31015366.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/service/gdc/gdclccn/31/01/53/66/31015366/31015366.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>machinessuccess can be hoped for in navigating the air with flying machines. He has engaged in the effort to work out the maintenance of...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: peter2000.co.uk  
-   Link: <a href="https://www.peter2000.co.uk/aviation/misc/air-navigation-weems-1942.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.peter2000.co.uk/aviation/misc/air-navigation-weems-1942.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air navigationAVe must use &#x27;^ air-cooled&quot; methods for pathfinding in flight. Only by practical work in the air can one realize how utterl...</p></details>
+   Link:<a href="https://www.peter2000.co.uk/aviation/misc/air-navigation-weems-1942.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.peter2000.co.uk/aviation/misc/air-navigation-weems-1942.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air navigationAVe must use &#x27;^ air-cooled&quot; methods for pathfinding in flight. Only by practical work in the air can one realize how utterl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: airsciences.org.uk  
-   Link: <a href="https://www.airsciences.org.uk/FAST_Briefings_10_EdwardTeshmakerBusk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airsciences.org.uk/FAST_Briefings_10_EdwardTeshmakerBusk.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Edward Teshmaker BuskEdward Teshmaker Busk was an English. Scientist and Engineer who pioneered early aircraft design at the Royal Aircra...</p></details>
+   Link:<a href="https://www.airsciences.org.uk/FAST_Briefings_10_EdwardTeshmakerBusk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airsciences.org.uk/FAST_Briefings_10_EdwardTeshmakerBusk.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Edward Teshmaker BuskEdward Teshmaker Busk was an English. Scientist and Engineer who pioneered early aircraft design at the Royal Aircra...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsThe MOD&#x27;s UFO files contain correspondence on reported interactions with extraterrestrial creatures. One letter requests infor...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsThe MOD&#x27;s UFO files contain correspondence on reported interactions with extraterrestrial creatures. One letter requests infor...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovered.ed.ac.uk  
-   Link: <a href="https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2" target="_blank" rel="noopener noreferrer nofollow">https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: the inside story of real-life sightingsDavid Clarke reveals an array of startling stories from possible UFO reports hidden am...</p></details>
+   Link:<a href="https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2" target="_blank" rel="noopener noreferrer nofollow">https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: the inside story of real-life sightingsDavid Clarke reveals an array of startling stories from possible UFO reports hidden am...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: search.sl.nsw.gov.au  
-   Link: <a href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21133483580002626&amp;vid=SLNSW" target="_blank" rel="noopener noreferrer nofollow">https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21133483580002626&amp;vid=SLNSW</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oz files: the Australian UFO story / Bill Chalker.The oz files: the Australian UFO story / Bill Chalker. Available at State Library of...</p></details>
+   Link:<a href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21133483580002626&amp;vid=SLNSW" target="_blank" rel="noopener noreferrer nofollow">https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21133483580002626&amp;vid=SLNSW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oz files: the Australian UFO story / Bill Chalker.The oz files: the Australian UFO story / Bill Chalker. Available at State Library of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: today in aviation history19 june 1894 frederick w lanchester british aeronautica  
-   Link: <a href="https://www.facebook.com/avgeekphl/posts/today-in-aviation-history19-june-1894-frederick-w-lanchester-british-aeronautica/1494040925853516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/avgeekphl/posts/today-in-aviation-history19-june-1894-frederick-w-lanchester-british-aeronautica/1494040925853516/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY IN AVIATION HISTORY [19 June 1894] Frederick...Lanchester, British aeronautical and automobile pioneer, announces his theory of ci...</p></details>
+   Link:<a href="https://www.facebook.com/avgeekphl/posts/today-in-aviation-history19-june-1894-frederick-w-lanchester-british-aeronautica/1494040925853516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/avgeekphl/posts/today-in-aviation-history19-june-1894-frederick-w-lanchester-british-aeronautica/1494040925853516/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY IN AVIATION HISTORY [19 June 1894] Frederick...Lanchester, British aeronautical and automobile pioneer, announces his theory of ci...</p></details>
    Published: june 1894  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sl.nsw.gov.au  
-   Link: <a href="https://www.sl.nsw.gov.au/learning/flying-history" target="_blank" rel="noopener noreferrer nofollow">https://www.sl.nsw.gov.au/learning/flying-history</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>into history | State Library of New South WalesStudents explore sources showing how flying machines have changed over time...</p></details>
+   Link:<a href="https://www.sl.nsw.gov.au/learning/flying-history" target="_blank" rel="noopener noreferrer nofollow">https://www.sl.nsw.gov.au/learning/flying-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>into history | State Library of New South WalesStudents explore sources showing how flying machines have changed over time...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: text-message.blogs.archives.gov  
-   Link: <a href="https://text-message.blogs.archives.gov/2020/08/13/the-first-aeroplane-take-off-from-a-ship-november-14-1910-part-ii/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2020/08/13/the-first-aeroplane-take-off-from-a-ship-november-14-1910-part-ii/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First Aeroplane Take Off from a Ship, November 14, 1910...13 Aug 2020 — Hubert Latham flew in an Antoinette monoplane over the city of B...</p></details>
+   Link:<a href="https://text-message.blogs.archives.gov/2020/08/13/the-first-aeroplane-take-off-from-a-ship-november-14-1910-part-ii/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2020/08/13/the-first-aeroplane-take-off-from-a-ship-november-14-1910-part-ii/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First Aeroplane Take Off from a Ship, November 14, 1910...13 Aug 2020 — Hubert Latham flew in an Antoinette monoplane over the city of B...</p></details>
    Published: November 14, 1910  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_section_10.pdfthe National Academy of Sciences; past UFO studies; and Air. Force experience investigating UF...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_section_10.pdfthe National Academy of Sciences; past UFO studies; and Air. Force experience investigating UF...</p></details>

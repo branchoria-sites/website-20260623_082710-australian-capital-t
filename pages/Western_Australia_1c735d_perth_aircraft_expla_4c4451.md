@@ -290,11 +290,11 @@ Perth-area UFO reports are useful precisely because some of them became less mys
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451-overview.webp" | relative_url }}" alt="Overview image for Perth Cases" loading="eager" decoding="sync" fetchpriority="high">
-The most revealing Perth examples are not spectacular “proof” cases. They are modest entries in RAAF and civil aviation records: Wembley, Balga and Swanbourne sightings in 1973, and a later Department of Aviation file in which a 1983 report was passed to RAAF Base Pearce for checking. Together they show how “unidentified” could mean “not yet checked”, not “unexplainable”. The Black Vault+3Internet Archive+3Internet Archive <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+The most revealing Perth examples are not spectacular “proof” cases. They are modest entries in RAAF and civil aviation records: Wembley, Balga and Swanbourne sightings in 1973, and a later Department of Aviation file in which a 1983 report was passed to RAAF Base Pearce for checking. Together they show how “unidentified” could mean “not yet checked”, not “unexplainable”. The Black Vault+3Internet Archive+3Internet Archive<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 ## Why Perth sightings sit apart from WA’s remote-road cases
 
-Western Australia’s UFO archive is often associated with distance: country roads, farm properties, mining towns, police stations and witnesses far from immediate technical support. The WA Police “UFO File”, held in the State Records Office and discussed by the State Library of Western Australia, includes reports from government officials and members of the public dating back to 1951, with many reports from country areas through the 1950s, 1960s and 1970s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">Open source on wa.gov.au.</span></span></span>
+Western Australia’s UFO archive is often associated with distance: country roads, farm properties, mining towns, police stations and witnesses far from immediate technical support. The WA Police “UFO File”, held in the State Records Office and discussed by the State Library of Western Australia, includes reports from government officials and members of the public dating back to 1951, with many reports from country areas through the 1950s, 1960s and 1970s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">Open source on wa.gov.au.</span></span></span>
 
 Perth reports are different because the sky is busier and easier to cross-check. The metropolitan area sits near Perth Airport, Jandakot Airport, coastal visual routes and RAAF Base Pearce. A witness in Wembley, Balga, Swanbourne or Mosman Park might be watching a genuine light whose aircraft identity is not obvious from the ground. Viewed at night or from an awkward angle, landing lights can appear stationary, a formation can look like linked objects, and a banking aircraft can seem to change direction abruptly.
 
@@ -306,24 +306,24 @@ This matters because Perth cases help separate two questions that are often blur
 
 The best compact portfolio comes from 1973 RAAF unusual aerial sighting summaries. The records are not polished narratives; they are tabulated official-style entries with date, time, location, description and possible cause. That makes them valuable for this page because the explanation sits beside the report, showing how the case changed once aviation context was considered.
 
-The clearest Wembley entry was recorded for 25 June 1973 at 0200 GMT. The report described “two white objects at high altitude moving to the north west” from Wembley, WA. The possible cause was listed as “a Macchi formation from [RAAF Pearce]({{ 'raaf-pearce/' | relative_url }})” — almost certainly referring to military jet trainers rather than an unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+The clearest Wembley entry was recorded for 25 June 1973 at 0200 GMT. The report described “two white objects at high altitude moving to the north west” from Wembley, WA. The possible cause was listed as “a Macchi formation from [RAAF Pearce]({{ 'raaf-pearce/' | relative_url }})” — almost certainly referring to military jet trainers rather than an unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
-Balga appears in the same run of 1973 records. On 25 May 1973 at 0222 GMT, the description was a “dull white object with pulsating red glow” that appeared to perform aerial manoeuvres. The possible cause was recorded as a Macchi from RAAF Pearce. That is a useful example because the witness description sounds more active and unusual than a simple “light in the sky”, yet the official explanation still pointed to a known training aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+Balga appears in the same run of 1973 records. On 25 May 1973 at 0222 GMT, the description was a “dull white object with pulsating red glow” that appeared to perform aerial manoeuvres. The possible cause was recorded as a Macchi from RAAF Pearce. That is a useful example because the witness description sounds more active and unusual than a simple “light in the sky”, yet the official explanation still pointed to a known training aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
-Swanbourne provides another kind of urban explanation. On 12 August 1973, the report described bright white or blue-white lights moving south and disappearing behind trees. The possible cause was “aircraft approaching Perth airport”. The wording is plain, but the case is important: from a suburb west of the city, a landing or approach sequence could look like a mysterious light source, especially if the aircraft’s body was not visible and only intense lights were seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+Swanbourne provides another kind of urban explanation. On 12 August 1973, the report described bright white or blue-white lights moving south and disappearing behind trees. The possible cause was “aircraft approaching Perth airport”. The wording is plain, but the case is important: from a suburb west of the city, a landing or approach sequence could look like a mysterious light source, especially if the aircraft’s body was not visible and only intense lights were seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
-There were also Perth-adjacent reports that pointed away from aircraft but still towards ordinary aerial causes. A Mosman Park entry for 1 December 1973 described a large bright silver object rising from the south towards north-north-east; the possible cause was a meteorological balloon. This is a reminder that “ordinary explanation” did not always mean aircraft, although aircraft were a recurring solution around Perth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+There were also Perth-adjacent reports that pointed away from aircraft but still towards ordinary aerial causes. A Mosman Park entry for 1 December 1973 described a large bright silver object rising from the south towards north-north-east; the possible cause was a meteorological balloon. This is a reminder that “ordinary explanation” did not always mean aircraft, although aircraft were a recurring solution around Perth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8yxg5BCdAHQ" title="The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer">The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown &middot; Views: 285.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8yxg5BCdAHQ">Open on YouTube</a></p></div></div></div>
 
 ## How aircraft checks changed the record
 
-The Wembley and Balga entries show the practical value of checking nearby military activity. RAAF Base Pearce is not a remote footnote in Perth’s aviation geography. It is the main Air Force base in Western Australia, about 35 kilometres north of Perth, and the Air Force describes it as one of the busiest RAAF bases in the country by aircraft movements, with pilot training as its primary role. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airforce.gov.au/about-us/bases/raaf-base-pearce" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airforce.gov.au">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airforce.gov.au</span><span class="citation-popover-title">Air Force RAAF Base Pearce &#124; Air Force</span><span class="citation-popover-snippet">Air Force RAAF Base Pearce &#124; Air Force</span></span></span>
+The Wembley and Balga entries show the practical value of checking nearby military activity. RAAF Base Pearce is not a remote footnote in Perth’s aviation geography. It is the main Air Force base in Western Australia, about 35 kilometres north of Perth, and the Air Force describes it as one of the busiest RAAF bases in the country by aircraft movements, with pilot training as its primary role.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airforce.gov.au/about-us/bases/raaf-base-pearce" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airforce.gov.au">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airforce.gov.au</span><span class="citation-popover-title">Air Force RAAF Base Pearce &#124; Air Force</span><span class="citation-popover-snippet">Air Force RAAF Base Pearce &#124; Air Force</span></span></span>
 
-That setting makes a Pearce-linked explanation plausible in a way it would not be for every WA sighting. If a report involved high-altitude white objects, manoeuvring lights, formation movement or red-and-white aircraft lighting north of the city, an investigator had an obvious first question: were Pearce aircraft operating? In the 1973 Wembley entry, that question appears to have resolved the sighting into a Macchi formation rather than a lingering mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+That setting makes a Pearce-linked explanation plausible in a way it would not be for every WA sighting. If a report involved high-altitude white objects, manoeuvring lights, formation movement or red-and-white aircraft lighting north of the city, an investigator had an obvious first question: were Pearce aircraft operating? In the 1973 Wembley entry, that question appears to have resolved the sighting into a Macchi formation rather than a lingering mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
-Perth Airport checks work differently. They do not depend on military training, but on runway use, approach paths, aircraft lighting and the way perspective can distort motion. Airservices Australia explains that flight paths are corridors rather than exact lines, that Perth Airport paths must be designed around Pearce military airspace and Jandakot airspace, and that arriving jets are generally aligned with the runway at least ten kilometres from the airport before descending on a glide slope. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/2023/03/21/perth-airport-flight-paths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[aircraftnoise.airservicesaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-title">Perth Airport Flight Paths – As A National Insightfull</span><span class="citation-popover-snippet">Perth Airport Flight Paths – As A National Insightfull</span></span></span>
+Perth Airport checks work differently. They do not depend on military training, but on runway use, approach paths, aircraft lighting and the way perspective can distort motion. Airservices Australia explains that flight paths are corridors rather than exact lines, that Perth Airport paths must be designed around Pearce military airspace and Jandakot airspace, and that arriving jets are generally aligned with the runway at least ten kilometres from the airport before descending on a glide slope.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/2023/03/21/perth-airport-flight-paths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[aircraftnoise.airservicesaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-title">Perth Airport Flight Paths – As A National Insightfull</span><span class="citation-popover-snippet">Perth Airport Flight Paths – As A National Insightfull</span></span></span>
 
 That helps explain the Swanbourne-style report. A bright approach light seen head-on can seem to hover because the aircraft is moving towards the observer rather than across the field of view. It can then appear suddenly to move, vanish behind trees, split into multiple lights or reveal red and green navigation lights as its angle changes. Nothing in that sequence requires deception or poor eyesight; it is a normal problem of interpreting distant lights without depth cues.
 
@@ -331,11 +331,11 @@ That helps explain the Swanbourne-style report. A bright approach light seen hea
 <img src="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451-Illustration-2-dark.svg" | relative_url }}" alt="Perth Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Pearce link and the 1983 Watheroo file
 
-The Pearce connection did not end with the 1973 summaries. A Department of Aviation file concerning “Aerial Phenomenon” includes a 1983 report made after a sighting on 25 February 1983 near [Watheroo]({{ 'watheroo/' | relative_url }}), north of Perth. The witness wrote to the Department of Aviation’s Perth office after phoning Perth briefing, describing three intense silver-gold lights and providing a sketch. The department forwarded the matter to the Officer Commanding at RAAF Base Pearce for “information and necessary action”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The Pearce connection did not end with the 1973 summaries. A Department of Aviation file concerning “Aerial Phenomenon” includes a 1983 report made after a sighting on 25 February 1983 near [Watheroo]({{ 'watheroo/' | relative_url }}), north of Perth. The witness wrote to the Department of Aviation’s Perth office after phoning Perth briefing, describing three intense silver-gold lights and providing a sketch. The department forwarded the matter to the Officer Commanding at RAAF Base Pearce for “information and necessary action”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 This case is not a simple solved Perth suburb sighting, and it should not be treated as if the available excerpt proves an aircraft explanation. Its value here is procedural. It shows the ordinary pathway by which a WA report could move from a civilian aviation contact to a nearby RAAF base with the ability to check military flying activity. The same logic underpins the Wembley and Balga [explanations]({{ 'explanations-7a0dd2/' | relative_url }}): before invoking an extraordinary unknown, investigators had to ask whether known aircraft were in the right place at the right time.
 
-The file also includes a newspaper clipping stating that RAAF and associated agencies such as the Aviation Department and Bureau of Meteorology had spent many hours following up reports, and that a Defence spokesman said all except about three per cent of sightings in the previous decade had been explained. The percentage should be read cautiously because it comes through a press clipping inside the file, not a full statistical audit, but it captures the official posture of the period: most reports were expected to have mundane causes after checking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The file also includes a newspaper clipping stating that RAAF and associated agencies such as the Aviation Department and Bureau of Meteorology had spent many hours following up reports, and that a Defence spokesman said all except about three per cent of sightings in the previous decade had been explained. The percentage should be read cautiously because it comes through a press clipping inside the file, not a full statistical audit, but it captures the official posture of the period: most reports were expected to have mundane causes after checking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4npE-Fgh6M4" title="Unidentified Aerial Phenomenon (UAP) witnessed and photographed @aspwexperience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4npE-Fgh6M4" target="_blank" rel="noopener noreferrer">Unidentified Aerial Phenomenon (UAP) witnessed and photographed @aspwexperience</a></p><p class="youtube-embed-meta">Channel: ASPW Experience &middot; Views: 664.7K &middot; Uploaded: July 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4npE-Fgh6M4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4npE-Fgh6M4">Open on YouTube</a></p></div></div></div>
@@ -344,11 +344,11 @@ The file also includes a newspaper clipping stating that RAAF and associated age
 
 Solved Perth cases are not embarrassing leftovers in WA UFO history. They are some of the most useful records because they show the difference between an initial report and a tested case. A person may honestly report a fast light, a silent formation or an object apparently making aerial manoeuvres. The case only becomes historically meaningful when the report is compared with aircraft movements, weather, astronomy, balloons and local airspace.
 
-They also protect the genuinely unresolved material from being padded with weak examples. If Wembley’s two high-altitude white objects can be linked to a Macchi formation from Pearce, then it should not be promoted later as a mysterious Perth UFO. If Swanbourne’s blue-white lights can be explained as aircraft approaching Perth Airport, then the value of the case is educational rather than evidential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+They also protect the genuinely unresolved material from being padded with weak examples. If Wembley’s two high-altitude white objects can be linked to a Macchi formation from Pearce, then it should not be promoted later as a mysterious Perth UFO. If Swanbourne’s blue-white lights can be explained as aircraft approaching Perth Airport, then the value of the case is educational rather than evidential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 For readers, the lesson is practical: “UFO” in an old record often means unidentified at the moment of report, not unidentified forever. Perth’s aviation environment gives investigators more tools than remote-road cases usually provide. Nearby bases, airports, training circuits, flight paths and runway operations can all turn a strange sighting into a known aircraft event.
 
-The modern reporting environment makes this even more important. Airservices now points the public to historical flight-path information through WebTrak, while Defence states that RAAF Base Pearce flying activity and aircraft noise information are handled through Defence aircraft-noise channels. That does not solve every old sighting, but it shows the kind of mundane checking that should come before any stronger claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/2023/03/21/perth-airport-flight-paths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[aircraftnoise.airservicesaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-title">Perth Airport Flight Paths – As A National Insightfull</span><span class="citation-popover-snippet">Perth Airport Flight Paths – As A National Insightfull</span></span></span>
+The modern reporting environment makes this even more important. Airservices now points the public to historical flight-path information through WebTrak, while Defence states that RAAF Base Pearce flying activity and aircraft noise information are handled through Defence aircraft-noise channels. That does not solve every old sighting, but it shows the kind of mundane checking that should come before any stronger claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/2023/03/21/perth-airport-flight-paths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[aircraftnoise.airservicesaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-title">Perth Airport Flight Paths – As A National Insightfull</span><span class="citation-popover-snippet">Perth Airport Flight Paths – As A National Insightfull</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451-Illustration-3-dark.svg" | relative_url }}" alt="Perth Cases illustration 3" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -363,194 +363,194 @@ That does not mean every Perth-area sighting was an aircraft. It means aircraft 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Perth UFOs Became Aircraft. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Perth UFOs Became Aircraft. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on investigating sightings and distinguishing unexplained cases from conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigating sightings and distinguishing unexplained cases from conventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes aviation witnesses and official investigations, matching aircraft-related sighting discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes aviation witnesses and official investigations, matching aircraft-related sighting discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mOqNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mOqNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
+</h4>
+<p class="fr-book-author">By Colin Dickey</p>
         
-        <p class="fr-book-desc">Explores how mysterious reports are interpreted, contextualizing solved and unsolved sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how mysterious reports are interpreted, contextualizing solved and unsolved sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Written by a former Project Blue Book leader and heavily concerned with case evaluation and identification processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by a former Project Blue Book leader and heavily concerned with case evaluation and identification processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Unidentified&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Unidentified</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Unidentified&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Unidentified</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cfb4ea3791ac1f8a62da.jpg' | relative_url }}" alt="Listing image for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cfb4ea3791ac1f8a62da.jpg' | relative_url }}" alt="Listing image for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand"><img src="{{ '/assets/images/marketplace-covers/a4e868e4bd9f69142722.jpg' | relative_url }}" alt="Listing image for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand"><img src="{{ '/assets/images/marketplace-covers/a4e868e4bd9f69142722.jpg' | relative_url }}" alt="Listing image for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA"><img src="{{ '/assets/images/marketplace-covers/cefd61bc171d73ee0b9c.jpg' | relative_url }}" alt="Listing image for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA"><img src="{{ '/assets/images/marketplace-covers/cefd61bc171d73ee0b9c.jpg' | relative_url }}" alt="Listing image for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="perth-cases-when-perth-ufos-became-aircraft-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ That does not mean every Perth-area sighting was an aircraft. It means aircraft 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ That does not mean every Perth-area sighting was an aircraft. It means aircraft 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ That does not mean every Perth-area sighting was an aircraft. It means aircraft 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ That does not mean every Perth-area sighting was an aircraft. It means aircraft 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ That does not mean every Perth-area sighting was an aircraft. It means aircraft 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,153 +756,153 @@ That does not mean every Perth-area sighting was an aircraft. It means aircraft 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Australian UFO Files"  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: documents.theblackvault.com  
    Title: The Black Vault  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aircraftnoise.airservicesaustralia.com  
    Title: Perth Airport Flight Paths – As A National Insightfull  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/2023/03/21/perth-airport-flight-paths/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2023/03/21/perth-airport-flight-paths/</a>  
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/2023/03/21/perth-airport-flight-paths/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2023/03/21/perth-airport-flight-paths/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aircraftnoise.airservicesaustralia.com  
    Title: What are the flight paths in my area – As A National Insightfull  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/</a>  
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: slwa.wa.gov.au  
-   Link: <a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
+   Link:<a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: airforce.gov.au  
    Title: Air Force RAAF Base Pearce | Air Force  
-   Link: <a href="https://www.airforce.gov.au/about-us/bases/raaf-base-pearce" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/about-us/bases/raaf-base-pearce</a>  
+   Link:<a href="https://www.airforce.gov.au/about-us/bases/raaf-base-pearce" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/about-us/bases/raaf-base-pearce</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: documents.theblackvault.com  
    Title: E1327 5 4 AIR part 1 7061046  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%201_7061046.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%201_7061046.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%201_7061046.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%201_7061046.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: documents.theblackvault.com  
    Title: E1327 5 4 AIR part 6 7 7061048  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%206-7_7061048.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%206-7_7061048.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%206-7_7061048.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%206-7_7061048.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/0%20-%20foia%20australia%20national%20archives%20file%20numbers%20notes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/0%20-%20foia%20australia%20national%20archives%20file%20numbers%20notes.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/0%20-%20foia%20australia%20national%20archives%20file%20numbers%20notes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/0%20-%20foia%20australia%20national%20archives%20file%20numbers%20notes.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: RAAF Base Pearce  
-   Link: <a href="https://en.wikipedia.org/wiki/RAAF_Base_Pearce" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAAF_Base_Pearce</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAAF_Base_Pearce" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAAF_Base_Pearce</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: airforce.gov.au  
-   Link: <a href="https://www.airforce.gov.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/</a>  
+   Link:<a href="https://www.airforce.gov.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aafcans.gov.au  
    Title: RAA F Pearce  
-   Link: <a href="https://www.aafcans.gov.au/outlet/raaf-pearce/" target="_blank" rel="noopener noreferrer nofollow">https://www.aafcans.gov.au/outlet/raaf-pearce/</a>  
+   Link:<a href="https://www.aafcans.gov.au/outlet/raaf-pearce/" target="_blank" rel="noopener noreferrer nofollow">https://www.aafcans.gov.au/outlet/raaf-pearce/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: parliament.wa.gov.au  
-   Link: <a href="https://www.parliament.wa.gov.au/hansard/daily/lh/2008-05-14/pdf/download" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.wa.gov.au/hansard/daily/lh/2008-05-14/pdf/download</a>  
+   Link:<a href="https://www.parliament.wa.gov.au/hansard/daily/lh/2008-05-14/pdf/download" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.wa.gov.au/hansard/daily/lh/2008-05-14/pdf/download</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/17294192" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/17294192</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/17294192" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/17294192</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/1468429" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1468429</a>  
+   Link:<a href="https://catalogue.nla.gov.au/catalog/1468429" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1468429</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/270072746" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/270072746</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/270072746" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/270072746</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: naa.gov.au  
    Title: records released march 2021  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf</a>  
    Published: march 2021  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: naa.gov.au  
    Title: royal australian air force  
-   Link: <a href="https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force</a>  
+   Link:<a href="https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: airforcenewspaper.defence.gov.au  
-   Link: <a href="https://www.airforcenewspaper.defence.gov.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.airforcenewspaper.defence.gov.au/</a>  
+   Link:<a href="https://www.airforcenewspaper.defence.gov.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.airforcenewspaper.defence.gov.au/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: defence.gov.au  
    Title: RAA F Pearce  
-   Link: <a href="https://www.defence.gov.au/about/locations-property/base-induction/raaf-pearce" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/about/locations-property/base-induction/raaf-pearce</a>  
+   Link:<a href="https://www.defence.gov.au/about/locations-property/base-induction/raaf-pearce" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/about/locations-property/base-induction/raaf-pearce</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Rrou1Yl-hao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rrou1Yl-hao</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomenon (UAP) witnessed and photographed @aspwexperience...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Rrou1Yl-hao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rrou1Yl-hao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomenon (UAP) witnessed and photographed @aspwexperience...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Unidentified Aerial Phenomenon (UAP) witnessed and photographed @aspwexperience  
-   Link: <a href="https://www.youtube.com/watch?v=4npE-Fgh6M4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4npE-Fgh6M4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4npE-Fgh6M4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4npE-Fgh6M4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Every RAAF aircraft in one insane formation flypast | CGI (not AI)  
-   Link: <a href="https://www.youtube.com/watch?v=E3fiC0otjFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E3fiC0otjFU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space junk: The mystery flying object that lit up Melbourne&#x27;s sky, revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E3fiC0otjFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E3fiC0otjFU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space junk: The mystery flying object that lit up Melbourne&#x27;s sky, revealed...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Westall Encounter: Australia's Most Profound UFO Sighting  
-   Link: <a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8yxg5BCdAHQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every RAAF aircraft in one insane formation flypast | CGI (not AI)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8yxg5BCdAHQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every RAAF aircraft in one insane formation flypast | CGI (not AI)...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
+   Link:<a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/</a>  
+   Link:<a href="https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/perth/comments/1ntxxc5/is_the_whole_town_flying_out/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/perth/comments/1ntxxc5/is_the_whole_town_flying_out/</a>  
+   Link:<a href="https://www.reddit.com/r/perth/comments/1ntxxc5/is_the_whole_town_flying_out/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/perth/comments/1ntxxc5/is_the_whole_town_flying_out/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: jetaviation.com  
-   Link: <a href="https://www.jetaviation.com/location/pearce/" target="_blank" rel="noopener noreferrer nofollow">https://www.jetaviation.com/location/pearce/</a>  
+   Link:<a href="https://www.jetaviation.com/location/pearce/" target="_blank" rel="noopener noreferrer nofollow">https://www.jetaviation.com/location/pearce/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/686605994817326/posts/3592745227536707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/686605994817326/posts/3592745227536707/</a>  
+   Link:<a href="https://www.facebook.com/groups/686605994817326/posts/3592745227536707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/686605994817326/posts/3592745227536707/</a>  

@@ -262,17 +262,17 @@ image: /assets/images/Australian_Capital_T_2949ba_kambah_video_sightin_640f76_ra
 
 ## Introduction
 
-The most important fact about the [Kambah video]({{ 'kambah-video/' | relative_url }}) is not necessarily what appears on the tape. It is that the Royal Australian Air Force (RAAF) considered the report significant enough to send an investigator, obtain a copy of the recording and conduct a formal witness interview. That happened in February 1990, at a time when Australia was nearing the end of decades of routine official handling of civilian UFO reports. The surviving public record is sparse, and no detailed RAAF assessment of the Kambah footage has surfaced publicly. Yet the reported visit itself still tells us a great deal about how unusual aerial sightings were processed in the final years of official Australian UFO investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nla.gov.au">[Trove+2Naval Historical Society of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nla.gov.au</span><span class="citation-popover-title">newspaper</span><span class="citation-popover-snippet">Trove20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
+The most important fact about the [Kambah video]({{ 'kambah-video/' | relative_url }}) is not necessarily what appears on the tape. It is that the Royal Australian Air Force (RAAF) considered the report significant enough to send an investigator, obtain a copy of the recording and conduct a formal witness interview. That happened in February 1990, at a time when Australia was nearing the end of decades of routine official handling of civilian UFO reports. The surviving public record is sparse, and no detailed RAAF assessment of the Kambah footage has surfaced publicly. Yet the reported visit itself still tells us a great deal about how unusual aerial sightings were processed in the final years of official Australian UFO investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nla.gov.au">[nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nla.gov.au</span><span class="citation-popover-title">newspaper</span><span class="citation-popover-snippet">Trove20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9-Illustration-1-dark.svg" | relative_url }}" alt="RAAF Tape illustration 1" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the history of [Australian Capital Territory]({{ 'australian-capital-territory/' | relative_url }}) UFO reports, the Kambah case occupies an unusual position. It was not one of the territory's strongest evidential cases, but it sits close to the point where the long-running system of military collection and assessment of civilian UFO reports was fading from public view. The RAAF copy of the tape therefore remains valuable as a historical document even though the public does not possess a detailed official conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nla.gov.au">[Trove+2Naval Historical Society of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nla.gov.au</span><span class="citation-popover-title">newspaper</span><span class="citation-popover-snippet">Trove20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
+Within the history of [Australian Capital Territory]({{ 'australian-capital-territory/' | relative_url }}) UFO reports, the Kambah case occupies an unusual position. It was not one of the territory's strongest evidential cases, but it sits close to the point where the long-running system of military collection and assessment of civilian UFO reports was fading from public view. The RAAF copy of the tape therefore remains valuable as a historical document even though the public does not possess a detailed official conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nla.gov.au">[nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nla.gov.au</span><span class="citation-popover-title">newspaper</span><span class="citation-popover-snippet">Trove20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9-Illustration-3-dark.svg" | relative_url }}" alt="RAAF Tape illustration 3" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_kambah_video_sightin_640f76_raaf_kambah_tape_cop_0794b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why did the RAAF take the tape?
 
-The clearest contemporary account appeared in The Canberra Times on 20 February 1990. According to the report, an RAAF investigator visited the Ivanisevic family on 19 February, took a copy of the video recording and asked a series of prepared questions. The investigator reportedly told the family he would make contact again once the investigation was complete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nla.gov.au</span><span class="citation-popover-title">newspaper</span><span class="citation-popover-snippet">Trove20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
+The clearest contemporary account appeared in The Canberra Times on 20 February 1990. According to the report, an RAAF investigator visited the Ivanisevic family on 19 February, took a copy of the video recording and asked a series of prepared questions. The investigator reportedly told the family he would make contact again once the investigation was complete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nla.gov.au</span><span class="citation-popover-title">newspaper</span><span class="citation-popover-snippet">Trove20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
 
 That brief newspaper paragraph reveals several important features of the process:
 
@@ -282,18 +282,18 @@ That brief newspaper paragraph reveals several important features of the process
 * The RAAF was still accepting and assessing civilian reports of unusual aerial phenomena.
 * Investigators used standardised questionnaires rather than relying solely on informal conversations.
 * Physical evidence, even when limited to a home video recording, was collected for later examination.
-* Witness testimony and recorded imagery were treated as separate pieces of evidence requiring comparison. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nla.gov.au</span><span class="citation-popover-title">newspaper</span><span class="citation-popover-snippet">Trove20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
+* Witness testimony and recorded imagery were treated as separate pieces of evidence requiring comparison.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nla.gov.au</span><span class="citation-popover-title">newspaper</span><span class="citation-popover-snippet">Trove20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
 
 </div>
 
-The visit does not prove that the RAAF believed the object was extraordinary. In fact, official Australian practice generally aimed first to determine whether a report could be explained through astronomy, aviation activity, atmospheric effects or other ordinary causes. However, the decision to obtain a copy of the tape suggests the report met the threshold for at least a basic review rather than being dismissed immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navyhistory.au">[Naval Historical Society of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navyhistory.au</span><span class="citation-popover-title">UFO sightings became common during the Cold War</span><span class="citation-popover-snippet">Naval Historical Society of AustraliaThe RAAF and the UFO&#x27;s: some of the story11 Jul 2021 — Wing Commander Paget discussed the RAAF&#x27;s inv...</span></span></span>
+The visit does not prove that the RAAF believed the object was extraordinary. In fact, official Australian practice generally aimed first to determine whether a report could be explained through astronomy, aviation activity, atmospheric effects or other ordinary causes. However, the decision to obtain a copy of the tape suggests the report met the threshold for at least a basic review rather than being dismissed immediately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navyhistory.au">[Naval Historical Society of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navyhistory.au</span><span class="citation-popover-title">UFO sightings became common during the Cold War</span><span class="citation-popover-snippet">Naval Historical Society of AustraliaThe RAAF and the UFO&#x27;s: some of the story11 Jul 2021 — Wing Commander Paget discussed the RAAF&#x27;s inv...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9VHkAyWGG3A" title="UFO file release May 2008 Part 2 (audio with slides)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9VHkAyWGG3A" target="_blank" rel="noopener noreferrer">UFO file release May 2008 Part 2 (audio with slides)</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 5.9K &middot; Uploaded: June 2008 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9VHkAyWGG3A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9VHkAyWGG3A">Open on YouTube</a></p></div></div></div>
 
 ## What the RAAF process suggests about late UFO reporting
 
-By 1990, the RAAF's role in UFO matters was very different from the more active decades of the 1950s, 1960s and 1970s. Earlier files show that Defence agencies maintained extensive collections of reports and circulated standard procedures for handling sightings. Researchers who examined the surviving records found that the RAAF maintained large UFO case files and employed structured reporting systems that included witness questionnaires and coordination with aviation and intelligence bodies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/A9755_22_3533575.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsAustralian GovernmentExamine the majority of the extant UFO files held by the Royal Australian Air. Force (RAAF)...</span></span></span>
+By 1990, the RAAF's role in UFO matters was very different from the more active decades of the 1950s, 1960s and 1970s. Earlier files show that Defence agencies maintained extensive collections of reports and circulated standard procedures for handling sightings. Researchers who examined the surviving records found that the RAAF maintained large UFO case files and employed structured reporting systems that included witness questionnaires and coordination with aviation and intelligence bodies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/A9755_22_3533575.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsAustralian GovernmentExamine the majority of the extant UFO files held by the Royal Australian Air. Force (RAAF)...</span></span></span>
 
 The Kambah investigation appears to belong to this final phase.
 
@@ -366,194 +366,194 @@ For historians of UFO reporting in the Australian Capital Territory, the key les
 Viewed in that light, the RAAF copy of the tape provides a snapshot of a disappearing era. It captures the moment when Australian authorities still routinely collected civilian UFO evidence, yet were already approaching the end of the period in which such reports formed a visible part of official activity. In the broader history of ACT UFO cases, that institutional context may ultimately be more significant than the unresolved image recorded on the tape itself. [Naval Historical Society of Australia+2The Black Vault Documents](https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why did the RAAF take the tape?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why did the RAAF take the tape?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers government, military and witness UFO cases, fitting a page about RAAF handling of a reported sighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers government, military and witness UFO cases, fitting a page about RAAF handling of a reported sighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official investigations and military testimony, closely matching discussion of RAAF procedures and evidence handling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official investigations and military testimony, closely matching discussion of RAAF procedures and evidence handling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Down+Under+by+Barry+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Down Under on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OP7-swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Down Under" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Down+Under+by+Barry+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Down Under">UFOs Down Under</a>
-        </h4>
-        <p class="fr-book-author">By Barry Watts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Down+Under+by+Barry+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Down Under on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OP7-swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Down Under" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Down+Under+by+Barry+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Down Under">UFOs Down Under</a>
+</h4>
+<p class="fr-book-author">By Barry Watts</p>
         
-        <p class="fr-book-desc">Directly addresses Australasian UFO reports and provides context for Australian cases such as Kambah.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Down+Under+by+Barry+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses Australasian UFO reports and provides context for Australian cases such as Kambah.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Down+Under+by+Barry+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Complete+Book+of+Ufos+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of Ufos on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+Ufos+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of Ufos">The Complete Book of Ufos</a>
-        </h4>
-        <p class="fr-book-author">By Jenny Randles, Peter Hough</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Complete+Book+of+Ufos+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of Ufos on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Book+of+Ufos+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of Ufos">The Complete Book of Ufos</a>
+</h4>
+<p class="fr-book-author">By Jenny Randles, Peter Hough</p>
         
-        <p class="fr-book-desc">Provides background on UFO investigations, reporting patterns and official responses that help contextualize the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+Ufos+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on UFO investigations, reporting patterns and official responses that help contextualize the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Book+of+Ufos+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Down+Under&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Down Under</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Down+Under&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Down Under</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF 77 Squadron F-35A Lightning II Hot Wings 3D PVC patch"><img src="https://i.ebayimg.com/images/g/ETEAAeSws9VqIvn8/s-l225.jpg" alt="Listing image for RAAF 77 Squadron F-35A Lightning II Hot Wings 3D PVC patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" target="_blank" rel="sponsored noopener noreferrer">RAAF 77 Squadron F-35A Lightning II Hot Wings 3D PVC patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="{{ '/assets/images/marketplace-covers/0c2eebb918fe7513f183.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF 1 Sqn F/A-18F Super Hornet Yellow Hot Wings F18 3D PVC Patch"><img src="https://i.ebayimg.com/images/g/-BMAAeSwZeRqBfEW/s-l225.jpg" alt="Listing image for RAAF 1 Sqn F/A-18F Super Hornet Yellow Hot Wings F18 3D PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" target="_blank" rel="sponsored noopener noreferrer">RAAF 1 Sqn F/A-18F Super Hornet Yellow Hot Wings F18 3D PVC Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF 1 Squadron F/A-18F Super Hornet Hot Wings 3D PVC patch"><img src="https://i.ebayimg.com/images/g/LSIAAeSwjOFqIvmy/s-l225.jpg" alt="Listing image for RAAF 1 Squadron F/A-18F Super Hornet Hot Wings 3D PVC patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" target="_blank" rel="sponsored noopener noreferrer">RAAF 1 Squadron F/A-18F Super Hornet Hot Wings 3D PVC patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="raaf-tape-why-did-the-raaf-take-the-tape-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Australian Air Force 75 Sqn F35A Lightning II Hot Wheels Wings RAAF 3D PVC Patch"><img src="https://i.ebayimg.com/images/g/DHIAAeSwZX9pt8YR/s-l225.jpg" alt="Listing image for Australian Air Force 75 Sqn F35A Lightning II Hot Wheels Wings RAAF 3D PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" target="_blank" rel="sponsored noopener noreferrer">Australian Air Force 75 Sqn F35A Lightning II Hot Wheels Wings RAAF 3D PVC Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-the-raaf-take-the-tape-raaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF patch" data-ebay-reference="why-did-the-raaf-take-the-tape-raaf-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ Viewed in that light, the RAAF copy of the tape provides a snapshot of a disappe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ Viewed in that light, the RAAF copy of the tape provides a snapshot of a disappe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ Viewed in that light, the RAAF copy of the tape provides a snapshot of a disappe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ Viewed in that light, the RAAF copy of the tape provides a snapshot of a disappe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ Viewed in that light, the RAAF copy of the tape provides a snapshot of a disappe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,91 +759,91 @@ Viewed in that light, the RAAF copy of the tape provides a snapshot of a disappe
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: navyhistory.au  
    Title: UFO sightings became common during the Cold War  
-   Link: <a href="https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/" target="_blank" rel="noopener noreferrer nofollow">https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Historical Society of AustraliaThe RAAF and the UFO&#x27;s: some of the story11 Jul 2021 — Wing Commander Paget discussed the RAAF&#x27;s inv...</p></details>
+   Link:<a href="https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/" target="_blank" rel="noopener noreferrer nofollow">https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Historical Society of AustraliaThe RAAF and the UFO&#x27;s: some of the story11 Jul 2021 — Wing Commander Paget discussed the RAAF&#x27;s inv...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A9755_22_3533575.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A9755_22_3533575.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsAustralian GovernmentExamine the majority of the extant UFO files held by the Royal Australian Air. Force (RAAF)...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/A9755_22_3533575.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A9755_22_3533575.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsAustralian GovernmentExamine the majority of the extant UFO files held by the Royal Australian Air. Force (RAAF)...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: webarchive.nationalarchives.gov.uk  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/video/UCMxYjfZsqLa8DanN0r2eNJw/QjZsA-BHIZs" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/video/UCMxYjfZsqLa8DanN0r2eNJw/QjZsA-BHIZs</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/video/UCMxYjfZsqLa8DanN0r2eNJw/QjZsA-BHIZs" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/video/UCMxYjfZsqLa8DanN0r2eNJw/QjZsA-BHIZs</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: play.history.com  
-   Link: <a href="https://play.history.com/shows/ufo-hunters/season-2/episode-26" target="_blank" rel="noopener noreferrer nofollow">https://play.history.com/shows/ufo-hunters/season-2/episode-26</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>history.com[https://play.history.com/shows/ufo-hunters/season-...No](https://play.history.com/shows/ufo-hunters/season-...No) information is available for this page...</p></details>
+   Link:<a href="https://play.history.com/shows/ufo-hunters/season-2/episode-26" target="_blank" rel="noopener noreferrer nofollow">https://play.history.com/shows/ufo-hunters/season-2/episode-26</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>history.com[https://play.history.com/shows/ufo-hunters/season-...No](https://play.history.com/shows/ufo-hunters/season-...No) information is available for this page...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraA confidential report detailing sightings of an unidentified flying object near Wewak, a nu...</p></details>
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraA confidential report detailing sightings of an unidentified flying object near Wewak, a nu...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What really happened in Calvine? The mystery behind...11 Feb 2025 — In August 1990, two hikers sent photos of a strange diamond-shaped a...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What really happened in Calvine? The mystery behind...11 Feb 2025 — In August 1990, two hikers sent photos of a strange diamond-shaped a...</p></details>
    Published: August 1990  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Australian UFO Files Missing "The Real X Files Destroyed?" "NEWS"  
-   Link: <a href="https://www.youtube.com/watch?v=E_bEfNzfaOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E_bEfNzfaOs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;National [Archives](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;) of Australia&quot; UFO files National Archives of Australia fire simulation National Archives of Australia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E_bEfNzfaOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E_bEfNzfaOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;National [Archives](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;) of Australia&quot; UFO files National Archives of Australia fire simulation National Archives of Australia...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRxuPzrjI9i/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRxuPzrjI9i/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>documents describing a 1982 incident where unknown aerial objects...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DRxuPzrjI9i/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRxuPzrjI9i/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>documents describing a 1982 incident where unknown aerial objects...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cbcgem/videos/ufo-town-are-we-alone-in-the-universe/477705216831932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cbcgem/videos/ufo-town-are-we-alone-in-the-universe/477705216831932/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to circulate after a VHS recording was shared anonymously...</p></details>
+   Link:<a href="https://www.facebook.com/cbcgem/videos/ufo-town-are-we-alone-in-the-universe/477705216831932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cbcgem/videos/ufo-town-are-we-alone-in-the-universe/477705216831932/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to circulate after a VHS recording was shared anonymously...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: canberratimes.com.au  
    Title: ufo sightings and our own x files  
-   Link: <a href="https://www.canberratimes.com.au/story/7148844/ufo-sightings-and-our-own-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/story/7148844/ufo-sightings-and-our-own-x-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings and our own X-files6 Mar 2021 — Fuelled by the space race, UFO sightings in Australia peaked between the 1950s and 1970s an...</p></details>
+   Link:<a href="https://www.canberratimes.com.au/story/7148844/ufo-sightings-and-our-own-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/story/7148844/ufo-sightings-and-our-own-x-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings and our own X-files6 Mar 2021 — Fuelled by the space race, UFO sightings in Australia peaked between the 1950s and 1970s an...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: UF O sighting from plane  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15bs89m/ufo_sighting_from_plane_canberra_australia_april/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15bs89m/ufo_sighting_from_plane_canberra_australia_april/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting from plane - Canberra, Australia April 04, 2012...A UFO was filmed from a plane flying over Canberra, Australia on April 4...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15bs89m/ufo_sighting_from_plane_canberra_australia_april/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15bs89m/ufo_sighting_from_plane_canberra_australia_april/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting from plane - Canberra, Australia April 04, 2012...A UFO was filmed from a plane flying over Canberra, Australia on April 4...</p></details>
    Published: April 4, 2012  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/Rrou1Yl-hao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/Rrou1Yl-hao</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ivilian wanted to get eyes on those files to see what was in them...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/Rrou1Yl-hao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/Rrou1Yl-hao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ivilian wanted to get eyes on those files to see what was in them...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9VHkAyWGG3A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9VHkAyWGG3A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian UFO Files Missing &quot;The Real X Files Destroyed?&quot; &quot;NEWS&quot; - JUN, 2011...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9VHkAyWGG3A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9VHkAyWGG3A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian UFO Files Missing &quot;The Real X Files Destroyed?&quot; &quot;NEWS&quot; - JUN, 2011...</p></details>
    Published: May 2008  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: canberratimes.com.au  
-   Link: <a href="https://www.canberratimes.com.au/video/breaking/x8l9aki/mystery-ufo-spotted-above-nt/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/video/breaking/x8l9aki/mystery-ufo-spotted-above-nt/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 25, 2023...</p></details>
+   Link:<a href="https://www.canberratimes.com.au/video/breaking/x8l9aki/mystery-ufo-spotted-above-nt/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/video/breaking/x8l9aki/mystery-ufo-spotted-above-nt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 25, 2023...</p></details>
    Published: May 25, 2023  

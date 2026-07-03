@@ -256,7 +256,7 @@ image: /assets/images/New_South_Wales_f92f26_modern_checks_1086a1_sydney_webtrak
 
 ## Introduction
 
-A surprising number of Sydney UFO reports can be tested against a tool that was never designed for UFO research at all: WebTrak, the aircraft noise and flight-path monitoring system used around major Australian airports. For sightings reported in metropolitan Sydney, checking aircraft movements is often one of the quickest ways to determine whether an unusual light was actually a routine arrival, departure or aircraft holding pattern. The result is not that every mystery disappears. Rather, it provides an evidence-based reality check in a city that sits beneath one of the busiest and most complex airspaces in Australia. For modern [New South Wales]({{ 'what-makes-new-south-wales-ufo-reports/' | relative_url }}) UFO investigations, flight-path data is frequently the first test a sighting must pass before it can be considered genuinely unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices+2Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">AirservicesWebTrak - AirservicesAircraft noise data is also displayed, collected daily from noise monitors strategically located around c...</span></span></span>
+A surprising number of Sydney UFO reports can be tested against a tool that was never designed for UFO research at all: WebTrak, the aircraft noise and flight-path monitoring system used around major Australian airports. For sightings reported in metropolitan Sydney, checking aircraft movements is often one of the quickest ways to determine whether an unusual light was actually a routine arrival, departure or aircraft holding pattern. The result is not that every mystery disappears. Rather, it provides an evidence-based reality check in a city that sits beneath one of the busiest and most complex airspaces in Australia. For modern [New South Wales]({{ 'what-makes-new-south-wales-ufo-reports/' | relative_url }}) UFO investigations, flight-path data is frequently the first test a sighting must pass before it can be considered genuinely unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">AirservicesWebTrak - AirservicesAircraft noise data is also displayed, collected daily from noise monitors strategically located around c...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_sydney_webtrak_ufo_c_d9fc80-Illustration-1-dark.svg" | relative_url }}" alt="Web Trak Checks illustration 1" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_sydney_webtrak_ufo_c_d9fc80-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_sydney_webtrak_ufo_c_d9fc80-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -266,13 +266,13 @@ Sydney generates many reports of bright [lights]({{ 'lights/' | relative_url }})
 
 This matters because aircraft can look very different from what observers expect. A jet approaching directly towards an observer may appear almost stationary for several minutes. Landing lights can make an aircraft seem far brighter than nearby stars. A gradual turn can create the impression of sudden acceleration or a change in direction. At night, judging distance is especially difficult, making ordinary aircraft appear much closer, slower or larger than they really are.
 
-In older UFO cases, investigators often had only witness recollections to work with. Today, many Sydney sightings can be compared against recorded aircraft movements from the same time period. If an object's position, direction and timing match a documented flight path, the sighting usually becomes much less mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-flight-disturbed-me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-title">Aircraft Noise What flight disturbed me</span><span class="citation-popover-snippet">WebTrak is provided by Envirosuite. WebTrak...</span></span></span>
+In older UFO cases, investigators often had only witness recollections to work with. Today, many Sydney sightings can be compared against recorded aircraft movements from the same time period. If an object's position, direction and timing match a documented flight path, the sighting usually becomes much less mysterious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-flight-disturbed-me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-title">Aircraft Noise What flight disturbed me</span><span class="citation-popover-snippet">WebTrak is provided by Envirosuite. WebTrak...</span></span></span>
 
 ## How WebTrak Records Aircraft Movements
 
-WebTrak is operated through Airservices Australia and displays aircraft movements around major airports. The system uses air traffic surveillance data to show aircraft tracks and can also display information such as altitude, aircraft type, origin, destination and recorded noise events. Historical flight information can be reviewed after the fact, allowing investigators to compare a witness report with actual air traffic at a specific time and location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices+2Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">AirservicesWebTrak - AirservicesAircraft noise data is also displayed, collected daily from noise monitors strategically located around c...</span></span></span>
+WebTrak is operated through Airservices Australia and displays aircraft movements around major airports. The system uses air traffic surveillance data to show aircraft tracks and can also display information such as altitude, aircraft type, origin, destination and recorded noise events. Historical flight information can be reviewed after the fact, allowing investigators to compare a witness report with actual air traffic at a specific time and location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[airservicesaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">AirservicesWebTrak - AirservicesAircraft noise data is also displayed, collected daily from noise monitors strategically located around c...</span></span></span>
 
-For Sydney, WebTrak covers aircraft movements within roughly 100 kilometres of the airport and up to 30,000 feet altitude. It also incorporates data from noise-monitoring stations positioned around communities affected by airport operations. The broader monitoring network operates continuously and records aircraft movement data throughout the week. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices+2Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">AirservicesWebTrak - AirservicesAircraft noise data is also displayed, collected daily from noise monitors strategically located around c...</span></span></span>
+For Sydney, WebTrak covers aircraft movements within roughly 100 kilometres of the airport and up to 30,000 feet altitude. It also incorporates data from noise-monitoring stations positioned around communities affected by airport operations. The broader monitoring network operates continuously and records aircraft movement data throughout the week.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">AirservicesWebTrak - AirservicesAircraft noise data is also displayed, collected daily from noise monitors strategically located around c...</span></span></span>
 
 For UFO checking, the practical value is straightforward:
 
@@ -293,7 +293,7 @@ If a corresponding aircraft appears in the same part of the sky at the same time
 
 ## Matching Witness Reports to Flight Paths
 
-Many Sydney sightings occur beneath well-established approach and departure corridors. Aircraft arriving from the north, west, south-west and offshore routes are routinely sequenced into landing patterns before reaching the airport. Depending on weather and traffic conditions, controllers may also vector aircraft away from their usual routes, creating tracks that appear unusual to observers unfamiliar with local aviation procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-snippet">WebTrak My Neighbourhood (left) is an extension of WebTrak that presents historical information about aircraft noise...Read more...</span></span></span>
+Many Sydney sightings occur beneath well-established approach and departure corridors. Aircraft arriving from the north, west, south-west and offshore routes are routinely sequenced into landing patterns before reaching the airport. Depending on weather and traffic conditions, controllers may also vector aircraft away from their usual routes, creating tracks that appear unusual to observers unfamiliar with local aviation procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-snippet">WebTrak My Neighbourhood (left) is an extension of WebTrak that presents historical information about aircraft noise...Read more...</span></span></span>
 
 A typical UFO-style report might describe:
 
@@ -307,7 +307,7 @@ A typical UFO-style report might describe:
 
 </div>
 
-All of these descriptions can potentially match ordinary aircraft behaviour. Aircraft approaching head-on often appear stationary. Aircraft following coastal arrival routes can seem to travel parallel to the shoreline. Stacked arrivals waiting for landing clearance can create the impression of multiple objects holding position. A change in heading may look dramatic when viewed against a dark sky with few reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-snippet">WebTrak My Neighbourhood (left) is an extension of WebTrak that presents historical information about aircraft noise...Read more...</span></span></span>
+All of these descriptions can potentially match ordinary aircraft behaviour. Aircraft approaching head-on often appear stationary. Aircraft following coastal arrival routes can seem to travel parallel to the shoreline. Stacked arrivals waiting for landing clearance can create the impression of multiple objects holding position. A change in heading may look dramatic when viewed against a dark sky with few reference points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-snippet">WebTrak My Neighbourhood (left) is an extension of WebTrak that presents historical information about aircraft noise...Read more...</span></span></span>
 
 This does not prove every report is an aircraft. It does mean that any modern Sydney UFO claim should ideally be checked against recorded flight activity before more exotic explanations are considered.
 
@@ -317,7 +317,7 @@ This does not prove every report is an aircraft. It does mean that any modern Sy
 
 The usefulness of WebTrak is partly a consequence of Sydney's geography and aviation activity.
 
-Sydney Airport handles millions of passenger movements annually and operates within a complicated airspace system serving domestic, international, freight, emergency and other aviation traffic. Aircraft approach from multiple directions and frequently cross over densely populated suburbs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Connecting people with their world safely</span><span class="citation-popover-snippet">AirservicesConnecting people with their world safely - AirservicesWe provide a range of world-class services that allow safe and equitabl...</span></span></span>
+Sydney Airport handles millions of passenger movements annually and operates within a complicated airspace system serving domestic, international, freight, emergency and other aviation traffic. Aircraft approach from multiple directions and frequently cross over densely populated suburbs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Connecting people with their world safely</span><span class="citation-popover-snippet">AirservicesConnecting people with their world safely - AirservicesWe provide a range of world-class services that allow safe and equitabl...</span></span></span>
 
 Several factors increase the likelihood of misidentification:
 
@@ -325,9 +325,9 @@ Several factors increase the likelihood of misidentification:
 
 **Water and coastal perspectives.** Observers looking across Sydney Harbour or the Pacific Ocean often lose normal visual reference points, making speed and distance harder to judge.
 
-**Changing runway operations.** Flight paths vary depending on runway configuration, weather and traffic requirements. Residents may see aircraft in unfamiliar locations on some nights but not others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-snippet">WebTrak My Neighbourhood (left) is an extension of WebTrak that presents historical information about aircraft noise...Read more...</span></span></span>
+**Changing runway operations.** Flight paths vary depending on runway configuration, weather and traffic requirements. Residents may see aircraft in unfamiliar locations on some nights but not others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-snippet">WebTrak My Neighbourhood (left) is an extension of WebTrak that presents historical information about aircraft noise...Read more...</span></span></span>
 
-**Aircraft vectoring.** Air traffic controllers sometimes direct aircraft away from standard tracks to maintain safe separation, creating movements that may look unusual to casual observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-snippet">WebTrak My Neighbourhood (left) is an extension of WebTrak that presents historical information about aircraft noise...Read more...</span></span></span>
+**Aircraft vectoring.** Air traffic controllers sometimes direct aircraft away from standard tracks to maintain safe separation, creating movements that may look unusual to casual observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-snippet">WebTrak My Neighbourhood (left) is an extension of WebTrak that presents historical information about aircraft noise...Read more...</span></span></span>
 
 These conditions help explain why sincere witnesses can report extraordinary-looking objects that later turn out to be conventional aircraft.
 
@@ -342,7 +342,7 @@ One of the most common is underestimating distance. A commercial jet several kil
 
 Another frequent mistake involves apparent speed. An aircraft travelling directly towards an observer can seem nearly motionless because its movement across the field of view is minimal. When it eventually turns, its motion suddenly becomes obvious, creating the impression of rapid acceleration.
 
-Direction can also be misleading. Witnesses often report that an object was moving north, south, east or west when it was actually approaching or receding along a different axis. Comparing the observation with recorded [flight tracks]({{ 'flight-tracks/' | relative_url }}) can quickly expose these misunderstandings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-flight-disturbed-me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-title">Aircraft Noise What flight disturbed me</span><span class="citation-popover-snippet">WebTrak is provided by Envirosuite. WebTrak...</span></span></span>
+Direction can also be misleading. Witnesses often report that an object was moving north, south, east or west when it was actually approaching or receding along a different axis. Comparing the observation with recorded [flight tracks]({{ 'flight-tracks/' | relative_url }}) can quickly expose these misunderstandings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/category/what-flight-disturbed-me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-title">Aircraft Noise What flight disturbed me</span><span class="citation-popover-snippet">WebTrak is provided by Envirosuite. WebTrak...</span></span></span>
 
 Timing errors create further problems. A witness may report a sighting at 9.00 pm when it actually occurred closer to 8.50 pm or 9.10 pm. In a busy Sydney airspace, a ten-minute discrepancy can lead investigators to miss the relevant aircraft entirely.
 
@@ -379,197 +379,197 @@ Within the broader effort to evaluate modern UFO reports in New South Wales, Syd
 
 Many reports will find an ordinary answer. Some will remain uncertain because the available information is incomplete. A smaller number may survive initial aviation checks and justify deeper examination using satellite data, astronomical records or additional witness evidence.
 
-That is the real value of WebTrak. It does not prove that unidentified aerial phenomena are impossible. Instead, it helps separate genuinely unexplained observations from the vast background of routine aircraft activity that fills Sydney's skies every day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices+2Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">AirservicesWebTrak - AirservicesAircraft noise data is also displayed, collected daily from noise monitors strategically located around c...</span></span></span>
+That is the real value of WebTrak. It does not prove that unidentified aerial phenomena are impossible. Instead, it helps separate genuinely unexplained observations from the vast background of routine aircraft activity that fills Sydney's skies every day.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[airservicesaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">AirservicesWebTrak - AirservicesAircraft noise data is also displayed, collected daily from noise monitors strategically located around c...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was That UFO Just Following a Sydney Flight Path?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was That UFO Just Following a Sydney Flight Path?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows structured approaches to assessing sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows structured approaches to assessing sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages evidence-based evaluation of unusual claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Encourages evidence-based evaluation of unusual claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
-        </h4>
-        <p class="fr-book-author">By Ernest K Gann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
+</h4>
+<p class="fr-book-author">By Ernest K Gann</p>
         
-        <p class="fr-book-desc">Builds familiarity with real-world aviation operations and perceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds familiarity with real-world aviation operations and perceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Helps readers understand how aircraft appear and behave from the ground.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how aircraft appear and behave from the ground.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting"><img src="{{ '/assets/images/marketplace-covers/b962bd3da6424d670f7d.jpg' | relative_url }}" alt="Listing image for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting"><img src="{{ '/assets/images/marketplace-covers/b962bd3da6424d670f7d.jpg' | relative_url }}" alt="Listing image for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="web-trak-checks-was-that-ufo-just-following-a-sydney-flight-path-new-south-wales-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ That is the real value of WebTrak. It does not prove that unidentified aerial ph
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ That is the real value of WebTrak. It does not prove that unidentified aerial ph
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ That is the real value of WebTrak. It does not prove that unidentified aerial ph
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ That is the real value of WebTrak. It does not prove that unidentified aerial ph
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ That is the real value of WebTrak. It does not prove that unidentified aerial ph
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,190 +775,190 @@ That is the real value of WebTrak. It does not prove that unidentified aerial ph
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: airservicesaustralia.com  
    Title: Airservices Web Trak  
-   Link: <a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesWebTrak - AirservicesAircraft noise data is also displayed, collected daily from noise monitors strategically located around c...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesWebTrak - AirservicesAircraft noise data is also displayed, collected daily from noise monitors strategically located around c...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring aircraft noiseShort-term noise monitors can be deployed for a limited period of time, typically three months. Access our noise...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring aircraft noiseShort-term noise monitors can be deployed for a limited period of time, typically three months. Access our noise...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: infrastructure.gov.au  
    Title: aircraft noise  
-   Link: <a href="https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of InfrastructureAircraft noiseby phone on 1800 802 584 (freecall); or; via the Airservices Australia website. Flight activity...</p></details>
+   Link:<a href="https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of InfrastructureAircraft noiseby phone on 1800 802 584 (freecall); or; via the Airservices Australia website. Flight activity...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aircraftnoise.airservicesaustralia.com  
    Title: Aircraft Noise What flight disturbed me  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/what-flight-disturbed-me/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-flight-disturbed-me/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WebTrak is provided by Envirosuite. WebTrak...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/what-flight-disturbed-me/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-flight-disturbed-me/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WebTrak is provided by Envirosuite. WebTrak...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aviationcomplaints.gov.au  
    Title: Aviation Complaints Aircraft noise Visit Webtrak  
-   Link: <a href="https://www.aviationcomplaints.gov.au/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationcomplaints.gov.au/aircraft-noise</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft noiseIf you have a complaint or enquiry about noise from aircraft, visit Airservices&#x27; Noise Complaints and Information Service (...</p></details>
+   Link:<a href="https://www.aviationcomplaints.gov.au/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationcomplaints.gov.au/aircraft-noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft noiseIf you have a complaint or enquiry about noise from aircraft, visit Airservices&#x27; Noise Complaints and Information Service (...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/noise-monitor-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/noise-monitor-reporting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise monitor reportingThe noise monitor information we provide includes aircraft noise events and data showing the background and commun...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/noise-monitor-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/noise-monitor-reporting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noise monitor reportingThe noise monitor information we provide includes aircraft noise events and data showing the background and commun...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aircraftnoise.airservicesaustralia.com  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WebTrak My Neighbourhood (left) is an extension of WebTrak that presents historical information about aircraft noise...Read more...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WebTrak My Neighbourhood (left) is an extension of WebTrak that presents historical information about aircraft noise...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aircraftnoise.airservicesaustralia.com  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/5/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This spread is deliberate as it is part of the noise sharing strategy set out in the...Read more...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This spread is deliberate as it is part of the noise sharing strategy set out in the...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: airservicesaustralia.com  
    Title: Airservices Connecting people with their world safely  
-   Link: <a href="https://www.airservicesaustralia.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesConnecting people with their world safely - AirservicesWe provide a range of world-class services that allow safe and equitabl...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesConnecting people with their world safely - AirservicesWe provide a range of world-class services that allow safe and equitabl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aircraftnoise.airservicesaustralia.com  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/6/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseWhat are the flight paths in my area – Page 6Sydney Airport flight paths over the Sutherland Shire North flow. Learn more a...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/6/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseWhat are the flight paths in my area – Page 6Sydney Airport flight paths over the Sutherland Shire North flow. Learn more a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sydneyairport.com.au  
-   Link: <a href="https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft noiseVisit the Airservices Australia website for useful tools including information on flight paths, movements, runways, aircraf...</p></details>
+   Link:<a href="https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft noiseVisit the Airservices Australia website for useful tools including information on flight paths, movements, runways, aircraf...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: directory.gov.au  
    Title: airservices australia  
-   Link: <a href="https://www.directory.gov.au/portfolios/infrastructure-transport-regional-development-communications-sport-arts/airservices-australia" target="_blank" rel="noopener noreferrer nofollow">https://www.directory.gov.au/portfolios/infrastructure-transport-regional-development-communications-sport-arts/airservices-australia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Mar 2026 — Airservices is a government-owned statutory authority providing safe, secure, efficient and environmentally responsible ser...</p></details>
+   Link:<a href="https://www.directory.gov.au/portfolios/infrastructure-transport-regional-development-communications-sport-arts/airservices-australia" target="_blank" rel="noopener noreferrer nofollow">https://www.directory.gov.au/portfolios/infrastructure-transport-regional-development-communications-sport-arts/airservices-australia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Mar 2026 — Airservices is a government-owned statutory authority providing safe, secure, efficient and environmentally responsible ser...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/about-making-a-complaint/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/about-making-a-complaint/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Making a complaintOur Noise Complaints and Information Service (NCIS) is available to answer your questions about aircraft operations and...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/about-making-a-complaint/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/about-making-a-complaint/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Making a complaintOur Noise Complaints and Information Service (NCIS) is available to answer your questions about aircraft operations and...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft noiseWe manage complaints and enquiries about aircraft noise and operations through our Noise Complaints and Information Service...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft noiseWe manage complaints and enquiries about aircraft noise and operations through our Noise Complaints and Information Service...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aircraftnoise.airservicesaustralia.com  
    Title: commcy – What flight disturbed me  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/mcy-what-flight-disturbed-me/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/mcy-what-flight-disturbed-me/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You can view WebTrak for...</p></details>
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/mcy-what-flight-disturbed-me/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/mcy-what-flight-disturbed-me/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You can view WebTrak for...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: au.linkedin.com  
    Title: airservices australia  
-   Link: <a href="https://au.linkedin.com/company/airservices-australia" target="_blank" rel="noopener noreferrer nofollow">https://au.linkedin.com/company/airservices-australia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>straliaWe are Australia&#x27;s air navigation service provider, connecting people to their world safely. We provide air traffic control, avi...</p></details>
+   Link:<a href="https://au.linkedin.com/company/airservices-australia" target="_blank" rel="noopener noreferrer nofollow">https://au.linkedin.com/company/airservices-australia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>straliaWe are Australia&#x27;s air navigation service provider, connecting people to their world safely. We provide air traffic control, avi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Airservices Australia  
-   Link: <a href="https://en.wikipedia.org/wiki/Airservices_Australia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Airservices_Australia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airservices AustraliaAirservices Australia is an Australian Government-owned corporation, responsible for providing services to the av...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Airservices_Australia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Airservices_Australia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airservices AustraliaAirservices Australia is an Australian Government-owned corporation, responsible for providing services to the av...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: atc-network.com  
-   Link: <a href="https://www.atc-network.com/atc-organisations/airservices-australia" target="_blank" rel="noopener noreferrer nofollow">https://www.atc-network.com/atc-organisations/airservices-australia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airservices AustraliaAirservices Australia is Australia&#x27;s air navigation service provider. We exist to provide safe, secure, efficient, a...</p></details>
+   Link:<a href="https://www.atc-network.com/atc-organisations/airservices-australia" target="_blank" rel="noopener noreferrer nofollow">https://www.atc-network.com/atc-organisations/airservices-australia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airservices AustraliaAirservices Australia is Australia&#x27;s air navigation service provider. We exist to provide safe, secure, efficient, a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: au.webtrak.aero  
    Title: aero Sydney  
-   Link: <a href="https://au.webtrak.aero/syd3" target="_blank" rel="noopener noreferrer nofollow">https://au.webtrak.aero/syd3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WebTrak is a community-facing platform for reviewing airport operations (flight tracks) and noise. Investigate and review real-tim...</p></details>
+   Link:<a href="https://au.webtrak.aero/syd3" target="_blank" rel="noopener noreferrer nofollow">https://au.webtrak.aero/syd3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WebTrak is a community-facing platform for reviewing airport operations (flight tracks) and noise. Investigate and review real-tim...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: westernsydneyairport.gov.au  
    Title: Flight paths  
-   Link: <a href="https://www.westernsydneyairport.gov.au/flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.westernsydneyairport.gov.au/flight-paths</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Western Sydney AirportThe Overflight Aircraft Noise Tool, an online interactive map that will display the preliminary flight paths and th...</p></details>
+   Link:<a href="https://www.westernsydneyairport.gov.au/flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.westernsydneyairport.gov.au/flight-paths</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Western Sydney AirportThe Overflight Aircraft Noise Tool, an online interactive map that will display the preliminary flight paths and th...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AirservicesAus/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirservicesAus/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e. Their expertise, professionalism and unwavering...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/AirservicesAus/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirservicesAus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e. Their expertise, professionalism and unwavering...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/user/airservicestv" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/airservicestv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airservices AustraliaAustralia&#x27;s air navigation service provider -- we provide air traffic control, aviation rescue and fire fighting and...</p></details>
+   Link:<a href="https://www.youtube.com/user/airservicestv" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/airservicestv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airservices AustraliaAustralia&#x27;s air navigation service provider -- we provide air traffic control, aviation rescue and fire fighting and...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Professor Garry Nolan & Ross Coulthart: Full interview | UFO UAP News  
-   Link: <a href="https://www.youtube.com/watch?v=frFdDCwq9as" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=frFdDCwq9as</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airservices Australia digital aerodrome service (Western Sydney International Airport)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=frFdDCwq9as" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=frFdDCwq9as</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airservices Australia digital aerodrome service (Western Sydney International Airport)...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Spxk6Yk8EgA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Spxk6Yk8EgA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>60 MINS of Plane Watching ✈️ Sydney Airport...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Spxk6Yk8EgA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Spxk6Yk8EgA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>60 MINS of Plane Watching ✈️ Sydney Airport...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sydneyairport.com.au  
-   Link: <a href="https://www.sydneyairport.com.au/corporate/sustainability/environment/managing-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.sydneyairport.com.au/corporate/sustainability/environment/managing-noise</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Managing noiseWe&#x27;re committed to reducing the impact of aircraft noise. We work closely with the community, aviation industry, and the Au...</p></details>
+   Link:<a href="https://www.sydneyairport.com.au/corporate/sustainability/environment/managing-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.sydneyairport.com.au/corporate/sustainability/environment/managing-noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Managing noiseWe&#x27;re committed to reducing the impact of aircraft noise. We work closely with the community, aviation industry, and the Au...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hawkesburygazette.com  
-   Link: <a href="https://www.hawkesburygazette.com/noise-monitoring-data-raises-new-questions-as-western-sydney-airport-nears-opening/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawkesburygazette.com/noise-monitoring-data-raises-new-questions-as-western-sydney-airport-nears-opening/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise Monitoring Data Raises New Questions as Western...29 Apr 2026 — Residents can also access real-time data through an online trackin...</p></details>
+   Link:<a href="https://www.hawkesburygazette.com/noise-monitoring-data-raises-new-questions-as-western-sydney-airport-nears-opening/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawkesburygazette.com/noise-monitoring-data-raises-new-questions-as-western-sydney-airport-nears-opening/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noise Monitoring Data Raises New Questions as Western...29 Apr 2026 — Residents can also access real-time data through an online trackin...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=G8E5sDMzRG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G8E5sDMzRG4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Package 3: Flight path optionsThe Noise Action Plan for Brisbane is Airservices Australia&#x27;s plan to reduce the impact of aircraft noise o...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G8E5sDMzRG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G8E5sDMzRG4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Package 3: Flight path optionsThe Noise Action Plan for Brisbane is Airservices Australia&#x27;s plan to reduce the impact of aircraft noise o...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: sacf.infrastructure.gov.au  
-   Link: <a href="https://sacf.infrastructure.gov.au/sites/default/files/documents/guide-to-navigating-sydney-airport-operational-statistics-noise-information_may_2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sacf.infrastructure.gov.au/sites/default/files/documents/guide-to-navigating-sydney-airport-operational-statistics-noise-information_may_2021.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>monitor and flight tracking - accessed thro...</p></details>
+   Link:<a href="https://sacf.infrastructure.gov.au/sites/default/files/documents/guide-to-navigating-sydney-airport-operational-statistics-noise-information_may_2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sacf.infrastructure.gov.au/sites/default/files/documents/guide-to-navigating-sydney-airport-operational-statistics-noise-information_may_2021.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>monitor and flight tracking - accessed thro...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/sydney/comments/ud0zse/to_anyone_who_lives_or_has_lived_in_the_inner/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/sydney/comments/ud0zse/to_anyone_who_lives_or_has_lived_in_the_inner/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>onsidering buying a home in that area, but the flight paths are basically...</p></details>
+   Link:<a href="https://www.reddit.com/r/sydney/comments/ud0zse/to_anyone_who_lives_or_has_lived_in_the_inner/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/sydney/comments/ud0zse/to_anyone_who_lives_or_has_lived_in_the_inner/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>onsidering buying a home in that area, but the flight paths are basically...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: minister.infrastructure.gov.au  
    Title: new flight paths sydney take effect 9 july  
-   Link: <a href="https://minister.infrastructure.gov.au/c-king/media-release/new-flight-paths-sydney-take-effect-9-july" target="_blank" rel="noopener noreferrer nofollow">https://minister.infrastructure.gov.au/c-king/media-release/new-flight-paths-sydney-take-effect-9-july</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flight paths for Sydney to take effect from 9 July23 Apr 2026 — Western Sydney residents are also now able to access a live noise monitor...</p></details>
+   Link:<a href="https://minister.infrastructure.gov.au/c-king/media-release/new-flight-paths-sydney-take-effect-9-july" target="_blank" rel="noopener noreferrer nofollow">https://minister.infrastructure.gov.au/c-king/media-release/new-flight-paths-sydney-take-effect-9-july</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flight paths for Sydney to take effect from 9 July23 Apr 2026 — Western Sydney residents are also now able to access a live noise monitor...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: bne.com.au  
    Title: enquiries about flight paths aircraft  
-   Link: <a href="https://www.bne.com.au/corporate/community-and-environment/runway-operations-noise/enquiries-about-flight-paths-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.bne.com.au/corporate/community-and-environment/runway-operations-noise/enquiries-about-flight-paths-aircraft</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enquiries about Flight Paths &amp; Aircraft Noise in BrisbaneMar 24, 2026 — Airservices Australia manages complaints and enquiries about airc...</p></details>
+   Link:<a href="https://www.bne.com.au/corporate/community-and-environment/runway-operations-noise/enquiries-about-flight-paths-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.bne.com.au/corporate/community-and-environment/runway-operations-noise/enquiries-about-flight-paths-aircraft</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enquiries about Flight Paths &amp; Aircraft Noise in BrisbaneMar 24, 2026 — Airservices Australia manages complaints and enquiries about airc...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HhpXcTdpYas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HhpXcTdpYas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rbs get the plane noise. Why does the agency meant to protect...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HhpXcTdpYas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HhpXcTdpYas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rbs get the plane noise. Why does the agency meant to protect...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: WS I Noise Experience Video  
-   Link: <a href="https://www.youtube.com/watch?v=Y_mwaepaRk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y_mwaepaRk4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WSI Noise Experience Video - Main Street ScenarioWSI Noise Experience Video - Main Street Scenario. 838 views · 1 month ago...more. Airs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y_mwaepaRk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y_mwaepaRk4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WSI Noise Experience Video - Main Street ScenarioWSI Noise Experience Video - Main Street Scenario. 838 views · 1 month ago...more. Airs...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Reality Check: UAP skepticism & paranormal experiences | Backscroll  
-   Link: <a href="https://www.youtube.com/watch?v=Zwga9ghTnHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zwga9ghTnHg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Garry Nolan &amp; Ross Coulthart: Full interview | UFO UAP News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Zwga9ghTnHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zwga9ghTnHg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Garry Nolan &amp; Ross Coulthart: Full interview | UFO UAP News...</p></details>

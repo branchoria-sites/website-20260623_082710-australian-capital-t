@@ -256,7 +256,7 @@ image: /assets/images/Queensland_95a7a7_north_queensland_fla_724568_mount_garnet
 
 ## Introduction
 
-The Mount Garnet sighting is one of the more intriguing but also more limited cases from [North Queensland]({{ 'northern-flap/' | relative_url }})’s 1961 UFO flap. Unlike the better-known [Millaa Millaa]({{ 'millaa-millaa/' | relative_url }}) observation, which involved multiple witnesses and prolonged viewing through binoculars, the Mount Garnet report rested mainly on the testimony of a single witness: a 63-year-old truck driver named Mr Jones. What gives the case lasting interest is not the amount of evidence—there is very little—but the reaction of the local police officer who took the report. After interviewing Jones, the officer explicitly stated that he regarded him as a truthful, level-headed man and had no doubt that he had seen “something”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
+The Mount Garnet sighting is one of the more intriguing but also more limited cases from [North Queensland]({{ 'northern-flap/' | relative_url }})’s 1961 UFO flap. Unlike the better-known [Millaa Millaa]({{ 'millaa-millaa/' | relative_url }}) observation, which involved multiple witnesses and prolonged viewing through binoculars, the Mount Garnet report rested mainly on the testimony of a single witness: a 63-year-old truck driver named Mr Jones. What gives the case lasting interest is not the amount of evidence—there is very little—but the reaction of the local police officer who took the report. After interviewing Jones, the officer explicitly stated that he regarded him as a truthful, level-headed man and had no doubt that he had seen “something”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_north_queensland_fla_724568_mount_garnet_fast_ob_2848de-Illustration-1-dark.svg" | relative_url }}" alt="Mount Garnet illustration 1" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_north_queensland_fla_724568_mount_garnet_fast_ob_2848de-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_north_queensland_fla_724568_mount_garnet_fast_ob_2848de-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,9 +264,9 @@ That endorsement has helped keep the case alive in discussions of [Queensland]({
 
 ## The eight-second sighting police took seriously
 
-The report was made only days after the Millaa Millaa observation that had already attracted attention in the Atherton Tablelands region. According to police correspondence, Jones told authorities that at about 6.30 pm on 10 June 1961 he saw an unidentified object pass almost directly over his house at Mount Garnet. He estimated its height at roughly 600 feet (around 200 metres), although such estimates are notoriously difficult for aerial objects viewed without reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
+The report was made only days after the Millaa Millaa observation that had already attracted attention in the Atherton Tablelands region. According to police correspondence, Jones told authorities that at about 6.30 pm on 10 June 1961 he saw an unidentified object pass almost directly over his house at Mount Garnet. He estimated its height at roughly 600 feet (around 200 metres), although such estimates are notoriously difficult for aerial objects viewed without reference points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
 
-Jones said the object remained visible for only eight or nine seconds. During that brief interval it travelled from the south-west towards the north-east at what he described as exceptional speed while making no audible sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
+Jones said the object remained visible for only eight or nine seconds. During that brief interval it travelled from the south-west towards the north-east at what he described as exceptional speed while making no audible sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
 
 His description was unusually detailed for such a short observation. He supplied police with a sketch and described:
 
@@ -278,13 +278,13 @@ His description was unusually detailed for such a short observation. He supplied
 * Light-coloured stripes on the underside.
 * A dark trailing tail resembling smoke or vapour.
 * A forward-tilted attitude in flight.
-* No audible engine noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
+* No audible engine noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
 
 </div>
 
-Jones estimated the object to be about eight feet (roughly 2.5 metres) across and deep. That estimate, however, depended entirely on his judgement of distance. If the object were farther away than he believed, its true size would have been substantially larger. If it were closer, the estimate might have been more accurate. Because there were no independent measurements, neither possibility can be tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
+Jones estimated the object to be about eight feet (roughly 2.5 metres) across and deep. That estimate, however, depended entirely on his judgement of distance. If the object were farther away than he believed, its true size would have been substantially larger. If it were closer, the estimate might have been more accurate. Because there were no independent measurements, neither possibility can be tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
 
-An additional detail often overlooked is that Jones reported seeing what he believed was the same object again at the same time on the following evening. He said it was farther away and could not be seen clearly, but appeared to have the same shape and trailing feature while travelling in the same general direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
+An additional detail often overlooked is that Jones reported seeing what he believed was the same object again at the same time on the following evening. He said it was farther away and could not be seen clearly, but appeared to have the same shape and trailing feature while travelling in the same general direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yM7YtfUhEWM" title="Queensland&#x27;s X-Files: UFO sightings in North Queensland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer">Queensland&#x27;s X-Files: UFO sightings in North Queensland</a></p><p class="youtube-embed-meta">Channel: Queensland State Archives &middot; Views: 50.1K &middot; Uploaded: September 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yM7YtfUhEWM">Open on YouTube</a></p></div></div></div>
@@ -293,7 +293,7 @@ An additional detail often overlooked is that Jones reported seeing what he beli
 
 Many UFO reports survive only as newspaper stories or later retellings. The Mount Garnet case stands out because the witness assessment comes directly from a police report produced close to the event.
 
-The investigating officer wrote that Jones was “normally a very level headed man”, was not a “crank or crack-pot”, and was generally regarded as truthful. The officer concluded that he had no doubt Jones genuinely observed something unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
+The investigating officer wrote that Jones was “normally a very level headed man”, was not a “crank or crack-pot”, and was generally regarded as truthful. The officer concluded that he had no doubt Jones genuinely observed something unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
 
 This type of credibility statement is important, but it is often misunderstood.
 
@@ -317,9 +317,9 @@ For historians of Queensland UFO reports, the Mount Garnet case is therefore str
 
 The strongest feature of the report is the witness’s apparent sincerity combined with the detailed description and accompanying sketch. The weakest feature is the extremely short viewing time.
 
-Eight or nine seconds is long enough to notice shape, movement and general appearance, but it is also short enough for perception to be influenced by surprise, changing angles and assumptions about distance. The object was reportedly moving rapidly and was viewed in fading evening light, conditions that can complicate visual judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
+Eight or nine seconds is long enough to notice shape, movement and general appearance, but it is also short enough for perception to be influenced by surprise, changing angles and assumptions about distance. The object was reportedly moving rapidly and was viewed in fading evening light, conditions that can complicate visual judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
 
-Another challenge is the absence of corroboration. Unlike the Millaa Millaa case, there was no group of observers studying the object for an extended period. The Mount Garnet sighting depended primarily on a single observer's account and sketch. The second sighting reported the following evening did not add much detail because the object was much farther away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
+Another challenge is the absence of corroboration. Unlike the Millaa Millaa case, there was no group of observers studying the object for an extended period. The Mount Garnet sighting depended primarily on a single observer's account and sketch. The second sighting reported the following evening did not add much detail because the object was much farther away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
 
 This leaves investigators with a familiar problem in UFO research: a witness who appears credible, a description that seems specific, but insufficient data to determine exactly what was seen.
 
@@ -332,13 +332,13 @@ No widely accepted explanation has emerged for the Mount Garnet report, but seve
 
 ### Aircraft
 
-A conventional aircraft is an obvious candidate because the object appeared to travel on a defined course and was observed moving across the sky. However, Jones emphasised the lack of engine noise despite his belief that the object passed relatively low overhead. If his estimates of altitude and distance were correct, the silence would be unusual. If his distance estimate was wrong and the object was farther away, the absence of sound becomes less significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
+A conventional aircraft is an obvious candidate because the object appeared to travel on a defined course and was observed moving across the sky. However, Jones emphasised the lack of engine noise despite his belief that the object passed relatively low overhead. If his estimates of altitude and distance were correct, the silence would be unusual. If his distance estimate was wrong and the object was farther away, the absence of sound becomes less significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
 
 The reported vapour-like trail is also compatible with some aircraft conditions, though the witness’s description of shape and apparent size does not neatly match a conventional aeroplane.
 
 ### Meteor or fireball
 
-Bright meteors can appear surprisingly low, move extremely fast and sometimes leave brief trails. They are also commonly reported as silent because they are usually many kilometres away. The difficulty is that Jones described a structured object with distinct upper and lower sections rather than a simple luminous streak. His report also included a second sighting on the following evening, making a single meteor explanation less straightforward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
+Bright meteors can appear surprisingly low, move extremely fast and sometimes leave brief trails. They are also commonly reported as silent because they are usually many kilometres away. The difficulty is that Jones described a structured object with distinct upper and lower sections rather than a simple luminous streak. His report also included a second sighting on the following evening, making a single meteor explanation less straightforward.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0YvaAlgokSs" title="Global crop circle phenomenon inspired by UFO mystery in Far North Queensland? 🛸 | Uncropped" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer">Global crop circle phenomenon inspired by UFO mystery in Far North Queensland? 🛸 | Uncropped</a></p><p class="youtube-embed-meta">Channel: ABC Australia &middot; Views: 15.7K &middot; Uploaded: January 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0YvaAlgokSs">Open on YouTube</a></p></div></div></div>
@@ -353,201 +353,201 @@ The Mount Garnet report contains several measurements—height, size and speed�
 <img src="{{ "/assets/images/Queensland_95a7a7_north_queensland_fla_724568_mount_garnet_fast_ob_2848de-Illustration-3-dark.svg" | relative_url }}" alt="Mount Garnet illustration 3" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_north_queensland_fla_724568_mount_garnet_fast_ob_2848de-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_north_queensland_fla_724568_mount_garnet_fast_ob_2848de-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the Mount Garnet case fits in Queensland UFO history
 
-The significance of the Mount Garnet sighting lies less in what was seen than in how it was recorded. It forms part of the broader North Queensland cluster of 1961 reports that drew the attention of police and later researchers. The case illustrates a recurring pattern in Queensland UFO history: a credible rural witness reports an unusual aerial object, police document the account carefully, yet the available evidence remains too limited for a definitive explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
+The significance of the Mount Garnet sighting lies less in what was seen than in how it was recorded. It forms part of the broader North Queensland cluster of 1961 reports that drew the attention of police and later researchers. The case illustrates a recurring pattern in Queensland UFO history: a credible rural witness reports an unusual aerial object, police document the account carefully, yet the available evidence remains too limited for a definitive explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
 
 As a result, the Mount Garnet incident occupies a middle ground. It is stronger than many anonymous “mystery light” stories because it has a named witness, a contemporary police record and a sketch. It is weaker than landmark cases because the observation was brief, uncorroborated and impossible to reconstruct in detail decades later.
 
-The most cautious conclusion is also the one closest to the original police assessment: Jones almost certainly believed he had seen something unusual. Whether that “something” was an unfamiliar aircraft, a misperceived natural phenomenon, or an object that remains unidentified cannot now be determined from the surviving evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
+The most cautious conclusion is also the one closest to the original police assessment: Jones almost certainly believed he had seen something unusual. Whether that “something” was an unfamiliar aircraft, a misperceived natural phenomenon, or an object that remains unidentified cannot now be determined from the surviving evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.archives.qld.gov.au">[Stories from the Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.archives.qld.gov.au</span><span class="citation-popover-title">in view for 8 or 9 seconds</span><span class="citation-popover-snippet">Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The eight second sighting police took seriously. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The eight second sighting police took seriously. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits the article&#x27;s focus on how credible witnesses and official assessments affect UFO case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the article&#x27;s focus on how credible witnesses and official assessments affect UFO case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides historical and analytical context for unusual aerial reports and witness narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical and analytical context for unusual aerial reports and witness narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines credible testimony, official reactions, and unresolved aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines credible testimony, official reactions, and unresolved aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek, J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek, J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores witness reports, misidentifications, and methods for assessing brief sightings such as the Mount Garnet case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness reports, misidentifications, and methods for assessing brief sightings such as the Mount Garnet case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing C-17 aviation art print by Keith Woodcock"><img src="{{ '/assets/images/marketplace-covers/bb22e7060a018bf9966e.jpg' | relative_url }}" alt="Listing image for Boeing C-17 aviation art print by Keith Woodcock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Boeing C-17 aviation art print by Keith Woodcock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing C-17 aviation art print by Keith Woodcock"><img src="{{ '/assets/images/marketplace-covers/bb22e7060a018bf9966e.jpg' | relative_url }}" alt="Listing image for Boeing C-17 aviation art print by Keith Woodcock" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Boeing C-17 aviation art print by Keith Woodcock</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arnhem Battle Gliders Signed Print"><img src="{{ '/assets/images/marketplace-covers/bcd7dc178f56575b1bb2.jpg' | relative_url }}" alt="Listing image for Arnhem Battle Gliders Signed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Arnhem Battle Gliders Signed Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arnhem Battle Gliders Signed Print"><img src="{{ '/assets/images/marketplace-covers/bcd7dc178f56575b1bb2.jpg' | relative_url }}" alt="Listing image for Arnhem Battle Gliders Signed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Arnhem Battle Gliders Signed Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;"><img src="{{ '/assets/images/marketplace-covers/b18fcca26798e1af4d9a.jpg' | relative_url }}" alt="Listing image for Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;"><img src="{{ '/assets/images/marketplace-covers/b18fcca26798e1af4d9a.jpg' | relative_url }}" alt="Listing image for Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="mount-garnet-the-eight-second-sighting-police-took-seriously-queensland-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ The most cautious conclusion is also the one closest to the original police asse
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ The most cautious conclusion is also the one closest to the original police asse
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ The most cautious conclusion is also the one closest to the original police asse
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ The most cautious conclusion is also the one closest to the original police asse
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ The most cautious conclusion is also the one closest to the original police asse
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,92 +753,92 @@ The most cautious conclusion is also the one closest to the original police asse
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: blogs.archives.qld.gov.au  
    Title: in view for 8 or 9 seconds  
-   Link: <a href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</p></details>
+   Link:<a href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North QueenslandNovember 21, 2025 — 21 Nov 2025 — The truck driver, Mr Jo...</p></details>
    Published: November 21, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: data.qld.gov.au  
-   Link: <a href="https://www.data.qld.gov.au/datastore/dump/688c3075-36dc-414c-bfc2-96b972505ee4?bom=True" target="_blank" rel="noopener noreferrer nofollow">https://www.data.qld.gov.au/datastore/dump/688c3075-36dc-414c-bfc2-96b972505ee4?bom=True</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CSV... qld.gov.au/SLQ:SLQ_PCI_EBSCO:slq_alma21137549730002061,-,-,&quot;William North, one of 240 convicts transported on the Mount Stuart Elp...</p></details>
+   Link:<a href="https://www.data.qld.gov.au/datastore/dump/688c3075-36dc-414c-bfc2-96b972505ee4?bom=True" target="_blank" rel="noopener noreferrer nofollow">https://www.data.qld.gov.au/datastore/dump/688c3075-36dc-414c-bfc2-96b972505ee4?bom=True</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CSV... qld.gov.au/SLQ:SLQ_PCI_EBSCO:slq_alma21137549730002061,-,-,&quot;William North, one of 240 convicts transported on the Mount Stuart Elp...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report 2001 1Brief Description of sighting. About the size of a military aircraft. Two UFOs with flashing red lights. Objects seemed to i...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report 2001 1Brief Description of sighting. About the size of a military aircraft. Two UFOs with flashing red lights. Objects seemed to i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2020-09/records-released-september-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-09/records-released-september-2020.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2020-09/records-released-september-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-09/records-released-september-2020.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: documents.parliament.qld.gov.au  
-   Link: <a href="https://documents.parliament.qld.gov.au/events/han/2024/2024_05_01_WEEKLY.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.parliament.qld.gov.au/events/han/2024/2024_05_01_WEEKLY.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.qld.gov.au1 May 20241 May 2024 — The Legislative Assembly met at 9.30 am. Mr Speaker (Hon. Curtis Pitt, Mulgrave) read prayers...</p></details>
+   Link:<a href="https://documents.parliament.qld.gov.au/events/han/2024/2024_05_01_WEEKLY.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.parliament.qld.gov.au/events/han/2024/2024_05_01_WEEKLY.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.qld.gov.au1 May 20241 May 2024 — The Legislative Assembly met at 9.30 am. Mr Speaker (Hon. Curtis Pitt, Mulgrave) read prayers...</p></details>
    Published: May 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GuideDEFE 24/1961 (p191-207) – Staffordshire Police report May 1995 on two youths who claimed they saw a UFO land in a field at Chasetown...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GuideDEFE 24/1961 (p191-207) – Staffordshire Police report May 1995 on two youths who claimed they saw a UFO land in a field at Chasetown...</p></details>
    Published: May 1995  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/500539467532146/posts/1449534795965937/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/500539467532146/posts/1449534795965937/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Truck accident near Alice Springs in the mid 80sNorthern Territory Police are currently attending a report of a truck rollover approximat...</p></details>
+   Link:<a href="https://www.facebook.com/groups/500539467532146/posts/1449534795965937/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/500539467532146/posts/1449534795965937/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Truck accident near Alice Springs in the mid 80sNorthern Territory Police are currently attending a report of a truck rollover approximat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/260150101241130/posts/1721535641769228/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/260150101241130/posts/1721535641769228/</a>  
+   Link:<a href="https://www.facebook.com/groups/260150101241130/posts/1721535641769228/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/260150101241130/posts/1721535641769228/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yM7YtfUhEWM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Queensland&#x27;s X-Files: UFO sightings in North QueenslandA UFO sighting and the creatures seen by one man in the... Terrifying UFO Encount...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yM7YtfUhEWM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Queensland&#x27;s X-Files: UFO sightings in North QueenslandA UFO sighting and the creatures seen by one man in the... Terrifying UFO Encount...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: **Bert's Story (Continued)** *I hope that you have enjoyed  
-   Link: <a href="https://www.facebook.com/groups/754427714964136/posts/1373654023041499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/754427714964136/posts/1373654023041499/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens, mainly German Jews and others who were interned in camps there. To me it was just another guard job. We had no guns now, after Du...</p></details>
+   Link:<a href="https://www.facebook.com/groups/754427714964136/posts/1373654023041499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/754427714964136/posts/1373654023041499/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens, mainly German Jews and others who were interned in camps there. To me it was just another guard job. We had no guns now, after Du...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10NewsQLD/videos/terrifying-footage-shows-a-bulldozer-bearing-down-on-a-parked-ute-at-a-central-q/1037423265382098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsQLD/videos/terrifying-footage-shows-a-bulldozer-bearing-down-on-a-parked-ute-at-a-central-q/1037423265382098/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Queensland coal mine site, before pushing it several metres...</p></details>
+   Link:<a href="https://www.facebook.com/10NewsQLD/videos/terrifying-footage-shows-a-bulldozer-bearing-down-on-a-parked-ute-at-a-central-q/1037423265382098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsQLD/videos/terrifying-footage-shows-a-bulldozer-bearing-down-on-a-parked-ute-at-a-central-q/1037423265382098/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Queensland coal mine site, before pushing it several metres...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: fvrd.ca  
-   Link: <a href="https://www.fvrd.ca/assets/About~the~FVRD/Documents/Popkum~History/Family%20Stories.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fvrd.ca/assets/About~the~FVRD/Documents/Popkum~History/Family%20Stories.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As a precautionary measure all Japanese were...Read more...</p></details>
+   Link:<a href="https://www.fvrd.ca/assets/About~the~FVRD/Documents/Popkum~History/Family%20Stories.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fvrd.ca/assets/About~the~FVRD/Documents/Popkum~History/Family%20Stories.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As a precautionary measure all Japanese were...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: espace.library.uq.edu.au  
    Title: uq.edu.au The Manager Univers.ityo.f  
-   Link: <a href="https://espace.library.uq.edu.au/view/UQ%3A193545/HE3508_D34_1975.pdf" target="_blank" rel="noopener noreferrer nofollow">https://espace.library.uq.edu.au/view/UQ%3A193545/HE3508_D34_1975.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>V Daddow · 1975 · Cited by 8 — Straight to the sun was the loads we run. On rails of flaming fire. We pushed the...</p></details>
+   Link:<a href="https://espace.library.uq.edu.au/view/UQ%3A193545/HE3508_D34_1975.pdf" target="_blank" rel="noopener noreferrer nofollow">https://espace.library.uq.edu.au/view/UQ%3A193545/HE3508_D34_1975.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>V Daddow · 1975 · Cited by 8 — Straight to the sun was the loads we run. On rails of flaming fire. We pushed the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: espace.library.uq.edu.au  
    Title: uq.edu.au Memoirs of a Field Worker  
-   Link: <a href="https://espace.library.uq.edu.au/view/UQ%3A203856/PL7091_Q4D59_1983.pdf" target="_blank" rel="noopener noreferrer nofollow">https://espace.library.uq.edu.au/view/UQ%3A203856/PL7091_Q4D59_1983.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of a Field Worker - UQ eSpaceOur main hope in Mount Garnet was to record some Barbaram from. Lizzie... But now the lower cinema had Tom...</p></details>
+   Link:<a href="https://espace.library.uq.edu.au/view/UQ%3A203856/PL7091_Q4D59_1983.pdf" target="_blank" rel="noopener noreferrer nofollow">https://espace.library.uq.edu.au/view/UQ%3A203856/PL7091_Q4D59_1983.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of a Field Worker - UQ eSpaceOur main hope in Mount Garnet was to record some Barbaram from. Lizzie... But now the lower cinema had Tom...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: governmentattic.org  
    Title: An Annotated Bibliography, Lynn E  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byAuthor&#x27;s account of UFO sighting June 24, 1947, near Mt. Rainier... UFO sightings by reliable witnesses are cited to s...</p></details>
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byAuthor&#x27;s account of UFO sighting June 24, 1947, near Mt. Rainier... UFO sightings by reliable witnesses are cited to s...</p></details>
    Published: June 24, 1947  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/QueenslandJourney/Queensland%20Journey_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/QueenslandJourney/Queensland%20Journey_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>be described as Queensland&#x27;s great tin belt. Tin...</p></details>
+   Link:<a href="https://archive.org/stream/QueenslandJourney/Queensland%20Journey_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/QueenslandJourney/Queensland%20Journey_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>be described as Queensland&#x27;s great tin belt. Tin...</p></details>

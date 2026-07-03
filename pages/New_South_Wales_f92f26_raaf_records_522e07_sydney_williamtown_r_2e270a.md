@@ -256,15 +256,15 @@ image: /assets/images/New_South_Wales_f92f26_raaf_records_522e07_sydney_williamt
 
 ## Introduction
 
-In June 1983, a radar alert stretching between Sydney and RAAF Base Williamtown briefly looked like one of [New South Wales]({{ 'what-makes-new-south-wales-ufo-reports/' | relative_url }})’ most dramatic UFO incidents. Radar operators detected fast-moving unidentified tracks north of Sydney, and the situation was taken seriously enough that Mirage fighter jets at Williamtown were reportedly placed on readiness in case an interception became necessary. Yet what makes the episode important in NSW UFO history is not an unresolved mystery but the way official scrutiny gradually reduced an alarming UFO report to a technical radar problem. Subsequent investigations concluded that the apparent targets were not unknown craft at all but a form of radar interference known as “running rabbits”. This case remains a useful example of how military and aviation systems can generate convincing but misleading evidence, and why official UFO files often reveal investigative processes rather than extraterrestrial discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[NURFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
+In June 1983, a radar alert stretching between Sydney and RAAF Base Williamtown briefly looked like one of [New South Wales]({{ 'what-makes-new-south-wales-ufo-reports/' | relative_url }})’ most dramatic UFO incidents. Radar operators detected fast-moving unidentified tracks north of Sydney, and the situation was taken seriously enough that Mirage fighter jets at Williamtown were reportedly placed on readiness in case an interception became necessary. Yet what makes the episode important in NSW UFO history is not an unresolved mystery but the way official scrutiny gradually reduced an alarming UFO report to a technical radar problem. Subsequent investigations concluded that the apparent targets were not unknown craft at all but a form of radar interference known as “running rabbits”. This case remains a useful example of how military and aviation systems can generate convincing but misleading evidence, and why official UFO files often reveal investigative processes rather than extraterrestrial discoveries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[NURFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_sydney_williamtown_r_2e270a-Illustration-1-dark.svg" | relative_url }}" alt="Radar Alert illustration 1" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_sydney_williamtown_r_2e270a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_sydney_williamtown_r_2e270a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Mascot and Williamtown saw
 
-The incident emerged from radar observations involving Sydney’s air-traffic network and RAAF facilities at Williamtown. According to later reporting based on declassified records, radar systems detected unidentified returns apparently moving at extraordinary speeds and high altitude north of Sydney. The tracks appeared sufficiently unusual that they could not immediately be matched with known aircraft movements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[NURFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
+The incident emerged from radar observations involving Sydney’s air-traffic network and RAAF facilities at Williamtown. According to later reporting based on declassified records, radar systems detected unidentified returns apparently moving at extraordinary speeds and high altitude north of Sydney. The tracks appeared sufficiently unusual that they could not immediately be matched with known aircraft movements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[NURFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
 
-From the perspective of air-defence personnel, the problem was not whether the targets were “UFOs” in a popular sense. The immediate concern was that unidentified radar returns could represent an aircraft, a system malfunction, or some other intrusion into monitored airspace. In the Cold War environment of the early 1980s, unexplained radar contacts were treated as operational matters first and mysteries second. That approach fits the broader pattern seen throughout RAAF UFO files, where aviation safety and airspace awareness were usually the primary concerns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[NURFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
+From the perspective of air-defence personnel, the problem was not whether the targets were “UFOs” in a popular sense. The immediate concern was that unidentified radar returns could represent an aircraft, a system malfunction, or some other intrusion into monitored airspace. In the Cold War environment of the early 1980s, unexplained radar contacts were treated as operational matters first and mysteries second. That approach fits the broader pattern seen throughout RAAF UFO files, where aviation safety and airspace awareness were usually the primary concerns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[NURFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
 
 What made the Sydney–Williamtown alert noteworthy was that the radar information appeared to come from professional monitoring systems rather than from a lone witness observing [lights]({{ 'lights/' | relative_url }}) in the sky. Radar-supported cases often attract greater attention because they seem to provide instrument-based evidence. The 1983 episode demonstrates that instrument evidence can itself require careful interpretation.
 
@@ -273,7 +273,7 @@ What made the Sydney–Williamtown alert noteworthy was that the radar informati
 
 ## Why Mirage jets were put on readiness
 
-Reports associated with the declassified file indicate that Mirage fighters at Williamtown were placed on alert while the situation was assessed. The alleged targets appeared to be travelling at speeds far beyond those expected from ordinary civil aircraft, making the contacts difficult to explain immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[NURFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
+Reports associated with the declassified file indicate that Mirage fighters at Williamtown were placed on alert while the situation was assessed. The alleged targets appeared to be travelling at speeds far beyond those expected from ordinary civil aircraft, making the contacts difficult to explain immediately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[NURFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
 
 This response is sometimes presented in UFO literature as evidence that authorities believed extraordinary craft were operating over New South Wales. The historical record suggests a more routine explanation. Air-defence systems are designed to react conservatively when confronted with unidentified tracks. If operators cannot quickly determine whether a radar return represents a real aircraft, readiness measures are a normal precaution.
 
@@ -283,9 +283,9 @@ In other words, the fighter alert is significant because it shows that the radar
 <img src="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_sydney_williamtown_r_2e270a-Illustration-2-dark.svg" | relative_url }}" alt="Radar Alert illustration 2" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_sydney_williamtown_r_2e270a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_raaf_records_522e07_sydney_williamtown_r_2e270a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How running rabbits explained the tracks
 
-The most important development came after technical analysis of the radar data. Investigators concluded that the mysterious returns were caused by a radar phenomenon known as “running rabbits”. Contemporary reporting on the declassified file states that the supposed UFO tracks were eventually attributed to this interference effect rather than to actual airborne objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[NURFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
+The most important development came after technical analysis of the radar data. Investigators concluded that the mysterious returns were caused by a radar phenomenon known as “running rabbits”. Contemporary reporting on the declassified file states that the supposed UFO tracks were eventually attributed to this interference effect rather than to actual airborne objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[NURFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
 
-“Running rabbits” is a long-established radar term. Radar specialists have used it to describe patterns of false echoes or closely spaced dots that appear to move across a display because of interference between radar systems or related electronic effects. Instead of representing a physical target, the marks are artefacts generated within the radar environment itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bawdseyradar.org.uk/running-rabbits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bawdseyradar.org.uk">[Bawdsey Radar Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bawdseyradar.org.uk</span><span class="citation-popover-snippet">close dots – hence it was named &#x27;running rabbits&#x27;...</span></span></span>
+“Running rabbits” is a long-established radar term. Radar specialists have used it to describe patterns of false echoes or closely spaced dots that appear to move across a display because of interference between radar systems or related electronic effects. Instead of representing a physical target, the marks are artefacts generated within the radar environment itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bawdseyradar.org.uk/running-rabbits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bawdseyradar.org.uk">[Bawdsey Radar Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bawdseyradar.org.uk</span><span class="citation-popover-snippet">close dots – hence it was named &#x27;running rabbits&#x27;...</span></span></span>
 
 The explanation is important because the false tracks could mimic some of the characteristics often associated with dramatic UFO reports:
 
@@ -299,14 +299,14 @@ The explanation is important because the false tracks could mimic some of the ch
 
 </div>
 
-When operators first encounter such returns, they may appear highly unusual. Once engineers compare information from multiple systems and examine the technical characteristics of the tracks, however, the pattern can sometimes be traced to interference rather than to a genuine airborne object. The Sydney–Williamtown case is frequently cited precisely because that investigative process occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[NURFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
+When operators first encounter such returns, they may appear highly unusual. Once engineers compare information from multiple systems and examine the technical characteristics of the tracks, however, the pattern can sometimes be traced to interference rather than to a genuine airborne object. The Sydney–Williamtown case is frequently cited precisely because that investigative process occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[NURFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FHeNr2fzqKE" title="RAAF Base Williamtown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FHeNr2fzqKE" target="_blank" rel="noopener noreferrer">RAAF Base Williamtown</a></p><p class="youtube-embed-meta">Channel: Royal Australian Air Force</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FHeNr2fzqKE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FHeNr2fzqKE">Open on YouTube</a></p></div></div></div>
 
 ## Why the case still matters in NSW UFO history
 
-The episode occupies an unusual place in New South Wales UFO history. It is memorable because it began with features that many researchers consider strong indicators: military involvement, radar evidence and fighter readiness. Yet it ended with a technical explanation supported by later analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[NURFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
+The episode occupies an unusual place in New South Wales UFO history. It is memorable because it began with features that many researchers consider strong indicators: military involvement, radar evidence and fighter readiness. Yet it ended with a technical explanation supported by later analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[NURFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
 
 For historians of Australian UFO reports, the case highlights several broader lessons:
 
@@ -328,201 +328,201 @@ The Sydney–Williamtown alert therefore serves as a useful counterpoint to genu
 
 Within the wider story of [RAAF records]({{ 'raaf-records/' | relative_url }}) and official UFO investigations, the 1983 Sydney–Williamtown radar alert is best understood as a lesson in method. The event shows why defence organisations collected reports, checked radar data, assessed operational risks and compared information across systems before reaching conclusions.
 
-The most enduring feature of the case is not the brief possibility of unidentified craft north of Sydney, but the eventual identification of a radar artefact. For readers exploring New South Wales UFO history, the episode illustrates that official files can be valuable precisely because they preserve both the initial alarm and the later explanation. In this instance, the explanation weakened the UFO interpretation rather than strengthening it, making the case one of the clearest NSW examples of a dramatic radar mystery resolving into a technical problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[2NURFM+2Newcastle Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
+The most enduring feature of the case is not the brief possibility of unidentified craft north of Sydney, but the eventual identification of a radar artefact. For readers exploring New South Wales UFO history, the episode illustrates that official files can be valuable precisely because they preserve both the initial alarm and the later explanation. In this instance, the explanation weakened the UFO interpretation rather than strengthening it, making the case one of the clearest NSW examples of a dramatic radar mystery resolving into a technical problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2nurfm.com.au">[com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2nurfm.com.au</span><span class="citation-popover-title">The file also</span><span class="citation-popover-snippet">Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</span><span class="citation-popover-meta">Published: August 6, 2012</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vf0_wXB5cfc" title="Fighter World Williamtown: Where Aviation History Comes to Life #tourismaustralia #fighterjet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vf0_wXB5cfc" target="_blank" rel="noopener noreferrer">Fighter World Williamtown: Where Aviation History Comes to Life #tourismaustralia #fighterjet</a></p><p class="youtube-embed-meta">Channel: The Holiday Hunter</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vf0_wXB5cfc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vf0_wXB5cfc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Sydney&#x27;s UFO alert became radar interference. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Sydney&#x27;s UFO alert became radar interference. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasises classification, evidence assessment and scientific scrutiny of sightings, fitting a case ultimately explained as radar interfe...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises classification, evidence assessment and scientific scrutiny of sightings, fitting a case ultimately explained as radar interfe...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented UFO reports involving pilots, radar data, military personnel and official investigations, matching the article&#x27;s ai...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented UFO reports involving pilots, radar data, military personnel and official investigations, matching the article&#x27;s ai...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Covers military and aviation UFO reports from the early era of official investigations, providing context for later radar-based cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers military and aviation UFO reports from the early era of official investigations, providing context for later radar-based cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Written by the former head of Project Blue Book and concentrates on how authorities investigated unexplained sightings rather than assumi...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by the former head of Project Blue Book and concentrates on how authorities investigated unexplained sightings rather than assumi...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-alert-when-sydney-s-ufo-alert-became-radar-interference-new-south-wales-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-sydney-s-ufo-alert-became-radar-interference-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ The most enduring feature of the case is not the brief possibility of unidentifi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ The most enduring feature of the case is not the brief possibility of unidentifi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ The most enduring feature of the case is not the brief possibility of unidentifi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ The most enduring feature of the case is not the brief possibility of unidentifi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ The most enduring feature of the case is not the brief possibility of unidentifi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,89 +728,89 @@ The most enduring feature of the case is not the brief possibility of unidentifi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: 2nurfm.com.au  
    Title: The file also  
-   Link: <a href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow">https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</p></details>
+   Link:<a href="https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/" target="_blank" rel="noopener noreferrer nofollow">https://www.2nurfm.com.au/news/revealed-williamtown-put-on-alert-for/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Williamtown Put On Alert For UFO&#x27;s Almost 30 Years AgoAugust 6, 2012 — 6 Aug 2012 — Subsequent analysis of radar blips determined t...</p></details>
    Published: August 6, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: instagram.com  
    Title: DXYg Vrij Md6  
-   Link: <a href="https://www.instagram.com/p/DXYgVrijMd6/?__d=1%E9%AB%98%E6%95%88%E7%9A%84%E6%9F%A5%E8%AF%A2%E5%BE%AE%E4%BF%A1%E5%8F%B7%E5%A5%BD%E5%8F%8B%E5%8F%8A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E6%8F%90%E5%8F%96%E3%80%82%E5%8F%8A%E6%97%B6%E5%8F%8D%E5%BA%94%E7%9A%84%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C%E9%97%AA%E7%94%B5%E7%A4%BE%E5%B7%A5%E5%BA%93%E2%9C%94%EF%B8%8Fsssl.click" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXYgVrijMd6/?__d=1%E9%AB%98%E6%95%88%E7%9A%84%E6%9F%A5%E8%AF%A2%E5%BE%AE%E4%BF%A1%E5%8F%B7%E5%A5%BD%E5%8F%8B%E5%8F%8A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E6%8F%90%E5%8F%96%E3%80%82%E5%8F%8A%E6%97%B6%E5%8F%8D%E5%BA%94%E7%9A%84%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C%E9%97%AA%E7%94%B5%E7%A4%BE%E5%B7%A5%E5%BA%93%E2%9C%94%EF%B8%8Fsssl.click</a>  
+   Link:<a href="https://www.instagram.com/p/DXYgVrijMd6/?__d=1%E9%AB%98%E6%95%88%E7%9A%84%E6%9F%A5%E8%AF%A2%E5%BE%AE%E4%BF%A1%E5%8F%B7%E5%A5%BD%E5%8F%8B%E5%8F%8A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E6%8F%90%E5%8F%96%E3%80%82%E5%8F%8A%E6%97%B6%E5%8F%8D%E5%BA%94%E7%9A%84%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C%E9%97%AA%E7%94%B5%E7%A4%BE%E5%B7%A5%E5%BA%93%E2%9C%94%EF%B8%8Fsssl.click" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXYgVrijMd6/?__d=1%E9%AB%98%E6%95%88%E7%9A%84%E6%9F%A5%E8%AF%A2%E5%BE%AE%E4%BF%A1%E5%8F%B7%E5%A5%BD%E5%8F%8B%E5%8F%8A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E6%8F%90%E5%8F%96%E3%80%82%E5%8F%8A%E6%97%B6%E5%8F%8D%E5%BA%94%E7%9A%84%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C%E9%97%AA%E7%94%B5%E7%A4%BE%E5%B7%A5%E5%BA%93%E2%9C%94%EF%B8%8Fsssl.click</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: RAAF Base Williamtown  
-   Link: <a href="http://www.youtube.com/watch?v=FHeNr2fzqKE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FHeNr2fzqKE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2 The Fighter World Experience...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=FHeNr2fzqKE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FHeNr2fzqKE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 The Fighter World Experience...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: newcastleherald.com.au  
-   Link: <a href="https://www.newcastleherald.com.au/story/207672/revealed-jets-were-ready-to-intercept-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.newcastleherald.com.au/story/207672/revealed-jets-were-ready-to-intercept-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revealed: Jets were &#x27;ready to intercept UFOs&#x27;Mirage jets on alert at Williamtown RAAF were ready to intercept UFOs in June 1983...</p></details>
+   Link:<a href="https://www.newcastleherald.com.au/story/207672/revealed-jets-were-ready-to-intercept-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.newcastleherald.com.au/story/207672/revealed-jets-were-ready-to-intercept-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revealed: Jets were &#x27;ready to intercept UFOs&#x27;Mirage jets on alert at Williamtown RAAF were ready to intercept UFOs in June 1983...</p></details>
    Published: June 1983  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bawdseyradar.org.uk  
-   Link: <a href="https://www.bawdseyradar.org.uk/running-rabbits/" target="_blank" rel="noopener noreferrer nofollow">https://www.bawdseyradar.org.uk/running-rabbits/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>close dots – hence it was named &#x27;running rabbits&#x27;...</p></details>
+   Link:<a href="https://www.bawdseyradar.org.uk/running-rabbits/" target="_blank" rel="noopener noreferrer nofollow">https://www.bawdseyradar.org.uk/running-rabbits/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>close dots – hence it was named &#x27;running rabbits&#x27;...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSsydney/videos/ufo-over-nsw/1719217448102381/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSsydney/videos/ufo-over-nsw/1719217448102381/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO over NSW | 7NEWS SydneyUFO over NSW: &quot;Probably some space junk from some defunct satellite&quot; - Simon O&#x27;Toole - Australian Astronomical...</p></details>
+   Link:<a href="https://www.facebook.com/7NEWSsydney/videos/ufo-over-nsw/1719217448102381/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSsydney/videos/ufo-over-nsw/1719217448102381/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO over NSW | 7NEWS SydneyUFO over NSW: &quot;Probably some space junk from some defunct satellite&quot; - Simon O&#x27;Toole - Australian Astronomical...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nbi.dk  
-   Link: <a href="https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOdata.txt... UFO!&#x27; My other friend stayed outside to watch. They had seen three fireballs, in a triangle formation (an upright triangle...</p></details>
+   Link:<a href="https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOdata.txt... UFO!&#x27; My other friend stayed outside to watch. They had seen three fireballs, in a triangle formation (an upright triangle...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: radarreturns.net.au  
-   Link: <a href="https://www.radarreturns.net.au/archive/Radar%20YarnsRRWS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.radarreturns.net.au/archive/Radar%20YarnsRRWS.pdf</a>  
+   Link:<a href="https://www.radarreturns.net.au/archive/Radar%20YarnsRRWS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.radarreturns.net.au/archive/Radar%20YarnsRRWS.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: the headline in sydneys daily mirror on 14 march 1985 screamed great mysteries o  
-   Link: <a href="https://www.facebook.com/ausgeo/posts/the-headline-in-sydneys-daily-mirror-on-14-march-1985-screamed-great-mysteries-o/552497226915269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ausgeo/posts/the-headline-in-sydneys-daily-mirror-on-14-march-1985-screamed-great-mysteries-o/552497226915269/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The headline in Sydney&#x27;s Daily Mirror on 14 March 1985...If someone told you they&#x27;d spotted a flying rabbit on the outskirts of Sydney...</p></details>
+   Link:<a href="https://www.facebook.com/ausgeo/posts/the-headline-in-sydneys-daily-mirror-on-14-march-1985-screamed-great-mysteries-o/552497226915269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ausgeo/posts/the-headline-in-sydneys-daily-mirror-on-14-march-1985-screamed-great-mysteries-o/552497226915269/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The headline in Sydney&#x27;s Daily Mirror on 14 March 1985...If someone told you they&#x27;d spotted a flying rabbit on the outskirts of Sydney...</p></details>
    Published: march 1985  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ODEUK5sB5vE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ODEUK5sB5vE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stoat Hypnotizes Rabbit | World&#x27;s DeadliestWhen a stoat can&#x27;t chase down a rabbit, it breaks out the dance moves. All the dashing and thr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ODEUK5sB5vE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ODEUK5sB5vE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stoat Hypnotizes Rabbit | World&#x27;s DeadliestWhen a stoat can&#x27;t chase down a rabbit, it breaks out the dance moves. All the dashing and thr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
    Title: Full text of "Australian UFO Files"PAGE TWO — Friday,  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 27, 1983 A good case for national &#x27;super&#x27; UNLIKE many... The earliest UFO group to form in Australia was the &quot;Australian Flying...R...</p></details>
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 27, 1983 A good case for national &#x27;super&#x27; UNLIKE many... The earliest UFO group to form in Australia was the &quot;Australian Flying...R...</p></details>
    Published: May 27, 1983  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: the 1978 new zealand ufo footage  
-   Link: <a href="https://www.facebook.com/HISTORY/videos/the-1978-new-zealand-ufo-footage/1223015379748034/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/videos/the-1978-new-zealand-ufo-footage/1223015379748034/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1978 New Zealand, a journalist covering a routine mission...In 1978 New Zealand, a journalist covering a routine mission captures chi...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/videos/the-1978-new-zealand-ufo-footage/1223015379748034/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/videos/the-1978-new-zealand-ufo-footage/1223015379748034/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1978 New Zealand, a journalist covering a routine mission...In 1978 New Zealand, a journalist covering a routine mission captures chi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: althistory.fandom.com  
    Title: Wow! Alien Signal Confirmed  
-   Link: <a href="https://althistory.fandom.com/wiki/Wow%21_Alien_Signal_Confirmed" target="_blank" rel="noopener noreferrer nofollow">https://althistory.fandom.com/wiki/Wow%21_Alien_Signal_Confirmed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comWow! Alien Signal Confirmed... Australia and other locations, UFOs are sighted. Following this livestock are found in nearby ar...</p></details>
+   Link:<a href="https://althistory.fandom.com/wiki/Wow%21_Alien_Signal_Confirmed" target="_blank" rel="noopener noreferrer nofollow">https://althistory.fandom.com/wiki/Wow%21_Alien_Signal_Confirmed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comWow! Alien Signal Confirmed... Australia and other locations, UFOs are sighted. Following this livestock are found in nearby ar...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: How One Woman Caught a 0.15° Radar Glitch and Stopped a 42-Bomber Low-Level Raid  
-   Link: <a href="http://www.youtube.com/watch?v=edu1xem8cAQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=edu1xem8cAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Running rabbits&quot; radar 10 Incredible Facts About Rabbits You Won&#x27;t Believe...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=edu1xem8cAQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=edu1xem8cAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Running rabbits&quot; radar 10 Incredible Facts About Rabbits You Won&#x27;t Believe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=vf0_wXB5cfc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vf0_wXB5cfc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Something is jamming GPS over Europe. Here&#x27;s what we found...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vf0_wXB5cfc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vf0_wXB5cfc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Something is jamming GPS over Europe. Here&#x27;s what we found...</p></details>

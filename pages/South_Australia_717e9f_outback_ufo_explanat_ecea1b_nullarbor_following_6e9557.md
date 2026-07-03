@@ -266,11 +266,11 @@ One of the most common [ordinary explanations]({{ 'explanations-44cf05/' | relat
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_outback_ufo_explanat_ecea1b_nullarbor_following_6e9557-Illustration-1-dark.svg" | relative_url }}" alt="Following Lights illustration 1" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_outback_ufo_explanat_ecea1b_nullarbor_following_6e9557-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_outback_ufo_explanat_ecea1b_nullarbor_following_6e9557-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The Nullarbor is particularly suited to this effect. Vast distances, flat horizons, sparse roadside features and exceptionally dark skies allow lights to remain visible for long periods. A planet, aircraft landing light, distant vehicle or other fixed light source can therefore appear far more active and purposeful than it really is. Understanding these conditions helps explain why some outback UFO reports describe behaviour that sounds intelligent or deliberate even when the underlying cause may be entirely ordinary. australia.com+2RAC WA - For a better WA <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australia.com/en/trips-and-itineraries/perth-and-surrounds/crossing-the-nullarbor.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australia.com">[australia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australia.com</span><span class="citation-popover-snippet">Driving across the Nullarbor PlainLet go of your stress and feel the wide open space of Australia&#x27;s outback at one of the world&#x27;s greates...</span></span></span>
+The Nullarbor is particularly suited to this effect. Vast distances, flat horizons, sparse roadside features and exceptionally dark skies allow lights to remain visible for long periods. A planet, aircraft landing light, distant vehicle or other fixed light source can therefore appear far more active and purposeful than it really is. Understanding these conditions helps explain why some outback UFO reports describe behaviour that sounds intelligent or deliberate even when the underlying cause may be entirely ordinary. australia.com+2RAC WA - For a better WA<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australia.com/en/trips-and-itineraries/perth-and-surrounds/crossing-the-nullarbor.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australia.com">[australia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australia.com</span><span class="citation-popover-snippet">Driving across the Nullarbor PlainLet go of your stress and feel the wide open space of Australia&#x27;s outback at one of the world&#x27;s greates...</span></span></span>
 
 ## How motion changes a fixed light
 
-The key mechanism is perspective. When a driver is moving through a landscape, nearby objects sweep rapidly across the field of view while distant objects appear to move very little. Psychologists call this effect motion parallax, one of the brain’s main tools for judging distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/reference-guide/psychology/motion-parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabMotion ParallaxMotion parallax helps us judge distance and depth. This hidden cue guides perception, shapes behavior, and...</span></span></span>
+The key mechanism is perspective. When a driver is moving through a landscape, nearby objects sweep rapidly across the field of view while distant objects appear to move very little. Psychologists call this effect motion parallax, one of the brain’s main tools for judging distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/reference-guide/psychology/motion-parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[thedecisionlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabMotion ParallaxMotion parallax helps us judge distance and depth. This hidden cue guides perception, shapes behavior, and...</span></span></span>
 
 On the Nullarbor, however, the usual visual clues are often missing. At night there may be no trees, buildings, hills or streetlights to reveal how far away a light actually is. A bright object tens or even hundreds of kilometres away can therefore appear to maintain a constant position relative to the vehicle.
 
@@ -286,7 +286,7 @@ To the observer, the result can feel surprisingly dramatic:
 
 </div>
 
-Because the light remains visible for such a long time, many [witnesses]({{ 'witnesses/' | relative_url }}) naturally conclude that it must be moving with them. In reality, a very distant object changes position against the background only slowly, creating the illusion of pursuit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/reference-guide/psychology/motion-parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab+2Wexler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabMotion ParallaxMotion parallax helps us judge distance and depth. This hidden cue guides perception, shapes behavior, and...</span></span></span>
+Because the light remains visible for such a long time, many [witnesses]({{ 'witnesses/' | relative_url }}) naturally conclude that it must be moving with them. In reality, a very distant object changes position against the background only slowly, creating the illusion of pursuit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/reference-guide/psychology/motion-parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[thedecisionlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabMotion ParallaxMotion parallax helps us judge distance and depth. This hidden cue guides perception, shapes behavior, and...</span></span></span>
 
 Aircraft can be particularly deceptive. A plane flying towards an observer may appear almost stationary because its apparent sideways movement is minimal. When the aircraft eventually changes course, the light can seem to accelerate suddenly or vanish, behaviour that frequently appears in UFO reports from remote roads. This effect becomes more convincing when the aircraft's navigation lights brighten, dim or change colour as its angle to the observer changes.
 
@@ -295,7 +295,7 @@ Aircraft can be particularly deceptive. A plane flying towards an observer may a
 
 ## Road, horizon and fatigue effects
 
-The Nullarbor's geography amplifies these illusions. The region is famous for its immense open spaces and long straight roads. Drivers can see distant lights for far longer than they could in more varied terrain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australia.com/en/trips-and-itineraries/perth-and-surrounds/crossing-the-nullarbor.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australia.com">[australia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australia.com</span><span class="citation-popover-snippet">Driving across the Nullarbor PlainLet go of your stress and feel the wide open space of Australia&#x27;s outback at one of the world&#x27;s greates...</span></span></span>
+The Nullarbor's geography amplifies these illusions. The region is famous for its immense open spaces and long straight roads. Drivers can see distant lights for far longer than they could in more varied terrain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australia.com/en/trips-and-itineraries/perth-and-surrounds/crossing-the-nullarbor.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australia.com">[australia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australia.com</span><span class="citation-popover-snippet">Driving across the Nullarbor PlainLet go of your stress and feel the wide open space of Australia&#x27;s outback at one of the world&#x27;s greates...</span></span></span>
 
 A flat horizon also removes many of the cues that normally help people estimate height. A light close to the horizon may seem to skim just above the ground, follow the highway, or hover over a distant ridge that does not actually exist. As the road rises and falls, the light may appear to climb, descend or dart sideways even though it has not changed position.
 
@@ -317,9 +317,9 @@ These are normal features of human perception rather than signs of dishonesty or
 <img src="{{ "/assets/images/South_Australia_717e9f_outback_ufo_explanat_ecea1b_nullarbor_following_6e9557-Illustration-2-dark.svg" | relative_url }}" alt="Following Lights illustration 2" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_outback_ufo_explanat_ecea1b_nullarbor_following_6e9557-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_outback_ufo_explanat_ecea1b_nullarbor_following_6e9557-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why planets and distant lights become UFOs
 
-Bright planets, especially when low in the sky, are frequent candidates for “following light” reports. Venus is particularly well known for generating UFO claims because it can appear extraordinarily bright near the horizon and remain visible for hours. Astronomers and investigators have repeatedly identified Venus as the source of sightings initially reported as hovering or pursuing objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ABClisten/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-/1047737677367220/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A UFO sighting in Far North Queensland set off an...“The object in the video seems to me indistinguishable from Venus as seen in...</span></span></span>
+Bright planets, especially when low in the sky, are frequent candidates for “following light” reports. Venus is particularly well known for generating UFO claims because it can appear extraordinarily bright near the horizon and remain visible for hours. Astronomers and investigators have repeatedly identified Venus as the source of sightings initially reported as hovering or pursuing objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ABClisten/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-/1047737677367220/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A UFO sighting in Far North Queensland set off an...“The object in the video seems to me indistinguishable from Venus as seen in...</span></span></span>
 
-The same principle applies to distant vehicle headlights and aircraft lights. In parts of the outback, temperature layers in the atmosphere can bend light and make distant sources appear brighter, higher or more stable than expected. Such conditions are often discussed in connection with Australia's famous Min Min light traditions, where travellers report luminous objects apparently following them across remote country. Proposed explanations have included distant vehicle lights altered by atmospheric refraction and mirage effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelawaits.com/2698693/rare-sky-phenomena-australia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelawaits.com">[TravelAwaits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelawaits.com</span><span class="citation-popover-title">distant car light trapped in cold air. Nullarbor Plain Drivers</span><span class="citation-popover-snippet">8 Rare Sky Phenomena You Can Witness In AustraliaSeptember 27, 2021 — 26 Sept 2021 — The Min Min Min Min are mysterious Outba...</span><span class="citation-popover-meta">Published: September 27, 2021</span></span></span>
+The same principle applies to distant vehicle headlights and aircraft lights. In parts of the outback, temperature layers in the atmosphere can bend light and make distant sources appear brighter, higher or more stable than expected. Such conditions are often discussed in connection with Australia's famous Min Min light traditions, where travellers report luminous objects apparently following them across remote country. Proposed explanations have included distant vehicle lights altered by atmospheric refraction and mirage effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelawaits.com/2698693/rare-sky-phenomena-australia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelawaits.com">[TravelAwaits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelawaits.com</span><span class="citation-popover-title">distant car light trapped in cold air. Nullarbor Plain Drivers</span><span class="citation-popover-snippet">8 Rare Sky Phenomena You Can Witness In AustraliaSeptember 27, 2021 — 26 Sept 2021 — The Min Min Min Min are mysterious Outba...</span><span class="citation-popover-meta">Published: September 27, 2021</span></span></span>
 
 While the classic Min Min stories are associated more strongly with inland Queensland, the underlying visual mechanisms are relevant to South Australian outback observations as well. A driver who sees an isolated bright light on the horizon may experience many of the same perceptual effects.
 
@@ -355,201 +355,201 @@ Following-light experiences occupy an important place in [South Australia]({{ 'w
 
 That does not mean every unusual light is automatically explained. It does mean that reports of objects apparently pacing vehicles should be approached cautiously. The sensation of being followed can be powerful and memorable, yet it may emerge from ordinary visual processes acting in an extraordinary landscape.
 
-For researchers examining South Australian UFO reports, the lesson is straightforward: before treating a light as an unknown craft, it is essential to ask whether distance, perspective, atmospheric conditions, aircraft activity or a bright celestial object could have produced the same experience. On the Nullarbor, that question often turns out to be the most important one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/reference-guide/psychology/motion-parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[TravelAwaits+3The Decision Lab+3PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabMotion ParallaxMotion parallax helps us judge distance and depth. This hidden cue guides perception, shapes behavior, and...</span></span></span>
+For researchers examining South Australian UFO reports, the lesson is straightforward: before treating a light as an unknown craft, it is essential to ask whether distance, perspective, atmospheric conditions, aircraft activity or a bright celestial object could have produced the same experience. On the Nullarbor, that question often turns out to be the most important one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/reference-guide/psychology/motion-parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[thedecisionlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabMotion ParallaxMotion parallax helps us judge distance and depth. This hidden cue guides perception, shapes behavior, and...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CqIoxsjVYY0" title="Nullarbor Myths vs Facts: The Truth About Crossing Australia’s Outback Highway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CqIoxsjVYY0" target="_blank" rel="noopener noreferrer">Nullarbor Myths vs Facts: The Truth About Crossing Australia’s Outback Highway</a></p><p class="youtube-embed-meta">Channel: Tropical Zooms</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CqIoxsjVYY0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CqIoxsjVYY0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why lights seem to follow outback drivers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why lights seem to follow outback drivers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Explains how ordinary lights and viewing conditions can create extraordinary interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how ordinary lights and viewing conditions can create extraordinary interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Covers observational errors, distance judgments and common causes of apparent UFO pursuit behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers observational errors, distance judgments and common causes of apparent UFO pursuit behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Demonstrates limits of human perception and attention that contribute to unusual sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates limits of human perception and attention that contribute to unusual sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visual+Intelligence+by+Donald+D.+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visual Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4ZO_QgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Visual Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Donald+D.+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visual Intelligence">Visual Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Donald D. Hoffman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Visual+Intelligence+by+Donald+D.+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visual Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4ZO_QgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Visual Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Donald+D.+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visual Intelligence">Visual Intelligence</a>
+</h4>
+<p class="fr-book-author">By Donald D. Hoffman</p>
         
-        <p class="fr-book-desc">Helps explain why the brain misjudges motion, distance and intent in sparse visual environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Donald+D.+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why the brain misjudges motion, distance and intent in sparse visual environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Donald+D.+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5c93a3312d26541cf52d.jpg' | relative_url }}" alt="Listing image for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5c93a3312d26541cf52d.jpg' | relative_url }}" alt="Listing image for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min"><img src="{{ '/assets/images/marketplace-covers/4b0841c18a7477a70bf3.jpg' | relative_url }}" alt="Listing image for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min"><img src="{{ '/assets/images/marketplace-covers/4b0841c18a7477a70bf3.jpg' | relative_url }}" alt="Listing image for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5dde7063b632c45a7f2c.jpg' | relative_url }}" alt="Listing image for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5dde7063b632c45a7f2c.jpg' | relative_url }}" alt="Listing image for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day CD Basket Case Grüne Sammler Hülle"><img src="{{ '/assets/images/marketplace-covers/57b827fd9c64b46341f3.jpg' | relative_url }}" alt="Listing image for Green Day CD Basket Case Grüne Sammler Hülle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day CD Basket Case Grüne Sammler Hülle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day CD Basket Case Grüne Sammler Hülle"><img src="{{ '/assets/images/marketplace-covers/57b827fd9c64b46341f3.jpg' | relative_url }}" alt="Listing image for Green Day CD Basket Case Grüne Sammler Hülle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day CD Basket Case Grüne Sammler Hülle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="following-lights-why-lights-seem-to-follow-outback-drivers-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ For researchers examining South Australian UFO reports, the lesson is straightfo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ For researchers examining South Australian UFO reports, the lesson is straightfo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ For researchers examining South Australian UFO reports, the lesson is straightfo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ For researchers examining South Australian UFO reports, the lesson is straightfo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ For researchers examining South Australian UFO reports, the lesson is straightfo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,122 +755,122 @@ For researchers examining South Australian UFO reports, the lesson is straightfo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: australia.com  
-   Link: <a href="https://www.australia.com/en/trips-and-itineraries/perth-and-surrounds/crossing-the-nullarbor.html" target="_blank" rel="noopener noreferrer nofollow">https://www.australia.com/en/trips-and-itineraries/perth-and-surrounds/crossing-the-nullarbor.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Driving across the Nullarbor PlainLet go of your stress and feel the wide open space of Australia&#x27;s outback at one of the world&#x27;s greates...</p></details>
+   Link:<a href="https://www.australia.com/en/trips-and-itineraries/perth-and-surrounds/crossing-the-nullarbor.html" target="_blank" rel="noopener noreferrer nofollow">https://www.australia.com/en/trips-and-itineraries/perth-and-surrounds/crossing-the-nullarbor.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Driving across the Nullarbor PlainLet go of your stress and feel the wide open space of Australia&#x27;s outback at one of the world&#x27;s greates...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rac.com.au  
    Title: RAC WA  
-   Link: <a href="https://rac.com.au/horizons/explore/road-tripping-the-nullarbor" target="_blank" rel="noopener noreferrer nofollow">https://rac.com.au/horizons/explore/road-tripping-the-nullarbor</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For a better WARoad tripping the Nullarbor18 Aug 2025 — &#x27; Often seen as a flat, empty no man&#x27;s land with nothing but Australia&#x27;s longest...</p></details>
+   Link:<a href="https://rac.com.au/horizons/explore/road-tripping-the-nullarbor" target="_blank" rel="noopener noreferrer nofollow">https://rac.com.au/horizons/explore/road-tripping-the-nullarbor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For a better WARoad tripping the Nullarbor18 Aug 2025 — &#x27; Often seen as a flat, empty no man&#x27;s land with nothing but Australia&#x27;s longest...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABClisten/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-/1047737677367220/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABClisten/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-/1047737677367220/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO sighting in Far North Queensland set off an...“The object in the video seems to me indistinguishable from Venus as seen in...</p></details>
+   Link:<a href="https://www.facebook.com/ABClisten/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-/1047737677367220/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABClisten/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-/1047737677367220/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO sighting in Far North Queensland set off an...“The object in the video seems to me indistinguishable from Venus as seen in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: travelawaits.com  
    Title: distant car light trapped in cold air. Nullarbor Plain Drivers  
-   Link: <a href="https://www.travelawaits.com/2698693/rare-sky-phenomena-australia/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelawaits.com/2698693/rare-sky-phenomena-australia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Rare Sky Phenomena You Can Witness In AustraliaSeptember 27, 2021 — 26 Sept 2021 — The Min Min Min Min are mysterious Outba...</p></details>
+   Link:<a href="https://www.travelawaits.com/2698693/rare-sky-phenomena-australia/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelawaits.com/2698693/rare-sky-phenomena-australia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Rare Sky Phenomena You Can Witness In AustraliaSeptember 27, 2021 — 26 Sept 2021 — The Min Min Min Min are mysterious Outba...</p></details>
    Published: September 27, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SecretsofAus/photos/late-at-night-across-the-nullarbor-drivers-began-reporting-something-strange-mov/122302506398238057/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SecretsofAus/photos/late-at-night-across-the-nullarbor-drivers-began-reporting-something-strange-mov/122302506398238057/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Late at night across the Nullarbor, drivers began reporting...27 May 2026 — People stopped their cars along isolated highways, staring a...</p></details>
+   Link:<a href="https://www.facebook.com/SecretsofAus/photos/late-at-night-across-the-nullarbor-drivers-began-reporting-something-strange-mov/122302506398238057/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SecretsofAus/photos/late-at-night-across-the-nullarbor-drivers-began-reporting-something-strange-mov/122302506398238057/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Late at night across the Nullarbor, drivers began reporting...27 May 2026 — People stopped their cars along isolated highways, staring a...</p></details>
    Published: May 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NullarborRoadhouse/posts/up-in-the-sky-or-on-the-ground-the-sundown-in-nullarbor-is-simply-captivating-%EF%B8%8Fs/4689029497889461/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NullarborRoadhouse/posts/up-in-the-sky-or-on-the-ground-the-sundown-in-nullarbor-is-simply-captivating-%EF%B8%8Fs/4689029497889461/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>) light aircraft produced...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NullarborRoadhouse/posts/up-in-the-sky-or-on-the-ground-the-sundown-in-nullarbor-is-simply-captivating-%EF%B8%8Fs/4689029497889461/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NullarborRoadhouse/posts/up-in-the-sky-or-on-the-ground-the-sundown-in-nullarbor-is-simply-captivating-%EF%B8%8Fs/4689029497889461/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>) light aircraft produced...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1121214484648210/permalink/4345141988922094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1121214484648210/permalink/4345141988922094/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerial views of the Nullarbor Outback AustraliaThis is a number of video clips taken by a drone by a truck driver who runs East West week...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1121214484648210/permalink/4345141988922094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1121214484648210/permalink/4345141988922094/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aerial views of the Nullarbor Outback AustraliaThis is a number of video clips taken by a drone by a truck driver who runs East West week...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheNTNews/posts/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/1505194630956170/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNTNews/posts/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/1505194630956170/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>multiple UFO reports after strange lights appeared over Palmerston...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/TheNTNews/posts/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/1505194630956170/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNTNews/posts/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/1505194630956170/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>multiple UFO reports after strange lights appeared over Palmerston...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/motion-parallax" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/motion-parallax</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabMotion ParallaxMotion parallax helps us judge distance and depth. This hidden cue guides perception, shapes behavior, and...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/motion-parallax" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/motion-parallax</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabMotion ParallaxMotion parallax helps us judge distance and depth. This hidden cue guides perception, shapes behavior, and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17076062/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17076062/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of motion parallax and perspective cues on...by J Tozawa · 2006 · Cited by 17 — In three experiments we examined the relative effectiven...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/17076062/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17076062/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of motion parallax and perspective cues on...by J Tozawa · 2006 · Cited by 17 — In three experiments we examined the relative effectiven...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wexler.free.fr  
    Title: gibson (1959) motion parallax as a determinant of perceived depth  
-   Link: <a href="https://wexler.free.fr/library/files/gibson%20%281959%29%20motion%20parallax%20as%20a%20determinant%20of%20perceived%20depth.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wexler.free.fr/library/files/gibson%20%281959%29%20motion%20parallax%20as%20a%20determinant%20of%20perceived%20depth.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>motion parallax as a determinant of perceived depth1by EJ GIBSON · 1959 · Cited by 407 — A given angular velocity is a cue for dist...</p></details>
+   Link:<a href="https://wexler.free.fr/library/files/gibson%20%281959%29%20motion%20parallax%20as%20a%20determinant%20of%20perceived%20depth.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wexler.free.fr/library/files/gibson%20%281959%29%20motion%20parallax%20as%20a%20determinant%20of%20perceived%20depth.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>motion parallax as a determinant of perceived depth1by EJ GIBSON · 1959 · Cited by 407 — A given angular velocity is a cue for dist...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Nullarbor  
-   Link: <a href="https://www.youtube.com/shorts/acUYSMfkOmc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/acUYSMfkOmc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s Most Underrated Road Trip! The...Join us as we kick off our epic road trip across the Nullarbor, one of Australia&#x27;s most und...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/acUYSMfkOmc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/acUYSMfkOmc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s Most Underrated Road Trip! The...Join us as we kick off our epic road trip across the Nullarbor, one of Australia&#x27;s most und...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/motion-parallax-in-psychology-definition-lesson-quiz.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/motion-parallax-in-psychology-definition-lesson-quiz.html</a>  
+   Link:<a href="https://study.com/academy/lesson/motion-parallax-in-psychology-definition-lesson-quiz.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/motion-parallax-in-psychology-definition-lesson-quiz.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: study.com  
    Title: Motion Parallax in Psychology | Definition & Examples  
-   Link: <a href="https://study.com/academy/lesson/video/motion-parallax-in-psychology-definition-lesson-quiz.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/motion-parallax-in-psychology-definition-lesson-quiz.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoMotion parallax is a type of depth perception that happens when objects at varying distances seem to move at different speeds as we...</p></details>
+   Link:<a href="https://study.com/academy/lesson/video/motion-parallax-in-psychology-definition-lesson-quiz.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/motion-parallax-in-psychology-definition-lesson-quiz.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VideoMotion parallax is a type of depth perception that happens when objects at varying distances seem to move at different speeds as we...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DHQmEuWu2L9/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DHQmEuWu2L9/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sky to distract, disorient, and confuse travellers who are journeying...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DHQmEuWu2L9/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DHQmEuWu2L9/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sky to distract, disorient, and confuse travellers who are journeying...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/18d23e7/unexplained_lights_pilbara_western_australia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/18d23e7/unexplained_lights_pilbara_western_australia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 lights, resembling stars, start between the two...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/18d23e7/unexplained_lights_pilbara_western_australia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/18d23e7/unexplained_lights_pilbara_western_australia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 lights, resembling stars, start between the two...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DCGZQUUPeMH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DCGZQUUPeMH/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hese limestone sea cliffs are found in the Nullarbor desert...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DCGZQUUPeMH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DCGZQUUPeMH/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hese limestone sea cliffs are found in the Nullarbor desert...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZKS33Nj25y/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZKS33Nj25y/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g out the back, Driving across the Nullarbor in two days...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZKS33Nj25y/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZKS33Nj25y/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g out the back, Driving across the Nullarbor in two days...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DMEr9pJS0yj/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMEr9pJS0yj/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Haters will say they are just shooting stars ⭐️ #4x4...And recently, dashcam footage captured unexplained lights pacing vehicles across...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DMEr9pJS0yj/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMEr9pJS0yj/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haters will say they are just shooting stars ⭐️ #4x4...And recently, dashcam footage captured unexplained lights pacing vehicles across...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: lifeoutsidethe9to5.substack.com  
    Title: story time the nullarbor lights  
-   Link: <a href="https://lifeoutsidethe9to5.substack.com/p/story-time-the-nullarbor-lights" target="_blank" rel="noopener noreferrer nofollow">https://lifeoutsidethe9to5.substack.com/p/story-time-the-nullarbor-lights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time- The Nullarbor LightsAbout to begin the famous Nullarbor drive. 1200km of straight outback Australian road connecting South Australi...</p></details>
+   Link:<a href="https://lifeoutsidethe9to5.substack.com/p/story-time-the-nullarbor-lights" target="_blank" rel="noopener noreferrer nofollow">https://lifeoutsidethe9to5.substack.com/p/story-time-the-nullarbor-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time- The Nullarbor LightsAbout to begin the famous Nullarbor drive. 1200km of straight outback Australian road connecting South Australi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CTUEXprQl9s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CTUEXprQl9s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ters and sky creature attacks over Australia&#x27;s infamous Nullarbor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CTUEXprQl9s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CTUEXprQl9s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ters and sky creature attacks over Australia&#x27;s infamous Nullarbor...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: discoveryholidayparks.com.au  
    Title: amazing experiences across the nullarbor plain  
-   Link: <a href="https://www.discoveryholidayparks.com.au/holiday-inspiration/things-to-see-and-do/amazing-experiences-across-the-nullarbor-plain" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryholidayparks.com.au/holiday-inspiration/things-to-see-and-do/amazing-experiences-across-the-nullarbor-plain</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All the basics from when to see the Head of the Bight whales, to stargazing, golf and greenery.Read more...</p></details>
+   Link:<a href="https://www.discoveryholidayparks.com.au/holiday-inspiration/things-to-see-and-do/amazing-experiences-across-the-nullarbor-plain" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryholidayparks.com.au/holiday-inspiration/things-to-see-and-do/amazing-experiences-across-the-nullarbor-plain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All the basics from when to see the Head of the Bight whales, to stargazing, golf and greenery.Read more...</p></details>

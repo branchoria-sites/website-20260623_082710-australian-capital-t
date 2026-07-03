@@ -317,11 +317,11 @@ That distinction is important in a state with Sydney Airport, military and emerg
 
 Many New South Wales UFO reports describe [lights]({{ 'lights/' | relative_url }}) moving steadily, hovering, changing brightness, splitting into multiple points, or appearing silent. Those features can sound exotic, but they are also common in aircraft observations. A distant aircraft approaching head-on can appear to hover. Landing lights can brighten suddenly. A banked turn can change colour and apparent speed. Helicopters, police aircraft, medical flights and military aircraft can move in ways that feel unlike ordinary airline traffic.
 
-The public now has several ways to test this. Airservices Australia explains that Automatic Dependent Surveillance–Broadcast, or ADS-B, allows aircraft to transmit position information so they can be accurately tracked by controllers and other pilots. Australia has significant ADS-B coverage across the continent, which is especially relevant for a large state such as New South Wales, where aircraft range from Sydney-bound jets to regional and remote operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/industry-info/resources/ads-b/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-snippet">AirservicesAutomatic Dependent Surveillance BroadcastAutomatic Dependent Surveillance Broadcast (ADS-B) is an air traffic surveillance te...</span></span></span>
+The public now has several ways to test this. Airservices Australia explains that Automatic Dependent Surveillance–Broadcast, or ADS-B, allows aircraft to transmit position information so they can be accurately tracked by controllers and other pilots. Australia has significant ADS-B coverage across the continent, which is especially relevant for a large state such as New South Wales, where aircraft range from Sydney-bound jets to regional and remote operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/industry-info/resources/ads-b/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-snippet">AirservicesAutomatic Dependent Surveillance BroadcastAutomatic Dependent Surveillance Broadcast (ADS-B) is an air traffic surveillance te...</span></span></span>
 
-Public flight-tracking services use this type of data in different ways. FlightAware says its network receives ADS-B and Mode S data from aircraft around the world, while ADS-B Exchange describes itself as an independent receiver network showing aircraft broadcasts as received. These tools are not identical to official air traffic control systems, but they give a useful first pass: was something with a plausible track, altitude and direction in the right patch of sky? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightaware.com/adsb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightaware.com">[FlightAware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightaware.com</span><span class="citation-popover-snippet">ADS-B Flight TrackingFlightAware operates a worldwide network of ADS-B and Mode S receivers that track ADS-B or Mode S equippe...</span></span></span>
+Public flight-tracking services use this type of data in different ways. FlightAware says its network receives ADS-B and Mode S data from aircraft around the world, while ADS-B Exchange describes itself as an independent receiver network showing aircraft broadcasts as received. These tools are not identical to official air traffic control systems, but they give a useful first pass: was something with a plausible track, altitude and direction in the right patch of sky?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightaware.com/adsb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightaware.com">[FlightAware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightaware.com</span><span class="citation-popover-snippet">ADS-B Flight TrackingFlightAware operates a worldwide network of ADS-B and Mode S receivers that track ADS-B or Mode S equippe...</span></span></span>
 
-For Sydney and surrounding areas, Airservices’ WebTrak is particularly useful because it is built for public review of aircraft movements and noise. It displays aircraft movements within 100 kilometres of major airports and up to 30,000 feet, using secondary surveillance radar and associated aircraft-noise data. That means a light reported from suburbs around Sydney, the Illawarra, the Central Coast or the Blue Mountains may be checkable against actual airport-related traffic, not just a generic flight app. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">Airservices Web Trak</span></span></span>
+For Sydney and surrounding areas, Airservices’ WebTrak is particularly useful because it is built for public review of aircraft movements and noise. It displays aircraft movements within 100 kilometres of major airports and up to 30,000 feet, using secondary surveillance radar and associated aircraft-noise data. That means a light reported from suburbs around Sydney, the Illawarra, the Central Coast or the Blue Mountains may be checkable against actual airport-related traffic, not just a generic flight app.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">Airservices Web Trak</span></span></span>
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1-Illustration-1-dark.svg" | relative_url }}" alt="Modern Checks illustration 1" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -357,19 +357,19 @@ This is why modern checking is strongest when it finds a positive match, not whe
 
 ### Why Starlink changed UFO reporting
 
-The most obvious modern change is Starlink. SpaceX’s satellite trains are now a recurring source of “UFO” reports because newly deployed satellites can appear as a tight line of bright points moving steadily across the sky. Space.com’s current guide notes that [Starlink trains]({{ 'starlink-trains-a8142a/' | relative_url }}) are often mistaken for UFOs, especially soon after deployment, before the satellites spread out into their operational orbit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night sky</span></span></span>
+The most obvious modern change is Starlink. SpaceX’s satellite trains are now a recurring source of “UFO” reports because newly deployed satellites can appear as a tight line of bright points moving steadily across the sky. Space.com’s current guide notes that [Starlink trains]({{ 'starlink-trains-a8142a/' | relative_url }}) are often mistaken for UFOs, especially soon after deployment, before the satellites spread out into their operational orbit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night sky</span></span></span>
 
 This matters for New South Wales because a clear evening over Sydney, Wollongong, Newcastle or inland NSW can produce many simultaneous witnesses. A single Starlink train may generate reports from multiple suburbs, making the event seem more mysterious than it is. In fact, the wide witness spread is often a clue that the object is high above Earth rather than a low object over one town.
 
-Several public tools can test this. Heavens-Above provides satellite predictions customised for a location, including Starlink passes, brighter satellites and astronomical sky charts. NASA’s Spot the Station app gives viewing predictions and real-time tracking for the International Space Station, which can be startlingly bright and can fade suddenly as it enters Earth’s shadow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Open source on heavens-above.com.</span></span></span>
+Several public tools can test this. Heavens-Above provides satellite predictions customised for a location, including Starlink passes, brighter satellites and astronomical sky charts. NASA’s Spot the Station app gives viewing predictions and real-time tracking for the International Space Station, which can be startlingly bright and can fade suddenly as it enters Earth’s shadow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Open source on heavens-above.com.</span></span></span>
 
-CelesTrak is more technical but important because it publishes orbital element data used for satellite tracking. Its Starlink table and supplemental data show how dynamic these constellations are, including recently launched groups and post-deployment information. For serious investigators, that matters because a satellite prediction based on stale orbital data can be wrong enough to confuse a sighting check. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://celestrak.org/NORAD/Elements/table.php?FORMAT=csv&amp;GROUP=starlink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Open source on celestrak.org.</span></span></span>
+CelesTrak is more technical but important because it publishes orbital element data used for satellite tracking. Its Starlink table and supplemental data show how dynamic these constellations are, including recently launched groups and post-deployment information. For serious investigators, that matters because a satellite prediction based on stale orbital data can be wrong enough to confuse a sighting check.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://celestrak.org/NORAD/Elements/table.php?FORMAT=csv&amp;GROUP=starlink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Open source on celestrak.org.</span></span></span>
 
 ### A recent NSW example: rocket plumes, not craft
 
-Not every space-related “UFO” is a satellite train. In June 2026, a Chinese-launched Zhuque-2E rocket lit up skies across Queensland and northern New South Wales. ABC News reported that the rocket launched from China at about 6.20 pm and became visible over Queensland roughly 20 minutes later; astrophysicist Jonti Horner explained that the rocket was high enough to remain sunlit after darkness had fallen on the ground, creating a dramatic light show. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Chinese-launched rocket lights up Australian skies as it</span><span class="citation-popover-snippet">ABC News Chinese-launched rocket lights up Australian skies as it</span></span></span>
+Not every space-related “UFO” is a satellite train. In June 2026, a Chinese-launched Zhuque-2E rocket lit up skies across Queensland and northern New South Wales. ABC News reported that the rocket launched from China at about 6.20 pm and became visible over Queensland roughly 20 minutes later; astrophysicist Jonti Horner explained that the rocket was high enough to remain sunlit after darkness had fallen on the ground, creating a dramatic light show.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Chinese-launched rocket lights up Australian skies as it</span><span class="citation-popover-snippet">ABC News Chinese-launched rocket lights up Australian skies as it</span></span></span>
 
-7NEWS similarly reported that the Zhu Que-2E Y6 rocket was seen across eastern Australia after launching from the Jiuquan Satellite Launch Centre, with a blue-and-white glow caused by high-altitude material catching sunlight. The same event produced social media confusion and “UFO”-style speculation across NSW and Queensland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 7news.com.au">[NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">7news.com.au</span><span class="citation-popover-title">7NEWSChinese rocket seen across NSW and Queensland as</span><span class="citation-popover-snippet">7NEWSChinese rocket seen across NSW and Queensland as</span></span></span>
+7NEWS similarly reported that the Zhu Que-2E Y6 rocket was seen across eastern Australia after launching from the Jiuquan Satellite Launch Centre, with a blue-and-white glow caused by high-altitude material catching sunlight. The same event produced social media confusion and “UFO”-style speculation across NSW and Queensland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 7news.com.au">[NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">7news.com.au</span><span class="citation-popover-title">7NEWSChinese rocket seen across NSW and Queensland as</span><span class="citation-popover-snippet">7NEWSChinese rocket seen across NSW and Queensland as</span></span></span>
 
 This is a good example of why modern checking must include rocket launches as well as aircraft. A rocket plume can look unlike an aircraft, unlike a meteor and unlike an ordinary satellite. It may appear as a glowing cloud, fan, spiral, orb or “jellyfish” shape, especially around twilight when the ground is dark but high-altitude exhaust is still sunlit. Similar events are often dramatic enough to generate genuine public uncertainty before the launch path is identified.
 
@@ -377,9 +377,9 @@ This is a good example of why modern checking must include rocket launches as we
 <img src="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1-Illustration-2-dark.svg" | relative_url }}" alt="Modern Checks illustration 2" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why satellites can fool experienced observers
 
-Satellites do not always look like neat dots crossing the sky. Research on Starlink flares has shown that satellites can become extremely bright when sunlight reflects specularly from their surfaces towards an observer. One study applied this to a case reported as an unidentified aerial phenomenon by commercial pilots, showing that unusual satellite illumination can mislead even trained observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">arXiv Extreme Flaring of Starlink Satellites</span></span></span>
+Satellites do not always look like neat dots crossing the sky. Research on Starlink flares has shown that satellites can become extremely bright when sunlight reflects specularly from their surfaces towards an observer. One study applied this to a case reported as an unidentified aerial phenomenon by commercial pilots, showing that unusual satellite illumination can mislead even trained observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">arXiv Extreme Flaring of Starlink Satellites</span></span></span>
 
-Another aviation-focused study reconstructed a 2022 Pacific sighting reported by five pilots on two commercial flights. The researchers used Starlink orbital data and ADS-B flight data to model what the pilots could have seen from the cockpit, concluding that misidentified Starlink satellites can create aviation confusion and that better space situational awareness would help. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Another aviation-focused study reconstructed a 2022 Pacific sighting reported by five pilots on two commercial flights. The researchers used Starlink orbital data and ADS-B flight data to model what the pilots could have seen from the cockpit, concluding that misidentified Starlink satellites can create aviation confusion and that better space situational awareness would help.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 For New South Wales sightings, the lesson is clear: “the witness was experienced” is useful, but it is not decisive. Pilots, police officers, astronomers and frequent skywatchers can all be surprised by a new kind of satellite illumination or a rocket plume at the wrong moment.
 
@@ -387,7 +387,7 @@ For New South Wales sightings, the lesson is clear: “the witness was experienc
 
 Drones are now part of the New South Wales UFO landscape, especially around suburbs, beaches, parks, rural properties and event areas. They can hover, dart sideways, change altitude, show coloured lights and disappear behind trees or buildings. A drone seen at night can be especially hard to judge because there may be no clear background reference.
 
-CASA’s recreational drone rules are useful when assessing claims. Recreational operators must keep drones under 120 metres above ground level, keep them at least 30 metres from people, fly only during the day, keep the drone within visual line of sight, and avoid flying near emergency operations or within restricted areas such as close to aerodromes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/knowyourdrone/drone-rules" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-snippet">Open source on casa.gov.au.</span></span></span>
+CASA’s recreational drone rules are useful when assessing claims. Recreational operators must keep drones under 120 metres above ground level, keep them at least 30 metres from people, fly only during the day, keep the drone within visual line of sight, and avoid flying near emergency operations or within restricted areas such as close to aerodromes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/knowyourdrone/drone-rules" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-snippet">Open source on casa.gov.au.</span></span></span>
 
 Those rules do not mean drones are never seen at night or in odd places. Some operators have approvals, and some people break rules. But the rules provide a reality check. A “UFO” hovering low over a park, beach, rural road or housing estate may fit a drone better than a satellite or aircraft. A light high overhead crossing the whole sky in a straight line does not.
 
@@ -412,13 +412,13 @@ A modern New South Wales sighting can be checked in a logical order. The point i
 
 **First, fix the observation.** Establish the exact time, location, direction and duration. Without these, the case may be interesting as testimony but weak as evidence.
 
-**Second, check aircraft.** Use WebTrak for Sydney-linked aircraft movements where relevant, then compare with public flight trackers such as FlightAware or ADS-B Exchange. Look for matching direction, time, altitude trend and apparent brightness changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices+2FlightAware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">Airservices Web Trak</span></span></span>
+**Second, check aircraft.** Use WebTrak for Sydney-linked aircraft movements where relevant, then compare with public flight trackers such as FlightAware or ADS-B Exchange. Look for matching direction, time, altitude trend and apparent brightness changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[airservicesaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">Airservices Web Trak</span></span></span>
 
-**Third, check satellites and the ISS.** Use Heavens-Above, NASA Spot the Station, or more technical sources such as CelesTrak when needed. Starlink trains are especially important for reports of evenly spaced lights moving in a line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Open source on heavens-above.com.</span></span></span>
+**Third, check satellites and the ISS.** Use Heavens-Above, NASA Spot the Station, or more technical sources such as CelesTrak when needed. Starlink trains are especially important for reports of evenly spaced lights moving in a line.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[heavens-above.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Open source on heavens-above.com.</span></span></span>
 
-**Fourth, check recent launches and re-entries.** Rocket plumes, fuel dumps and re-entering debris can be seen across huge areas. The June 2026 Zhuque-2E sighting over Queensland and northern NSW shows how a spaceflight event can produce a spectacular “UFO” report across state lines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Chinese-launched rocket lights up Australian skies as it</span><span class="citation-popover-snippet">ABC News Chinese-launched rocket lights up Australian skies as it</span></span></span>
+**Fourth, check recent launches and re-entries.** Rocket plumes, fuel dumps and re-entering debris can be seen across huge areas. The June 2026 Zhuque-2E sighting over Queensland and northern NSW shows how a spaceflight event can produce a spectacular “UFO” report across state lines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Chinese-launched rocket lights up Australian skies as it</span><span class="citation-popover-snippet">ABC News Chinese-launched rocket lights up Australian skies as it</span></span></span>
 
-**Fifth, check drones and local activity.** A low, nearby, manoeuvring light may be a drone even when it does not appear on flight trackers. CASA rules help frame what is normal, restricted or suspicious, but they do not provide a public track for most small drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/knowyourdrone/drone-rules" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-snippet">Open source on casa.gov.au.</span></span></span>
+**Fifth, check drones and local activity.** A low, nearby, manoeuvring light may be a drone even when it does not appear on flight trackers. CASA rules help frame what is normal, restricted or suspicious, but they do not provide a public track for most small drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/knowyourdrone/drone-rules" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-snippet">Open source on casa.gov.au.</span></span></span>
 
 **Finally, look for independent witnesses.** A single video with no context is weak. Multiple witnesses in different suburbs may either strengthen a case or point to a high-altitude explanation such as a rocket or satellite. The pattern matters more than the number of excited posts.
 
@@ -456,194 +456,194 @@ That means many reports will lose their mystery quickly. A row of lights may be 
 The remaining cases may be fewer, but they are more useful. If a report survives careful checks against aircraft data, satellite predictions, launch records, drone plausibility and camera artefacts, it deserves more attention than a dramatic clip that has never been tested. For New South Wales, modern UFO checking is therefore not about removing wonder from the sky. It is about making sure the wonder is attached to the right question.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Modern Tools Solve Old Style UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Modern Tools Solve Old Style UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on systematic investigation and classification of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on systematic investigation and classification of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Represents a contemporary attempt to interpret unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents a contemporary attempt to interpret unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores stronger UFO cases and the need for reliable evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores stronger UFO cases and the need for reliable evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Matches the article&#x27;s focus on testing UFO reports with evidence and modern tools.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Matches the article&#x27;s focus on testing UFO reports with evidence and modern tools.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="modern-checks-can-modern-tools-solve-old-style-ufo-reports-new-south-wales-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-modern-tools-solve-old-style-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -659,7 +659,7 @@ The remaining cases may be fewer, but they are more useful. If a report survives
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -679,7 +679,7 @@ The remaining cases may be fewer, but they are more useful. If a report survives
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -711,7 +711,7 @@ The remaining cases may be fewer, but they are more useful. If a report survives
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -763,7 +763,7 @@ The remaining cases may be fewer, but they are more useful. If a report survives
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -808,7 +808,7 @@ The remaining cases may be fewer, but they are more useful. If a report survives
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -849,341 +849,341 @@ The remaining cases may be fewer, but they are more useful. If a report survives
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: flightaware.com  
-   Link: <a href="https://www.flightaware.com/adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightaware.com/adsb/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Flight TrackingFlightAware operates a worldwide network of ADS-B and Mode S receivers that track ADS-B or Mode S equippe...</p></details>
+   Link:<a href="https://www.flightaware.com/adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightaware.com/adsb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Flight TrackingFlightAware operates a worldwide network of ADS-B and Mode S receivers that track ADS-B or Mode S equippe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
+   Link:<a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nasa.gov  
    Title: spot the station frequently asked questions  
-   Link: <a href="https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/</a>  
+   Link:<a href="https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/NORAD/Elements/table.php?FORMAT=csv&amp;GROUP=starlink" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/Elements/table.php?FORMAT=csv&amp;GROUP=starlink</a>  
+   Link:<a href="https://celestrak.org/NORAD/Elements/table.php?FORMAT=csv&amp;GROUP=starlink" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/Elements/table.php?FORMAT=csv&amp;GROUP=starlink</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/supplemental/</a>  
+   Link:<a href="https://celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/supplemental/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: 7news.com.au  
    Title: 7NEWSChinese rocket seen across NSW and Queensland as  
-   Link: <a href="https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991</a>  
+   Link:<a href="https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Extreme Flaring of Starlink Satellites  
-   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
+   Link:<a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/117730445004997/posts/7046957908748848/?comment_id=7047091775402128&amp;reply_comment_id=7048718248572814" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/117730445004997/posts/7046957908748848/?comment_id=7047091775402128&amp;reply_comment_id=7048718248572814</a>  
+   Link:<a href="https://www.facebook.com/groups/117730445004997/posts/7046957908748848/?comment_id=7047091775402128&amp;reply_comment_id=7048718248572814" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/117730445004997/posts/7046957908748848/?comment_id=7047091775402128&amp;reply_comment_id=7048718248572814</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/580935272283701/posts/2567564433620765/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/580935272283701/posts/2567564433620765/</a>  
+   Link:<a href="https://www.facebook.com/groups/580935272283701/posts/2567564433620765/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/580935272283701/posts/2567564433620765/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Timesnow/posts/social-media-across-australia-were-alight-with-footage-of-what-people-thought-we/1231644865673440/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Timesnow/posts/social-media-across-australia-were-alight-with-footage-of-what-people-thought-we/1231644865673440/</a>  
+   Link:<a href="https://www.facebook.com/Timesnow/posts/social-media-across-australia-were-alight-with-footage-of-what-people-thought-we/1231644865673440/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Timesnow/posts/social-media-across-australia-were-alight-with-footage-of-what-people-thought-we/1231644865673440/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/</a>  
+   Link:<a href="https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/auroraaustralia/posts/2077236549358437/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/auroraaustralia/posts/2077236549358437/</a>  
+   Link:<a href="https://www.facebook.com/groups/auroraaustralia/posts/2077236549358437/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/auroraaustralia/posts/2077236549358437/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/</a>  
+   Link:<a href="https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSSC/posts/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/1081828230722856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSSC/posts/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/1081828230722856/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSSC/posts/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/1081828230722856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSSC/posts/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/1081828230722856/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dailytelegraph/posts/a-wilton-man-believes-the-truth-is-out-there-after-filming-what-he-claims-are-no/1360891209401611/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailytelegraph/posts/a-wilton-man-believes-the-truth-is-out-there-after-filming-what-he-claims-are-no/1360891209401611/</a>  
+   Link:<a href="https://www.facebook.com/dailytelegraph/posts/a-wilton-man-believes-the-truth-is-out-there-after-filming-what-he-claims-are-no/1360891209401611/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailytelegraph/posts/a-wilton-man-believes-the-truth-is-out-there-after-filming-what-he-claims-are-no/1360891209401611/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/1161794768800608/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1161794768800608/</a>  
+   Link:<a href="https://www.facebook.com/groups/348704483442978/posts/1161794768800608/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1161794768800608/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/rawsa/posts/4415984685353716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rawsa/posts/4415984685353716/</a>  
+   Link:<a href="https://www.facebook.com/groups/rawsa/posts/4415984685353716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rawsa/posts/4415984685353716/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10NewsAU/posts/a-mysterious-white-plume-has-lit-up-the-night-sky-across-parts-of-australia-in-w/1434405662059321/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsAU/posts/a-mysterious-white-plume-has-lit-up-the-night-sky-across-parts-of-australia-in-w/1434405662059321/</a>  
+   Link:<a href="https://www.facebook.com/10NewsAU/posts/a-mysterious-white-plume-has-lit-up-the-night-sky-across-parts-of-australia-in-w/1434405662059321/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsAU/posts/a-mysterious-white-plume-has-lit-up-the-night-sky-across-parts-of-australia-in-w/1434405662059321/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NewsAustralia/videos/ufo-sightings-reported-in-nsw-and-queensland-after-stargazers-spot-glowing-white/1136627714968212/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NewsAustralia/videos/ufo-sightings-reported-in-nsw-and-queensland-after-stargazers-spot-glowing-white/1136627714968212/</a>  
+   Link:<a href="https://www.facebook.com/7NewsAustralia/videos/ufo-sightings-reported-in-nsw-and-queensland-after-stargazers-spot-glowing-white/1136627714968212/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NewsAustralia/videos/ufo-sightings-reported-in-nsw-and-queensland-after-stargazers-spot-glowing-white/1136627714968212/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/9NewsQueensland/videos/strange-space-spectacle-stuns-aussies-across-the-east-coast/1809066280066073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsQueensland/videos/strange-space-spectacle-stuns-aussies-across-the-east-coast/1809066280066073/</a>  
+   Link:<a href="https://www.facebook.com/9NewsQueensland/videos/strange-space-spectacle-stuns-aussies-across-the-east-coast/1809066280066073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsQueensland/videos/strange-space-spectacle-stuns-aussies-across-the-east-coast/1809066280066073/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/</a>  
+   Link:<a href="https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSCQ/videos/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/24860300523555460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCQ/videos/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/24860300523555460/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSCQ/videos/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/24860300523555460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCQ/videos/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/24860300523555460/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSCQ/posts/a-rocket-launched-from-north-western-china-has-been-revealed-as-the-source-of-a-/1484127013740953/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCQ/posts/a-rocket-launched-from-north-western-china-has-been-revealed-as-the-source-of-a-/1484127013740953/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSCQ/posts/a-rocket-launched-from-north-western-china-has-been-revealed-as-the-source-of-a-/1484127013740953/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCQ/posts/a-rocket-launched-from-north-western-china-has-been-revealed-as-the-source-of-a-/1484127013740953/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcinsydney/posts/a-chinese-rocket-has-lit-up-the-skies-across-queensland-and-northern-new-south-w/1403590728470678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcinsydney/posts/a-chinese-rocket-has-lit-up-the-skies-across-queensland-and-northern-new-south-w/1403590728470678/</a>  
+   Link:<a href="https://www.facebook.com/abcinsydney/posts/a-chinese-rocket-has-lit-up-the-skies-across-queensland-and-northern-new-south-w/1403590728470678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcinsydney/posts/a-chinese-rocket-has-lit-up-the-skies-across-queensland-and-northern-new-south-w/1403590728470678/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/23983065281289184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/23983065281289184/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/23983065281289184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/23983065281289184/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/143752942921617/posts/1727279117902317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/143752942921617/posts/1727279117902317/</a>  
+   Link:<a href="https://www.facebook.com/groups/143752942921617/posts/1727279117902317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/143752942921617/posts/1727279117902317/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/27248353421427004/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/27248353421427004/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/27248353421427004/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/27248353421427004/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/6747385791950401/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/6747385791950401/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/6747385791950401/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/6747385791950401/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/astronauts-aboard-the-international-space-station-have-reported-sightings-of-unu/886690194350403/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/astronauts-aboard-the-international-space-station-have-reported-sightings-of-unu/886690194350403/</a>  
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/astronauts-aboard-the-international-space-station-have-reported-sightings-of-unu/886690194350403/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/astronauts-aboard-the-international-space-station-have-reported-sightings-of-unu/886690194350403/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DanRepacholi/posts/between-cessnock-kurri-branxton-and-singleton-community-pages-my-feed-has-been-g/937470602128978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DanRepacholi/posts/between-cessnock-kurri-branxton-and-singleton-community-pages-my-feed-has-been-g/937470602128978/</a>  
+   Link:<a href="https://www.facebook.com/DanRepacholi/posts/between-cessnock-kurri-branxton-and-singleton-community-pages-my-feed-has-been-g/937470602128978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DanRepacholi/posts/between-cessnock-kurri-branxton-and-singleton-community-pages-my-feed-has-been-g/937470602128978/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/</a>  
+   Link:<a href="https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/</a>  
+   Link:<a href="https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: celestrak.org  
    Title: Celes Trak Starlink TLEs No information is available for this page  
-   Link: <a href="https://celestrak.org/NORAD/elements/gp.php?FORMAT=tle&amp;GROUP=starlink" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/gp.php?FORMAT=tle&amp;GROUP=starlink</a>  
+   Link:<a href="https://celestrak.org/NORAD/elements/gp.php?FORMAT=tle&amp;GROUP=starlink" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/gp.php?FORMAT=tle&amp;GROUP=starlink</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/</a>  
+   Link:<a href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/</a>  
+   Link:<a href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
+   Link:<a href="https://celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: au.webtrak.aero  
    Title: aero Sydney  
-   Link: <a href="https://au.webtrak.aero/syd3" target="_blank" rel="noopener noreferrer nofollow">https://au.webtrak.aero/syd3</a>  
+   Link:<a href="https://au.webtrak.aero/syd3" target="_blank" rel="noopener noreferrer nofollow">https://au.webtrak.aero/syd3</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/explain.aspx</a>  
+   Link:<a href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/explain.aspx</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: in-the-sky.org  
-   Link: <a href="https://in-the-sky.org/satpasses.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/satpasses.php</a>  
+   Link:<a href="https://in-the-sky.org/satpasses.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/satpasses.php</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/industry-info/resources/ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/industry-info/resources/ads-b/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesAutomatic Dependent Surveillance BroadcastAutomatic Dependent Surveillance Broadcast (ADS-B) is an air traffic surveillance te...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/industry-info/resources/ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/industry-info/resources/ads-b/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesAutomatic Dependent Surveillance BroadcastAutomatic Dependent Surveillance Broadcast (ADS-B) is an air traffic surveillance te...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: airservicesaustralia.com  
    Title: Airservices Web Trak  
-   Link: <a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/</a>  
+   Link:<a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: abc.net.au  
    Title: ABC News Chinese-launched rocket lights up Australian skies as it  
-   Link: <a href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074</a>  
+   Link:<a href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: casa.gov.au  
-   Link: <a href="https://www.casa.gov.au/knowyourdrone/drone-rules" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/knowyourdrone/drone-rules</a>  
+   Link:<a href="https://www.casa.gov.au/knowyourdrone/drone-rules" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/knowyourdrone/drone-rules</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXRBzkSDPeW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXRBzkSDPeW/</a>  
+   Link:<a href="https://www.instagram.com/reel/DXRBzkSDPeW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXRBzkSDPeW/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: airservicesaustralia.com  
    Title: FAQ ADS B DEC16  
-   Link: <a href="https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf</a>  
+   Link:<a href="https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/</a>  
+   Link:<a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=appinventor.ai_ondraaudy.ADSBFT" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=appinventor.ai_ondraaudy.ADSBFT</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=appinventor.ai_ondraaudy.ADSBFT" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=appinventor.ai_ondraaudy.ADSBFT</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.heavens_above.viewer" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.heavens_above.viewer</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.heavens_above.viewer" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.heavens_above.viewer</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: Wikipedia  
    Title: Automatic Dependent Surveillance–Broadcast  
-   Link: <a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: dji.com  
-   Link: <a href="https://www.dji.com/flyingtips/au" target="_blank" rel="noopener noreferrer nofollow">https://www.dji.com/flyingtips/au</a>  
+   Link:<a href="https://www.dji.com/flyingtips/au" target="_blank" rel="noopener noreferrer nofollow">https://www.dji.com/flyingtips/au</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: abc.net.au  
    Title: accessing australia secret ufo files  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: apify.com  
    Title: celestrak tle satellites scraper  
-   Link: <a href="https://apify.com/parseforge/celestrak-tle-satellites-scraper" target="_blank" rel="noopener noreferrer nofollow">https://apify.com/parseforge/celestrak-tle-satellites-scraper</a>  
+   Link:<a href="https://apify.com/parseforge/celestrak-tle-satellites-scraper" target="_blank" rel="noopener noreferrer nofollow">https://apify.com/parseforge/celestrak-tle-satellites-scraper</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
    Title: Space Science  
-   Link: <a href="https://www.youtube.com/watch?v=bLIsqTJ37qg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bLIsqTJ37qg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=bLIsqTJ37qg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bLIsqTJ37qg</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: minister.infrastructure.gov.au  
    Title: new flight paths sydney take effect 9 july  
-   Link: <a href="https://minister.infrastructure.gov.au/c-king/media-release/new-flight-paths-sydney-take-effect-9-july" target="_blank" rel="noopener noreferrer nofollow">https://minister.infrastructure.gov.au/c-king/media-release/new-flight-paths-sydney-take-effect-9-july</a>  
+   Link:<a href="https://minister.infrastructure.gov.au/c-king/media-release/new-flight-paths-sydney-take-effect-9-july" target="_blank" rel="noopener noreferrer nofollow">https://minister.infrastructure.gov.au/c-king/media-release/new-flight-paths-sydney-take-effect-9-july</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/space/elon-musks-spacex-starlink-satellites-light-up-sydney-skyline/news-story/ae076781b48859b46fe4c253c295eb07" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/elon-musks-spacex-starlink-satellites-light-up-sydney-skyline/news-story/ae076781b48859b46fe4c253c295eb07</a>  
+   Link:<a href="https://www.news.com.au/technology/science/space/elon-musks-spacex-starlink-satellites-light-up-sydney-skyline/news-story/ae076781b48859b46fe4c253c295eb07" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/elon-musks-spacex-starlink-satellites-light-up-sydney-skyline/news-story/ae076781b48859b46fe4c253c295eb07</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/space/wild-scenes-as-chinese-rocket-with-sixtonne-satellite-payload-soars-over-queensland-and-nsw/news-story/b2e3a4c5b033658bb45d0d7c5eb603b6" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/wild-scenes-as-chinese-rocket-with-sixtonne-satellite-payload-soars-over-queensland-and-nsw/news-story/b2e3a4c5b033658bb45d0d7c5eb603b6</a>  
+   Link:<a href="https://www.news.com.au/technology/science/space/wild-scenes-as-chinese-rocket-with-sixtonne-satellite-payload-soars-over-queensland-and-nsw/news-story/b2e3a4c5b033658bb45d0d7c5eb603b6" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/wild-scenes-as-chinese-rocket-with-sixtonne-satellite-payload-soars-over-queensland-and-nsw/news-story/b2e3a4c5b033658bb45d0d7c5eb603b6</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/space/inside-australias-ufo-society-alien-abductions-telepathy-encounters-and-sightings/news-story/6b3e4f0d5703a5f3495a763b82c163f7" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/inside-australias-ufo-society-alien-abductions-telepathy-encounters-and-sightings/news-story/6b3e4f0d5703a5f3495a763b82c163f7</a>  
+   Link:<a href="https://www.news.com.au/technology/science/space/inside-australias-ufo-society-alien-abductions-telepathy-encounters-and-sightings/news-story/6b3e4f0d5703a5f3495a763b82c163f7" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/inside-australias-ufo-society-alien-abductions-telepathy-encounters-and-sightings/news-story/6b3e4f0d5703a5f3495a763b82c163f7</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1</a>  
+   Link:<a href="https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: drones.gov.au  
-   Link: <a href="https://www.drones.gov.au/sites/default/files/documents/Better%20Practice%20Guide%20to%20Drone%20Laws.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.drones.gov.au/sites/default/files/documents/Better%20Practice%20Guide%20to%20Drone%20Laws.pdf</a>  
+   Link:<a href="https://www.drones.gov.au/sites/default/files/documents/Better%20Practice%20Guide%20to%20Drone%20Laws.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.drones.gov.au/sites/default/files/documents/Better%20Practice%20Guide%20to%20Drone%20Laws.pdf</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: wsiflightpaths.gov.au  
-   Link: <a href="https://www.wsiflightpaths.gov.au/pdf-documents/WSI_EIS_Chapter_11_Aircraft_noise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wsiflightpaths.gov.au/pdf-documents/WSI_EIS_Chapter_11_Aircraft_noise.pdf</a>  
+   Link:<a href="https://www.wsiflightpaths.gov.au/pdf-documents/WSI_EIS_Chapter_11_Aircraft_noise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wsiflightpaths.gov.au/pdf-documents/WSI_EIS_Chapter_11_Aircraft_noise.pdf</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: 7news.com.au  
-   Link: <a href="https://7news.com.au/news/mysterious-ufo-like-glowing-orbs-over-queensland-and-nsw-explained-as-plume-from-chinese-rocket-c-19533600" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/mysterious-ufo-like-glowing-orbs-over-queensland-and-nsw-explained-as-plume-from-chinese-rocket-c-19533600</a>  
+   Link:<a href="https://7news.com.au/news/mysterious-ufo-like-glowing-orbs-over-queensland-and-nsw-explained-as-plume-from-chinese-rocket-c-19533600" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/mysterious-ufo-like-glowing-orbs-over-queensland-and-nsw-explained-as-plume-from-chinese-rocket-c-19533600</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: casa.gov.au  
    Title: part 101 micro excluded rpa operations plain english guide  
-   Link: <a href="https://www.casa.gov.au/sites/default/files/2021-08/part-101-micro-excluded-rpa-operations-plain-english-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/sites/default/files/2021-08/part-101-micro-excluded-rpa-operations-plain-english-guide.pdf</a>  
+   Link:<a href="https://www.casa.gov.au/sites/default/files/2021-08/part-101-micro-excluded-rpa-operations-plain-english-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/sites/default/files/2021-08/part-101-micro-excluded-rpa-operations-plain-english-guide.pdf</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: aviationcomplaints.gov.au  
-   Link: <a href="https://www.aviationcomplaints.gov.au/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationcomplaints.gov.au/aircraft-noise</a>  
+   Link:<a href="https://www.aviationcomplaints.gov.au/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationcomplaints.gov.au/aircraft-noise</a>  
 
 ### Additional References
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: youtube.com  
    Title: UFO Videos Explained: Mick West's Expert Analysis  
-   Link: <a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Found Hidden Patterns in 150,000 UFO Reports | ft. Christian Stepien, National UFO Database CTO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Found Hidden Patterns in 150,000 UFO Reports | ft. Christian Stepien, National UFO Database CTO...</p></details>
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: youtube.com  
    Title: UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS  
-   Link: <a href="https://www.youtube.com/watch?v=qho0N3vv7Gw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qho0N3vv7Gw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qho0N3vv7Gw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qho0N3vv7Gw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: youtube.com  
    Title: Curios Pilot: UAP Investigation Example  
-   Link: <a href="https://www.youtube.com/watch?v=CU1TRVk6yUc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CU1TRVk6yUc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CU1TRVk6yUc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CU1TRVk6yUc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS...</p></details>
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZZjS2sFBQ0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZZjS2sFBQ0/</a>  
+   Link:<a href="https://www.instagram.com/reel/DZZjS2sFBQ0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZZjS2sFBQ0/</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: x.com  
-   Link: <a href="https://x.com/7NewsSC/status/1950772827587481701" target="_blank" rel="noopener noreferrer nofollow">https://x.com/7NewsSC/status/1950772827587481701</a>  
+   Link:<a href="https://x.com/7NewsSC/status/1950772827587481701" target="_blank" rel="noopener noreferrer nofollow">https://x.com/7NewsSC/status/1950772827587481701</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C4E_LfDPv6K/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C4E_LfDPv6K/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/C4E_LfDPv6K/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C4E_LfDPv6K/?hl=en</a>  
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZYnq4wThRE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZYnq4wThRE/</a>  
+   Link:<a href="https://www.instagram.com/reel/DZYnq4wThRE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZYnq4wThRE/</a>  
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
+   Link:<a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: sydneyairport.com.au  
-   Link: <a href="https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise</a>  
+   Link:<a href="https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise</a>  

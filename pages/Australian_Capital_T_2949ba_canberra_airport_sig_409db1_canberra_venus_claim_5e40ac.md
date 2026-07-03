@@ -256,15 +256,15 @@ image: /assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_ca
 
 ## Introduction
 
-The short answer is that Venus was a plausible explanation for the Canberra Airport sighting of 15 July 1965, but it was never an entirely satisfactory one. The first public account of the incident stated that the white object seen north-east of the Canberra control tower was believed to have been a daylight appearance of Venus. Yet the location of the object in the sky, together with objections from some of the aviation personnel who observed it, meant that the explanation remained disputed. As a result, the Venus theory became one of the key points of debate in the Canberra [Airport case]({{ 'airport-case/' | relative_url }}) and an important part of the wider evidence trail in [Australian Capital Territory]({{ 'australian-capital-territory/' | relative_url }}) UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">24 Jul 1965 - Reports on UFO not ready - TroveRAAF investigators have not yet completed their report on two unidentified flying obje...</span></span></span>
+The short answer is that Venus was a plausible explanation for the Canberra Airport sighting of 15 July 1965, but it was never an entirely satisfactory one. The first public account of the incident stated that the white object seen north-east of the Canberra control tower was believed to have been a daylight appearance of Venus. Yet the location of the object in the sky, together with objections from some of the aviation personnel who observed it, meant that the explanation remained disputed. As a result, the Venus theory became one of the key points of debate in the Canberra [Airport case]({{ 'airport-case/' | relative_url }}) and an important part of the wider evidence trail in [Australian Capital Territory]({{ 'australian-capital-territory/' | relative_url }}) UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">24 Jul 1965 - Reports on UFO not ready - TroveRAAF investigators have not yet completed their report on two unidentified flying obje...</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac-Illustration-1-dark.svg" | relative_url }}" alt="Venus Claim illustration 1" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the early newspaper report said
 
-The earliest known public explanation appeared only days after the sighting. On 24 July 1965, *The Canberra Times* reported that air traffic control officers from the Department of Civil Aviation had observed a white object north-east of the control tower on 15 July. The article added that the object was “believed to have been a daylight appearance of the planet Venus”. At that stage the Royal Australian Air Force investigation had not yet been completed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">24 Jul 1965 - Reports on UFO not ready - TroveRAAF investigators have not yet completed their report on two unidentified flying obje...</span></span></span>
+The earliest known public explanation appeared only days after the sighting. On 24 July 1965, *The Canberra Times* reported that air traffic control officers from the Department of Civil Aviation had observed a white object north-east of the control tower on 15 July. The article added that the object was “believed to have been a daylight appearance of the planet Venus”. At that stage the Royal Australian Air Force investigation had not yet been completed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">24 Jul 1965 - Reports on UFO not ready - TroveRAAF investigators have not yet completed their report on two unidentified flying obje...</span></span></span>
 
-This is significant because it shows that the Venus explanation was not a later sceptical reinterpretation. It was the first explanation publicly attached to the case. Anyone reconstructing the sighting today must therefore treat Venus as an explanation considered by investigators from the outset rather than a theory introduced years afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">24 Jul 1965 - Reports on UFO not ready - TroveRAAF investigators have not yet completed their report on two unidentified flying obje...</span></span></span>
+This is significant because it shows that the Venus explanation was not a later sceptical reinterpretation. It was the first explanation publicly attached to the case. Anyone reconstructing the sighting today must therefore treat Venus as an explanation considered by investigators from the outset rather than a theory introduced years afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">24 Jul 1965 - Reports on UFO not ready - TroveRAAF investigators have not yet completed their report on two unidentified flying obje...</span></span></span>
 
 However, the newspaper report was brief and offered no detailed reasoning. Readers were not told why Venus was favoured, how long the object had been observed, or whether the witnesses themselves agreed with the identification. Those unanswered questions helped keep the issue alive.
 
@@ -280,7 +280,7 @@ Several factors made the Venus explanation attractive in July 1965:
 * The object was reportedly bright and white rather than dark or structured.
 * It appeared stationary rather than performing clearly recorded manoeuvres.
 * There was no public report of radar confirmation or other instrumented evidence.
-* Investigators were already accustomed to astronomical objects generating UFO reports, particularly Venus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">24 Jul 1965 - Reports on UFO not ready - TroveRAAF investigators have not yet completed their report on two unidentified flying obje...</span></span></span>
+* Investigators were already accustomed to astronomical objects generating UFO reports, particularly Venus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">24 Jul 1965 - Reports on UFO not ready - TroveRAAF investigators have not yet completed their report on two unidentified flying obje...</span></span></span>
 
 </div>
 
@@ -293,7 +293,7 @@ The fact that the sighting occurred in daylight did not automatically rule Venus
 
 ## Why the airport witnesses disputed it
 
-The main difficulty for the Venus theory was that some of the people closest to the sighting were not casual observers. Accounts that emerged later identify witnesses including senior civil aviation personnel, air traffic controllers and pilots. These were individuals whose work involved continual observation of the sky and the movement of aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://citynews.com.au/2018/overall-its-the-season-to-be-looking-skywards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citynews.com.au">[Canberra CityNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citynews.com.au</span><span class="citation-popover-title">Canberra City News Overall / It&#x27;s the season to be looking skywards</span><span class="citation-popover-snippet">Late on a winter&#x27;s afternoon in 1954, as they travelled the darkening road between the...Read more...</span></span></span>
+The main difficulty for the Venus theory was that some of the people closest to the sighting were not casual observers. Accounts that emerged later identify witnesses including senior civil aviation personnel, air traffic controllers and pilots. These were individuals whose work involved continual observation of the sky and the movement of aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citynews.com.au/2018/overall-its-the-season-to-be-looking-skywards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citynews.com.au">[Canberra CityNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citynews.com.au</span><span class="citation-popover-title">Canberra City News Overall / It&#x27;s the season to be looking skywards</span><span class="citation-popover-snippet">Late on a winter&#x27;s afternoon in 1954, as they travelled the darkening road between the...Read more...</span></span></span>
 
 According to later reconstructions of the case, some witnesses questioned whether Venus could fit what they had actually seen. Two objections appear repeatedly in discussions of the incident.
 
@@ -304,7 +304,7 @@ According to later reconstructions of the case, some witnesses questioned whethe
 
 The original newspaper report placed the object north-east of the control tower. Critics of the Venus explanation argued that the planet's position at the relevant time did not comfortably match witness descriptions. If the object was genuinely observed in a direction inconsistent with Venus's known location, the astronomical explanation would become much weaker.
 
-Because surviving reports are brief and sometimes inconsistent, later researchers have disagreed over exactly how strong this positional conflict was. Nevertheless, the issue became one of the central reasons why some investigators remained unconvinced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">24 Jul 1965 - Reports on UFO not ready - TroveRAAF investigators have not yet completed their report on two unidentified flying obje...</span></span></span>
+Because surviving reports are brief and sometimes inconsistent, later researchers have disagreed over exactly how strong this positional conflict was. Nevertheless, the issue became one of the central reasons why some investigators remained unconvinced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">24 Jul 1965 - Reports on UFO not ready - TroveRAAF investigators have not yet completed their report on two unidentified flying obje...</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac-Illustration-2-dark.svg" | relative_url }}" alt="Venus Claim illustration 2" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_venus_claim_5e40ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,7 +330,7 @@ The Venus explanation had genuine strengths:
 * It was proposed close to the event.
 * It relied on a known astronomical object.
 * The reported object was apparently bright and stationary.
-* No hard physical evidence contradicted it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">24 Jul 1965 - Reports on UFO not ready - TroveRAAF investigators have not yet completed their report on two unidentified flying obje...</span></span></span>
+* No hard physical evidence contradicted it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">24 Jul 1965 - Reports on UFO not ready - TroveRAAF investigators have not yet completed their report on two unidentified flying obje...</span></span></span>
 
 </div>
 
@@ -339,7 +339,7 @@ At the same time, the explanation faced important weaknesses:
 * Witnesses reportedly questioned it.
 * The stated north-east position generated doubts.
 * The observers included experienced aviation personnel.
-* Later discussions of the case continued to explore alternatives such as a high-altitude meteorological balloon rather than treating Venus as a settled identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://citynews.com.au/2018/overall-its-the-season-to-be-looking-skywards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citynews.com.au">[Canberra CityNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citynews.com.au</span><span class="citation-popover-title">Canberra City News Overall / It&#x27;s the season to be looking skywards</span><span class="citation-popover-snippet">Late on a winter&#x27;s afternoon in 1954, as they travelled the darkening road between the...Read more...</span></span></span>
+* Later discussions of the case continued to explore alternatives such as a high-altitude meteorological balloon rather than treating Venus as a settled identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citynews.com.au/2018/overall-its-the-season-to-be-looking-skywards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citynews.com.au">[Canberra CityNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citynews.com.au</span><span class="citation-popover-title">Canberra City News Overall / It&#x27;s the season to be looking skywards</span><span class="citation-popover-snippet">Late on a winter&#x27;s afternoon in 1954, as they travelled the darkening road between the...Read more...</span></span></span>
 
 For that reason, the Venus theory is best understood as a plausible but contested explanation. It was strong enough to become the first official-looking answer offered to the public, yet not strong enough to persuade everyone involved. The continuing debate over whether the Canberra Airport witnesses simply saw Venus remains one of the clearest examples of how a seemingly straightforward UFO explanation can leave important questions unresolved.
 
@@ -348,194 +348,194 @@ For that reason, the Venus theory is best understood as a plausible but conteste
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Canberra Object Really Venus?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Canberra Object Really Venus?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context on evaluating unexplained aerial sightings and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context on evaluating unexplained aerial sightings and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Explores official investigations, misidentifications, and the history of UFO inquiry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores official investigations, misidentifications, and the history of UFO inquiry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Examines how extraordinary claims should be evaluated and how observational errors can occur.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Examines how extraordinary claims should be evaluated and how observational errors can occur.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places unusual aerial reports within a broader historical and interpretive framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places unusual aerial reports within a broader historical and interpretive framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5dde7063b632c45a7f2c.jpg' | relative_url }}" alt="Listing image for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5dde7063b632c45a7f2c.jpg' | relative_url }}" alt="Listing image for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min"><img src="{{ '/assets/images/marketplace-covers/4b0841c18a7477a70bf3.jpg' | relative_url }}" alt="Listing image for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min"><img src="{{ '/assets/images/marketplace-covers/4b0841c18a7477a70bf3.jpg' | relative_url }}" alt="Listing image for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day - Basket Case MCD #G12447"><img src="{{ '/assets/images/marketplace-covers/538d5f3f3c67d195b72b.jpg' | relative_url }}" alt="Listing image for Green Day - Basket Case MCD #G12447" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day - Basket Case MCD #G12447</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day - Basket Case MCD #G12447"><img src="{{ '/assets/images/marketplace-covers/538d5f3f3c67d195b72b.jpg' | relative_url }}" alt="Listing image for Green Day - Basket Case MCD #G12447" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day - Basket Case MCD #G12447</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5c93a3312d26541cf52d.jpg' | relative_url }}" alt="Listing image for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5c93a3312d26541cf52d.jpg' | relative_url }}" alt="Listing image for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="venus-claim-was-the-canberra-object-really-venus-australian-capital-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ For that reason, the Venus theory is best understood as a plausible but conteste
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ For that reason, the Venus theory is best understood as a plausible but conteste
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ For that reason, the Venus theory is best understood as a plausible but conteste
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ For that reason, the Venus theory is best understood as a plausible but conteste
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ For that reason, the Venus theory is best understood as a plausible but conteste
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,77 +741,77 @@ For that reason, the Venus theory is best understood as a plausible but conteste
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105762549</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Jul 1965 - Reports on UFO not ready - TroveRAAF investigators have not yet completed their report on two unidentified flying obje...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105762549</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24 Jul 1965 - Reports on UFO not ready - TroveRAAF investigators have not yet completed their report on two unidentified flying obje...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: citynews.com.au  
    Title: Canberra City News Overall / It's the season to be looking skywards  
-   Link: <a href="https://citynews.com.au/2018/overall-its-the-season-to-be-looking-skywards/" target="_blank" rel="noopener noreferrer nofollow">https://citynews.com.au/2018/overall-its-the-season-to-be-looking-skywards/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Late on a winter&#x27;s afternoon in 1954, as they travelled the darkening road between the...Read more...</p></details>
+   Link:<a href="https://citynews.com.au/2018/overall-its-the-season-to-be-looking-skywards/" target="_blank" rel="noopener noreferrer nofollow">https://citynews.com.au/2018/overall-its-the-season-to-be-looking-skywards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Late on a winter&#x27;s afternoon in 1954, as they travelled the darkening road between the...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105763811</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.au31 Jul 1965 - [Balloon theory](&amp;#123;&amp;#123; &#x27;balloon-theory/&#x27; | relative_url &amp;#125;&amp;#125;) on UFO - TroveThe report gave three pos- sibilities — condensation from a jet aircraft&#x27;s engines...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105763811</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.au31 Jul 1965 - [Balloon theory](&amp;#123;&amp;#123; &#x27;balloon-theory/&#x27; | relative_url &amp;#125;&amp;#125;) on UFO - TroveThe report gave three pos- sibilities — condensation from a jet aircraft&#x27;s engines...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: austehc.unimelb.edu.au  
-   Link: <a href="https://www.austehc.unimelb.edu.au/fam/balloon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.austehc.unimelb.edu.au/fam/balloon.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Meteorology, The BalloonAssistant about to release a pilot weather balloon whose flight she will follow through the theodolite to asc...</p></details>
+   Link:<a href="https://www.austehc.unimelb.edu.au/fam/balloon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.austehc.unimelb.edu.au/fam/balloon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Meteorology, The BalloonAssistant about to release a pilot weather balloon whose flight she will follow through the theodolite to asc...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: canberratimes.com.au  
    Title: just sat there floating ufo reported in sky above regional city  
-   Link: <a href="https://www.canberratimes.com.au/video/breaking/x8r57k4/just-sat-there-floating-ufo-reported-in-sky-above-regional-city/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/video/breaking/x8r57k4/just-sat-there-floating-ufo-reported-in-sky-above-regional-city/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Just sat there floating&#x27;: UFO reported in sky above regional city&#x27;Just sat there floating&#x27;: UFO reported in sky above regional city...</p></details>
+   Link:<a href="https://www.canberratimes.com.au/video/breaking/x8r57k4/just-sat-there-floating-ufo-reported-in-sky-above-regional-city/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/video/breaking/x8r57k4/just-sat-there-floating-ufo-reported-in-sky-above-regional-city/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Just sat there floating&#x27;: UFO reported in sky above regional city&#x27;Just sat there floating&#x27;: UFO reported in sky above regional city...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10newsplus/videos/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/1282132233373777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/videos/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/1282132233373777/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yet there&#x27;s been no formal public investigation or explanation into...</p></details>
+   Link:<a href="https://www.facebook.com/10newsplus/videos/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/1282132233373777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/videos/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/1282132233373777/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yet there&#x27;s been no formal public investigation or explanation into...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/951618864874073/posts/26734151869527419/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/951618864874073/posts/26734151869527419/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eared again until 21:00 and it’s slowly moving. From the naked eye...</p></details>
+   Link:<a href="https://www.facebook.com/groups/951618864874073/posts/26734151869527419/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/951618864874073/posts/26734151869527419/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eared again until 21:00 and it’s slowly moving. From the naked eye...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/midlandhistory/posts/the-knowles-family-from-midland-were-on-their-way-to-victoria-when-they-encounte/1829228620755899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/midlandhistory/posts/the-knowles-family-from-midland-were-on-their-way-to-victoria-when-they-encounte/1829228620755899/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ed a UFO on the Nullarbor Plain in January 1988. We&#x27;ve found some...</p></details>
+   Link:<a href="https://www.facebook.com/midlandhistory/posts/the-knowles-family-from-midland-were-on-their-way-to-victoria-when-they-encounte/1829228620755899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/midlandhistory/posts/the-knowles-family-from-midland-were-on-their-way-to-victoria-when-they-encounte/1829228620755899/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed a UFO on the Nullarbor Plain in January 1988. We&#x27;ve found some...</p></details>
    Published: January 1988  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AWMemorial/videos/first-world-war-observation-balloon/1362197005644967/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AWMemorial/videos/first-world-war-observation-balloon/1362197005644967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ement and even relay calls by telephone to direct artillery fire...</p></details>
+   Link:<a href="https://www.facebook.com/AWMemorial/videos/first-world-war-observation-balloon/1362197005644967/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AWMemorial/videos/first-world-war-observation-balloon/1362197005644967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ement and even relay calls by telephone to direct artillery fire...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: canberratimes.com.au  
    Title: ufo sightings and our own x files  
-   Link: <a href="https://www.canberratimes.com.au/story/7148844/ufo-sightings-and-our-own-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/story/7148844/ufo-sightings-and-our-own-x-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings and our own X-files6 Mar 2021 — The NASA Super Constellation 421 aircraft flies over the Honeysuckle Creek Tracking Station...</p></details>
+   Link:<a href="https://www.canberratimes.com.au/story/7148844/ufo-sightings-and-our-own-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/story/7148844/ufo-sightings-and-our-own-x-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings and our own X-files6 Mar 2021 — The NASA Super Constellation 421 aircraft flies over the Honeysuckle Creek Tracking Station...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: documents.theblackvault.com  
    Title: A703 554 1 30 Part 1 637518  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comA703_554-1-30_Part 1_637518.pdfCANBERRA TIMES, Time of sighting in 24-hour olook zonal time, and length of time observed...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comA703_554-1-30_Part 1_637518.pdfCANBERRA TIMES, Time of sighting in 24-hour olook zonal time, and length of time observed...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: UF O sighting from plane  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15bs89m/ufo_sighting_from_plane_canberra_australia_april/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15bs89m/ufo_sighting_from_plane_canberra_australia_april/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting from plane - Canberra, Australia April 04, 2012...The Canberra Times reported over 300 reports of sightings in the night be...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15bs89m/ufo_sighting_from_plane_canberra_australia_april/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15bs89m/ufo_sighting_from_plane_canberra_australia_april/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting from plane - Canberra, Australia April 04, 2012...The Canberra Times reported over 300 reports of sightings in the night be...</p></details>
    Published: April 4, 2012  

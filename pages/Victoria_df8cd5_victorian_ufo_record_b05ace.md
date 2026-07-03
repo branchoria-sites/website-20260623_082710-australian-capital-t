@@ -286,7 +286,7 @@ image: /assets/images/Victoria_df8cd5_victorian_ufo_record_b05ace-overview-socia
 
 ## Introduction
 
-[Victoria]({{ 'why-victoria-became-australias-ufo/' | relative_url }})’s UFO history survived less because of one official archive than because many different people kept fragments: civilian investigators, school witnesses, local journalists, librarians, [aviation]({{ 'aviation/' | relative_url }}) officials and later sceptical researchers. The result is a record that is unusually rich in places and frustratingly thin in others. Westall is the clearest example. It is remembered today not only because students and teachers reported seeing objects over Clayton South in 1966, but because local newspapers reported it, the Victorian Flying Saucer Research Society inspected the scene, later researchers interviewed ageing witnesses, and libraries and local-history collections preserved enough traces for the case to be revisited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[blogs.slv.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
+[Victoria]({{ 'why-victoria-became-australias-ufo/' | relative_url }})’s UFO history survived less because of one official archive than because many different people kept fragments: civilian investigators, school witnesses, local journalists, librarians, [aviation]({{ 'aviation/' | relative_url }}) officials and later sceptical researchers. The result is a record that is unusually rich in places and frustratingly thin in others. Westall is the clearest example. It is remembered today not only because students and teachers reported seeing objects over Clayton South in 1966, but because local newspapers reported it, the Victorian Flying Saucer Research Society inspected the scene, later researchers interviewed ageing witnesses, and libraries and local-history collections preserved enough traces for the case to be revisited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[blogs.slv.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
 
 
 <img src="{{ "/assets/images/Victoria_df8cd5_victorian_ufo_record_b05ace-overview.webp" | relative_url }}" alt="Overview image for Records" loading="eager" decoding="sync" fetchpriority="high">
@@ -294,11 +294,11 @@ That makes “Victorian UFO investigators and local records” a story about evi
 
 ## The civilian groups that turned sightings into case files
 
-Victoria had one of Australia’s most active civilian UFO scenes. The Victorian Flying Saucer Research Society, later known as the Victorian UFO Research Society, was close enough to [Westall]({{ 'westall/' | relative_url }}) to inspect the scene after the 6 April 1966 school sighting; State Library Victoria notes that the group interviewed witnesses, although no exhaustive account was published at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[blogs.slv.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span> That one detail is crucial: the society’s involvement helped shift Westall from schoolyard rumour into an investigated case, but the lack of a full contemporary report also left later researchers with a major evidence gap.
+Victoria had one of Australia’s most active civilian UFO scenes. The Victorian Flying Saucer Research Society, later known as the Victorian UFO Research Society, was close enough to [Westall]({{ 'westall/' | relative_url }}) to inspect the scene after the 6 April 1966 school sighting; State Library Victoria notes that the group interviewed witnesses, although no exhaustive account was published at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[blogs.slv.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span> That one detail is crucial: the society’s involvement helped shift Westall from schoolyard rumour into an investigated case, but the lack of a full contemporary report also left later researchers with a major evidence gap.
 
-The society’s address and publishing activity also matter. The National Library of Australia catalogue records *The Australian U.F.O. Bulletin* as a Moorabbin, Victoria publication of the Victorian UFO Research Society from 1988 onward, while digitised earlier bulletin material shows the group operating from Moorabbin and presenting itself as a non-profit body dedicated to objective investigation of UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catalogue.nla.gov.au/catalog/2409151" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.nla.gov.au">[National Library of Australia Catalogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span> Moorabbin was not just a postal location. It was part of the same south-eastern Melbourne geography that links Westall, Moorabbin Airport and later the Frederick [Valentich]({{ 'valentich-d58109/' | relative_url }}) story.
+The society’s address and publishing activity also matter. The National Library of Australia catalogue records *The Australian U.F.O. Bulletin* as a Moorabbin, Victoria publication of the Victorian UFO Research Society from 1988 onward, while digitised earlier bulletin material shows the group operating from Moorabbin and presenting itself as a non-profit body dedicated to objective investigation of UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catalogue.nla.gov.au/catalog/2409151" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.nla.gov.au">[National Library of Australia Catalogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span> Moorabbin was not just a postal location. It was part of the same south-eastern Melbourne geography that links Westall, Moorabbin Airport and later the Frederick [Valentich]({{ 'valentich-d58109/' | relative_url }}) story.
 
-Civilian groups performed several jobs that official agencies often did not. They received witness reports directly, circulated newsletters, preserved press clippings, compared cases across suburbs and country towns, and kept old incidents alive after police, schools or newspapers moved on. A 1971 issue of the *Australian UFO Bulletin* is described as a publication of the Victorian UFO Research Society at P.O. Box 43, Moorabbin, which shows how local reports could be gathered into a continuing serial record rather than left as isolated anecdotes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/Australian_UFO_Bulletin_1971_08_August/Australian_UFO_Bulletin_1971_08_August_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Australian UFO Bulletin 1971 08 August djvu.txt</span><span class="citation-popover-snippet">Australian UFO Bulletin 1971 08 August djvu.txt</span></span></span>
+Civilian groups performed several jobs that official agencies often did not. They received witness reports directly, circulated newsletters, preserved press clippings, compared cases across suburbs and country towns, and kept old incidents alive after police, schools or newspapers moved on. A 1971 issue of the *Australian UFO Bulletin* is described as a publication of the Victorian UFO Research Society at P.O. Box 43, Moorabbin, which shows how local reports could be gathered into a continuing serial record rather than left as isolated anecdotes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/Australian_UFO_Bulletin_1971_08_August/Australian_UFO_Bulletin_1971_08_August_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Australian UFO Bulletin 1971 08 August djvu.txt</span><span class="citation-popover-snippet">Australian UFO Bulletin 1971 08 August djvu.txt</span></span></span>
 
 The value of these groups is not that they were automatically right. Many members were believers or strong advocates for continued UFO investigation, and their interpretations could run ahead of the available evidence. Their value lies in record-making. Without their bulletins, correspondence, witness follow-ups and case summaries, many Victorian sightings would now be known only through faded newspaper references or family memory.
 
@@ -306,19 +306,19 @@ The value of these groups is not that they were automatically right. Many member
 <img src="{{ "/assets/images/Victoria_df8cd5_victorian_ufo_record_b05ace-Illustration-1-dark.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_victorian_ufo_record_b05ace-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_victorian_ufo_record_b05ace-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Westall became an archive problem as much as a UFO case
 
-Westall shows both the strength and the fragility of local UFO investigation. The sighting was widely remembered as a daytime, mass-witness event near Westall High School and The Grange in Clayton South. Kingston Local History describes the incident as involving students, teachers and local people, with The Grange becoming the focus of later claims about a landing area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localhistory.kingston.vic.gov.au">[localhistory.kingston.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localhistory.kingston.vic.gov.au</span><span class="citation-popover-title">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span><span class="citation-popover-snippet">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span></span></span> State Library Victoria’s account adds that contemporary reports included descriptions of private aircraft, mainly Cessna-like planes, and that a two-page anonymous report from *The Clayton Calendar*, the Westall High journal, was later republished in the June 1966 issue of the *Australian Flying Saucer Review*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[blogs.slv.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
+Westall shows both the strength and the fragility of local UFO investigation. The sighting was widely remembered as a daytime, mass-witness event near Westall High School and The Grange in Clayton South. Kingston Local History describes the incident as involving students, teachers and local people, with The Grange becoming the focus of later claims about a landing area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localhistory.kingston.vic.gov.au">[localhistory.kingston.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localhistory.kingston.vic.gov.au</span><span class="citation-popover-title">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span><span class="citation-popover-snippet">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span></span></span> State Library Victoria’s account adds that contemporary reports included descriptions of private aircraft, mainly Cessna-like planes, and that a two-page anonymous report from *The Clayton Calendar*, the Westall High journal, was later republished in the June 1966 issue of the *Australian Flying Saucer Review*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[blogs.slv.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
 
-That chain of survival is revealing. The school journal itself is described by State Library Victoria as not held by the library, but its contents survived because they were republished in a UFO periodical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[blogs.slv.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span> In other words, a key local document is known today through a secondary preservation route. This is common in UFO history: the surviving evidence is often not the original note, photograph or interview, but a copied, quoted or republished version.
+That chain of survival is revealing. The school journal itself is described by State Library Victoria as not held by the library, but its contents survived because they were republished in a UFO periodical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[blogs.slv.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span> In other words, a key local document is known today through a secondary preservation route. This is common in UFO history: the surviving evidence is often not the original note, photograph or interview, but a copied, quoted or republished version.
 
-The same pattern appears with the missing Westall photographs and television footage. Kingston Local History says the *Dandenong Journal* ran front-page coverage for two weeks and remains an important primary document, but also notes that photographs reportedly taken of the circle in the grass were not published, and that Channel Nine could not locate its original news story after searches in Melbourne and Sydney film archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localhistory.kingston.vic.gov.au">[localhistory.kingston.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localhistory.kingston.vic.gov.au</span><span class="citation-popover-title">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span><span class="citation-popover-snippet">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span></span></span> The Victorian Flying Saucer Research Society reportedly arrived two days later, spoke to some locals and photographed the circle, but the society later said it could not locate those photographs or any investigation notes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localhistory.kingston.vic.gov.au">[localhistory.kingston.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localhistory.kingston.vic.gov.au</span><span class="citation-popover-title">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span><span class="citation-popover-snippet">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span></span></span>
+The same pattern appears with the missing Westall photographs and television footage. Kingston Local History says the *Dandenong Journal* ran front-page coverage for two weeks and remains an important primary document, but also notes that photographs reportedly taken of the circle in the grass were not published, and that Channel Nine could not locate its original news story after searches in Melbourne and Sydney film archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localhistory.kingston.vic.gov.au">[localhistory.kingston.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localhistory.kingston.vic.gov.au</span><span class="citation-popover-title">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span><span class="citation-popover-snippet">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span></span></span> The Victorian Flying Saucer Research Society reportedly arrived two days later, spoke to some locals and photographed the circle, but the society later said it could not locate those photographs or any investigation notes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localhistory.kingston.vic.gov.au">[localhistory.kingston.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localhistory.kingston.vic.gov.au</span><span class="citation-popover-title">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span><span class="citation-popover-snippet">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span></span></span>
 
 This does not prove suppression, nor does it prove the case was mundane. It shows how easily a famous event can become evidentially unstable. The parts that would help most — original photographs, early interview notes, unedited broadcast footage, full official correspondence — are exactly the parts most vulnerable to loss, non-publication or poor archiving.
 
 ## Local newspapers fixed dates, places and public memory
 
-Local newspapers did something civilian UFO groups could not always do: they placed sightings in public time. The *Dandenong Journal* coverage of Westall is especially important because it anchors the story close to the event and in the district where it happened. Kingston Local History calls the newspaper’s front-page reporting an important primary document, and a 2026 *Dandenong Star Journal* retrospective reproduced the importance of that original local coverage while reporting that witnesses were still seeking official answers sixty years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localhistory.kingston.vic.gov.au">[localhistory.kingston.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localhistory.kingston.vic.gov.au</span><span class="citation-popover-title">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span><span class="citation-popover-snippet">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span></span></span>
+Local newspapers did something civilian UFO groups could not always do: they placed sightings in public time. The *Dandenong Journal* coverage of Westall is especially important because it anchors the story close to the event and in the district where it happened. Kingston Local History calls the newspaper’s front-page reporting an important primary document, and a 2026 *Dandenong Star Journal* retrospective reproduced the importance of that original local coverage while reporting that witnesses were still seeking official answers sixty years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localhistory.kingston.vic.gov.au">[localhistory.kingston.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localhistory.kingston.vic.gov.au</span><span class="citation-popover-title">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span><span class="citation-popover-snippet">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span></span></span>
 
-The role of [local papers]({{ 'local-papers/' | relative_url }}) was not limited to Westall. Trove’s digitised newspaper record includes Victorian UFO reports such as a 12 April 1966 *Canberra Times* item from Melbourne about a Maryborough builder who reported an unidentified object on the Bendigo-St Arnaud Road. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/128652719" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span> A Trove-indexed 1999 article from the *Bendigo Advertiser* shows the Victorian UFO Research Society still asking the public about a bright light seen at dusk, with Paul Norman identified as the society’s sightings and investigations officer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/249235787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span> These small reports matter because they show UFO history as a local reporting network, not just a handful of famous cases.
+The role of [local papers]({{ 'local-papers/' | relative_url }}) was not limited to Westall. Trove’s digitised newspaper record includes Victorian UFO reports such as a 12 April 1966 *Canberra Times* item from Melbourne about a Maryborough builder who reported an unidentified object on the Bendigo-St Arnaud Road.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/128652719" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span> A Trove-indexed 1999 article from the *Bendigo Advertiser* shows the Victorian UFO Research Society still asking the public about a bright light seen at dusk, with Paul Norman identified as the society’s sightings and investigations officer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/249235787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span> These small reports matter because they show UFO history as a local reporting network, not just a handful of famous cases.
 
 Newspaper records are useful, but they are not neutral instruments. Editors chose which reports to print, headlines could amplify mystery, and short articles often omitted key checking details such as weather, aircraft movements, astronomical conditions or witness distance. Still, for Victorian UFO research, local press items are often the earliest surviving public record. They help separate a contemporary report from a later legend.
 
@@ -327,19 +327,19 @@ Newspaper records are useful, but they are not neutral instruments. Editors chos
 
 ## Official files: helpful, incomplete and often somewhere else
 
-Australia’s official UFO record was mainly federal, not Victorian state-based. The National Archives of Australia explains that the RAAF investigated UFOs, then called Unusual Aerial Sightings, until the 1990s; ABC reporting similarly notes that the RAAF received thousands of reports from civilians, researchers and military personnel over decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span> This matters for Victoria because many reports that began with local witnesses, police, newspapers or civilian groups could end up in Commonwealth channels.
+Australia’s official UFO record was mainly federal, not Victorian state-based. The National Archives of Australia explains that the RAAF investigated UFOs, then called Unusual Aerial Sightings, until the 1990s; ABC reporting similarly notes that the RAAF received thousands of reports from civilians, researchers and military personnel over decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span> This matters for Victoria because many reports that began with local witnesses, police, newspapers or civilian groups could end up in Commonwealth channels.
 
-The Frederick Valentich disappearance illustrates the point. Valentich departed Moorabbin for King Island on 21 October 1978 and reported a strange object before radio contact was lost; the National Archives describes the case as a media sensation that generated abduction theories, while also noting later prosaic interpretations involving bright planets and inexperience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span> For historians of Victorian UFO records, Valentich is important not only because of the mystery, but because the case produced aviation records, air traffic communications, search-and-rescue documentation, press attention and later sceptical review.
+The Frederick Valentich disappearance illustrates the point. Valentich departed Moorabbin for King Island on 21 October 1978 and reported a strange object before radio contact was lost; the National Archives describes the case as a media sensation that generated abduction theories, while also noting later prosaic interpretations involving bright planets and inexperience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span> For historians of Victorian UFO records, Valentich is important not only because of the mystery, but because the case produced aviation records, air traffic communications, search-and-rescue documentation, press attention and later sceptical review.
 
-Civilian pressure helped open parts of the official record. ABC reported in 2024 that researcher Bill Chalker gained access to RAAF UFO files in 1982 after persistent requests, finding sacks of material that had to be hurriedly stamped as declassified before inspection could proceed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span> The same report says the files were later sent to the National Archives of Australia, with hundreds digitised and available online. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span> That shift changed Australian UFO research: cases no longer had to depend only on believers’ newsletters or newspaper clippings, but could be checked against official paperwork where it survived.
+Civilian pressure helped open parts of the official record. ABC reported in 2024 that researcher Bill Chalker gained access to RAAF UFO files in 1982 after persistent requests, finding sacks of material that had to be hurriedly stamped as declassified before inspection could proceed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span> The same report says the files were later sent to the National Archives of Australia, with hundreds digitised and available online.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span> That shift changed Australian UFO research: cases no longer had to depend only on believers’ newsletters or newspaper clippings, but could be checked against official paperwork where it survived.
 
 Official files do not automatically settle cases. They may include incomplete witness statements, bureaucratic summaries, missing attachments, redactions, or assessments shaped by defence priorities rather than historical completeness. But they are invaluable for checking what was reported at the time, what officials considered plausible, and whether later retellings have added details not visible in the early record.
 
 ## Later researchers kept Westall alive, but also changed its evidence base
 
-A striking feature of Victorian UFO history is the time gap between some events and the most systematic witness collecting. Westall became nationally familiar not only through 1966 reporting, but through later researchers and media projects. ABC reported in 2026 that former teacher and public servant Shane Ryan became curious in 2005 and had been researching the case ever since. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News After 60 years, witnesses to Australia&#x27;s biggest UFO</span><span class="citation-popover-snippet">ABC News After 60 years, witnesses to Australia&#x27;s biggest UFO</span></span></span> The 2010 documentary *Westall ’66: A Suburban UFO Mystery* also drew on interviews with former witnesses and encouraged others to come forward, extending the case’s afterlife far beyond the original local reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tv.apple.com/gb/movie/westall-66-a-suburban-ufo-mystery/umc.cmc.3vghztzv1rdo1u25wkm1c2u9b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-title">TV‎Westall &#x27;66: A Suburban UFO Mystery</span><span class="citation-popover-snippet">TV‎Westall &#x27;66: A Suburban UFO Mystery</span></span></span>
+A striking feature of Victorian UFO history is the time gap between some events and the most systematic witness collecting. Westall became nationally familiar not only through 1966 reporting, but through later researchers and media projects. ABC reported in 2026 that former teacher and public servant Shane Ryan became curious in 2005 and had been researching the case ever since.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News After 60 years, witnesses to Australia&#x27;s biggest UFO</span><span class="citation-popover-snippet">ABC News After 60 years, witnesses to Australia&#x27;s biggest UFO</span></span></span> The 2010 documentary *Westall ’66: A Suburban UFO Mystery* also drew on interviews with former witnesses and encouraged others to come forward, extending the case’s afterlife far beyond the original local reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tv.apple.com/gb/movie/westall-66-a-suburban-ufo-mystery/umc.cmc.3vghztzv1rdo1u25wkm1c2u9b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-title">TV‎Westall &#x27;66: A Suburban UFO Mystery</span><span class="citation-popover-snippet">TV‎Westall &#x27;66: A Suburban UFO Mystery</span></span></span>
 
-This later work has real value. It located witnesses who had not spoken publicly, mapped memories onto places such as the school oval and The Grange, and helped transform Westall from a fading suburban story into a recognised part of Australian UFO culture. The 2026 ABC anniversary coverage showed that surviving witnesses still wanted an explanation and that the event remained emotionally vivid for many of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News After 60 years, witnesses to Australia&#x27;s biggest UFO</span><span class="citation-popover-snippet">ABC News After 60 years, witnesses to Australia&#x27;s biggest UFO</span></span></span>
+This later work has real value. It located witnesses who had not spoken publicly, mapped memories onto places such as the school oval and The Grange, and helped transform Westall from a fading suburban story into a recognised part of Australian UFO culture. The 2026 ABC anniversary coverage showed that surviving witnesses still wanted an explanation and that the event remained emotionally vivid for many of them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News After 60 years, witnesses to Australia&#x27;s biggest UFO</span><span class="citation-popover-snippet">ABC News After 60 years, witnesses to Australia&#x27;s biggest UFO</span></span></span>
 
 But late interviews also carry risks. Memories can merge with media reports, documentaries, reunion conversations and the expectations of UFO culture. The more famous a case becomes, the harder it is to distinguish original observation from later interpretation. That does not mean witnesses are dishonest. It means historians have to separate layers: what was said in April 1966, what was recorded by early investigators, what appeared in newspapers, what witnesses recalled decades later, and what later campaigners or sceptics added.
 
@@ -349,9 +349,9 @@ But late interviews also carry risks. Memories can merge with media reports, doc
 
 Victorian UFO records are not only built by believers. Sceptical and prosaic explanations are part of the evidence landscape, especially where they test whether a report could have been caused by aircraft, balloons, planets, meteors, reflections or memory effects.
 
-For Valentich, the National Archives notes that Venus, Mars, Jupiter and Antares were highly visible on the night of the disappearance and says later researchers have suggested a tragic mundane explanation involving distraction and inexperience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span> The *Skeptical Inquirer* published a detailed sceptical treatment arguing for a non-extraterrestrial reading of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Valentich Disappearance: Another UFO Cold Case</span><span class="citation-popover-snippet">Skeptical Inquirer The Valentich Disappearance: Another UFO Cold Case</span></span></span> Even where readers reject that conclusion, the sceptical work is useful because it asks concrete questions: what was in the sky, what was the pilot’s experience level, what were the flight conditions, and how closely do later UFO claims match the contemporaneous record?
+For Valentich, the National Archives notes that Venus, Mars, Jupiter and Antares were highly visible on the night of the disappearance and says later researchers have suggested a tragic mundane explanation involving distraction and inexperience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span> The *Skeptical Inquirer* published a detailed sceptical treatment arguing for a non-extraterrestrial reading of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Valentich Disappearance: Another UFO Cold Case</span><span class="citation-popover-snippet">Skeptical Inquirer The Valentich Disappearance: Another UFO Cold Case</span></span></span> Even where readers reject that conclusion, the sceptical work is useful because it asks concrete questions: what was in the sky, what was the pilot’s experience level, what were the flight conditions, and how closely do later UFO claims match the contemporaneous record?
 
-For Westall, sceptical and alternative explanations have focused on balloons, aircraft, target drogues, Cold War projects and memory contamination. State Library Victoria notes that the anonymous school-journal report speculated about military aircraft from nearby Moorabbin, while later reporting has discussed explanations such as weather balloons and secret research balloons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[blogs.slv.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span> The point is not that any one explanation has definitively closed the case. The point is that local records make these explanations testable. If a theory cannot fit the date, location, witness distribution, aircraft reports and early descriptions, it weakens.
+For Westall, sceptical and alternative explanations have focused on balloons, aircraft, target drogues, Cold War projects and memory contamination. State Library Victoria notes that the anonymous school-journal report speculated about military aircraft from nearby Moorabbin, while later reporting has discussed explanations such as weather balloons and secret research balloons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[blogs.slv.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span> The point is not that any one explanation has definitively closed the case. The point is that local records make these explanations testable. If a theory cannot fit the date, location, witness distribution, aircraft reports and early descriptions, it weakens.
 
 Good Victorian UFO history therefore needs both kinds of record: the witness-preserving work of investigators and the error-checking work of sceptics. One without the other produces either folklore or premature dismissal.
 
@@ -360,7 +360,7 @@ Good Victorian UFO history therefore needs both kinds of record: the witness-pre
 
 ## Lost notes, scattered archives and the memory problem
 
-The deepest weakness in Victoria’s UFO record is not that people failed to care. It is that caring did not always produce durable archives. Westall’s missing investigation notes and photographs are the clearest example. Kingston Local History reports that the Victorian Flying Saucer Research Society could no longer locate photos or notes from its early visit to the scene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localhistory.kingston.vic.gov.au">[localhistory.kingston.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localhistory.kingston.vic.gov.au</span><span class="citation-popover-title">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span><span class="citation-popover-snippet">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span></span></span> State Library Victoria also notes that no exhaustive account was published at the time, despite witness interviews and a scene inspection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[blogs.slv.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
+The deepest weakness in Victoria’s UFO record is not that people failed to care. It is that caring did not always produce durable archives. Westall’s missing investigation notes and photographs are the clearest example. Kingston Local History reports that the Victorian Flying Saucer Research Society could no longer locate photos or notes from its early visit to the scene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localhistory.kingston.vic.gov.au">[localhistory.kingston.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localhistory.kingston.vic.gov.au</span><span class="citation-popover-title">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span><span class="citation-popover-snippet">An Ongoing Mystery: The Westall Flying Saucer Incident &#124; Kingston Local History</span></span></span> State Library Victoria also notes that no exhaustive account was published at the time, despite witness interviews and a scene inspection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[blogs.slv.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
 
 This creates a practical problem for any reader trying to judge the case. Early notes would carry more weight than later recollections because they would capture witness descriptions before decades of retelling. Missing notes do not make the sighting false, but they do lower confidence in fine-grained claims: exact object shape, number of objects, landing marks, official visitors, aircraft behaviour and witness count.
 
@@ -392,194 +392,194 @@ The people who kept Victoria’s UFO stories alive were not just collectors of o
 That is why Victoria remains central to Australian UFO history. Its best-known cases are not simply mysterious events. They are examples of how a sighting becomes a record, how a record becomes a public story, and how a public story changes as documents are lost, rediscovered, challenged and reinterpreted. The unresolved character of some Victorian cases is real, but so is the caution: what survives is not the event itself, only the traces left by witnesses, investigators, journalists and archivists.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Kept Victoria&#x27;s UFO Stories Alive?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Kept Victoria&#x27;s UFO Stories Alive?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Down+Under+by+Barry+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Down Under on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OP7-swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Down Under" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Down+Under+by+Barry+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Down Under">UFOs Down Under</a>
-        </h4>
-        <p class="fr-book-author">By Barry Watts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Down+Under+by+Barry+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Down Under on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OP7-swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Down Under" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Down+Under+by+Barry+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Down Under">UFOs Down Under</a>
+</h4>
+<p class="fr-book-author">By Barry Watts</p>
         
-        <p class="fr-book-desc">Places Victorian and Australian sightings within a wider Australasian UFO research tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Down+Under+by+Barry+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Victorian and Australian sightings within a wider Australasian UFO research tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Down+Under+by+Barry+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Supports the article&#x27;s themes of documentation, archival survival, official files and historical research methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the article&#x27;s themes of documentation, archival survival, official files and historical research methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Westall &#x27;66 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=52k8zgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Westall &#x27;66" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Westall &#x27;66">Westall &#x27;66</a>
-        </h4>
-        <p class="fr-book-author">By Erik Rinkel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Westall &#x27;66 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=52k8zgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Westall &#x27;66" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Westall &#x27;66">Westall &#x27;66</a>
+</h4>
+<p class="fr-book-author">By Erik Rinkel</p>
         
-        <p class="fr-book-desc">Examines the Westall case that features prominently in Victoria&#x27;s UFO historical record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the Westall case that features prominently in Victoria&#x27;s UFO historical record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oz Files on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oz Files">The Oz Files</a>
-        </h4>
-        <p class="fr-book-author">By Bill Chalker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oz Files on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oz Files">The Oz Files</a>
+</h4>
+<p class="fr-book-author">By Bill Chalker</p>
         
-        <p class="fr-book-desc">Directly covers Australian UFO cases, archives, researchers and government files, matching the article&#x27;s focus on evidence preservation a...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers Australian UFO cases, archives, researchers and government files, matching the article&#x27;s focus on evidence preservation a...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Down+Under&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Down Under</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Westall+%2766&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Westall &#x27;66</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Down+Under&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Down Under</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Westall+%2766&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Westall &#x27;66</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-who-kept-victoria-s-ufo-stories-alive-victoria-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ That is why Victoria remains central to Australian UFO history. Its best-known c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ That is why Victoria remains central to Australian UFO history. Its best-known c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ That is why Victoria remains central to Australian UFO history. Its best-known c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ That is why Victoria remains central to Australian UFO history. Its best-known c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ That is why Victoria remains central to Australian UFO history. Its best-known c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -785,229 +785,229 @@ That is why Victoria remains central to Australian UFO history. Its best-known c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: blogs.slv.vic.gov.au  
    Title: strange lights in the sky the westall ufo event 1966  
-   Link: <a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
+   Link:<a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: localhistory.kingston.vic.gov.au  
    Title: An Ongoing Mystery: The Westall Flying Saucer Incident | Kingston Local History  
-   Link: <a href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow">https://localhistory.kingston.vic.gov.au/articles/528</a>  
+   Link:<a href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow">https://localhistory.kingston.vic.gov.au/articles/528</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/2409151" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/2409151</a>  
+   Link:<a href="https://catalogue.nla.gov.au/catalog/2409151" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/2409151</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
    Title: Australian UFO Bulletin 1976 08 August djvu.txt  
-   Link: <a href="https://archive.org/stream/Australian_UFO_Bulletin_1976_08_August/Australian_UFO_Bulletin_1976_08_August_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Australian_UFO_Bulletin_1976_08_August/Australian_UFO_Bulletin_1976_08_August_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/Australian_UFO_Bulletin_1976_08_August/Australian_UFO_Bulletin_1976_08_August_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Australian_UFO_Bulletin_1976_08_August/Australian_UFO_Bulletin_1976_08_August_djvu.txt</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
    Title: Australian UFO Bulletin 1971 08 August djvu.txt  
-   Link: <a href="https://archive.org/stream/Australian_UFO_Bulletin_1971_08_August/Australian_UFO_Bulletin_1971_08_August_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Australian_UFO_Bulletin_1971_08_August/Australian_UFO_Bulletin_1971_08_August_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/Australian_UFO_Bulletin_1971_08_August/Australian_UFO_Bulletin_1971_08_August_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Australian_UFO_Bulletin_1971_08_August/Australian_UFO_Bulletin_1971_08_August_djvu.txt</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/128652719" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/128652719</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/128652719" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/128652719</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/249235787" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/249235787</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/249235787" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/249235787</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: naa.gov.au  
    Title: NAAFlying saucers – fact or fiction? | naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tv.apple.com  
    Title: TV‎Westall '66: A Suburban UFO Mystery  
-   Link: <a href="https://tv.apple.com/gb/movie/westall-66-a-suburban-ufo-mystery/umc.cmc.3vghztzv1rdo1u25wkm1c2u9b" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/movie/westall-66-a-suburban-ufo-mystery/umc.cmc.3vghztzv1rdo1u25wkm1c2u9b</a>  
+   Link:<a href="https://tv.apple.com/gb/movie/westall-66-a-suburban-ufo-mystery/umc.cmc.3vghztzv1rdo1u25wkm1c2u9b" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/movie/westall-66-a-suburban-ufo-mystery/umc.cmc.3vghztzv1rdo1u25wkm1c2u9b</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/1138942" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1138942</a>  
+   Link:<a href="https://catalogue.nla.gov.au/catalog/1138942" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1138942</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/1969528" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1969528</a>  
+   Link:<a href="https://catalogue.nla.gov.au/catalog/1969528" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1969528</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/117899" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/117899</a>  
+   Link:<a href="https://catalogue.nla.gov.au/catalog/117899" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/117899</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/1394168" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1394168</a>  
+   Link:<a href="https://catalogue.nla.gov.au/catalog/1394168" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1394168</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/2045602" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/2045602</a>  
+   Link:<a href="https://catalogue.nla.gov.au/catalog/2045602" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/2045602</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/1394175" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1394175</a>  
+   Link:<a href="https://catalogue.nla.gov.au/catalog/1394175" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1394175</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/2868766" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/2868766</a>  
+   Link:<a href="https://catalogue.nla.gov.au/catalog/2868766" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/2868766</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/754688" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/754688</a>  
+   Link:<a href="https://catalogue.nla.gov.au/catalog/754688" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/754688</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
    Title: Australian Flying Saucer Review 1966 11 no 9 UFOIC djvu.txt  
-   Link: <a href="https://archive.org/stream/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC_djvu.txt</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archive.org  
    Title: 412589424 Ufos and the Extraterrestrial Contact Movement v1 djvu.txt  
-   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archive.org  
    Title: Australian Annual Flying Saucer Review 1981 06  
-   Link: <a href="https://archive.org/details/Australian_Annual_Flying_Saucer_Review_1981_06" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/Australian_Annual_Flying_Saucer_Review_1981_06</a>  
+   Link:<a href="https://archive.org/details/Australian_Annual_Flying_Saucer_Review" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/Australian_Annual_Flying_Saucer_Review</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archival.collections.slsa.sa.gov.au  
    Title: SRG410 UFOResearch Australia boxlist  
-   Link: <a href="https://archival.collections.slsa.sa.gov.au/srg/SRG410_UFOResearchAustralia_boxlist.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archival.collections.slsa.sa.gov.au/srg/SRG410_UFOResearchAustralia_boxlist.pdf</a>  
+   Link:<a href="https://archival.collections.slsa.sa.gov.au/srg/SRG410_UFOResearchAustralia_boxlist.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archival.collections.slsa.sa.gov.au/srg/SRG410_UFOResearchAustralia_boxlist.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: slwa.wa.gov.au  
-   Link: <a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
+   Link:<a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: slq.qld.gov.au  
    Title: The Truth Is Out There  
-   Link: <a href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow">https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals</a>  
+   Link:<a href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow">https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: library.gov.au  
-   Link: <a href="https://www.library.gov.au/research/guides-and-resources/guides-selected-collections/b" target="_blank" rel="noopener noreferrer nofollow">https://www.library.gov.au/research/guides-and-resources/guides-selected-collections/b</a>  
+   Link:<a href="https://www.library.gov.au/research/guides-and-resources/guides-selected-collections/b" target="_blank" rel="noopener noreferrer nofollow">https://www.library.gov.au/research/guides-and-resources/guides-selected-collections/b</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/nz/podcast/red-eyes-in-the-mist-australian-mystery/id1837358967?i=1000746934620" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/nz/podcast/red-eyes-in-the-mist-australian-mystery/id1837358967?i=1000746934620</a>  
+   Link:<a href="https://podcasts.apple.com/nz/podcast/red-eyes-in-the-mist-australian-mystery/id1837358967?i=1000746934620" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/nz/podcast/red-eyes-in-the-mist-australian-mystery/id1837358967?i=1000746934620</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: search.sl.nsw.gov.au  
-   Link: <a href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21133483580002626&amp;vid=SLNSW" target="_blank" rel="noopener noreferrer nofollow">https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21133483580002626&amp;vid=SLNSW</a>  
+   Link:<a href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21133483580002626&amp;vid=SLNSW" target="_blank" rel="noopener noreferrer nofollow">https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21133483580002626&amp;vid=SLNSW</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: abc.net.au  
    Title: ABC News After 60 years, witnesses to Australia's biggest UFO  
-   Link: <a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
+   Link:<a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer The Valentich Disappearance: Another UFO Cold Case  
-   Link: <a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
+   Link:<a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Bill Chalker  
-   Link: <a href="https://en.wikipedia.org/wiki/Bill_Chalker" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bill_Chalker</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bill_Chalker" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bill_Chalker</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/25582037448/posts/10159186165382449/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/25582037448/posts/10159186165382449/</a>  
+   Link:<a href="https://www.facebook.com/groups/25582037448/posts/10159186165382449/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/25582037448/posts/10159186165382449/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/615137260546546/posts/1299752275418371/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/615137260546546/posts/1299752275418371/</a>  
+   Link:<a href="https://www.facebook.com/groups/615137260546546/posts/1299752275418371/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/615137260546546/posts/1299752275418371/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/25582037448/posts/10158613112807449/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/25582037448/posts/10158613112807449/</a>  
+   Link:<a href="https://www.facebook.com/groups/25582037448/posts/10158613112807449/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/25582037448/posts/10158613112807449/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: abc.net.au  
    Title: disappearance frederick valentich inspired kettering incident  
-   Link: <a href="https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428</a>  
+   Link:<a href="https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: abc.net.au  
    Title: ufo abduction book kelly cahill encounter eumemmering australia  
-   Link: <a href="https://www.abc.net.au/news/2020-09-26/ufo-abduction-book-kelly-cahill-encounter-eumemmering-australia/12661498" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2020-09-26/ufo-abduction-book-kelly-cahill-encounter-eumemmering-australia/12661498</a>  
+   Link:<a href="https://www.abc.net.au/news/2020-09-26/ufo-abduction-book-kelly-cahill-encounter-eumemmering-australia/12661498" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2020-09-26/ufo-abduction-book-kelly-cahill-encounter-eumemmering-australia/12661498</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: encyclopedia.com  
    Title: australian ufo bulletin  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/australian-ufo-bulletin" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/australian-ufo-bulletin</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/australian-ufo-bulletin" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/australian-ufo-bulletin</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: azarchivesonline.org  
-   Link: <a href="https://www.azarchivesonline.org/xtf/view?doc.view=print%3Bchunk.id%3D0&amp;docId=ead%2Fuoa%2FUAMS412.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.azarchivesonline.org/xtf/view?doc.view=print%3Bchunk.id%3D0&amp;docId=ead%2Fuoa%2FUAMS412.xml</a>  
+   Link:<a href="https://www.azarchivesonline.org/xtf/view?doc.view=print%3Bchunk.id%3D0&amp;docId=ead%2Fuoa%2FUAMS412.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.azarchivesonline.org/xtf/view?doc.view=print%3Bchunk.id%3D0&amp;docId=ead%2Fuoa%2FUAMS412.xml</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: closeencountersaustralia.net  
-   Link: <a href="https://closeencountersaustralia.net/history" target="_blank" rel="noopener noreferrer nofollow">https://closeencountersaustralia.net/history</a>  
+   Link:<a href="https://closeencountersaustralia.net/history" target="_blank" rel="noopener noreferrer nofollow">https://closeencountersaustralia.net/history</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=s5ReVsu6IXM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=s5ReVsu6IXM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Westall UFO 1966 documentary witnesses Uncovered: The 1966 Westall UFO Incident – 180 Witnesses Speak Out...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=s5ReVsu6IXM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=s5ReVsu6IXM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Westall UFO 1966 documentary witnesses Uncovered: The 1966 Westall UFO Incident – 180 Witnesses Speak Out...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Schoolyard witnesses in mass UFO sighting demand answers | Australian Story  
-   Link: <a href="http://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IhKyQkhOfoM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Uncovered: The 1966 Westall UFO Incident – 180 Witnesses Speak Out...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IhKyQkhOfoM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uncovered: The 1966 Westall UFO Incident – 180 Witnesses Speak Out...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=LB5rDWOduqg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=LB5rDWOduqg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia’s Biggest UFO Cover-Up | The Westall Incident (1966)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=LB5rDWOduqg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=LB5rDWOduqg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia’s Biggest UFO Cover-Up | The Westall Incident (1966)...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCAustralianStory/posts/i-know-what-i-sawmany-witnesses-of-australias-biggest-mass-ufo-sighting-have-onl/947813277890968/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCAustralianStory/posts/i-know-what-i-sawmany-witnesses-of-australias-biggest-mass-ufo-sighting-have-onl/947813277890968/</a>  
+   Link:<a href="https://www.facebook.com/ABCAustralianStory/posts/i-know-what-i-sawmany-witnesses-of-australias-biggest-mass-ufo-sighting-have-onl/947813277890968/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCAustralianStory/posts/i-know-what-i-sawmany-witnesses-of-australias-biggest-mass-ufo-sighting-have-onl/947813277890968/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: crystalinks.com  
-   Link: <a href="https://www.crystalinks.com/ausufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/ausufo.html</a>  
+   Link:<a href="https://www.crystalinks.com/ausufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/ausufo.html</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheProjectTV/posts/52-years-on-and-the-reported-ufo-sighting-in-westall-continues-to-draw-community/10155716528468441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheProjectTV/posts/52-years-on-and-the-reported-ufo-sighting-in-westall-continues-to-draw-community/10155716528468441/</a>  
+   Link:<a href="https://www.facebook.com/TheProjectTV/posts/52-years-on-and-the-reported-ufo-sighting-in-westall-continues-to-draw-community/10155716528468441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheProjectTV/posts/52-years-on-and-the-reported-ufo-sighting-in-westall-continues-to-draw-community/10155716528468441/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: en-academic.com  
-   Link: <a href="https://en-academic.com/dic.nsf/enwiki/1831500" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/1831500</a>  
+   Link:<a href="https://en-academic.com/dic.nsf/enwiki/1831500" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/1831500</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1966westallflyingsaucerincident/posts/10154434855866619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1966westallflyingsaucerincident/posts/10154434855866619/</a>  
+   Link:<a href="https://www.facebook.com/groups/1966westallflyingsaucerincident/posts/10154434855866619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1966westallflyingsaucerincident/posts/10154434855866619/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: simonandschuster.co.uk  
-   Link: <a href="https://www.simonandschuster.co.uk/authors/Bill-Chalker/22509695" target="_blank" rel="noopener noreferrer nofollow">https://www.simonandschuster.co.uk/authors/Bill-Chalker/22509695</a>  
+   Link:<a href="https://www.simonandschuster.co.uk/authors/Bill-Chalker/22509695" target="_blank" rel="noopener noreferrer nofollow">https://www.simonandschuster.co.uk/authors/Bill-Chalker/22509695</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/</a>  
+   Link:<a href="https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/</a>  

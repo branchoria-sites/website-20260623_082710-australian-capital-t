@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /northern-territory-205118-index/
 description: Focused pages that expand on What Really Happened in Northern Territory....
-date: '2026-06-23'
+date: '2026'
 layout: default
 parent_basename: Northern_Territory_205118
 parent_title: What Really Happened in Northern Territory...
@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-northern/
 
 # Explore Topics in What Really Happened in Northern Territory...
 
-The following pages expand on the main **[What Really Happened in Northern Territory...]({{ '/what-really-happened-in-northern/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Happened in Northern Territory...]({{ '/what-really-happened-in-northern/' | relative_url }})** page and cover its key branches in.
 
 - [1974 Lights]({{ '/1974-lights/' | relative_url }})
 - [Sky Causes]({{ '/sky-causes/' | relative_url }})

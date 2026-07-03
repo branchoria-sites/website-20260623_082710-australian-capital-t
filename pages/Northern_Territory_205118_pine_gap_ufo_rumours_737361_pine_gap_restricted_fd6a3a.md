@@ -260,15 +260,15 @@ For many UFO enthusiasts, the area around Alice Springs seems almost designed to
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_restricted_fd6a3a-Illustration-1-dark.svg" | relative_url }}" alt="Airspace illustration 1" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_restricted_fd6a3a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_restricted_fd6a3a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That does not mean every report can be explained immediately. Rather, the Alice Springs area shows how restricted airspace can shape public interpretation of otherwise ambiguous observations. In [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) UFO history, the combination of a classified facility, aviation restrictions and highly visible night skies has been almost as important as the sightings themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2024/05/getting-in-the-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-snippet">Flight Safety AustraliaGetting in the zoneMay 13, 2024 — 13 May 2024 — To fly into a particular controlled aerodrome – Alice Springs – I...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span>
+That does not mean every report can be explained immediately. Rather, the Alice Springs area shows how restricted airspace can shape public interpretation of otherwise ambiguous observations. In [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) UFO history, the combination of a classified facility, aviation restrictions and highly visible night skies has been almost as important as the sightings themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2024/05/getting-in-the-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-snippet">Flight Safety AustraliaGetting in the zoneMay 13, 2024 — 13 May 2024 — To fly into a particular controlled aerodrome – Alice Springs – I...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span>
 
 ## How Pine Gap affects local flight routes
 
-One reason Pine Gap attracts attention is that its presence is visible not only on the ground but also in aviation procedures. Airspace around the facility has long been subject to special restrictions, requiring pilots to plan routes that avoid the area or comply with specific controls. Airservices Australia and aviation regulators classify such zones as restricted airspace used for security and operational purposes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/about-us/our-services/how-air-traffic-control-works/how-airspace-is-managed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-snippet">AirservicesHow airspace is managedIn Restricted, and Military Operating Areas, aircraft movements are reduced to those with certain speci...</span></span></span>
+One reason Pine Gap attracts attention is that its presence is visible not only on the ground but also in aviation procedures. Airspace around the facility has long been subject to special restrictions, requiring pilots to plan routes that avoid the area or comply with specific controls. Airservices Australia and aviation regulators classify such zones as restricted airspace used for security and operational purposes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/about-us/our-services/how-air-traffic-control-works/how-airspace-is-managed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-snippet">AirservicesHow airspace is managedIn Restricted, and Military Operating Areas, aircraft movements are reduced to those with certain speci...</span></span></span>
 
-The practical effects can be seen in official aviation documents. A Civil Aviation Safety Authority review of Alice Springs airspace noted that aircraft operating near the town must account for Restricted Area 215 associated with Pine Gap, creating routing inefficiencies and additional workload for pilots and air-traffic controllers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/preliminary-airspace-review-alice-springs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-title">Civil Aviation Safety Authority Alice Springs preliminary airspace review</span><span class="citation-popover-snippet">It creates additional workload for pilots and ATC. Page 10. Office of Airspace Regulation.Read more...</span></span></span>
+The practical effects can be seen in official aviation documents. A Civil Aviation Safety Authority review of Alice Springs airspace noted that aircraft operating near the town must account for Restricted Area 215 associated with Pine Gap, creating routing inefficiencies and additional workload for pilots and air-traffic controllers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/preliminary-airspace-review-alice-springs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-title">Civil Aviation Safety Authority Alice Springs preliminary airspace review</span><span class="citation-popover-snippet">It creates additional workload for pilots and ATC. Page 10. Office of Airspace Regulation.Read more...</span></span></span>
 
-For visiting pilots, the restriction is not merely a bureaucratic detail. Aviation publications describing flights into Alice Springs note that Pine Gap's restricted zone is a major navigational consideration. Charts show a protected area extending around the installation, and pilots routinely plan approaches that avoid passing close to the facility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2024/05/getting-in-the-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-snippet">Flight Safety AustraliaGetting in the zoneMay 13, 2024 — 13 May 2024 — To fly into a particular controlled aerodrome – Alice Springs – I...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span>
+For visiting pilots, the restriction is not merely a bureaucratic detail. Aviation publications describing flights into Alice Springs note that Pine Gap's restricted zone is a major navigational consideration. Charts show a protected area extending around the installation, and pilots routinely plan approaches that avoid passing close to the facility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2024/05/getting-in-the-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-snippet">Flight Safety AustraliaGetting in the zoneMay 13, 2024 — 13 May 2024 — To fly into a particular controlled aerodrome – Alice Springs – I...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span>
 
 This matters for UFO interpretation because unusual flight paths can appear suspicious to observers on the ground. Aircraft may seem to alter course unexpectedly, circle, climb or avoid particular areas. Someone unaware of the underlying airspace rules may conclude that something unusual is happening when pilots are simply complying with published procedures.
 
@@ -276,7 +276,7 @@ This matters for UFO interpretation because unusual flight paths can appear susp
 
 Restricted airspace has a psychological effect that goes beyond aviation. Most people cannot see the boundary itself, but they know it exists. When a place is visibly guarded, difficult to access and associated with national security, observers naturally wonder what lies beyond the fence.
 
-Around Alice Springs, this effect is amplified by Pine Gap's reputation. The facility is widely known to support satellite communications, intelligence collection and missile-warning functions, but many operational details remain classified. The combination of real secrecy and limited public information creates fertile ground for speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — The Pine Gap intelligence-gathering facility is often d...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Around Alice Springs, this effect is amplified by Pine Gap's reputation. The facility is widely known to support satellite communications, intelligence collection and missile-warning functions, but many operational details remain classified. The combination of real secrecy and limited public information creates fertile ground for speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — The Pine Gap intelligence-gathering facility is often d...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 Several recurring assumptions appear in UFO discussions:
 
@@ -289,7 +289,7 @@ Several recurring assumptions appear in UFO discussions:
 
 </div>
 
-These assumptions are understandable but not necessarily justified. Restricted airspace around military and intelligence facilities exists in many countries. The existence of a restricted zone demonstrates that authorities want to protect sensitive operations; it does not reveal the nature of those operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/about-us/our-services/how-air-traffic-control-works/how-airspace-is-managed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-snippet">AirservicesHow airspace is managedIn Restricted, and Military Operating Areas, aircraft movements are reduced to those with certain speci...</span></span></span>
+These assumptions are understandable but not necessarily justified. Restricted airspace around military and intelligence facilities exists in many countries. The existence of a restricted zone demonstrates that authorities want to protect sensitive operations; it does not reveal the nature of those operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/about-us/our-services/how-air-traffic-control-works/how-airspace-is-managed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-snippet">AirservicesHow airspace is managedIn Restricted, and Military Operating Areas, aircraft movements are reduced to those with certain speci...</span></span></span>
 
 The Pine Gap case is therefore less a direct UFO incident than a lesson in how secrecy influences interpretation. People often fill gaps in knowledge with speculation, especially when the subject already has an aura of mystery.
 
@@ -315,7 +315,7 @@ Several categories of lights commonly generate UFO reports:
 
 The Central Australian desert is particularly favourable for satellite observation. Because Pine Gap itself is associated with satellites, observers sometimes assume any unusual light must be connected to the facility. In reality, many visible satellites have no connection to Pine Gap at all.
 
-A useful example comes from periodic reports of glowing plumes or unusual illuminated clouds seen across Australia. Such events can appear dramatic and unfamiliar, yet later investigation often links them to rocket launches or high-altitude exhaust illuminated by sunlight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=JBHjYc7wwRI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Mysterious White Plume Lights Up Australian Skies &#124; 10 NewsA mysterious white plume has been seen lighting up the night sky... Ca...</span></span></span>
+A useful example comes from periodic reports of glowing plumes or unusual illuminated clouds seen across Australia. Such events can appear dramatic and unfamiliar, yet later investigation often links them to rocket launches or high-altitude exhaust illuminated by sunlight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=JBHjYc7wwRI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Mysterious White Plume Lights Up Australian Skies &#124; 10 NewsA mysterious white plume has been seen lighting up the night sky... Ca...</span></span></span>
 
 The key point is not that every sighting has been solved, but that the region contains numerous ordinary sources of unusual-looking lights.
 
@@ -376,7 +376,7 @@ Without them, the connection to Pine Gap often becomes the dominant feature of t
 
 The enduring link between Alice Springs, strange lights and UFO speculation is not primarily driven by a single famous sighting. Instead, it comes from the interaction of three factors: a genuinely secretive defence facility, visible aviation restrictions and a landscape that makes the night sky unusually prominent.
 
-Restricted airspace around Pine Gap is a normal feature of protecting a sensitive defence installation, and official aviation documents show that it has practical consequences for flight operations around Alice Springs. At the same time, the region's clear skies ensure that people regularly notice unfamiliar lights and aerial phenomena. Civil Aviation Safety Authority+2Flight Safety Australia <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/preliminary-airspace-review-alice-springs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[casa.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-title">Civil Aviation Safety Authority Alice Springs preliminary airspace review</span><span class="citation-popover-snippet">It creates additional workload for pilots and ATC. Page 10. Office of Airspace Regulation.Read more...</span></span></span>
+Restricted airspace around Pine Gap is a normal feature of protecting a sensitive defence installation, and official aviation documents show that it has practical consequences for flight operations around Alice Springs. At the same time, the region's clear skies ensure that people regularly notice unfamiliar lights and aerial phenomena. Civil Aviation Safety Authority+2Flight Safety Australia<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/preliminary-airspace-review-alice-springs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[casa.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-title">Civil Aviation Safety Authority Alice Springs preliminary airspace review</span><span class="citation-popover-snippet">It creates additional workload for pilots and ATC. Page 10. Office of Airspace Regulation.Read more...</span></span></span>
 
 In Northern Territory UFO history, that combination has repeatedly encouraged observers to connect unusual lights with hidden activity at Pine Gap. Sometimes the explanation is straightforward, sometimes it remains uncertain, but the existence of restricted airspace by itself is not evidence of UFO activity. Rather, it is one of the reasons the area continues to generate UFO stories long after the original sighting has faded from view.
 
@@ -385,194 +385,194 @@ In Northern Territory UFO history, that combination has repeatedly encouraged ob
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Restricted Airspace Feeds UFO Suspicion. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Restricted Airspace Feeds UFO Suspicion. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on credible sightings, evidence standards and the importance of high-quality witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on credible sightings, evidence standards and the importance of high-quality witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Examines government investigations, reporting standards and how official secrecy shapes UFO interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines government investigations, reporting standards and how official secrecy shapes UFO interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pl-B_TL7S8oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 20 Google Books ratings</p>
-        <p class="fr-book-desc">Directly connects secrecy, restricted zones, military activity and public UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pl-B_TL7S8oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 20 Google Books ratings</p>
+<p class="fr-book-desc">Directly connects secrecy, restricted zones, military activity and public UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides tools for evaluating extraordinary claims, rumors and ambiguous observations around secret facilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides tools for evaluating extraordinary claims, rumors and ambiguous observations around secret facilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="airspace-when-restricted-airspace-feeds-ufo-suspicion-northern-territory-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-restricted-airspace-feeds-ufo-suspicion-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ In Northern Territory UFO history, that combination has repeatedly encouraged ob
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ In Northern Territory UFO history, that combination has repeatedly encouraged ob
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ In Northern Territory UFO history, that combination has repeatedly encouraged ob
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ In Northern Territory UFO history, that combination has repeatedly encouraged ob
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ In Northern Territory UFO history, that combination has repeatedly encouraged ob
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,148 +778,148 @@ In Northern Territory UFO history, that combination has repeatedly encouraged ob
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: flightsafetyaustralia.com  
-   Link: <a href="https://www.flightsafetyaustralia.com/2024/05/getting-in-the-zone/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2024/05/getting-in-the-zone/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety AustraliaGetting in the zoneMay 13, 2024 — 13 May 2024 — To fly into a particular controlled aerodrome – Alice Springs – I...</p></details>
+   Link:<a href="https://www.flightsafetyaustralia.com/2024/05/getting-in-the-zone/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2024/05/getting-in-the-zone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety AustraliaGetting in the zoneMay 13, 2024 — 13 May 2024 — To fly into a particular controlled aerodrome – Alice Springs – I...</p></details>
    Published: May 13, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: abc.net.au  
    Title: backstory expanse podcast spies in the outback pine gap barwick  
-   Link: <a href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — The Pine Gap intelligence-gathering facility is often d...</p></details>
+   Link:<a href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — The Pine Gap intelligence-gathering facility is often d...</p></details>
    Published: May 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/about-us/our-services/how-air-traffic-control-works/how-airspace-is-managed/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/about-us/our-services/how-air-traffic-control-works/how-airspace-is-managed/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesHow airspace is managedIn Restricted, and Military Operating Areas, aircraft movements are reduced to those with certain speci...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/about-us/our-services/how-air-traffic-control-works/how-airspace-is-managed/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/about-us/our-services/how-air-traffic-control-works/how-airspace-is-managed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesHow airspace is managedIn Restricted, and Military Operating Areas, aircraft movements are reduced to those with certain speci...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: infrastructure.gov.au  
-   Link: <a href="https://www.infrastructure.gov.au/sites/default/files/documents/aab-attachment-b-department-of-defence-and-restricted-areas-constraints.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure.gov.au/sites/default/files/documents/aab-attachment-b-department-of-defence-and-restricted-areas-constraints.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrastructure and Transport DeptDepartment of Defence and Restricted Areaswhen notice has been provided to aircraft operators that a Res...</p></details>
+   Link:<a href="https://www.infrastructure.gov.au/sites/default/files/documents/aab-attachment-b-department-of-defence-and-restricted-areas-constraints.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure.gov.au/sites/default/files/documents/aab-attachment-b-department-of-defence-and-restricted-areas-constraints.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infrastructure and Transport DeptDepartment of Defence and Restricted Areaswhen notice has been provided to aircraft operators that a Res...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: casa.gov.au  
    Title: Civil Aviation Safety Authority Alice Springs preliminary airspace review  
-   Link: <a href="https://www.casa.gov.au/preliminary-airspace-review-alice-springs" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/preliminary-airspace-review-alice-springs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It creates additional workload for pilots and ATC. Page 10. Office of Airspace Regulation.Read more...</p></details>
+   Link:<a href="https://www.casa.gov.au/preliminary-airspace-review-alice-springs" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/preliminary-airspace-review-alice-springs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It creates additional workload for pilots and ATC. Page 10. Office of Airspace Regulation.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Pine Gap  
-   Link: <a href="https://en.wikipedia.org/wiki/Pine_Gap" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pine_Gap</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pine GapPine Gap is a joint Australian-United States satellite communications and signals intelligence surveillance base and Australia...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Pine_Gap" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pine_Gap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pine GapPine Gap is a joint Australian-United States satellite communications and signals intelligence surveillance base and Australia...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JBHjYc7wwRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JBHjYc7wwRI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious White Plume Lights Up Australian Skies | 10 NewsA mysterious white plume has been seen lighting up the night sky... Ca...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JBHjYc7wwRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JBHjYc7wwRI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious White Plume Lights Up Australian Skies | 10 NewsA mysterious white plume has been seen lighting up the night sky... Ca...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: atsb.gov.au  
    Title: The two categories of civil  
-   Link: <a href="https://www.atsb.gov.au/sites/default/files/media/29977/b20070107_001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/media/29977/b20070107_001.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in reportable matters involving regular public...The only prohibited airspace in Australia is associated with the Joint Defence F...</p></details>
+   Link:<a href="https://www.atsb.gov.au/sites/default/files/media/29977/b20070107_001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/media/29977/b20070107_001.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in reportable matters involving regular public...The only prohibited airspace in Australia is associated with the Joint Defence F...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: oia.pmc.gov.au  
    Title: Airspace Regulation 2007 Changes RIS  
-   Link: <a href="https://oia.pmc.gov.au/sites/default/files/posts/2024/03/Airspace%20Regulation%202007%20Changes%20RIS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oia.pmc.gov.au/sites/default/files/posts/2024/03/Airspace%20Regulation%202007%20Changes%20RIS.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulations 2007 changesIn November 2019, the International Civil Aviation Organization (ICAO) issued a notice of deficiency for non-comp...</p></details>
+   Link:<a href="https://oia.pmc.gov.au/sites/default/files/posts/2024/03/Airspace%20Regulation%202007%20Changes%20RIS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oia.pmc.gov.au/sites/default/files/posts/2024/03/Airspace%20Regulation%202007%20Changes%20RIS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regulations 2007 changesIn November 2019, the International Civil Aviation Organization (ICAO) issued a notice of deficiency for non-comp...</p></details>
    Published: November 2019  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amsis-geoscience-au.hub.arcgis.com  
    Title: geoscience au::restricted airspace 1  
-   Link: <a href="https://amsis-geoscience-au.hub.arcgis.com/datasets/geoscience-au%3A%3Arestricted-airspace-1" target="_blank" rel="noopener noreferrer nofollow">https://amsis-geoscience-au.hub.arcgis.com/datasets/geoscience-au%3A%3Arestricted-airspace-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airspace | Australian Marine Spatial...Restricted Airspace; R235, R235 ALICE SPRINGS, FL070; D432, D432 SULCOR, FL033; R131F, R131F Y...</p></details>
+   Link:<a href="https://amsis-geoscience-au.hub.arcgis.com/datasets/geoscience-au%3A%3Arestricted-airspace-1" target="_blank" rel="noopener noreferrer nofollow">https://amsis-geoscience-au.hub.arcgis.com/datasets/geoscience-au%3A%3Arestricted-airspace-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airspace | Australian Marine Spatial...Restricted Airspace; R235, R235 ALICE SPRINGS, FL070; D432, D432 SULCOR, FL033; R131F, R131F Y...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: airservicesaustralia.com  
    Title: SUA 19MAR2026  
-   Link: <a href="https://www.airservicesaustralia.com/aip/current/ersa/SUA__19MAR2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/aip/current/ersa/SUA__19MAR2026.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SPECIAL USE AIRSPACE (SUA)19 Mar 2026 — They are primarily established outside Australian territory in Australian administered airspace f...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/aip/current/ersa/SUA__19MAR2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/aip/current/ersa/SUA__19MAR2026.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SPECIAL USE AIRSPACE (SUA)19 Mar 2026 — They are primarily established outside Australian territory in Australian administered airspace f...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Pine Gap: a secret US space base in the Aussie outback ‍ 🛰️  
-   Link: <a href="https://www.youtube.com/watch?v=74LLN74Ey4s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=74LLN74Ey4s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Huge Desert Base That Doesn&#x27;t (Officially) Exist...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=74LLN74Ey4s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=74LLN74Ey4s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Huge Desert Base That Doesn&#x27;t (Officially) Exist...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Huge Desert Base That Doesn't (Officially) Exist  
-   Link: <a href="https://www.youtube.com/watch?v=BkPmreMus0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BkPmreMus0k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Pine Gap: Unveiling the CIA&#x27;s Secret Spy Base in Australia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BkPmreMus0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BkPmreMus0k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Pine Gap: Unveiling the CIA&#x27;s Secret Spy Base in Australia...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Inside Pine Gap: Unveiling the CIA's Secret Spy Base in Australia  
-   Link: <a href="https://www.youtube.com/watch?v=UAR6WCA3MYk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UAR6WCA3MYk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the world&#x27;s most secretive spy bases is in the Australian outback | ABC News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UAR6WCA3MYk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UAR6WCA3MYk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of the world&#x27;s most secretive spy bases is in the Australian outback | ABC News...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gTsciAscJeA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gTsciAscJeA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap &#x27;The Base&#x27; and the American spy in the desert who tells all 🕵️...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gTsciAscJeA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gTsciAscJeA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap &#x27;The Base&#x27; and the American spy in the desert who tells all 🕵️...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Pine Gap 'The Base' and the American spy in the desert who tells all 🕵️  
-   Link: <a href="https://www.youtube.com/watch?v=O0K0AaxnID0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O0K0AaxnID0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=O0K0AaxnID0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O0K0AaxnID0</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcnews.au/videos/hidden-in-a-rugged-valley-18km-south-of-alice-springs-lies-one-of-americas-most-/27260982966823398/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/videos/hidden-in-a-rugged-valley-18km-south-of-alice-springs-lies-one-of-americas-most-/27260982966823398/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sold to locals as a &quot;space research&quot; fa | ABC NewsSold to locals as a &quot;space research&quot; facility in the late 60s, Pine Gap was established...</p></details>
+   Link:<a href="https://www.facebook.com/abcnews.au/videos/hidden-in-a-rugged-valley-18km-south-of-alice-springs-lies-one-of-americas-most-/27260982966823398/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/videos/hidden-in-a-rugged-valley-18km-south-of-alice-springs-lies-one-of-americas-most-/27260982966823398/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sold to locals as a &quot;space research&quot; fa | ABC NewsSold to locals as a &quot;space research&quot; facility in the late 60s, Pine Gap was established...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DW-zu2nmBW8/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW-zu2nmBW8/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sold to locals as a “space research” facility in the late 60s, Pine Gap was established by the CIA, and has eavesdropped on countless cou...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DW-zu2nmBW8/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW-zu2nmBW8/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sold to locals as a “space research” facility in the late 60s, Pine Gap was established by the CIA, and has eavesdropped on countless cou...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/WeatherObsessed/posts/2208517822956454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/WeatherObsessed/posts/2208517822956454/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in northern Tasmania, AustraliaThe UFOs were traveling at a slow speed and maintained that slow speed and low altitude mayb...</p></details>
+   Link:<a href="https://www.facebook.com/groups/WeatherObsessed/posts/2208517822956454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/WeatherObsessed/posts/2208517822956454/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in northern Tasmania, AustraliaThe UFOs were traveling at a slow speed and maintained that slow speed and low altitude mayb...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dailymotion.com  
-   Link: <a href="https://www.dailymotion.com/video/xa37ik6" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/xa37ik6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>defence facility on the edge of town is being used to help coordinate US and Israeli air strikes. For those residents with family in the...</p></details>
+   Link:<a href="https://www.dailymotion.com/video/xa37ik6" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/xa37ik6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>defence facility on the edge of town is being used to help coordinate US and Israeli air strikes. For those residents with family in the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But whether they are signs of alien visitors, secret projects, natural...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But whether they are signs of alien visitors, secret projects, natural...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>terious lights floating in Mt Isa fit the pattern of alien activity...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>terious lights floating in Mt Isa fit the pattern of alien activity...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYbj0FwFQb-/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYbj0FwFQb-/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lligence-gathering hubs, UFO entry and repair facilities...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYbj0FwFQb-/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYbj0FwFQb-/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lligence-gathering hubs, UFO entry and repair facilities...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pprune.org  
    Title: 548074 flight through military restricted ra2  
-   Link: <a href="https://www.pprune.org/pacific-general-aviation-questions/548074-flight-through-military-restricted-ra2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pprune.org/pacific-general-aviation-questions/548074-flight-through-military-restricted-ra2.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight through Military Restricted RA223 Sept 2014 — With Prohibited Areas (and we don&#x27;t have any), aircraft are not permitted under any...</p></details>
+   Link:<a href="https://www.pprune.org/pacific-general-aviation-questions/548074-flight-through-military-restricted-ra2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pprune.org/pacific-general-aviation-questions/548074-flight-through-military-restricted-ra2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flight through Military Restricted RA223 Sept 2014 — With Prohibited Areas (and we don&#x27;t have any), aircraft are not permitted under any...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1m8ypuv/filmed_just_outside_of_alice_springs_aus_any/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1m8ypuv/filmed_just_outside_of_alice_springs_aus_any/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazil discloses 972 top secret UFO documents.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1m8ypuv/filmed_just_outside_of_alice_springs_aus_any/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1m8ypuv/filmed_just_outside_of_alice_springs_aus_any/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brazil discloses 972 top secret UFO documents.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DMm0WimiedN/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMm0WimiedN/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hat it&#x27;s not a ufo #aliens #alien &amp;middot; View all 5...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DMm0WimiedN/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMm0WimiedN/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hat it&#x27;s not a ufo #aliens #alien &amp;middot; View all 5...</p></details>

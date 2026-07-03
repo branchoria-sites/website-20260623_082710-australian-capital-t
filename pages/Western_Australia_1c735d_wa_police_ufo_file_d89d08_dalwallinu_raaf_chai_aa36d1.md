@@ -262,7 +262,7 @@ image: /assets/images/Western_Australia_1c735d_wa_police_ufo_file_d89d08_dalwall
 
 ## Introduction
 
-The Dalwallinu sighting of January 1953 is important in [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }})’s UFO history not because it produced compelling physical evidence, but because it shows, unusually clearly, how an unexplained aerial report moved through an official reporting system. A sighting by country residents near Dalwallinu led to newspaper coverage, attracted the attention of the Royal Australian Air Force (RAAF), and resulted in formal witness interviews conducted by local police before the information was forwarded up the chain. In that sense, the case is less significant as proof of an unidentified object than as a documented example of how authorities handled such reports in the early Cold War period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files</span><span class="citation-popover-snippet">The Dusty BoxU.F.O. Files - The Dusty Box17 Nov 2020 — January 1953 - Dalwallinu While hunting foxes northeast of Dalwallinu, Richard Hun...</span></span></span>
+The Dalwallinu sighting of January 1953 is important in [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }})’s UFO history not because it produced compelling physical evidence, but because it shows, unusually clearly, how an unexplained aerial report moved through an official reporting system. A sighting by country residents near Dalwallinu led to newspaper coverage, attracted the attention of the Royal Australian Air Force (RAAF), and resulted in formal witness interviews conducted by local police before the information was forwarded up the chain. In that sense, the case is less significant as proof of an unidentified object than as a documented example of how authorities handled such reports in the early Cold War period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files</span><span class="citation-popover-snippet">The Dusty BoxU.F.O. Files - The Dusty Box17 Nov 2020 — January 1953 - Dalwallinu While hunting foxes northeast of Dalwallinu, Richard Hun...</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_wa_police_ufo_file_d89d08_dalwallinu_raaf_chai_aa36d1-Illustration-1-dark.svg" | relative_url }}" alt="Dalwallinu illustration 1" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_wa_police_ufo_file_d89d08_dalwallinu_raaf_chai_aa36d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_wa_police_ufo_file_d89d08_dalwallinu_raaf_chai_aa36d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -273,11 +273,11 @@ Within the broader [WA Police UFO File]({{ 'police-file/' | relative_url }}), th
 
 ## What Witnesses Reported Near Dalwallinu
 
-On the evening of 13 January 1953, Richard Hunter and Keith McNamara were hunting foxes north-east of Dalwallinu when they noticed an unusual object in the sky. According to later accounts drawn from police records, the object appeared as a bright star-like light surrounded by a white, misty or vapour-like ring. The men watched it travel across the sky for several minutes. They reported that it changed direction, turning first towards the south-west and then west before eventually disappearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files</span><span class="citation-popover-snippet">The Dusty BoxU.F.O. Files - The Dusty Box17 Nov 2020 — January 1953 - Dalwallinu While hunting foxes northeast of Dalwallinu, Richard Hun...</span></span></span>
+On the evening of 13 January 1953, Richard Hunter and Keith McNamara were hunting foxes north-east of Dalwallinu when they noticed an unusual object in the sky. According to later accounts drawn from police records, the object appeared as a bright star-like light surrounded by a white, misty or vapour-like ring. The men watched it travel across the sky for several minutes. They reported that it changed direction, turning first towards the south-west and then west before eventually disappearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files</span><span class="citation-popover-snippet">The Dusty BoxU.F.O. Files - The Dusty Box17 Nov 2020 — January 1953 - Dalwallinu While hunting foxes northeast of Dalwallinu, Richard Hun...</span></span></span>
 
-After returning to town, they discussed the sighting with Les Angel and Kenneth Jefferis. Those men independently reported seeing the same object and observing it for around ten minutes. One account stated that a luminous halo remained visible after the main object vanished. The existence of multiple witnesses was one reason the story attracted attention beyond the local district. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files</span><span class="citation-popover-snippet">The Dusty BoxU.F.O. Files - The Dusty Box17 Nov 2020 — January 1953 - Dalwallinu While hunting foxes northeast of Dalwallinu, Richard Hun...</span></span></span>
+After returning to town, they discussed the sighting with Les Angel and Kenneth Jefferis. Those men independently reported seeing the same object and observing it for around ten minutes. One account stated that a luminous halo remained visible after the main object vanished. The existence of multiple witnesses was one reason the story attracted attention beyond the local district.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files</span><span class="citation-popover-snippet">The Dusty BoxU.F.O. Files - The Dusty Box17 Nov 2020 — January 1953 - Dalwallinu While hunting foxes northeast of Dalwallinu, Richard Hun...</span></span></span>
 
-The timing of the report is also noteworthy. The sighting occurred during a period when reports of “flying saucers” were receiving substantial media coverage internationally. Australian newspapers were increasingly willing to print such stories, and the Dalwallinu report quickly moved from a local newspaper item into metropolitan circulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files</span><span class="citation-popover-snippet">The Dusty BoxU.F.O. Files - The Dusty Box17 Nov 2020 — January 1953 - Dalwallinu While hunting foxes northeast of Dalwallinu, Richard Hun...</span></span></span>
+The timing of the report is also noteworthy. The sighting occurred during a period when reports of “flying saucers” were receiving substantial media coverage internationally. Australian newspapers were increasingly willing to print such stories, and the Dalwallinu report quickly moved from a local newspaper item into metropolitan circulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files</span><span class="citation-popover-snippet">The Dusty BoxU.F.O. Files - The Dusty Box17 Nov 2020 — January 1953 - Dalwallinu While hunting foxes northeast of Dalwallinu, Richard Hun...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/01sVLTO8xmo" title="24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer">24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold</a></p><p class="youtube-embed-meta">Channel: HistoryPod &middot; Views: 22.6K &middot; Uploaded: June 2021 &middot; Length: 2 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=01sVLTO8xmo">Open on YouTube</a></p></div></div></div>
@@ -286,7 +286,7 @@ The timing of the report is also noteworthy. The sighting occurred during a peri
 
 The most revealing aspect of the case is what happened after the sighting entered the public record.
 
-Following newspaper coverage, the RAAF sought additional information. Rather than relying solely on press reports, a Flight Lieutenant identified in surviving accounts as Arnold contacted the Commissioner of Police and requested that formal witness statements be obtained. This shifted the matter from a newspaper curiosity into an official reporting process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files</span><span class="citation-popover-snippet">The Dusty BoxU.F.O. Files - The Dusty Box17 Nov 2020 — January 1953 - Dalwallinu While hunting foxes northeast of Dalwallinu, Richard Hun...</span></span></span>
+Following newspaper coverage, the RAAF sought additional information. Rather than relying solely on press reports, a Flight Lieutenant identified in surviving accounts as Arnold contacted the Commissioner of Police and requested that formal witness statements be obtained. This shifted the matter from a newspaper curiosity into an official reporting process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files</span><span class="citation-popover-snippet">The Dusty BoxU.F.O. Files - The Dusty Box17 Nov 2020 — January 1953 - Dalwallinu While hunting foxes northeast of Dalwallinu, Richard Hun...</span></span></span>
 
 The request moved through police channels to Dalwallinu, where Constable Wells was tasked with collecting evidence. He interviewed the witnesses and recorded their observations using structured questions. The information sought was practical rather than sensational:
 
@@ -302,7 +302,7 @@ The request moved through police channels to Dalwallinu, where Constable Wells w
 
 </div>
 
-Constable Wells also marked the reported position and apparent course of the object on a map before forwarding the material onward. This step is particularly important because it shows that police were not merely filing rumours. They were attempting to preserve witness observations in a form that could be evaluated by another agency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files</span><span class="citation-popover-snippet">The Dusty BoxU.F.O. Files - The Dusty Box17 Nov 2020 — January 1953 - Dalwallinu While hunting foxes northeast of Dalwallinu, Richard Hun...</span></span></span>
+Constable Wells also marked the reported position and apparent course of the object on a map before forwarding the material onward. This step is particularly important because it shows that police were not merely filing rumours. They were attempting to preserve witness observations in a form that could be evaluated by another agency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedustybox.com/2020/11/17/u-f-o-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedustybox.com">[The Dusty Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedustybox.com</span><span class="citation-popover-title">The Dusty Box U.F.O. Files</span><span class="citation-popover-snippet">The Dusty BoxU.F.O. Files - The Dusty Box17 Nov 2020 — January 1953 - Dalwallinu While hunting foxes northeast of Dalwallinu, Richard Hun...</span></span></span>
 
 The resulting chain was straightforward but significant:
 
@@ -353,7 +353,7 @@ What it does not demonstrate is:
 
 * Independent physical evidence.
 * Radar confirmation. [* Photographs.](#endnote-5 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...The date again was the afternoon of January 27, 1953. Sighting confirmed by police. January 1&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...The date again was the afternoon of January 27, 1953. Sighting confirmed by police. January 1&quot;)...</p></details>
 * Recovery of material.
 * A definitive identification of the object.
 * A military conclusion that the object was something beyond known technology. [The Dusty Box](https://thedustybox.com/2020/11/17/u-f-o-files/)
@@ -369,194 +369,194 @@ For researchers examining the WA Police UFO File, that makes Dalwallinu a useful
 The enduring value of the Dalwallinu sighting therefore lies not in what was seen, but in what happened afterwards. It provides one of the clearest surviving examples of how a country Western Australian UFO report reached the attention of the RAAF through an established chain of official reporting. [The Dusty Box](https://thedustybox.com/2020/11/17/u-f-o-files/)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Dalwallinu Reached the RAAF. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Dalwallinu Reached the RAAF. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Centers on documented testimony and official involvement rather than folklore alone.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on documented testimony and official involvement rather than folklore alone.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">The Dalwallinu story is fundamentally about an investigative chain and official handling of a sighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The Dalwallinu story is fundamentally about an investigative chain and official handling of a sighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating witness reports like those collected in the Dalwallinu case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating witness reports like those collected in the Dalwallinu case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines documented cases and institutional responses to unexplained aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documented cases and institutional responses to unexplained aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dalwallinu-how-dalwallinu-reached-the-raaf-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ The enduring value of the Dalwallinu sighting therefore lies not in what was see
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ The enduring value of the Dalwallinu sighting therefore lies not in what was see
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ The enduring value of the Dalwallinu sighting therefore lies not in what was see
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ The enduring value of the Dalwallinu sighting therefore lies not in what was see
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ The enduring value of the Dalwallinu sighting therefore lies not in what was see
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,74 +762,74 @@ The enduring value of the Dalwallinu sighting therefore lies not in what was see
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO file&#x27; sheds light on strange encounters in Western...27 Jul 2020 — The UFO file holds dozens of police reports linked to sightings...</p></details>
+   Link:<a href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO file&#x27; sheds light on strange encounters in Western...27 Jul 2020 — The UFO file holds dozens of police reports linked to sightings...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: navyhistory.au  
    Title: UFO sightings became common during the Cold War  
-   Link: <a href="https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/" target="_blank" rel="noopener noreferrer nofollow">https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Historical Society of AustraliaThe RAAF and the UFO&#x27;s: some of the story11 Jul 2021 — Wing Commander Paget discussed the RAAF&#x27;s inv...</p></details>
+   Link:<a href="https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/" target="_blank" rel="noopener noreferrer nofollow">https://navyhistory.au/podcast/the-raaf-and-the-ufos-some-of-the-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Historical Society of AustraliaThe RAAF and the UFO&#x27;s: some of the story11 Jul 2021 — Wing Commander Paget discussed the RAAF&#x27;s inv...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dodgyperth.com  
-   Link: <a href="https://dodgyperth.com/tag/dalwallinu/" target="_blank" rel="noopener noreferrer nofollow">https://dodgyperth.com/tag/dalwallinu/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Aug 2015 — In January 1953, the Daily News ran an amused, but very short, article on four Dalwallinu residents who saw a flying saucer...</p></details>
+   Link:<a href="https://dodgyperth.com/tag/dalwallinu/" target="_blank" rel="noopener noreferrer nofollow">https://dodgyperth.com/tag/dalwallinu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Aug 2015 — In January 1953, the Daily News ran an amused, but very short, article on four Dalwallinu residents who saw a flying saucer...</p></details>
    Published: January 1953  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...The date again was the afternoon of January 27, 1953. Sighting confirmed by police. January 1...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...The date again was the afternoon of January 27, 1953. Sighting confirmed by police. January 1...</p></details>
    Published: January 27, 1953  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: slwa.wa.gov.au  
-   Link: <a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</p></details>
+   Link:<a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: airandspaceforces.com  
-   Link: <a href="https://www.airandspaceforces.com/article/0611ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/article/0611ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF and the UFOsPrivate pilot Kenneth Arnold, 850 additional sightings of flying disks were reported, most famous UFO incident. Outer Sp...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/article/0611ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/article/0611ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF and the UFOsPrivate pilot Kenneth Arnold, 850 additional sightings of flying disks were reported, most famous UFO incident. Outer Sp...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives of AustraliaUFO sightings at weapons testing site, WoomeraA confidential report detailing sightings of an unidentified...</p></details>
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives of AustraliaUFO sightings at weapons testing site, WoomeraA confidential report detailing sightings of an unidentified...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aic.gov.au  
-   Link: <a href="https://www.aic.gov.au/sites/default/files/2020-05/police-source-book-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aic.gov.au/sites/default/files/2020-05/police-source-book-2.pdf</a>  
+   Link:<a href="https://www.aic.gov.au/sites/default/files/2020-05/police-source-book-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aic.gov.au/sites/default/files/2020-05/police-source-book-2.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: do you believe in ufos in this post real life accounts of ufo sightings in weste  
-   Link: <a href="https://www.facebook.com/StateLibraryWA/posts/do-you-believe-in-ufos-in-this-post-real-life-accounts-of-ufo-sightings-in-weste/3710794442281521/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StateLibraryWA/posts/do-you-believe-in-ufos-in-this-post-real-life-accounts-of-ufo-sightings-in-weste/3710794442281521/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>State Library of Western AustraliaReal life accounts of UFO sightings in Western Australia in the 1950s and 70s. As revealed in Police De...</p></details>
+   Link:<a href="https://www.facebook.com/StateLibraryWA/posts/do-you-believe-in-ufos-in-this-post-real-life-accounts-of-ufo-sightings-in-weste/3710794442281521/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StateLibraryWA/posts/do-you-believe-in-ufos-in-this-post-real-life-accounts-of-ufo-sightings-in-weste/3710794442281521/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State Library of Western AustraliaReal life accounts of UFO sightings in Western Australia in the 1950s and 70s. As revealed in Police De...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: wwii uncovered 82nd anniversary of the great escape honouring flight lieutenant  
-   Link: <a href="https://www.facebook.com/100064703681472/posts/-wwii-uncovered-82nd-anniversary-of-the-great-escape-honouring-flight-lieutenant/1373505978149512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064703681472/posts/-wwii-uncovered-82nd-anniversary-of-the-great-escape-honouring-flight-lieutenant/1373505978149512/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Honouring Flight Lieutenant Arnold George Christensen...He was promoted to Lieutenant Colonel in 1953. ARNOLD Flight Lieutenant, Killed...</p></details>
+   Link:<a href="https://www.facebook.com/100064703681472/posts/-wwii-uncovered-82nd-anniversary-of-the-great-escape-honouring-flight-lieutenant/1373505978149512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064703681472/posts/-wwii-uncovered-82nd-anniversary-of-the-great-escape-honouring-flight-lieutenant/1373505978149512/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Honouring Flight Lieutenant Arnold George Christensen...He was promoted to Lieutenant Colonel in 1953. ARNOLD Flight Lieutenant, Killed...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thewest.com.au  
    Title: Main Image: Western Australia's secret UFO history has been  
-   Link: <a href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow">https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>State records show the skies over WA have seen many UFOs4 Nov 2022 — Untold history of WA: State records show the skies over WA have seen...</p></details>
+   Link:<a href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow">https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State records show the skies over WA have seen many UFOs4 Nov 2022 — Untold history of WA: State records show the skies over WA have seen...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DBs7Gd6yood/?hl=fr" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DBs7Gd6yood/?hl=fr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did you know the WA Police have a UFO file, full of reports...29 Oct 2024 — Did you know the WA Police have a UFO file, full of reports...</p></details>
+   Link:<a href="https://www.instagram.com/p/DBs7Gd6yood/?hl=fr" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DBs7Gd6yood/?hl=fr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did you know the WA Police have a UFO file, full of reports...29 Oct 2024 — Did you know the WA Police have a UFO file, full of reports...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=DZP-x4Ko_JI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DZP-x4Ko_JI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian UFO files RAAF history In the 80s the RAAF held hundreds of files documenting UFO sightings 🛸 | Uncropped | ABC Australia ABC...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=DZP-x4Ko_JI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DZP-x4Ko_JI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian UFO files RAAF history In the 80s the RAAF held hundreds of files documenting UFO sightings 🛸 | Uncropped | ABC Australia ABC...</p></details>

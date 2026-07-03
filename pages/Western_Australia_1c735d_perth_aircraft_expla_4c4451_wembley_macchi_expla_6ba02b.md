@@ -256,11 +256,11 @@ image: /assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_wembl
 
 ## Introduction
 
-The Wembley lights case is one of the clearest examples of how a seemingly mysterious UFO report in metropolitan Perth acquired an ordinary aviation explanation once military flight activity was checked. The incident, recorded in Royal Australian Air Force (RAAF) unusual aerial sighting files, involved two high white objects seen from Wembley in June 1973. Rather than remaining unexplained, the report was later linked to a formation of Macchi jet trainers operating from RAAF Base Pearce north of Perth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
+The Wembley lights case is one of the clearest examples of how a seemingly mysterious UFO report in metropolitan Perth acquired an ordinary aviation explanation once military flight activity was checked. The incident, recorded in Royal Australian Air Force (RAAF) unusual aerial sighting files, involved two high white objects seen from Wembley in June 1973. Rather than remaining unexplained, the report was later linked to a formation of Macchi jet trainers operating from RAAF Base Pearce north of Perth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_wembley_macchi_expla_6ba02b-Illustration-1-dark.svg" | relative_url }}" alt="Wembley Macchis illustration 1" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_wembley_macchi_expla_6ba02b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_wembley_macchi_expla_6ba02b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }})'s UFO history, the case matters not because it is dramatic, but because it demonstrates a recurring pattern around Perth: witnesses often reported genuine lights in the sky, yet subsequent investigation showed that military training aircraft, airport traffic and other conventional aerial activity could account for at least some reports. The Wembley sighting became a useful reference point for understanding how ordinary aircraft could appear unusual when viewed at night and from a distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
+Within [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }})'s UFO history, the case matters not because it is dramatic, but because it demonstrates a recurring pattern around Perth: witnesses often reported genuine lights in the sky, yet subsequent investigation showed that military training aircraft, airport traffic and other conventional aerial activity could account for at least some reports. The Wembley sighting became a useful reference point for understanding how ordinary aircraft could appear unusual when viewed at night and from a distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ODxoKrokpdk" title="Macchi in RAAF Service" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ODxoKrokpdk" target="_blank" rel="noopener noreferrer">Macchi in RAAF Service</a></p><p class="youtube-embed-meta">Channel: Australian Military Aviation History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ODxoKrokpdk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ODxoKrokpdk">Open on YouTube</a></p></div></div></div>
@@ -269,7 +269,7 @@ Within [Western Australia]({{ 'what-did-western-australia-really-see/' | relativ
 
 ### What the Wembley witness reported
 
-According to the 1973 RAAF unusual aerial sightings summary, the Wembley observation occurred on 25 June 1973 at approximately 0200 GMT. The witness reported two white objects at high altitude moving towards the north-west. The description itself was brief and did not include claims of extraordinary manoeuvres, physical effects or close-range observation. Instead, the key feature was the appearance of two bright objects travelling together across the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
+According to the 1973 RAAF unusual aerial sightings summary, the Wembley observation occurred on 25 June 1973 at approximately 0200 GMT. The witness reported two white objects at high altitude moving towards the north-west. The description itself was brief and did not include claims of extraordinary manoeuvres, physical effects or close-range observation. Instead, the key feature was the appearance of two bright objects travelling together across the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
 
 Seen from the ground, especially at night, two aircraft flying in formation can easily appear as isolated luminous objects rather than recognisable aeroplanes. At sufficient distance, navigation lights may be difficult to distinguish, while landing or forward-facing lights can make aircraft appear brighter and more unusual than they would in daylight.
 
@@ -280,11 +280,11 @@ The original report therefore began as an unidentified sighting, but not necessa
 
 ### Why the Pearce Macchi explanation mattered
 
-The same RAAF record that preserved the sighting also recorded a possible explanation: a Macchi formation from [RAAF Pearce]({{ 'raaf-pearce/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
+The same RAAF record that preserved the sighting also recorded a possible explanation: a Macchi formation from [RAAF Pearce]({{ 'raaf-pearce/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
 
-This detail is significant because RAAF Pearce was not a minor airfield. During the early 1970s it was one of Australia's principal flying-training bases. The Aermacchi MB-326H, commonly known in Australia simply as the Macchi, served as the RAAF's advanced jet trainer and was operated extensively from Pearce by No. 2 Flying Training School. Macchis had been introduced there in 1969 and were a routine feature of the skies over the Perth region throughout the period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airforce.gov.au/sites/default/files/2023-07/A7-%20Aermacchi-%20Aircraft%20of%20the%20Royal%20Australian%20Air%20Force%20pp%20436%20%E2%80%93%20440%20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airforce.gov.au">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airforce.gov.au</span><span class="citation-popover-title">Air Force A7 – Aermacchi MB-326H</span><span class="citation-popover-snippet">Training School (2FTS) at RAAF Pearce, Western. Australia in 1969, where they were operated in the advanced...</span></span></span>
+This detail is significant because RAAF Pearce was not a minor airfield. During the early 1970s it was one of Australia's principal flying-training bases. The Aermacchi MB-326H, commonly known in Australia simply as the Macchi, served as the RAAF's advanced jet trainer and was operated extensively from Pearce by No. 2 Flying Training School. Macchis had been introduced there in 1969 and were a routine feature of the skies over the Perth region throughout the period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airforce.gov.au/sites/default/files/2023-07/A7-%20Aermacchi-%20Aircraft%20of%20the%20Royal%20Australian%20Air%20Force%20pp%20436%20%E2%80%93%20440%20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airforce.gov.au">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airforce.gov.au</span><span class="citation-popover-title">Air Force A7 – Aermacchi MB-326H</span><span class="citation-popover-snippet">Training School (2FTS) at RAAF Pearce, Western. Australia in 1969, where they were operated in the advanced...</span></span></span>
 
-The explanation therefore did not rely on speculation. Investigators had a specific aircraft type, a nearby military base and an established pattern of training activity that matched the general circumstances of the observation. Rather than leaving the objects in an unresolved category, the record associated them with known aircraft operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
+The explanation therefore did not rely on speculation. Investigators had a specific aircraft type, a nearby military base and an established pattern of training activity that matched the general circumstances of the observation. Rather than leaving the objects in an unresolved category, the record associated them with known aircraft operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
 
 The case also illustrates an important distinction in UFO investigations. A witness may accurately report what was seen—a pair of bright white objects moving across the sky—while still being mistaken about the nature of those objects. The question for investigators is not whether the lights existed, but whether a conventional source can account for them.
 
@@ -298,211 +298,211 @@ First, formation flying naturally produces multiple lights travelling together. 
 
 Third, military training flights do not always resemble ordinary commercial air traffic. Unlike a scheduled airliner following a familiar approach path, training aircraft may change heading, spacing and altitude as part of routine exercises. To an observer unfamiliar with military flying patterns, this can make otherwise normal aircraft appear unusual.
 
-The Wembley report's description of two white objects at high altitude moving in the same general direction is consistent with the kind of appearance that distant jet trainers in formation could create. The absence of claims such as hovering, impossible acceleration or abrupt directional changes further reduces the need for a more exotic explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
+The Wembley report's description of two white objects at high altitude moving in the same general direction is consistent with the kind of appearance that distant jet trainers in formation could create. The absence of claims such as hovering, impossible acceleration or abrupt directional changes further reduces the need for a more exotic explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W6sbN8wM_DU" title="RAAF Base Pearce" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W6sbN8wM_DU" target="_blank" rel="noopener noreferrer">RAAF Base Pearce</a></p><p class="youtube-embed-meta">Channel: Royal Australian Air Force</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W6sbN8wM_DU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W6sbN8wM_DU">Open on YouTube</a></p></div></div></div>
 
 ## What this case shows about solved Perth sightings
 
-The Wembley incident is most useful when viewed alongside other Perth-area reports from the same period. Several entries in the 1973 RAAF summaries were ultimately linked to conventional aerial activity, including Macchi trainers operating from Pearce and aircraft associated with Perth Airport. The pattern suggests that many metropolitan sightings could be investigated through flight operations rather than remaining permanently unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
+The Wembley incident is most useful when viewed alongside other Perth-area reports from the same period. Several entries in the 1973 RAAF summaries were ultimately linked to conventional aerial activity, including Macchi trainers operating from Pearce and aircraft associated with Perth Airport. The pattern suggests that many metropolitan sightings could be investigated through flight operations rather than remaining permanently unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
 
 That does not mean every Western Australian UFO report received a definitive solution. Some cases remained uncertain because of incomplete information, conflicting testimony or a lack of supporting records. However, the Wembley lights stand as an example of a report that became less mysterious once investigators compared the observation with known military aviation activity.
 
-For historians of Western Australian UFO reports, the lesson is straightforward. A sighting's initial mystery can be misleading. In a region that included Perth Airport, Jandakot Airport and RAAF Pearce, the most important evidence was often not the witness description alone but the ability to match the report against actual aircraft movements. The Wembley lights are remembered not as an enduring mystery but as a case where aviation records provided a credible and specific explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
+For historians of Western Australian UFO reports, the lesson is straightforward. A sighting's initial mystery can be misleading. In a region that included Perth Airport, Jandakot Airport and RAAF Pearce, the most important evidence was often not the witness description alone but the ability to match the report against actual aircraft movements. The Wembley lights are remembered not as an enduring mystery but as a case where aviation records provided a credible and specific explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_wembley_macchi_expla_6ba02b-Illustration-3-dark.svg" | relative_url }}" alt="Wembley Macchis illustration 3" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_wembley_macchi_expla_6ba02b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_wembley_macchi_expla_6ba02b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Wembley lights really RAAF trainers?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Wembley lights really RAAF trainers?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Strong emphasis on checking reports against conventional explanations, mirroring the Wembley aircraft-identification case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong emphasis on checking reports against conventional explanations, mirroring the Wembley aircraft-identification case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses classification and investigation of sightings, including cases later explained.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses classification and investigation of sightings, including cases later explained.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains numerous pilot and military observations relevant to aircraft-related sighting analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains numerous pilot and military observations relevant to aircraft-related sighting analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YS1XrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YS1XrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Focuses on official case assessment and the challenge of separating unusual reports from ordinary causes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official case assessment and the challenge of separating unusual reports from ordinary causes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Model Aircraft 1:144 WWII Bomber Pair X2 Heinkel He177 &amp; Tupolev SB2"><img src="{{ '/assets/images/marketplace-covers/1062932ee96700fde40a.jpg' | relative_url }}" alt="Listing image for Diecast Model Aircraft 1:144 WWII Bomber Pair X2 Heinkel He177 &amp; Tupolev SB2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Model Aircraft 1:144 WWII Bomber Pair X2 Heinkel He177 &amp; Tupolev SB2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Model Aircraft 1:144 WWII Bomber Pair X2 Heinkel He177 &amp; Tupolev SB2"><img src="{{ '/assets/images/marketplace-covers/1062932ee96700fde40a.jpg' | relative_url }}" alt="Listing image for Diecast Model Aircraft 1:144 WWII Bomber Pair X2 Heinkel He177 &amp; Tupolev SB2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Model Aircraft 1:144 WWII Bomber Pair X2 Heinkel He177 &amp; Tupolev SB2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift"><img src="{{ '/assets/images/marketplace-covers/3ce4d3181631da7e567f.jpg' | relative_url }}" alt="Listing image for 20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift"><img src="{{ '/assets/images/marketplace-covers/3ce4d3181631da7e567f.jpg' | relative_url }}" alt="Listing image for 20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">20cm Mcdonnell MD-11 FedEx With Wheels Metal Aircraft Plane Model Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft"><img src="{{ '/assets/images/marketplace-covers/df7d75b428b1f5abe578.jpg' | relative_url }}" alt="Listing image for Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft"><img src="{{ '/assets/images/marketplace-covers/df7d75b428b1f5abe578.jpg' | relative_url }}" alt="Listing image for Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antonov An-225 Mriya Ukraine Cargo Aircraft Model Plane 1:200"><img src="{{ '/assets/images/marketplace-covers/c26cb70187148ae3ec81.jpg' | relative_url }}" alt="Listing image for Antonov An-225 Mriya Ukraine Cargo Aircraft Model Plane 1:200" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Antonov An-225 Mriya Ukraine Cargo Aircraft Model Plane 1:200</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antonov An-225 Mriya Ukraine Cargo Aircraft Model Plane 1:200"><img src="{{ '/assets/images/marketplace-covers/c26cb70187148ae3ec81.jpg' | relative_url }}" alt="Listing image for Antonov An-225 Mriya Ukraine Cargo Aircraft Model Plane 1:200" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Antonov An-225 Mriya Ukraine Cargo Aircraft Model Plane 1:200</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="wembley-macchis-were-the-wembley-lights-really-raaf-trainers-western-australia-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -518,7 +518,7 @@ For historians of Western Australian UFO reports, the lesson is straightforward.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -538,7 +538,7 @@ For historians of Western Australian UFO reports, the lesson is straightforward.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -570,7 +570,7 @@ For historians of Western Australian UFO reports, the lesson is straightforward.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -622,7 +622,7 @@ For historians of Western Australian UFO reports, the lesson is straightforward.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -667,7 +667,7 @@ For historians of Western Australian UFO reports, the lesson is straightforward.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -708,85 +708,85 @@ For historians of Western Australian UFO reports, the lesson is straightforward.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: airforce.gov.au  
    Title: Air Force A7 – Aermacchi MB-326H  
-   Link: <a href="https://www.airforce.gov.au/sites/default/files/2023-07/A7-%20Aermacchi-%20Aircraft%20of%20the%20Royal%20Australian%20Air%20Force%20pp%20436%20%E2%80%93%20440%20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/sites/default/files/2023-07/A7-%20Aermacchi-%20Aircraft%20of%20the%20Royal%20Australian%20Air%20Force%20pp%20436%20%E2%80%93%20440%20.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Training School (2FTS) at RAAF Pearce, Western. Australia in 1969, where they were operated in the advanced...</p></details>
+   Link:<a href="https://www.airforce.gov.au/sites/default/files/2023-07/A7-%20Aermacchi-%20Aircraft%20of%20the%20Royal%20Australian%20Air%20Force%20pp%20436%20%E2%80%93%20440%20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/sites/default/files/2023-07/A7-%20Aermacchi-%20Aircraft%20of%20the%20Royal%20Australian%20Air%20Force%20pp%20436%20%E2%80%93%20440%20.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Training School (2FTS) at RAAF Pearce, Western. Australia in 1969, where they were operated in the advanced...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report 2001 1Single object, bright, white light that appeared to be moving North. The... A pair of bright red lights were moving from th...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report 2001 1Single object, bright, white light that appeared to be moving North. The... A pair of bright red lights were moving from th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=Rrou1Yl-hao" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Rrou1Yl-hao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Base Pearce...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Rrou1Yl-hao" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Rrou1Yl-hao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Base Pearce...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: RAAF Base Pearce  
-   Link: <a href="http://www.youtube.com/watch?v=W6sbN8wM_DU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=W6sbN8wM_DU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OZ Encounters - UFO&#x27;s In Australia (FULL DOCUMENTARY)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=W6sbN8wM_DU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=W6sbN8wM_DU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OZ Encounters - UFO&#x27;s In Australia (FULL DOCUMENTARY)...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Then about 11:50 a.m., a crew of technicians at Rogers saw a round white, apparently metallic...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Then about 11:50 a.m., a crew of technicians at Rogers saw a round white, apparently metallic...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/253550249143357/posts/1376385403526497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253550249143357/posts/1376385403526497/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Pearce, air force base near Perth, WA. Mystery plane...This image appears to show an aircraft under a tarp or similar cover at RAAF...</p></details>
+   Link:<a href="https://www.facebook.com/groups/253550249143357/posts/1376385403526497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253550249143357/posts/1376385403526497/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Pearce, air force base near Perth, WA. Mystery plane...This image appears to show an aircraft under a tarp or similar cover at RAAF...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nbi.dk  
-   Link: <a href="https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOdata.txt... west moving slowly, I stopped the car next to a food store to get a better look. When I got out I saw two orange red spear...</p></details>
+   Link:<a href="https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOdata.txt... west moving slowly, I stopped the car next to a food store to get a better look. When I got out I saw two orange red spear...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/ASrmQQjrrg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/ASrmQQjrrg0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Macchi Jet Pilot Training at Pearce History, Courses, and Operations #royalaustralianairforceTwo flying training school at Pi Western Aus...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/ASrmQQjrrg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/ASrmQQjrrg0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Macchi Jet Pilot Training at Pearce History, Courses, and Operations #royalaustralianairforceTwo flying training school at Pi Western Aus...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sweetstudy.com  
    Title: Leaflet challenge- military base data and ufo sightseeing  
-   Link: <a href="https://www.sweetstudy.com/files/national-ufo-reporting-center-0420-csv-6589439" target="_blank" rel="noopener noreferrer nofollow">https://www.sweetstudy.com/files/national-ufo-reporting-center-0420-csv-6589439</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>objects moving from west to north east in formation and moving fast then slow.... white lights moving in single file formation from Nort...</p></details>
+   Link:<a href="https://www.sweetstudy.com/files/national-ufo-reporting-center-0420-csv-6589439" target="_blank" rel="noopener noreferrer nofollow">https://www.sweetstudy.com/files/national-ufo-reporting-center-0420-csv-6589439</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>objects moving from west to north east in formation and moving fast then slow.... white lights moving in single file formation from Nort...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: OZ Encounters  
-   Link: <a href="http://www.youtube.com/watch?v=AAZNXPEaq0Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=AAZNXPEaq0Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Macchi MB-326 The Legendary Macchi MB.326 A Classic Italian Military Jet Trainer #royalaustralianairforce Australian Military Aviati...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=AAZNXPEaq0Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=AAZNXPEaq0Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Macchi MB-326 The Legendary Macchi MB.326 A Classic Italian Military Jet Trainer #royalaustralianairforce Australian Military Aviati...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: documents.theblackvault.com  
    Title: E1327 5 4 AIR part 6 7 7061048  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%206-7_7061048.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%206-7_7061048.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AUSTRALIAN AIR FORCE8 Aug 2012 — The other possibilities are that the sightings were due to short-lived satellite or rocket stages recent...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%206-7_7061048.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%206-7_7061048.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AUSTRALIAN AIR FORCE8 Aug 2012 — The other possibilities are that the sightings were due to short-lived satellite or rocket stages recent...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skyatnightmagazine.com  
    Title: things mistaken for ufos  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here we&#x27;ll look at some of the most likely suspects...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here we&#x27;ll look at some of the most likely suspects...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=nzYK_FVbqmA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nzYK_FVbqmA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the 80s the RAAF held hundreds of files documenting UFO sightings 🛸 | Uncropped | ABC Australia...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=nzYK_FVbqmA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nzYK_FVbqmA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the 80s the RAAF held hundreds of files documenting UFO sightings 🛸 | Uncropped | ABC Australia...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Macchi in RAAF Service  
-   Link: <a href="http://www.youtube.com/watch?v=ODxoKrokpdk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ODxoKrokpdk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1996 Macchi Video...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ODxoKrokpdk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ODxoKrokpdk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1996 Macchi Video...</p></details>

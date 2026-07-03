@@ -286,17 +286,17 @@ image: /assets/images/Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b-ov
 
 ## Introduction
 
-Canberra’s role in Australian UFO history was not just about sightings over the [Australian Capital Territory]({{ 'australian-capital-territory/' | relative_url }}). It was also where many reports entered the Defence system, were assessed by the Royal Australian Air Force, and later became part of the national archival record. For decades, the RAAF treated UFOs, usually called Unusual Aerial Sightings, as a limited air-defence and public-reporting problem rather than proof of alien visitation. The key question was usually practical: did the report suggest a threat to Australian security, aircraft safety, space debris, a balloon, an astronomical object, or some other identifiable cause? Internal material from the Department of Air placed the Directorate of Air Force Intelligence in Canberra at the centre of this work, while later Defence policy ended routine RAAF handling of public reports altogether. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+Canberra’s role in Australian UFO history was not just about sightings over the [Australian Capital Territory]({{ 'australian-capital-territory/' | relative_url }}). It was also where many reports entered the Defence system, were assessed by the Royal Australian Air Force, and later became part of the national archival record. For decades, the RAAF treated UFOs, usually called Unusual Aerial Sightings, as a limited air-defence and public-reporting problem rather than proof of alien visitation. The key question was usually practical: did the report suggest a threat to Australian security, aircraft safety, space debris, a balloon, an astronomical object, or some other identifiable cause? Internal material from the Department of Air placed the Directorate of Air Force Intelligence in Canberra at the centre of this work, while later Defence policy ended routine RAAF handling of public reports altogether.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b-overview.webp" | relative_url }}" alt="Overview image for RAAF Files" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Defence collected UFO reports
 
-The RAAF’s UFO role grew out of the Cold War, the space age and air-defence concerns. Former RAAF intelligence officer Brett Biddington later explained that the Air Force’s interest was not based on special knowledge of “aliens or green men”, but on the real need to understand rockets, satellites, re-entry debris and unusual objects in Australian skies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access the RAAF&#x27;s UFO files - ABC News...</span></span></span>
+The RAAF’s UFO role grew out of the Cold War, the space age and air-defence concerns. Former RAAF intelligence officer Brett Biddington later explained that the Air Force’s interest was not based on special knowledge of “aliens or green men”, but on the real need to understand rockets, satellites, re-entry debris and unusual objects in Australian skies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access the RAAF&#x27;s UFO files - ABC News...</span></span></span>
 
-That point matters for the ACT because Canberra was where the national administrative machinery sat. Reports might begin with a member of the public, police, civil aviation staff or a local RAAF base, but the paperwork often moved towards the Department of Air and Defence offices in Canberra. One RAAF statement from the early 1970s said UFO investigations were carried out by the Directorate of Air Force Intelligence at the Department of Air in Canberra, with many observers interviewed by selected RAAF personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+That point matters for the ACT because Canberra was where the national administrative machinery sat. Reports might begin with a member of the public, police, civil aviation staff or a local RAAF base, but the paperwork often moved towards the Department of Air and Defence offices in Canberra. One RAAF statement from the early 1970s said UFO investigations were carried out by the Directorate of Air Force Intelligence at the Department of Air in Canberra, with many observers interviewed by selected RAAF personnel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
-The RAAF’s own figures also show a system designed to sort reports rather than dramatise them. Between 23 January 1960 and 26 May 1971, the RAAF recorded 572 UFO reports; one version of the departmental summary said 93 per cent were explainable, 6 per cent lacked enough information for proper evaluation, and 1 per cent were attributed to unknown causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+The RAAF’s own figures also show a system designed to sort reports rather than dramatise them. Between 23 January 1960 and 26 May 1971, the RAAF recorded 572 UFO reports; one version of the departmental summary said 93 per cent were explainable, 6 per cent lacked enough information for proper evaluation, and 1 per cent were attributed to unknown causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b-Illustration-1-dark.svg" | relative_url }}" alt="RAAF Files illustration 1" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -304,20 +304,20 @@ The RAAF’s own figures also show a system designed to sort reports rather than
 
 The RAAF process was built around elimination. Investigators looked for ordinary causes first: aircraft, balloons, missiles, astronomical bodies, meteors, satellites, weather effects, cloud formations, birds, fireworks and other human activity. This does not mean every report was worthless. It means the official standard was conservative: a sighting had to survive basic checks before it could be treated as unresolved.
 
-A 1966 account of RAAF policy, based on Department of Air material, put the priority bluntly: the main purpose of investigating a UFO report was to decide whether it posed a threat to Australian security. Identifying the exact cause was described as secondary and mainly for the benefit of public interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/forum/bcoz3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">PROJECT 1947 Forum - Bill Chalker - Aust. Military, Gov&#x27;t Role In The UFO Controversy...</span></span></span>
+A 1966 account of RAAF policy, based on Department of Air material, put the priority bluntly: the main purpose of investigating a UFO report was to decide whether it posed a threat to Australian security. Identifying the exact cause was described as secondary and mainly for the benefit of public interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/forum/bcoz3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">PROJECT 1947 Forum - Bill Chalker - Aust. Military, Gov&#x27;t Role In The UFO Controversy...</span></span></span>
 
-That explains why many files can feel unsatisfying to modern readers. A case might receive a possible cause rather than a decisive conclusion. “Unknown” did not always mean a strong mystery; researcher Bill Chalker noted that RAAF usage could include cases with insufficient information, late reporting, remote locations or genuinely unresolved evidence after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/forum/bcoz1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">PROJECT 1947 FORUM - Bill Chalker - Australian Military &amp; Gov&#x27;t Role In The UFO Controversy...</span></span></span>
+That explains why many files can feel unsatisfying to modern readers. A case might receive a possible cause rather than a decisive conclusion. “Unknown” did not always mean a strong mystery; researcher Bill Chalker noted that RAAF usage could include cases with insufficient information, late reporting, remote locations or genuinely unresolved evidence after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/forum/bcoz1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">PROJECT 1947 FORUM - Bill Chalker - Australian Military &amp; Gov&#x27;t Role In The UFO Controversy...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8yxg5BCdAHQ" title="The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer">The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown &middot; Views: 285.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8yxg5BCdAHQ">Open on YouTube</a></p></div></div></div>
 
 ## Canberra’s paper trail shaped what the public could see
 
-The Canberra system did not only investigate. It also managed public information. A 1968 Directorate of Air Force Intelligence note said information on UFO sightings was released through the Directorate of Public Relations, and public enquiries were to be sent to the RAAF public relations officer at the Department of Air. The same note said the Department of Air was concerned only with possible threats to Australian security and did not conduct detailed scientific investigations of UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+The Canberra system did not only investigate. It also managed public information. A 1968 Directorate of Air Force Intelligence note said information on UFO sightings was released through the Directorate of Public Relations, and public enquiries were to be sent to the RAAF public relations officer at the Department of Air. The same note said the Department of Air was concerned only with possible threats to Australian security and did not conduct detailed scientific investigations of UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 This split between intelligence, public relations and ministerial accountability is central to understanding the files. Defence wanted enough information to rule out security concerns, but it did not want an open-ended scientific UFO programme. Public summaries gave dates, locations, brief descriptions and possible causes, but they rarely offered the kind of detailed technical reasoning that later UFO researchers wanted.
 
-That tension became visible when Chalker gained access to the RAAF files at Russell Offices in Canberra from January 1982. He described this as the first officially sanctioned direct review of Australian government UFO files, including material held by the Directorate of Air Force Intelligence at the Department of Defence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/forum/bcoz1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">PROJECT 1947 FORUM - Bill Chalker - Australian Military &amp; Gov&#x27;t Role In The UFO Controversy...</span></span></span>
+That tension became visible when Chalker gained access to the RAAF files at Russell Offices in Canberra from January 1982. He described this as the first officially sanctioned direct review of Australian government UFO files, including material held by the Directorate of Air Force Intelligence at the Department of Defence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/forum/bcoz1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">PROJECT 1947 FORUM - Bill Chalker - Australian Military &amp; Gov&#x27;t Role In The UFO Controversy...</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b-Illustration-2-dark.svg" | relative_url }}" alt="RAAF Files illustration 2" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -332,11 +332,11 @@ The broader lesson is that an “RAAF-investigated UFO” was not automatically 
 
 ## How the official role ended
 
-By the 1990s, Defence had moved away from routine UFO investigation. A 1996 Defence Instruction on Unusual Aerial Sightings stated that, although the RAAF had handled UAS at the official level for many years, there was no compelling reason to continue spending resources recording, investigating and explaining such reports. It instructed Australian Defence Force personnel not to accept UAS reports or assign causes, but to refer members of the public to civilian UFO organisations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/NewZealandUFO/AIR-1630-2-Volume-2-1990-2009_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
+By the 1990s, Defence had moved away from routine UFO investigation. A 1996 Defence Instruction on Unusual Aerial Sightings stated that, although the RAAF had handled UAS at the official level for many years, there was no compelling reason to continue spending resources recording, investigating and explaining such reports. It instructed Australian Defence Force personnel not to accept UAS reports or assign causes, but to refer members of the public to civilian UFO organisations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/NewZealandUFO/AIR-1630-2-Volume-2-1990-2009_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
 
-The same policy preserved one important exception: if a sighting appeared to involve defence, security or public safety, such as space debris, a burning aircraft or activity with an obvious defence implication, it could still be directed to police, civil aviation authorities or investigated through normal security channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/NewZealandUFO/AIR-1630-2-Volume-2-1990-2009_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
+The same policy preserved one important exception: if a sighting appeared to involve defence, security or public safety, such as space debris, a burning aircraft or activity with an obvious defence implication, it could still be directed to police, civil aviation authorities or investigated through normal security channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/NewZealandUFO/AIR-1630-2-Volume-2-1990-2009_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
 
-A parliamentary answer in November 1996 put the change plainly: the Australian Defence Force had ceased recording and investigating UFO sightings in December 1993, and members of the public were being referred to civilian UFO research groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span>
+A parliamentary answer in November 1996 put the change plainly: the Australian Defence Force had ceased recording and investigating UFO sightings in December 1993, and members of the public were being referred to civilian UFO research groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b-Illustration-3-dark.svg" | relative_url }}" alt="RAAF Files illustration 3" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_raaf_ufo_files_canbe_d2345b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -351,194 +351,194 @@ They do not, by themselves, prove that the RAAF secretly confirmed exotic craft.
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Canberra Handled Australia&#x27;s UFO Files. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Canberra Handled Australia&#x27;s UFO Files. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joJTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joJTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how official investigators evaluated sightings, closely matching the RAAF&#x27;s practical investigative approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how official investigators evaluated sightings, closely matching the RAAF&#x27;s practical investigative approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on case classification and investigative reasoning similar to material found in Defence files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on case classification and investigative reasoning similar to material found in Defence files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Directly addresses how governments and military agencies handled UFO reports and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how governments and military agencies handled UFO reports and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides context for major cases, institutions and investigative practices discussed in archival records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for major cases, institutions and investigative practices discussed in archival records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell 03747 Boeing C-17A Globemaster III 1:144 Model Kit"><img src="{{ '/assets/images/marketplace-covers/a534de42fe4cc0e24d7a.jpg' | relative_url }}" alt="Listing image for Revell 03747 Boeing C-17A Globemaster III 1:144 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Revell 03747 Boeing C-17A Globemaster III 1:144 Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell 03747 Boeing C-17A Globemaster III 1:144 Model Kit"><img src="{{ '/assets/images/marketplace-covers/a534de42fe4cc0e24d7a.jpg' | relative_url }}" alt="Listing image for Revell 03747 Boeing C-17A Globemaster III 1:144 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Revell 03747 Boeing C-17A Globemaster III 1:144 Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell Boeing C-17A Globemaster III 1:144 Scale Aircraft Model Kit 03747"><img src="{{ '/assets/images/marketplace-covers/696bf17928f388d48946.jpg' | relative_url }}" alt="Listing image for Revell Boeing C-17A Globemaster III 1:144 Scale Aircraft Model Kit 03747" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Revell Boeing C-17A Globemaster III 1:144 Scale Aircraft Model Kit 03747</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell Boeing C-17A Globemaster III 1:144 Scale Aircraft Model Kit 03747"><img src="{{ '/assets/images/marketplace-covers/696bf17928f388d48946.jpg' | relative_url }}" alt="Listing image for Revell Boeing C-17A Globemaster III 1:144 Scale Aircraft Model Kit 03747" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Revell Boeing C-17A Globemaster III 1:144 Scale Aircraft Model Kit 03747</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HK Models 1/32 01E042 A-20G Havoc RAAF Model Kit"><img src="{{ '/assets/images/marketplace-covers/8c9f7e7c2bb8ff92e07f.jpg' | relative_url }}" alt="Listing image for HK Models 1/32 01E042 A-20G Havoc RAAF Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">HK Models 1/32 01E042 A-20G Havoc RAAF Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HK Models 1/32 01E042 A-20G Havoc RAAF Model Kit"><img src="{{ '/assets/images/marketplace-covers/8c9f7e7c2bb8ff92e07f.jpg' | relative_url }}" alt="Listing image for HK Models 1/32 01E042 A-20G Havoc RAAF Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">HK Models 1/32 01E042 A-20G Havoc RAAF Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell 03750, Gloster Meteor F.8/Fr.9 - 1:32 Scale model kit"><img src="{{ '/assets/images/marketplace-covers/52d956ed647b2a3b23ba.jpg' | relative_url }}" alt="Listing image for Revell 03750, Gloster Meteor F.8/Fr.9 - 1:32 Scale model kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Revell 03750, Gloster Meteor F.8/Fr.9 - 1:32 Scale model kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell 03750, Gloster Meteor F.8/Fr.9 - 1:32 Scale model kit"><img src="{{ '/assets/images/marketplace-covers/52d956ed647b2a3b23ba.jpg' | relative_url }}" alt="Listing image for Revell 03750, Gloster Meteor F.8/Fr.9 - 1:32 Scale model kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Revell 03750, Gloster Meteor F.8/Fr.9 - 1:32 Scale model kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF aircraft model" data-ebay-reference="raaf-files-how-canberra-handled-australia-s-ufo-files-australian-capital-territory-raaf-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ They do not, by themselves, prove that the RAAF secretly confirmed exotic craft.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ They do not, by themselves, prove that the RAAF secretly confirmed exotic craft.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ They do not, by themselves, prove that the RAAF secretly confirmed exotic craft.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ They do not, by themselves, prove that the RAAF secretly confirmed exotic craft.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ They do not, by themselves, prove that the RAAF secretly confirmed exotic craft.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,89 +744,89 @@ They do not, by themselves, prove that the RAAF secretly confirmed exotic craft.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Australian UFO Files"  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/forum/bcoz3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/forum/bcoz3.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT 1947 Forum - Bill Chalker - Aust. Military, Gov&#x27;t Role In The UFO Controversy...</p></details>
+   Link:<a href="https://www.project1947.com/forum/bcoz3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/forum/bcoz3.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT 1947 Forum - Bill Chalker - Aust. Military, Gov&#x27;t Role In The UFO Controversy...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/forum/bcoz1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/forum/bcoz1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT 1947 FORUM - Bill Chalker - Australian Military &amp; Gov&#x27;t Role In The UFO Controversy...</p></details>
+   Link:<a href="https://www.project1947.com/forum/bcoz1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/forum/bcoz1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT 1947 FORUM - Bill Chalker - Australian Military &amp; Gov&#x27;t Role In The UFO Controversy...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Declassified New Zealand UFO documents"  
-   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-1630-2-Volume-2-1990-2009_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-1630-2-Volume-2-1990-2009_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewZealandUFO/AIR-1630-2-Volume-2-1990-2009_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-1630-2-Volume-2-1990-2009_djvu.txt</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: project1947.com  
    Title: kb uasgov  
-   Link: <a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</p></details>
+   Link:<a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsHow Bill Chalker became one of the first civilians to access the RAAF&#x27;s UFO files - ABC News...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsHow Bill Chalker became one of the first civilians to access the RAAF&#x27;s UFO files - ABC News...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/312684935495543/posts/6797462170351088/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/312684935495543/posts/6797462170351088/</a>  
+   Link:<a href="https://www.facebook.com/groups/312684935495543/posts/6797462170351088/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/312684935495543/posts/6797462170351088/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/238876956176484/posts/2755616381169183/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/238876956176484/posts/2755616381169183/</a>  
+   Link:<a href="https://www.facebook.com/groups/238876956176484/posts/2755616381169183/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/238876956176484/posts/2755616381169183/</a>  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Westall Encounter: Australia's Most Profound UFO Sighting  
-   Link: <a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8yxg5BCdAHQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Melbourne UFO Mystery: 50 Years On | Studio 10...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8yxg5BCdAHQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Melbourne UFO Mystery: 50 Years On | Studio 10...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Australia's UFO Secrets Exposed with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=hzoJPerhz-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hzoJPerhz-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oz Encounters: UFO&#x27;s In Australia (1997) VHS Capture...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hzoJPerhz-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hzoJPerhz-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oz Encounters: UFO&#x27;s In Australia (1997) VHS Capture...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Archived: Australia's UFO Files | Official Trailer  
-   Link: <a href="https://www.youtube.com/watch?v=-YsZ0pFFBTg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-YsZ0pFFBTg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s UFO Secrets Exposed with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-YsZ0pFFBTg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-YsZ0pFFBTg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s UFO Secrets Exposed with Ross Coulthart...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: myufophotos.com  
-   Link: <a href="https://myufophotos.com/ufo-[archives" target="_blank" rel="noopener noreferrer nofollow">https://myufophotos.com/ufo-[archives</a>  
+   Link:<a href="https://myufophotos.com/ufo-[archives" target="_blank" rel="noopener noreferrer nofollow">https://myufophotos.com/ufo-[archives</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSsydney/posts/australias-department-of-defence-has-confirmed-it-will-not-be-looking-at-ufos-de/5223251181032306/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSsydney/posts/australias-department-of-defence-has-confirmed-it-will-not-be-looking-at-ufos-de/5223251181032306/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSsydney/posts/australias-department-of-defence-has-confirmed-it-will-not-be-looking-at-ufos-de/5223251181032306/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSsydney/posts/australias-department-of-defence-has-confirmed-it-will-not-be-looking-at-ufos-de/5223251181032306/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: en-academic.com  
-   Link: <a href="https://en-academic.com/dic.nsf/enwiki/1831500" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/1831500</a>  
+   Link:<a href="https://en-academic.com/dic.nsf/enwiki/1831500" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/1831500</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/YQCNews/posts/in-australia-scientists-interested-in-the-ufo-issue-managed-to-gain-access-to-th/2603546106436139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YQCNews/posts/in-australia-scientists-interested-in-the-ufo-issue-managed-to-gain-access-to-th/2603546106436139/</a>  
+   Link:<a href="https://www.facebook.com/YQCNews/posts/in-australia-scientists-interested-in-the-ufo-issue-managed-to-gain-access-to-th/2603546106436139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YQCNews/posts/in-australia-scientists-interested-in-the-ufo-issue-managed-to-gain-access-to-th/2603546106436139/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/432559840258226/posts/3033928166788034/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/432559840258226/posts/3033928166788034/</a>  
+   Link:<a href="https://www.facebook.com/groups/432559840258226/posts/3033928166788034/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/432559840258226/posts/3033928166788034/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/18usqqm/newspaper_clippings_of_roscoe_h_hillenkoetter_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18usqqm/newspaper_clippings_of_roscoe_h_hillenkoetter_in/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/18usqqm/newspaper_clippings_of_roscoe_h_hillenkoetter_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18usqqm/newspaper_clippings_of_roscoe_h_hillenkoetter_in/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: disclosure.org  
-   Link: <a href="https://disclosure.org/api/media/Documents/1971-australian-ufo-assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/api/media/Documents/1971-australian-ufo-assessment.pdf</a>  
+   Link:<a href="https://disclosure.org/api/media/Documents/1971-australian-ufo-assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/api/media/Documents/1971-australian-ufo-assessment.pdf</a>  

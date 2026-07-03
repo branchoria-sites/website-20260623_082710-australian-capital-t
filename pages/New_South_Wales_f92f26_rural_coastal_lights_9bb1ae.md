@@ -284,7 +284,7 @@ Many rural and coastal UFO reports in [New South Wales]({{ 'what-makes-new-south
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_rural_coastal_lights_9bb1ae-overview.webp" | relative_url }}" alt="Overview image for Lights" loading="eager" decoding="sync" fetchpriority="high">
-This does not make witnesses foolish. It means NSW has the exact geography that produces difficult sightings: dark inland skies, long coastal sightlines, busy air routes, maritime activity and an eastern horizon over the Pacific. The strongest approach is therefore neither automatic belief nor automatic dismissal. It is to ask what was seen, from where, for how long, under what sky conditions, and whether independent records support or weaken the original claim. Australia’s official posture also leaves much of this work to civilian researchers and careful public checking: the RAAF ceased routine UFO investigation in 1994 after concluding that only a small proportion of reports remained unexplained and that these posed little or no security threat, while Defence later told the ABC it had no protocol for recording or analysing UAP/UFO sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+This does not make witnesses foolish. It means NSW has the exact geography that produces difficult sightings: dark inland skies, long coastal sightlines, busy air routes, maritime activity and an eastern horizon over the Pacific. The strongest approach is therefore neither automatic belief nor automatic dismissal. It is to ask what was seen, from where, for how long, under what sky conditions, and whether independent records support or weaken the original claim. Australia’s official posture also leaves much of this work to civilian researchers and careful public checking: the RAAF ceased routine UFO investigation in 1994 after concluding that only a small proportion of reports remained unexplained and that these posed little or no security threat, while Defence later told the ABC it had no protocol for recording or analysing UAP/UFO sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 ## Why Rural NSW Turns Lights Into Mysteries
 
@@ -292,7 +292,7 @@ Rural NSW is well suited to strange-light reports because it gives observers wha
 
 The classic rural report often contains phrases such as “silent”, “hovering”, “too bright for a star”, “moving with us” or “vanished suddenly”. Each can be meaningful, but none proves an extraordinary object on its own. Silence is expected when a light is far away. Hovering can be an aircraft flying towards or away from the witness. Apparent following can happen when a very distant light keeps the same bearing as the observer drives. Sudden disappearance may be a cloud edge, a hill line, an aircraft turning, a satellite entering Earth’s shadow or a meteor burning out.
 
-Older NSW newspaper material shows how quickly light reports entered the public UFO frame during the flying-saucer era. In July 1954, *The Sydney Morning Herald* reported “mysterious lights” seen in the eastern sky by residents, Mascot airport control tower staff, pilots and passengers. Witnesses described groups of red and white lights climbing and disappearing within seconds; Mascot officials suggested shells or rockets, and a Navy spokesman said a New Zealand warship was carrying out exercises off the coast. The case is useful not because it proves a rural pattern, but because it shows a recurring NSW lesson: even multi-witness light reports may have a conventional operational context that only becomes clear after checking aviation or maritime activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/29607775" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
+Older NSW newspaper material shows how quickly light reports entered the public UFO frame during the flying-saucer era. In July 1954, *The Sydney Morning Herald* reported “mysterious lights” seen in the eastern sky by residents, Mascot airport control tower staff, pilots and passengers. Witnesses described groups of red and white lights climbing and disappearing within seconds; Mascot officials suggested shells or rockets, and a Navy spokesman said a New Zealand warship was carrying out exercises off the coast. The case is useful not because it proves a rural pattern, but because it shows a recurring NSW lesson: even multi-witness light reports may have a conventional operational context that only becomes clear after checking aviation or maritime activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/29607775" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 
 For country reports, the most important evidence is often mundane but decisive. A precise time, direction, elevation, duration, weather conditions, witness location and whether the object crossed in front of or behind known landmarks can change a dramatic story into a solvable one. Without those details, an account may remain “unidentified” in the ordinary sense, but that is not the same as being strong evidence for an exotic craft.
 
@@ -304,9 +304,9 @@ The NSW coast adds another layer of difficulty. From beaches, cliffs and headlan
 
 Coastal UFO reports often become more memorable because the witness may see a light “over the water”, “rising from the sea” or “dropping towards the ocean”. In practice, those descriptions can reflect geometry rather than origin. A meteor may seem to fall into the sea when it is burning high in the atmosphere. A rocket plume can look like a luminous cloud or expanding object. A distant aircraft turning over water can seem to stop or reverse. A ship’s light can be refracted or distorted by the air near the horizon.
 
-A modern NSW example shows how spectacular the ordinary space-age explanation can be. In June 2026, a Chinese-launched Zhuque-2E rocket lit up skies over Queensland and northern New South Wales. The ABC reported that the rocket passed over north-eastern Australia after launch, and University of Southern Queensland astrophysicist Jonti Horner explained that its height allowed sunlight to illuminate it even though night had fallen at ground level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span> For a witness seeing the event without that launch context, the display could easily read as a large, glowing, silent object or plume.
+A modern NSW example shows how spectacular the ordinary space-age explanation can be. In June 2026, a Chinese-launched Zhuque-2E rocket lit up skies over Queensland and northern New South Wales. The ABC reported that the rocket passed over north-eastern Australia after launch, and University of Southern Queensland astrophysicist Jonti Horner explained that its height allowed sunlight to illuminate it even though night had fallen at ground level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span> For a witness seeing the event without that launch context, the display could easily read as a large, glowing, silent object or plume.
 
-Another recent pattern is the “string of lights” report. In 2020, 7NEWS described strange lights over the NSW coast before dawn, seen from Sydney, Wollongong and beyond, moving gradually out to sea; witnesses said the lights were too large for a drone and not like a plane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://7news.com.au/news/stargazers-witness-strange-ufo-lights-moving-in-straight-line-across-nsw-skies-c-672978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 7news.com.au">[NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">7news.com.au</span><span class="citation-popover-snippet">Open source on com.au.</span></span></span> Similar reports across Australia are often linked to Starlink satellites, especially soon after launch, when the satellites can appear as a close, bright line of star-like points. ABC coverage of another Australian sighting quoted astronomer Jonti Horner explaining that newly launched Starlink satellites can appear in a straight line, close together and unusually bright, and that such sightings have become more common. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2022-07-13/bright-lights-starlink-satellites-perplex-community/101236228" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+Another recent pattern is the “string of lights” report. In 2020, 7NEWS described strange lights over the NSW coast before dawn, seen from Sydney, Wollongong and beyond, moving gradually out to sea; witnesses said the lights were too large for a drone and not like a plane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://7news.com.au/news/stargazers-witness-strange-ufo-lights-moving-in-straight-line-across-nsw-skies-c-672978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 7news.com.au">[NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">7news.com.au</span><span class="citation-popover-snippet">Open source on com.au.</span></span></span> Similar reports across Australia are often linked to Starlink satellites, especially soon after launch, when the satellites can appear as a close, bright line of star-like points. ABC coverage of another Australian sighting quoted astronomer Jonti Horner explaining that newly launched Starlink satellites can appear in a straight line, close together and unusually bright, and that such sightings have become more common.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2022-07-13/bright-lights-starlink-satellites-perplex-community/101236228" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
 This is why coastal NSW sightings deserve careful checking against launch schedules, satellite passes and aircraft routes before they are treated as unexplained. The most striking reports are not always the least explainable; sometimes they are striking because modern space activity produces displays that older generations rarely saw.
 
@@ -317,15 +317,15 @@ This is why coastal NSW sightings deserve careful checking against launch schedu
 
 A key mechanism behind rural and coastal light reports is the unreliable horizon. Human eyes judge distance by comparing objects with known reference points. Over paddocks, bushland, ocean or dark hills, those references may disappear. A light can then seem larger, closer or lower than it really is.
 
-Atmospheric refraction can intensify this effect. The World Meteorological Organization describes mirages as cases where objects appear at a different angle above the horizon than they really are, sometimes by a substantial amount. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">Open source on wmo.int.</span></span></span> At sea, layers of warm and cold air can bend light from ships, shorelines or distant objects, creating superior mirages or more complex distortions. These effects do not need to create a perfect “floating ship” to matter for UFO reports. Even small distortions can make a light shimmer, split, elongate, rise above the horizon or seem detached from its source.
+Atmospheric refraction can intensify this effect. The World Meteorological Organization describes mirages as cases where objects appear at a different angle above the horizon than they really are, sometimes by a substantial amount.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">Open source on wmo.int.</span></span></span> At sea, layers of warm and cold air can bend light from ships, shorelines or distant objects, creating superior mirages or more complex distortions. These effects do not need to create a perfect “floating ship” to matter for UFO reports. Even small distortions can make a light shimmer, split, elongate, rise above the horizon or seem detached from its source.
 
 This matters especially along the NSW coast because observers often look across cool water under changing evening or dawn conditions. A vessel’s lights, a lighthouse-like point, a fishing boat, an aircraft descending behind the horizon or a distant shore light can be altered by haze, sea spray, temperature layers and cloud. The result may be a report of a hovering light, a light changing shape, or a luminous object that appears to sit just above the ocean.
 
-Bright astronomical objects are another recurring source of confusion. NASA’s Night Sky Network notes that Venus low over the horizon has often been reported as a UFO, and that Jupiter, Sirius and Mercury can also be mistaken for strange lights, especially when bright objects align near the horizon. It also lists rockets, satellites, meteors, fireballs, balloons, military jets and lens artefacts among common causes of UFO-like observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">&amp; Resources &#124; Night Sky Network...</span></span></span> In NSW, the same point applies with local texture: a bright planet over a rural road, a satellite over the Pacific, or a meteor seen from a beach can all feel more dramatic because the surrounding sky is dark and open.
+Bright astronomical objects are another recurring source of confusion. NASA’s Night Sky Network notes that Venus low over the horizon has often been reported as a UFO, and that Jupiter, Sirius and Mercury can also be mistaken for strange lights, especially when bright objects align near the horizon. It also lists rockets, satellites, meteors, fireballs, balloons, military jets and lens artefacts among common causes of UFO-like observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">&amp; Resources &#124; Night Sky Network...</span></span></span> In NSW, the same point applies with local texture: a bright planet over a rural road, a satellite over the Pacific, or a meteor seen from a beach can all feel more dramatic because the surrounding sky is dark and open.
 
 ## The Central Coast Problem: Stronger Stories, Harder Checks
 
-The Central Coast occupies a special place in NSW UFO discussion because its geography combines water, towns, headlands, dark patches, commuter roads and a long history of public interest. The best-known light-and-water cluster is the Gosford/Central Coast material from the mid-1990s, associated with reports of lights and objects over Brisbane Water and The Broadwater. The State Library of New South Wales catalogue records Moira McGhee and Bryan Dickeson’s *The Gosford Files: UFOs over the Central Coast of New South Wales*, held as a work on unidentified flying object sightings and encounters in the Gosford area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay/SLNSW_ALMA21106647330002626/SLNSW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.sl.nsw.gov.au">[search.sl.nsw.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.sl.nsw.gov.au</span><span class="citation-popover-snippet">Open source on nsw.gov.au.</span></span></span>
+The Central Coast occupies a special place in NSW UFO discussion because its geography combines water, towns, headlands, dark patches, commuter roads and a long history of public interest. The best-known light-and-water cluster is the Gosford/Central Coast material from the mid-1990s, associated with reports of lights and objects over Brisbane Water and The Broadwater. The State Library of New South Wales catalogue records Moira McGhee and Bryan Dickeson’s *The Gosford Files: UFOs over the Central Coast of New South Wales*, held as a work on unidentified flying object sightings and encounters in the Gosford area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay/SLNSW_ALMA21106647330002626/SLNSW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.sl.nsw.gov.au">[search.sl.nsw.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.sl.nsw.gov.au</span><span class="citation-popover-snippet">Open source on nsw.gov.au.</span></span></span>
 
 The value of mentioning Gosford on a page about rural and coastal lights is not to retell the whole case or present it as solved. Its value is that it shows how coastal-water reports can become more resilient than ordinary single-witness lights. When accounts include many callers, police interest, repeated sightings and descriptions of lights interacting with water, simple explanations become harder to apply casually. At the same time, if the surviving public record depends heavily on later civilian accounts, media retellings and witness memory, it also becomes harder to reconstruct the exact sky, sea, traffic and weather conditions needed for a firm conclusion.
 
@@ -337,11 +337,11 @@ That tension is central to NSW UFO history. A weak light report may be weak beca
 
 Most rural and coastal light reports in NSW fall into a small number of recurring categories. None explains every case, but each explains enough cases that it should be checked early.
 
-**Bright planets and stars.** Venus, Jupiter, Sirius and sometimes Mercury can appear unusually bright near the horizon. Atmospheric turbulence can make them flicker or change colour. If the observer is driving, the light may seem to pace the vehicle. NASA’s Night Sky Network specifically warns that Venus low on the horizon is a frequent UFO source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">&amp; Resources &#124; Night Sky Network...</span></span></span>
+**Bright planets and stars.** Venus, Jupiter, Sirius and sometimes Mercury can appear unusually bright near the horizon. Atmospheric turbulence can make them flicker or change colour. If the observer is driving, the light may seem to pace the vehicle. NASA’s Night Sky Network specifically warns that Venus low on the horizon is a frequent UFO source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">&amp; Resources &#124; Night Sky Network...</span></span></span>
 
-**Satellites and [Starlink trains]({{ 'starlink-trains-a8142a/' | relative_url }}).** Satellites are silent, steady and often visible around dusk or dawn when they catch sunlight above a dark ground. Starlink trains are especially distinctive: a line of evenly spaced lights can look artificial, coordinated and unlike older night-sky objects. ABC reporting has described witnesses seeing straight-line, star-like lights, with astronomers identifying recent Starlink launches as the cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2022-07-13/bright-lights-starlink-satellites-perplex-community/101236228" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+**Satellites and [Starlink trains]({{ 'starlink-trains-a8142a/' | relative_url }}).** Satellites are silent, steady and often visible around dusk or dawn when they catch sunlight above a dark ground. Starlink trains are especially distinctive: a line of evenly spaced lights can look artificial, coordinated and unlike older night-sky objects. ABC reporting has described witnesses seeing straight-line, star-like lights, with astronomers identifying recent Starlink launches as the cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2022-07-13/bright-lights-starlink-satellites-perplex-community/101236228" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
-**Rocket plumes and high-altitude fuel or gas releases.** These can look far stranger than ordinary aircraft because they may expand, glow, form cloudy shapes or change colour. The June 2026 Chinese rocket sighting over Queensland and northern NSW is a clear recent example of a dramatic display explained by space activity rather than a local aircraft or weather event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+**Rocket plumes and high-altitude fuel or gas releases.** These can look far stranger than ordinary aircraft because they may expand, glow, form cloudy shapes or change colour. The June 2026 Chinese rocket sighting over Queensland and northern NSW is a clear recent example of a dramatic display explained by space activity rather than a local aircraft or weather event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
 **Meteors and fireballs.** A bright meteor can light clouds or ocean, fragment, leave a trail and appear much lower than it is. Because it is brief and spectacular, witnesses may disagree about its direction or apparent landing point. A meteor seen over the sea can be reported as entering the water even when it burned out high above Earth.
 
@@ -349,7 +349,7 @@ Most rural and coastal light reports in NSW fall into a small number of recurrin
 
 **Boats, fishing lights and maritime activity.** Over dark water, boat lights can appear to float in the sky if the horizon is unclear. Fishing vessels or offshore operations can produce clusters of bright lights. When combined with haze or refraction, they may look detached from the sea.
 
-**Flares, exercises and searchlights.** Military, maritime or emergency activity can generate lights that appear in groups, descend slowly or vanish. The 1954 Sydney report is a useful historical reminder: lights first reported as mysterious were considered by officials to be probably shells or rockets, with naval exercises occurring offshore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/29607775" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
+**Flares, exercises and searchlights.** Military, maritime or emergency activity can generate lights that appear in groups, descend slowly or vanish. The 1954 Sydney report is a useful historical reminder: lights first reported as mysterious were considered by officials to be probably shells or rockets, with naval exercises occurring offshore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/29607775" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 
 **Camera artefacts.** Phone videos often add their own mysteries: autofocus pulsing, digital zoom, lens flare, rolling shutter effects and overexposure can turn a point light into an orb, triangle, halo or “craft”. A video may preserve that a light existed, but not necessarily its true shape.
 
@@ -360,7 +360,7 @@ Most rural and coastal light reports in NSW fall into a small number of recurrin
 
 Some NSW light reports remain unresolved for a simple reason: not enough testable information survives. A witness may be sincere, frightened and detailed about their emotional experience, yet still omit the exact time, compass direction, elevation, weather, duration or comparison objects needed for identification. In older cases, reports may survive only as newspaper summaries or later retellings. In modern cases, social media posts may spread quickly before anyone checks satellites, aircraft, maritime notices or weather.
 
-There is also a reporting gap created by official withdrawal. The National Archives notes that [RAAF records]({{ 'raaf-records/' | relative_url }}) of possible UFO sightings are preserved in the national archival collection, but the RAAF ceased investigating UFO sightings in 1994. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span> The ABC later reported Defence’s statement that it did not have a protocol covering recording or reporting of UFO/UAP sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span> That means many NSW light reports now live in a mixed ecosystem of civilian UFO groups, local media, social media, astronomy forums, aviation enthusiasts and personal archives. Some are checked carefully. Others are amplified without enough detail to resolve.
+There is also a reporting gap created by official withdrawal. The National Archives notes that [RAAF records]({{ 'raaf-records/' | relative_url }}) of possible UFO sightings are preserved in the national archival collection, but the RAAF ceased investigating UFO sightings in 1994.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span> The ABC later reported Defence’s statement that it did not have a protocol covering recording or reporting of UFO/UAP sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span> That means many NSW light reports now live in a mixed ecosystem of civilian UFO groups, local media, social media, astronomy forums, aviation enthusiasts and personal archives. Some are checked carefully. Others are amplified without enough detail to resolve.
 
 A useful classification is therefore:
 
@@ -391,194 +391,194 @@ The most important reader takeaway is that “unidentified” is a starting poin
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do NSW Lights Look So Strange?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do NSW Lights Look So Strange?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages careful assessment of extraordinary observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Encourages careful assessment of extraordinary observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Explains many celestial objects commonly mistaken for mysterious lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains many celestial objects commonly mistaken for mysterious lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps identify planets, stars, and sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify planets, stars, and sky phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines recurring patterns in UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines recurring patterns in UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day CD Basket Case Grüne Sammler Hülle"><img src="{{ '/assets/images/marketplace-covers/57b827fd9c64b46341f3.jpg' | relative_url }}" alt="Listing image for Green Day CD Basket Case Grüne Sammler Hülle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day CD Basket Case Grüne Sammler Hülle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day CD Basket Case Grüne Sammler Hülle"><img src="{{ '/assets/images/marketplace-covers/57b827fd9c64b46341f3.jpg' | relative_url }}" alt="Listing image for Green Day CD Basket Case Grüne Sammler Hülle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day CD Basket Case Grüne Sammler Hülle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min"><img src="{{ '/assets/images/marketplace-covers/7dce6efe1ae3f275cca6.jpg' | relative_url }}" alt="Listing image for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min"><img src="{{ '/assets/images/marketplace-covers/7dce6efe1ae3f275cca6.jpg' | relative_url }}" alt="Listing image for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min"><img src="{{ '/assets/images/marketplace-covers/4b0841c18a7477a70bf3.jpg' | relative_url }}" alt="Listing image for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min"><img src="{{ '/assets/images/marketplace-covers/4b0841c18a7477a70bf3.jpg' | relative_url }}" alt="Listing image for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5c93a3312d26541cf52d.jpg' | relative_url }}" alt="Listing image for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5c93a3312d26541cf52d.jpg' | relative_url }}" alt="Listing image for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="lights-why-do-nsw-lights-look-so-strange-new-south-wales-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -594,7 +594,7 @@ The most important reader takeaway is that “unidentified” is a starting poin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -614,7 +614,7 @@ The most important reader takeaway is that “unidentified” is a starting poin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -646,7 +646,7 @@ The most important reader takeaway is that “unidentified” is a starting poin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -698,7 +698,7 @@ The most important reader takeaway is that “unidentified” is a starting poin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -743,7 +743,7 @@ The most important reader takeaway is that “unidentified” is a starting poin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -784,150 +784,150 @@ The most important reader takeaway is that “unidentified” is a starting poin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: naa.gov.au  
    Title: NAAFlying saucers – fact or fiction? | naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/29607775" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/29607775</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/29607775" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/29607775</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: 7news.com.au  
-   Link: <a href="https://7news.com.au/news/stargazers-witness-strange-ufo-lights-moving-in-straight-line-across-nsw-skies-c-672978" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/stargazers-witness-strange-ufo-lights-moving-in-straight-line-across-nsw-skies-c-672978</a>  
+   Link:<a href="https://7news.com.au/news/stargazers-witness-strange-ufo-lights-moving-in-straight-line-across-nsw-skies-c-672978" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/stargazers-witness-strange-ufo-lights-moving-in-straight-line-across-nsw-skies-c-672978</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Resources | Night Sky Network...</p></details>
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Resources | Night Sky Network...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: search.sl.nsw.gov.au  
-   Link: <a href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay/SLNSW_ALMA21106647330002626/SLNSW" target="_blank" rel="noopener noreferrer nofollow">https://search.sl.nsw.gov.au/primo-explore/fulldisplay/SLNSW_ALMA21106647330002626/SLNSW</a>  
+   Link:<a href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay/SLNSW_ALMA21106647330002626/SLNSW" target="_blank" rel="noopener noreferrer nofollow">https://search.sl.nsw.gov.au/primo-explore/fulldisplay/SLNSW_ALMA21106647330002626/SLNSW</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/202734433" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/202734433</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/202734433" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/202734433</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/201779069" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/201779069</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/201779069" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/201779069</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: naa.gov.au  
    Title: fact sheets  
-   Link: <a href="https://www.naa.gov.au/help-your-research/fact-sheets" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/help-your-research/fact-sheets</a>  
+   Link:<a href="https://www.naa.gov.au/help-your-research/fact-sheets" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/help-your-research/fact-sheets</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652</a>  
+   Link:<a href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074</a>  
+   Link:<a href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2022-07-13/bright-lights-starlink-satellites-perplex-community/101236228" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2022-07-13/bright-lights-starlink-satellites-perplex-community/101236228</a>  
+   Link:<a href="https://www.abc.net.au/news/2022-07-13/bright-lights-starlink-satellites-perplex-community/101236228" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2022-07-13/bright-lights-starlink-satellites-perplex-community/101236228</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cloudatlas.wmo.int  
-   Link: <a href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/mirage.html</a>  
+   Link:<a href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/mirage.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: abc.net.au  
    Title: westall ufo mystery witnesses want answers  
-   Link: <a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
+   Link:<a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: abc.net.au  
    Title: century old melbourne ufo report echoes mulder x files test  
-   Link: <a href="https://www.abc.net.au/news/2016-02-22/century-old-melbourne-ufo-report-echoes-mulder-x-files-test/7185246" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2016-02-22/century-old-melbourne-ufo-report-echoes-mulder-x-files-test/7185246</a>  
+   Link:<a href="https://www.abc.net.au/news/2016-02-22/century-old-melbourne-ufo-report-echoes-mulder-x-files-test/7185246" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2016-02-22/century-old-melbourne-ufo-report-echoes-mulder-x-files-test/7185246</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
+   Link:<a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: 7news.com.au  
-   Link: <a href="https://7news.com.au/news/mysterious-ufo-like-glowing-orbs-over-queensland-and-nsw-explained-as-plume-from-chinese-rocket-c-19533600" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/mysterious-ufo-like-glowing-orbs-over-queensland-and-nsw-explained-as-plume-from-chinese-rocket-c-19533600</a>  
+   Link:<a href="https://7news.com.au/news/mysterious-ufo-like-glowing-orbs-over-queensland-and-nsw-explained-as-plume-from-chinese-rocket-c-19533600" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/mysterious-ufo-like-glowing-orbs-over-queensland-and-nsw-explained-as-plume-from-chinese-rocket-c-19533600</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: 7news.com.au  
-   Link: <a href="https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991</a>  
+   Link:<a href="https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1</a>  
+   Link:<a href="https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/space/hawkesbury-residents-shocked-by-lights-in-the-early-morning-sky/news-story/103b9b474f30c1c2e234badd23d4b165" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/hawkesbury-residents-shocked-by-lights-in-the-early-morning-sky/news-story/103b9b474f30c1c2e234badd23d4b165</a>  
+   Link:<a href="https://www.news.com.au/technology/science/space/hawkesbury-residents-shocked-by-lights-in-the-early-morning-sky/news-story/103b9b474f30c1c2e234badd23d4b165" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/hawkesbury-residents-shocked-by-lights-in-the-early-morning-sky/news-story/103b9b474f30c1c2e234badd23d4b165</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/space/wild-scenes-as-chinese-rocket-with-sixtonne-satellite-payload-soars-over-queensland-and-nsw/news-story/b2e3a4c5b033658bb45d0d7c5eb603b6" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/wild-scenes-as-chinese-rocket-with-sixtonne-satellite-payload-soars-over-queensland-and-nsw/news-story/b2e3a4c5b033658bb45d0d7c5eb603b6</a>  
+   Link:<a href="https://www.news.com.au/technology/science/space/wild-scenes-as-chinese-rocket-with-sixtonne-satellite-payload-soars-over-queensland-and-nsw/news-story/b2e3a4c5b033658bb45d0d7c5eb603b6" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/wild-scenes-as-chinese-rocket-with-sixtonne-satellite-payload-soars-over-queensland-and-nsw/news-story/b2e3a4c5b033658bb45d0d7c5eb603b6</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Min Min Lights of Australia  
-   Link: <a href="http://www.youtube.com/watch?v=x-d6jApQQBc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=x-d6jApQQBc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights in the night sky explained planet satellite flare Satellite Pollution - night sky ruined by satellites:/ Amazing time-lap...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=x-d6jApQQBc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=x-d6jApQQBc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights in the night sky explained planet satellite flare Satellite Pollution - night sky ruined by satellites:/ Amazing time-lap...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Atmospheric Refraction Class 10 | Why Do Stars Twinkle?  
-   Link: <a href="http://www.youtube.com/watch?v=dwSL1M74R-g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dwSL1M74R-g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Min Min Lights: Mysterious Lights in the Australian Outback...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=dwSL1M74R-g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dwSL1M74R-g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Min Min Lights: Mysterious Lights in the Australian Outback...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSSC/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1214125290826482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSSC/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1214125290826482/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSSC/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1214125290826482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSSC/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1214125290826482/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/newcastleherald/posts/a-ufo-has-been-reported-in-the-skies-above-orange-in-nsw-the-unusual-hovering-st/763032622528800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newcastleherald/posts/a-ufo-has-been-reported-in-the-skies-above-orange-in-nsw-the-unusual-hovering-st/763032622528800/</a>  
+   Link:<a href="https://www.facebook.com/newcastleherald/posts/a-ufo-has-been-reported-in-the-skies-above-orange-in-nsw-the-unusual-hovering-st/763032622528800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newcastleherald/posts/a-ufo-has-been-reported-in-the-skies-above-orange-in-nsw-the-unusual-hovering-st/763032622528800/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcinsydney/posts/a-chinese-rocket-has-lit-up-the-skies-across-queensland-and-northern-new-south-w/1403590728470678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcinsydney/posts/a-chinese-rocket-has-lit-up-the-skies-across-queensland-and-northern-new-south-w/1403590728470678/</a>  
+   Link:<a href="https://www.facebook.com/abcinsydney/posts/a-chinese-rocket-has-lit-up-the-skies-across-queensland-and-northern-new-south-w/1403590728470678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcinsydney/posts/a-chinese-rocket-has-lit-up-the-skies-across-queensland-and-northern-new-south-w/1403590728470678/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheToowoombaChronicle/posts/a-toowoomba-man-has-spent-the-last-few-years-documenting-unexplained-sightings-i/1635446825252537/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheToowoombaChronicle/posts/a-toowoomba-man-has-spent-the-last-few-years-documenting-unexplained-sightings-i/1635446825252537/</a>  
+   Link:<a href="https://www.facebook.com/TheToowoombaChronicle/posts/a-toowoomba-man-has-spent-the-last-few-years-documenting-unexplained-sightings-i/1635446825252537/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheToowoombaChronicle/posts/a-toowoomba-man-has-spent-the-last-few-years-documenting-unexplained-sightings-i/1635446825252537/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZaAd-gmnGK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZaAd-gmnGK/</a>  
+   Link:<a href="https://www.instagram.com/reel/DZaAd-gmnGK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZaAd-gmnGK/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUR1t52DBBv/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUR1t52DBBv/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DUR1t52DBBv/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUR1t52DBBv/?hl=en</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/9NewsMelbourne/posts/a-dazzling-unexplained-flash-lit-up-skies-across-the-east-coast-last-night-leavi/1338075351807185/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsMelbourne/posts/a-dazzling-unexplained-flash-lit-up-skies-across-the-east-coast-last-night-leavi/1338075351807185/</a>  
+   Link:<a href="https://www.facebook.com/9NewsMelbourne/posts/a-dazzling-unexplained-flash-lit-up-skies-across-the-east-coast-last-night-leavi/1338075351807185/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsMelbourne/posts/a-dazzling-unexplained-flash-lit-up-skies-across-the-east-coast-last-night-leavi/1338075351807185/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/9NewsQueensland/videos/strange-space-spectacle-stuns-aussies-across-the-east-coast/1809066280066073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsQueensland/videos/strange-space-spectacle-stuns-aussies-across-the-east-coast/1809066280066073/</a>  
+   Link:<a href="https://www.facebook.com/9NewsQueensland/videos/strange-space-spectacle-stuns-aussies-across-the-east-coast/1809066280066073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsQueensland/videos/strange-space-spectacle-stuns-aussies-across-the-east-coast/1809066280066073/</a>  

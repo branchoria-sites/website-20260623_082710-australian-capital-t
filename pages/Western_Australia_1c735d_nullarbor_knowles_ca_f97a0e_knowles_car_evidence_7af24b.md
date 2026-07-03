@@ -260,11 +260,11 @@ The reported damage to the Knowles family’s Ford Telstar was one of the main r
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_car_evidence_7af24b-Illustration-1-dark.svg" | relative_url }}" alt="Car evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_car_evidence_7af24b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_car_evidence_7af24b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The answer is more complicated. While police initially regarded the vehicle as important evidence, later examination and sceptical analysis suggested that the tyre damage, black residue and roof marks could be explained by ordinary mechanical and environmental causes. The debate over the car remains central to understanding why the Knowles case is often described as unresolved by believers but significantly weakened by later investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museumoflost.com/aliens-on-the-nullarbor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museumoflost.com">[The Museum of Lost Things]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museumoflost.com</span><span class="citation-popover-snippet">The Museum of Lost ThingsAliens on the NullarborJuly 17, 2021 — 17 Jul 2021 — What the Knowles told Longley was a sensational story: cros...</span><span class="citation-popover-meta">Published: July 17, 2021</span></span></span>
+The answer is more complicated. While police initially regarded the vehicle as important evidence, later examination and sceptical analysis suggested that the tyre damage, black residue and roof marks could be explained by ordinary mechanical and environmental causes. The debate over the car remains central to understanding why the Knowles case is often described as unresolved by believers but significantly weakened by later investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museumoflost.com/aliens-on-the-nullarbor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museumoflost.com">[The Museum of Lost Things]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museumoflost.com</span><span class="citation-popover-snippet">The Museum of Lost ThingsAliens on the NullarborJuly 17, 2021 — 17 Jul 2021 — What the Knowles told Longley was a sensational story: cros...</span><span class="citation-popover-meta">Published: July 17, 2021</span></span></span>
 
 ## What police and early reports said about the car
 
-When the Knowles family reached Ceduna after the incident, police found them visibly distressed. Early newspaper and television reports emphasised that officers saw apparent physical traces on the vehicle. The car was described as carrying a dark residue and showing signs of damage that seemed consistent with the family’s account of a violent encounter. These observations helped move the story beyond a simple report of strange lights in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museumoflost.com/aliens-on-the-nullarbor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museumoflost.com">[The Museum of Lost Things]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museumoflost.com</span><span class="citation-popover-snippet">The Museum of Lost ThingsAliens on the NullarborJuly 17, 2021 — 17 Jul 2021 — What the Knowles told Longley was a sensational story: cros...</span><span class="citation-popover-meta">Published: July 17, 2021</span></span></span>
+When the Knowles family reached Ceduna after the incident, police found them visibly distressed. Early newspaper and television reports emphasised that officers saw apparent physical traces on the vehicle. The car was described as carrying a dark residue and showing signs of damage that seemed consistent with the family’s account of a violent encounter. These observations helped move the story beyond a simple report of strange lights in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museumoflost.com/aliens-on-the-nullarbor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museumoflost.com">[The Museum of Lost Things]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museumoflost.com</span><span class="citation-popover-snippet">The Museum of Lost ThingsAliens on the NullarborJuly 17, 2021 — 17 Jul 2021 — What the Knowles told Longley was a sensational story: cros...</span><span class="citation-popover-meta">Published: July 17, 2021</span></span></span>
 
 The most frequently cited items were:
 
@@ -278,7 +278,7 @@ The most frequently cited items were:
 
 </div>
 
-At the time, these details appeared to support the family's account that something had physically interacted with the vehicle. Media coverage often treated the traces as potential forensic evidence rather than mere anecdote. That distinction mattered because UFO cases with alleged physical effects have historically attracted more attention from investigators than simple visual sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museumoflost.com/aliens-on-the-nullarbor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museumoflost.com">[The Museum of Lost Things]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museumoflost.com</span><span class="citation-popover-snippet">The Museum of Lost ThingsAliens on the NullarborJuly 17, 2021 — 17 Jul 2021 — What the Knowles told Longley was a sensational story: cros...</span><span class="citation-popover-meta">Published: July 17, 2021</span></span></span>
+At the time, these details appeared to support the family's account that something had physically interacted with the vehicle. Media coverage often treated the traces as potential forensic evidence rather than mere anecdote. That distinction mattered because UFO cases with alleged physical effects have historically attracted more attention from investigators than simple visual sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museumoflost.com/aliens-on-the-nullarbor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museumoflost.com">[The Museum of Lost Things]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museumoflost.com</span><span class="citation-popover-snippet">The Museum of Lost ThingsAliens on the NullarborJuly 17, 2021 — 17 Jul 2021 — What the Knowles told Longley was a sensational story: cros...</span><span class="citation-popover-meta">Published: July 17, 2021</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ep4M5piSKaw" title="Australia Had The Craziest UFO Event That People Didn&#x27;t Believe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ep4M5piSKaw" target="_blank" rel="noopener noreferrer">Australia Had The Craziest UFO Event That People Didn&#x27;t Believe</a></p><p class="youtube-embed-meta">Channel: Caspersight</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ep4M5piSKaw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ep4M5piSKaw">Open on YouTube</a></p></div></div></div>
@@ -287,11 +287,11 @@ At the time, these details appeared to support the family's account that somethi
 
 As the case received more scrutiny, investigators and sceptical researchers began asking whether the damage actually required an exotic explanation.
 
-The tyre failure was initially presented as evidence that the car had been dropped violently onto the road. However, critics noted that the family had reportedly been driving at very high speed while frightened on a remote highway. Under those conditions, tyre failure alone is not unusual. A blowout does not by itself demonstrate that a vehicle became airborne. Later discussions of the case increasingly treated the tyre as consistent with an ordinary mechanical failure rather than a unique physical effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Knowles Family UFO Incident18 Feb 2020 — This family&#x27;s car is said to have been lifted off the road by a UFO and dropped. Skeptoid Po...</span></span></span>
+The tyre failure was initially presented as evidence that the car had been dropped violently onto the road. However, critics noted that the family had reportedly been driving at very high speed while frightened on a remote highway. Under those conditions, tyre failure alone is not unusual. A blowout does not by itself demonstrate that a vehicle became airborne. Later discussions of the case increasingly treated the tyre as consistent with an ordinary mechanical failure rather than a unique physical effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Knowles Family UFO Incident18 Feb 2020 — This family&#x27;s car is said to have been lifted off the road by a UFO and dropped. Skeptoid Po...</span></span></span>
 
-The black residue attracted even more attention. Early descriptions referred to ash or soot-like material covering the car. Later analysis suggested a far more mundane possibility: brake dust. Heavy braking can generate fine black particulate matter, particularly after prolonged or intense use. If a driver repeatedly accelerated and braked during a stressful pursuit, substantial brake dust could accumulate and spread across nearby surfaces. Several sceptical examinations of the case argued that this explanation fit the reported appearance of the material better than an unknown substance deposited by a UFO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Knowles Family UFO Incident18 Feb 2020 — This family&#x27;s car is said to have been lifted off the road by a UFO and dropped. Skeptoid Po...</span></span></span>
+The black residue attracted even more attention. Early descriptions referred to ash or soot-like material covering the car. Later analysis suggested a far more mundane possibility: brake dust. Heavy braking can generate fine black particulate matter, particularly after prolonged or intense use. If a driver repeatedly accelerated and braked during a stressful pursuit, substantial brake dust could accumulate and spread across nearby surfaces. Several sceptical examinations of the case argued that this explanation fit the reported appearance of the material better than an unknown substance deposited by a UFO.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Knowles Family UFO Incident18 Feb 2020 — This family&#x27;s car is said to have been lifted off the road by a UFO and dropped. Skeptoid Po...</span></span></span>
 
-The roof dents were likewise less clear-cut than early reporting implied. The marks demonstrated that the roof had been deformed, but proving when or how that happened was another matter. No forensic examination established that the dents were newly created during the encounter. Nor was there evidence that the pattern of damage required an external object descending from above. Without a documented chain of custody or detailed engineering analysis performed immediately after the event, the dents remained suggestive rather than conclusive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Knowles Family UFO Incident18 Feb 2020 — This family&#x27;s car is said to have been lifted off the road by a UFO and dropped. Skeptoid Po...</span></span></span>
+The roof dents were likewise less clear-cut than early reporting implied. The marks demonstrated that the roof had been deformed, but proving when or how that happened was another matter. No forensic examination established that the dents were newly created during the encounter. Nor was there evidence that the pattern of damage required an external object descending from above. Without a documented chain of custody or detailed engineering analysis performed immediately after the event, the dents remained suggestive rather than conclusive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Knowles Family UFO Incident18 Feb 2020 — This family&#x27;s car is said to have been lifted off the road by a UFO and dropped. Skeptoid Po...</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_car_evidence_7af24b-Illustration-2-dark.svg" | relative_url }}" alt="Car evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_car_evidence_7af24b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_car_evidence_7af24b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -312,7 +312,7 @@ The evidential picture shifted in several ways:
 
 </div>
 
-Taken separately, none of these points disproves the family's experience. Together, however, they reduced the value of the car as evidence for an extraordinary event. The traces no longer appeared to require a UFO explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Knowles Family UFO Incident18 Feb 2020 — This family&#x27;s car is said to have been lifted off the road by a UFO and dropped. Skeptoid Po...</span></span></span>
+Taken separately, none of these points disproves the family's experience. Together, however, they reduced the value of the car as evidence for an extraordinary event. The traces no longer appeared to require a UFO explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Knowles Family UFO Incident18 Feb 2020 — This family&#x27;s car is said to have been lifted off the road by a UFO and dropped. Skeptoid Po...</span></span></span>
 
 This distinction is important. A sceptical interpretation does not require the witnesses to have invented the story. It only requires that the physical evidence failed to confirm the most dramatic parts of the account.
 
@@ -323,7 +323,7 @@ This distinction is important. A sceptical interpretation does not require the w
 
 The debate surrounding the Knowles vehicle illustrates a broader lesson in Australian UFO history. Witnesses can be sincere, frightened and consistent, yet still misinterpret what happened during a confusing event. Physical traces offer a way to test a claim against independently verifiable evidence.
 
-In the Nullarbor case, the family's distress impressed police and much of the public. Few investigators argued that the witnesses were deliberately fabricating their experience. The central issue became whether the vehicle damage objectively demonstrated that a craft landed on or lifted the car. As later reviews examined the tyre, residue and dents, confidence in that conclusion weakened because the traces did not clearly point to a single extraordinary cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museumoflost.com/aliens-on-the-nullarbor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museumoflost.com">[The Museum of Lost Things]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museumoflost.com</span><span class="citation-popover-snippet">The Museum of Lost ThingsAliens on the NullarborJuly 17, 2021 — 17 Jul 2021 — What the Knowles told Longley was a sensational story: cros...</span><span class="citation-popover-meta">Published: July 17, 2021</span></span></span>
+In the Nullarbor case, the family's distress impressed police and much of the public. Few investigators argued that the witnesses were deliberately fabricating their experience. The central issue became whether the vehicle damage objectively demonstrated that a craft landed on or lifted the car. As later reviews examined the tyre, residue and dents, confidence in that conclusion weakened because the traces did not clearly point to a single extraordinary cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museumoflost.com/aliens-on-the-nullarbor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museumoflost.com">[The Museum of Lost Things]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museumoflost.com</span><span class="citation-popover-snippet">The Museum of Lost ThingsAliens on the NullarborJuly 17, 2021 — 17 Jul 2021 — What the Knowles told Longley was a sensational story: cros...</span><span class="citation-popover-meta">Published: July 17, 2021</span></span></span>
 
 That is why the car remains both the strongest and weakest part of the Knowles story. It is the strongest because there was tangible evidence to examine. It is the weakest because the evidence ultimately proved far more ambiguous than the original headlines suggested.
 
@@ -331,7 +331,7 @@ That is why the car remains both the strongest and weakest part of the Knowles s
 <img src="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_car_evidence_7af24b-Illustration-3-dark.svg" | relative_url }}" alt="Car evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_car_evidence_7af24b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_knowles_car_evidence_7af24b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the car evidence tells us today
 
-Viewed from the perspective of Western Australia’s UFO history, the Knowles vehicle did not provide proof of a UFO attack. The physical traces were real enough to deserve investigation, but later analysis showed that they could plausibly arise from ordinary mechanical and environmental causes. The tyre, residue and roof damage never produced the kind of unambiguous forensic result that would be expected if an unknown craft had physically seized a moving car. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Knowles Family UFO Incident18 Feb 2020 — This family&#x27;s car is said to have been lifted off the road by a UFO and dropped. Skeptoid Po...</span></span></span>
+Viewed from the perspective of Western Australia’s UFO history, the Knowles vehicle did not provide proof of a UFO attack. The physical traces were real enough to deserve investigation, but later analysis showed that they could plausibly arise from ordinary mechanical and environmental causes. The tyre, residue and roof damage never produced the kind of unambiguous forensic result that would be expected if an unknown craft had physically seized a moving car.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Knowles Family UFO Incident18 Feb 2020 — This family&#x27;s car is said to have been lifted off the road by a UFO and dropped. Skeptoid Po...</span></span></span>
 
 As a result, the car evidence is best understood not as confirmation of the UFO claim but as a cautionary example of how apparently compelling traces can become less mysterious when examined in detail. Within the wider Nullarbor Knowles incident evidence and doubts, the vehicle remains an important piece of the story—but not the decisive proof that many early reports implied.
 
@@ -340,194 +340,194 @@ As a result, the car evidence is best understood not as confirmation of the UFO 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the car evidence prove a UFO attack?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the car evidence prove a UFO attack?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Emphasizes investigation methods and evidence assessment rather than anecdotes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes investigation methods and evidence assessment rather than anecdotes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Sightings+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Sightings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RrAEAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Sightings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Sightings+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Sightings">UFO Sightings</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Sightings+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Sightings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RrAEAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Sightings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Sightings+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Sightings">UFO Sightings</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Addresses physical evidence claims and scientific evaluation of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Sightings+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses physical evidence claims and scientific evaluation of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Sightings+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Strong fit for evaluating vehicle damage, trace evidence and conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for evaluating vehicle damage, trace evidence and conventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on standards of evidence, especially when physical traces are claimed as proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on standards of evidence, especially when physical traces are claimed as proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Sightings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Sightings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Sightings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Sightings</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="car-evidence-did-the-car-evidence-prove-a-ufo-attack-western-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-car-evidence-prove-a-ufo-attack-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ As a result, the car evidence is best understood not as confirmation of the UFO 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ As a result, the car evidence is best understood not as confirmation of the UFO 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ As a result, the car evidence is best understood not as confirmation of the UFO 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ As a result, the car evidence is best understood not as confirmation of the UFO 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ As a result, the car evidence is best understood not as confirmation of the UFO 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,89 +733,89 @@ As a result, the car evidence is best understood not as confirmation of the UFO 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/715" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/715</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Knowles Family UFO Incident18 Feb 2020 — This family&#x27;s car is said to have been lifted off the road by a UFO and dropped. Skeptoid Po...</p></details>
+   Link:<a href="https://skeptoid.com/episodes/715" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Knowles Family UFO Incident18 Feb 2020 — This family&#x27;s car is said to have been lifted off the road by a UFO and dropped. Skeptoid Po...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gmp.police.uk  
    Title: man who fled road traffic collision in hindley sentenced  
-   Link: <a href="https://www.gmp.police.uk/news/greater-manchester/news/news/2023/december/man-who-fled-road-traffic-collision-in-hindley-sentenced/" target="_blank" rel="noopener noreferrer nofollow">https://www.gmp.police.uk/news/greater-manchester/news/news/2023/december/man-who-fled-road-traffic-collision-in-hindley-sentenced/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Dec 2023 — Knowles arranged to have his vehicle repaired, with the intention of hiding any evidence that he had been involved...</p></details>
+   Link:<a href="https://www.gmp.police.uk/news/greater-manchester/news/news/2023/december/man-who-fled-road-traffic-collision-in-hindley-sentenced/" target="_blank" rel="noopener noreferrer nofollow">https://www.gmp.police.uk/news/greater-manchester/news/news/2023/december/man-who-fled-road-traffic-collision-in-hindley-sentenced/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Dec 2023 — Knowles arranged to have his vehicle repaired, with the intention of hiding any evidence that he had been involved...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cleveland.police.uk  
    Title: boy 11 arrested after police vehicle set alight  
-   Link: <a href="https://www.cleveland.police.uk/news/cleveland/news/2024/august/boy-11-arrested-after-police-vehicle-set-alight/" target="_blank" rel="noopener noreferrer nofollow">https://www.cleveland.police.uk/news/cleveland/news/2024/august/boy-11-arrested-after-police-vehicle-set-alight/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boy, 11, Arrested after Police Vehicle Set Alight1 Aug 2024 — A 11-year-old boy has been arrested on suspicion of arson after a police ve...</p></details>
+   Link:<a href="https://www.cleveland.police.uk/news/cleveland/news/2024/august/boy-11-arrested-after-police-vehicle-set-alight/" target="_blank" rel="noopener noreferrer nofollow">https://www.cleveland.police.uk/news/cleveland/news/2024/august/boy-11-arrested-after-police-vehicle-set-alight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boy, 11, Arrested after Police Vehicle Set Alight1 Aug 2024 — A 11-year-old boy has been arrested on suspicion of arson after a police ve...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: merseyside.police.uk  
    Title: man arrested following collision in bootle  
-   Link: <a href="https://www.merseyside.police.uk/news/merseyside/news/2026/march-2026/man-arrested-following-collision-in-bootle/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyside.police.uk/news/merseyside/news/2026/march-2026/man-arrested-following-collision-in-bootle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Merseyside...12 Mar 2026 — A man has been arrested after officers witnessed a vehicle being driven dangerously in Bootle last night (Wed...</p></details>
+   Link:<a href="https://www.merseyside.police.uk/news/merseyside/news/2026/march-2026/man-arrested-following-collision-in-bootle/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyside.police.uk/news/merseyside/news/2026/march-2026/man-arrested-following-collision-in-bootle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Merseyside...12 Mar 2026 — A man has been arrested after officers witnessed a vehicle being driven dangerously in Bootle last night (Wed...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: museumoflost.com  
-   Link: <a href="https://www.museumoflost.com/aliens-on-the-nullarbor/" target="_blank" rel="noopener noreferrer nofollow">https://www.museumoflost.com/aliens-on-the-nullarbor/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Museum of Lost ThingsAliens on the NullarborJuly 17, 2021 — 17 Jul 2021 — What the Knowles told Longley was a sensational story: cros...</p></details>
+   Link:<a href="https://www.museumoflost.com/aliens-on-the-nullarbor/" target="_blank" rel="noopener noreferrer nofollow">https://www.museumoflost.com/aliens-on-the-nullarbor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Museum of Lost ThingsAliens on the NullarborJuly 17, 2021 — 17 Jul 2021 — What the Knowles told Longley was a sensational story: cros...</p></details>
    Published: July 17, 2021  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/horror-hounds/the-nullarbor-plain-ufo-incident-6b1d74c48058" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/horror-hounds/the-nullarbor-plain-ufo-incident-6b1d74c48058</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Nullarbor Plain UFO Incident. Paranormal Case FilesUFO/PARANORMAL The Nullarbor Plain UFO Incident Paranormal Case Files: In... roof...</p></details>
+   Link:<a href="https://medium.com/horror-hounds/the-nullarbor-plain-ufo-incident-6b1d74c48058" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/horror-hounds/the-nullarbor-plain-ufo-incident-6b1d74c48058</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Nullarbor Plain UFO Incident. Paranormal Case FilesUFO/PARANORMAL The Nullarbor Plain UFO Incident Paranormal Case Files: In... roof...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PoliceLisburnCastlereagh/posts/information-appealpolice-are-appealing-for-information-in-relation-to-criminal-d/2538617006191252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PoliceLisburnCastlereagh/posts/information-appealpolice-are-appealing-for-information-in-relation-to-criminal-d/2538617006191252/</a>  
+   Link:<a href="https://www.facebook.com/PoliceLisburnCastlereagh/posts/information-appealpolice-are-appealing-for-information-in-relation-to-criminal-d/2538617006191252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PoliceLisburnCastlereagh/posts/information-appealpolice-are-appealing-for-information-in-relation-to-criminal-d/2538617006191252/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ny1.com  
    Title: cars set on fire in welsh capital as police face large scale disorder  
-   Link: <a href="https://ny1.com/nyc/all-boroughs/ap-top-news/2023/05/23/cars-set-on-fire-in-welsh-capital-as-police-face-large-scale-disorder" target="_blank" rel="noopener noreferrer nofollow">https://ny1.com/nyc/all-boroughs/ap-top-news/2023/05/23/cars-set-on-fire-in-welsh-capital-as-police-face-large-scale-disorder</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cars set on fire in Welsh capital as police face &#x27;large scale...23 May 2023 — At least two cars were set ablaze and objects were hurled...</p></details>
+   Link:<a href="https://ny1.com/nyc/all-boroughs/ap-top-news/2023/05/23/cars-set-on-fire-in-welsh-capital-as-police-face-large-scale-disorder" target="_blank" rel="noopener noreferrer nofollow">https://ny1.com/nyc/all-boroughs/ap-top-news/2023/05/23/cars-set-on-fire-in-welsh-capital-as-police-face-large-scale-disorder</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cars set on fire in Welsh capital as police face &#x27;large scale...23 May 2023 — At least two cars were set ablaze and objects were hurled...</p></details>
    Published: May 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: courthousenews.com  
    Title: welsh police face backlash over deadly crash that sparked riots  
-   Link: <a href="https://www.courthousenews.com/welsh-police-face-backlash-over-deadly-crash-that-sparked-riots/" target="_blank" rel="noopener noreferrer nofollow">https://www.courthousenews.com/welsh-police-face-backlash-over-deadly-crash-that-sparked-riots/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Welsh police face backlash over deadly crash that sparked...24 May 2023 — Camera footage has disproven police claims that they were not...</p></details>
+   Link:<a href="https://www.courthousenews.com/welsh-police-face-backlash-over-deadly-crash-that-sparked-riots/" target="_blank" rel="noopener noreferrer nofollow">https://www.courthousenews.com/welsh-police-face-backlash-over-deadly-crash-that-sparked-riots/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Welsh police face backlash over deadly crash that sparked...24 May 2023 — Camera footage has disproven police claims that they were not...</p></details>
    Published: May 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: abc.net.au  
    Title: curious adelaide ufo sightings across australia  
-   Link: <a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Australia&#x27;s X-Files: Curious Adelaide cracks open...22 Feb 2018 — From flying saucers to balls of light rocketing through the sky...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Australia&#x27;s X-Files: Curious Adelaide cracks open...22 Feb 2018 — From flying saucers to balls of light rocketing through the sky...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/97akdf/1988_the_knowles_family_encountered_a_ufo_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/97akdf/1988_the_knowles_family_encountered_a_ufo_in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>people want to believe that this incident is proof of Alien visits to Earth but no evidence presented so far does that...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/97akdf/1988_the_knowles_family_encountered_a_ufo_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/97akdf/1988_the_knowles_family_encountered_a_ufo_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>people want to believe that this incident is proof of Alien visits to Earth but no evidence presented so far does that...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/midlandhistory/posts/the-knowles-family-from-midland-were-on-their-way-to-victoria-when-they-encounte/1829228620755899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/midlandhistory/posts/the-knowles-family-from-midland-were-on-their-way-to-victoria-when-they-encounte/1829228620755899/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed a UFO on the Nullarbor Plain in January 1988. We&#x27;ve found some...</p></details>
+   Link:<a href="https://www.facebook.com/midlandhistory/posts/the-knowles-family-from-midland-were-on-their-way-to-victoria-when-they-encounte/1829228620755899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/midlandhistory/posts/the-knowles-family-from-midland-were-on-their-way-to-victoria-when-they-encounte/1829228620755899/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed a UFO on the Nullarbor Plain in January 1988. We&#x27;ve found some...</p></details>
    Published: January 1988  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: the knowles family ufo encounter 1988  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1lk0x12/the_knowles_family_ufo_encounter_1988/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1lk0x12/the_knowles_family_ufo_encounter_1988/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Knowles Family UFO Encounter, 1988.: r/UFOBHe also examined their Ford Telstar and noted that the roof of the car was dented and the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1lk0x12/the_knowles_family_ufo_encounter_1988/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1lk0x12/the_knowles_family_ufo_encounter_1988/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Knowles Family UFO Encounter, 1988.: r/UFOBHe also examined their Ford Telstar and noted that the roof of the car was dented and the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61552402231911/videos/thousands-of-pounds-in-damage-to-the-rooftop-top-and-a-police-car-was-written-of/1164000068830259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61552402231911/videos/thousands-of-pounds-in-damage-to-the-rooftop-top-and-a-police-car-was-written-of/1164000068830259/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ff. The morning after the rooftop drama in Newbold Court...</p></details>
+   Link:<a href="https://www.facebook.com/61552402231911/videos/thousands-of-pounds-in-damage-to-the-rooftop-top-and-a-police-car-was-written-of/1164000068830259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61552402231911/videos/thousands-of-pounds-in-damage-to-the-rooftop-top-and-a-police-car-was-written-of/1164000068830259/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ff. The morning after the rooftop drama in Newbold Court...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: couriermail.com.au  
-   Link: <a href="https://www.couriermail.com.au/news/the-day-a-ufo-attacked-a-car-on-the-nullarbor/news-story/38359805c2cb5dfe9675dedddc05686d" target="_blank" rel="noopener noreferrer nofollow">https://www.couriermail.com.au/news/the-day-a-ufo-attacked-a-car-on-the-nullarbor/news-story/38359805c2cb5dfe9675dedddc05686d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The day a UFO attacked a car on the Nullarbor8 Jun 2014 — A FAMILY took a drive across the Nullarbor in the hope of finding a new life...</p></details>
+   Link:<a href="https://www.couriermail.com.au/news/the-day-a-ufo-attacked-a-car-on-the-nullarbor/news-story/38359805c2cb5dfe9675dedddc05686d" target="_blank" rel="noopener noreferrer nofollow">https://www.couriermail.com.au/news/the-day-a-ufo-attacked-a-car-on-the-nullarbor/news-story/38359805c2cb5dfe9675dedddc05686d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The day a UFO attacked a car on the Nullarbor8 Jun 2014 — A FAMILY took a drive across the Nullarbor in the hope of finding a new life...</p></details>

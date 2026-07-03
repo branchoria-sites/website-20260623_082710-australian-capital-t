@@ -256,7 +256,7 @@ image: /assets/images/Australian_Capital_T_2949ba_kambah_video_sightin_640f76_iv
 
 ## Introduction
 
-The Ivanisevic family’s sighting over Kambah in February 1990 became significant not because it produced strong proof of an unidentified object, but because it showed how quickly a local report could be transformed by national media attention. Within days of the sighting, a Canberra family who had described seeing a bright object in the pre-dawn sky found themselves fielding calls from television producers, radio programmes and newspapers across Australia. The presence of a home video recording gave the story a level of visibility that many other ACT sighting reports never achieved. Yet the resulting publicity also changed how the case was perceived. What began as a cautious account from witnesses with an open mind was rapidly reframed as a national UFO story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
+The Ivanisevic family’s sighting over Kambah in February 1990 became significant not because it produced strong proof of an unidentified object, but because it showed how quickly a local report could be transformed by national media attention. Within days of the sighting, a Canberra family who had described seeing a bright object in the pre-dawn sky found themselves fielding calls from television producers, radio programmes and newspapers across Australia. The presence of a home video recording gave the story a level of visibility that many other ACT sighting reports never achieved. Yet the resulting publicity also changed how the case was perceived. What began as a cautious account from witnesses with an open mind was rapidly reframed as a national UFO story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_kambah_video_sightin_640f76_ivanisevic_media_pre_ca63c8-Illustration-1-dark.svg" | relative_url }}" alt="Media Rush illustration 1" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_kambah_video_sightin_640f76_ivanisevic_media_pre_ca63c8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_kambah_video_sightin_640f76_ivanisevic_media_pre_ca63c8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,7 +264,7 @@ For historians of ACT UFO reporting, the episode is a useful case study in the g
 
 ## The local report that triggered national attention
 
-The most revealing contemporary account appeared only a few days after the sighting. According to *The Canberra Times*, the Ivanisevics had “hardly had a moment’s peace” after their experience was reported. Television crews, radio stations and newspapers were constantly contacting the family, while Zoran Ivanisevic received invitations to appear on nationally broadcast programmes including *Good Morning Australia*, *Midday* and *Today*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
+The most revealing contemporary account appeared only a few days after the sighting. According to *The Canberra Times*, the Ivanisevics had “hardly had a moment’s peace” after their experience was reported. Television crews, radio stations and newspapers were constantly contacting the family, while Zoran Ivanisevic received invitations to appear on nationally broadcast programmes including *Good Morning Australia*, *Midday* and *Today*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
 
 This reaction was unusual for a suburban ACT sighting. Many reports of strange lights were confined to local conversation or specialist UFO groups. The Kambah case escaped that pattern because it included a videotape. In 1990, consumer video footage was still uncommon enough to be newsworthy in its own right. Editors could promote a story not merely as a witness account but as a sighting that viewers might be able to see for themselves.
 
@@ -277,7 +277,7 @@ The result was a rapid escalation in attention. Instead of remaining a local Can
 
 One of the clearest lessons from the Ivanisevic case is that different media outlets could present the same event in very different ways.
 
-The more restrained reporting emphasised uncertainty. Contemporary accounts noted that Zoran Ivanisevic did not claim to have seen a flying saucer and said he kept an open mind about what the object might have been. That framing presented the family as cautious observers rather than committed believers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
+The more restrained reporting emphasised uncertainty. Contemporary accounts noted that Zoran Ivanisevic did not claim to have seen a flying saucer and said he kept an open mind about what the object might have been. That framing presented the family as cautious observers rather than committed believers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
 
 Other reports focused more heavily on the possibility of a UFO. Once a story entered the broader media market, the most eye-catching elements naturally attracted attention: a bright object, unusual video images and suggestions that the camera revealed details not obvious to the naked eye. The shift was subtle but important. Readers encountering only the more sensational versions could easily conclude that the family had made stronger claims than they actually had.
 
@@ -293,7 +293,7 @@ Media attention did more than alter public perception. It also changed the envir
 
 By the time public reports appeared, the family was dealing with repeated requests for interviews. Witnesses under those conditions often end up repeating their accounts many times to different audiences. Researchers studying witness testimony have long noted that repeated retelling can unintentionally reshape how events are remembered and described.
 
-The Kambah case also attracted official attention. A Royal Australian Air Force investigator visited the family, copied the videotape and conducted a structured interview using prepared questions. That official involvement gave the story additional credibility in the eyes of many readers. However, the existence of an investigation did not mean the object had been identified as extraordinary; it simply meant the report had become prominent enough to warrant examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
+The Kambah case also attracted official attention. A Royal Australian Air Force investigator visited the family, copied the videotape and conducted a structured interview using prepared questions. That official involvement gave the story additional credibility in the eyes of many readers. However, the existence of an investigation did not mean the object had been identified as extraordinary; it simply meant the report had become prominent enough to warrant examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
 
 The sequence is important. Publicity came first, then wider attention, then a more visible investigation. In many readers’ minds, the investigation itself became evidence that something remarkable had occurred, even though investigators routinely examine reports without reaching extraordinary conclusions.
 
@@ -312,7 +312,7 @@ Several points can reasonably be drawn from the attention the family received:
 * The witnesses were willing to be publicly identified.
 * They allowed their video to be examined.
 * Contemporary reports portrayed them as cooperative rather than evasive.
-* The sighting attracted enough notice to prompt official follow-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
+* The sighting attracted enough notice to prompt official follow-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
 
 </div>
 
@@ -328,7 +328,7 @@ The Ivanisevic family's experience demonstrates this tension. Their readiness to
 
 Within the broader history of UFO reports in the [Australian Capital Territory]({{ 'australian-capital-territory/' | relative_url }}), the Kambah sighting is best remembered as a media event rather than a decisive mystery.
 
-The most enduring lesson is not what appeared in the sky over Kambah, but what happened afterwards. A family report accompanied by video footage moved from a suburban Canberra observation to national television discussion within days. The story illustrates how late-RAAF-era UFO reporting worked: local witnesses, rapid newspaper coverage, broadcast media interest and official follow-up all interacted to shape public understanding of the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
+The most enduring lesson is not what appeared in the sky over Kambah, but what happened afterwards. A family report accompanied by video footage moved from a suburban Canberra observation to national television discussion within days. The story illustrates how late-RAAF-era UFO reporting worked: local witnesses, rapid newspaper coverage, broadcast media interest and official follow-up all interacted to shape public understanding of the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</span></span></span>
 
 Looking back, the publicity arguably became more important than the sighting itself. The surviving evidence remains limited, and later researchers have had little additional material with which to assess the object. What remains unusually well documented is the speed with which media attention transformed an ordinary family report into a national UFO story.
 
@@ -339,194 +339,194 @@ That transformation is why the Ivanisevic case remains a useful episode in ACT U
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a family sighting became TV news. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a family sighting became TV news. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how UFO reports move from witness accounts into public debate and media coverage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how UFO reports move from witness accounts into public debate and media coverage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines witness reports and the distinction between publicity, testimony and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness reports and the distinction between publicity, testimony and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explores how UFO cases were investigated and presented to the public.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO cases were investigated and presented to the public.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers evaluate how media attention and public belief can differ from evidential strength.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate how media attention and public belief can differ from evidential strength.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Landscape Painting Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/0kkAAeSw4ulo1amc/s-l225.jpg" alt="Listing image for UFO Abduction Landscape Painting Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Landscape Painting Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm"><img src="{{ '/assets/images/marketplace-covers/bce7e59e976a632258ff.jpg' | relative_url }}" alt="Listing image for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-rush-how-a-family-sighting-became-tv-news-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-family-sighting-became-tv-news-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-a-family-sighting-became-tv-news-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ That transformation is why the Ivanisevic case remains a useful episode in ACT U
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ That transformation is why the Ivanisevic case remains a useful episode in ACT U
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ That transformation is why the Ivanisevic case remains a useful episode in ACT U
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ That transformation is why the Ivanisevic case remains a useful episode in ACT U
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ That transformation is why the Ivanisevic case remains a useful episode in ACT U
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,81 +732,81 @@ That transformation is why the Ivanisevic case remains a useful episode in ACT U
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/131180389</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/131180389" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/131180389</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Feb 1990 - &#x27;No peace&#x27; since object sighted - TroveThe Ivanisevics, of Kambah, have hardly had a moment&#x27;s peace since their sighti...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/page/12971339" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/page/12971339</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canberra Times (ACT: 1926 - 1995) - 12 Feb 1990 - TroveBig TV: giving gore a new dimension; Music &#x27;wizard&#x27; focus of series; Mime on show...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/page/12971339" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/page/12971339</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canberra Times (ACT: 1926 - 1995) - 12 Feb 1990 - TroveBig TV: giving gore a new dimension; Music &#x27;wizard&#x27; focus of series; Mime on show...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19921012-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19921012-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Straits Times, 12 October 199212 Oct 1992 — NewspaperSG is an online resource of over 200 Singapore and Malaya newspapers published s...</p></details>
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19921012-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19921012-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Straits Times, 12 October 199212 Oct 1992 — NewspaperSG is an online resource of over 200 Singapore and Malaya newspapers published s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: library.act.gov.au  
    Title: act.gov.au Local and regional newspapers  
-   Link: <a href="https://www.library.act.gov.au/find/history/search/local_and_regional_newspapers" target="_blank" rel="noopener noreferrer nofollow">https://www.library.act.gov.au/find/history/search/local_and_regional_newspapers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and regional newspapers - Libraries ACTAre you after recent newspapers? Here is a list of our current holdings. Or you can browse some of...</p></details>
+   Link:<a href="https://www.library.act.gov.au/find/history/search/local_and_regional_newspapers" target="_blank" rel="noopener noreferrer nofollow">https://www.library.act.gov.au/find/history/search/local_and_regional_newspapers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and regional newspapers - Libraries ACTAre you after recent newspapers? Here is a list of our current holdings. Or you can browse some of...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufal.mff.cuni.cz  
-   Link: <a href="https://ufal.mff.cuni.cz/~marecek/npfl097/assignment2/data_small_gold.txt" target="_blank" rel="noopener noreferrer nofollow">https://ufal.mff.cuni.cz/~marecek/npfl097/assignment2/data_small_gold.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cuni.czdata_small_gold.txt... had ruled out participation in such an invasion force, which has been suggested as an option by Clinton and...</p></details>
+   Link:<a href="https://ufal.mff.cuni.cz/~marecek/npfl097/assignment2/data_small_gold.txt" target="_blank" rel="noopener noreferrer nofollow">https://ufal.mff.cuni.cz/~marecek/npfl097/assignment2/data_small_gold.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cuni.czdata_small_gold.txt... had ruled out participation in such an invasion force, which has been suggested as an option by Clinton and...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: canberratimes.com.au  
-   Link: <a href="https://www.canberratimes.com.au/story/6045185/the-canberra-times-90th-anniversary-1926-2016-how-the-newspaper-front-page-has-changed/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/story/6045185/the-canberra-times-90th-anniversary-1926-2016-how-the-newspaper-front-page-has-changed/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canberra Times&#x27; 90th anniversary, 1926-20162 Sept 2016 — The Canberra Times&#x27; 90th anniversary, 1926-2016: How the newspaper front pag...</p></details>
+   Link:<a href="https://www.canberratimes.com.au/story/6045185/the-canberra-times-90th-anniversary-1926-2016-how-the-newspaper-front-page-has-changed/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/story/6045185/the-canberra-times-90th-anniversary-1926-2016-how-the-newspaper-front-page-has-changed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canberra Times&#x27; 90th anniversary, 1926-20162 Sept 2016 — The Canberra Times&#x27; 90th anniversary, 1926-2016: How the newspaper front pag...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: canberratimes.com.au  
    Title: things i did in the 80s and 90s that my daughter finds mortifying  
-   Link: <a href="https://www.canberratimes.com.au/story/6147697/things-i-did-in-the-80s-and-90s-that-my-daughter-finds-mortifying/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/story/6147697/things-i-did-in-the-80s-and-90s-that-my-daughter-finds-mortifying/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Things I did in the &#x27;80s (and &#x27;90s) that my daughter finds...26 May 2019 — From hand-knitted jumpers and flouncy &#x27;deb&#x27; dresses to comedy...</p></details>
+   Link:<a href="https://www.canberratimes.com.au/story/6147697/things-i-did-in-the-80s-and-90s-that-my-daughter-finds-mortifying/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/story/6147697/things-i-did-in-the-80s-and-90s-that-my-daughter-finds-mortifying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Things I did in the &#x27;80s (and &#x27;90s) that my daughter finds...26 May 2019 — From hand-knitted jumpers and flouncy &#x27;deb&#x27; dresses to comedy...</p></details>
    Published: May 2019  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://www.britishnewspaperarchive.co.uk/search/advanced" target="_blank" rel="noopener noreferrer nofollow">https://www.britishnewspaperarchive.co.uk/search/advanced</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced SearchWhether you are a researcher, historian or you simply want to know more about Britain&#x27;s history, take this fantastic oppor...</p></details>
+   Link:<a href="https://www.britishnewspaperarchive.co.uk/search/advanced" target="_blank" rel="noopener noreferrer nofollow">https://www.britishnewspaperarchive.co.uk/search/advanced</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced SearchWhether you are a researcher, historian or you simply want to know more about Britain&#x27;s history, take this fantastic oppor...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: familysearch.org  
-   Link: <a href="https://www.familysearch.org/en/wiki/Australian_Capital_Territory_Newspapers" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/wiki/Australian_Capital_Territory_Newspapers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Capital Territory NewspapersObituaries. Ryerson Index of Death, funeral and legal notices and obituaries in The Canberra Times...</p></details>
+   Link:<a href="https://www.familysearch.org/en/wiki/Australian_Capital_Territory_Newspapers" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/wiki/Australian_Capital_Territory_Newspapers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Capital Territory NewspapersObituaries. Ryerson Index of Death, funeral and legal notices and obituaries in The Canberra Times...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: canberratimes.com.au  
    Title: on canberras pulse for 95 years the times marks a milestone  
-   Link: <a href="https://www.canberratimes.com.au/story/7412792/on-canberras-pulse-for-95-years-the-times-marks-a-milestone/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/story/7412792/on-canberras-pulse-for-95-years-the-times-marks-a-milestone/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>keeping track of the capital&#x27;s pulse, from struggles to triumphs3 Sept 2021 — From a cluttered newsroom in Mort Street to remote work, Th...</p></details>
+   Link:<a href="https://www.canberratimes.com.au/story/7412792/on-canberras-pulse-for-95-years-the-times-marks-a-milestone/" target="_blank" rel="noopener noreferrer nofollow">https://www.canberratimes.com.au/story/7412792/on-canberras-pulse-for-95-years-the-times-marks-a-milestone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>keeping track of the capital&#x27;s pulse, from struggles to triumphs3 Sept 2021 — From a cluttered newsroom in Mort Street to remote work, Th...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Professor Garry Nolan & Ross Coulthart: Full interview | UFO UAP News  
-   Link: <a href="https://www.youtube.com/watch?v=XR0JtbuLhPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XR0JtbuLhPo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO media hype sensationalism news reporting Sightings Surge: Media Hype Fuels Community&#x27;s Unexplained Encounters #shorts Imitation Theory...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XR0JtbuLhPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XR0JtbuLhPo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO media hype sensationalism news reporting Sightings Surge: Media Hype Fuels Community&#x27;s Unexplained Encounters #shorts Imitation Theory...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: research.brighton.ac.uk  
    Title: brighton.ac.uk Narrating the war experience  
-   Link: <a href="https://research.brighton.ac.uk/files/6413526/Melina_Sadikovic_Final_Thesis_19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.brighton.ac.uk/files/6413526/Melina_Sadikovic_Final_Thesis_19.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The politics of war memory...by M SADIKOVIĆ · Cited by 5 — The last three decades have seen a growing research interest in a &#x27;memory boo...</p></details>
+   Link:<a href="https://research.brighton.ac.uk/files/6413526/Melina_Sadikovic_Final_Thesis_19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.brighton.ac.uk/files/6413526/Melina_Sadikovic_Final_Thesis_19.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The politics of war memory...by M SADIKOVIĆ · Cited by 5 — The last three decades have seen a growing research interest in a &#x27;memory boo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/kcircle/posts/5304128209672900/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/kcircle/posts/5304128209672900/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uestions. Please take a look at the quizmasters&#x27;...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/kcircle/posts/5304128209672900/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/kcircle/posts/5304128209672900/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uestions. Please take a look at the quizmasters&#x27;...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CEMkVSmI5L8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CEMkVSmI5L8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CEMkVSmI5L8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CEMkVSmI5L8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart...</p></details>

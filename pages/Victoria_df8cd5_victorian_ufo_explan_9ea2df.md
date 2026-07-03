@@ -290,11 +290,11 @@ Victorian UFO explanations are most useful when they are treated as tests, not v
 
 
 <img src="{{ "/assets/images/Victoria_df8cd5_victorian_ufo_explan_9ea2df-overview.webp" | relative_url }}" alt="Overview image for Explanations" loading="eager" decoding="sync" fetchpriority="high">
-The strongest mundane explanations in Victoria are not embarrassing footnotes. They are central to understanding why some cases endure. [Westall]({{ 'westall/' | relative_url }}) remains disputed partly because a balloon explanation fits the Cold War setting and some visual descriptions, while witnesses contest the speed, behaviour and alleged official response. Valentich remains powerful because a night-sky and human-factors explanation is plausible, yet the pilot’s disappearance itself was never neatly resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsState Library Victoria – Strange lights in the sky: The Westall UFO event, 1966...</span></span></span>
+The strongest mundane explanations in Victoria are not embarrassing footnotes. They are central to understanding why some cases endure. [Westall]({{ 'westall/' | relative_url }}) remains disputed partly because a balloon explanation fits the Cold War setting and some visual descriptions, while witnesses contest the speed, behaviour and alleged official response. Valentich remains powerful because a night-sky and human-factors explanation is plausible, yet the pilot’s disappearance itself was never neatly resolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsState Library Victoria – Strange lights in the sky: The Westall UFO event, 1966...</span></span></span>
 
 ## Why “explained” does not always mean “settled”
 
-The Royal Australian Air Force once recorded UFO reports partly because unidentified objects could, in principle, matter for national security. The National Archives of Australia notes that many reports by the public were identified as aircraft, imagination, the Moon, Venus or other ordinary celestial objects, while some reports by trained defence personnel were harder to dismiss. The RAAF stopped investigating UFO sightings in 1994, after concluding that only about 3 per cent of reports could not be explained by natural phenomena and that those [unexplained]({{ 'unexplained/' | relative_url }}) cases presented little or no security threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+The Royal Australian Air Force once recorded UFO reports partly because unidentified objects could, in principle, matter for national security. The National Archives of Australia notes that many reports by the public were identified as aircraft, imagination, the Moon, Venus or other ordinary celestial objects, while some reports by trained defence personnel were harder to dismiss. The RAAF stopped investigating UFO sightings in 1994, after concluding that only about 3 per cent of reports could not be explained by natural phenomena and that those [unexplained]({{ 'unexplained/' | relative_url }}) cases presented little or no security threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 That official pattern matters for Victoria. It means that a report can be sincerely made, carefully archived and still turn out to involve ordinary sky phenomena. It also means that “unexplained” is not the same as extraordinary. A case may remain unresolved because [records]({{ 'records/' | relative_url }}) are missing, witnesses disagree, weather data is incomplete, or no physical evidence survives. In Victorian UFO history, the difference between “identified”, “probably explained” and “still uncertain” is often more important than the more dramatic question of whether something was alien.
 
@@ -317,17 +317,17 @@ Those questions are especially useful for Westall and Valentich because both cas
 <img src="{{ "/assets/images/Victoria_df8cd5_victorian_ufo_explan_9ea2df-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_victorian_ufo_explan_9ea2df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_victorian_ufo_explan_9ea2df-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The HIBAL balloon theory at Westall
 
-Westall is the Victorian case where the balloon explanation matters most. On 6 April 1966, students and staff at Westall High School and nearby Westall Primary School in Clayton South reported seeing one or more dazzling silver objects near The Grange. State Library Victoria’s account of contemporary newspaper coverage describes reports of silvery objects moving towards The Grange, witness descriptions of a round or silver-grey object, and small aircraft seen in the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsState Library Victoria – Strange lights in the sky: The Westall UFO event, 1966...</span></span></span>
+Westall is the Victorian case where the balloon explanation matters most. On 6 April 1966, students and staff at Westall High School and nearby Westall Primary School in Clayton South reported seeing one or more dazzling silver objects near The Grange. State Library Victoria’s account of contemporary newspaper coverage describes reports of silvery objects moving towards The Grange, witness descriptions of a round or silver-grey object, and small aircraft seen in the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsState Library Victoria – Strange lights in the sky: The Westall UFO event, 1966...</span></span></span>
 
-The simplest early explanation was a weather balloon. ABC’s 2026 anniversary report notes that *The Age* reported at the time that the Weather Bureau had released a balloon at Laverton at 8:30am and that wind could have carried it towards the reported sighting area. That is a classic UFO mechanism: a bright, wind-driven balloon at altitude can look metallic, change apparent shape as it turns, and seem stranger when aircraft are seen nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO sighting at Westall High School say it&#x27;s time for answers - ABC News...</span></span></span>
+The simplest early explanation was a weather balloon. ABC’s 2026 anniversary report notes that *The Age* reported at the time that the Weather Bureau had released a balloon at Laverton at 8:30am and that wind could have carried it towards the reported sighting area. That is a classic UFO mechanism: a bright, wind-driven balloon at altitude can look metallic, change apparent shape as it turns, and seem stranger when aircraft are seen nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO sighting at Westall High School say it&#x27;s time for answers - ABC News...</span></span></span>
 
-The more distinctive Victorian version is the [HIBAL theory]({{ 'hibal-theory/' | relative_url }}). Project HIBAL was a joint Australian-American high-altitude balloon programme based at Mildura, in north-west Victoria, used to sample the upper atmosphere for nuclear-test residue. Mildura Rural City Council describes the Australian Balloon Launch Station as operating from 1960 to 1981, while ABC reports that HIBAL balloons could reach about 100 metres in diameter, carry a roughly 300-kilogram payload, and rise above 30 kilometres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mildura.vic.gov.au/Explore/Libraries/Discover-local-history/Project-HIBAL-John-Sutcliffe-Collection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mildura.vic.gov.au">[mildura.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mildura.vic.gov.au</span><span class="citation-popover-title">Project HIBAL</span><span class="citation-popover-snippet">Project HIBAL</span></span></span>
+The more distinctive Victorian version is the [HIBAL theory]({{ 'hibal-theory/' | relative_url }}). Project HIBAL was a joint Australian-American high-altitude balloon programme based at Mildura, in north-west Victoria, used to sample the upper atmosphere for nuclear-test residue. Mildura Rural City Council describes the Australian Balloon Launch Station as operating from 1960 to 1981, while ABC reports that HIBAL balloons could reach about 100 metres in diameter, carry a roughly 300-kilogram payload, and rise above 30 kilometres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mildura.vic.gov.au/Explore/Libraries/Discover-local-history/Project-HIBAL-John-Sutcliffe-Collection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mildura.vic.gov.au">[mildura.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mildura.vic.gov.au</span><span class="citation-popover-title">Project HIBAL</span><span class="citation-popover-snippet">Project HIBAL</span></span></span>
 
-That makes HIBAL a much more serious candidate than a hand-waved “weather balloon”. These were large, reflective, Cold War-era devices with payloads, parachutes and recovery aircraft. ABC’s HIBAL history notes that recovery was not always simple: crews tracked balloons from aircraft, payloads could be dragged by parachutes, and some balloons were reported as ending up far from their intended recovery areas, including New Zealand and Queensland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2023-04-09/hibal-australia-cold-war-history-us-secret-balloon-victoria/102057980" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+That makes HIBAL a much more serious candidate than a hand-waved “weather balloon”. These were large, reflective, Cold War-era devices with payloads, parachutes and recovery aircraft. ABC’s HIBAL history notes that recovery was not always simple: crews tracked balloons from aircraft, payloads could be dragged by parachutes, and some balloons were reported as ending up far from their intended recovery areas, including New Zealand and Queensland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2023-04-09/hibal-australia-cold-war-history-us-secret-balloon-victoria/102057980" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
-Applied to Westall, the HIBAL theory tries to explain several features at once: a large silver object, nearby aircraft, possible official sensitivity, and the Cold War atmosphere in which government activity around aerial technology was not always publicly explained. ABC’s Westall anniversary report says the HIBAL theory has been raised because enormous silver balloons launched from Mildura measured radioactivity in the stratosphere after nuclear tests, and because escaped balloons could plausibly account for government concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO sighting at Westall High School say it&#x27;s time for answers - ABC News...</span></span></span>
+Applied to Westall, the HIBAL theory tries to explain several features at once: a large silver object, nearby aircraft, possible official sensitivity, and the Cold War atmosphere in which government activity around aerial technology was not always publicly explained. ABC’s Westall anniversary report says the HIBAL theory has been raised because enormous silver balloons launched from Mildura measured radioactivity in the stratosphere after nuclear tests, and because escaped balloons could plausibly account for government concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO sighting at Westall High School say it&#x27;s time for answers - ABC News...</span></span></span>
 
-The difficulty is that the HIBAL explanation is plausible without being proven. ABC interviewed John Sutcliffe, a former Mildura HIBAL team member, who said he had no recollection of a HIBAL balloon coming down in Melbourne that day and was nearly certain no HIBAL balloon was involved. The same report also notes that Westall researcher Shane Ryan disputed the Laverton weather-balloon track on wind-data grounds, while sceptic Richard Saunders considered a balloon the likely candidate under a simpler-explanation approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO sighting at Westall High School say it&#x27;s time for answers - ABC News...</span></span></span>
+The difficulty is that the HIBAL explanation is plausible without being proven. ABC interviewed John Sutcliffe, a former Mildura HIBAL team member, who said he had no recollection of a HIBAL balloon coming down in Melbourne that day and was nearly certain no HIBAL balloon was involved. The same report also notes that Westall researcher Shane Ryan disputed the Laverton weather-balloon track on wind-data grounds, while sceptic Richard Saunders considered a balloon the likely candidate under a simpler-explanation approach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO sighting at Westall High School say it&#x27;s time for answers - ABC News...</span></span></span>
 
 That leaves Westall in a familiar but important category: **plausibly explained in part, not conclusively closed**. A balloon may explain a bright silver object in the sky. It may even explain aircraft interest. It does not automatically explain every later claim about landing marks, official warnings, multiple objects, rapid departure or witness memory. Some of those details may be genuine observations; some may be errors; some may be later additions shaped by retelling. The HIBAL theory is therefore best treated as a strong mundane hypothesis, not as a magic key.
 
@@ -336,11 +336,11 @@ That leaves Westall in a familiar but important category: **plausibly explained 
 
 ## Planets and night-sky confusion in Valentich
 
-Frederick Valentich’s disappearance is different because the central event was not a schoolyard sighting but a fatal [aviation]({{ 'aviation/' | relative_url }}) mystery. On 21 October 1978, Valentich departed Moorabbin Airport in a Cessna 182L on a [night flight]({{ 'night-flight/' | relative_url }}) towards King Island. Before contact was lost over Bass Strait, he reported an unidentified object with bright lights above him and engine rough running. The Department of Transport investigation did not determine a cause, and the case was treated as presumed fatal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aviation-safety.net/wikibase/wiki.php?id=166155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[aviation-safety.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Open source on aviation-safety.net.</span></span></span>
+Frederick Valentich’s disappearance is different because the central event was not a schoolyard sighting but a fatal [aviation]({{ 'aviation/' | relative_url }}) mystery. On 21 October 1978, Valentich departed Moorabbin Airport in a Cessna 182L on a [night flight]({{ 'night-flight/' | relative_url }}) towards King Island. Before contact was lost over Bass Strait, he reported an unidentified object with bright lights above him and engine rough running. The Department of Transport investigation did not determine a cause, and the case was treated as presumed fatal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aviation-safety.net/wikibase/wiki.php?id=166155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[aviation-safety.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Open source on aviation-safety.net.</span></span></span>
 
-The best-known mundane explanation combines astronomy and pilot human factors. The National Archives says Venus, Mars, Jupiter and Antares were bright and visible in a diamond formation at the time, and that this conjunction, combined with Valentich’s relative inexperience, may have led him to imagine a craft above him and become distracted from his instruments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+The best-known mundane explanation combines astronomy and pilot human factors. The National Archives says Venus, Mars, Jupiter and Antares were bright and visible in a diamond formation at the time, and that this conjunction, combined with Valentich’s relative inexperience, may have led him to imagine a craft above him and become distracted from his instruments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
-Flight Safety Australia, published by the Civil Aviation Safety Authority, gives the more detailed version. It summarises the argument by astronomer and retired US Air Force pilot James McGaha that Valentich would almost certainly have seen Venus, Mars, Mercury and Antares. McGaha argued that viewers often “connect the dots”, turning bright separated lights into a perceived shape, and that Valentich’s report of an object orbiting him could instead reflect his own aircraft entering a disorientating turn or spiral dive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[flightsafetyaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Leaving this world &#124; Flight Safety Australia</span><span class="citation-popover-snippet">Leaving this world &#124; Flight Safety Australia</span></span></span>
+Flight Safety Australia, published by the Civil Aviation Safety Authority, gives the more detailed version. It summarises the argument by astronomer and retired US Air Force pilot James McGaha that Valentich would almost certainly have seen Venus, Mars, Mercury and Antares. McGaha argued that viewers often “connect the dots”, turning bright separated lights into a perceived shape, and that Valentich’s report of an object orbiting him could instead reflect his own aircraft entering a disorientating turn or spiral dive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[flightsafetyaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Leaving this world &#124; Flight Safety Australia</span><span class="citation-popover-snippet">Leaving this world &#124; Flight Safety Australia</span></span></span>
 
 This explanation matters because it is not simply “he saw Venus”. It is a chain:
 
@@ -355,9 +355,9 @@ This explanation matters because it is not simply “he saw Venus”. It is a ch
 
 </div>
 
-That sequence is plausible because aviation history contains many accidents in which pilots trusted visual impressions over instruments. It also fits the caution offered by Flight Safety Australia: expectation bias, spatial disorientation and distraction can be deadly regardless of a pilot’s beliefs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[flightsafetyaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Leaving this world &#124; Flight Safety Australia</span><span class="citation-popover-snippet">Leaving this world &#124; Flight Safety Australia</span></span></span>
+That sequence is plausible because aviation history contains many accidents in which pilots trusted visual impressions over instruments. It also fits the caution offered by Flight Safety Australia: expectation bias, spatial disorientation and distraction can be deadly regardless of a pilot’s beliefs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[flightsafetyaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Leaving this world &#124; Flight Safety Australia</span><span class="citation-popover-snippet">Leaving this world &#124; Flight Safety Australia</span></span></span>
 
-Yet Valentich is not neatly “solved” in the way a misidentified planet report might be. The aircraft and pilot were not recovered at the time; later debris evidence was limited; the official conclusion did not identify a cause; and some investigators and witnesses continued to argue for a UFO-related interpretation. ABC reported that a coronial inquiry returned an open verdict and that the disappearance inspired continuing debate, including claims of wider UFO sightings around the period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">disappearance frederick valentich inspired kettering incident</span><span class="citation-popover-snippet">disappearance frederick valentich inspired kettering incident</span></span></span>
+Yet Valentich is not neatly “solved” in the way a misidentified planet report might be. The aircraft and pilot were not recovered at the time; later debris evidence was limited; the official conclusion did not identify a cause; and some investigators and witnesses continued to argue for a UFO-related interpretation. ABC reported that a coronial inquiry returned an open verdict and that the disappearance inspired continuing debate, including claims of wider UFO sightings around the period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">disappearance frederick valentich inspired kettering incident</span><span class="citation-popover-snippet">disappearance frederick valentich inspired kettering incident</span></span></span>
 
 The careful reading is therefore: the astronomical and disorientation explanation is one of the strongest ordinary accounts of the Valentich case, but it explains the reported lights and possible loss-of-control pathway better than it explains the emotional force of the disappearance. That emotional force is why Valentich remains one of Victoria’s defining UFO-linked aviation cases.
 
@@ -365,13 +365,13 @@ The careful reading is therefore: the astronomical and disorientation explanatio
 <img src="{{ "/assets/images/Victoria_df8cd5_victorian_ufo_explan_9ea2df-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_victorian_ufo_explan_9ea2df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_victorian_ufo_explan_9ea2df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aircraft, drones and military-looking objects
 
-Aircraft explanations recur in Victorian UFO stories because the state’s key cases sit near aviation infrastructure. Westall occurred near Moorabbin Airport, and witnesses or newspapers described small aircraft in the area. State Library Victoria notes that an anonymous account republished in the *Australian Flying Saucer Review* speculated that aircraft seen near Westall may have been military aircraft from nearby Moorabbin, while later discussion has considered conventional aircraft, target drones and high-altitude aircraft as possible suspects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsState Library Victoria – Strange lights in the sky: The Westall UFO event, 1966...</span></span></span>
+Aircraft explanations recur in Victorian UFO stories because the state’s key cases sit near aviation infrastructure. Westall occurred near Moorabbin Airport, and witnesses or newspapers described small aircraft in the area. State Library Victoria notes that an anonymous account republished in the *Australian Flying Saucer Review* speculated that aircraft seen near Westall may have been military aircraft from nearby Moorabbin, while later discussion has considered conventional aircraft, target drones and high-altitude aircraft as possible suspects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsState Library Victoria – Strange lights in the sky: The Westall UFO event, 1966...</span></span></span>
 
-At Westall, aircraft explanations can work in two ways. First, witnesses may have seen ordinary aircraft and interpreted their relationship to a balloon or other object as a chase. Second, an aircraft towing or tracking equipment could itself have contributed to the odd visual scene. ABC’s 2026 report mentions the Jindivik radio-controlled target drone and U-2 high-altitude aircraft as suspects that have been raised, though it also notes the objection that such machines look like aircraft, with wings and fuselages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO sighting at Westall High School say it&#x27;s time for answers - ABC News...</span></span></span>
+At Westall, aircraft explanations can work in two ways. First, witnesses may have seen ordinary aircraft and interpreted their relationship to a balloon or other object as a chase. Second, an aircraft towing or tracking equipment could itself have contributed to the odd visual scene. ABC’s 2026 report mentions the Jindivik radio-controlled target drone and U-2 high-altitude aircraft as suspects that have been raised, though it also notes the objection that such machines look like aircraft, with wings and fuselages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO sighting at Westall High School say it&#x27;s time for answers - ABC News...</span></span></span>
 
 This is where critique risk matters. A sceptical explanation can fail if it explains only a generic “thing in the sky” while ignoring the specific witness claim. If a witness describes a hovering silver disc descending behind trees, simply naming a U-2 does not do enough. If another witness describes small planes circling a bright object, aircraft plus balloon becomes more credible. The right question is not “could an aircraft have been nearby?” but “which part of the report does the aircraft explain?”
 
-For Valentich, aircraft explanations also have limits. Melbourne Flight Service reportedly told Valentich there was no known traffic at his altitude in the area, and the mystery intensified because the pilot framed the lights as another aircraft before saying it was not an aircraft. Aviation Safety Network summarises the Department of Transport’s sceptical stance as including disorientation, reflections from water or nearby island lights, and the absence of a determined cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aviation-safety.net/wikibase/wiki.php?id=166155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[aviation-safety.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Open source on aviation-safety.net.</span></span></span>
+For Valentich, aircraft explanations also have limits. Melbourne Flight Service reportedly told Valentich there was no known traffic at his altitude in the area, and the mystery intensified because the pilot framed the lights as another aircraft before saying it was not an aircraft. Aviation Safety Network summarises the Department of Transport’s sceptical stance as including disorientation, reflections from water or nearby island lights, and the absence of a determined cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aviation-safety.net/wikibase/wiki.php?id=166155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[aviation-safety.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Open source on aviation-safety.net.</span></span></span>
 
 That makes aircraft a recurring but uneven explanation in Victoria. It is often relevant because the state’s UFO reports intersect with busy skies, training routes and airports. It is rarely enough by itself unless the time, route, altitude, appearance and witness angle line up.
 
@@ -380,11 +380,11 @@ That makes aircraft a recurring but uneven explanation in Victoria. It is often 
 
 ## Why plausible explanations are still contested
 
-The most persistent Victorian UFO arguments are not usually about whether balloons, planets or aircraft exist. They are about whether those mechanisms fit the details well enough. Westall witnesses who reject the balloon theory often focus on speed, apparent descent or landing, the number of objects, and alleged official pressure. ABC’s 2026 Westall report includes claims from teacher Andrew Greenwood that he was warned not to speak, while also presenting sceptical interpretations and the HIBAL counterpoint from John Sutcliffe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO sighting at Westall High School say it&#x27;s time for answers - ABC News...</span></span></span>
+The most persistent Victorian UFO arguments are not usually about whether balloons, planets or aircraft exist. They are about whether those mechanisms fit the details well enough. Westall witnesses who reject the balloon theory often focus on speed, apparent descent or landing, the number of objects, and alleged official pressure. ABC’s 2026 Westall report includes claims from teacher Andrew Greenwood that he was warned not to speak, while also presenting sceptical interpretations and the HIBAL counterpoint from John Sutcliffe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO sighting at Westall High School say it&#x27;s time for answers - ABC News...</span></span></span>
 
-Memory is another contested mechanism. Westall was reported at the time, but many of the richest public accounts were collected decades later. That does not mean witnesses are lying. It does mean later accounts may be affected by reunion discussions, documentaries, media framing, childhood perception and the normal reshaping of memory. State Library Victoria’s summary of contemporary coverage already shows variation in descriptions, including “dazzling silvery” objects, a “round with a hump” shape, silver-grey thickening, and aircraft nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsState Library Victoria – Strange lights in the sky: The Westall UFO event, 1966...</span></span></span>
+Memory is another contested mechanism. Westall was reported at the time, but many of the richest public accounts were collected decades later. That does not mean witnesses are lying. It does mean later accounts may be affected by reunion discussions, documentaries, media framing, childhood perception and the normal reshaping of memory. State Library Victoria’s summary of contemporary coverage already shows variation in descriptions, including “dazzling silvery” objects, a “round with a hump” shape, silver-grey thickening, and aircraft nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsState Library Victoria – Strange lights in the sky: The Westall UFO event, 1966...</span></span></span>
 
-For Valentich, the contest is sharper because the witness died or disappeared during the event. Sceptics can point to bright planets, night-flight risk, spatial disorientation and expectation bias. UFO proponents can point to the pilot’s radioed distress, his description of lights and a metallic-looking object, and the lack of a recovered aircraft at the time. Flight Safety Australia captures the tension well: the simpler explanation is hard to beat, but it is also hard to say exactly what happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[flightsafetyaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Leaving this world &#124; Flight Safety Australia</span><span class="citation-popover-snippet">Leaving this world &#124; Flight Safety Australia</span></span></span>
+For Valentich, the contest is sharper because the witness died or disappeared during the event. Sceptics can point to bright planets, night-flight risk, spatial disorientation and expectation bias. UFO proponents can point to the pilot’s radioed distress, his description of lights and a metallic-looking object, and the lack of a recovered aircraft at the time. Flight Safety Australia captures the tension well: the simpler explanation is hard to beat, but it is also hard to say exactly what happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[flightsafetyaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Leaving this world &#124; Flight Safety Australia</span><span class="citation-popover-snippet">Leaving this world &#124; Flight Safety Australia</span></span></span>
 
 This is why Victorian UFO analysis needs more than debunking slogans. A good explanation should be allowed to be partial. It may explain the first object but not the later rumour. It may explain the sky lights but not the disappearance. It may explain why officials were interested without proving a cover-up. It may also weaken the extraordinary claim even if it does not reconstruct every second of the event.
 
@@ -416,194 +416,194 @@ Balloons, planets and aircraft do not erase Victoria’s UFO history. They defin
 That is the responsible position for a public-facing Victorian UFO page. Westall remains a major state case because witnesses, newspapers, local investigators and later media kept the event alive. Valentich remains a major state case because a pilot disappeared after reporting something he could not identify. But in both cases, ordinary explanations carry real weight. The unresolved residue should be described honestly, not inflated into certainty. The strongest conclusion is not that Victorian UFOs were “just balloons” or “definitely unknown craft”, but that the best cases survive in the gap between plausible explanation and incomplete proof.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UFOs Become Balloons, Planets or Aircraft. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UFOs Become Balloons, Planets or Aircraft. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how UFO reports are investigated and classified, matching a page about distinguishing extraordinary claims from ordinary explana...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO reports are investigated and classified, matching a page about distinguishing extraordinary claims from ordinary explana...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides the believer-side case, helping readers understand why mundane explanations remain contested in major incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the believer-side case, helping readers understand why mundane explanations remain contested in major incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Rabbit Hole on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1R-UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Escaping the Rabbit Hole" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Rabbit Hole">Escaping the Rabbit Hole</a>
-        </h4>
-        <p class="fr-book-author">By Mick West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Rabbit Hole on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1R-UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Escaping the Rabbit Hole" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Rabbit Hole">Escaping the Rabbit Hole</a>
+</h4>
+<p class="fr-book-author">By Mick West</p>
         
-        <p class="fr-book-desc">Covers critical thinking, misidentifications, and evaluating extraordinary claims including UFO-related topics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers critical thinking, misidentifications, and evaluating extraordinary claims including UFO-related topics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines modern UFO claims and evidence, providing context for debates over identification versus mystery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern UFO claims and evidence, providing context for debates over identification versus mystery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Escaping the Rabbit Hole</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Escaping the Rabbit Hole</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand"><img src="{{ '/assets/images/marketplace-covers/a4e868e4bd9f69142722.jpg' | relative_url }}" alt="Listing image for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand"><img src="{{ '/assets/images/marketplace-covers/a4e868e4bd9f69142722.jpg' | relative_url }}" alt="Listing image for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription"><img src="{{ '/assets/images/marketplace-covers/17439ca66b8ddc27eec1.jpg' | relative_url }}" alt="Listing image for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Model aircraft display stand 1/48, 1/72. Personalised with your own inscription</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription"><img src="{{ '/assets/images/marketplace-covers/17439ca66b8ddc27eec1.jpg' | relative_url }}" alt="Listing image for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Model aircraft display stand 1/48, 1/72. Personalised with your own inscription</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Transparent"><img src="{{ '/assets/images/marketplace-covers/33a3dfe1acbe0a8145f1.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Transparent" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Transparent</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Transparent"><img src="{{ '/assets/images/marketplace-covers/33a3dfe1acbe0a8145f1.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Transparent" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Transparent</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cfb4ea3791ac1f8a62da.jpg' | relative_url }}" alt="Listing image for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cfb4ea3791ac1f8a62da.jpg' | relative_url }}" alt="Listing image for Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Fighter Alloy Model Plane Aircraft Display Model for Keepsake Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="explanations-40586c-when-ufos-become-balloons-planets-or-aircraft-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -619,7 +619,7 @@ That is the responsible position for a public-facing Victorian UFO page. Westall
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -639,7 +639,7 @@ That is the responsible position for a public-facing Victorian UFO page. Westall
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -671,7 +671,7 @@ That is the responsible position for a public-facing Victorian UFO page. Westall
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -723,7 +723,7 @@ That is the responsible position for a public-facing Victorian UFO page. Westall
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -768,7 +768,7 @@ That is the responsible position for a public-facing Victorian UFO page. Westall
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -809,96 +809,96 @@ That is the responsible position for a public-facing Victorian UFO page. Westall
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: blogs.slv.vic.gov.au  
    Title: strange lights in the sky the westall ufo event 1966  
-   Link: <a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>State Library Victoria BlogsState Library Victoria – Strange lights in the sky: The Westall UFO event, 1966...</p></details>
+   Link:<a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State Library Victoria BlogsState Library Victoria – Strange lights in the sky: The Westall UFO event, 1966...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: naa.gov.au  
    Title: NAAFlying saucers – fact or fiction? | naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mildura.vic.gov.au  
    Title: Project HIBAL  
-   Link: <a href="https://www.mildura.vic.gov.au/Explore/Libraries/Discover-local-history/Project-HIBAL-John-Sutcliffe-Collection" target="_blank" rel="noopener noreferrer nofollow">https://www.mildura.vic.gov.au/Explore/Libraries/Discover-local-history/Project-HIBAL-John-Sutcliffe-Collection</a>  
+   Link:<a href="https://www.mildura.vic.gov.au/Explore/Libraries/Discover-local-history/Project-HIBAL-John-Sutcliffe-Collection" target="_blank" rel="noopener noreferrer nofollow">https://www.mildura.vic.gov.au/Explore/Libraries/Discover-local-history/Project-HIBAL-John-Sutcliffe-Collection</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/wikibase/wiki.php?id=166155" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/wiki.php?id=166155</a>  
+   Link:<a href="https://aviation-safety.net/wikibase/wiki.php?id=166155" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/wiki.php?id=166155</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: flightsafetyaustralia.com  
    Title: Leaving this world | Flight Safety Australia  
-   Link: <a href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/</a>  
+   Link:<a href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO sighting at Westall High School say it&#x27;s time for answers - ABC News...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO sighting at Westall High School say it&#x27;s time for answers - ABC News...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2023-04-09/hibal-australia-cold-war-history-us-secret-balloon-victoria/102057980" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2023-04-09/hibal-australia-cold-war-history-us-secret-balloon-victoria/102057980</a>  
+   Link:<a href="https://www.abc.net.au/news/2023-04-09/hibal-australia-cold-war-history-us-secret-balloon-victoria/102057980" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2023-04-09/hibal-australia-cold-war-history-us-secret-balloon-victoria/102057980</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abc.net.au  
    Title: disappearance frederick valentich inspired kettering incident  
-   Link: <a href="https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428</a>  
+   Link:<a href="https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2026-04-06/the-westall-ufo-mystery-/106528518" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/the-westall-ufo-mystery-/106528518</a>  
+   Link:<a href="https://www.abc.net.au/news/2026-04-06/the-westall-ufo-mystery-/106528518" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/the-westall-ufo-mystery-/106528518</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: abc.net.au  
    Title: australian defence dept says it is not looking at ufos  
-   Link: <a href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652</a>  
+   Link:<a href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652</a>  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Westall Encounter: Australia's Most Profound UFO Sighting  
-   Link: <a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8yxg5BCdAHQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Sighting That 400 Students Were Forced to Forget...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8yxg5BCdAHQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Sighting That 400 Students Were Forced to Forget...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The UFO Sighting That 400 Students Were Forced to Forget  
-   Link: <a href="https://www.youtube.com/watch?v=WXbXsF7Vyhk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WXbXsF7Vyhk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Westall&#x27;s 50-year-old UFO sighting emerges again | 7NEWS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WXbXsF7Vyhk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WXbXsF7Vyhk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Westall&#x27;s 50-year-old UFO sighting emerges again | 7NEWS...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheProjectTV/posts/52-years-on-and-the-reported-ufo-sighting-in-westall-continues-to-draw-community/10155716528468441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheProjectTV/posts/52-years-on-and-the-reported-ufo-sighting-in-westall-continues-to-draw-community/10155716528468441/</a>  
+   Link:<a href="https://www.facebook.com/TheProjectTV/posts/52-years-on-and-the-reported-ufo-sighting-in-westall-continues-to-draw-community/10155716528468441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheProjectTV/posts/52-years-on-and-the-reported-ufo-sighting-in-westall-continues-to-draw-community/10155716528468441/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWxW7PXEvQO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWxW7PXEvQO/</a>  
+   Link:<a href="https://www.instagram.com/p/DWxW7PXEvQO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWxW7PXEvQO/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/1sgfryr/aussie_ufo_short_documentary/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1sgfryr/aussie_ufo_short_documentary/</a>  
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/1sgfryr/aussie_ufo_short_documentary/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1sgfryr/aussie_ufo_short_documentary/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: stratocat.com.ar  
-   Link: <a href="https://stratocat.com.ar/bases/42e.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/bases/42e.htm</a>  
+   Link:<a href="https://stratocat.com.ar/bases/42e.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/bases/42e.htm</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/melbourne/comments/1n6ew1y/dandenong_star_journal_ufo_inquiry_call/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/melbourne/comments/1n6ew1y/dandenong_star_journal_ufo_inquiry_call/</a>  
+   Link:<a href="https://www.reddit.com/r/melbourne/comments/1n6ew1y/dandenong_star_journal_ufo_inquiry_call/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/melbourne/comments/1n6ew1y/dandenong_star_journal_ufo_inquiry_call/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/301761279672585/posts/854668611048513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/301761279672585/posts/854668611048513/</a>  
+   Link:<a href="https://www.facebook.com/groups/301761279672585/posts/854668611048513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/301761279672585/posts/854668611048513/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tahs.org.au  
-   Link: <a href="https://tahs.org.au/wp-content/uploads/2020/07/TAHS-2020.0002.0_Mystery-VH-DSJ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tahs.org.au/wp-content/uploads/2020/07/TAHS-2020.0002.0_Mystery-VH-DSJ.pdf</a>  
+   Link:<a href="https://tahs.org.au/wp-content/uploads/2020/07/TAHS-2020.0002.0_Mystery-VH-DSJ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tahs.org.au/wp-content/uploads/2020/07/TAHS-2020.0002.0_Mystery-VH-DSJ.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/</a>  
+   Link:<a href="https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/</a>  

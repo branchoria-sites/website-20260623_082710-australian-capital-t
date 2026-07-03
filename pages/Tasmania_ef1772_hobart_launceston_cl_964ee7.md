@@ -286,7 +286,7 @@ image: /assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7-overview-socia
 
 ## Introduction
 
-Yes — Tasmania’s UFO reports were clustered, but mostly in the sense that reports gathered around population centres, newspapers, air routes and repeated local retellings rather than around a single proven phenomenon. Hobart and Launceston matter because they were the state’s two main reporting hubs: Hobart had the striking 1959 Hobart Bay and Risdon account, while [northern Tasmania]({{ 'northern-wave/' | relative_url }}) produced a run of post-war reports around Launceston, George Town, Beauty Point, Cressy, Poatina and Trevallyn. The pattern is historically important because it shows how scattered sightings became a wider Tasmanian UFO story. It is not, by itself, evidence of alien visitation. Official summaries often leaned towards astronomical, aircraft, refraction, balloon or bird [explanations]({{ 'explanations-0349ac/' | relative_url }}), while some cases remained memorable because the witnesses were named, technically trained, or linked to aviation and local industry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
+Yes — Tasmania’s UFO reports were clustered, but mostly in the sense that reports gathered around population centres, newspapers, air routes and repeated local retellings rather than around a single proven phenomenon. Hobart and Launceston matter because they were the state’s two main reporting hubs: Hobart had the striking 1959 Hobart Bay and Risdon account, while [northern Tasmania]({{ 'northern-wave/' | relative_url }}) produced a run of post-war reports around Launceston, George Town, Beauty Point, Cressy, Poatina and Trevallyn. The pattern is historically important because it shows how scattered sightings became a wider Tasmanian UFO story. It is not, by itself, evidence of alien visitation. Official summaries often leaned towards astronomical, aircraft, refraction, balloon or bird [explanations]({{ 'explanations-0349ac/' | relative_url }}), while some cases remained memorable because the witnesses were named, technically trained, or linked to aviation and local industry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7-overview.webp" | relative_url }}" alt="Overview image for Clusters" loading="eager" decoding="sync" fetchpriority="high">
@@ -296,7 +296,7 @@ Yes — Tasmania’s UFO reports were clustered, but mostly in the sense that re
 
 That geography matters. Hobart sits around the Derwent, industrial sites, hills, airports and shipping approaches. Launceston and northern Tasmania sit near inland flight paths, the Tamar, Launceston Airport, the Western Tiers and the north coast. These are places where people are outside, where aircraft are visible, where bright planets and meteors may be seen low over ridges or water, and where a local newspaper report can prompt more people to look up.
 
-The archive itself also favours these centres. Libraries Tasmania notes that many Tasmanian historical newspapers are accessible online, with more than 40 historical Tasmanian titles available through Trove; that helps preserve Hobart and Launceston reports more strongly than sightings from smaller, less well-covered settlements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://libraries.tas.gov.au/slat/historic-newspapers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libraries.tas.gov.au">[Libraries Tasmania]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libraries.tas.gov.au</span><span class="citation-popover-title">Libraries Tasmania Historic newspapers</span><span class="citation-popover-snippet">Libraries Tasmania Historic newspapers</span></span></span> The National Library of Australia catalogue also records Keith Roberts’s 2011 volume *Tasmania: a UFO history*, published in Hobart by the Tasmanian UFO Investigation Centre, showing that local civilian collecting later helped turn scattered reports into a state-level UFO record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catalogue.nla.gov.au/catalog/6150730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.nla.gov.au">[National Library of Australia Catalogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
+The archive itself also favours these centres. Libraries Tasmania notes that many Tasmanian historical newspapers are accessible online, with more than 40 historical Tasmanian titles available through Trove; that helps preserve Hobart and Launceston reports more strongly than sightings from smaller, less well-covered settlements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://libraries.tas.gov.au/slat/historic-newspapers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libraries.tas.gov.au">[Libraries Tasmania]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libraries.tas.gov.au</span><span class="citation-popover-title">Libraries Tasmania Historic newspapers</span><span class="citation-popover-snippet">Libraries Tasmania Historic newspapers</span></span></span> The National Library of Australia catalogue also records Keith Roberts’s 2011 volume *Tasmania: a UFO history*, published in Hobart by the Tasmanian UFO Investigation Centre, showing that local civilian collecting later helped turn scattered reports into a state-level UFO record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catalogue.nla.gov.au/catalog/6150730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.nla.gov.au">[National Library of Australia Catalogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7-Illustration-1-dark.svg" | relative_url }}" alt="Clusters illustration 1" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -304,26 +304,26 @@ The archive itself also favours these centres. Libraries Tasmania notes that man
 
 Northern Tasmania’s post-war cluster is not confined to Launceston city. It stretches along the Tamar and north coast and inland towards [Cressy]({{ 'cressy/' | relative_url }}), Longford, Poatina and Campbell Town. That makes it best understood as a northern reporting corridor rather than a single hotspot.
 
-One early example comes from the George Town and Beauty Point area. In a 1953 Examiner item republished by Tasmanian Times, Mr P. Freeman of George Town said he saw a silver object over George Town Bay; the report noted that he had formerly been a Royal Air Force navigator, and he said the object did not resemble an aircraft as he knew it. His young son also reportedly saw it and described it as a spinning dish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tasmaniantimes.com">[Tasmanian Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tasmaniantimes.com</span><span class="citation-popover-title">Tasmanian Times Tas That Was</span><span class="citation-popover-snippet">Tasmanian Times Tas That Was</span></span></span> A related 1954 report said a “flying saucer” seen over Beauty Point was also clearly seen at George Town by Mrs T. Thomas, who said it dived away after her attention was drawn by a loud rumbling noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tasmaniantimes.com">[Tasmanian Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tasmaniantimes.com</span><span class="citation-popover-title">Tasmanian Times Tas That Was</span><span class="citation-popover-snippet">Tasmanian Times Tas That Was</span></span></span>
+One early example comes from the George Town and Beauty Point area. In a 1953 Examiner item republished by Tasmanian Times, Mr P. Freeman of George Town said he saw a silver object over George Town Bay; the report noted that he had formerly been a Royal Air Force navigator, and he said the object did not resemble an aircraft as he knew it. His young son also reportedly saw it and described it as a spinning dish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tasmaniantimes.com">[Tasmanian Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tasmaniantimes.com</span><span class="citation-popover-title">Tasmanian Times Tas That Was</span><span class="citation-popover-snippet">Tasmanian Times Tas That Was</span></span></span> A related 1954 report said a “flying saucer” seen over Beauty Point was also clearly seen at George Town by Mrs T. Thomas, who said it dived away after her attention was drawn by a loud rumbling noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tasmaniantimes.com">[Tasmanian Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tasmaniantimes.com</span><span class="citation-popover-title">Tasmanian Times Tas That Was</span><span class="citation-popover-snippet">Tasmanian Times Tas That Was</span></span></span>
 
 Those reports show several features that would recur in Tasmanian UFO coverage: named local [witnesses]({{ 'witnesses-e9d9f7/' | relative_url }}), coastal or river settings, comparison with aircraft, and newspaper framing that encouraged readers to connect separate sightings. The George Town and Beauty Point items are not strong proof of an extraordinary object. They are short newspaper accounts, without photographs, instrument records or a clear investigation trail. But they help explain why northern Tasmania became fertile ground for later UFO interpretation: the reports were local, vivid, and linked across nearby communities.
 
-The official record also gives northern Tasmania unusual density in the early 1960s. A Department of Air summary of unidentified aerial sightings from 1960 listed “twin yellow lights over Launceston” on 23 January, a crescent-shaped object low over Launceston on 2 October, the famous Cressy report on 4 October, another Launceston report on 15 October, “mysterious explosions” in the Cressy/Longford area on 27 October, an orange-red-blue object exploding at Poatina the same day, a light over Poatina/Cressy on 27 November, and a coloured point of light rising over Trevallyn on 29 November. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_569-5-451.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
+The official record also gives northern Tasmania unusual density in the early 1960s. A Department of Air summary of unidentified aerial sightings from 1960 listed “twin yellow lights over Launceston” on 23 January, a crescent-shaped object low over Launceston on 2 October, the famous Cressy report on 4 October, another Launceston report on 15 October, “mysterious explosions” in the Cressy/Longford area on 27 October, an orange-red-blue object exploding at Poatina the same day, a light over Poatina/Cressy on 27 November, and a coloured point of light rising over Trevallyn on 29 November.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_569-5-451.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
 
-That looks like a cluster, but the same document is also a warning against over-reading it. The Department of Air’s listed probable causes for these reports included refraction of light, astronomical causes, a meteorological balloon with light attached, a probable Trans Australia Airlines Viscount aircraft, and other ordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_569-5-451.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span> In other words, northern Tasmania’s cluster is historically real as a reporting wave, but not necessarily real as one repeated object or cause.
+That looks like a cluster, but the same document is also a warning against over-reading it. The Department of Air’s listed probable causes for these reports included refraction of light, astronomical causes, a meteorological balloon with light attached, a probable Trans Australia Airlines Viscount aircraft, and other ordinary explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_569-5-451.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span> In other words, northern Tasmania’s cluster is historically real as a reporting wave, but not necessarily real as one repeated object or cause.
 
-The pattern continued beyond 1960. The same official summary listed a “silvery, disc-shaped formation of 30/40 objects over Launceston” on 7 December 1960, assessed as a flight of pigeons; later entries included a moving star-like object at Launceston in 1962, a bluish star-like object moving in circles over Launceston in 1964, and spherical or starlike objects around Launceston and nearby suburbs in the mid-1960s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_569-5-451.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span> This is exactly how a cluster can be both interesting and deflating: the accumulation is notable, but many entries become weaker when the likely explanations are read beside them.
+The pattern continued beyond 1960. The same official summary listed a “silvery, disc-shaped formation of 30/40 objects over Launceston” on 7 December 1960, assessed as a flight of pigeons; later entries included a moving star-like object at Launceston in 1962, a bluish star-like object moving in circles over Launceston in 1964, and spherical or starlike objects around Launceston and nearby suburbs in the mid-1960s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_569-5-451.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span> This is exactly how a cluster can be both interesting and deflating: the accumulation is notable, but many entries become weaker when the likely explanations are read beside them.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oByeIlDd8M4" title="The Pilot Who Vanished After Reporting a UFO - Fred Valentich" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oByeIlDd8M4" target="_blank" rel="noopener noreferrer">The Pilot Who Vanished After Reporting a UFO - Fred Valentich</a></p><p class="youtube-embed-meta">Channel: Black Box Files &middot; Views: 76.8K &middot; Uploaded: May 2025 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oByeIlDd8M4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oByeIlDd8M4">Open on YouTube</a></p></div></div></div>
 
 ## Hobart Bay and Risdon sightings
 
-Hobart’s most distinctive cluster example is the 8 January 1959 [Hobart Bay]({{ 'hobart-bay/' | relative_url }}) and Risdon sighting, later preserved through James E. McDonald’s 1967 interview collection and summarised by Australian researcher Keith Basterfield. The witnesses were Alan D. Shaw and W. L. Newton, both electrical engineers for the Tasmanian Hydroelectric Commission, who were inspecting a transmission structure near the Electrolytic Zinc Company of Australasia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
+Hobart’s most distinctive cluster example is the 8 January 1959 [Hobart Bay]({{ 'hobart-bay/' | relative_url }}) and Risdon sighting, later preserved through James E. McDonald’s 1967 interview collection and summarised by Australian researcher Keith Basterfield. The witnesses were Alan D. Shaw and W. L. Newton, both electrical engineers for the Tasmanian Hydroelectric Commission, who were inspecting a transmission structure near the Electrolytic Zinc Company of Australasia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
 
-The account is unusually detailed. Shaw reportedly read McDonald a typed statement prepared on the day of the incident. The men first saw what appeared like a piece of newspaper floating in the air above the zinc works, descending and then accelerating away. They later saw other objects: high-speed flashing lights, then two dull black elongated objects near the sun. Shaw said one of the black objects descended towards the Derwent, stopped above the water, moved horizontally, then entered the river without a splash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
+The account is unusually detailed. Shaw reportedly read McDonald a typed statement prepared on the day of the incident. The men first saw what appeared like a piece of newspaper floating in the air above the zinc works, descending and then accelerating away. They later saw other objects: high-speed flashing lights, then two dull black elongated objects near the sun. Shaw said one of the black objects descended towards the Derwent, stopped above the water, moved horizontally, then entered the river without a splash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
 
-This case matters within the Hobart cluster for three reasons. First, the witnesses were technically trained and were working in an industrial setting where observation and equipment mattered. Secondly, the description was not a simple “light in the sky”; it included several phases, distances, movement changes and an alleged water-entry moment. Thirdly, Shaw said the weather bureau and the Royal Australian Air Force had been informed, but no explanation was provided to him, and that a balloon check found no release on the day because of faulty equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
+This case matters within the Hobart cluster for three reasons. First, the witnesses were technically trained and were working in an industrial setting where observation and equipment mattered. Secondly, the description was not a simple “light in the sky”; it included several phases, distances, movement changes and an alleged water-entry moment. Thirdly, Shaw said the weather bureau and the Royal Australian Air Force had been informed, but no explanation was provided to him, and that a balloon check found no release on the day because of faulty equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
 
 The weaknesses are just as important. The surviving public account is a later summary of an interview, not the full original investigation file. The observation occurred near the sun, with sunglasses involved, and the sequence combined several quite different object types: paper-like, flashing, and black elongated forms. That raises the possibility that the “case” may have bundled multiple ordinary phenomena into one dramatic morning. Reflections, airborne debris, birds, atmospheric effects, industrial-site visual confusion and distance misjudgement are all plausible categories to consider, even if none neatly explains every reported detail.
 
@@ -333,7 +333,7 @@ Still, the Hobart Bay/Risdon account is stronger than many short newspaper sight
 <img src="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7-Illustration-2-dark.svg" | relative_url }}" alt="Clusters illustration 2" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How official summaries changed the meaning of the clusters
 
-The most useful feature of the official summaries is that they put spectacular and mundane entries side by side. The same Department of Air list that included the Cressy “mother ship” report also included lights over Launceston, Poatina, Trevallyn and other Tasmanian locations, many assessed as astronomical or otherwise ordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_569-5-451.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span> This matters because a reader looking only at newspaper headlines may see a flap; a reader looking only at official conclusions may see mostly misidentification. The historical truth sits between those views.
+The most useful feature of the official summaries is that they put spectacular and mundane entries side by side. The same Department of Air list that included the Cressy “mother ship” report also included lights over Launceston, Poatina, Trevallyn and other Tasmanian locations, many assessed as astronomical or otherwise ordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_569-5-451.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span> This matters because a reader looking only at newspaper headlines may see a flap; a reader looking only at official conclusions may see mostly misidentification. The historical truth sits between those views.
 
 A cluster can form because several different things happen at once:
 
@@ -341,8 +341,8 @@ A cluster can form because several different things happen at once:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **More witnesses are looking.** After one report is printed, people become more alert to unusual lights.
-* **Local newspapers create continuity.** A report over Beauty Point can be tied to one at George Town, making two short sightings feel like part of one larger pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tasmaniantimes.com">[Tasmanian Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tasmaniantimes.com</span><span class="citation-popover-title">Tasmanian Times Tas That Was</span><span class="citation-popover-snippet">Tasmanian Times Tas That Was</span></span></span>
-* **Official forms preserve ordinary reports.** Once the RAAF or Department of Air logs a report, it gains archival weight even when the listed explanation is “astronomical”, “aircraft” or “refraction”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_569-5-451.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
+* **Local newspapers create continuity.** A report over Beauty Point can be tied to one at George Town, making two short sightings feel like part of one larger pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tasmaniantimes.com">[Tasmanian Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tasmaniantimes.com</span><span class="citation-popover-title">Tasmanian Times Tas That Was</span><span class="citation-popover-snippet">Tasmanian Times Tas That Was</span></span></span>
+* **Official forms preserve ordinary reports.** Once the RAAF or Department of Air logs a report, it gains archival weight even when the listed explanation is “astronomical”, “aircraft” or “refraction”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_569-5-451.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
 * **Memorable cases pull weaker cases into their orbit.** Cressy made northern Tasmania feel significant; Hobart Bay/Risdon did something similar for southern Tasmania.
 
 </div>
@@ -354,17 +354,17 @@ This does not make the clusters meaningless. It makes them social and archival e
 
 ## Media, memory and the modern echo
 
-Modern Tasmanian UFO episodes show the same cluster-making process in a faster form. In 2017, ABC News reported that a bright object over southern Tasmania prompted online speculation about alien life. Launceston Planetarium astronomer Chris Arkle argued it was very likely a high-flying aircraft, noting that some international flights to and from New Zealand use Hobart as a waypoint; he said its duration and apparent speed supported that explanation rather than a meteor or space junk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2017-03-01/ufo-fever-hits-tasmania-as-plane-lights-up-imaginations/8311224" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+Modern Tasmanian UFO episodes show the same cluster-making process in a faster form. In 2017, ABC News reported that a bright object over southern Tasmania prompted online speculation about alien life. Launceston Planetarium astronomer Chris Arkle argued it was very likely a high-flying aircraft, noting that some international flights to and from New Zealand use Hobart as a waypoint; he said its duration and apparent speed supported that explanation rather than a meteor or space junk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2017-03-01/ufo-fever-hits-tasmania-as-plane-lights-up-imaginations/8311224" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
 That modern example is useful because it mirrors the older pattern without needing a 1950s “flying saucer” vocabulary. A light is seen by multiple people, images circulate, social interpretation runs ahead of identification, and an expert explanation later weakens the exotic reading. The mechanism is the same, but Facebook and smartphones compress into hours what newspapers once spread over days.
 
-NASA’s public skywatching guidance makes the same broader point: people often ask about UFOs when they have seen ordinary but unfamiliar sky phenomena, including bright stars, meteor showers and locally common visual effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Science Identifying UFOs and UAPs</span></span></span> In Tasmania, that matters because many sightings occur over water, hills, airports or low horizons, where distance and speed are especially easy to misjudge.
+NASA’s public skywatching guidance makes the same broader point: people often ask about UFOs when they have seen ordinary but unfamiliar sky phenomena, including bright stars, meteor showers and locally common visual effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Science Identifying UFOs and UAPs</span></span></span> In Tasmania, that matters because many sightings occur over water, hills, airports or low horizons, where distance and speed are especially easy to misjudge.
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7-Illustration-3-dark.svg" | relative_url }}" alt="Clusters illustration 3" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## So were Tasmania’s UFO reports really clustered?
 
-They were clustered as reports, not as proof. Around Launceston and northern Tasmania, the evidence is strong that multiple reports appeared in a relatively tight post-war and early-1960s window, with named places recurring in official and newspaper material: Launceston, George Town, Beauty Point, Cressy, Longford, Poatina and Trevallyn. Around Hobart, the 1959 Hobart Bay/Risdon case stands out as a more detailed industrial-waterfront sighting with technically trained witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
+They were clustered as reports, not as proof. Around Launceston and northern Tasmania, the evidence is strong that multiple reports appeared in a relatively tight post-war and early-1960s window, with named places recurring in official and newspaper material: Launceston, George Town, Beauty Point, Cressy, Longford, Poatina and Trevallyn. Around Hobart, the 1959 Hobart Bay/Risdon case stands out as a more detailed industrial-waterfront sighting with technically trained witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
 
 The doubts are equally clear. Many entries in the official summaries were assessed as astronomical, aircraft, refraction, pigeons, balloons or other ordinary causes. The most dramatic accounts often lack photographs, radar, physical traces or independent investigation records available to the public. Even when witnesses seem credible, credibility only establishes that they probably reported sincerely; it does not establish what the object was.
 
@@ -375,194 +375,194 @@ The value of the Hobart and Launceston clusters is therefore not that they prove
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Tasmania&#x27;s UFO Reports Really Clustered?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Tasmania&#x27;s UFO Reports Really Clustered?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification and investigation of sightings, directly relevant to report clusters and case analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification and investigation of sightings, directly relevant to report clusters and case analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page about evaluating historical UFO reports, witnesses and official explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page about evaluating historical UFO reports, witnesses and official explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how folklore, memory and recurring narratives shape UFO stories, matching the article&#x27;s discussion of clustering and retelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how folklore, memory and recurring narratives shape UFO stories, matching the article&#x27;s discussion of clustering and retelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines patterns across many cases rather than a single event, paralleling the Tasmania cluster theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines patterns across many cases rather than a single event, paralleling the Tasmania cluster theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift"><img src="{{ '/assets/images/marketplace-covers/9d2e078b71d572691f24.jpg' | relative_url }}" alt="Listing image for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift"><img src="{{ '/assets/images/marketplace-covers/9d2e078b71d572691f24.jpg' | relative_url }}" alt="Listing image for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="clusters-were-tasmania-s-ufo-reports-really-clustered-tasmania-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ The value of the Hobart and Launceston clusters is therefore not that they prove
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ The value of the Hobart and Launceston clusters is therefore not that they prove
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ The value of the Hobart and Launceston clusters is therefore not that they prove
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ The value of the Hobart and Launceston clusters is therefore not that they prove
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ The value of the Hobart and Launceston clusters is therefore not that they prove
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,372 +768,372 @@ The value of the Hobart and Launceston clusters is therefore not that they prove
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_569-5-451.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/b/b8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_569-5-451.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_569-5-451.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/b/b8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_569-5-451.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: Science Identifying UFOs and UAPs  
-   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
+   Link:<a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
    Title: Weather Obsessed  
-   Link: <a href="https://www.facebook.com/groups/WeatherObsessed/posts/2208517822956454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/WeatherObsessed/posts/2208517822956454/</a>  
+   Link:<a href="https://www.facebook.com/groups/WeatherObsessed/posts/2208517822956454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/WeatherObsessed/posts/2208517822956454/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/auroraaustralis/posts/8576666822368125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/auroraaustralis/posts/8576666822368125/</a>  
+   Link:<a href="https://www.facebook.com/groups/auroraaustralis/posts/8576666822368125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/auroraaustralis/posts/8576666822368125/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/flightfacilities/posts/ufo-sightings-were-at-an-all-time-high-last-night-tasmania-you-were-amazing-as-a/748555269960318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/flightfacilities/posts/ufo-sightings-were-at-an-all-time-high-last-night-tasmania-you-were-amazing-as-a/748555269960318/</a>  
+   Link:<a href="https://www.facebook.com/flightfacilities/posts/ufo-sightings-were-at-an-all-time-high-last-night-tasmania-you-were-amazing-as-a/748555269960318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/flightfacilities/posts/ufo-sightings-were-at-an-all-time-high-last-night-tasmania-you-were-amazing-as-a/748555269960318/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/alotau.mbp/posts/9819879108044294/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/alotau.mbp/posts/9819879108044294/</a>  
+   Link:<a href="https://www.facebook.com/groups/alotau.mbp/posts/9819879108044294/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/alotau.mbp/posts/9819879108044294/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/auroraaustralis/posts/26959293007012227/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/auroraaustralis/posts/26959293007012227/</a>  
+   Link:<a href="https://www.facebook.com/groups/auroraaustralis/posts/26959293007012227/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/auroraaustralis/posts/26959293007012227/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: well hello chigwell no it wasnt a flying saucer it was a flying dunny the toilet  
-   Link: <a href="https://www.facebook.com/100069211266088/posts/well-hello-chigwell-no-it-wasnt-a-flying-saucer-it-was-a-flying-dunny-the-toilet/492031984318611/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100069211266088/posts/well-hello-chigwell-no-it-wasnt-a-flying-saucer-it-was-a-flying-dunny-the-toilet/492031984318611/</a>  
+   Link:<a href="https://www.facebook.com/100069211266088/posts/well-hello-chigwell-no-it-wasnt-a-flying-saucer-it-was-a-flying-dunny-the-toilet/492031984318611/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100069211266088/posts/well-hello-chigwell-no-it-wasnt-a-flying-saucer-it-was-a-flying-dunny-the-toilet/492031984318611/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1464145827194143/posts/4049760381965995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1464145827194143/posts/4049760381965995/</a>  
+   Link:<a href="https://www.facebook.com/groups/1464145827194143/posts/4049760381965995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1464145827194143/posts/4049760381965995/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: The ufo files“A strange series of sightings  
-   Link: <a href="https://www.facebook.com/100045659120462/posts/1195086618689964/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100045659120462/posts/1195086618689964/</a>  
+   Link:<a href="https://www.facebook.com/100045659120462/posts/1195086618689964/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100045659120462/posts/1195086618689964/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2396722077432098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2396722077432098/</a>  
+   Link:<a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2396722077432098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2396722077432098/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: no its not a wok or flying saucer its a tasmania police disklok device after bei  
-   Link: <a href="https://www.facebook.com/thevigilantenews/posts/no-its-not-a-wok-or-flying-saucer-its-a-tasmania-police-disklok-device-after-bei/1038833602926946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thevigilantenews/posts/no-its-not-a-wok-or-flying-saucer-its-a-tasmania-police-disklok-device-after-bei/1038833602926946/</a>  
+   Link:<a href="https://www.facebook.com/thevigilantenews/posts/no-its-not-a-wok-or-flying-saucer-its-a-tasmania-police-disklok-device-after-bei/1038833602926946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thevigilantenews/posts/no-its-not-a-wok-or-flying-saucer-its-a-tasmania-police-disklok-device-after-bei/1038833602926946/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/</a>  
+   Link:<a href="https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/203161690488675/posts/2052493838888775/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203161690488675/posts/2052493838888775/</a>  
+   Link:<a href="https://www.facebook.com/groups/203161690488675/posts/2052493838888775/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203161690488675/posts/2052493838888775/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/memorylaneaust/posts/8927833563906221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/memorylaneaust/posts/8927833563906221/</a>  
+   Link:<a href="https://www.facebook.com/groups/memorylaneaust/posts/8927833563906221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/memorylaneaust/posts/8927833563906221/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HeritageHighwayTourismRegionTasmania/posts/cressy-is-known-as-the-gateway-to-trout-fishing-paradise-this-lovely-town-has-so/10156252030039099/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HeritageHighwayTourismRegionTasmania/posts/cressy-is-known-as-the-gateway-to-trout-fishing-paradise-this-lovely-town-has-so/10156252030039099/</a>  
+   Link:<a href="https://www.facebook.com/HeritageHighwayTourismRegionTasmania/posts/cressy-is-known-as-the-gateway-to-trout-fishing-paradise-this-lovely-town-has-so/10156252030039099/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HeritageHighwayTourismRegionTasmania/posts/cressy-is-known-as-the-gateway-to-trout-fishing-paradise-this-lovely-town-has-so/10156252030039099/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/manxnostalgia/posts/10161352116045049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/manxnostalgia/posts/10161352116045049/</a>  
+   Link:<a href="https://www.facebook.com/groups/manxnostalgia/posts/10161352116045049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/manxnostalgia/posts/10161352116045049/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/629810917109125/posts/9799048606851931/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/629810917109125/posts/9799048606851931/</a>  
+   Link:<a href="https://www.facebook.com/groups/629810917109125/posts/9799048606851931/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/629810917109125/posts/9799048606851931/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/media/set/?set=a.434587626674531.1073741840.188117741321522&amp;type=3" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/media/set/?set=a.434587626674531.1073741840.188117741321522&amp;type=3</a>  
+   Link:<a href="https://www.facebook.com/media/set/?set=a.434587626674531.1073741840.188117741321522&amp;type=3" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/media/set/?set=a.434587626674531.1073741840.188117741321522&amp;type=3</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1586408548258884/posts/3561110637455322/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1586408548258884/posts/3561110637455322/</a>  
+   Link:<a href="https://www.facebook.com/groups/1586408548258884/posts/3561110637455322/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1586408548258884/posts/3561110637455322/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/</a>  
+   Link:<a href="https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/122169729686899199/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/</a>  
+   Link:<a href="https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/</a>  
+   Link:<a href="https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Timesnow/posts/social-media-across-australia-were-alight-with-footage-of-what-people-thought-we/1231644865673440/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Timesnow/posts/social-media-across-australia-were-alight-with-footage-of-what-people-thought-we/1231644865673440/</a>  
+   Link:<a href="https://www.facebook.com/Timesnow/posts/social-media-across-australia-were-alight-with-footage-of-what-people-thought-we/1231644865673440/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Timesnow/posts/social-media-across-australia-were-alight-with-footage-of-what-people-thought-we/1231644865673440/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcnews.au/posts/eyes-on-the-wrong-ball-%EF%B8%8Fa-fireball-meteor-lit-up-skies-across-eastern-australia-/1554527056028559/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/eyes-on-the-wrong-ball-%EF%B8%8Fa-fireball-meteor-lit-up-skies-across-eastern-australia-/1554527056028559/</a>  
+   Link:<a href="https://www.facebook.com/abcnews.au/posts/eyes-on-the-wrong-ball-%EF%B8%8Fa-fireball-meteor-lit-up-skies-across-eastern-australia-/1554527056028559/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/eyes-on-the-wrong-ball-%EF%B8%8Fa-fireball-meteor-lit-up-skies-across-eastern-australia-/1554527056028559/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WHO13News/posts/have-you-ever-been-out-at-night-and-seen-a-streak-of-light-blast-across-the-sky-/1545116137204125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO13News/posts/have-you-ever-been-out-at-night-and-seen-a-streak-of-light-blast-across-the-sky-/1545116137204125/</a>  
+   Link:<a href="https://www.facebook.com/WHO13News/posts/have-you-ever-been-out-at-night-and-seen-a-streak-of-light-blast-across-the-sky-/1545116137204125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO13News/posts/have-you-ever-been-out-at-night-and-seen-a-streak-of-light-blast-across-the-sky-/1545116137204125/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/</a>  
+   Link:<a href="https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NickBanninWX/posts/did-you-see-it-a-look-at-one-of-the-potential-fireballs-showing-up-between-giddi/1384307600181258/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NickBanninWX/posts/did-you-see-it-a-look-at-one-of-the-potential-fireballs-showing-up-between-giddi/1384307600181258/</a>  
+   Link:<a href="https://www.facebook.com/NickBanninWX/posts/did-you-see-it-a-look-at-one-of-the-potential-fireballs-showing-up-between-giddi/1384307600181258/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NickBanninWX/posts/did-you-see-it-a-look-at-one-of-the-potential-fireballs-showing-up-between-giddi/1384307600181258/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NewsAustralia/posts/thoeries-flooded-social-media-after-a-glowing-object-lit-up-the-night-sky-before/1478286051004429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NewsAustralia/posts/thoeries-flooded-social-media-after-a-glowing-object-lit-up-the-night-sky-before/1478286051004429/</a>  
+   Link:<a href="https://www.facebook.com/7NewsAustralia/posts/thoeries-flooded-social-media-after-a-glowing-object-lit-up-the-night-sky-before/1478286051004429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NewsAustralia/posts/thoeries-flooded-social-media-after-a-glowing-object-lit-up-the-night-sky-before/1478286051004429/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/</a>  
+   Link:<a href="https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dn790002.ca.archive.org  
    Title: UFO Cover up text  
-   Link: <a href="https://dn790002.ca.archive.org/0/items/UFOCoverUp/UFO%20Cover-up_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790002.ca.archive.org/0/items/UFOCoverUp/UFO%20Cover-up_text.pdf</a>  
+   Link:<a href="https://dn790002.ca.archive.org/0/items/UFOCoverUp/UFO%20Cover-up_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790002.ca.archive.org/0/items/UFOCoverUp/UFO%20Cover-up_text.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ia601405.us.archive.org  
-   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
+   Link:<a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: space.com  
    Title: ufos uap history sightings mysteries  
-   Link: <a href="https://www.space.com/ufos-uap-history-sightings-mysteries" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufos-uap-history-sightings-mysteries</a>  
+   Link:<a href="https://www.space.com/ufos-uap-history-sightings-mysteries" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufos-uap-history-sightings-mysteries</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: UFOs Scientific Research Unidentified Anomalous Phenomena  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: tasmaniantimes.com  
    Title: Tasmanian Times Tas That Was  
-   Link: <a href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow">https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/</a>  
+   Link:<a href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow">https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: libraries.tas.gov.au  
    Title: Libraries Tasmania Historic newspapers  
-   Link: <a href="https://libraries.tas.gov.au/slat/historic-newspapers/" target="_blank" rel="noopener noreferrer nofollow">https://libraries.tas.gov.au/slat/historic-newspapers/</a>  
+   Link:<a href="https://libraries.tas.gov.au/slat/historic-newspapers/" target="_blank" rel="noopener noreferrer nofollow">https://libraries.tas.gov.au/slat/historic-newspapers/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/6150730" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/6150730</a>  
+   Link:<a href="https://catalogue.nla.gov.au/catalog/6150730" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/6150730</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2017-03-01/ufo-fever-hits-tasmania-as-plane-lights-up-imaginations/8311224" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2017-03-01/ufo-fever-hits-tasmania-as-plane-lights-up-imaginations/8311224</a>  
+   Link:<a href="https://www.abc.net.au/news/2017-03-01/ufo-fever-hits-tasmania-as-plane-lights-up-imaginations/8311224" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2017-03-01/ufo-fever-hits-tasmania-as-plane-lights-up-imaginations/8311224</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/26746326" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/26746326</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/26746326" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/26746326</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/24726081" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/24726081</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/24726081" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/24726081</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/190458225" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/190458225</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/190458225" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/190458225</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/52910733" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/52910733</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/52910733" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/52910733</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/27256318" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/27256318</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/27256318" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/27256318</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/187098781" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/187098781</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/187098781" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/187098781</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/249772993" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/249772993</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/249772993" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/249772993</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/134238933" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/134238933</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/134238933" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/134238933</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/287428511" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/287428511</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/287428511" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/287428511</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/9902598" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/9902598</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/9902598" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/9902598</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/287010983" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/287010983</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/287010983" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/287010983</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/17153438" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/17153438</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/17153438" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/17153438</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/65198317" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/65198317</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/65198317" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/65198317</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/63548059" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/63548059</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/63548059" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/63548059</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/page/8330477" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/page/8330477</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/page/8330477" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/page/8330477</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: trove.nla.gov.au  
    Title: nla.gov.au SEVE N MEN REPORT SEEING A "FLYING SAUCER"  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/18505125" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18505125</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/18505125" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18505125</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/47848447" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/47848447</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/47848447" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/47848447</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/114841561/11487944" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/114841561/11487944</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/114841561/11487944" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/114841561/11487944</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/106939973/11622786" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/106939973/11622786</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/106939973/11622786" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/106939973/11622786</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: naa.gov.au  
    Title: flying saucers fact or fiction  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: abc.net.au  
    Title: curious hobart railway roundabout  
-   Link: <a href="https://www.abc.net.au/news/2018-09-18/curious-hobart-railway-roundabout/10241582" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-09-18/curious-hobart-railway-roundabout/10241582</a>  
+   Link:<a href="https://www.abc.net.au/news/2018-09-18/curious-hobart-railway-roundabout/10241582" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-09-18/curious-hobart-railway-roundabout/10241582</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: abc.net.au  
    Title: Files released on UFO sightings  
-   Link: <a href="https://www.abc.net.au/pm/archive/articles/2008/05/14/s2245029.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/pm/archive/articles/2008/05/14/s2245029.htm</a>  
+   Link:<a href="https://www.abc.net.au/pm/archive/articles/2008/05/14/s2245029.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/pm/archive/articles/2008/05/14/s2245029.htm</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: abc.net.au  
    Title: Structure Fire  
-   Link: <a href="https://www.abc.net.au/emergency/warning/AUREMER-3fb99d7568fdcf8f52065b7ada691c2e" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/emergency/warning/AUREMER-3fb99d7568fdcf8f52065b7ada691c2e</a>  
+   Link:<a href="https://www.abc.net.au/emergency/warning/AUREMER-3fb99d7568fdcf8f52065b7ada691c2e" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/emergency/warning/AUREMER-3fb99d7568fdcf8f52065b7ada691c2e</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: abc.net.au  
    Title: accessing australia secret ufo files  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: abc.net.au  
    Title: westall ufo mystery witnesses want answers  
-   Link: <a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
+   Link:<a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: Wikipedia  
    Title: UFO sightings in Australia  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Australia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Australia</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Australia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Australia</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: Wikipedia  
    Title: Australian ufology  
-   Link: <a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: tasmaniantimes.com  
    Title: UF O Archives All posts tagged "UFO". Tas That Was  
-   Link: <a href="https://tasmaniantimes.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://tasmaniantimes.com/tag/ufo/</a>  
+   Link:<a href="https://tasmaniantimes.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://tasmaniantimes.com/tag/ufo/</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: parliament.tas.gov.au  
    Title: HA Wednesday 9 August 2023  
-   Link: <a href="https://www.parliament.tas.gov.au/__data/assets/pdf_file/0022/72535/HA-Wednesday-9-August-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.tas.gov.au/__data/assets/pdf_file/0022/72535/HA-Wednesday-9-August-2023.pdf</a>  
+   Link:<a href="https://www.parliament.tas.gov.au/__data/assets/pdf_file/0022/72535/HA-Wednesday-9-August-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.tas.gov.au/__data/assets/pdf_file/0022/72535/HA-Wednesday-9-August-2023.pdf</a>  
    Published: August 2023  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: slq.qld.gov.au  
    Title: The Truth Is Out There  
-   Link: <a href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow">https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals</a>  
+   Link:<a href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow">https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: slwa.wa.gov.au  
-   Link: <a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
+   Link:<a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
 
 ### Additional References
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: youtube.com  
    Title: The Pilot Who Vanished After Reporting a UFO  
-   Link: <a href="https://www.youtube.com/watch?v=oByeIlDd8M4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oByeIlDd8M4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs or PILOT error? | The Disappearance of Frederick Valentich...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oByeIlDd8M4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oByeIlDd8M4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs or PILOT error? | The Disappearance of Frederick Valentich...</p></details>
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: localsearch.com.au  
-   Link: <a href="https://www.localsearch.com.au/find/cafes/epping-forest-tas-7211" target="_blank" rel="noopener noreferrer nofollow">https://www.localsearch.com.au/find/cafes/epping-forest-tas-7211</a>  
+   Link:<a href="https://www.localsearch.com.au/find/cafes/epping-forest-tas-7211" target="_blank" rel="noopener noreferrer nofollow">https://www.localsearch.com.au/find/cafes/epping-forest-tas-7211</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: aldebaran.one  
-   Link: <a href="https://aldebaran.one/trial/txt/42483413.a6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aldebaran.one/trial/txt/42483413.a6.pdf</a>  
+   Link:<a href="https://aldebaran.one/trial/txt/42483413.a6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aldebaran.one/trial/txt/42483413.a6.pdf</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVawOEJlXng/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVawOEJlXng/</a>  
+   Link:<a href="https://www.instagram.com/p/DVawOEJlXng/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVawOEJlXng/</a>  
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2</a>  
+   Link:<a href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2</a>  
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/646933318/Alien-Honeycomb" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/646933318/Alien-Honeycomb</a>  
+   Link:<a href="https://www.scribd.com/document/646933318/Alien-Honeycomb" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/646933318/Alien-Honeycomb</a>  
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZZW9zMAhsO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZZW9zMAhsO/</a>  
+   Link:<a href="https://www.instagram.com/reel/DZZW9zMAhsO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZZW9zMAhsO/</a>  
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: edentours.ai  
-   Link: <a href="https://www.edentours.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.edentours.ai/</a>  
+   Link:<a href="https://www.edentours.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.edentours.ai/</a>  
 
-84. <a id="endnote-84"></a>
+84.<a id="endnote-84"></a>
    Source: hobartandbeyond.com.au  
-   Link: <a href="https://hobartandbeyond.com.au/blog/fly-fishing-and-flying-saucers-5-things-to-do-at-cressy/" target="_blank" rel="noopener noreferrer nofollow">https://hobartandbeyond.com.au/blog/fly-fishing-and-flying-saucers-5-things-to-do-at-cressy/</a>  
+   Link:<a href="https://hobartandbeyond.com.au/blog/fly-fishing-and-flying-saucers-5-things-to-do-at-cressy/" target="_blank" rel="noopener noreferrer nofollow">https://hobartandbeyond.com.au/blog/fly-fishing-and-flying-saucers-5-things-to-do-at-cressy/</a>  
 
-85. <a id="endnote-85"></a>
+85.<a id="endnote-85"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hobart/comments/1q75wtm/hey_any_urban_legends_mysteries_and_spooky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hobart/comments/1q75wtm/hey_any_urban_legends_mysteries_and_spooky/</a>  
+   Link:<a href="https://www.reddit.com/r/hobart/comments/1q75wtm/hey_any_urban_legends_mysteries_and_spooky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hobart/comments/1q75wtm/hey_any_urban_legends_mysteries_and_spooky/</a>  

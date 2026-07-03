@@ -286,19 +286,19 @@ image: /assets/images/New_South_Wales_f92f26_parramatta_1868_198b1a-overview-soc
 
 ## Introduction
 
-The Parramatta “ark” story is one of the strangest early items in [New South Wales]({{ 'what-makes-new-south-wales-ufo-reports/' | relative_url }}) UFO folklore, but it is best read as a nineteenth-century visionary account rather than as a well-evidenced aerial sighting. In July 1868, Frederick William Birmingham, a Parramatta surveyor, engineer and former alderman, reportedly described seeing an “Ark” in the sky near Parramatta Park and hearing it identified as “a machine to go through the air”. Later versions say the craft landed, that Birmingham entered it, and that a spirit-like figure showed him papers or formulae. The case matters because it predates the 1947 flying-saucer era by nearly eighty years, yet already contains themes that later UFO readers recognise: a strange aerial machine, a landing, a guide or pilot, technical secrets, and a local witness trying to make sense of an impossible object. The difficulty is that the evidence is fragmentary, retrospective and mixed with dream, religion and invention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historyandheritage.cityofparramatta.nsw.gov.au/blog/2014/01/09/frederick-william-birmingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyandheritage.cityofparramatta.nsw.gov.au">[Parramatta History and Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyandheritage.cityofparramatta.nsw.gov.au</span><span class="citation-popover-snippet">Open source on nsw.gov.au.</span></span></span>
+The Parramatta “ark” story is one of the strangest early items in [New South Wales]({{ 'what-makes-new-south-wales-ufo-reports/' | relative_url }}) UFO folklore, but it is best read as a nineteenth-century visionary account rather than as a well-evidenced aerial sighting. In July 1868, Frederick William Birmingham, a Parramatta surveyor, engineer and former alderman, reportedly described seeing an “Ark” in the sky near Parramatta Park and hearing it identified as “a machine to go through the air”. Later versions say the craft landed, that Birmingham entered it, and that a spirit-like figure showed him papers or formulae. The case matters because it predates the 1947 flying-saucer era by nearly eighty years, yet already contains themes that later UFO readers recognise: a strange aerial machine, a landing, a guide or pilot, technical secrets, and a local witness trying to make sense of an impossible object. The difficulty is that the evidence is fragmentary, retrospective and mixed with dream, religion and invention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historyandheritage.cityofparramatta.nsw.gov.au/blog/2014/01/09/frederick-william-birmingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyandheritage.cityofparramatta.nsw.gov.au">[Parramatta History and Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyandheritage.cityofparramatta.nsw.gov.au</span><span class="citation-popover-snippet">Open source on nsw.gov.au.</span></span></span>
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_parramatta_1868_198b1a-overview.webp" | relative_url }}" alt="Overview image for Parramatta 1868" loading="eager" decoding="sync" fetchpriority="high">
 ## What Frederick Birmingham reportedly saw
 
-Frederick William Birmingham was not simply a nameless witness in a newspaper filler item. The City of Parramatta’s history pages identify him as an Irish-born surveyor and engineer who arrived in Australia in 1852, settled in Parramatta, worked in the Surveyor General’s Department, and was elected as a Parramatta alderman in 1865 and again in 1867. That local standing is part of why the story has lasted: the claim is attached to a traceable person in a traceable place, not just to an anonymous rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historyandheritage.cityofparramatta.nsw.gov.au/blog/2014/01/09/frederick-william-birmingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyandheritage.cityofparramatta.nsw.gov.au">[Parramatta History and Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyandheritage.cityofparramatta.nsw.gov.au</span><span class="citation-popover-snippet">Open source on nsw.gov.au.</span></span></span>
+Frederick William Birmingham was not simply a nameless witness in a newspaper filler item. The City of Parramatta’s history pages identify him as an Irish-born surveyor and engineer who arrived in Australia in 1852, settled in Parramatta, worked in the Surveyor General’s Department, and was elected as a Parramatta alderman in 1865 and again in 1867. That local standing is part of why the story has lasted: the claim is attached to a traceable person in a traceable place, not just to an anonymous rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historyandheritage.cityofparramatta.nsw.gov.au/blog/2014/01/09/frederick-william-birmingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyandheritage.cityofparramatta.nsw.gov.au">[Parramatta History and Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyandheritage.cityofparramatta.nsw.gov.au</span><span class="citation-popover-snippet">Open source on nsw.gov.au.</span></span></span>
 
-The reported experience took place on the night of 25–26 July 1868. In the account later associated with Birmingham’s memorandum book, he described it as a “wonderful dream” or “vision”. That wording is crucial. The story is often retold as an early “UFO landing”, but the source tradition itself does not read like a straightforward daylight observation by multiple witnesses. It begins with a visionary scene in which Birmingham saw heads in the air, including figures identified in later transcriptions as Bishop Barker and Sir James Martin, before the “ark” appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbpre47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Open source on project1947.com.</span></span></span>
+The reported experience took place on the night of 25–26 July 1868. In the account later associated with Birmingham’s memorandum book, he described it as a “wonderful dream” or “vision”. That wording is crucial. The story is often retold as an early “UFO landing”, but the source tradition itself does not read like a straightforward daylight observation by multiple witnesses. It begins with a visionary scene in which Birmingham saw heads in the air, including figures identified in later transcriptions as Bishop Barker and Sir James Martin, before the “ark” appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbpre47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Open source on project1947.com.</span></span></span>
 
-The most memorable detail is the phrase reportedly spoken by a voice or spirit: “that’s a machine to go through the air”. Birmingham’s own response, as preserved in later manuscript material discussed by Bill Chalker, was that it looked more like a vessel for water than for air. That mismatch explains the “ark” label: the object was imagined or described as ship-like, not as a saucer, cigar or modern aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2024/08/the-birmingham-ufo-vision-manuscript.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
+The most memorable detail is the phrase reportedly spoken by a voice or spirit: “that’s a machine to go through the air”. Birmingham’s own response, as preserved in later manuscript material discussed by Bill Chalker, was that it looked more like a vessel for water than for air. That mismatch explains the “ark” label: the object was imagined or described as ship-like, not as a saucer, cigar or modern aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2024/08/the-birmingham-ufo-vision-manuscript.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
 
-The fuller version then becomes more elaborate. The object allegedly came down to the grass, Birmingham was invited aboard, and he entered a steering room with thick-looking wooden walls, a table or box-like structure, and papers containing figures and formulae. A spirit-like guide told him that the papers were necessary and that he could study them as he went on. Birmingham then found himself alone in the machine, and the episode ended with him waking deeply impressed by the vision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbpre47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Open source on project1947.com.</span></span></span>
+The fuller version then becomes more elaborate. The object allegedly came down to the grass, Birmingham was invited aboard, and he entered a steering room with thick-looking wooden walls, a table or box-like structure, and papers containing figures and formulae. A spirit-like guide told him that the papers were necessary and that he could study them as he went on. Birmingham then found himself alone in the machine, and the episode ended with him waking deeply impressed by the vision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbpre47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Open source on project1947.com.</span></span></span>
 
 This is why the Parramatta case sits awkwardly between several categories. It is not just a sighting report. It is also a dream narrative, a religiously coloured vision, an aviation fantasy, and possibly the seed of Birmingham’s later attempts to design a flying machine. For New South Wales UFO history, its value lies less in proving an object was physically present in Parramatta Park and more in showing that unusual aerial-machine stories were circulating in colonial Australia long before the modern UFO vocabulary existed.
 
@@ -306,26 +306,26 @@ This is why the Parramatta case sits awkwardly between several categories. It is
 <img src="{{ "/assets/images/New_South_Wales_f92f26_parramatta_1868_198b1a-Illustration-1-dark.svg" | relative_url }}" alt="Parramatta 1868 illustration 1" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_parramatta_1868_198b1a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_parramatta_1868_198b1a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this was not a “flying saucer” story
 
-Calling the Parramatta ark a “UFO” can be useful for navigation, but it can also distort the case. The language of “flying saucers” belongs to a much later period. The Smithsonian’s National Air and Space Museum notes that after Kenneth Arnold’s 1947 sighting in the United States, later reports increasingly used the phrase “flying saucer” for unexplained aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
+Calling the Parramatta ark a “UFO” can be useful for navigation, but it can also distort the case. The language of “flying saucers” belongs to a much later period. The Smithsonian’s National Air and Space Museum notes that after Kenneth Arnold’s 1947 sighting in the United States, later reports increasingly used the phrase “flying saucer” for unexplained aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
 
 Birmingham’s story belongs to a different imagination of flight. In the 1860s and 1870s, heavier-than-air aviation had not yet become a practical reality. The object in the Parramatta account is therefore described through the available language of ships, air navigation, mechanical chests, pressure, vacuum, drivers, risers and steering. It feels less like a twentieth-century alien craft and more like a Victorian attempt to think through the possibility of aerial travel.
 
-That distinction became clearer with later evidence about Birmingham’s own technical interests. A 2023 discussion by Chalker highlighted an 1875 letter attributed to Birmingham, found in the 22 May 1875 issue of the Albury Banner and Wodonga Express, in which he discussed “navigation through the air” and a machine “of the ark shape” with a “pilot house”. Chalker treated the letter as confirmatory evidence that Birmingham tried to translate the 1868 vision into an engineering scheme rather than merely repeating a supernatural tale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">the 1868 ufo vision of frederick</span></span></span>
+That distinction became clearer with later evidence about Birmingham’s own technical interests. A 2023 discussion by Chalker highlighted an 1875 letter attributed to Birmingham, found in the 22 May 1875 issue of the Albury Banner and Wodonga Express, in which he discussed “navigation through the air” and a machine “of the ark shape” with a “pilot house”. Chalker treated the letter as confirmatory evidence that Birmingham tried to translate the 1868 vision into an engineering scheme rather than merely repeating a supernatural tale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">the 1868 ufo vision of frederick</span></span></span>
 
-The quoted 1875 material is full of mechanical speculation: air pressure, vacuum chests, risers, drivers, steering, landing angles and rubber on the keel. Whether or not the design was workable is beside the point. It shows that Birmingham’s “ark” became, for him, a problem of invention. In folklore terms, the story is fascinating because it bridges visionary religion and early aviation enthusiasm. In UFO terms, it is weak as evidence of an anomalous object but strong as evidence of how people imagined extraordinary aerial machines before aeroplanes and flying saucers entered everyday language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">the 1868 ufo vision of frederick</span></span></span>
+The quoted 1875 material is full of mechanical speculation: air pressure, vacuum chests, risers, drivers, steering, landing angles and rubber on the keel. Whether or not the design was workable is beside the point. It shows that Birmingham’s “ark” became, for him, a problem of invention. In folklore terms, the story is fascinating because it bridges visionary religion and early aviation enthusiasm. In UFO terms, it is weak as evidence of an anomalous object but strong as evidence of how people imagined extraordinary aerial machines before aeroplanes and flying saucers entered everyday language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">the 1868 ufo vision of frederick</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SqxG1voGDJM" title="HISTORY OF UFOs 🛸 AND ALIENS 👽 COMPILATION - From ancient times to our present day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer">HISTORY OF UFOs 🛸 AND ALIENS 👽 COMPILATION - From ancient times to our present day</a></p><p class="youtube-embed-meta">Channel: The Rest is History &middot; Views: 1.9K &middot; Uploaded: November 2024 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SqxG1voGDJM">Open on YouTube</a></p></div></div></div>
 
 ## Why the source trail is difficult
 
-The strongest reason for caution is the complicated [source trail]({{ 'source-trail/' | relative_url }}). The account most often cited is not a clean 1868 newspaper report written immediately after the event. It comes through a later document described as a copy from Birmingham’s memorandum book, titled around the idea of “a machine to go through the air” and dated A.D. 1873. Project 1947’s catalogue of pre-1947 Australian unidentified aerial phenomena summarises the source as a 15-page document located by Chalker in 1975, with a chain said to run through UFO researcher T. V. Homan, Mrs N. de Launt in the early 1940s, and the family of Wallace Haywood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbpre47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Open source on project1947.com.</span></span></span>
+The strongest reason for caution is the complicated [source trail]({{ 'source-trail/' | relative_url }}). The account most often cited is not a clean 1868 newspaper report written immediately after the event. It comes through a later document described as a copy from Birmingham’s memorandum book, titled around the idea of “a machine to go through the air” and dated A.D. 1873. Project 1947’s catalogue of pre-1947 Australian unidentified aerial phenomena summarises the source as a 15-page document located by Chalker in 1975, with a chain said to run through UFO researcher T. V. Homan, Mrs N. de Launt in the early 1940s, and the family of Wallace Haywood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbpre47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Open source on project1947.com.</span></span></span>
 
 That chain is not worthless, but it is not ideal. A modern investigator would want the original memorandum, independent witnesses, exact dating, contemporary local newspaper coverage, and a clear distinction between what Birmingham wrote in 1868, what he copied or revised in 1873, and what later custodians transcribed. The original notebook, if it existed in the form described by mid-twentieth-century UFO researchers, has not been the simple, publicly available anchor that would make the case firm.
 
-Recent archival work has improved the picture without removing all uncertainty. In 2024, Chalker reported viewing a University of Sydney Rare Books and Special Collections holding described as letters to editors of the Cumberland Mercury and Sydney Echo on Parramatta water supply and aeronautics, plus manuscript notes and receipts attributed to Birmingham, dated 1864–1884. He connected the material to Herbert Rumsey, a local history researcher who had written in 1911 about Birmingham and flying. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2024/08/the-birmingham-ufo-vision-manuscript.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
+Recent archival work has improved the picture without removing all uncertainty. In 2024, Chalker reported viewing a University of Sydney Rare Books and Special Collections holding described as letters to editors of the Cumberland Mercury and Sydney Echo on Parramatta water supply and aeronautics, plus manuscript notes and receipts attributed to Birmingham, dated 1864–1884. He connected the material to Herbert Rumsey, a local history researcher who had written in 1911 about Birmingham and flying.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2024/08/the-birmingham-ufo-vision-manuscript.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
 
-The 2024 material appears important because it gives the Birmingham story a stronger nineteenth- and early twentieth-century paper trail. Chalker reported that the collection included a “F.W. Birmingham Papers” container, manuscript extracts apparently in Birmingham’s hand, and material referring to the 1868 vision. He also noted that some pages were less detailed than the later Homan copy but broadly consistent with it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2024/08/the-birmingham-ufo-vision-manuscript.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
+The 2024 material appears important because it gives the Birmingham story a stronger nineteenth- and early twentieth-century paper trail. Chalker reported that the collection included a “F.W. Birmingham Papers” container, manuscript extracts apparently in Birmingham’s hand, and material referring to the 1868 vision. He also noted that some pages were less detailed than the later Homan copy but broadly consistent with it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2024/08/the-birmingham-ufo-vision-manuscript.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
 
 Even so, the case remains a historian’s puzzle rather than a closed file. The newer material strengthens the argument that Birmingham really existed, really had a persistent “machine to go through the air” idea, and really linked that idea to a vision in July 1868. It does not prove that a physical craft landed in Parramatta Park. The distinction matters because folklore can be historically real even when the event it describes is not physically verified.
 
@@ -337,7 +337,7 @@ The Parramatta ark story survives because it is memorable. It has a named witnes
 
 As evidence for an unknown craft, the case is thin. The account is visionary, possibly dream-based, and filtered through later copies, recollections and interpretations. The most cautious reading is that Birmingham had an intense private experience, interpreted it through his religious and technical imagination, and later tried to build or describe an aerial machine inspired by it. That reading fits the surviving material better than a claim that New South Wales recorded a confirmed UFO landing in 1868.
 
-As folklore, however, it is unusually rich. It shows that long before “UFO” became a formal category and long before Australian authorities kept Cold War-era files on sightings, New South Wales already had stories about extraordinary things in the sky. The National Archives of Australia notes that the Royal Australian Air Force later investigated UFO reports until 1994, judging that only a small percentage could not be explained and that they posed little or no security threat. Birmingham’s ark belongs to a much earlier world, before official UFO bureaucracy, radar cases, [pilot reports]({{ 'pilot-reports/' | relative_url }}) or mass-media saucer scares. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+As folklore, however, it is unusually rich. It shows that long before “UFO” became a formal category and long before Australian authorities kept Cold War-era files on sightings, New South Wales already had stories about extraordinary things in the sky. The National Archives of Australia notes that the Royal Australian Air Force later investigated UFO reports until 1994, judging that only a small percentage could not be explained and that they posed little or no security threat. Birmingham’s ark belongs to a much earlier world, before official UFO bureaucracy, radar cases, [pilot reports]({{ 'pilot-reports/' | relative_url }}) or mass-media saucer scares.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 That earlier world changes how the story should be handled. It should not be forced into the same frame as twentieth-century aircraft, radar or military cases. Nor should it be dismissed as meaningless simply because it is strange. Its importance is cultural and historical: it marks an early New South Wales example of the human habit of turning baffling sky experiences into stories about technology, destiny and hidden knowledge.
 
@@ -346,7 +346,7 @@ That earlier world changes how the story should be handled. It should not be for
 
 ## Why Parramatta matters in New South Wales UFO history
 
-Parramatta gives the story a local weight that a vague “Australian mystery” would not have. Birmingham lived and worked in the Parramatta area, served in local civic life, and placed his experience in the landscape of Duck’s Lane and Parramatta Park. The City of Parramatta’s own heritage account now treats the episode as part of Birmingham’s biography, describing the 1868 “UFO vision” and the later memorandum-book reference to a flying ark. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historyandheritage.cityofparramatta.nsw.gov.au/blog/2014/01/09/frederick-william-birmingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyandheritage.cityofparramatta.nsw.gov.au">[Parramatta History and Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyandheritage.cityofparramatta.nsw.gov.au</span><span class="citation-popover-snippet">Open source on nsw.gov.au.</span></span></span>
+Parramatta gives the story a local weight that a vague “Australian mystery” would not have. Birmingham lived and worked in the Parramatta area, served in local civic life, and placed his experience in the landscape of Duck’s Lane and Parramatta Park. The City of Parramatta’s own heritage account now treats the episode as part of Birmingham’s biography, describing the 1868 “UFO vision” and the later memorandum-book reference to a flying ark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historyandheritage.cityofparramatta.nsw.gov.au/blog/2014/01/09/frederick-william-birmingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyandheritage.cityofparramatta.nsw.gov.au">[Parramatta History and Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyandheritage.cityofparramatta.nsw.gov.au</span><span class="citation-popover-snippet">Open source on nsw.gov.au.</span></span></span>
 
 For a New South Wales UFO history project, the case works best as a starting point rather than a centrepiece. It predates the better-documented modern era and reminds readers that the state’s UFO record is not only a list of post-1947 sightings. It also includes older newspaper-era curiosities, visionary claims, aviation dreams and stories that later researchers reclassified through the UFO lens.
 
@@ -355,9 +355,9 @@ The Parramatta ark also helps separate three ideas that are often blurred togeth
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **A historical person:** Birmingham is well attested as a Parramatta engineer, surveyor and civic figure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historyandheritage.cityofparramatta.nsw.gov.au/blog/2014/01/09/frederick-william-birmingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyandheritage.cityofparramatta.nsw.gov.au">[Parramatta History and Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyandheritage.cityofparramatta.nsw.gov.au</span><span class="citation-popover-snippet">Open source on nsw.gov.au.</span></span></span>
-* **A historical tradition:** documents and later research show a persistent story linking him to a July 1868 vision and an aerial machine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2024/08/the-birmingham-ufo-vision-manuscript.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
-* **A physical UFO claim:** the evidence for an actual object landing in Parramatta Park is not strong enough to treat as established fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbpre47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Open source on project1947.com.</span></span></span>
+* **A historical person:** Birmingham is well attested as a Parramatta engineer, surveyor and civic figure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historyandheritage.cityofparramatta.nsw.gov.au/blog/2014/01/09/frederick-william-birmingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyandheritage.cityofparramatta.nsw.gov.au">[Parramatta History and Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyandheritage.cityofparramatta.nsw.gov.au</span><span class="citation-popover-snippet">Open source on nsw.gov.au.</span></span></span>
+* **A historical tradition:** documents and later research show a persistent story linking him to a July 1868 vision and an aerial machine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2024/08/the-birmingham-ufo-vision-manuscript.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
+* **A physical UFO claim:** the evidence for an actual object landing in Parramatta Park is not strong enough to treat as established fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbpre47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Open source on project1947.com.</span></span></span>
 
 </div>
 
@@ -373,194 +373,194 @@ The most balanced judgement is that the Parramatta 1868 ark story is an early UF
 Its place in New South Wales UFO history is therefore modest but distinctive. It is a reminder that the state’s sky mysteries did not begin with saucer headlines, official defence files or modern witness databases. They also grew out of older local stories, handwritten notes, newspaper fragments, inventive ambition and the human urge to explain the impossible using the language available at the time.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Parramatta Have a UFO Story Before Flying Saucers?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Parramatta Have a UFO Story Before Flying Saucers?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Directly addresses historical reports of strange aerial phenomena predating 1947.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses historical reports of strange aerial phenomena predating 1947.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers compare anecdotal historical accounts with evidence-based UFO investigation methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers compare anecdotal historical accounts with evidence-based UFO investigation methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding how legendary and visionary accounts differ from modern UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how legendary and visionary accounts differ from modern UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oz Files on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oz Files">The Oz Files</a>
-        </h4>
-        <p class="fr-book-author">By Bill Chalker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oz Files on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oz Files">The Oz Files</a>
+</h4>
+<p class="fr-book-author">By Bill Chalker</p>
         
-        <p class="fr-book-desc">Provides background on Australian UFO history, folklore, and early reports relevant to pre-flying-saucer stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on Australian UFO history, folklore, and early reports relevant to pre-flying-saucer stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/fc3a7eeca08aeec6e9da.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/fc3a7eeca08aeec6e9da.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green"><img src="{{ '/assets/images/marketplace-covers/0e2e228271ded4497715.jpg' | relative_url }}" alt="Listing image for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green"><img src="{{ '/assets/images/marketplace-covers/0e2e228271ded4497715.jpg' | relative_url }}" alt="Listing image for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="parramatta-1868-did-parramatta-have-a-ufo-story-before-flying-saucers-new-south-wales-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ Its place in New South Wales UFO history is therefore modest but distinctive. It
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ Its place in New South Wales UFO history is therefore modest but distinctive. It
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ Its place in New South Wales UFO history is therefore modest but distinctive. It
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ Its place in New South Wales UFO history is therefore modest but distinctive. It
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ Its place in New South Wales UFO history is therefore modest but distinctive. It
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,182 +766,182 @@ Its place in New South Wales UFO history is therefore modest but distinctive. It
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/kbcat/kbpre47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbpre47.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kbpre47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbpre47.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: theozfiles.blogspot.com  
-   Link: <a href="https://theozfiles.blogspot.com/2024/08/the-birmingham-ufo-vision-manuscript.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2024/08/the-birmingham-ufo-vision-manuscript.html</a>  
+   Link:<a href="https://theozfiles.blogspot.com/2024/08/the-birmingham-ufo-vision-manuscript.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2024/08/the-birmingham-ufo-vision-manuscript.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theozfiles.blogspot.com  
    Title: the 1868 ufo vision of frederick  
-   Link: <a href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html</a>  
+   Link:<a href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: naa.gov.au  
    Title: NAAFlying saucers – fact or fiction? | naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: parramattaheritage.blogspot.com  
-   Link: <a href="https://parramattaheritage.blogspot.com/2014/01/frederick-william-birmingham_9.html" target="_blank" rel="noopener noreferrer nofollow">https://parramattaheritage.blogspot.com/2014/01/frederick-william-birmingham_9.html</a>  
+   Link:<a href="https://parramattaheritage.blogspot.com/2014/01/frederick-william-birmingham_9.html" target="_blank" rel="noopener noreferrer nofollow">https://parramattaheritage.blogspot.com/2014/01/frederick-william-birmingham_9.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: parramattaheritage.blogspot.com  
    Title: lennox bridge parramatta 1836 1839  
-   Link: <a href="https://parramattaheritage.blogspot.com/2014/01/lennox-bridge-parramatta-1836-1839.html" target="_blank" rel="noopener noreferrer nofollow">https://parramattaheritage.blogspot.com/2014/01/lennox-bridge-parramatta-1836-1839.html</a>  
+   Link:<a href="https://parramattaheritage.blogspot.com/2014/01/lennox-bridge-parramatta-1836-1839.html" target="_blank" rel="noopener noreferrer nofollow">https://parramattaheritage.blogspot.com/2014/01/lennox-bridge-parramatta-1836-1839.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theozfiles.blogspot.com  
    Title: did frederick william birmingham build  
-   Link: <a href="https://theozfiles.blogspot.com/2013/11/did-frederick-william-birmingham-build.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2013/11/did-frederick-william-birmingham-build.html</a>  
+   Link:<a href="https://theozfiles.blogspot.com/2013/11/did-frederick-william-birmingham-build.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2013/11/did-frederick-william-birmingham-build.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theozfiles.blogspot.com  
    Title: the old and new  
-   Link: <a href="https://theozfiles.blogspot.com/2018/07/the-old-and-new.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2018/07/the-old-and-new.html</a>  
+   Link:<a href="https://theozfiles.blogspot.com/2018/07/the-old-and-new.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2018/07/the-old-and-new.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: history.com  
    Title: a year in history  
-   Link: <a href="https://www.history.com/a-year-in-history/1868" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/a-year-in-history/1868</a>  
+   Link:<a href="https://www.history.com/a-year-in-history/1868" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/a-year-in-history/1868</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
+   Link:<a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: garagegraphicshistory.blogspot.com  
    Title: ufo encounter parramatta park australia  
-   Link: <a href="https://garagegraphicshistory.blogspot.com/2023/11/ufo-encounter-parramatta-park-australia.html" target="_blank" rel="noopener noreferrer nofollow">https://garagegraphicshistory.blogspot.com/2023/11/ufo-encounter-parramatta-park-australia.html</a>  
+   Link:<a href="https://garagegraphicshistory.blogspot.com/2023/11/ufo-encounter-parramatta-park-australia.html" target="_blank" rel="noopener noreferrer nofollow">https://garagegraphicshistory.blogspot.com/2023/11/ufo-encounter-parramatta-park-australia.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: australianhistoricaluforeports.blogspot.com  
-   Link: <a href="https://australianhistoricaluforeports.blogspot.com/2015/" target="_blank" rel="noopener noreferrer nofollow">https://australianhistoricaluforeports.blogspot.com/2015/</a>  
+   Link:<a href="https://australianhistoricaluforeports.blogspot.com/2015/" target="_blank" rel="noopener noreferrer nofollow">https://australianhistoricaluforeports.blogspot.com/2015/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufos-scientificresearch.blogspot.com  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2010/12/wonders-in-skies.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2010/12/wonders-in-skies.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2010/12/wonders-in-skies.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2010/12/wonders-in-skies.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: historyandheritage.cityofparramatta.nsw.gov.au  
-   Link: <a href="https://historyandheritage.cityofparramatta.nsw.gov.au/blog/2014/01/09/frederick-william-birmingham" target="_blank" rel="noopener noreferrer nofollow">https://historyandheritage.cityofparramatta.nsw.gov.au/blog/2014/01/09/frederick-william-birmingham</a>  
+   Link:<a href="https://historyandheritage.cityofparramatta.nsw.gov.au/blog/2014/01/09/frederick-william-birmingham" target="_blank" rel="noopener noreferrer nofollow">https://historyandheritage.cityofparramatta.nsw.gov.au/blog/2014/01/09/frederick-william-birmingham</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
+   Link:<a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/13132991" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/13132991</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/13132991" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/13132991</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/27518557" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/27518557</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/27518557" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/27518557</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/36860880" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/36860880</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/36860880" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/36860880</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/27583456" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/27583456</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/27583456" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/27583456</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/18176338" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18176338</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/18176338" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18176338</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/18416056" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18416056</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/18416056" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18416056</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/18287185" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18287185</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/18287185" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18287185</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/27935698" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/27935698</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/27935698" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/27935698</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/223683846" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/223683846</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/223683846" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/223683846</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/27582723" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/27582723</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/27582723" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/27582723</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/18166149" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18166149</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/18166149" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18166149</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: backstorypress.com  
-   Link: <a href="https://backstorypress.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://backstorypress.com/tag/ufo/</a>  
+   Link:<a href="https://backstorypress.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://backstorypress.com/tag/ufo/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pt.scribd.com  
-   Link: <a href="https://pt.scribd.com/document/681435010/222222222222222222222222" target="_blank" rel="noopener noreferrer nofollow">https://pt.scribd.com/document/681435010/222222222222222222222222</a>  
+   Link:<a href="https://pt.scribd.com/document/681435010/222222222222222222222222" target="_blank" rel="noopener noreferrer nofollow">https://pt.scribd.com/document/681435010/222222222222222222222222</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dictionaryofsydney.org  
    Title: parramatta park  
-   Link: <a href="https://dictionaryofsydney.org/entry/parramatta_park" target="_blank" rel="noopener noreferrer nofollow">https://dictionaryofsydney.org/entry/parramatta_park</a>  
+   Link:<a href="https://dictionaryofsydney.org/entry/parramatta_park" target="_blank" rel="noopener noreferrer nofollow">https://dictionaryofsydney.org/entry/parramatta_park</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: HISTORY OF UFOs AND ALIENS COMPILATION  
-   Link: <a href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SqxG1voGDJM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before Roswell: Close Encounters of Early America...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SqxG1voGDJM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before Roswell: Close Encounters of Early America...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Archived: Australia's UFO Files | Official Trailer  
-   Link: <a href="https://www.youtube.com/watch?v=-YsZ0pFFBTg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-YsZ0pFFBTg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY OF UFOs AND ALIENS COMPILATION - From ancient times to our present day...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-YsZ0pFFBTg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-YsZ0pFFBTg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY OF UFOs AND ALIENS COMPILATION - From ancient times to our present day...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1u4vejg/air_force_records_appear_and_disappear_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1u4vejg/air_force_records_appear_and_disappear_from/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1u4vejg/air_force_records_appear_and_disappear_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1u4vejg/air_force_records_appear_and_disappear_from/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: gml.com.au  
-   Link: <a href="https://gml.com.au/news/archaeological-investigations-in-parramatta/" target="_blank" rel="noopener noreferrer nofollow">https://gml.com.au/news/archaeological-investigations-in-parramatta/</a>  
+   Link:<a href="https://gml.com.au/news/archaeological-investigations-in-parramatta/" target="_blank" rel="noopener noreferrer nofollow">https://gml.com.au/news/archaeological-investigations-in-parramatta/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
+   Link:<a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: birminghambotanicalgardens.org.uk  
-   Link: <a href="https://birminghambotanicalgardens.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://birminghambotanicalgardens.org.uk/</a>  
+   Link:<a href="https://birminghambotanicalgardens.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://birminghambotanicalgardens.org.uk/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p16.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p16.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fqfgfh/if_flying_saucer_is_a_misreport_of_kenneth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fqfgfh/if_flying_saucer_is_a_misreport_of_kenneth/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fqfgfh/if_flying_saucer_is_a_misreport_of_kenneth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fqfgfh/if_flying_saucer_is_a_misreport_of_kenneth/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rkiay1/national_archives_documents_reveal_royal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rkiay1/national_archives_documents_reveal_royal/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1rkiay1/national_archives_documents_reveal_royal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rkiay1/national_archives_documents_reveal_royal/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: asha.org.au  
-   Link: <a href="https://asha.org.au/pdf/australasian_historical_archaeology/26_04_Stocks.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asha.org.au/pdf/australasian_historical_archaeology/26_04_Stocks.pdf</a>  
+   Link:<a href="https://asha.org.au/pdf/australasian_historical_archaeology/26_04_Stocks.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asha.org.au/pdf/australasian_historical_archaeology/26_04_Stocks.pdf</a>  

@@ -256,15 +256,15 @@ image: /assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_swanb
 
 ## Introduction
 
-The Swanbourne sighting is a useful example of how ordinary airport lighting can produce a convincing UFO report. In August 1973, a witness in Perth’s western suburbs reported bright white or blue-white lights moving south before disappearing behind trees. The case appeared unusual at first glance, but the Royal Australian Air Force summary later recorded a straightforward possible explanation: aircraft approaching Perth Airport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">blue-white lights in ERE iiKDving south and disappeared behind trees Aircraft approaching Perth airport. 13 Aug 73 0950-1000 Rowville, Vi...</span></span></span>
+The Swanbourne sighting is a useful example of how ordinary airport lighting can produce a convincing UFO report. In August 1973, a witness in Perth’s western suburbs reported bright white or blue-white lights moving south before disappearing behind trees. The case appeared unusual at first glance, but the Royal Australian Air Force summary later recorded a straightforward possible explanation: aircraft approaching Perth Airport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">blue-white lights in ERE iiKDving south and disappeared behind trees Aircraft approaching Perth airport. 13 Aug 73 0950-1000 Rowville, Vi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_swanbourne_airport_l_0aa0e6-Illustration-1-dark.svg" | relative_url }}" alt="Approach Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_swanbourne_airport_l_0aa0e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_swanbourne_airport_l_0aa0e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the Swanbourne report important in [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }})’s UFO history is not the sighting itself but the mechanism behind it. It demonstrates what investigators sometimes call the airport perspective problem: when observers view aircraft landing lights or approach lighting almost head-on, judging distance, speed and direction becomes surprisingly difficult. A real aircraft can appear stationary, extremely bright, unusually large, or capable of strange manoeuvres even when following a normal landing path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Approach_lighting_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Approach lighting system</span><span class="citation-popover-snippet">Approach lighting system</span></span></span>
+What makes the Swanbourne report important in [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }})’s UFO history is not the sighting itself but the mechanism behind it. It demonstrates what investigators sometimes call the airport perspective problem: when observers view aircraft landing lights or approach lighting almost head-on, judging distance, speed and direction becomes surprisingly difficult. A real aircraft can appear stationary, extremely bright, unusually large, or capable of strange manoeuvres even when following a normal landing path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Approach_lighting_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Approach lighting system</span><span class="citation-popover-snippet">Approach lighting system</span></span></span>
 
 ## What was seen from Swanbourne
 
-The 1973 RAAF sighting summary records a report from Swanbourne describing bright white or blue-white lights moving south and then disappearing behind trees. The official entry listed the possible cause as aircraft approaching Perth Airport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">blue-white lights in ERE iiKDving south and disappeared behind trees Aircraft approaching Perth airport. 13 Aug 73 0950-1000 Rowville, Vi...</span></span></span>
+The 1973 RAAF sighting summary records a report from Swanbourne describing bright white or blue-white lights moving south and then disappearing behind trees. The official entry listed the possible cause as aircraft approaching Perth Airport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">blue-white lights in ERE iiKDving south and disappeared behind trees Aircraft approaching Perth airport. 13 Aug 73 0950-1000 Rowville, Vi...</span></span></span>
 
 The description is notable because it contains several features often found in urban UFO reports:
 
@@ -278,16 +278,16 @@ The description is notable because it contains several features often found in u
 
 </div>
 
-None of these features automatically identify an aircraft. However, they are exactly the sort of circumstances in which perspective effects become important. A witness may be looking directly along an aircraft’s approach path rather than across it, making normal flight behaviour appear unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Approach_lighting_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Approach lighting system</span><span class="citation-popover-snippet">Approach lighting system</span></span></span>
+None of these features automatically identify an aircraft. However, they are exactly the sort of circumstances in which perspective effects become important. A witness may be looking directly along an aircraft’s approach path rather than across it, making normal flight behaviour appear unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Approach_lighting_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Approach lighting system</span><span class="citation-popover-snippet">Approach lighting system</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zmux_WJ3Bcc" title="How Runway Illusions affect pilot’s perception | SIMPLY explained." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zmux_WJ3Bcc" target="_blank" rel="noopener noreferrer">How Runway Illusions affect pilot’s perception | SIMPLY explained.</a></p><p class="youtube-embed-meta">Channel: flight-club &middot; Views: 43.4K &middot; Uploaded: February 2023 &middot; Length: 2 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zmux_WJ3Bcc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zmux_WJ3Bcc">Open on YouTube</a></p></div></div></div>
 
 ## How aircraft approach lights confuse distance and motion
 
-The key lesson from Swanbourne is that people estimate movement by comparing an object's position against the background. When an aircraft is flying almost directly towards an observer, very little sideways motion is visible. The aircraft may therefore seem to hover or creep slowly even though it is travelling at high speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Approach_lighting_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Approach lighting system</span><span class="citation-popover-snippet">Approach lighting system</span></span></span>
+The key lesson from Swanbourne is that people estimate movement by comparing an object's position against the background. When an aircraft is flying almost directly towards an observer, very little sideways motion is visible. The aircraft may therefore seem to hover or creep slowly even though it is travelling at high speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Approach_lighting_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Approach lighting system</span><span class="citation-popover-snippet">Approach lighting system</span></span></span>
 
-Aircraft landing lights contribute to the effect. Modern landing lights are extremely bright and can be visible from great distances. When viewed head-on at night, the observer may see a brilliant light source without recognising it as an aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>
+Aircraft landing lights contribute to the effect. Modern landing lights are extremely bright and can be visible from great distances. When viewed head-on at night, the observer may see a brilliant light source without recognising it as an aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>
 
 Several visual effects can occur simultaneously:
 
@@ -307,13 +307,13 @@ The landing lights may be visible long before the aircraft’s wings, fuselage o
 
 Trees, buildings or terrain can hide the aircraft at a critical moment, creating the impression that the light vanished rather than simply passing behind an obstacle.
 
-These effects are well known in aviation. Approach-light systems and landing lights are designed specifically to provide strong visual cues over long distances, and aviation safety literature recognises that bright runway and approach lighting can distort perceptions of distance, altitude and position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafety.org">[Flight Safety Foundation+2Flight Training Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafety.org</span><span class="citation-popover-snippet">Flight Safety FoundationFSF ALAR Briefing Note 5.3 -- Visual IllusionsMarch 2, 2005 — – Approach lighting and runway lighting (including...</span><span class="citation-popover-meta">Published: March 2, 2005</span></span></span>
+These effects are well known in aviation. Approach-light systems and landing lights are designed specifically to provide strong visual cues over long distances, and aviation safety literature recognises that bright runway and approach lighting can distort perceptions of distance, altitude and position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafety.org">[flightsafety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafety.org</span><span class="citation-popover-snippet">Flight Safety FoundationFSF ALAR Briefing Note 5.3 -- Visual IllusionsMarch 2, 2005 — – Approach lighting and runway lighting (including...</span><span class="citation-popover-meta">Published: March 2, 2005</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_swanbourne_airport_l_0aa0e6-Illustration-2-dark.svg" | relative_url }}" alt="Approach Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_swanbourne_airport_l_0aa0e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_swanbourne_airport_l_0aa0e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why trees matter
 
-One small detail in the Swanbourne report is especially revealing: the lights disappeared behind trees. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">blue-white lights in ERE iiKDving south and disappeared behind trees Aircraft approaching Perth airport. 13 Aug 73 0950-1000 Rowville, Vi...</span></span></span>
+One small detail in the Swanbourne report is especially revealing: the lights disappeared behind trees.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">blue-white lights in ERE iiKDving south and disappeared behind trees Aircraft approaching Perth airport. 13 Aug 73 0950-1000 Rowville, Vi...</span></span></span>
 
 From a UFO perspective, a light that suddenly vanishes can seem mysterious. From an aviation perspective, partial obstruction is exactly what might be expected in a suburban environment. If an observer sees only the brightest lights of an approaching aircraft through gaps in vegetation, the object can appear fragmented, intermittent or oddly shaped. Once the aircraft passes behind a line of trees, the visible light source disappears even though the aircraft continues along its normal approach path.
 
@@ -321,21 +321,21 @@ This is one reason investigators pay close attention to local geography rather t
 
 ## Why Perth Airport checks changed the interpretation
 
-The significance of the Swanbourne case lies in what happened after the report was examined. Rather than remaining an unexplained aerial phenomenon, it was assessed against local aviation activity. The resulting entry identified approaching aircraft as the likely source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">blue-white lights in ERE iiKDving south and disappeared behind trees Aircraft approaching Perth airport. 13 Aug 73 0950-1000 Rowville, Vi...</span></span></span>
+The significance of the Swanbourne case lies in what happened after the report was examined. Rather than remaining an unexplained aerial phenomenon, it was assessed against local aviation activity. The resulting entry identified approaching aircraft as the likely source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">blue-white lights in ERE iiKDving south and disappeared behind trees Aircraft approaching Perth airport. 13 Aug 73 0950-1000 Rowville, Vi...</span></span></span>
 
 That process reflects a broader pattern found in Perth-area UFO records from the 1970s. Investigators increasingly compared sightings with:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Perth Airport flight operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">blue-white lights in ERE iiKDving south and disappeared behind trees Aircraft approaching Perth airport. 13 Aug 73 0950-1000 Rowville, Vi...</span></span></span>
+* Perth Airport flight operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">blue-white lights in ERE iiKDving south and disappeared behind trees Aircraft approaching Perth airport. 13 Aug 73 0950-1000 Rowville, Vi...</span></span></span>
 * Civil airline movements.
 * Military aircraft activity associated with RAAF Base Pearce.
 * Known flight paths and approach corridors.
 
 </div>
 
-When those checks were carried out, some apparently unusual reports acquired ordinary [explanations]({{ 'explanations-7a0dd2/' | relative_url }}). The witness had usually seen something real, but the identity of the object became less mysterious once aviation information was added. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;Full text of &quot;Australian UFO Files&quot;. See other formats. ASfi HAY... As soon as possib...</span></span></span>
+When those checks were carried out, some apparently unusual reports acquired ordinary [explanations]({{ 'explanations-7a0dd2/' | relative_url }}). The witness had usually seen something real, but the identity of the object became less mysterious once aviation information was added.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;Full text of &quot;Australian UFO Files&quot;. See other formats. ASfi HAY... As soon as possib...</span></span></span>
 
 The Swanbourne report therefore sits in an important category within Western Australian UFO history: sightings that were initially puzzling but became understandable through aviation context rather than through new physical evidence.
 
@@ -355,205 +355,205 @@ For readers examining Perth-area UFO claims, the case highlights three practical
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Was the observer looking along an aircraft approach path?
-2. Were landing lights or airport approach lights visible from that location? <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>
+2. Were landing lights or airport approach lights visible from that location?<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>
 3. Could trees, buildings or terrain have altered the apparent movement of the light?
 
 </div>
 
-The value of the Swanbourne report is that it demonstrates a repeatable mechanism rather than a one-off mystery. In a metropolitan area with busy air traffic, the combination of bright approach lighting, head-on viewing angles and partial obstruction can produce sightings that genuinely appear strange until airport operations are checked. That is why the case remains a useful reference point within the broader pattern of Perth-area sightings and ordinary aircraft explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">blue-white lights in ERE iiKDving south and disappeared behind trees Aircraft approaching Perth airport. 13 Aug 73 0950-1000 Rowville, Vi...</span></span></span>
+The value of the Swanbourne report is that it demonstrates a repeatable mechanism rather than a one-off mystery. In a metropolitan area with busy air traffic, the combination of bright approach lighting, head-on viewing angles and partial obstruction can produce sightings that genuinely appear strange until airport operations are checked. That is why the case remains a useful reference point within the broader pattern of Perth-area sightings and ordinary aircraft explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">blue-white lights in ERE iiKDving south and disappeared behind trees Aircraft approaching Perth airport. 13 Aug 73 0950-1000 Rowville, Vi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_swanbourne_airport_l_0aa0e6-Illustration-3-dark.svg" | relative_url }}" alt="Approach Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_swanbourne_airport_l_0aa0e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_perth_aircraft_expla_4c4451_swanbourne_airport_l_0aa0e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why airport lights can look like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why airport lights can look like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical investigation of UFO reports and discusses how many sightings were ultimately explained.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical investigation of UFO reports and discusses how many sightings were ultimately explained.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers aviation-related UFO cases that help readers compare unexplained reports with conventional aircraft-based interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers aviation-related UFO cases that help readers compare unexplained reports with conventional aircraft-based interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Focuses specifically on conventional explanations for UFO reports, including aircraft lights and observational errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses specifically on conventional explanations for UFO reports, including aircraft lights and observational errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how perception, misidentification, and critical investigation can turn mysterious observations into understandable phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains how perception, misidentification, and critical investigation can turn mysterious observations into understandable phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA"><img src="{{ '/assets/images/marketplace-covers/cefd61bc171d73ee0b9c.jpg' | relative_url }}" alt="Listing image for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA"><img src="{{ '/assets/images/marketplace-covers/cefd61bc171d73ee0b9c.jpg' | relative_url }}" alt="Listing image for 3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">3 x Model aircraft display stand 1/72, 1/48, 1/144 Transparent PLA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand"><img src="{{ '/assets/images/marketplace-covers/a4e868e4bd9f69142722.jpg' | relative_url }}" alt="Listing image for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand"><img src="{{ '/assets/images/marketplace-covers/a4e868e4bd9f69142722.jpg' | relative_url }}" alt="Listing image for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription"><img src="{{ '/assets/images/marketplace-covers/17439ca66b8ddc27eec1.jpg' | relative_url }}" alt="Listing image for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Model aircraft display stand 1/48, 1/72. Personalised with your own inscription</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription"><img src="{{ '/assets/images/marketplace-covers/17439ca66b8ddc27eec1.jpg' | relative_url }}" alt="Listing image for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Model aircraft display stand 1/48, 1/72. Personalised with your own inscription</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="approach-lights-why-airport-lights-can-look-like-ufos-western-australia-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ The value of the Swanbourne report is that it demonstrates a repeatable mechanis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ The value of the Swanbourne report is that it demonstrates a repeatable mechanis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ The value of the Swanbourne report is that it demonstrates a repeatable mechanis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ The value of the Swanbourne report is that it demonstrates a repeatable mechanis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ The value of the Swanbourne report is that it demonstrates a repeatable mechanis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,91 +759,91 @@ The value of the Swanbourne report is that it demonstrates a repeatable mechanis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Australian UFO Files"  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>blue-white lights in ERE iiKDving south and disappeared behind trees Aircraft approaching Perth airport. 13 Aug 73 0950-1000 Rowville, Vi...</p></details>
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>blue-white lights in ERE iiKDving south and disappeared behind trees Aircraft approaching Perth airport. 13 Aug 73 0950-1000 Rowville, Vi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Approach lighting system  
-   Link: <a href="https://en.wikipedia.org/wiki/Approach_lighting_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Approach_lighting_system</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Approach_lighting_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Approach_lighting_system</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Landing lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Landing_lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Landing_lights</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;Australian UFO Files&quot;Full text of &quot;Australian UFO Files&quot;. See other formats. ASfi HAY... As soon as possib...</p></details>
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;Australian UFO Files&quot;Full text of &quot;Australian UFO Files&quot;. See other formats. ASfi HAY... As soon as possib...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: flightsafety.org  
-   Link: <a href="https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety FoundationFSF ALAR Briefing Note 5.3 -- Visual IllusionsMarch 2, 2005 — – Approach lighting and runway lighting (including...</p></details>
+   Link:<a href="https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety FoundationFSF ALAR Briefing Note 5.3 -- Visual IllusionsMarch 2, 2005 — – Approach lighting and runway lighting (including...</p></details>
    Published: March 2, 2005  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: flighttrainingcentral.com  
    Title: be aware of these 5 night flying deceptions  
-   Link: <a href="https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/" target="_blank" rel="noopener noreferrer nofollow">https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In this situation, the...Read more...</p></details>
+   Link:<a href="https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/" target="_blank" rel="noopener noreferrer nofollow">https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this situation, the...Read more...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation: Visual IllusionsA final approach over a downsloping terrain with a flat runway may produce the visual illusion th...</p></details>
+   Link:<a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation: Visual IllusionsA final approach over a downsloping terrain with a flat runway may produce the visual illusion th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC Perth on Instagram: &quot;&quot;It looked like they were in a triangle...A string of sightings of strange lights in the sky has sparked commun...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC Perth on Instagram: &quot;&quot;It looked like they were in a triangle...A string of sightings of strange lights in the sky has sparked commun...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/perth/comments/1lfa6w9/lights_in_sky_near_airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/perth/comments/1lfa6w9/lights_in_sky_near_airport/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights in sky near airport: r/perthSaw these lights on the way back from the airport. They were periodically moving and joining together...</p></details>
+   Link:<a href="https://www.reddit.com/r/perth/comments/1lfa6w9/lights_in_sky_near_airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/perth/comments/1lfa6w9/lights_in_sky_near_airport/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lights in sky near airport: r/perthSaw these lights on the way back from the airport. They were periodically moving and joining together...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessWhen landing on a wet runway, peripheral vision of runway edge lights should be used to increase the depth perc...</p></details>
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessWhen landing on a wet runway, peripheral vision of runway edge lights should be used to increase the depth perc...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1979612345859315/posts/2255549451598935/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1979612345859315/posts/2255549451598935/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These lights help pilots identify the airport and align with the runway for landing...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1979612345859315/posts/2255549451598935/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1979612345859315/posts/2255549451598935/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These lights help pilots identify the airport and align with the runway for landing...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: Social media across Australia were alight with footage of what  
-   Link: <a href="https://www.facebook.com/Timesnow/posts/social-media-across-australia-were-alight-with-footage-of-what-people-thought-we/1231644865673440/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Timesnow/posts/social-media-across-australia-were-alight-with-footage-of-what-people-thought-we/1231644865673440/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>drones should not discount credible footage of potential UFOs. “The... ” * The beginnings of Australian government interest in official...</p></details>
+   Link:<a href="https://www.facebook.com/Timesnow/posts/social-media-across-australia-were-alight-with-footage-of-what-people-thought-we/1231644865673440/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Timesnow/posts/social-media-across-australia-were-alight-with-footage-of-what-people-thought-we/1231644865673440/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>drones should not discount credible footage of potential UFOs. “The... ” * The beginnings of Australian government interest in official...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abc.net.au  
    Title: unexplained uap sightings reported across midwest wa  
-   Link: <a href="https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained lights in the sky sparks UAP chatter across...23 Sept 2025 — A string of sightings of strange lights in the sky has sparked...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained lights in the sky sparks UAP chatter across...23 Sept 2025 — A string of sightings of strange lights in the sky has sparked...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: northstarvfr.com  
    Title: aviation visual illusions pilots often experience  
-   Link: <a href="https://northstarvfr.com/blogs/news/aviation-visual-illusions-pilots-often-experience?srsltid=AfmBOor7LZadmHOL28Xw3Er086TFfnLiAtxSr0CtvR_jcSXA6prjKW67" target="_blank" rel="noopener noreferrer nofollow">https://northstarvfr.com/blogs/news/aviation-visual-illusions-pilots-often-experience?srsltid=AfmBOor7LZadmHOL28Xw3Er086TFfnLiAtxSr0CtvR_jcSXA6prjKW67</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Aviation Visual Illusions Pilots Often Experience20 Apr 2025 — Ground lighting, such as lights along a straight road, can look like app...</p></details>
+   Link:<a href="https://northstarvfr.com/blogs/news/aviation-visual-illusions-pilots-often-experience?srsltid=AfmBOor7LZadmHOL28Xw3Er086TFfnLiAtxSr0CtvR_jcSXA6prjKW67" target="_blank" rel="noopener noreferrer nofollow">https://northstarvfr.com/blogs/news/aviation-visual-illusions-pilots-often-experience?srsltid=AfmBOor7LZadmHOL28Xw3Er086TFfnLiAtxSr0CtvR_jcSXA6prjKW67</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Aviation Visual Illusions Pilots Often Experience20 Apr 2025 — Ground lighting, such as lights along a straight road, can look like app...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>es form the backbone of Australia&#x27;s rich and mysterious UFO history...</p></details>
+   Link:<a href="https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es form the backbone of Australia&#x27;s rich and mysterious UFO history...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>outside Melbourne, Australia on 8th August 1993. #ufo #uap #et #...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>outside Melbourne, Australia on 8th August 1993. #ufo #uap #et #...</p></details>
    Published: August 1993  

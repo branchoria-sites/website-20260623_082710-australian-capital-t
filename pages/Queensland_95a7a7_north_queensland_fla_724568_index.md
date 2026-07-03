@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /queensland-95a7a7-north-queensland-fla/
 description: Focused pages that expand on Northern Flap.
-date: '2026-06-23'
+date: '2026'
 layout: default
 parent_basename: Queensland_95a7a7_north_queensland_fla_724568
 parent_title: Northern Flap
@@ -16,7 +16,7 @@ parent_permalink: /northern-flap/
 
 # Explore Topics in Northern Flap
 
-The following pages expand on the main **[Northern Flap]({{ '/northern-flap/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Northern Flap]({{ '/northern-flap/' | relative_url }})** page and cover its key branches in.
 
 - [Daunia Station]({{ '/daunia-station/' | relative_url }})
 - [Millaa Millaa]({{ '/millaa-millaa/' | relative_url }})

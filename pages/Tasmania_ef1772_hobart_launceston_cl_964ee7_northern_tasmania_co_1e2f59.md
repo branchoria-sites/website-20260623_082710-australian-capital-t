@@ -262,19 +262,19 @@ image: /assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7_northern_tasma
 
 ## Introduction
 
-Northern [Tasmania]({{ 'what-really-happened-in-tasmanias-ufo/' | relative_url }})’s post-war UFO history is best understood not as one fixed hotspot but as a reporting corridor stretching across the Tamar Valley, the north coast, inland farming districts and the flight routes linking them. Reports appeared in and around Launceston, George Town, Beauty Point, Longford, Cressy, Poatina and Trevallyn, often within relatively short periods. What makes this pattern important is not that it proves a single unexplained phenomenon, but that it shows how geography, population distribution, aviation activity and local media combined to create one of Tasmania’s most persistent concentrations of UFO reporting. Contemporary newspapers, later UFO investigators and Department of Air records all point to northern Tasmania as a region where sightings accumulated more densely than in many other parts of the state. At the same time, official assessments frequently found ordinary [explanations]({{ 'explanations-0349ac/' | relative_url }}), reminding historians that a cluster of reports is not necessarily evidence of a single cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons+2documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
+Northern [Tasmania]({{ 'what-really-happened-in-tasmanias-ufo/' | relative_url }})’s post-war UFO history is best understood not as one fixed hotspot but as a reporting corridor stretching across the Tamar Valley, the north coast, inland farming districts and the flight routes linking them. Reports appeared in and around Launceston, George Town, Beauty Point, Longford, Cressy, Poatina and Trevallyn, often within relatively short periods. What makes this pattern important is not that it proves a single unexplained phenomenon, but that it shows how geography, population distribution, aviation activity and local media combined to create one of Tasmania’s most persistent concentrations of UFO reporting. Contemporary newspapers, later UFO investigators and Department of Air records all point to northern Tasmania as a region where sightings accumulated more densely than in many other parts of the state. At the same time, official assessments frequently found ordinary [explanations]({{ 'explanations-0349ac/' | relative_url }}), reminding historians that a cluster of reports is not necessarily evidence of a single cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[wikimedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7_northern_tasmania_co_1e2f59-Illustration-1-dark.svg" | relative_url }}" alt="Northern Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7_northern_tasmania_co_1e2f59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7_northern_tasmania_co_1e2f59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Reports from Launceston, George Town and Poatina
 
-The northern wave did not begin with the famous [Cressy]({{ 'cressy/' | relative_url }}) incident of October 1960. Earlier reports had already linked communities along the Tamar estuary and north coast. Newspaper accounts from the early 1950s described unusual aerial objects seen around Beauty Point and George Town. [Witnesses]({{ 'witnesses-e9d9f7/' | relative_url }}) reported disc-like shapes, unusual movements and objects that seemed unlike familiar aircraft. These reports were brief and lightly investigated, but they established a pattern in which sightings in one town quickly became part of a wider regional story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tasmaniantimes.com">[Tasmanian Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tasmaniantimes.com</span><span class="citation-popover-title">Tasmanian Times Tas That Was</span><span class="citation-popover-snippet">1890 – 1954), published Tue 4 May 1954. Related Items:Beauty Point, George Town, Tas That Was, UFO. Share. Tweet.Read more...</span><span class="citation-popover-meta">Published: May 1954</span></span></span>
+The northern wave did not begin with the famous [Cressy]({{ 'cressy/' | relative_url }}) incident of October 1960. Earlier reports had already linked communities along the Tamar estuary and north coast. Newspaper accounts from the early 1950s described unusual aerial objects seen around Beauty Point and George Town. [Witnesses]({{ 'witnesses-e9d9f7/' | relative_url }}) reported disc-like shapes, unusual movements and objects that seemed unlike familiar aircraft. These reports were brief and lightly investigated, but they established a pattern in which sightings in one town quickly became part of a wider regional story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tasmaniantimes.com">[Tasmanian Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tasmaniantimes.com</span><span class="citation-popover-title">Tasmanian Times Tas That Was</span><span class="citation-popover-snippet">1890 – 1954), published Tue 4 May 1954. Related Items:Beauty Point, George Town, Tas That Was, UFO. Share. Tweet.Read more...</span><span class="citation-popover-meta">Published: May 1954</span></span></span>
 
-By 1960, the reporting density increased noticeably. Department of Air summaries recorded multiple northern Tasmanian sightings within the same year. These included twin yellow lights over Launceston in January, a crescent-shaped object reported over Launceston in October, further reports connected to Cressy and Longford later that month, unusual observations near Poatina, and additional sightings around Trevallyn in November. The concentration of entries from a relatively small region stands out in official records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
+By 1960, the reporting density increased noticeably. Department of Air summaries recorded multiple northern Tasmanian sightings within the same year. These included twin yellow lights over Launceston in January, a crescent-shaped object reported over Launceston in October, further reports connected to Cressy and Longford later that month, unusual observations near Poatina, and additional sightings around Trevallyn in November. The concentration of entries from a relatively small region stands out in official records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
 
-What is often forgotten is that these reports varied greatly in appearance. Witnesses described lights, coloured objects, crescents, discs and apparently structured craft. The diversity of descriptions argues against the idea that everyone was seeing one recurring object moving around northern Tasmania. Instead, the reports appear to have been grouped together because they occurred within the same broad geographical area and period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
+What is often forgotten is that these reports varied greatly in appearance. Witnesses described lights, coloured objects, crescents, discs and apparently structured craft. The diversity of descriptions argues against the idea that everyone was seeing one recurring object moving around northern Tasmania. Instead, the reports appear to have been grouped together because they occurred within the same broad geographical area and period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
 
-Poatina became particularly notable because several reports originated from the district around the Western Tiers. The area’s elevated terrain, wide views and relative isolation meant that unusual lights could attract attention. Official records include reports of coloured objects and lights observed from the Poatina–Cressy region during the late 1960 wave. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
+Poatina became particularly notable because several reports originated from the district around the Western Tiers. The area’s elevated terrain, wide views and relative isolation meant that unusual lights could attract attention. Official records include reports of coloured objects and lights observed from the Poatina–Cressy region during the late 1960 wave.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IhKyQkhOfoM" title="Schoolyard witnesses in mass UFO sighting demand answers | Australian Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer">Schoolyard witnesses in mass UFO sighting demand answers | Australian Story</a></p><p class="youtube-embed-meta">Channel: ABC News In-depth &middot; Views: 691.6K &middot; Uploaded: April 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IhKyQkhOfoM">Open on YouTube</a></p></div></div></div>
@@ -290,9 +290,9 @@ Several locations associated with the northern wave illustrate this effect:
 * **Launceston and the Tamar Valley** offered large numbers of observers and frequent views of aircraft traffic.
 * **George Town and Beauty Point** combined coastal horizons with maritime traffic and atmospheric effects over water.
 * **Longford and Cressy** sat beneath open skies where bright astronomical objects were easily noticed.
-* **Poatina and the Western Tiers** provided elevated viewpoints and long-distance visibility across the landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tasmaniantimes.com">[Tasmanian Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tasmaniantimes.com</span><span class="citation-popover-title">Tasmanian Times Tas That Was</span><span class="citation-popover-snippet">1890 – 1954), published Tue 4 May 1954. Related Items:Beauty Point, George Town, Tas That Was, UFO. Share. Tweet.Read more...</span><span class="citation-popover-meta">Published: May 1954</span></span></span>
+* **Poatina and the Western Tiers** provided elevated viewpoints and long-distance visibility across the landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tasmaniantimes.com">[Tasmanian Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tasmaniantimes.com</span><span class="citation-popover-title">Tasmanian Times Tas That Was</span><span class="citation-popover-snippet">1890 – 1954), published Tue 4 May 1954. Related Items:Beauty Point, George Town, Tas That Was, UFO. Share. Tweet.Read more...</span><span class="citation-popover-meta">Published: May 1954</span></span></span>
 
-Official investigators repeatedly considered aircraft, atmospheric refraction, balloons and astronomical objects when assessing reports from the area. Some northern Tasmanian cases were eventually attributed to such causes, while others remained formally unidentified because insufficient evidence existed for a definitive conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
+Official investigators repeatedly considered aircraft, atmospheric refraction, balloons and astronomical objects when assessing reports from the area. Some northern Tasmanian cases were eventually attributed to such causes, while others remained formally unidentified because insufficient evidence existed for a definitive conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7_northern_tasmania_co_1e2f59-Illustration-2-dark.svg" | relative_url }}" alt="Northern Wave illustration 2" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7_northern_tasmania_co_1e2f59-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7_northern_tasmania_co_1e2f59-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -300,20 +300,20 @@ Official investigators repeatedly considered aircraft, atmospheric refraction, b
 
 A common misunderstanding in UFO history is that a concentration of reports automatically implies a single underlying phenomenon. Northern Tasmania demonstrates why that assumption can be misleading.
 
-The 1960 reporting wave contained sightings separated by weeks, involving different witnesses, locations and object descriptions. Official assessments attached different explanations to different incidents. Some were considered likely astronomical observations. Others were linked to atmospheric conditions, aircraft or balloons. A few remained unresolved simply because the available information was too limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
+The 1960 reporting wave contained sightings separated by weeks, involving different witnesses, locations and object descriptions. Official assessments attached different explanations to different incidents. Some were considered likely astronomical observations. Others were linked to atmospheric conditions, aircraft or balloons. A few remained unresolved simply because the available information was too limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
 
 This distinction matters. A reporting cluster tells historians that many people reported unusual aerial observations in a particular place and period. It does not automatically tell us that those observations shared the same source.
 
-The northern Tasmanian wave therefore works better as a social and geographical pattern than as a single mystery. Newspapers connected sightings from different towns. Witnesses became aware of earlier reports. Investigators collected incidents into common files. Over time, separate events became remembered as part of one larger northern Tasmania UFO episode. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tasmaniantimes.com">[Tasmanian Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tasmaniantimes.com</span><span class="citation-popover-title">Tasmanian Times Tas That Was</span><span class="citation-popover-snippet">1890 – 1954), published Tue 4 May 1954. Related Items:Beauty Point, George Town, Tas That Was, UFO. Share. Tweet.Read more...</span><span class="citation-popover-meta">Published: May 1954</span></span></span>
+The northern Tasmanian wave therefore works better as a social and geographical pattern than as a single mystery. Newspapers connected sightings from different towns. Witnesses became aware of earlier reports. Investigators collected incidents into common files. Over time, separate events became remembered as part of one larger northern Tasmania UFO episode.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tasmaniantimes.com">[Tasmanian Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tasmaniantimes.com</span><span class="citation-popover-title">Tasmanian Times Tas That Was</span><span class="citation-popover-snippet">1890 – 1954), published Tue 4 May 1954. Related Items:Beauty Point, George Town, Tas That Was, UFO. Share. Tweet.Read more...</span><span class="citation-popover-meta">Published: May 1954</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sEczN_8Q380" title="Secrets of the UFOs | Full Documentary | 7NEWS Spotlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sEczN_8Q380" target="_blank" rel="noopener noreferrer">Secrets of the UFOs | Full Documentary | 7NEWS Spotlight</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 4.5M &middot; Uploaded: December 2021 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sEczN_8Q380" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sEczN_8Q380">Open on YouTube</a></p></div></div></div>
 
 ## What the official record adds to the story
 
-Northern Tasmania is unusual within Tasmanian UFO history because many of its sightings entered official files. The Department of Air and later RAAF reporting systems recorded large numbers of Australian UFO reports during the 1960s and 1970s. Their primary concern was not extraterrestrial explanations but whether any sighting represented a security or aviation issue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/PP959-1_5-3-AIR_1826380.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">AIRBetween 23rd January 1960 and 30th December 1971, the RAAF received 595 U.F.O. reports. Department of Air has assessed that. 93 percen...</span><span class="citation-popover-meta">Published: January 1960</span></span></span>
+Northern Tasmania is unusual within Tasmanian UFO history because many of its sightings entered official files. The Department of Air and later RAAF reporting systems recorded large numbers of Australian UFO reports during the 1960s and 1970s. Their primary concern was not extraterrestrial explanations but whether any sighting represented a security or aviation issue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/PP959-1_5-3-AIR_1826380.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">AIRBetween 23rd January 1960 and 30th December 1971, the RAAF received 595 U.F.O. reports. Department of Air has assessed that. 93 percen...</span><span class="citation-popover-meta">Published: January 1960</span></span></span>
 
-When the northern Tasmanian reports were examined through that lens, investigators often favoured conventional explanations. Refraction effects, aircraft identification and astronomical causes appear repeatedly in official summaries. This does not mean every witness was mistaken in what they saw; rather, it shows that investigators believed many observations could be explained without invoking extraordinary causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
+When the northern Tasmanian reports were examined through that lens, investigators often favoured conventional explanations. Refraction effects, aircraft identification and astronomical causes appear repeatedly in official summaries. This does not mean every witness was mistaken in what they saw; rather, it shows that investigators believed many observations could be explained without invoking extraordinary causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
 
 At the same time, the files preserve evidence that the sightings were genuinely reported and taken seriously enough to record. That combination—real reports, mixed explanations and a concentration within one region—is what makes the northern corridor historically significant.
 
@@ -323,201 +323,201 @@ At the same time, the files preserve evidence that the sightings were genuinely 
 
 Within the broader story of Hobart and Launceston sighting [clusters]({{ 'clusters/' | relative_url }}), northern Tasmania stands out because it demonstrates how UFO waves can emerge from a network of connected communities rather than a single famous location. The reports linked coastal settlements, inland farming districts and aviation routes into one recognisable pattern.
 
-The evidence does not support a conclusion that one unexplained craft repeatedly visited the region. Instead, it points to a more complex mixture of sightings, interpretations and reporting behaviour. Northern Tasmania became a UFO corridor because people across a connected landscape repeatedly reported unusual things in the sky, and those reports were amplified by geography, media attention and official record-keeping. That makes the corridor valuable not only as a collection of individual sightings but also as a case study in how regional UFO waves develop and endure in public memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons+2documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
+The evidence does not support a conclusion that one unexplained craft repeatedly visited the region. Instead, it points to a more complex mixture of sightings, interpretations and reporting behaviour. Northern Tasmania became a UFO corridor because people across a connected landscape repeatedly reported unusual things in the sky, and those reports were amplified by geography, media attention and official record-keeping. That makes the corridor valuable not only as a collection of individual sightings but also as a case study in how regional UFO waves develop and endure in public memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[wikimedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DqNptXsmNrQ" title="TERRIFYING UFO Sightings and Alien Abduction in Tasmania Australia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DqNptXsmNrQ" target="_blank" rel="noopener noreferrer">TERRIFYING UFO Sightings and Alien Abduction in Tasmania Australia</a></p><p class="youtube-embed-meta">Channel: PinkPossibly</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DqNptXsmNrQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DqNptXsmNrQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why northern Tasmania became a UFO corridor. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why northern Tasmania became a UFO corridor. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on sighting classification and investigation, helping readers understand why clusters of reports do not imply a single cause.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on sighting classification and investigation, helping readers understand why clusters of reports do not imply a single cause.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances witness reports, aviation cases and official investigations, matching a page about sighting corridors and reporting clusters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances witness reports, aviation cases and official investigations, matching a page about sighting corridors and reporting clusters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for how governments evaluated waves of sightings similar to those reported across northern Tasmania.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how governments evaluated waves of sightings similar to those reported across northern Tasmania.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how culture, interpretation and reporting patterns shape UFO narratives across regions and eras.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how culture, interpretation and reporting patterns shape UFO narratives across regions and eras.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="northern-wave-why-northern-tasmania-became-a-ufo-corridor-tasmania-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -533,7 +533,7 @@ The evidence does not support a conclusion that one unexplained craft repeatedly
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -553,7 +553,7 @@ The evidence does not support a conclusion that one unexplained craft repeatedly
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -585,7 +585,7 @@ The evidence does not support a conclusion that one unexplained craft repeatedly
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -637,7 +637,7 @@ The evidence does not support a conclusion that one unexplained craft repeatedly
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -682,7 +682,7 @@ The evidence does not support a conclusion that one unexplained craft repeatedly
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -723,98 +723,98 @@ The evidence does not support a conclusion that one unexplained craft repeatedly
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/9/9a/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_5.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia Commons1-:DLight in sky over Poatina/Cressy, Tasmania. Po~t of blue/green/red lieht, just above horizon, ris1ng slowly over Tre...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/PP959-1_5-3-AIR_1826380.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/PP959-1_5-3-AIR_1826380.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIRBetween 23rd January 1960 and 30th December 1971, the RAAF received 595 U.F.O. reports. Department of Air has assessed that. 93 percen...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/PP959-1_5-3-AIR_1826380.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/PP959-1_5-3-AIR_1826380.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIRBetween 23rd January 1960 and 30th December 1971, the RAAF received 595 U.F.O. reports. Department of Air has assessed that. 93 percen...</p></details>
    Published: January 1960  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: documents.theblackvault.com  
    Title: A703 554 1 30 Part 1 637518  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comA703_554-1-30_Part 1_637518.pdfca.n apply to Department of Air for info.rmat ion on this subject a.nd is welcome to a sy...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comA703_554-1-30_Part 1_637518.pdfca.n apply to Department of Air for info.rmat ion on this subject a.nd is welcome to a sy...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tasmaniantimes.com  
    Title: Tasmanian Times Tas That Was  
-   Link: <a href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow">https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1890 – 1954), published Tue 4 May 1954. Related Items:Beauty Point, George Town, Tas That Was, UFO. Share. Tweet.Read more...</p></details>
+   Link:<a href="https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/" target="_blank" rel="noopener noreferrer nofollow">https://tasmaniantimes.com/2020/07/tas-that-was-flying-saucers-at-george-town-1954/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1890 – 1954), published Tue 4 May 1954. Related Items:Beauty Point, George Town, Tas That Was, UFO. Share. Tweet.Read more...</p></details>
    Published: May 1954  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Poatina, Tasmania  
-   Link: <a href="https://en.wikipedia.org/wiki/Poatina%2C_Tasmania" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Poatina%2C_Tasmania</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Poatina%2C_Tasmania" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Poatina%2C_Tasmania</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Australian ufology  
-   Link: <a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO sightings in Australia  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Australia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Australia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in AustraliaUFO sightings in Australia. Article · Talk. Language; Loading… Download PDF; Watch... Hair of the Alien: DN...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Australia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Australia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in AustraliaUFO sightings in Australia. Article · Talk. Language; Loading… Download PDF; Watch... Hair of the Alien: DN...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/tasmania/comments/mqnih7/ufo_in_hobart_would_have_remained_hidden_in_plain/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/tasmania/comments/mqnih7/ufo_in_hobart_would_have_remained_hidden_in_plain/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Hobart would have remained hidden in plain sight if...UFO Sightings and Alien Abduction is Tasmania Australia · r/UFOs - UFO Sigh...</p></details>
+   Link:<a href="https://www.reddit.com/r/tasmania/comments/mqnih7/ufo_in_hobart_would_have_remained_hidden_in_plain/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/tasmania/comments/mqnih7/ufo_in_hobart_would_have_remained_hidden_in_plain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Hobart would have remained hidden in plain sight if...UFO Sightings and Alien Abduction is Tasmania Australia · r/UFOs - UFO Sigh...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThis document outlines the comprehensive investigation into reports of UFO sightings in the...</p></details>
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThis document outlines the comprehensive investigation into reports of UFO sightings in the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/WeatherObsessed/posts/2208517822956454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/WeatherObsessed/posts/2208517822956454/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in northern Tasmania, Australia... UFO and alien sightings go back to ancient times. Although there have been UFO sightings...</p></details>
+   Link:<a href="https://www.facebook.com/groups/WeatherObsessed/posts/2208517822956454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/WeatherObsessed/posts/2208517822956454/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in northern Tasmania, Australia... UFO and alien sightings go back to ancient times. Although there have been UFO sightings...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: The cigar shaped 'mothership' and attendant discs were witnessed  
-   Link: <a href="https://www.facebook.com/media/set/?set=a.434587626674531.1073741840.188117741321522&amp;type=3" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/media/set/?set=a.434587626674531.1073741840.188117741321522&amp;type=3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CLASSIC &quot;COLD CASE&quot;: 4th October 1960 UFO sighting at...The Cressy sighting of October 4th 1960 remains as one of Tasmania&#x27;s best known...</p></details>
+   Link:<a href="https://www.facebook.com/media/set/?set=a.434587626674531.1073741840.188117741321522&amp;type=3" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/media/set/?set=a.434587626674531.1073741840.188117741321522&amp;type=3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLASSIC &quot;COLD CASE&quot;: 4th October 1960 UFO sighting at...The Cressy sighting of October 4th 1960 remains as one of Tasmania&#x27;s best known...</p></details>
    Published: October 1960  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/6150730" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/6150730</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a UFO history / compiled by Keith RobertsIncludes index. Subject: Unidentified flying objects -- Sightings and encounters -- Tasmania...</p></details>
+   Link:<a href="https://catalogue.nla.gov.au/catalog/6150730" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/6150730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a UFO history / compiled by Keith RobertsIncludes index. Subject: Unidentified flying objects -- Sightings and encounters -- Tasmania...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thehobartmagazine.com.au  
-   Link: <a href="https://thehobartmagazine.com.au/the-night-i-met-the-aliens-kind-of/" target="_blank" rel="noopener noreferrer nofollow">https://thehobartmagazine.com.au/the-night-i-met-the-aliens-kind-of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Night I Met the Aliens….Kind of. Whether gullible, sceptical or somewhere in between, reported UFO sightings have long been a fascina...</p></details>
+   Link:<a href="https://thehobartmagazine.com.au/the-night-i-met-the-aliens-kind-of/" target="_blank" rel="noopener noreferrer nofollow">https://thehobartmagazine.com.au/the-night-i-met-the-aliens-kind-of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Night I Met the Aliens….Kind of. Whether gullible, sceptical or somewhere in between, reported UFO sightings have long been a fascina...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: TERRIFYING UFO Sightings and Alien Abduction in Tasmania Australia  
-   Link: <a href="http://www.youtube.com/watch?v=DqNptXsmNrQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DqNptXsmNrQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia UFO sightings history documentary Schoolyard witnesses in mass UFO sighting demand answers | Australian Story ABC News In-depth...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=DqNptXsmNrQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DqNptXsmNrQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia UFO sightings history documentary Schoolyard witnesses in mass UFO sighting demand answers | Australian Story ABC News In-depth...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: themercury.com.au  
-   Link: <a href="https://www.themercury.com.au/news/tasmania/tassie-ufo-memories-rekindled/news-story/c923013a1bfadc3c4c5aa3cf5efb0ec1" target="_blank" rel="noopener noreferrer nofollow">https://www.themercury.com.au/news/tasmania/tassie-ufo-memories-rekindled/news-story/c923013a1bfadc3c4c5aa3cf5efb0ec1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tassie UFO memories rekindled19 May 2016 — Another famous Tasmanian UFO sighting was of a dome-shaped object which is reported to have la...</p></details>
+   Link:<a href="https://www.themercury.com.au/news/tasmania/tassie-ufo-memories-rekindled/news-story/c923013a1bfadc3c4c5aa3cf5efb0ec1" target="_blank" rel="noopener noreferrer nofollow">https://www.themercury.com.au/news/tasmania/tassie-ufo-memories-rekindled/news-story/c923013a1bfadc3c4c5aa3cf5efb0ec1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tassie UFO memories rekindled19 May 2016 — Another famous Tasmanian UFO sighting was of a dome-shaped object which is reported to have la...</p></details>
    Published: May 2016  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ghtings - that is, Pearce and East Sale. 4. Your...</p></details>
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ghtings - that is, Pearce and East Sale. 4. Your...</p></details>

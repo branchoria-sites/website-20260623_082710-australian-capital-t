@@ -256,26 +256,26 @@ image: /assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_qfsrb_record
 
 ## Introduction
 
-For much of [Queensland]({{ 'queenslands-ufo-stories-evidence-and/' | relative_url }})’s UFO history, the Queensland Flying Saucer Research Bureau (QFSRB) was less important as a promoter of extraordinary claims than as a collector of records. From the late 1950s onward, the Brisbane-based organisation created a structure for gathering sighting reports, preserving witness accounts, publishing newsletters and maintaining files that might otherwise have vanished after a few days of newspaper attention. Its significance lies not in proving that any particular sighting involved something extraordinary, but in ensuring that reports, investigations and debates survived long enough to be examined by later researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
+For much of [Queensland]({{ 'queenslands-ufo-stories-evidence-and/' | relative_url }})’s UFO history, the Queensland Flying Saucer Research Bureau (QFSRB) was less important as a promoter of extraordinary claims than as a collector of records. From the late 1950s onward, the Brisbane-based organisation created a structure for gathering sighting reports, preserving witness accounts, publishing newsletters and maintaining files that might otherwise have vanished after a few days of newspaper attention. Its significance lies not in proving that any particular sighting involved something extraordinary, but in ensuring that reports, investigations and debates survived long enough to be examined by later researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_qfsrb_record_keeper_96c1a8-Illustration-1-dark.svg" | relative_url }}" alt="Research Bureau illustration 1" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_qfsrb_record_keeper_96c1a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_qfsrb_record_keeper_96c1a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader history of Queensland civilian [UFO groups]({{ 'ufo-groups/' | relative_url }}) and records, the Bureau became one of the state's main repositories of UFO-related information. Its newsletters and magazines now form part of the documentary record held by major public collections, providing historians with evidence not only of reported sightings but also of how Queensland enthusiasts investigated, argued over and interpreted those reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
+Within the broader history of Queensland civilian [UFO groups]({{ 'ufo-groups/' | relative_url }}) and records, the Bureau became one of the state's main repositories of UFO-related information. Its newsletters and magazines now form part of the documentary record held by major public collections, providing historians with evidence not only of reported sightings but also of how Queensland enthusiasts investigated, argued over and interpreted those reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
 
 ## Founding, constitution and changing names
 
-The organisation traces its origins to 1956, during the first great wave of public interest in flying saucers. According to its own historical records, it was established as the Queensland Flying Saucer Bureau and later operated under the name Queensland Flying Saucer Research Bureau before eventually becoming known as UFO Research Queensland (UFORQ). A formal constitution came into effect in 1961, giving the group a more durable organisational structure than many short-lived flying-saucer clubs of the era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
+The organisation traces its origins to 1956, during the first great wave of public interest in flying saucers. According to its own historical records, it was established as the Queensland Flying Saucer Bureau and later operated under the name Queensland Flying Saucer Research Bureau before eventually becoming known as UFO Research Queensland (UFORQ). A formal constitution came into effect in 1961, giving the group a more durable organisational structure than many short-lived flying-saucer clubs of the era.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
 
-This move from an informal enthusiasts' association to a constitution-based organisation mattered because it encouraged continuity. Members could elect committees, appoint office bearers, maintain membership records and establish procedures for handling sighting reports. In practice, this meant that reports were less likely to disappear when individual investigators lost interest or moved away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
+This move from an informal enthusiasts' association to a constitution-based organisation mattered because it encouraged continuity. Members could elect committees, appoint office bearers, maintain membership records and establish procedures for handling sighting reports. In practice, this meant that reports were less likely to disappear when individual investigators lost interest or moved away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
 
-The Bureau also evolved alongside changes in UFO culture. Early publications reflected the language of the flying-saucer era, while later publications adopted the broader UFO terminology that became common internationally. The organisation's changing names mirror this shift, but the core activity—collecting and preserving reports—remained remarkably consistent across decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
+The Bureau also evolved alongside changes in UFO culture. Early publications reflected the language of the flying-saucer era, while later publications adopted the broader UFO terminology that became common internationally. The organisation's changing names mirror this shift, but the core activity—collecting and preserving reports—remained remarkably consistent across decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yM7YtfUhEWM" title="Queensland&#x27;s X-Files: UFO sightings in North Queensland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer">Queensland&#x27;s X-Files: UFO sightings in North Queensland</a></p><p class="youtube-embed-meta">Channel: Queensland State Archives &middot; Views: 50.1K &middot; Uploaded: September 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yM7YtfUhEWM">Open on YouTube</a></p></div></div></div>
 
 ## How meetings turned rumours into records
 
-A crucial function of the Bureau was transforming scattered stories into documented cases. Public meetings provided a place where witnesses could speak directly to investigators, compare experiences and submit written reports. Committees reviewed accounts, discussed possible explanations and decided which cases merited further investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
+A crucial function of the Bureau was transforming scattered stories into documented cases. Public meetings provided a place where witnesses could speak directly to investigators, compare experiences and submit written reports. Committees reviewed accounts, discussed possible explanations and decided which cases merited further investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
 
 This process created a paper trail that often included:
 
@@ -291,252 +291,252 @@ This process created a paper trail that often included:
 
 </div>
 
-Many sightings that today survive in Queensland UFO history do so because someone recorded them in a Bureau publication rather than because they remained in [official files]({{ 'official-files/' | relative_url }}). The State Library of Queensland's holdings show a long sequence of publications linked to the organisation, including *Light* (from 1957), *QUFO*, the Bureau's newsletters, *Contact* and later *UFO Encounter*. Together they document decades of sightings, investigations and discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
+Many sightings that today survive in Queensland UFO history do so because someone recorded them in a Bureau publication rather than because they remained in [official files]({{ 'official-files/' | relative_url }}). The State Library of Queensland's holdings show a long sequence of publications linked to the organisation, including *Light* (from 1957), *QUFO*, the Bureau's newsletters, *Contact* and later *UFO Encounter*. Together they document decades of sightings, investigations and discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
 
-The Bureau also participated in broader Australian UFO networks, sharing reports with interstate groups and contributing to national publications. This helped preserve Queensland cases beyond local newspapers and ensured that notable incidents entered the wider Australian UFO record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
+The Bureau also participated in broader Australian UFO networks, sharing reports with interstate groups and contributing to national publications. This helped preserve Queensland cases beyond local newspapers and ensured that notable incidents entered the wider Australian UFO record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
 
 ## The publications that preserved Queensland's UFO history
 
-The organisation's greatest legacy may be its publications. Unlike newspapers, which usually reported a sighting once and moved on, Bureau newsletters often revisited cases months or years later. Witnesses could provide additional information, investigators could challenge earlier conclusions and competing explanations could be debated in print. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
+The organisation's greatest legacy may be its publications. Unlike newspapers, which usually reported a sighting once and moved on, Bureau newsletters often revisited cases months or years later. Witnesses could provide additional information, investigators could challenge earlier conclusions and competing explanations could be debated in print.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
 
-The survival of these publications is especially important because many original investigation files are difficult to access or may no longer exist. State Library collections preserve runs of magazines and newsletters stretching from the 1950s onward, offering a continuous record of Queensland UFO culture and investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
+The survival of these publications is especially important because many original investigation files are difficult to access or may no longer exist. State Library collections preserve runs of magazines and newsletters stretching from the 1950s onward, offering a continuous record of Queensland UFO culture and investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
 
-These publications reveal something often lost in later retellings: investigators were not always in agreement. Articles frequently discussed disagreements about witness reliability, scientific testing, official explanations and investigative methods. As a result, the magazines are useful not only for studying sightings but also for understanding how civilian researchers evaluated evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
+These publications reveal something often lost in later retellings: investigators were not always in agreement. Articles frequently discussed disagreements about witness reliability, scientific testing, official explanations and investigative methods. As a result, the magazines are useful not only for studying sightings but also for understanding how civilian researchers evaluated evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_qfsrb_record_keeper_96c1a8-Illustration-2-dark.svg" | relative_url }}" alt="Research Bureau illustration 2" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_qfsrb_record_keeper_96c1a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_qfsrb_record_keeper_96c1a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A case study: the Tully saucer nest records
 
-The Bureau's role as record keeper is particularly visible in the famous 1966 Tully "saucer nest" case. After banana grower George Pedley reported seeing an unusual object rise from a lagoon near Tully and investigators found a circular area of flattened reeds, the incident attracted national and international attention. Official and scientific explanations included natural causes such as whirlwinds or water-related effects, while UFO researchers considered whether the evidence pointed to something less easily explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">saucer hysteria the case of the tully crop circle</span><span class="citation-popover-snippet">Australian GeographicSaucer hysteria: The case of the Tully crop circle21 Sept 2020 — The Tully saucer nest heralded the start of the wor...</span></span></span>
+The Bureau's role as record keeper is particularly visible in the famous 1966 Tully "saucer nest" case. After banana grower George Pedley reported seeing an unusual object rise from a lagoon near Tully and investigators found a circular area of flattened reeds, the incident attracted national and international attention. Official and scientific explanations included natural causes such as whirlwinds or water-related effects, while UFO researchers considered whether the evidence pointed to something less easily explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">saucer hysteria the case of the tully crop circle</span><span class="citation-popover-snippet">Australian GeographicSaucer hysteria: The case of the Tully crop circle21 Sept 2020 — The Tully saucer nest heralded the start of the wor...</span></span></span>
 
-Rather than simply accepting official conclusions, the Queensland Flying Saucer Research Bureau conducted its own inquiries and published its findings. According to surviving newsletter accounts, Bureau investigators criticised aspects of official interpretations and argued that some observations did not fit the explanations then being offered. They also carried out their own testing, even though those tests did not produce evidence of radiation or other clearly anomalous effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
+Rather than simply accepting official conclusions, the Queensland Flying Saucer Research Bureau conducted its own inquiries and published its findings. According to surviving newsletter accounts, Bureau investigators criticised aspects of official interpretations and argued that some observations did not fit the explanations then being offered. They also carried out their own testing, even though those tests did not produce evidence of radiation or other clearly anomalous effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
 
-Whether or not one accepts the Bureau's conclusions, its documentation preserved details that would otherwise be difficult to reconstruct. Modern discussions of the Tully case often rely on records maintained by civilian investigators as well as newspaper reports and official files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
+Whether or not one accepts the Bureau's conclusions, its documentation preserved details that would otherwise be difficult to reconstruct. Modern discussions of the Tully case often rely on records maintained by civilian investigators as well as newspaper reports and official files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
 
 ## Strengths of a volunteer archive
 
 The Bureau's record-keeping offered several advantages over official reporting systems.
 
-First, it preserved accounts that authorities might regard as insignificant. Many sightings never involved a defence concern, aviation hazard or police matter, yet still entered the Bureau's files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
+First, it preserved accounts that authorities might regard as insignificant. Many sightings never involved a defence concern, aviation hazard or police matter, yet still entered the Bureau's files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
 
-Second, it captured context. Witness reactions, local rumours, sketches and follow-up interviews often appeared in Bureau records even when absent from official summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
+Second, it captured context. Witness reactions, local rumours, sketches and follow-up interviews often appeared in Bureau records even when absent from official summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
 
-Third, continuity mattered. Because the organisation operated across decades, it could compare new reports with older cases and identify recurring locations, patterns or witness descriptions. This gave later researchers a longer historical perspective than isolated newspaper stories could provide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
+Third, continuity mattered. Because the organisation operated across decades, it could compare new reports with older cases and identify recurring locations, patterns or witness descriptions. This gave later researchers a longer historical perspective than isolated newspaper stories could provide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
 
-Finally, the Bureau helped preserve the social history of UFO belief and investigation in Queensland. Its publications reveal how ordinary Queenslanders reacted to unusual aerial reports, what explanations they found convincing and how attitudes changed over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
+Finally, the Bureau helped preserve the social history of UFO belief and investigation in Queensland. Its publications reveal how ordinary Queenslanders reacted to unusual aerial reports, what explanations they found convincing and how attitudes changed over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0YvaAlgokSs" title="Global crop circle phenomenon inspired by UFO mystery in Far North Queensland? 🛸 | Uncropped" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer">Global crop circle phenomenon inspired by UFO mystery in Far North Queensland? 🛸 | Uncropped</a></p><p class="youtube-embed-meta">Channel: ABC Australia &middot; Views: 15.7K &middot; Uploaded: January 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0YvaAlgokSs">Open on YouTube</a></p></div></div></div>
 
 ## Why the archive must be used carefully
 
-The value of the Bureau's records does not automatically make every conclusion within them reliable. Like many volunteer research organisations, the Bureau depended on witness testimony, member enthusiasm and limited resources. Investigations were rarely conducted under controlled scientific conditions, and some reports inevitably contained errors, misunderstandings or incomplete information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
+The value of the Bureau's records does not automatically make every conclusion within them reliable. Like many volunteer research organisations, the Bureau depended on witness testimony, member enthusiasm and limited resources. Investigations were rarely conducted under controlled scientific conditions, and some reports inevitably contained errors, misunderstandings or incomplete information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
 
-There is also a difference between preserving a report and validating it. The Bureau often recorded claims that remained unresolved, and some cases later received conventional explanations. Others remain disputed largely because the surviving evidence is insufficient to settle the question decisively. The archive therefore functions best as a historical resource rather than as proof of any particular UFO interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">saucer hysteria the case of the tully crop circle</span><span class="citation-popover-snippet">Australian GeographicSaucer hysteria: The case of the Tully crop circle21 Sept 2020 — The Tully saucer nest heralded the start of the wor...</span></span></span>
+There is also a difference between preserving a report and validating it. The Bureau often recorded claims that remained unresolved, and some cases later received conventional explanations. Others remain disputed largely because the surviving evidence is insufficient to settle the question decisively. The archive therefore functions best as a historical resource rather than as proof of any particular UFO interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">saucer hysteria the case of the tully crop circle</span><span class="citation-popover-snippet">Australian GeographicSaucer hysteria: The case of the Tully crop circle21 Sept 2020 — The Tully saucer nest heralded the start of the wor...</span></span></span>
 
-Another limitation is survivorship. Researchers today often see only the cases that were considered interesting enough to publish. Countless routine reports may never have reached print, creating a record that naturally emphasises unusual or controversial events. That bias is common in both civilian and media archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
+Another limitation is survivorship. Researchers today often see only the cases that were considered interesting enough to publish. Countless routine reports may never have reached print, creating a record that naturally emphasises unusual or controversial events. That bias is common in both civilian and media archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/coDFdRDiMyA" title="The Marian Apparitions which you NEVER heard about" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=coDFdRDiMyA" target="_blank" rel="noopener noreferrer">The Marian Apparitions which you NEVER heard about</a></p><p class="youtube-embed-meta">Channel: Anton On The Go</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=coDFdRDiMyA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=coDFdRDiMyA">Open on YouTube</a></p></div></div></div>
 
 ## Why the Bureau still matters
 
-The Queensland Flying Saucer Research Bureau's most lasting achievement was not solving the UFO mystery but preserving evidence of how Queenslanders tried to investigate it. Through constitutions, committees, meetings and a long-running sequence of publications, the organisation created a documentary record that outlived many official inquiries and short-lived flying-saucer groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
+The Queensland Flying Saucer Research Bureau's most lasting achievement was not solving the UFO mystery but preserving evidence of how Queenslanders tried to investigate it. Through constitutions, committees, meetings and a long-running sequence of publications, the organisation created a documentary record that outlived many official inquiries and short-lived flying-saucer groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-snippet">UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</span></span></span>
 
-For historians of Queensland UFO reports, the Bureau's files, newsletters and magazines remain valuable because they capture details that would otherwise have disappeared. They document witness experiences, investigative practices, disagreements over evidence and the evolution of UFO culture within the state. Regardless of whether individual cases are judged unexplained, mistaken or solved, the archive preserves an important part of Queensland's civilian UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
+For historians of Queensland UFO reports, the Bureau's files, newsletters and magazines remain valuable because they capture details that would otherwise have disappeared. They document witness experiences, investigative practices, disagreements over evidence and the evolution of UFO culture within the state. Regardless of whether individual cases are judged unexplained, mistaken or solved, the archive preserves an important part of Queensland's civilian UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</span></span></span>
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_qfsrb_record_keeper_96c1a8-Illustration-3-dark.svg" | relative_url }}" alt="Research Bureau illustration 3" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_qfsrb_record_keeper_96c1a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_civilian_ufo_records_17cde1_qfsrb_record_keeper_96c1a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a Brisbane UFO group kept records alive. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a Brisbane UFO group kept records alive. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, investigation and documentation of UFO reports, closely aligning with volunteer record-keeping organizations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification, investigation and documentation of UFO reports, closely aligning with volunteer record-keeping organizations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines documented cases and official records, complementing a page about collecting and preserving UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documented cases and official records, complementing a page about collecting and preserving UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides broad coverage of UFO cases, organizations, publications and historical developments relevant to archival research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad coverage of UFO cases, organizations, publications and historical developments relevant to archival research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s emphasis on preserving reports, archives, organizations, sightings and historical records rather than promoting specif...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s emphasis on preserving reports, archives, organizations, sightings and historical records rather than promoting specif...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm"><img src="{{ '/assets/images/marketplace-covers/bce7e59e976a632258ff.jpg' | relative_url }}" alt="Listing image for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="research-bureau-how-a-brisbane-ufo-group-kept-records-alive-queensland-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-brisbane-ufo-group-kept-records-alive-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ For historians of Queensland UFO reports, the Bureau's files, newsletters and ma
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ For historians of Queensland UFO reports, the Bureau's files, newsletters and ma
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ For historians of Queensland UFO reports, the Bureau's files, newsletters and ma
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ For historians of Queensland UFO reports, the Bureau's files, newsletters and ma
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ For historians of Queensland UFO reports, the Bureau's files, newsletters and ma
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,106 +742,106 @@ For historians of Queensland UFO reports, the Bureau's files, newsletters and ma
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: uforq.org  
-   Link: <a href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow">https://uforq.org/a-brief-history-of-ufo-research-queensland/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</p></details>
+   Link:<a href="https://uforq.org/a-brief-history-of-ufo-research-queensland/" target="_blank" rel="noopener noreferrer nofollow">https://uforq.org/a-brief-history-of-ufo-research-queensland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Research Queensland - AustraliaA Brief History of UFO Research QueenslandThroughout, many vexing questions relating to UFOs, the gove...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r Bureau&quot; under the direction of Edgar Jarrold and Andrew...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r Bureau&quot; under the direction of Edgar Jarrold and Andrew...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsProject BLUE BOOK has been declassified and the records are available for examination in our research room. Th...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsProject BLUE BOOK has been declassified and the records are available for examination in our research room. Th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: slq.qld.gov.au  
    Title: State Library of Queensland The Truth Is Out There  
-   Link: <a href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-[periodicals" target="_blank" rel="noopener noreferrer nofollow">https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-[periodicals</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</p></details>
+   Link:<a href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-[periodicals" target="_blank" rel="noopener noreferrer nofollow">https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-[periodicals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — The Truth Is Out There - Queensland UF...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: australiangeographic.com.au  
    Title: saucer hysteria the case of the tully crop circle  
-   Link: <a href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian GeographicSaucer hysteria: The case of the Tully crop circle21 Sept 2020 — The [Tully saucer nest](&amp;#123;&amp;#123; &#x27;tully-nest/&#x27; | relative_url &amp;#125;&amp;#125;) heralded the start of the wor...</p></details>
+   Link:<a href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian GeographicSaucer hysteria: The case of the Tully crop circle21 Sept 2020 — The [Tully saucer nest](&amp;#123;&amp;#123; &#x27;tully-nest/&#x27; | relative_url &amp;#125;&amp;#125;) heralded the start of the wor...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucerDuring the 1960s, saucers waned in popularity as UFOs were reported and depicted in other shapes. Discs ceased to be view...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucerDuring the 1960s, saucers waned in popularity as UFOs were reported and depicted in other shapes. Discs ceased to be view...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified flyi...</p></details>
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified flyi...</p></details>
    Published: July 1960  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: data.qld.gov.au  
-   Link: <a href="https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/1a786de2-b62d-4576-a608-fa1d610792db/download/slq-unstacked-logs-202005-may.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/1a786de2-b62d-4576-a608-fa1d610792db/download/slq-unstacked-logs-202005-may.csv</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Download (17 MiB) (CSV)... Library system ID,Creator,Part of,Material type,Call number,Publisher,Date... aliens, and starships: physics...</p></details>
+   Link:<a href="https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/1a786de2-b62d-4576-a608-fa1d610792db/download/slq-unstacked-logs-202005-may.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/1a786de2-b62d-4576-a608-fa1d610792db/download/slq-unstacked-logs-202005-may.csv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Download (17 MiB) (CSV)... Library system ID,Creator,Part of,Material type,Call number,Publisher,Date... aliens, and starships: physics...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7NEWS Central QueenslandUFOs, anyone? I was searching for &quot;alien registration&quot; forms in the Bundy region (I&#x27;m doing Chinese family histor...</p></details>
+   Link:<a href="https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7NEWS Central QueenslandUFOs, anyone? I was searching for &quot;alien registration&quot; forms in the Bundy region (I&#x27;m doing Chinese family histor...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: brisbanetimes.com.au  
    Title: ufo culture state library of queensland collects its own x files 20180205 p4yzfu  
-   Link: <a href="https://www.brisbanetimes.com.au/national/queensland/ufo-culture-state-library-of-queensland-collects-its-own-x-files-20180205-p4yzfu.html" target="_blank" rel="noopener noreferrer nofollow">https://www.brisbanetimes.com.au/national/queensland/ufo-culture-state-library-of-queensland-collects-its-own-x-files-20180205-p4yzfu.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO culture: State Library of Queensland collects its own X...10 Feb 2018 — These magazines, newsletters and artefacts depicted Australi...</p></details>
+   Link:<a href="https://www.brisbanetimes.com.au/national/queensland/ufo-culture-state-library-of-queensland-collects-its-own-x-files-20180205-p4yzfu.html" target="_blank" rel="noopener noreferrer nofollow">https://www.brisbanetimes.com.au/national/queensland/ufo-culture-state-library-of-queensland-collects-its-own-x-files-20180205-p4yzfu.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO culture: State Library of Queensland collects its own X...10 Feb 2018 — These magazines, newsletters and artefacts depicted Australi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: the state library of queensland has gathered publications from as early as 1957  
-   Link: <a href="https://www.facebook.com/brisbanetimes/posts/the-state-library-of-queensland-has-gathered-publications-from-as-early-as-1957-/10155117298677461/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brisbanetimes/posts/the-state-library-of-queensland-has-gathered-publications-from-as-early-as-1957-/10155117298677461/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I was searching for &quot;alien registration&quot; forms in the Bundy region (I&#x27;m doing Chinese family history research for someone), but...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/brisbanetimes/posts/the-state-library-of-queensland-has-gathered-publications-from-as-early-as-1957-/10155117298677461/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brisbanetimes/posts/the-state-library-of-queensland-has-gathered-publications-from-as-early-as-1957-/10155117298677461/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I was searching for &quot;alien registration&quot; forms in the Bundy region (I&#x27;m doing Chinese family history research for someone), but...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/uforesearchqueensland/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/uforesearchqueensland/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1956, studying UFOs meant risking ridicule, professional damage, and social stigma. Witnesses...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/uforesearchqueensland/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/uforesearchqueensland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1956, studying UFOs meant risking ridicule, professional damage, and social stigma. Witnesses...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: upload.wikimedia.org  
    Title: UFOs and Related Subjects, An Annotated Bibliography, AD0688332, edit  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>S. A. Flying saucer review, v. 12, Jan. -Feb. 1966: 6-11. Author reports on his impressions of trends--motivations and theories...Read more...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>S. A. Flying saucer review, v. 12, Jan. -Feb. 1966: 6-11. Author reports on his impressions of trends--motivations and theories...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufos-scientificresearch.blogspot.com  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2017/07/ufo-resources-of-state-library-of.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2017/07/ufo-resources-of-state-library-of.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Light- Queensland Flying Saucer Research Bureau - Mar 1957- Jan/Mar 1960.... UFO periodicals in the State...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2017/07/ufo-resources-of-state-library-of.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2017/07/ufo-resources-of-state-library-of.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Light- Queensland Flying Saucer Research Bureau - Mar 1957- Jan/Mar 1960.... UFO periodicals in the State...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_section_10.pdfiased UFO researchers one of the best flying saucer in an area where science and various other...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_section_10.pdfiased UFO researchers one of the best flying saucer in an area where science and various other...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Bill Chalker became one of the first civilians to access...6 Dec 2024 — Flying saucers, crop circles and UFOs: Tully&#x27;s &quot;saucer nest&quot;...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Bill Chalker became one of the first civilians to access...6 Dec 2024 — Flying saucers, crop circles and UFOs: Tully&#x27;s &quot;saucer nest&quot;...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: APPARITIONS OF FATIMA AND THE UFO PHENOMENON  
-   Link: <a href="https://www.youtube.com/watch?v=coDFdRDiMyA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=coDFdRDiMyA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“It&#x27;s Been Kept from the Public”: TV Journalist Ross Coulthart Didn&#x27;t Believe in UFO&#x27;s until...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=coDFdRDiMyA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=coDFdRDiMyA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“It&#x27;s Been Kept from the Public”: TV Journalist Ross Coulthart Didn&#x27;t Believe in UFO&#x27;s until...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: abc.net.au  
    Title: sugar cane farm ufo mystery expanse podcast series uncropped  
-   Link: <a href="https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keith Basterfield is a UFO researcher who in 1973 investigated an eerily similar case saucer...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keith Basterfield is a UFO researcher who in 1973 investigated an eerily similar case saucer...</p></details>

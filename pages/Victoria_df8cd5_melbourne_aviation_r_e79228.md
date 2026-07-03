@@ -288,17 +288,17 @@ The most useful way to read Melbourne’s aviation-linked UFO stories is not to 
 
 ## Why Melbourne’s airspace matters to UFO reports
 
-Melbourne’s sky is busy in layers. Large passenger aircraft use Melbourne Airport at Tullamarine, while Essendon Fields, Moorabbin, Avalon and Point Cook add general aviation, training, emergency, military heritage and specialist operations across the metropolitan region. Melbourne Airport describes the “Melbourne Basin” as the controlled airspace around metropolitan Melbourne and nearby regional centres, extending roughly 30 nautical miles, or 56 kilometres, from Tullamarine, and notes that this basin includes flight paths serving Essendon Fields, RAAF Base Point Cook, Moorabbin and Avalon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.melbourneairport.com.au/_assets/be08d7b0-97a1-02f9-2be6-a0c139c3c337/119df4ed-313f-4e29-9dde-11257e236e82/MA_3R_Fact_Sheet_Melbourne_Basin.pdf?srsltid=AfmBOopfNNblrgVtaNYFFbfvxcdHiF10snHxmsz5xZITR2bW1w8yxDXz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: melbourneairport.com.au">[Melbourne Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">melbourneairport.com.au</span><span class="citation-popover-snippet">Melbourne Airport</span></span></span>
+Melbourne’s sky is busy in layers. Large passenger aircraft use Melbourne Airport at Tullamarine, while Essendon Fields, Moorabbin, Avalon and Point Cook add general aviation, training, emergency, military heritage and specialist operations across the metropolitan region. Melbourne Airport describes the “Melbourne Basin” as the controlled airspace around metropolitan Melbourne and nearby regional centres, extending roughly 30 nautical miles, or 56 kilometres, from Tullamarine, and notes that this basin includes flight paths serving Essendon Fields, RAAF Base Point Cook, Moorabbin and Avalon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.melbourneairport.com.au/_assets/be08d7b0-97a1-02f9-2be6-a0c139c3c337/119df4ed-313f-4e29-9dde-11257e236e82/MA_3R_Fact_Sheet_Melbourne_Basin.pdf?srsltid=AfmBOopfNNblrgVtaNYFFbfvxcdHiF10snHxmsz5xZITR2bW1w8yxDXz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: melbourneairport.com.au">[Melbourne Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">melbourneairport.com.au</span><span class="citation-popover-snippet">Melbourne Airport</span></span></span>
 
-For UFO reports, this setting creates two opposite effects. It increases the number of ordinary aerial objects that can look odd from the ground, especially at dusk, in haze, near cloud, or when aircraft are climbing, turning or showing landing lights. But it also means some events can be checked against aviation sources. Airservices Australia says its Noise and Flight Path Monitoring System collects noise and flight path data at several airports including Melbourne and Essendon, operating continuously and collecting data from every aircraft operating to and from those monitored airports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Monitoring aircraft noise</span><span class="citation-popover-snippet">AirservicesMonitoring aircraft noise - Airservices...</span></span></span>
+For UFO reports, this setting creates two opposite effects. It increases the number of ordinary aerial objects that can look odd from the ground, especially at dusk, in haze, near cloud, or when aircraft are climbing, turning or showing landing lights. But it also means some events can be checked against aviation sources. Airservices Australia says its Noise and Flight Path Monitoring System collects noise and flight path data at several airports including Melbourne and Essendon, operating continuously and collecting data from every aircraft operating to and from those monitored airports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Monitoring aircraft noise</span><span class="citation-popover-snippet">AirservicesMonitoring aircraft noise - Airservices...</span></span></span>
 
 That modern monitoring does not solve old cases from the 1960s and 1970s. It does, however, show why aviation corridors are important to interpretation. A vague light over open country may leave little trace. A report near Melbourne’s controlled airspace can, at least in principle, be tested against flight paths, tower records, pilot reports, weather conditions, radar coverage, aircraft noise data and known training activity.
 
 ## Moorabbin Airport and local flight paths
 
-Moorabbin Airport is the key Melbourne aviation setting for this subtopic because it sits in the south-east, close to the [Westall]({{ 'westall/' | relative_url }}) area, and because it has long been associated with general aviation and flight training. CASA’s *Stay OnTrack: Flying the Melbourne Region* guide describes Moorabbin as a Class D aerodrome during tower hours, catering for high-density general aviation, emergency services aircraft, air transport operations and fixed-wing and rotary-wing flying schools. It is located 12 nautical miles south-east of Melbourne and has a control zone from the surface to 2,500 feet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/sites/default/files/2023-06/stay-ontrack-flying-the-melbourne-region.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-title">Civil Aviation Safety Authority Stay On Track: Flying the Melbourne region</span><span class="citation-popover-snippet">Civil Aviation Safety Authority Stay On Track: Flying the Melbourne region</span></span></span>
+Moorabbin Airport is the key Melbourne aviation setting for this subtopic because it sits in the south-east, close to the [Westall]({{ 'westall/' | relative_url }}) area, and because it has long been associated with general aviation and flight training. CASA’s *Stay OnTrack: Flying the Melbourne Region* guide describes Moorabbin as a Class D aerodrome during tower hours, catering for high-density general aviation, emergency services aircraft, air transport operations and fixed-wing and rotary-wing flying schools. It is located 12 nautical miles south-east of Melbourne and has a control zone from the surface to 2,500 feet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/sites/default/files/2023-06/stay-ontrack-flying-the-melbourne-region.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-title">Civil Aviation Safety Authority Stay On Track: Flying the Melbourne region</span><span class="citation-popover-snippet">Civil Aviation Safety Authority Stay On Track: Flying the Melbourne region</span></span></span>
 
-That density is important. Moorabbin is not just a place where aircraft arrive and leave in straight lines. CASA notes that Moorabbin has two sets of parallel runways and a crossing runway; by day, simultaneous contra-circuits may be flown on separate tower frequencies. The same guide identifies danger area D315 as the Moorabbin training area and warns pilots to expect high volumes of traffic around it, including training activity outside the marked danger area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/sites/default/files/2023-06/stay-ontrack-flying-the-melbourne-region.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-title">Civil Aviation Safety Authority Stay On Track: Flying the Melbourne region</span><span class="citation-popover-snippet">Civil Aviation Safety Authority Stay On Track: Flying the Melbourne region</span></span></span>
+That density is important. Moorabbin is not just a place where aircraft arrive and leave in straight lines. CASA notes that Moorabbin has two sets of parallel runways and a crossing runway; by day, simultaneous contra-circuits may be flown on separate tower frequencies. The same guide identifies danger area D315 as the Moorabbin training area and warns pilots to expect high volumes of traffic around it, including training activity outside the marked danger area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/sites/default/files/2023-06/stay-ontrack-flying-the-melbourne-region.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-title">Civil Aviation Safety Authority Stay On Track: Flying the Melbourne region</span><span class="citation-popover-snippet">Civil Aviation Safety Authority Stay On Track: Flying the Melbourne region</span></span></span>
 
 For a ground witness, this can look confusing. A light aircraft in circuit may appear, vanish behind trees, turn sharply, climb, descend, or seem to “circle” an area. Multiple aircraft operating at similar altitudes can look like a coordinated chase. At night, landing lights can seem fixed or unusually bright before an aircraft’s angle changes. In daylight, a white or silver aircraft viewed from below may be difficult to judge for distance, size and speed.
 
@@ -308,9 +308,9 @@ This does not make every UFO report near Moorabbin mundane. It does mean that th
 <img src="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228-Illustration-1-dark.svg" | relative_url }}" alt="Aviation illustration 1" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Westall and the question of “the five pilots”
 
-The 1966 Westall school sighting is usually remembered as a mass-witness UFO case, but it also has a strong aviation-corridor component. The State Library Victoria summary of the case notes that witnesses described “many private aircraft, mainly Cessna” flying towards and around the reported UFOs. It also records that an anonymous account in *The Clayton Calendar*, later republished in the *Australian Flying Saucer Review*, speculated that the aircraft may have been military and may have come from nearby Moorabbin Airport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
+The 1966 Westall school sighting is usually remembered as a mass-witness UFO case, but it also has a strong aviation-corridor component. The State Library Victoria summary of the case notes that witnesses described “many private aircraft, mainly Cessna” flying towards and around the reported UFOs. It also records that an anonymous account in *The Clayton Calendar*, later republished in the *Australian Flying Saucer Review*, speculated that the aircraft may have been military and may have come from nearby Moorabbin Airport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
 
-This detail matters because it changes the shape of the case. Westall was not merely a claim that schoolchildren saw a disc over open land. Some accounts included ordinary-looking aircraft apparently reacting to, following or circling the object. The *Dandenong Journal* coverage, preserved and discussed by State Library Victoria, even framed part of the mystery around the question “Who were 5 pilots?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
+This detail matters because it changes the shape of the case. Westall was not merely a claim that schoolchildren saw a disc over open land. Some accounts included ordinary-looking aircraft apparently reacting to, following or circling the object. The *Dandenong Journal* coverage, preserved and discussed by State Library Victoria, even framed part of the mystery around the question “Who were 5 pilots?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
 
 There are several possible readings of that aviation element:
 
@@ -318,7 +318,7 @@ There are several possible readings of that aviation element:
 
 **Ordinary aircraft folded into a stranger story.** In a busy training area, small aircraft may have been present for unrelated reasons. Witnesses, especially excited schoolchildren watching a fast-developing event, may have interpreted normal circuit or transit traffic as a pursuit.
 
-**Misidentification centred on the aircraft themselves.** Some sceptical readings would place more weight on balloons, aircraft, wind, glare and memory than on any exotic object. State Library Victoria notes that *The Age* suggested the object may have been a weather balloon released from Laverton, with westerly wind possibly moving it into the reported area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
+**Misidentification centred on the aircraft themselves.** Some sceptical readings would place more weight on balloons, aircraft, wind, glare and memory than on any exotic object. State Library Victoria notes that *The Age* suggested the object may have been a weather balloon released from Laverton, with westerly wind possibly moving it into the reported area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">strange lights in the sky the westall ufo event 1966</span></span></span>
 
 The aviation corridor does not debunk Westall by itself. It does explain why the case remains contested. The more an account depends on aircraft “chasing” or “circling” a UFO, the more important it becomes to identify those aircraft. Without pilot names, logs or official confirmation, that part of the story remains suggestive rather than conclusive.
 
@@ -329,7 +329,7 @@ The aviation corridor does not debunk Westall by itself. It does explain why the
 
 Melbourne’s general-aviation environment creates a particular type of UFO report: not the lone light in a remote sky, but a report entangled with aircraft procedures. Moorabbin’s training circuits, helicopter tracks, VFR routes and coastal reporting points can produce repeated, patterned motion that looks purposeful to an observer who does not know the local procedures.
 
-CASA’s Melbourne flying guide describes inbound tracking via Brighton, Moorabbin Oval, Academy and other local points, with caution required because of opposite-direction traffic and interactions between helicopters and fixed-wing aircraft. It also notes that helicopters around Moorabbin may use different arrival and departure patterns, often at around 700 feet, and that air traffic control may not be aware of every aircraft outside the control zone in Class G airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/sites/default/files/2023-06/stay-ontrack-flying-the-melbourne-region.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-title">Civil Aviation Safety Authority Stay On Track: Flying the Melbourne region</span><span class="citation-popover-snippet">Civil Aviation Safety Authority Stay On Track: Flying the Melbourne region</span></span></span>
+CASA’s Melbourne flying guide describes inbound tracking via Brighton, Moorabbin Oval, Academy and other local points, with caution required because of opposite-direction traffic and interactions between helicopters and fixed-wing aircraft. It also notes that helicopters around Moorabbin may use different arrival and departure patterns, often at around 700 feet, and that air traffic control may not be aware of every aircraft outside the control zone in Class G airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/sites/default/files/2023-06/stay-ontrack-flying-the-melbourne-region.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-title">Civil Aviation Safety Authority Stay On Track: Flying the Melbourne region</span><span class="citation-popover-snippet">Civil Aviation Safety Authority Stay On Track: Flying the Melbourne region</span></span></span>
 
 That last point is especially useful for UFO analysis. “No known traffic” does not always mean “nothing was there”. It may mean the controller had no identified, relevant aircraft in controlled airspace at that moment, or no aircraft matching the witness description. Small aircraft, helicopters, training flights and aircraft outside controlled airspace can complicate later reconstruction.
 
@@ -337,11 +337,11 @@ Pilots are better observers than most people in some ways. They understand aircr
 
 ## Valentich: when a UFO report became an aviation investigation
 
-The most famous Melbourne aviation-linked UFO case is the disappearance of Frederick Valentich on 21 October 1978. Valentich departed Moorabbin Airport in a Cessna 182L, VH-DSJ, for a flight to King Island across Bass Strait. During the flight, he radioed Melbourne Flight Service to ask whether there was known traffic below 5,000 feet in his area, then reported an unidentified aircraft above or near him before his final widely quoted statement that it was “not an aircraft”. The aircraft and pilot were not found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+The most famous Melbourne aviation-linked UFO case is the disappearance of Frederick Valentich on 21 October 1978. Valentich departed Moorabbin Airport in a Cessna 182L, VH-DSJ, for a flight to King Island across Bass Strait. During the flight, he radioed Melbourne Flight Service to ask whether there was known traffic below 5,000 feet in his area, then reported an unidentified aircraft above or near him before his final widely quoted statement that it was “not an aircraft”. The aircraft and pilot were not found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
-This case matters for Melbourne’s UFO history because it generated aviation records, not just later folklore. There was a named pilot, an aircraft registration, a filed route from Moorabbin, radio communication with Melbourne, a search and rescue response, and an official Department of Transport investigation. The official investigation could not determine the cause and treated the disappearance as presumed fatal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+This case matters for Melbourne’s UFO history because it generated aviation records, not just later folklore. There was a named pilot, an aircraft registration, a filed route from Moorabbin, radio communication with Melbourne, a search and rescue response, and an official Department of Transport investigation. The official investigation could not determine the cause and treated the disappearance as presumed fatal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
-At the same time, Valentich is not a clean “pilot saw UFO, therefore UFO existed” case. The aviation context creates both weight and doubt. On the weight side, the report happened in real time over radio while a pilot was airborne. On the doubt side, the flight was over Bass Strait at night, an environment where disorientation, horizon loss and reflections can be dangerous. Sceptical investigators James McGaha and Joe Nickell argued in *Skeptical Inquirer* that a plausible explanation involves misperception and possible disorientation, while other aviation-oriented discussions have considered spiral dive, engine behaviour and the risks of [night flight]({{ 'night-flight/' | relative_url }}) over water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Valentich Disappearance: Another UFO Cold Case</span><span class="citation-popover-snippet">Skeptical Inquirer The Valentich Disappearance: Another UFO Cold Case</span></span></span>
+At the same time, Valentich is not a clean “pilot saw UFO, therefore UFO existed” case. The aviation context creates both weight and doubt. On the weight side, the report happened in real time over radio while a pilot was airborne. On the doubt side, the flight was over Bass Strait at night, an environment where disorientation, horizon loss and reflections can be dangerous. Sceptical investigators James McGaha and Joe Nickell argued in *Skeptical Inquirer* that a plausible explanation involves misperception and possible disorientation, while other aviation-oriented discussions have considered spiral dive, engine behaviour and the risks of [night flight]({{ 'night-flight/' | relative_url }}) over water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Valentich Disappearance: Another UFO Cold Case</span><span class="citation-popover-snippet">Skeptical Inquirer The Valentich Disappearance: Another UFO Cold Case</span></span></span>
 
 The case remains unresolved in the narrow official sense: no wreckage conclusively identified as Valentich’s aircraft was recovered at the time, and the investigation did not establish a final cause. But the later debate has generally weakened the most dramatic extraterrestrial readings by showing how many non-exotic uncertainties sit inside the event: pilot experience, route, darkness, water, possible visual confusion, and the absence of corroborating radar or recovered physical evidence.
 
@@ -360,7 +360,7 @@ For Melbourne-area cases, useful aviation evidence can include:
 * **Flight plans, aircraft registration and route details**, which locate the event in real airspace rather than in vague memory.
 * **Known traffic checks**, which can show whether an identified aircraft was expected near the reported object.
 * **Pilot or tower reports**, especially when they come from people not already invested in UFO claims.
-* **Modern flight path and noise monitoring**, which can help test recent sightings near Melbourne and Essendon against aircraft movements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Monitoring aircraft noise</span><span class="citation-popover-snippet">AirservicesMonitoring aircraft noise - Airservices...</span></span></span>
+* **Modern flight path and noise monitoring**, which can help test recent sightings near Melbourne and Essendon against aircraft movements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Monitoring aircraft noise</span><span class="citation-popover-snippet">AirservicesMonitoring aircraft noise - Airservices...</span></span></span>
 
 </div>
 
@@ -375,7 +375,7 @@ This distinction is important for Westall. The aviation element is one of the ca
 
 Airport proximity is a double-edged clue. It can help because investigators know where to look: runways, tower frequencies, VFR routes, training areas, reporting points and controlled airspace boundaries. But it can mislead because witnesses may treat normal aviation as meaningful simply because it appears to interact with a strange object.
 
-In south-eastern Melbourne, the risk is especially high because Moorabbin’s operations involve repeated circuits and training movements. Airservices Australia describes circuit training as the first stage of practical pilot training, involving repeated approaches, landings, power application and take-offs. It also lists Moorabbin circuit training hours extending into the evening on weekdays, depending on daylight saving and season. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/2022/06/16/moorabbin-airport-circuit-training/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-title">moorabbin airport circuit training</span><span class="citation-popover-snippet">moorabbin airport circuit training</span></span></span>
+In south-eastern Melbourne, the risk is especially high because Moorabbin’s operations involve repeated circuits and training movements. Airservices Australia describes circuit training as the first stage of practical pilot training, involving repeated approaches, landings, power application and take-offs. It also lists Moorabbin circuit training hours extending into the evening on weekdays, depending on daylight saving and season.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/2022/06/16/moorabbin-airport-circuit-training/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-title">moorabbin airport circuit training</span><span class="citation-popover-snippet">moorabbin airport circuit training</span></span></span>
 
 That pattern can produce classic UFO ingredients: repetition, bright lights, engine noise that comes and goes, objects that seem to hover during approach, and aircraft that appear to follow one another. Around Port Phillip Bay and the coastal VFR routes, aircraft may also be seen against water, haze or a low sun, making speed and distance harder to judge.
 
@@ -396,194 +396,194 @@ For a careful reader, the best evidence is not the most dramatic claim. It is th
 <img src="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228-Illustration-3-dark.svg" | relative_url }}" alt="Aviation illustration 3" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Melbourne Skies Produced UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Melbourne Skies Produced UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing sightings, witness reliability, and possible misidentifications in aviation-rich environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing sightings, witness reliability, and possible misidentifications in aviation-rich environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes pilot testimony, aviation evidence, and documented cases involving trained observers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes pilot testimony, aviation evidence, and documented cases involving trained observers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on investigation methods, official records, and evaluating unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigation methods, official records, and evaluating unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Westall &#x27;66 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=52k8zgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Westall &#x27;66" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Westall &#x27;66">Westall &#x27;66</a>
-        </h4>
-        <p class="fr-book-author">By Erik Rinkel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Westall &#x27;66 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=52k8zgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Westall &#x27;66" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Westall &#x27;66">Westall &#x27;66</a>
+</h4>
+<p class="fr-book-author">By Erik Rinkel</p>
         
-        <p class="fr-book-desc">Covers the Westall incident and related aviation questions around Melbourne&#x27;s airspace and witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the Westall incident and related aviation questions around Melbourne&#x27;s airspace and witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Northwest Airlines Airbus A320-200 Snap Airplane Model Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/bed7585f82d746a14885.jpg' | relative_url }}" alt="Listing image for Northwest Airlines Airbus A320-200 Snap Airplane Model Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Northwest Airlines Airbus A320-200 Snap Airplane Model Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Northwest Airlines Airbus A320-200 Snap Airplane Model Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/bed7585f82d746a14885.jpg' | relative_url }}" alt="Listing image for Northwest Airlines Airbus A320-200 Snap Airplane Model Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Northwest Airlines Airbus A320-200 Snap Airplane Model Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage British Airways Concorde Framed Print Barry G Price Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/177a8a44dc4352c42fca.jpg' | relative_url }}" alt="Listing image for Vintage British Airways Concorde Framed Print Barry G Price Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage British Airways Concorde Framed Print Barry G Price Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage British Airways Concorde Framed Print Barry G Price Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/177a8a44dc4352c42fca.jpg' | relative_url }}" alt="Listing image for Vintage British Airways Concorde Framed Print Barry G Price Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage British Airways Concorde Framed Print Barry G Price Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Concorde First &amp; Last Flights Montage Aviation Photo Memorabilia (COMU1)"><img src="{{ '/assets/images/marketplace-covers/85807a8421451150a734.jpg' | relative_url }}" alt="Listing image for Concorde First &amp; Last Flights Montage Aviation Photo Memorabilia (COMU1)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Concorde First &amp; Last Flights Montage Aviation Photo Memorabilia (COMU1)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Concorde First &amp; Last Flights Montage Aviation Photo Memorabilia (COMU1)"><img src="{{ '/assets/images/marketplace-covers/85807a8421451150a734.jpg' | relative_url }}" alt="Listing image for Concorde First &amp; Last Flights Montage Aviation Photo Memorabilia (COMU1)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Concorde First &amp; Last Flights Montage Aviation Photo Memorabilia (COMU1)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire Over London Classic Aviation Photo Memorabilia (146)"><img src="{{ '/assets/images/marketplace-covers/e0042faf3b2d1375863f.jpg' | relative_url }}" alt="Listing image for Spitfire Over London Classic Aviation Photo Memorabilia (146)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Spitfire Over London Classic Aviation Photo Memorabilia (146)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire Over London Classic Aviation Photo Memorabilia (146)"><img src="{{ '/assets/images/marketplace-covers/e0042faf3b2d1375863f.jpg' | relative_url }}" alt="Listing image for Spitfire Over London Classic Aviation Photo Memorabilia (146)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Spitfire Over London Classic Aviation Photo Memorabilia (146)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-why-melbourne-skies-produced-ufo-reports-victoria-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -599,7 +599,7 @@ For a careful reader, the best evidence is not the most dramatic claim. It is th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -619,7 +619,7 @@ For a careful reader, the best evidence is not the most dramatic claim. It is th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -651,7 +651,7 @@ For a careful reader, the best evidence is not the most dramatic claim. It is th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -703,7 +703,7 @@ For a careful reader, the best evidence is not the most dramatic claim. It is th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -748,7 +748,7 @@ For a careful reader, the best evidence is not the most dramatic claim. It is th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -789,189 +789,189 @@ For a careful reader, the best evidence is not the most dramatic claim. It is th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: melbourneairport.com.au  
    Title: Melbourne Airport  
-   Link: <a href="https://www.melbourneairport.com.au/_assets/be08d7b0-97a1-02f9-2be6-a0c139c3c337/119df4ed-313f-4e29-9dde-11257e236e82/MA_3R_Fact_Sheet_Melbourne_Basin.pdf?srsltid=AfmBOopfNNblrgVtaNYFFbfvxcdHiF10snHxmsz5xZITR2bW1w8yxDXz" target="_blank" rel="noopener noreferrer nofollow">https://www.melbourneairport.com.au/_assets/be08d7b0-97a1-02f9-2be6-a0c139c3c337/119df4ed-313f-4e29-9dde-11257e236e82/MA_3R_Fact_Sheet_Melbourne_Basin.pdf?srsltid=AfmBOopfNNblrgVtaNYFFbfvxcdHiF10snHxmsz5xZITR2bW1w8yxDXz</a>  
+   Link:<a href="https://www.melbourneairport.com.au/_assets/be08d7b0-97a1-02f9-2be6-a0c139c3c337/119df4ed-313f-4e29-9dde-11257e236e82/MA_3R_Fact_Sheet_Melbourne_Basin.pdf?srsltid=AfmBOopfNNblrgVtaNYFFbfvxcdHiF10snHxmsz5xZITR2bW1w8yxDXz" target="_blank" rel="noopener noreferrer nofollow">https://www.melbourneairport.com.au/_assets/be08d7b0-97a1-02f9-2be6-a0c139c3c337/119df4ed-313f-4e29-9dde-11257e236e82/MA_3R_Fact_Sheet_Melbourne_Basin.pdf?srsltid=AfmBOopfNNblrgVtaNYFFbfvxcdHiF10snHxmsz5xZITR2bW1w8yxDXz</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Disappearance of Frederick Valentich  
-   Link: <a href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Westall UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westall_UFO</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westall_UFO</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Australian ufology  
-   Link: <a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: airservicesaustralia.com  
    Title: Airservices Monitoring aircraft noise  
-   Link: <a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesMonitoring aircraft noise - Airservices...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/monitoring-aircraft-noise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesMonitoring aircraft noise - Airservices...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: casa.gov.au  
    Title: Civil Aviation Safety Authority Stay On Track: Flying the Melbourne region  
-   Link: <a href="https://www.casa.gov.au/sites/default/files/2023-06/stay-ontrack-flying-the-melbourne-region.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/sites/default/files/2023-06/stay-ontrack-flying-the-melbourne-region.pdf</a>  
+   Link:<a href="https://www.casa.gov.au/sites/default/files/2023-06/stay-ontrack-flying-the-melbourne-region.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/sites/default/files/2023-06/stay-ontrack-flying-the-melbourne-region.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blogs.slv.vic.gov.au  
    Title: strange lights in the sky the westall ufo event 1966  
-   Link: <a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
+   Link:<a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer The Valentich Disappearance: Another UFO Cold Case  
-   Link: <a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
+   Link:<a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aircraftnoise.airservicesaustralia.com  
    Title: moorabbin airport circuit training  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/2022/06/16/moorabbin-airport-circuit-training/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2022/06/16/moorabbin-airport-circuit-training/</a>  
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/2022/06/16/moorabbin-airport-circuit-training/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2022/06/16/moorabbin-airport-circuit-training/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aircraftnoise.airservicesaustralia.com  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/2022/06/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2022/06/</a>  
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/2022/06/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2022/06/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: engage.airservicesaustralia.com  
-   Link: <a href="https://engage.airservicesaustralia.com/pilot-safety-moorabbin/widgets/453277/videos/27785" target="_blank" rel="noopener noreferrer nofollow">https://engage.airservicesaustralia.com/pilot-safety-moorabbin/widgets/453277/videos/27785</a>  
+   Link:<a href="https://engage.airservicesaustralia.com/pilot-safety-moorabbin/widgets/453277/videos/27785" target="_blank" rel="noopener noreferrer nofollow">https://engage.airservicesaustralia.com/pilot-safety-moorabbin/widgets/453277/videos/27785</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/</a>  
+   Link:<a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/wp-content/uploads/Aircraft-Noise-Management_Jan-22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/Aircraft-Noise-Management_Jan-22.pdf</a>  
+   Link:<a href="https://www.airservicesaustralia.com/wp-content/uploads/Aircraft-Noise-Management_Jan-22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/Aircraft-Noise-Management_Jan-22.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/wp-content/uploads/Melbourne-Airspace-Infringement-Hot-Spots-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/Melbourne-Airspace-Infringement-Hot-Spots-1.pdf</a>  
+   Link:<a href="https://www.airservicesaustralia.com/wp-content/uploads/Melbourne-Airspace-Infringement-Hot-Spots-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/Melbourne-Airspace-Infringement-Hot-Spots-1.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: engage.airservicesaustralia.com  
-   Link: <a href="https://engage.airservicesaustralia.com/pilot-safety-moorabbin/widgets/453277/videos/28103" target="_blank" rel="noopener noreferrer nofollow">https://engage.airservicesaustralia.com/pilot-safety-moorabbin/widgets/453277/videos/28103</a>  
+   Link:<a href="https://engage.airservicesaustralia.com/pilot-safety-moorabbin/widgets/453277/videos/28103" target="_blank" rel="noopener noreferrer nofollow">https://engage.airservicesaustralia.com/pilot-safety-moorabbin/widgets/453277/videos/28103</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aircraftnoise.airservicesaustralia.com  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/resources/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/resources/</a>  
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/resources/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/resources/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/wp-content/uploads/2024/08/Guide-to-our-operations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/2024/08/Guide-to-our-operations.pdf</a>  
+   Link:<a href="https://www.airservicesaustralia.com/wp-content/uploads/2024/08/Guide-to-our-operations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/2024/08/Guide-to-our-operations.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: naa.gov.au  
    Title: flying saucers fact or fiction  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: iheart.com  
    Title: Frederick Valentich  
-   Link: <a href="https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-flight--330281511/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-flight--330281511/</a>  
+   Link:<a href="https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-flight--330281511/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-flight--330281511/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: melbourneairport.com.au  
    Title: June 2025 Noise Contours fact sheet booklet  
-   Link: <a href="https://www.melbourneairport.com.au/_assets/be08d7b0-97a1-02f9-2be6-a0c139c3c337/1fe714b2-0d1d-4ce9-bf78-38d1a180235f/June_2025_Noise_Contours_fact_sheet_booklet.pdf?srsltid=AfmBOoofDax63Y7K_xr1ePfebesfJjdcUMHPy6ZzL3KTkzsg8NSjONV6" target="_blank" rel="noopener noreferrer nofollow">https://www.melbourneairport.com.au/_assets/be08d7b0-97a1-02f9-2be6-a0c139c3c337/1fe714b2-0d1d-4ce9-bf78-38d1a180235f/June_2025_Noise_Contours_fact_sheet_booklet.pdf?srsltid=AfmBOoofDax63Y7K_xr1ePfebesfJjdcUMHPy6ZzL3KTkzsg8NSjONV6</a>  
+   Link:<a href="https://www.melbourneairport.com.au/_assets/be08d7b0-97a1-02f9-2be6-a0c139c3c337/1fe714b2-0d1d-4ce9-bf78-38d1a180235f/June_2025_Noise_Contours_fact_sheet_booklet.pdf?srsltid=AfmBOoofDax63Y7K_xr1ePfebesfJjdcUMHPy6ZzL3KTkzsg8NSjONV6" target="_blank" rel="noopener noreferrer nofollow">https://www.melbourneairport.com.au/_assets/be08d7b0-97a1-02f9-2be6-a0c139c3c337/1fe714b2-0d1d-4ce9-bf78-38d1a180235f/June_2025_Noise_Contours_fact_sheet_booklet.pdf?srsltid=AfmBOoofDax63Y7K_xr1ePfebesfJjdcUMHPy6ZzL3KTkzsg8NSjONV6</a>  
    Published: June 2025  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: melbourneairport.com.au  
-   Link: <a href="https://www.melbourneairport.com.au/_assets/be08d7b0-97a1-02f9-2be6-a0c139c3c337/7df54275-0031-4d10-948f-a8a8eecbd632/MA_3R_Fact_Sheet_aircraft%20noise%20FINAL.pdf?srsltid=AfmBOooJ3d_fm1dVZboqOx245GvFdx0BNURKgg9J5gzH5qaU1TigxFu4" target="_blank" rel="noopener noreferrer nofollow">https://www.melbourneairport.com.au/_assets/be08d7b0-97a1-02f9-2be6-a0c139c3c337/7df54275-0031-4d10-948f-a8a8eecbd632/MA_3R_Fact_Sheet_aircraft%20noise%20FINAL.pdf?srsltid=AfmBOooJ3d_fm1dVZboqOx245GvFdx0BNURKgg9J5gzH5qaU1TigxFu4</a>  
+   Link:<a href="https://www.melbourneairport.com.au/_assets/be08d7b0-97a1-02f9-2be6-a0c139c3c337/7df54275-0031-4d10-948f-a8a8eecbd632/MA_3R_Fact_Sheet_aircraft%20noise%20FINAL.pdf?srsltid=AfmBOooJ3d_fm1dVZboqOx245GvFdx0BNURKgg9J5gzH5qaU1TigxFu4" target="_blank" rel="noopener noreferrer nofollow">https://www.melbourneairport.com.au/_assets/be08d7b0-97a1-02f9-2be6-a0c139c3c337/7df54275-0031-4d10-948f-a8a8eecbd632/MA_3R_Fact_Sheet_aircraft%20noise%20FINAL.pdf?srsltid=AfmBOooJ3d_fm1dVZboqOx245GvFdx0BNURKgg9J5gzH5qaU1TigxFu4</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/2409151" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/2409151</a>  
+   Link:<a href="https://catalogue.nla.gov.au/catalog/2409151" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/2409151</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: find-and-update.company-information.service.gov.uk  
    Title: company-information.service.gov.uk J P WESTALL LIMITED overview  
-   Link: <a href="https://find-and-update.company-information.service.gov.uk/company/04017646" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/04017646</a>  
+   Link:<a href="https://find-and-update.company-information.service.gov.uk/company/04017646" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/04017646</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: patreon.com  
    Title: Frederick Valentich  
-   Link: <a href="https://www.patreon.com/posts/frederick-flight-155644059" target="_blank" rel="noopener noreferrer nofollow">https://www.patreon.com/posts/frederick-flight-155644059</a>  
+   Link:<a href="https://www.patreon.com/posts/frederick-flight-155644059" target="_blank" rel="noopener noreferrer nofollow">https://www.patreon.com/posts/frederick-flight-155644059</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/DocumentStore.ashx?id=37627014-dfe3-4b4b-a170-1c9763b88384&amp;subId=755627" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/DocumentStore.ashx?id=37627014-dfe3-4b4b-a170-1c9763b88384&amp;subId=755627</a>  
+   Link:<a href="https://www.aph.gov.au/DocumentStore.ashx?id=37627014-dfe3-4b4b-a170-1c9763b88384&amp;subId=755627" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/DocumentStore.ashx?id=37627014-dfe3-4b4b-a170-1c9763b88384&amp;subId=755627</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/home-page" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/home-page</a>  
+   Link:<a href="https://www.atsb.gov.au/home-page" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/home-page</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: anao.gov.au  
-   Link: <a href="https://www.anao.gov.au/work/performance-audit/efficiency-investigation-transport-accidents-and-safety-occurrences" target="_blank" rel="noopener noreferrer nofollow">https://www.anao.gov.au/work/performance-audit/efficiency-investigation-transport-accidents-and-safety-occurrences</a>  
+   Link:<a href="https://www.anao.gov.au/work/performance-audit/efficiency-investigation-transport-accidents-and-safety-occurrences" target="_blank" rel="noopener noreferrer nofollow">https://www.anao.gov.au/work/performance-audit/efficiency-investigation-transport-accidents-and-safety-occurrences</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: UFOs or PILOT error? | The Disappearance of Frederick Valentich  
-   Link: <a href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6LNnWxi_lw4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6LNnWxi_lw4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: The Westall Encounter: Australia's Most Profound UFO Sighting  
-   Link: <a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8yxg5BCdAHQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Melbourne UFO Mystery: 50 Years On | Studio 10...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8yxg5BCdAHQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Melbourne UFO Mystery: 50 Years On | Studio 10...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcnews.au/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-but-it-came/1147146796766589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-but-it-came/1147146796766589/</a>  
+   Link:<a href="https://www.facebook.com/abcnews.au/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-but-it-came/1147146796766589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-but-it-came/1147146796766589/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/melbourne/comments/1si6v7j/after_60_years_witnesses_to_australias_biggest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/melbourne/comments/1si6v7j/after_60_years_witnesses_to_australias_biggest/</a>  
+   Link:<a href="https://www.reddit.com/r/melbourne/comments/1si6v7j/after_60_years_witnesses_to_australias_biggest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/melbourne/comments/1si6v7j/after_60_years_witnesses_to_australias_biggest/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/australian/comments/1seojwq/australian_story_the_westall_ufo_mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/australian/comments/1seojwq/australian_story_the_westall_ufo_mystery/</a>  
+   Link:<a href="https://www.reddit.com/r/australian/comments/1seojwq/australian_story_the_westall_ufo_mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/australian/comments/1seojwq/australian_story_the_westall_ufo_mystery/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: newdawnmagazine.com  
-   Link: <a href="https://www.newdawnmagazine.com/articles/ufos-[unexplained" target="_blank" rel="noopener noreferrer nofollow">https://www.newdawnmagazine.com/articles/ufos-[unexplained</a>  
+   Link:<a href="https://www.newdawnmagazine.com/articles/ufos-[unexplained" target="_blank" rel="noopener noreferrer nofollow">https://www.newdawnmagazine.com/articles/ufos-[unexplained</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: moorabbinairport.com.au  
-   Link: <a href="https://www.moorabbinairport.com.au/-/media/project/moorabbin-airport/files/about-us/cacg/moorabbin-airport-circuit-training-report-july-2011.pdf?hash=09DD4495DE99E1158CAA333C89CABCDF&amp;rev=a156c6f6832c4702b6fb225c18ea0e16" target="_blank" rel="noopener noreferrer nofollow">https://www.moorabbinairport.com.au/-/media/project/moorabbin-airport/files/about-us/cacg/moorabbin-airport-circuit-training-report-july-2011.pdf?hash=09DD4495DE99E1158CAA333C89CABCDF&amp;rev=a156c6f6832c4702b6fb225c18ea0e16</a>  
+   Link:<a href="https://www.moorabbinairport.com.au/-/media/project/moorabbin-airport/files/about-us/cacg/moorabbin-airport-circuit-training-report-july-2011.pdf?hash=09DD4495DE99E1158CAA333C89CABCDF&amp;rev=a156c6f6832c4702b6fb225c18ea0e16" target="_blank" rel="noopener noreferrer nofollow">https://www.moorabbinairport.com.au/-/media/project/moorabbin-airport/files/about-us/cacg/moorabbin-airport-circuit-training-report-july-2011.pdf?hash=09DD4495DE99E1158CAA333C89CABCDF&amp;rev=a156c6f6832c4702b6fb225c18ea0e16</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: jpwestall.com  
-   Link: <a href="https://www.jpwestall.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpwestall.com/</a>  
+   Link:<a href="https://www.jpwestall.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpwestall.com/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/301761279672585/posts/854668611048513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/301761279672585/posts/854668611048513/</a>  
+   Link:<a href="https://www.facebook.com/groups/301761279672585/posts/854668611048513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/301761279672585/posts/854668611048513/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: nationalarchives.ie  
-   Link: <a href="https://nationalarchives.ie/help-with-research/research-guides/australian-transportation-records/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.ie/help-with-research/research-guides/australian-transportation-records/</a>  
+   Link:<a href="https://nationalarchives.ie/help-with-research/research-guides/australian-transportation-records/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.ie/help-with-research/research-guides/australian-transportation-records/</a>  

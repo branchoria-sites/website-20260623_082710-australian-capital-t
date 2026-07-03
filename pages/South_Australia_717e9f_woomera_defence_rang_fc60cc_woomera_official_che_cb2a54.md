@@ -256,15 +256,15 @@ image: /assets/images/South_Australia_717e9f_woomera_defence_rang_fc60cc_woomera
 
 ## Introduction
 
-Defence officials investigated [Woomera]({{ 'woomera/' | relative_url }}) UFO reports for a practical reason: unusual lights or objects seen near one of Australia's most sensitive weapons-testing regions could not simply be dismissed as curiosities. During the Cold War, a sighting over or near the Woomera Prohibited Area, [Maralinga]({{ 'maralinga/' | relative_url }}) test sites or associated research facilities might indicate an unauthorised aircraft, a security breach, a failed weapons trial, an instrumentation problem, or a hazard to personnel and operations. In that environment, even a report that eventually proved mundane deserved official attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+Defence officials investigated [Woomera]({{ 'woomera/' | relative_url }}) UFO reports for a practical reason: unusual lights or objects seen near one of Australia's most sensitive weapons-testing regions could not simply be dismissed as curiosities. During the Cold War, a sighting over or near the Woomera Prohibited Area, [Maralinga]({{ 'maralinga/' | relative_url }}) test sites or associated research facilities might indicate an unauthorised aircraft, a security breach, a failed weapons trial, an instrumentation problem, or a hazard to personnel and operations. In that environment, even a report that eventually proved mundane deserved official attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_woomera_defence_rang_fc60cc_woomera_official_che_cb2a54-Illustration-1-dark.svg" | relative_url }}" alt="Official checks illustration 1" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_woomera_defence_rang_fc60cc_woomera_official_che_cb2a54-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_woomera_defence_rang_fc60cc_woomera_official_che_cb2a54-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This helps explain why some South Australian UFO reports generated security files, witness interviews and technical checks. The key question for officials was usually not whether extraterrestrial visitors had arrived. It was whether something had entered restricted airspace, interfered with defence activities, or revealed a problem requiring action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+This helps explain why some South Australian UFO reports generated security files, witness interviews and technical checks. The key question for officials was usually not whether extraterrestrial visitors had arrived. It was whether something had entered restricted airspace, interfered with defence activities, or revealed a problem requiring action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
 ## Restricted areas and Cold War security stakes
 
-Woomera occupied a unique place in Australia's defence system. The wider region hosted missile development, rocket launches, weapons research and, through nearby Maralinga, British nuclear testing activities. The area was heavily controlled, and unusual activity in the sky could have implications far beyond public curiosity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nma.gov.au/defining-moments/resources/maralinga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nma.gov.au">[nma.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nma.gov.au</span><span class="citation-popover-snippet">The testing took place from 1952 to 1963, mostly at Maralinga. Australian authorities did not discover the extent of the contamination at...</span></span></span>
+Woomera occupied a unique place in Australia's defence system. The wider region hosted missile development, rocket launches, weapons research and, through nearby Maralinga, British nuclear testing activities. The area was heavily controlled, and unusual activity in the sky could have implications far beyond public curiosity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nma.gov.au/defining-moments/resources/maralinga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nma.gov.au">[nma.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nma.gov.au</span><span class="citation-popover-snippet">The testing took place from 1952 to 1963, mostly at Maralinga. Australian authorities did not discover the extent of the contamination at...</span></span></span>
 
 From a defence perspective, an unexplained light raised several immediate possibilities:
 
@@ -274,9 +274,9 @@ From a defence perspective, an unexplained light raised several immediate possib
 * A reporting error that might reveal weaknesses in observation systems.
 * A public-relations or [secrecy]({{ 'secrecy/' | relative_url }}) problem if rumours spread around sensitive projects.
 
-Officials therefore treated some reports as security matters before they treated them as UFO stories. The location itself elevated the importance of the observation. A strange light over an ordinary rural district might attract little official attention; the same report from a nuclear or weapons-testing zone could trigger inquiries and written reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+Officials therefore treated some reports as security matters before they treated them as UFO stories. The location itself elevated the importance of the observation. A strange light over an ordinary rural district might attract little official attention; the same report from a nuclear or weapons-testing zone could trigger inquiries and written reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
-The National [Archives]({{ 'archives-d7c21b/' | relative_url }}) has noted that Australian authorities maintained an interest in UFO reports partly because Cold War conditions required governments to remain alert to potential threats and unexpected aerial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — RAAF records of possible unidentified flying object (UFO) sightings have been retained...</span></span></span>
+The National [Archives]({{ 'archives-d7c21b/' | relative_url }}) has noted that Australian authorities maintained an interest in UFO reports partly because Cold War conditions required governments to remain alert to potential threats and unexpected aerial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — RAAF records of possible unidentified flying object (UFO) sightings have been retained...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IhKyQkhOfoM" title="Schoolyard witnesses in mass UFO sighting demand answers | Australian Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer">Schoolyard witnesses in mass UFO sighting demand answers | Australian Story</a></p><p class="youtube-embed-meta">Channel: ABC News In-depth &middot; Views: 691.6K &middot; Uploaded: April 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IhKyQkhOfoM">Open on YouTube</a></p></div></div></div>
@@ -285,7 +285,7 @@ The National [Archives]({{ 'archives-d7c21b/' | relative_url }}) has noted that 
 
 The best-known example is the July 1960 Wewak incident near Maralinga. The surviving report demonstrates the methodical approach taken by officials.
 
-When Constable Hubert Dave Scarborough reported what appeared to be a bright airborne light, investigators did not immediately label it a UFO. Their first step was to check known range activities. According to the report, the Balloon Officer confirmed that the static [balloons]({{ 'balloons-b62c7f/' | relative_url }}) operating in the area were still present and intact, eliminating the most obvious explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+When Constable Hubert Dave Scarborough reported what appeared to be a bright airborne light, investigators did not immediately label it a UFO. Their first step was to check known range activities. According to the report, the Balloon Officer confirmed that the static [balloons]({{ 'balloons-b62c7f/' | relative_url }}) operating in the area were still present and intact, eliminating the most obvious explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
 The investigation then widened. Security personnel collected statements from multiple [witnesses]({{ 'witnesses/' | relative_url }}) located at different sites. Witnesses included police and technical staff connected with the testing area. Investigators compared descriptions, movement, brightness, colour changes and timing. They considered a range of possibilities, including:
 
@@ -300,7 +300,7 @@ The investigation then widened. Security personnel collected statements from mul
 
 </div>
 
-The aim was to match the reported observation against known operations and known causes before treating it as genuinely unidentified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+The aim was to match the reported observation against known operations and known causes before treating it as genuinely unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
 This process reflects how defence organisations normally handle unexpected observations. The investigation was less about proving an extraordinary explanation than about eliminating [ordinary explanations]({{ 'explanations-44cf05/' | relative_url }}) that might affect security, safety or operations.
 
@@ -310,7 +310,7 @@ This process reflects how defence organisations normally handle unexpected obser
 
 One reason Woomera occupies a notable place in South Australia's UFO history is that some reports generated official paperwork.
 
-Many UFO stories rely on memories recorded years later. Woomera-related incidents are different because they sometimes entered government files while events were still fresh. The surviving records show security officers, technical staff and administrators attempting to establish exactly what had happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+Many UFO stories rely on memories recorded years later. Woomera-related incidents are different because they sometimes entered government files while events were still fresh. The surviving records show security officers, technical staff and administrators attempting to establish exactly what had happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
 For historians, the existence of those files is often more important than the sightings themselves. The documents reveal:
 
@@ -325,7 +325,7 @@ For historians, the existence of those files is often more important than the si
 
 </div>
 
-This administrative trail provides a clearer picture of official thinking than many civilian UFO cases can offer. It also shows that investigation does not imply confirmation. Governments often investigate reports precisely because they need to determine whether a threat or misunderstanding exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+This administrative trail provides a clearer picture of official thinking than many civilian UFO cases can offer. It also shows that investigation does not imply confirmation. Governments often investigate reports precisely because they need to determine whether a threat or misunderstanding exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LIZCvr_tfPQ" title="Woomera: UFOs, Nukes &amp; Australia&#x27;s Area 51" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LIZCvr_tfPQ" target="_blank" rel="noopener noreferrer">Woomera: UFOs, Nukes &amp; Australia&#x27;s Area 51</a></p><p class="youtube-embed-meta">Channel: The UFOzzie &middot; Views: 37.1K &middot; Uploaded: July 2025 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LIZCvr_tfPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LIZCvr_tfPQ">Open on YouTube</a></p></div></div></div>
@@ -334,11 +334,11 @@ This administrative trail provides a clearer picture of official thinking than m
 
 The existence of a defence investigation is sometimes misunderstood as evidence that officials believed they were dealing with extraordinary craft. The surviving Woomera and Maralinga records do not support such a conclusion.
 
-The files demonstrate that authorities considered the reports important enough to examine. They show that witnesses observed something they could not immediately identify. They also show that investigators compared the observations against known activities and possible explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+The files demonstrate that authorities considered the reports important enough to examine. They show that witnesses observed something they could not immediately identify. They also show that investigators compared the observations against known activities and possible explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
-What the files do not prove is that the observed objects were alien spacecraft, secret foreign technology or anything beyond conventional explanation. In the 1960 Wewak case, investigators explored multiple possibilities and ultimately reached a cautious position rather than a dramatic conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+What the files do not prove is that the observed objects were alien spacecraft, secret foreign technology or anything beyond conventional explanation. In the 1960 Wewak case, investigators explored multiple possibilities and ultimately reached a cautious position rather than a dramatic conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
-The broader lesson is that Woomera UFO reports became security files because of where they occurred. A restricted weapons-testing environment demanded investigation whenever something unusual appeared in the sky. Official attention therefore reflects the strategic importance of the location more than it reflects confidence in extraordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+The broader lesson is that Woomera UFO reports became security files because of where they occurred. A restricted weapons-testing environment demanded investigation whenever something unusual appeared in the sky. Official attention therefore reflects the strategic importance of the location more than it reflects confidence in extraordinary explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_woomera_defence_rang_fc60cc_woomera_official_che_cb2a54-Illustration-3-dark.svg" | relative_url }}" alt="Official checks illustration 3" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_woomera_defence_rang_fc60cc_woomera_official_che_cb2a54-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_woomera_defence_rang_fc60cc_woomera_official_che_cb2a54-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -346,201 +346,201 @@ The broader lesson is that Woomera UFO reports became security files because of 
 
 Within South Australia's UFO record, Woomera stands out because it sits at the intersection of defence administration and unexplained aerial reports. The key historical fact is not that officials confirmed extraordinary objects. It is that the region's military and scientific significance created a strong incentive to investigate sightings carefully.
 
-As a result, Woomera and nearby Maralinga produced some of the state's most informative UFO-related records. They show how Cold War defence organisations responded when witnesses reported strange lights in restricted airspace: by checking operations, interviewing observers, examining technical possibilities and creating a documentary record. That process explains why a strange light could become a security file, even when no definitive answer was ever found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA+2NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+As a result, Woomera and nearby Maralinga produced some of the state's most informative UFO-related records. They show how Cold War defence organisations responded when witnesses reported strange lights in restricted airspace: by checking operations, interviewing observers, examining technical possibilities and creating a documentary record. That process explains why a strange light could become a security file, even when no definitive answer was ever found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8yFIRaalq10" title="Inside the Australian UFO Archive: The Sea Fury, Maralinga, and the Valentich Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8yFIRaalq10" target="_blank" rel="noopener noreferrer">Inside the Australian UFO Archive: The Sea Fury, Maralinga, and the Valentich Mystery</a></p><p class="youtube-embed-meta">Channel: UFO to UAP</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8yFIRaalq10" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8yFIRaalq10">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why a strange light became a security file. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why a strange light became a security file. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on military, aviation and government investigations of unexplained aerial incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on military, aviation and government investigations of unexplained aerial incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how unusual aerial reports are investigated and classified rather than assumed to be extraordinary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unusual aerial reports are investigated and classified rather than assumed to be extraordinary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Provides context for unexplained sightings, official inquiries and Cold War-era mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for unexplained sightings, official inquiries and Cold War-era mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Connects unexplained aerospace claims with defence research, secrecy and Cold War programmes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects unexplained aerospace claims with defence research, secrecy and Cold War programmes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-checks-why-a-strange-light-became-a-security-file-south-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-strange-light-became-a-security-file-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-a-strange-light-became-a-security-file-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ As a result, Woomera and nearby Maralinga produced some of the state's most info
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ As a result, Woomera and nearby Maralinga produced some of the state's most info
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ As a result, Woomera and nearby Maralinga produced some of the state's most info
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ As a result, Woomera and nearby Maralinga produced some of the state's most info
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ As a result, Woomera and nearby Maralinga produced some of the state's most info
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,106 +746,106 @@ As a result, Woomera and nearby Maralinga produced some of the state's most info
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</p></details>
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</p></details>
    Published: July 1960  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: naa.gov.au  
    Title: flying saucers fact or fiction  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers – fact or fiction?28 Feb 2018 — RAAF records of possible unidentified flying object (UFO) sightings have been retained...</p></details>
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers – fact or fiction?28 Feb 2018 — RAAF records of possible unidentified flying object (UFO) sightings have been retained...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nma.gov.au  
-   Link: <a href="https://www.nma.gov.au/defining-moments/resources/maralinga" target="_blank" rel="noopener noreferrer nofollow">https://www.nma.gov.au/defining-moments/resources/maralinga</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The testing took place from 1952 to 1963, mostly at Maralinga. Australian authorities did not discover the extent of the contamination at...</p></details>
+   Link:<a href="https://www.nma.gov.au/defining-moments/resources/maralinga" target="_blank" rel="noopener noreferrer nofollow">https://www.nma.gov.au/defining-moments/resources/maralinga</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The testing took place from 1952 to 1963, mostly at Maralinga. Australian authorities did not discover the extent of the contamination at...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: naa.gov.au  
    Title: fs 129 british nuclear tests at maralinga  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2020-05/fs-129-british-nuclear-tests-at-maralinga.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-05/fs-129-british-nuclear-tests-at-maralinga.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>British nuclear tests at MaralingaBetween 1952 and 1963 the British Government, with the agreement and support of the Australian. Governm...</p></details>
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2020-05/fs-129-british-nuclear-tests-at-maralinga.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-05/fs-129-british-nuclear-tests-at-maralinga.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British nuclear tests at MaralingaBetween 1952 and 1963 the British Government, with the agreement and support of the Australian. Governm...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/explore-collection/first-australians/other-resources-about-first-australians/british-nuclear-tests-maralinga" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection/first-australians/other-resources-about-first-australians/british-nuclear-tests-maralinga</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>British nuclear tests at Maralinga | naa.gov.auA guide to records created by Commonwealth agencies relating to nuclear testing at Maralinga...</p></details>
+   Link:<a href="https://www.naa.gov.au/explore-collection/first-australians/other-resources-about-first-australians/british-nuclear-tests-maralinga" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection/first-australians/other-resources-about-first-australians/british-nuclear-tests-maralinga</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British nuclear tests at Maralinga | naa.gov.auA guide to records created by Commonwealth agencies relating to nuclear testing at Maralinga...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence equipment and weaponsA confidential report detailing sightings of an unidentified flying object near Wewak, a nuclear weapons tes...</p></details>
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence equipment and weaponsA confidential report detailing sightings of an unidentified flying object near Wewak, a nuclear weapons tes...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: presidential libraries  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...Jan 30, 2026 — This page provides a list of presidential records related to...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...Jan 30, 2026 — This page provides a list of presidential records related to...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Approved for Release 2026 Under...On the other hand, the CIA regarded tho su~mPr. UFO activity as a throat to national security mainly b...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Approved for Release 2026 Under...On the other hand, the CIA regarded tho su~mPr. UFO activity as a throat to national security mainly b...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theworld.org  
    Title: Australia has lost its X-Files, documents which detailed sightings of UFOs (  
-   Link: <a href="https://theworld.org/stories/2016/08/02/australian-military-loses-x-files-ufo-sightings-paper-reports" target="_blank" rel="noopener noreferrer nofollow">https://theworld.org/stories/2016/08/02/australian-military-loses-x-files-ufo-sightings-paper-reports</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian military loses X-Files on UFO sightings, paper...2 Aug 2016 — Australian military loses X-Files on UFO sightings, paper reports...</p></details>
+   Link:<a href="https://theworld.org/stories/2016/08/02/australian-military-loses-x-files-ufo-sightings-paper-reports" target="_blank" rel="noopener noreferrer nofollow">https://theworld.org/stories/2016/08/02/australian-military-loses-x-files-ufo-sightings-paper-reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian military loses X-Files on UFO sightings, paper...2 Aug 2016 — Australian military loses X-Files on UFO sightings, paper reports...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>summary [[https://en.wikipedia](https://en.wikipedia). org/wiki/Westall_UFO] or read...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WWLP22News/posts/scientists-gained-access-to-australias-military-files-on-ufos-and-did-some-resea/10159170341499099/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>summary [[https://en.wikipedia](https://en.wikipedia). org/wiki/Westall_UFO] or read...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/g4bbt8/australian_raaf_files_show_in_1973_following_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/g4bbt8/australian_raaf_files_show_in_1973_following_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian [RAAF files](&amp;#123;&amp;#123; &#x27;raaf-files-f25b1d/&#x27; | relative_url &amp;#125;&amp;#125;) show in 1973, following a DEFCON 3...... UFO sighting and managed the Atomic Woomera Rocket Range in Australia...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/g4bbt8/australian_raaf_files_show_in_1973_following_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/g4bbt8/australian_raaf_files_show_in_1973_following_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian [RAAF files](&amp;#123;&amp;#123; &#x27;raaf-files-f25b1d/&#x27; | relative_url &amp;#125;&amp;#125;) show in 1973, following a DEFCON 3...... UFO sighting and managed the Atomic Woomera Rocket Range in Australia...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: ufo sightings at weapons testing site woomera  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1d6eibg/ufo_sightings_at_weapons_testing_site_woomera/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d6eibg/ufo_sightings_at_weapons_testing_site_woomera/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, Woomera2 Jun 2024 — This confidential two-page report details sightings on 15 July 1960 of an unid...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1d6eibg/ufo_sightings_at_weapons_testing_site_woomera/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d6eibg/ufo_sightings_at_weapons_testing_site_woomera/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, Woomera2 Jun 2024 — This confidential two-page report details sightings on 15 July 1960 of an unid...</p></details>
    Published: July 1960  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: exploroz.com  
    Title: woomera and maralinga ufo sightings 1952 1960  
-   Link: <a href="https://www.exploroz.com/forum/141257/woomera-and-maralinga-ufo-sightings-1952-1960" target="_blank" rel="noopener noreferrer nofollow">https://www.exploroz.com/forum/141257/woomera-and-maralinga-ufo-sightings-1952-1960</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Woomera and Maralinga UFO sightings (1952-1960)16 Mar 2021 — On 15 July 1960, there were several reports of an &quot;unidentified light&quot; in th...</p></details>
+   Link:<a href="https://www.exploroz.com/forum/141257/woomera-and-maralinga-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.exploroz.com/forum/141257/woomera-and-maralinga-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Woomera and Maralinga UFO sightings (1952-1960)16 Mar 2021 — On 15 July 1960, there were several reports of an &quot;unidentified light&quot; in th...</p></details>
    Published: July 1960  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ibtimes.co.uk  
    Title: 1954 woomera test range ufo incident 1783299  
-   Link: <a href="https://www.ibtimes.co.uk/1954-woomera-test-range-ufo-incident-1783299" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/1954-woomera-test-range-ufo-incident-1783299</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF UFO Files Reveal Object Racing 3600mph Over...5 Mar 2026 — Declassified files reveal a 1954 RAAF UFO encounter where radar tracked...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/1954-woomera-test-range-ufo-incident-1783299" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/1954-woomera-test-range-ufo-incident-1783299</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF UFO Files Reveal Object Racing 3600mph Over...5 Mar 2026 — Declassified files reveal a 1954 RAAF UFO encounter where radar tracked...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: space.com  
    Title: 11892 australian government loses ufo files  
-   Link: <a href="https://www.space.com/11892-australian-government-loses-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/11892-australian-government-loses-ufo-files.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Government Loses All Its UFO Files7 Jun 2011 — Two months spent (presumably) thumbing through drawers turned up only one UFO-r...</p></details>
+   Link:<a href="https://www.space.com/11892-australian-government-loses-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/11892-australian-government-loses-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Government Loses All Its UFO Files7 Jun 2011 — Two months spent (presumably) thumbing through drawers turned up only one UFO-r...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sbs.com.au  
-   Link: <a href="https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>iling sightings of Unidentified Flying Objects, or UFOs, across...</p></details>
+   Link:<a href="https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iling sightings of Unidentified Flying Objects, or UFOs, across...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mrmarkbouris/posts/where-australias-ufo-sightings-have-been-reportedcomment-ufo-and-ill-personally-/1427280178754769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrmarkbouris/posts/where-australias-ufo-sightings-have-been-reportedcomment-ufo-and-ill-personally-/1427280178754769/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ipt: Was a real hot bed of UFO sightings during the Maralinga...</p></details>
+   Link:<a href="https://www.facebook.com/mrmarkbouris/posts/where-australias-ufo-sightings-have-been-reportedcomment-ufo-and-ill-personally-/1427280178754769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrmarkbouris/posts/where-australias-ufo-sightings-have-been-reportedcomment-ufo-and-ill-personally-/1427280178754769/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ipt: Was a real hot bed of UFO sightings during the Maralinga...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: adelaidenow.com.au  
-   Link: <a href="https://www.adelaidenow.com.au/news/woomera-flying-saucer-a-trick-of-light-not-a-ufo-says-british-government-files/news-story/891e5f89f8cb33a4ef3399d309858d56" target="_blank" rel="noopener noreferrer nofollow">https://www.adelaidenow.com.au/news/woomera-flying-saucer-a-trick-of-light-not-a-ufo-says-british-government-files/news-story/891e5f89f8cb33a4ef3399d309858d56</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X-files opened on Woomera UFO5 Aug 2010 — The files are available to download for free for a month from www.nationalarchives.gov.uk/ufos...</p></details>
+   Link:<a href="https://www.adelaidenow.com.au/news/woomera-flying-saucer-a-trick-of-light-not-a-ufo-says-british-government-files/news-story/891e5f89f8cb33a4ef3399d309858d56" target="_blank" rel="noopener noreferrer nofollow">https://www.adelaidenow.com.au/news/woomera-flying-saucer-a-trick-of-light-not-a-ufo-says-british-government-files/news-story/891e5f89f8cb33a4ef3399d309858d56</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X-files opened on Woomera UFO5 Aug 2010 — The files are available to download for free for a month from www.nationalarchives.gov.uk/ufos...</p></details>

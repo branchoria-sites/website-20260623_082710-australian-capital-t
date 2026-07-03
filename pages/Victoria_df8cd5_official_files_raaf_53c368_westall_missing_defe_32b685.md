@@ -260,17 +260,17 @@ One of the most persistent questions in the Westall UFO story is whether a Defen
 
 
 <img src="{{ "/assets/images/Victoria_df8cd5_official_files_raaf_53c368_westall_missing_defe_32b685-Illustration-1-dark.svg" | relative_url }}" alt="Missing report illustration 1" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_official_files_raaf_53c368_westall_missing_defe_32b685-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_official_files_raaf_53c368_westall_missing_defe_32b685-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The difficulty is that neither side possesses conclusive evidence. Witnesses, researchers and journalists have pointed to indications that military or defence-related personnel took an interest in the event. Yet extensive searches of publicly accessible archives have not produced the alleged definitive report. As a result, the debate is less about what a hidden file proves than about what can reasonably be inferred from the absence of records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — After 60 years, witnesses to Australia&#x27;s biggest UFO sightin...</span></span></span>
+The difficulty is that neither side possesses conclusive evidence. Witnesses, researchers and journalists have pointed to indications that military or defence-related personnel took an interest in the event. Yet extensive searches of publicly accessible archives have not produced the alleged definitive report. As a result, the debate is less about what a hidden file proves than about what can reasonably be inferred from the absence of records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — After 60 years, witnesses to Australia&#x27;s biggest UFO sightin...</span></span></span>
 
 ## Why witnesses expect a Defence file
 
 Several features of the [Westall]({{ 'westall/' | relative_url }}) case encourage the belief that an official Defence report should exist.
 
-First, witnesses described what they believed was a significant official response. Over the years, former students and some teachers have recalled seeing uniformed personnel, aircraft activity, or officials arriving shortly after the sighting. These recollections became intertwined with claims that witnesses were discouraged from discussing the event. Whether every detail is accurate or not, such accounts naturally create an expectation that someone in government recorded what happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — After 60 years, witnesses to Australia&#x27;s biggest UFO sightin...</span></span></span>
+First, witnesses described what they believed was a significant official response. Over the years, former students and some teachers have recalled seeing uniformed personnel, aircraft activity, or officials arriving shortly after the sighting. These recollections became intertwined with claims that witnesses were discouraged from discussing the event. Whether every detail is accurate or not, such accounts naturally create an expectation that someone in government recorded what happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — After 60 years, witnesses to Australia&#x27;s biggest UFO sightin...</span></span></span>
 
-Second, the timing of the incident matters. In 1966 Australia was still in a period when unusual aerial reports could attract attention from defence, [aviation]({{ 'aviation/' | relative_url }}) and security authorities. The idea that hundreds of students and staff observed something unusual near Melbourne makes it seem plausible that some form of report would have been generated, even if only for routine administrative reasons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+Second, the timing of the incident matters. In 1966 Australia was still in a period when unusual aerial reports could attract attention from defence, [aviation]({{ 'aviation/' | relative_url }}) and security authorities. The idea that hundreds of students and staff observed something unusual near Melbourne makes it seem plausible that some form of report would have been generated, even if only for routine administrative reasons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
-Third, later researchers associated with the Westall case repeatedly referred to missing or inaccessible official documentation. Investigators such as Shane Ryan and journalist Ross Coulthart helped popularise the notion that a key report had either not been released or had never surfaced in archival searches. This argument did not depend on proving what the report contained; it rested on the belief that an event of this scale should have left a larger documentary footprint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ged1e9/secret_file_detailing_truth_about_australias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Secret file detailing truth about Australia&#x27;s largest UFO...October 28, 2024 — Author Ross Coulthart has spent decades investigati...</span><span class="citation-popover-meta">Published: October 28, 2024</span></span></span>
+Third, later researchers associated with the Westall case repeatedly referred to missing or inaccessible official documentation. Investigators such as Shane Ryan and journalist Ross Coulthart helped popularise the notion that a key report had either not been released or had never surfaced in archival searches. This argument did not depend on proving what the report contained; it rested on the belief that an event of this scale should have left a larger documentary footprint.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ged1e9/secret_file_detailing_truth_about_australias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Secret file detailing truth about Australia&#x27;s largest UFO...October 28, 2024 — Author Ross Coulthart has spent decades investigati...</span><span class="citation-popover-meta">Published: October 28, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sPHVvg-dXOs" title="Melbourne UFO Mystery: 50 Years On | Studio 10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sPHVvg-dXOs" target="_blank" rel="noopener noreferrer">Melbourne UFO Mystery: 50 Years On | Studio 10</a></p><p class="youtube-embed-meta">Channel: Studio 10 &middot; Views: 1.3M &middot; Uploaded: January 2016 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sPHVvg-dXOs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sPHVvg-dXOs">Open on YouTube</a></p></div></div></div>
@@ -292,7 +292,7 @@ It might refer to:
 
 </div>
 
-These possibilities are not equivalent. Demonstrating that one document is absent does not automatically establish the existence of another. The historical problem is that no publicly available document has emerged that clearly matches the popular image of a comprehensive secret Defence dossier explaining exactly what happened at Westall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — After 60 years, witnesses to Australia&#x27;s biggest UFO sightin...</span></span></span>
+These possibilities are not equivalent. Demonstrating that one document is absent does not automatically establish the existence of another. The historical problem is that no publicly available document has emerged that clearly matches the popular image of a comprehensive secret Defence dossier explaining exactly what happened at Westall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — After 60 years, witnesses to Australia&#x27;s biggest UFO sightin...</span></span></span>
 
 This point is important because many retellings gradually shift from "a report may exist" to "a report exists and is being concealed". The available evidence does not support that stronger claim.
 
@@ -302,7 +302,7 @@ This point is important because many retellings gradually shift from "a report m
 
 The missing-file argument is often presented as evidence of a cover-up. Historians and archivists tend to be more cautious.
 
-Records disappear for many reasons. Government agencies routinely destroy material under approved retention schedules. Files can be misclassified, merged into broader collections, transferred between departments, or catalogued under unexpected titles. Cold War-era administrative records are especially vulnerable to such complications. The simple fact that researchers cannot locate a document does not demonstrate deliberate suppression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsSightings of unidentified flying objects – UFOs – have been reported over our skies for decades. The Mini...</span></span></span>
+Records disappear for many reasons. Government agencies routinely destroy material under approved retention schedules. Files can be misclassified, merged into broader collections, transferred between departments, or catalogued under unexpected titles. Cold War-era administrative records are especially vulnerable to such complications. The simple fact that researchers cannot locate a document does not demonstrate deliberate suppression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsSightings of unidentified flying objects – UFOs – have been reported over our skies for decades. The Mini...</span></span></span>
 
 At the same time, the absence of records does not prove that witnesses were mistaken. A lack of surviving paperwork tells historians very little about what people actually observed in the schoolyard. It only limits what can be known about the official response.
 
@@ -315,15 +315,15 @@ This creates an unusual situation. Believers cannot point to a missing file as p
 
 The missing-report dispute became more complicated after researchers uncovered information about the HIBAL balloon programme, a joint Australian scientific project that launched large high-altitude balloons for atmospheric and radiation studies.
 
-Some investigators argued that HIBAL records offered a plausible conventional explanation for parts of the Westall event and could account for why government agencies might have been interested in reports from the area. Others rejected the balloon explanation, arguing that witness descriptions did not match what they remembered seeing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+Some investigators argued that HIBAL records offered a plausible conventional explanation for parts of the Westall event and could account for why government agencies might have been interested in reports from the area. Others rejected the balloon explanation, arguing that witness descriptions did not match what they remembered seeing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
-The significance of the HIBAL material is not that it solves Westall. Rather, it demonstrates that previously unknown government records can emerge decades later without revealing a grand secret. This cuts both ways. It shows that archival discoveries are possible, but it also shows that newly found documents may support ordinary explanations rather than extraordinary ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+The significance of the HIBAL material is not that it solves Westall. Rather, it demonstrates that previously unknown government records can emerge decades later without revealing a grand secret. This cuts both ways. It shows that archival discoveries are possible, but it also shows that newly found documents may support ordinary explanations rather than extraordinary ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
 ## How secrecy claims shape the Westall story
 
 The missing-report dispute has had a powerful effect on how Westall is remembered.
 
-Many UFO cases fade because witness testimony stands alone. Westall endured partly because the story acquired a second mystery: not merely "What was seen?" but "Why are the records missing?" That question transformed an aerial sighting into a debate about government transparency and historical memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — After 60 years, witnesses to Australia&#x27;s biggest UFO sightin...</span></span></span>
+Many UFO cases fade because witness testimony stands alone. Westall endured partly because the story acquired a second mystery: not merely "What was seen?" but "Why are the records missing?" That question transformed an aerial sighting into a debate about government transparency and historical memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — After 60 years, witnesses to Australia&#x27;s biggest UFO sightin...</span></span></span>
 
 The danger is that secrecy claims can become self-reinforcing. If records are found, they may be interpreted as evidence of official concern. If records are not found, the absence itself can be interpreted as evidence of concealment. In such circumstances, the theory becomes difficult to test.
 
@@ -334,7 +334,7 @@ Researchers therefore tend to separate two issues:
 1. Whether witnesses genuinely observed something unusual over Westall.
 2. Whether there is evidence of a deliberate government effort to hide the truth.
 
-The first question remains debated. The second is much harder to sustain because the documentary evidence for an organised concealment campaign remains limited and indirect. Witness recollections of warnings and official interest are real parts of the historical record, but they do not by themselves establish the existence of a hidden explanatory report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — After 60 years, witnesses to Australia&#x27;s biggest UFO sightin...</span></span></span>
+The first question remains debated. The second is much harder to sustain because the documentary evidence for an organised concealment campaign remains limited and indirect. Witness recollections of warnings and official interest are real parts of the historical record, but they do not by themselves establish the existence of a hidden explanatory report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — After 60 years, witnesses to Australia&#x27;s biggest UFO sightin...</span></span></span>
 
 ## The most balanced reading of the dispute
 
@@ -342,201 +342,201 @@ The strongest conclusion supported by current evidence is modest. It is reasonab
 
 For that reason, the phrase "missing Defence report" should be treated as a historical dispute rather than an established fact. The available evidence does not show what any unrecovered document contained, whether it still exists, or whether it would resolve the mystery if found.
 
-Within Victoria's UFO history, that uncertainty is precisely why the issue remains significant. The Westall case is remembered not only because hundreds of people reported seeing something unusual, but because the apparent silence of the official record became part of the story itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — After 60 years, witnesses to Australia&#x27;s biggest UFO sightin...</span></span></span>
+Within Victoria's UFO history, that uncertainty is precisely why the issue remains significant. The Westall case is remembered not only because hundreds of people reported seeing something unusual, but because the apparent silence of the official record became part of the story itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — After 60 years, witnesses to Australia&#x27;s biggest UFO sightin...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WXbXsF7Vyhk" title="The UFO Sighting That 400 Students Were Forced to Forget" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WXbXsF7Vyhk" target="_blank" rel="noopener noreferrer">The UFO Sighting That 400 Students Were Forced to Forget</a></p><p class="youtube-embed-meta">Channel: Motech &middot; Views: 10.9K &middot; Uploaded: August 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WXbXsF7Vyhk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WXbXsF7Vyhk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is there still a hidden Westall file?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is there still a hidden Westall file?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines military, aviation and official records, matching the Westall debate over whether significant government documentation exists.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines military, aviation and official records, matching the Westall debate over whether significant government documentation exists.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating witness reports and evidence, directly relevant to assessing claims and missing records in cases like Westall.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating witness reports and evidence, directly relevant to assessing claims and missing records in cases like Westall.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how UFO narratives, evidence and interpretations evolve over time, echoing debates surrounding Westall secrecy claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO narratives, evidence and interpretations evolve over time, echoing debates surrounding Westall secrecy claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context on how governments investigate unexplained aerial reports and what records are typically created.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on how governments investigate unexplained aerial reports and what records are typically created.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Natural meteorite Specimen, quartz crystal,Goethite, Blue copper ore, Decoration"><img src="{{ '/assets/images/marketplace-covers/c292f28c6ddbc1a451f3.jpg' | relative_url }}" alt="Listing image for Natural meteorite Specimen, quartz crystal,Goethite, Blue copper ore, Decoration" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Natural meteorite Specimen, quartz crystal,Goethite, Blue copper ore, Decoration</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Natural meteorite Specimen, quartz crystal,Goethite, Blue copper ore, Decoration"><img src="{{ '/assets/images/marketplace-covers/c292f28c6ddbc1a451f3.jpg' | relative_url }}" alt="Listing image for Natural meteorite Specimen, quartz crystal,Goethite, Blue copper ore, Decoration" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Natural meteorite Specimen, quartz crystal,Goethite, Blue copper ore, Decoration</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space"><img src="{{ '/assets/images/marketplace-covers/486c79127d0d1b191e87.jpg' | relative_url }}" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space"><img src="{{ '/assets/images/marketplace-covers/486c79127d0d1b191e87.jpg' | relative_url }}" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Certified Meteorite 1.9 grams Specimen In Display Box"><img src="{{ '/assets/images/marketplace-covers/5981ebf9abb238d56787.jpg' | relative_url }}" alt="Listing image for Certified Meteorite 1.9 grams Specimen In Display Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Certified Meteorite 1.9 grams Specimen In Display Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Certified Meteorite 1.9 grams Specimen In Display Box"><img src="{{ '/assets/images/marketplace-covers/5981ebf9abb238d56787.jpg' | relative_url }}" alt="Listing image for Certified Meteorite 1.9 grams Specimen In Display Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Certified Meteorite 1.9 grams Specimen In Display Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid"><img src="{{ '/assets/images/marketplace-covers/3f57da52470926f03e48.jpg' | relative_url }}" alt="Listing image for Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid"><img src="{{ '/assets/images/marketplace-covers/3f57da52470926f03e48.jpg' | relative_url }}" alt="Listing image for Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="missing-report-is-there-still-a-hidden-westall-file-victoria-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ Within Victoria's UFO history, that uncertainty is precisely why the issue remai
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ Within Victoria's UFO history, that uncertainty is precisely why the issue remai
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ Within Victoria's UFO history, that uncertainty is precisely why the issue remai
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ Within Victoria's UFO history, that uncertainty is precisely why the issue remai
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ Within Victoria's UFO history, that uncertainty is precisely why the issue remai
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,102 +742,102 @@ Within Victoria's UFO history, that uncertainty is precisely why the issue remai
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Westall UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westall_UFO</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westall_UFO</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ged1e9/secret_file_detailing_truth_about_australias/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ged1e9/secret_file_detailing_truth_about_australias/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret file detailing truth about Australia&#x27;s largest UFO...October 28, 2024 — Author Ross Coulthart has spent decades investigati...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ged1e9/secret_file_detailing_truth_about_australias/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ged1e9/secret_file_detailing_truth_about_australias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret file detailing truth about Australia&#x27;s largest UFO...October 28, 2024 — Author Ross Coulthart has spent decades investigati...</p></details>
    Published: October 28, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/94wmzg/rare_audio_of_james_e_mcdonald_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/94wmzg/rare_audio_of_james_e_mcdonald_discussing_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare audio of James E. McDonald discussing the Australian...r/UFOs - National Archives documents reveal Royal... r/aliens - The origina...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/94wmzg/rare_audio_of_james_e_mcdonald_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/94wmzg/rare_audio_of_james_e_mcdonald_discussing_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rare audio of James E. McDonald discussing the Australian...r/UFOs - National Archives documents reveal Royal... r/aliens - The origina...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/melbourne/comments/1si6v7j/after_60_years_witnesses_to_australias_biggest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/melbourne/comments/1si6v7j/after_60_years_witnesses_to_australias_biggest/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>After 60 years, witnesses to Australia&#x27;s biggest UFO...UFO photographed in Balwyn, Melbourne, Australia on April 2, 1966, just days befo...</p></details>
+   Link:<a href="https://www.reddit.com/r/melbourne/comments/1si6v7j/after_60_years_witnesses_to_australias_biggest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/melbourne/comments/1si6v7j/after_60_years_witnesses_to_australias_biggest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After 60 years, witnesses to Australia&#x27;s biggest UFO...UFO photographed in Balwyn, Melbourne, Australia on April 2, 1966, just days befo...</p></details>
    Published: April 2, 1966  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: in 1966 a local business man took this photo  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/107sxz2/in_1966_a_local_business_man_took_this_photo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/107sxz2/in_1966_a_local_business_man_took_this_photo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1966, a local business man took this photo during...The original Westall UFO photograph taken by James Kibel on the April 2nd, 1966...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/107sxz2/in_1966_a_local_business_man_took_this_photo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/107sxz2/in_1966_a_local_business_man_took_this_photo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1966, a local business man took this photo during...The original Westall UFO photograph taken by James Kibel on the April 2nd, 1966...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — After 60 years, witnesses to Australia&#x27;s biggest UFO sightin...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...5 Apr 2026 — After 60 years, witnesses to Australia&#x27;s biggest UFO sightin...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsSightings of unidentified flying objects – UFOs – have been reported over our skies for decades. The Mini...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsSightings of unidentified flying objects – UFOs – have been reported over our skies for decades. The Mini...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: museumoflost.com  
-   Link: <a href="https://www.museumoflost.com/the-westall-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.museumoflost.com/the-westall-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Saucer Mystery&#x27; its front page. But &#x27;...Read more...</p></details>
+   Link:<a href="https://www.museumoflost.com/the-westall-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.museumoflost.com/the-westall-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saucer Mystery&#x27; its front page. But &#x27;...Read more...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A 2014 discovery of documents from a secret US-Australian radiation-testing initiative, the HIBAL project, fueled speculation that the ob...</p></details>
+   Link:<a href="https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A 2014 discovery of documents from a secret US-Australian radiation-testing initiative, the HIBAL project, fueled speculation that the ob...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40kkelca63/the-mass-ufo-encounter-that-never-saw-the-light-of-day-8602a5ba1095" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kkelca63/the-mass-ufo-encounter-that-never-saw-the-light-of-day-8602a5ba1095</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE MASS UFO ENCOUNTER THAT NEVER SAW THE...In a sighting involving 200 students, school staff and some residences, why the wall of secr...</p></details>
+   Link:<a href="https://medium.com/%40kkelca63/the-mass-ufo-encounter-that-never-saw-the-light-of-day-8602a5ba1095" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kkelca63/the-mass-ufo-encounter-that-never-saw-the-light-of-day-8602a5ba1095</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE MASS UFO ENCOUNTER THAT NEVER SAW THE...In a sighting involving 200 students, school staff and some residences, why the wall of secr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1966westallflyingsaucerincident/posts/10157752650106619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1966westallflyingsaucerincident/posts/10157752650106619/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VALE: JAMES JOHNSON KIBEL. Further toUFOs in Australia As depicted in the art and petroglyphs of the Aboriginal people, UFO and alien sig...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1966westallflyingsaucerincident/posts/10157752650106619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1966westallflyingsaucerincident/posts/10157752650106619/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VALE: JAMES JOHNSON KIBEL. Further toUFOs in Australia As depicted in the art and petroglyphs of the Aboriginal people, UFO and alien sig...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: If they come from another planet, it's impossible, the closest planet outside  
-   Link: <a href="https://www.facebook.com/10newsplus/videos/thats-why-they-covered-it-upwitnesses-of-one-of-the-worlds-biggest-ufo-mysteries/1464763431997252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/videos/thats-why-they-covered-it-upwitnesses-of-one-of-the-worlds-biggest-ufo-mysteries/1464763431997252/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“That&#x27;s why they covered it up.” Witnesses of one of the world&#x27;s...Where did these UFO&#x27;s, Alien crafts are meant to have come from?...</p></details>
+   Link:<a href="https://www.facebook.com/10newsplus/videos/thats-why-they-covered-it-upwitnesses-of-one-of-the-worlds-biggest-ufo-mysteries/1464763431997252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/videos/thats-why-they-covered-it-upwitnesses-of-one-of-the-worlds-biggest-ufo-mysteries/1464763431997252/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“That&#x27;s why they covered it up.” Witnesses of one of the world&#x27;s...Where did these UFO&#x27;s, Alien crafts are meant to have come from?...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: history.co.uk  
    Title: Yet the event was quickly written off, and the witnesses  
-   Link: <a href="https://www.history.co.uk/videos/ufo-witnesses-silenced-by-authorities-westall-66-a-suburban-ufo-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/ufo-witnesses-silenced-by-authorities-westall-66-a-suburban-ufo-mystery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelUFO witnesses silenced by authorities - Westall &#x27;66: A...In 1966 in Melbourne, Westall High School was the center...</p></details>
+   Link:<a href="https://www.history.co.uk/videos/ufo-witnesses-silenced-by-authorities-westall-66-a-suburban-ufo-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/ufo-witnesses-silenced-by-authorities-westall-66-a-suburban-ufo-mystery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelUFO witnesses silenced by authorities - Westall &#x27;66: A...In 1966 in Melbourne, Westall High School was the center...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: It's considered Australia's mass UFO sighting event  
-   Link: <a href="https://www.facebook.com/abcnews.au/posts/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/1518240172990581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/1518240172990581/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;66: A Suburban UFO Mystery (2013) • Australian National Archives — Declassified RAAF UFO Files • ABC Radio National — “The...</p></details>
+   Link:<a href="https://www.facebook.com/abcnews.au/posts/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/1518240172990581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/1518240172990581/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;66: A Suburban UFO Mystery (2013) • Australian National Archives — Declassified RAAF UFO Files • ABC Radio National — “The...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-idea-of-reality/the-day-the-sky-fell-silent-the-westall-ufo-mystery-revisited-after-sixty-years-778e076604fb" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/the-day-the-sky-fell-silent-the-westall-ufo-mystery-revisited-after-sixty-years-778e076604fb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nt, showing a mysterious metallic object suspended in the sky.Read more...</p></details>
+   Link:<a href="https://medium.com/the-idea-of-reality/the-day-the-sky-fell-silent-the-westall-ufo-mystery-revisited-after-sixty-years-778e076604fb" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/the-day-the-sky-fell-silent-the-westall-ufo-mystery-revisited-after-sixty-years-778e076604fb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nt, showing a mysterious metallic object suspended in the sky.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: kirkmcd.princeton.edu  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/jem_tape_achives_basterfield.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/jem_tape_achives_basterfield.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of James E McDonald&#x27;s 1967 Australian UFO...James Kibel&#x27;s 19 February 1957 UFO sighting in Melbourne, Australia...</p></details>
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/jem_tape_achives_basterfield.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/jem_tape_achives_basterfield.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of James E McDonald&#x27;s 1967 Australian UFO...James Kibel&#x27;s 19 February 1957 UFO sighting in Melbourne, Australia...</p></details>
    Published: February 1957  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.iheart.com  
    Title: 2018 08 08 rare audio reveals details on classic ufo case  
-   Link: <a href="https://news.iheart.com/featured/coast-to-coast-am/content/2018-08-08-rare-audio-reveals-details-on-classic-ufo-case/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2018-08-08-rare-audio-reveals-details-on-classic-ufo-case/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kibel recounts, with considerable detail, what the science teacher told him about both the flying...Read more...</p></details>
+   Link:<a href="https://news.iheart.com/featured/coast-to-coast-am/content/2018-08-08-rare-audio-reveals-details-on-classic-ufo-case/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2018-08-08-rare-audio-reveals-details-on-classic-ufo-case/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kibel recounts, with considerable detail, what the science teacher told him about both the flying...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cription available. Mat Grint and 89 others.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eveningtele/posts/a-photo-of-an-alleged-perthshire-ufo-sighting-has-been-revealed-after-32-years/5313705302011840/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cription available. Mat Grint and 89 others.Read more...</p></details>

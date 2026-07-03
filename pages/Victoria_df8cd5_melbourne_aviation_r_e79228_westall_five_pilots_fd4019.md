@@ -262,17 +262,17 @@ image: /assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228_westall_five_p
 
 ## Introduction
 
-One of the most debated parts of the 1966 [Westall]({{ 'westall/' | relative_url }}) sighting is not the reported object itself but the aircraft seen around it. Witnesses from Westall High School and nearby areas repeatedly described light aircraft circling, approaching or apparently pursuing the unidentified object. Over time, these reports evolved into what is often called the “five pilots” question: who were the aviators allegedly flying near the object, and did any of them leave testimony that could clarify what happened? More than half a century later, the aircraft remain almost as mysterious as the object they were said to be observing. The available evidence suggests that aircraft activity was real and expected in the area, but identifying the specific pilots or flights has proved far more difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — The Victorian Flying Saucer Research Socie...</span></span></span>
+One of the most debated parts of the 1966 [Westall]({{ 'westall/' | relative_url }}) sighting is not the reported object itself but the aircraft seen around it. Witnesses from Westall High School and nearby areas repeatedly described light aircraft circling, approaching or apparently pursuing the unidentified object. Over time, these reports evolved into what is often called the “five pilots” question: who were the aviators allegedly flying near the object, and did any of them leave testimony that could clarify what happened? More than half a century later, the aircraft remain almost as mysterious as the object they were said to be observing. The available evidence suggests that aircraft activity was real and expected in the area, but identifying the specific pilots or flights has proved far more difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — The Victorian Flying Saucer Research Socie...</span></span></span>
 
 
 <img src="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228_westall_five_pilots_fd4019-Illustration-1-dark.svg" | relative_url }}" alt="Five Pilots illustration 1" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228_westall_five_pilots_fd4019-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228_westall_five_pilots_fd4019-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Witness Accounts of Aircraft Activity
 
-Accounts recorded shortly after the incident consistently mention aircraft in the vicinity. Contemporary reports collected by UFO investigators and later reproduced in local historical sources describe several light aircraft converging on the area after the object was seen. One early account referred to “many private aircraft, mainly Cessna” types flying towards and around the reported object. The same material speculated that the aircraft may have originated from nearby Moorabbin Airport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — The Victorian Flying Saucer Research Socie...</span></span></span>
+Accounts recorded shortly after the incident consistently mention aircraft in the vicinity. Contemporary reports collected by UFO investigators and later reproduced in local historical sources describe several light aircraft converging on the area after the object was seen. One early account referred to “many private aircraft, mainly Cessna” types flying towards and around the reported object. The same material speculated that the aircraft may have originated from nearby Moorabbin Airport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — The Victorian Flying Saucer Research Socie...</span></span></span>
 
-The aircraft became an important part of the story because they appeared to provide independent confirmation that something unusual had attracted attention in the sky. In witness recollections, the planes were not merely passing overhead on routine routes. Some observers believed they altered course, circled the area, or attempted to follow the object as it moved away. Later retellings often compressed these reports into a simpler narrative that “five planes chased the UFO”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/abcnews.au/posts/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/1518240172990581/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">its considered australias mass ufo sighting event in 1966 more than 100 school s</span><span class="citation-popover-snippet">It&#x27;s considered Australia&#x27;s mass UFO sighting event. In...In 1966, more than 100 school students in Westall, Melbourne say they...</span></span></span>
+The aircraft became an important part of the story because they appeared to provide independent confirmation that something unusual had attracted attention in the sky. In witness recollections, the planes were not merely passing overhead on routine routes. Some observers believed they altered course, circled the area, or attempted to follow the object as it moved away. Later retellings often compressed these reports into a simpler narrative that “five planes chased the UFO”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/abcnews.au/posts/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/1518240172990581/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">its considered australias mass ufo sighting event in 1966 more than 100 school s</span><span class="citation-popover-snippet">It&#x27;s considered Australia&#x27;s mass UFO sighting event. In...In 1966, more than 100 school students in Westall, Melbourne say they...</span></span></span>
 
-However, the exact number is difficult to verify. Different witnesses recalled different counts, and many recollections were recorded decades after the event. Some remembered several aircraft; others recalled only a few. The frequently repeated figure of five appears to derive from witness descriptions and media summaries rather than from a surviving [aviation]({{ 'aviation/' | relative_url }}) record listing five specific aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thenewdaily.com.au/life/entertainment/tv/2026/04/02/westall-ufo-mystery-australia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenewdaily.com.au">[The New Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenewdaily.com.au</span><span class="citation-popover-snippet">The New DailyFresh look at Australia&#x27;s famous Westall UFO mystery6 days ago — Sixty years after the event, the mystery surrounding the We...</span></span></span>
+However, the exact number is difficult to verify. Different witnesses recalled different counts, and many recollections were recorded decades after the event. Some remembered several aircraft; others recalled only a few. The frequently repeated figure of five appears to derive from witness descriptions and media summaries rather than from a surviving [aviation]({{ 'aviation/' | relative_url }}) record listing five specific aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thenewdaily.com.au/life/entertainment/tv/2026/04/02/westall-ufo-mystery-australia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenewdaily.com.au">[The New Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenewdaily.com.au</span><span class="citation-popover-snippet">The New DailyFresh look at Australia&#x27;s famous Westall UFO mystery6 days ago — Sixty years after the event, the mystery surrounding the We...</span></span></span>
 
 ## Why Moorabbin Matters
 
@@ -283,9 +283,9 @@ This matters because the presence of multiple small aircraft over the district o
 * Several witnesses genuinely reported aircraft apparently reacting to the object.
 * The area already contained numerous legitimate aircraft movements that could enter the story naturally.
 
-For sceptics, the aviation environment weakens claims that the aircraft themselves were extraordinary. For believers, it strengthens the case that trained pilots may have noticed something worth investigating. The same fact can support both interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — The Victorian Flying Saucer Research Socie...</span></span></span>
+For sceptics, the aviation environment weakens claims that the aircraft themselves were extraordinary. For believers, it strengthens the case that trained pilots may have noticed something worth investigating. The same fact can support both interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — The Victorian Flying Saucer Research Socie...</span></span></span>
 
-The historical newspaper coverage from April 1966 is notable because it treated the aircraft as a significant element rather than a later embellishment. One report stated that the object had “almost certainly” been observed by pilots of nearby light aircraft. That wording did not prove what the pilots saw, but it showed that the aircraft issue emerged immediately rather than decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thenewdaily.com.au/life/entertainment/tv/2026/04/02/westall-ufo-mystery-australia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenewdaily.com.au">[The New Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenewdaily.com.au</span><span class="citation-popover-snippet">The New DailyFresh look at Australia&#x27;s famous Westall UFO mystery6 days ago — Sixty years after the event, the mystery surrounding the We...</span></span></span>
+The historical newspaper coverage from April 1966 is notable because it treated the aircraft as a significant element rather than a later embellishment. One report stated that the object had “almost certainly” been observed by pilots of nearby light aircraft. That wording did not prove what the pilots saw, but it showed that the aircraft issue emerged immediately rather than decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thenewdaily.com.au/life/entertainment/tv/2026/04/02/westall-ufo-mystery-australia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenewdaily.com.au">[The New Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenewdaily.com.au</span><span class="citation-popover-snippet">The New DailyFresh look at Australia&#x27;s famous Westall UFO mystery6 days ago — Sixty years after the event, the mystery surrounding the We...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IhKyQkhOfoM" title="Schoolyard witnesses in mass UFO sighting demand answers | Australian Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer">Schoolyard witnesses in mass UFO sighting demand answers | Australian Story</a></p><p class="youtube-embed-meta">Channel: ABC News In-depth &middot; Views: 691.6K &middot; Uploaded: April 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IhKyQkhOfoM">Open on YouTube</a></p></div></div></div>
@@ -294,11 +294,11 @@ The historical newspaper coverage from April 1966 is notable because it treated 
 
 The central mystery is simple: if several pilots were present, why are there so few documented pilot statements?
 
-Researchers have spent years trying to identify aviators who may have been flying from Moorabbin that day. Various claims have surfaced that one or more pilots later spoke privately about the event. In 2019, Westall researcher Shane Ryan reported receiving information suggesting that a surviving pilot from Moorabbin may have been identified and that he had allegedly approached the object more closely than other aircraft. The claim attracted attention because it offered the possibility of a first-hand aviation witness. Yet no widely available, detailed pilot testimony emerged that settled the matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pedestrian.tv/news/westall-ufo-incident-pilot-located/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pedestrian.tv">[PEDESTRIAN.TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pedestrian.tv</span><span class="citation-popover-title">Moorabbin Airport and were witnesses to what happened that day.Read more</span><span class="citation-popover-snippet">Over 50 Years Later, The Hugely Mysterious Westall UFO...16 Jul 2019 — Westall UFO incident researchers Shane Ryan reckons he&#x27;s managed to...</span></span></span>
+Researchers have spent years trying to identify aviators who may have been flying from Moorabbin that day. Various claims have surfaced that one or more pilots later spoke privately about the event. In 2019, Westall researcher Shane Ryan reported receiving information suggesting that a surviving pilot from Moorabbin may have been identified and that he had allegedly approached the object more closely than other aircraft. The claim attracted attention because it offered the possibility of a first-hand aviation witness. Yet no widely available, detailed pilot testimony emerged that settled the matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pedestrian.tv/news/westall-ufo-incident-pilot-located/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pedestrian.tv">[PEDESTRIAN.TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pedestrian.tv</span><span class="citation-popover-title">Moorabbin Airport and were witnesses to what happened that day.Read more</span><span class="citation-popover-snippet">Over 50 Years Later, The Hugely Mysterious Westall UFO...16 Jul 2019 — Westall UFO incident researchers Shane Ryan reckons he&#x27;s managed to...</span></span></span>
 
-This illustrates a recurring problem in the Westall case. Researchers can often trace rumours of witnesses more easily than they can obtain verifiable [records]({{ 'records/' | relative_url }}) or recorded interviews. The reported pilot lead was intriguing, but it did not produce the kind of documented evidence that historians would regard as decisive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pedestrian.tv/news/westall-ufo-incident-pilot-located/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pedestrian.tv">[PEDESTRIAN.TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pedestrian.tv</span><span class="citation-popover-title">Moorabbin Airport and were witnesses to what happened that day.Read more</span><span class="citation-popover-snippet">Over 50 Years Later, The Hugely Mysterious Westall UFO...16 Jul 2019 — Westall UFO incident researchers Shane Ryan reckons he&#x27;s managed to...</span></span></span>
+This illustrates a recurring problem in the Westall case. Researchers can often trace rumours of witnesses more easily than they can obtain verifiable [records]({{ 'records/' | relative_url }}) or recorded interviews. The reported pilot lead was intriguing, but it did not produce the kind of documented evidence that historians would regard as decisive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pedestrian.tv/news/westall-ufo-incident-pilot-located/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pedestrian.tv">[PEDESTRIAN.TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pedestrian.tv</span><span class="citation-popover-title">Moorabbin Airport and were witnesses to what happened that day.Read more</span><span class="citation-popover-snippet">Over 50 Years Later, The Hugely Mysterious Westall UFO...16 Jul 2019 — Westall UFO incident researchers Shane Ryan reckons he&#x27;s managed to...</span></span></span>
 
-The result is a curious imbalance. Hundreds of pages of discussion exist about schoolchildren and teachers, while the individuals who might have offered the most technically informed observations remain largely absent from the historical record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...6 days ago — It remains the biggest mass sighting of a UFO in Australian...</span></span></span>
+The result is a curious imbalance. Hundreds of pages of discussion exist about schoolchildren and teachers, while the individuals who might have offered the most technically informed observations remain largely absent from the historical record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...6 days ago — It remains the biggest mass sighting of a UFO in Australian...</span></span></span>
 
 
 <img src="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228_westall_five_pilots_fd4019-Illustration-2-dark.svg" | relative_url }}" alt="Five Pilots illustration 2" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228_westall_five_pilots_fd4019-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228_westall_five_pilots_fd4019-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -310,225 +310,225 @@ Several categories of information would significantly strengthen any conclusion:
 
 ### Flight Logs
 
-If the identities of all aircraft operating in the relevant area during the sighting window could be established, researchers could determine whether five aircraft were actually present and whether any unusual manoeuvres were recorded. No comprehensive set of such records has become part of the public discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pedestrian.tv/news/westall-ufo-incident-pilot-located/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pedestrian.tv">[PEDESTRIAN.TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pedestrian.tv</span><span class="citation-popover-title">Moorabbin Airport and were witnesses to what happened that day.Read more</span><span class="citation-popover-snippet">Over 50 Years Later, The Hugely Mysterious Westall UFO...16 Jul 2019 — Westall UFO incident researchers Shane Ryan reckons he&#x27;s managed to...</span></span></span>
+If the identities of all aircraft operating in the relevant area during the sighting window could be established, researchers could determine whether five aircraft were actually present and whether any unusual manoeuvres were recorded. No comprehensive set of such records has become part of the public discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pedestrian.tv/news/westall-ufo-incident-pilot-located/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pedestrian.tv">[PEDESTRIAN.TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pedestrian.tv</span><span class="citation-popover-title">Moorabbin Airport and were witnesses to what happened that day.Read more</span><span class="citation-popover-snippet">Over 50 Years Later, The Hugely Mysterious Westall UFO...16 Jul 2019 — Westall UFO incident researchers Shane Ryan reckons he&#x27;s managed to...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8yxg5BCdAHQ" title="The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer">The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown &middot; Views: 285.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8yxg5BCdAHQ">Open on YouTube</a></p></div></div></div>
 
 ### Pilot Statements
 
-The strongest missing evidence is direct testimony from identified pilots recorded close to the event. While stories about pilots circulate widely in Westall literature, very few detailed, contemporaneous pilot accounts are available for scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pedestrian.tv/news/westall-ufo-incident-pilot-located/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pedestrian.tv">[PEDESTRIAN.TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pedestrian.tv</span><span class="citation-popover-title">Moorabbin Airport and were witnesses to what happened that day.Read more</span><span class="citation-popover-snippet">Over 50 Years Later, The Hugely Mysterious Westall UFO...16 Jul 2019 — Westall UFO incident researchers Shane Ryan reckons he&#x27;s managed to...</span></span></span>
+The strongest missing evidence is direct testimony from identified pilots recorded close to the event. While stories about pilots circulate widely in Westall literature, very few detailed, contemporaneous pilot accounts are available for scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pedestrian.tv/news/westall-ufo-incident-pilot-located/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pedestrian.tv">[PEDESTRIAN.TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pedestrian.tv</span><span class="citation-popover-title">Moorabbin Airport and were witnesses to what happened that day.Read more</span><span class="citation-popover-snippet">Over 50 Years Later, The Hugely Mysterious Westall UFO...16 Jul 2019 — Westall UFO incident researchers Shane Ryan reckons he&#x27;s managed to...</span></span></span>
 
 ### Air Traffic Documentation
 
-Modern investigations often rely on radar data and recorded communications. For a local general-aviation environment in 1966, surviving documentation is far more limited. Even if some records once existed, there is no publicly available archive that conclusively reconstructs every aircraft movement associated with the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thenewdaily.com.au/life/entertainment/tv/2026/04/02/westall-ufo-mystery-australia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenewdaily.com.au">[The New Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenewdaily.com.au</span><span class="citation-popover-snippet">The New DailyFresh look at Australia&#x27;s famous Westall UFO mystery6 days ago — Sixty years after the event, the mystery surrounding the We...</span></span></span>
+Modern investigations often rely on radar data and recorded communications. For a local general-aviation environment in 1966, surviving documentation is far more limited. Even if some records once existed, there is no publicly available archive that conclusively reconstructs every aircraft movement associated with the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thenewdaily.com.au/life/entertainment/tv/2026/04/02/westall-ufo-mystery-australia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenewdaily.com.au">[The New Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenewdaily.com.au</span><span class="citation-popover-snippet">The New DailyFresh look at Australia&#x27;s famous Westall UFO mystery6 days ago — Sixty years after the event, the mystery surrounding the We...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OhAcIsKJcCQ" title="UFO Mystery Back In Spotlight As Witnesses Claim Cover Up | 10 News+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OhAcIsKJcCQ" target="_blank" rel="noopener noreferrer">UFO Mystery Back In Spotlight As Witnesses Claim Cover Up | 10 News+</a></p><p class="youtube-embed-meta">Channel: 10 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OhAcIsKJcCQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OhAcIsKJcCQ">Open on YouTube</a></p></div></div></div>
 
 ### Independent Corroboration
 
-A pilot account would be especially valuable because it could either support or challenge witness descriptions from the ground. Without it, historians must compare multiple civilian recollections that often agree on broad themes but differ in detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...6 days ago — It remains the biggest mass sighting of a UFO in Australian...</span></span></span>
+A pilot account would be especially valuable because it could either support or challenge witness descriptions from the ground. Without it, historians must compare multiple civilian recollections that often agree on broad themes but differ in detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...6 days ago — It remains the biggest mass sighting of a UFO in Australian...</span></span></span>
 
 
 <img src="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228_westall_five_pilots_fd4019-Illustration-3-dark.svg" | relative_url }}" alt="Five Pilots illustration 3" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228_westall_five_pilots_fd4019-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_melbourne_aviation_r_e79228_westall_five_pilots_fd4019-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Does the Aircraft Evidence Strengthen the Case?
 
-The aircraft reports are among the more interesting features of the Westall story because they are difficult to dismiss entirely. References to nearby planes appeared in accounts recorded close to the event, and multiple witnesses remembered aircraft converging on the area. That consistency suggests the aviation component was not simply invented decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — The Victorian Flying Saucer Research Socie...</span></span></span>
+The aircraft reports are among the more interesting features of the Westall story because they are difficult to dismiss entirely. References to nearby planes appeared in accounts recorded close to the event, and multiple witnesses remembered aircraft converging on the area. That consistency suggests the aviation component was not simply invented decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[State Library Victoria Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — The Victorian Flying Saucer Research Socie...</span></span></span>
 
-At the same time, the evidence is incomplete. No publicly available set of records identifies five specific pilots, documents their observations, and demonstrates that they were pursuing an unidentified object. The popular phrase “five pilots” therefore describes a longstanding claim rather than an established historical fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pedestrian.tv/news/westall-ufo-incident-pilot-located/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pedestrian.tv">[PEDESTRIAN.TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pedestrian.tv</span><span class="citation-popover-title">Moorabbin Airport and were witnesses to what happened that day.Read more</span><span class="citation-popover-snippet">Over 50 Years Later, The Hugely Mysterious Westall UFO...16 Jul 2019 — Westall UFO incident researchers Shane Ryan reckons he&#x27;s managed to...</span></span></span>
+At the same time, the evidence is incomplete. No publicly available set of records identifies five specific pilots, documents their observations, and demonstrates that they were pursuing an unidentified object. The popular phrase “five pilots” therefore describes a longstanding claim rather than an established historical fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pedestrian.tv/news/westall-ufo-incident-pilot-located/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pedestrian.tv">[PEDESTRIAN.TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pedestrian.tv</span><span class="citation-popover-title">Moorabbin Airport and were witnesses to what happened that day.Read more</span><span class="citation-popover-snippet">Over 50 Years Later, The Hugely Mysterious Westall UFO...16 Jul 2019 — Westall UFO incident researchers Shane Ryan reckons he&#x27;s managed to...</span></span></span>
 
-Within [Victoria]({{ 'why-victoria-became-australias-ufo/' | relative_url }})'s UFO history, this uncertainty is important. The Westall incident is often remembered as a mass-witness sighting involving students and teachers. Yet one of the most potentially valuable lines of evidence may be the least documented: the aircraft reportedly flying around the scene. Until identifiable pilot testimony or flight records emerge, the mystery aircraft remain an unresolved chapter within an already unresolved case. State Library Victoria Blogs+2The New Daily <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[blogs.slv.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — The Victorian Flying Saucer Research Socie...</span></span></span>
+Within [Victoria]({{ 'why-victoria-became-australias-ufo/' | relative_url }})'s UFO history, this uncertainty is important. The Westall incident is often remembered as a mass-witness sighting involving students and teachers. Yet one of the most potentially valuable lines of evidence may be the least documented: the aircraft reportedly flying around the scene. Until identifiable pilot testimony or flight records emerge, the mystery aircraft remain an unresolved chapter within an already unresolved case. State Library Victoria Blogs+2The New Daily<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.slv.vic.gov.au">[blogs.slv.vic.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.slv.vic.gov.au</span><span class="citation-popover-title">strange lights in the sky the westall ufo event 1966</span><span class="citation-popover-snippet">State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — The Victorian Flying Saucer Research Socie...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Were the Aircraft Seen Around Westall?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Were the Aircraft Seen Around Westall?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Westall &#x27;66 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=52k8zgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Westall &#x27;66" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Westall &#x27;66">Westall &#x27;66</a>
-        </h4>
-        <p class="fr-book-author">By Erik Rinkel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Westall &#x27;66 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=52k8zgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Westall &#x27;66" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Westall &#x27;66">Westall &#x27;66</a>
+</h4>
+<p class="fr-book-author">By Erik Rinkel</p>
         
-        <p class="fr-book-desc">Directly addresses witness accounts, aircraft activity, and competing explanations surrounding Westall.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses witness accounts, aircraft activity, and competing explanations surrounding Westall.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Westall+%2766+by+Erik+Rinkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Useful background on how pilot observations are evaluated in UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background on how pilot observations are evaluated in UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides analytical tools for assessing witness reports, aircraft observations, and unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides analytical tools for assessing witness reports, aircraft observations, and unexplained aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Westall+%2766&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Westall &#x27;66</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Westall+%2766&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Westall &#x27;66</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription"><img src="{{ '/assets/images/marketplace-covers/17439ca66b8ddc27eec1.jpg' | relative_url }}" alt="Listing image for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Model aircraft display stand 1/48, 1/72. Personalised with your own inscription</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription"><img src="{{ '/assets/images/marketplace-covers/17439ca66b8ddc27eec1.jpg' | relative_url }}" alt="Listing image for Model aircraft display stand 1/48, 1/72. Personalised with your own inscription" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Model aircraft display stand 1/48, 1/72. Personalised with your own inscription</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Transparent"><img src="{{ '/assets/images/marketplace-covers/33a3dfe1acbe0a8145f1.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Transparent" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Transparent</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Transparent"><img src="{{ '/assets/images/marketplace-covers/33a3dfe1acbe0a8145f1.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Transparent" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Transparent</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand"><img src="{{ '/assets/images/marketplace-covers/a4e868e4bd9f69142722.jpg' | relative_url }}" alt="Listing image for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand"><img src="{{ '/assets/images/marketplace-covers/a4e868e4bd9f69142722.jpg' | relative_url }}" alt="Listing image for Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">Junkers Ju 87B Stuka Military Aircraft Model with Display Stand on Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Model aircraft display stand 1/48, 1/32 Grey"><img src="{{ '/assets/images/marketplace-covers/3803411e6e8702494ec0.jpg' | relative_url }}" alt="Listing image for 2 x Model aircraft display stand 1/48, 1/32 Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">2 x Model aircraft display stand 1/48, 1/32 Grey</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft display model" data-ebay-reference="five-pilots-who-were-the-aircraft-seen-around-westall-victoria-aircraft-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ Within [Victoria]({{ 'why-victoria-became-australias-ufo/' | relative_url }})'s 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ Within [Victoria]({{ 'why-victoria-became-australias-ufo/' | relative_url }})'s 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ Within [Victoria]({{ 'why-victoria-became-australias-ufo/' | relative_url }})'s 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ Within [Victoria]({{ 'why-victoria-became-australias-ufo/' | relative_url }})'s 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ Within [Victoria]({{ 'why-victoria-became-australias-ufo/' | relative_url }})'s 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,109 +734,109 @@ Within [Victoria]({{ 'why-victoria-became-australias-ufo/' | relative_url }})'s 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
    Title: its considered australias mass ufo sighting event in 1966 more than 100 school s  
-   Link: <a href="https://www.facebook.com/abcnews.au/posts/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/1518240172990581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/1518240172990581/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s considered Australia&#x27;s mass UFO sighting event. In...In 1966, more than 100 school students in Westall, Melbourne say they...</p></details>
+   Link:<a href="https://www.facebook.com/abcnews.au/posts/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/1518240172990581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/1518240172990581/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s considered Australia&#x27;s mass UFO sighting event. In...In 1966, more than 100 school students in Westall, Melbourne say they...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
    Title: in 1966 more than a hundred students at westall primary and high schools in melb  
-   Link: <a href="https://www.facebook.com/abcnews.au/posts/in-1966-more-than-a-hundred-students-at-westall-primary-and-high-schools-in-melb/1517277596420172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/in-1966-more-than-a-hundred-students-at-westall-primary-and-high-schools-in-melb/1517277596420172/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1966, more than a hundred students at Westall primary...Westall UFO incident in Australia of 1966, several hundred students and their...</p></details>
+   Link:<a href="https://www.facebook.com/abcnews.au/posts/in-1966-more-than-a-hundred-students-at-westall-primary-and-high-schools-in-melb/1517277596420172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/in-1966-more-than-a-hundred-students-at-westall-primary-and-high-schools-in-melb/1517277596420172/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1966, more than a hundred students at Westall primary...Westall UFO incident in Australia of 1966, several hundred students and their...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pedestrian.tv  
    Title: Moorabbin Airport and were witnesses to what happened that day.Read more  
-   Link: <a href="https://www.pedestrian.tv/news/westall-ufo-incident-pilot-located/" target="_blank" rel="noopener noreferrer nofollow">https://www.pedestrian.tv/news/westall-ufo-incident-pilot-located/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Over 50 Years Later, The Hugely Mysterious Westall UFO...16 Jul 2019 — Westall UFO incident researchers Shane Ryan reckons he&#x27;s managed to...</p></details>
+   Link:<a href="https://www.pedestrian.tv/news/westall-ufo-incident-pilot-located/" target="_blank" rel="noopener noreferrer nofollow">https://www.pedestrian.tv/news/westall-ufo-incident-pilot-located/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Over 50 Years Later, The Hugely Mysterious Westall UFO...16 Jul 2019 — Westall UFO incident researchers Shane Ryan reckons he&#x27;s managed to...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/529582147502825/posts/2118983448562679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/529582147502825/posts/2118983448562679/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>alia, watched five planes surround a silvery flying-saucer-shaped UFO...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/529582147502825/posts/2118983448562679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/529582147502825/posts/2118983448562679/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alia, watched five planes surround a silvery flying-saucer-shaped UFO...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheProjectTV/posts/52-years-on-and-the-reported-ufo-sighting-in-westall-continues-to-draw-community/10155716528468441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheProjectTV/posts/52-years-on-and-the-reported-ufo-sighting-in-westall-continues-to-draw-community/10155716528468441/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>interest and speculation...</p></details>
+   Link:<a href="https://www.facebook.com/TheProjectTV/posts/52-years-on-and-the-reported-ufo-sighting-in-westall-continues-to-draw-community/10155716528468441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheProjectTV/posts/52-years-on-and-the-reported-ufo-sighting-in-westall-continues-to-draw-community/10155716528468441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>interest and speculation...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blogs.slv.vic.gov.au  
    Title: strange lights in the sky the westall ufo event 1966  
-   Link: <a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — The Victorian Flying Saucer Research Socie...</p></details>
+   Link:<a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State Library Victoria BlogsStrange lights in the sky: The Westall UFO event, 19666 Apr 2024 — The Victorian Flying Saucer Research Socie...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thenewdaily.com.au  
-   Link: <a href="https://www.thenewdaily.com.au/life/entertainment/tv/2026/04/02/westall-ufo-mystery-australia" target="_blank" rel="noopener noreferrer nofollow">https://www.thenewdaily.com.au/life/entertainment/tv/2026/04/02/westall-ufo-mystery-australia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The New DailyFresh look at Australia&#x27;s famous Westall UFO mystery6 days ago — Sixty years after the event, the mystery surrounding the We...</p></details>
+   Link:<a href="https://www.thenewdaily.com.au/life/entertainment/tv/2026/04/02/westall-ufo-mystery-australia" target="_blank" rel="noopener noreferrer nofollow">https://www.thenewdaily.com.au/life/entertainment/tv/2026/04/02/westall-ufo-mystery-australia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New DailyFresh look at Australia&#x27;s famous Westall UFO mystery6 days ago — Sixty years after the event, the mystery surrounding the We...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...6 days ago — It remains the biggest mass sighting of a UFO in Australian...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsAfter 60 years, witnesses to Australia&#x27;s biggest UFO...6 days ago — It remains the biggest mass sighting of a UFO in Australian...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: localhistory.kingston.vic.gov.au  
-   Link: <a href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow">https://localhistory.kingston.vic.gov.au/articles/528</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kingston Local HistoryAn Ongoing Mystery: The Westall Flying Saucer Incident11 Jun 2012 — The Westall Flying Saucer incident represents o...</p></details>
+   Link:<a href="https://localhistory.kingston.vic.gov.au/articles/528" target="_blank" rel="noopener noreferrer nofollow">https://localhistory.kingston.vic.gov.au/articles/528</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kingston Local HistoryAn Ongoing Mystery: The Westall Flying Saucer Incident11 Jun 2012 — The Westall Flying Saucer incident represents o...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/australian/comments/1seojwq/australian_story_the_westall_ufo_mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/australian/comments/1seojwq/australian_story_the_westall_ufo_mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Story: The Westall UFO MysteryIt was mainly the younger kids who were freaking out. Remember this was at the time when &quot;UFO&quot; m...</p></details>
+   Link:<a href="https://www.reddit.com/r/australian/comments/1seojwq/australian_story_the_westall_ufo_mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/australian/comments/1seojwq/australian_story_the_westall_ufo_mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Story: The Westall UFO MysteryIt was mainly the younger kids who were freaking out. Remember this was at the time when &quot;UFO&quot; m...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/tales-of-terror-paranormal-and-the-strange/the-westall-ufo-incident-775852eba6a1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/tales-of-terror-paranormal-and-the-strange/the-westall-ufo-incident-775852eba6a1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Westall UFO IncidentOver 100 witnesses claimed to have seen a UFO and it happened in broad daylight. April 6, 1966. Melbourne, Austra...</p></details>
+   Link:<a href="https://medium.com/tales-of-terror-paranormal-and-the-strange/the-westall-ufo-incident-775852eba6a1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/tales-of-terror-paranormal-and-the-strange/the-westall-ufo-incident-775852eba6a1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Westall UFO IncidentOver 100 witnesses claimed to have seen a UFO and it happened in broad daylight. April 6, 1966. Melbourne, Austra...</p></details>
    Published: April 6, 1966  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: meanjin.com.au  
-   Link: <a href="https://meanjin.com.au/essays/ufos-seen-and-unseen/" target="_blank" rel="noopener noreferrer nofollow">https://meanjin.com.au/essays/ufos-seen-and-unseen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Seen and UnseenHow at 13, Sue, with more than 200 Westall Primary and Secondary students, witnessed three metallic discs descend, as...</p></details>
+   Link:<a href="https://meanjin.com.au/essays/ufos-seen-and-unseen/" target="_blank" rel="noopener noreferrer nofollow">https://meanjin.com.au/essays/ufos-seen-and-unseen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Seen and UnseenHow at 13, Sue, with more than 200 Westall Primary and Secondary students, witnessed three metallic discs descend, as...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: headcountcoffee.com  
    Title: westall school ufo incident was never formally explained  
-   Link: <a href="https://www.headcountcoffee.com/blogs/coffee-news/westall-school-ufo-incident-was-never-formally-explained?srsltid=AfmBOorgvyfX-QIg9V4ofS9GiGopVvJJd9c80mZQ0ki2Q2oRAxKkXXg2" target="_blank" rel="noopener noreferrer nofollow">https://www.headcountcoffee.com/blogs/coffee-news/westall-school-ufo-incident-was-never-formally-explained?srsltid=AfmBOorgvyfX-QIg9V4ofS9GiGopVvJJd9c80mZQ0ki2Q2oRAxKkXXg2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Dec 2025 — In 1966, students and teachers reported a daylight UFO sighting at a Melbourne school that was never conclusively explained...</p></details>
+   Link:<a href="https://www.headcountcoffee.com/blogs/coffee-news/westall-school-ufo-incident-was-never-formally-explained?srsltid=AfmBOorgvyfX-QIg9V4ofS9GiGopVvJJd9c80mZQ0ki2Q2oRAxKkXXg2" target="_blank" rel="noopener noreferrer nofollow">https://www.headcountcoffee.com/blogs/coffee-news/westall-school-ufo-incident-was-never-formally-explained?srsltid=AfmBOorgvyfX-QIg9V4ofS9GiGopVvJJd9c80mZQ0ki2Q2oRAxKkXXg2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Dec 2025 — In 1966, students and teachers reported a daylight UFO sighting at a Melbourne school that was never conclusively explained...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ged1e9/secret_file_detailing_truth_about_australias/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ged1e9/secret_file_detailing_truth_about_australias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n April 6th 1966 · r/UFOs - Westall primary school UFO incident...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ged1e9/secret_file_detailing_truth_about_australias/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ged1e9/secret_file_detailing_truth_about_australias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n April 6th 1966 · r/UFOs - Westall primary school UFO incident...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: westall 1966 the most credible ufo encounter  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1m2n7kn/westall_1966_the_most_credible_ufo_encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1m2n7kn/westall_1966_the_most_credible_ufo_encounter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Westall 1966: The Most Credible UFO Encounter You&#x27;ve...Most convincing UFO sighting ever recorded... Westall primary school UFO inciden...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1m2n7kn/westall_1966_the_most_credible_ufo_encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1m2n7kn/westall_1966_the_most_credible_ufo_encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Westall 1966: The Most Credible UFO Encounter You&#x27;ve...Most convincing UFO sighting ever recorded... Westall primary school UFO inciden...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-idea-of-reality/the-day-the-sky-fell-silent-the-westall-ufo-mystery-revisited-after-sixty-years-778e076604fb" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/the-day-the-sky-fell-silent-the-westall-ufo-mystery-revisited-after-sixty-years-778e076604fb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, witnesses later recalled seeing small planes behaving oddly...</p></details>
+   Link:<a href="https://medium.com/the-idea-of-reality/the-day-the-sky-fell-silent-the-westall-ufo-mystery-revisited-after-sixty-years-778e076604fb" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/the-day-the-sky-fell-silent-the-westall-ufo-mystery-revisited-after-sixty-years-778e076604fb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, witnesses later recalled seeing small planes behaving oddly...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IhKyQkhOfoM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 6, 1966, a Melbourne school was thrown into chaos when strange objects appeared in the sky. It remains the largest mass UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IhKyQkhOfoM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 6, 1966, a Melbourne school was thrown into chaos when strange objects appeared in the sky. It remains the largest mass UFO...</p></details>
    Published: April 6, 1966  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: Australia's biggest Mass UFO sighting  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1lh7izk/australias_biggest_mass_ufo_sighting_why_did_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1lh7izk/australias_biggest_mass_ufo_sighting_why_did_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why did the military...After 60 years, witnesses to Australia&#x27;s biggest UFO sighting at Westall High School say it&#x27;s time for answers ·...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1lh7izk/australias_biggest_mass_ufo_sighting_why_did_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1lh7izk/australias_biggest_mass_ufo_sighting_why_did_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why did the military...After 60 years, witnesses to Australia&#x27;s biggest UFO sighting at Westall High School say it&#x27;s time for answers ·...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: australia 1966 ufo incident  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1od9itm/australia_1966_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1od9itm/australia_1966_ufo_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>!: r/HighStrangenessr/aliens - Westall 1966: The Most Credible UFO Encounter... The school girl who went missing after the Westall UFO...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1od9itm/australia_1966_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1od9itm/australia_1966_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>!: r/HighStrangenessr/aliens - Westall 1966: The Most Credible UFO Encounter... The school girl who went missing after the Westall UFO...</p></details>

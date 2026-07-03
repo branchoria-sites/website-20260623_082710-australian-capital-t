@@ -266,16 +266,16 @@ Among the many reports that fuelled [South Australia]({{ 'why-south-australias-u
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_1954_newspaper_flap_5a49ef_morgan_pilots_optica_f9b9c6-Illustration-1-dark.svg" | relative_url }}" alt="Morgan pilots illustration 1" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_1954_newspaper_flap_5a49ef_morgan_pilots_optica_f9b9c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_1954_newspaper_flap_5a49ef_morgan_pilots_optica_f9b9c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The sighting occurred during a period when newspapers across the state were publishing frequent reports of strange objects in the sky. Yet the Morgan case is different from many of the more dramatic accounts because it raises a question that still matters in modern UFO investigations: how much weight should be given to trained observers when atmospheric conditions and human perception may be involved? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hauntedadelaide.blogspot.com/2019/01/an-influx-of-south-australian-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedadelaide.blogspot.com">[hauntedadelaide.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedadelaide.blogspot.com</span><span class="citation-popover-title">an influx of south australian ufo</span><span class="citation-popover-snippet">15 Kilometres from Morgan in the Riverland, Captain W. Booth, piloting a DC3 reported a...</span></span></span>
+The sighting occurred during a period when newspapers across the state were publishing frequent reports of strange objects in the sky. Yet the Morgan case is different from many of the more dramatic accounts because it raises a question that still matters in modern UFO investigations: how much weight should be given to trained observers when atmospheric conditions and human perception may be involved?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hauntedadelaide.blogspot.com/2019/01/an-influx-of-south-australian-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedadelaide.blogspot.com">[hauntedadelaide.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedadelaide.blogspot.com</span><span class="citation-popover-title">an influx of south australian ufo</span><span class="citation-popover-snippet">15 Kilometres from Morgan in the Riverland, Captain W. Booth, piloting a DC3 reported a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-tnotXOnQHE" title="1920 - 1988: Really Compelling Australian UFO Cases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-tnotXOnQHE" target="_blank" rel="noopener noreferrer">1920 - 1988: Really Compelling Australian UFO Cases</a></p><p class="youtube-embed-meta">Channel: The Hidden Truth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-tnotXOnQHE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-tnotXOnQHE">Open on YouTube</a></p></div></div></div>
 
 ## What the pilots reported north of Morgan
 
-On or about 10 January 1954, two pilots flying a scheduled route between Broken Hill and Adelaide reported seeing an unusual object ahead of their aircraft while north of Morgan in the Riverland region. Contemporary accounts place the aircraft at roughly 8,000 feet. The object initially appeared to be another aircraft, which was a reasonable assumption given its position relative to their flight path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hauntedadelaide.blogspot.com/2019/01/an-influx-of-south-australian-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedadelaide.blogspot.com">[hauntedadelaide.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedadelaide.blogspot.com</span><span class="citation-popover-title">an influx of south australian ufo</span><span class="citation-popover-snippet">15 Kilometres from Morgan in the Riverland, Captain W. Booth, piloting a DC3 reported a...</span></span></span>
+On or about 10 January 1954, two pilots flying a scheduled route between Broken Hill and Adelaide reported seeing an unusual object ahead of their aircraft while north of Morgan in the Riverland region. Contemporary accounts place the aircraft at roughly 8,000 feet. The object initially appeared to be another aircraft, which was a reasonable assumption given its position relative to their flight path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hauntedadelaide.blogspot.com/2019/01/an-influx-of-south-australian-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedadelaide.blogspot.com">[hauntedadelaide.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedadelaide.blogspot.com</span><span class="citation-popover-title">an influx of south australian ufo</span><span class="citation-popover-snippet">15 Kilometres from Morgan in the Riverland, Captain W. Booth, piloting a DC3 reported a...</span></span></span>
 
-According to later summaries of the incident, the pilots watched the object for several minutes. It appeared to shift from side to side and seemed intermittently visible, disappearing and reappearing in haze or cloud. Ground enquiries reportedly failed to identify another aircraft in the area. The object therefore remained unexplained from the pilots' perspective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hauntedadelaide.blogspot.com/2019/01/an-influx-of-south-australian-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedadelaide.blogspot.com">[hauntedadelaide.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedadelaide.blogspot.com</span><span class="citation-popover-title">an influx of south australian ufo</span><span class="citation-popover-snippet">15 Kilometres from Morgan in the Riverland, Captain W. Booth, piloting a DC3 reported a...</span></span></span>
+According to later summaries of the incident, the pilots watched the object for several minutes. It appeared to shift from side to side and seemed intermittently visible, disappearing and reappearing in haze or cloud. Ground enquiries reportedly failed to identify another aircraft in the area. The object therefore remained unexplained from the pilots' perspective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hauntedadelaide.blogspot.com/2019/01/an-influx-of-south-australian-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedadelaide.blogspot.com">[hauntedadelaide.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedadelaide.blogspot.com</span><span class="citation-popover-title">an influx of south australian ufo</span><span class="citation-popover-snippet">15 Kilometres from Morgan in the Riverland, Captain W. Booth, piloting a DC3 reported a...</span></span></span>
 
 What makes the report unusual is the witnesses' own reaction. Rather than insisting they had seen a flying saucer, they reportedly suggested that some kind of optical effect might have been responsible. They were unable to identify the mechanism, but they were reluctant to treat the sighting as evidence of an extraordinary craft. That attitude distinguishes the Morgan report from many newspaper-era saucer stories, where witnesses often moved immediately to sensational conclusions.
 
@@ -294,13 +294,13 @@ The reported behaviour of the object matches several features commonly associate
 * Apparent lateral movement when a distant object remains nearly stationary relative to the observer.
 * Objects appearing and disappearing as they pass through layers of haze.
 * Distortion of shape, brightness and position when light is refracted through uneven air masses.
-* Difficulty judging distance and speed when there are few visual reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.w.rexresearch1.com/FlightTrainingLibrary/AviationVisualPerception.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: w.rexresearch1.com">[w.rexresearch1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">w.rexresearch1.com</span><span class="citation-popover-snippet">ding terrain changes. Increase their terrain...</span></span></span>
+* Difficulty judging distance and speed when there are few visual reference points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.w.rexresearch1.com/FlightTrainingLibrary/AviationVisualPerception.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: w.rexresearch1.com">[w.rexresearch1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">w.rexresearch1.com</span><span class="citation-popover-snippet">ding terrain changes. Increase their terrain...</span></span></span>
 
 </div>
 
-Flying over inland South Australia can provide exactly the sort of environment in which such effects become troublesome. Long viewing distances, heat gradients, dust haze and low-angle sunlight can alter the appearance of distant aircraft, clouds or atmospheric features. Aviation studies have long documented how pilots can misjudge the location, movement and identity of objects under these conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.w.rexresearch1.com/FlightTrainingLibrary/AviationVisualPerception.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: w.rexresearch1.com">[w.rexresearch1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">w.rexresearch1.com</span><span class="citation-popover-snippet">ding terrain changes. Increase their terrain...</span></span></span>
+Flying over inland South Australia can provide exactly the sort of environment in which such effects become troublesome. Long viewing distances, heat gradients, dust haze and low-angle sunlight can alter the appearance of distant aircraft, clouds or atmospheric features. Aviation studies have long documented how pilots can misjudge the location, movement and identity of objects under these conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.w.rexresearch1.com/FlightTrainingLibrary/AviationVisualPerception.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: w.rexresearch1.com">[w.rexresearch1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">w.rexresearch1.com</span><span class="citation-popover-snippet">ding terrain changes. Increase their terrain...</span></span></span>
 
-One possibility is that the pilots were viewing a distant aircraft whose apparent position was being altered by atmospheric refraction. Another is that they were observing a reflection or mirage-like effect created by layers of air with different temperatures. Complex mirages, sometimes grouped under the term "Fata Morgana", can produce hovering, distorted or seemingly mobile images that look unlike their true source. Such phenomena have occasionally been cited in UFO investigations worldwide because they can create convincing but misleading aerial appearances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">August 14, 2005 — Fata Morgana mirages may continue to trick some observers and are still sometimes mistaken for otherworldly objects suc...</span><span class="citation-popover-meta">Published: August 14, 2005</span></span></span>
+One possibility is that the pilots were viewing a distant aircraft whose apparent position was being altered by atmospheric refraction. Another is that they were observing a reflection or mirage-like effect created by layers of air with different temperatures. Complex mirages, sometimes grouped under the term "Fata Morgana", can produce hovering, distorted or seemingly mobile images that look unlike their true source. Such phenomena have occasionally been cited in UFO investigations worldwide because they can create convincing but misleading aerial appearances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">August 14, 2005 — Fata Morgana mirages may continue to trick some observers and are still sometimes mistaken for otherworldly objects suc...</span><span class="citation-popover-meta">Published: August 14, 2005</span></span></span>
 
 The surviving reports do not contain enough technical detail to determine exactly which effect, if any, was responsible. Weather records, precise headings and radar information are either unavailable or incomplete. As a result, the optical-illusion explanation remains plausible but unproven.
 
@@ -310,9 +310,9 @@ The surviving reports do not contain enough technical detail to determine exactl
 
 A common argument in UFO discussions is that pilots make especially reliable witnesses. The Morgan incident shows both the strength and the limitation of that idea.
 
-The pilots' testimony deserves attention because they were experienced observers accustomed to identifying aircraft, judging movement and operating in three-dimensional airspace. Their report therefore carries more evidential weight than a casual glance from the ground. The fact that they initially suspected another aircraft suggests they approached the observation in a practical, aviation-oriented way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hauntedadelaide.blogspot.com/2019/01/an-influx-of-south-australian-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedadelaide.blogspot.com">[hauntedadelaide.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedadelaide.blogspot.com</span><span class="citation-popover-title">an influx of south australian ufo</span><span class="citation-popover-snippet">15 Kilometres from Morgan in the Riverland, Captain W. Booth, piloting a DC3 reported a...</span></span></span>
+The pilots' testimony deserves attention because they were experienced observers accustomed to identifying aircraft, judging movement and operating in three-dimensional airspace. Their report therefore carries more evidential weight than a casual glance from the ground. The fact that they initially suspected another aircraft suggests they approached the observation in a practical, aviation-oriented way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hauntedadelaide.blogspot.com/2019/01/an-influx-of-south-australian-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedadelaide.blogspot.com">[hauntedadelaide.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedadelaide.blogspot.com</span><span class="citation-popover-title">an influx of south australian ufo</span><span class="citation-popover-snippet">15 Kilometres from Morgan in the Riverland, Captain W. Booth, piloting a DC3 reported a...</span></span></span>
 
-At the same time, aviation experience does not make a person immune to perceptual errors. Modern flight-safety literature contains many examples of highly trained pilots being misled by atmospheric effects, lighting conditions, horizon distortions and distance illusions. Expertise helps observers recognise ordinary objects, but it does not eliminate the limitations of human vision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.w.rexresearch1.com/FlightTrainingLibrary/AviationVisualPerception.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: w.rexresearch1.com">[w.rexresearch1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">w.rexresearch1.com</span><span class="citation-popover-snippet">ding terrain changes. Increase their terrain...</span></span></span>
+At the same time, aviation experience does not make a person immune to perceptual errors. Modern flight-safety literature contains many examples of highly trained pilots being misled by atmospheric effects, lighting conditions, horizon distortions and distance illusions. Expertise helps observers recognise ordinary objects, but it does not eliminate the limitations of human vision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.w.rexresearch1.com/FlightTrainingLibrary/AviationVisualPerception.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: w.rexresearch1.com">[w.rexresearch1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">w.rexresearch1.com</span><span class="citation-popover-snippet">ding terrain changes. Increase their terrain...</span></span></span>
 
 The Morgan case therefore occupies an important middle ground. It is stronger than many reports because the witnesses were trained professionals. Yet it is also weaker than some enthusiasts suggest because those same professionals considered the possibility that they had been fooled by a visual effect.
 
@@ -321,7 +321,7 @@ The Morgan case therefore occupies an important middle ground. It is stronger th
 
 ## Why the case still matters in South Australia's UFO history
 
-The Morgan sighting became one of the most cited aviation-related reports of the 1954 South Australian flap because it highlights a recurring pattern in UFO history: credible witnesses encountering something unusual without claiming certainty about what it was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open...22 Feb 2018 — The Bunyip reported on a widespread flying saucer sighti...</span></span></span>
+The Morgan sighting became one of the most cited aviation-related reports of the 1954 South Australian flap because it highlights a recurring pattern in UFO history: credible witnesses encountering something unusual without claiming certainty about what it was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open...22 Feb 2018 — The Bunyip reported on a widespread flying saucer sighti...</span></span></span>
 
 Unlike reports built around dramatic descriptions of alien craft, the Morgan incident survives because it raises a more difficult question. If trained pilots can observe an object for several minutes and still be unsure whether they saw a real aerial target or an atmospheric illusion, then witness credibility alone cannot resolve every case.
 
@@ -331,194 +331,194 @@ That is why the Morgan pilots continue to matter. Their report neither proves an
 <img src="{{ "/assets/images/South_Australia_717e9f_1954_newspaper_flap_5a49ef_morgan_pilots_optica_f9b9c6-Illustration-3-dark.svg" | relative_url }}" alt="Morgan pilots illustration 3" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_1954_newspaper_flap_5a49ef_morgan_pilots_optica_f9b9c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_1954_newspaper_flap_5a49ef_morgan_pilots_optica_f9b9c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Morgan pilots still matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Morgan pilots still matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly centres on pilot and professional-witness testimony, closely matching the Morgan pilots case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly centres on pilot and professional-witness testimony, closely matching the Morgan pilots case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores witness reliability, observation conditions, and classification of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness reliability, observation conditions, and classification of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines notable cases and the challenge of separating misperception from genuine unknowns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines notable cases and the challenge of separating misperception from genuine unknowns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Provides insight into perception, observation limits, and why trained observers can still misinterpret events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into perception, observation limits, and why trained observers can still misinterpret events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy astrology zodiac map sun moon stars antique illustration poster print"><img src="{{ '/assets/images/marketplace-covers/3d0b48364a748fc26e56.jpg' | relative_url }}" alt="Listing image for Astronomy astrology zodiac map sun moon stars antique illustration poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy astrology zodiac map sun moon stars antique illustration poster print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy astrology zodiac map sun moon stars antique illustration poster print"><img src="{{ '/assets/images/marketplace-covers/3d0b48364a748fc26e56.jpg' | relative_url }}" alt="Listing image for Astronomy astrology zodiac map sun moon stars antique illustration poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy astrology zodiac map sun moon stars antique illustration poster print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="{{ '/assets/images/marketplace-covers/6a914ab478f4568dac43.jpg' | relative_url }}" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="{{ '/assets/images/marketplace-covers/6a914ab478f4568dac43.jpg' | relative_url }}" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy diagram earth other planets 1874 VINTAGE science posters print"><img src="{{ '/assets/images/marketplace-covers/e85671b1db334aea5420.jpg' | relative_url }}" alt="Listing image for Astronomy diagram earth other planets 1874 VINTAGE science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy diagram earth other planets 1874 VINTAGE science posters print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy diagram earth other planets 1874 VINTAGE science posters print"><img src="{{ '/assets/images/marketplace-covers/e85671b1db334aea5420.jpg' | relative_url }}" alt="Listing image for Astronomy diagram earth other planets 1874 VINTAGE science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy diagram earth other planets 1874 VINTAGE science posters print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="morgan-pilots-why-the-morgan-pilots-still-matter-south-australia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ That is why the Morgan pilots continue to matter. Their report neither proves an
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ That is why the Morgan pilots continue to matter. Their report neither proves an
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ That is why the Morgan pilots continue to matter. Their report neither proves an
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ That is why the Morgan pilots continue to matter. Their report neither proves an
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ That is why the Morgan pilots continue to matter. Their report neither proves an
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,93 +724,93 @@ That is why the Morgan pilots continue to matter. Their report neither proves an
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hauntedadelaide.blogspot.com  
    Title: an influx of south australian ufo  
-   Link: <a href="https://hauntedadelaide.blogspot.com/2019/01/an-influx-of-south-australian-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://hauntedadelaide.blogspot.com/2019/01/an-influx-of-south-australian-ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Kilometres from Morgan in the Riverland, Captain W. Booth, piloting a DC3 reported a...</p></details>
+   Link:<a href="https://hauntedadelaide.blogspot.com/2019/01/an-influx-of-south-australian-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://hauntedadelaide.blogspot.com/2019/01/an-influx-of-south-australian-ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Kilometres from Morgan in the Riverland, Captain W. Booth, piloting a DC3 reported a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: w.rexresearch1.com  
-   Link: <a href="https://www.w.rexresearch1.com/FlightTrainingLibrary/AviationVisualPerception.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.w.rexresearch1.com/FlightTrainingLibrary/AviationVisualPerception.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ding terrain changes. Increase their terrain...</p></details>
+   Link:<a href="https://www.w.rexresearch1.com/FlightTrainingLibrary/AviationVisualPerception.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.w.rexresearch1.com/FlightTrainingLibrary/AviationVisualPerception.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ding terrain changes. Increase their terrain...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Fata Morgana (mirage)  
-   Link: <a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 14, 2005 — Fata Morgana mirages may continue to trick some observers and are still sometimes mistaken for otherworldly objects suc...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 14, 2005 — Fata Morgana mirages may continue to trick some observers and are still sometimes mistaken for otherworldly objects suc...</p></details>
    Published: August 14, 2005  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open...22 Feb 2018 — The Bunyip reported on a widespread flying saucer sighti...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open...22 Feb 2018 — The Bunyip reported on a widespread flying saucer sighti...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/18438024" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18438024</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.au10 Jul 1954 - Advertising - TroveSouth Australian (Adelaide, SA: 1844 - 1851)View title info; The South Australian Advertiser...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/18438024" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18438024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.au10 Jul 1954 - Advertising - TroveSouth Australian (Adelaide, SA: 1844 - 1851)View title info; The South Australian Advertiser...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/decoding-fata-morgana-illusion-aviation-understanding-its-impact-gmx7f" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/decoding-fata-morgana-illusion-aviation-understanding-its-impact-gmx7f</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Fata Morgana Illusion in AviationOne such phenomenon is the Fata Morgana illusion—a captivating yet potentially perilous opt...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/decoding-fata-morgana-illusion-aviation-understanding-its-impact-gmx7f" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/decoding-fata-morgana-illusion-aviation-understanding-its-impact-gmx7f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Fata Morgana Illusion in AviationOne such phenomenon is the Fata Morgana illusion—a captivating yet potentially perilous opt...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-[woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-[woomera</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThis document outlines the comprehensive investigation into reports of UFO sightings in the...</p></details>
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-[woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-[woomera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThis document outlines the comprehensive investigation into reports of UFO sightings in the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DSsqNeKgG7k/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSsqNeKgG7k/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What was this mysterious object? #ProofIsOutTherepilots saw UFOs on radar too #ufo #mystery #paranormal #scary · May 18. Transcript. Did...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DSsqNeKgG7k/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSsqNeKgG7k/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What was this mysterious object? #ProofIsOutTherepilots saw UFOs on radar too #ufo #mystery #paranormal #scary · May 18. Transcript. Did...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: its considered australias mass ufo sighting event in 1966 more than 100 school s  
-   Link: <a href="https://www.facebook.com/abcnews.au/videos/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/2735210243519766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/videos/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/2735210243519766/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s considered Australia&#x27;s mass UFO sighting event. In 1966...It&#x27;s considered Australia&#x27;s mass UFO sighting event. In 1966, more than 1...</p></details>
+   Link:<a href="https://www.facebook.com/abcnews.au/videos/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/2735210243519766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/videos/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/2735210243519766/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s considered Australia&#x27;s mass UFO sighting event. In 1966...It&#x27;s considered Australia&#x27;s mass UFO sighting event. In 1966, more than 1...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: an influx of south australian ufo sightings in january 1954 port road hindmarsh  
-   Link: <a href="https://www.facebook.com/TheHauntsOfAdelaide/posts/an-influx-of-south-australian-ufo-sightings-in-january-1954-port-road-hindmarsh-/1402453781248258/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHauntsOfAdelaide/posts/an-influx-of-south-australian-ufo-sightings-in-january-1954-port-road-hindmarsh-/1402453781248258/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Influx of South Australian UFO Sightings in January...“UFOs Sub Rosa Down Under: The Australian Military &amp; Government Role in the UFO...</p></details>
+   Link:<a href="https://www.facebook.com/TheHauntsOfAdelaide/posts/an-influx-of-south-australian-ufo-sightings-in-january-1954-port-road-hindmarsh-/1402453781248258/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHauntsOfAdelaide/posts/an-influx-of-south-australian-ufo-sightings-in-january-1954-port-road-hindmarsh-/1402453781248258/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Influx of South Australian UFO Sightings in January...“UFOs Sub Rosa Down Under: The Australian Military &amp; Government Role in the UFO...</p></details>
    Published: january 1954  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to serve the truth.... RESTRICTED UNIDENTIFIED FLYING OBJECT (UFO) REPORTS Reference; A. HQSC Air...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to serve the truth.... RESTRICTED UNIDENTIFIED FLYING OBJECT (UFO) REPORTS Reference; A. HQSC Air...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=6YNiiywi2V8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6YNiiywi2V8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;South Australia&quot; UFO history 1954 pilots Grant Lavac on the UFO/UAP Issue in Australia Inside The Black Vault...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=6YNiiywi2V8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6YNiiywi2V8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;South Australia&quot; UFO history 1954 pilots Grant Lavac on the UFO/UAP Issue in Australia Inside The Black Vault...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: 1954 pilot describes ufo he and his crew saw  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/v41pg2/1954_pilot_describes_ufo_he_and_his_crew_saw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/v41pg2/1954_pilot_describes_ufo_he_and_his_crew_saw/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1954: pilot describes ufo he and his crew saw.: r/aliensFBI VAULT UFO PART 04: Old news paper from 1917, when did we start seeing UFOs i...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/v41pg2/1954_pilot_describes_ufo_he_and_his_crew_saw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/v41pg2/1954_pilot_describes_ufo_he_and_his_crew_saw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1954: pilot describes ufo he and his crew saw.: r/aliensFBI VAULT UFO PART 04: Old news paper from 1917, when did we start seeing UFOs i...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: shapeshifting ufo reported by pilots in 1954  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1fn6qmp/shapeshifting_ufo_reported_by_pilots_in_1954/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1fn6qmp/shapeshifting_ufo_reported_by_pilots_in_1954/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliens - Shapeshifting UFO reported by pilots in 1954. 136. 6... r/UFOs - Shapeshifting object caught in Florida this saturday. 0:19.R...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1fn6qmp/shapeshifting_ufo_reported_by_pilots_in_1954/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1fn6qmp/shapeshifting_ufo_reported_by_pilots_in_1954/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliens - Shapeshifting UFO reported by pilots in 1954. 136. 6... r/UFOs - Shapeshifting object caught in Florida this saturday. 0:19.R...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Onslow and Bridgetown. “Who Were 5 Pilots?” down and crashing into...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Onslow and Bridgetown. “Who Were 5 Pilots?” down and crashing into...</p></details>

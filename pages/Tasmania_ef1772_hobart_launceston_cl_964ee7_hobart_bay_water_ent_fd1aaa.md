@@ -256,7 +256,7 @@ image: /assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7_hobart_bay_wat
 
 ## Introduction
 
-The January 1959 Hobart Bay incident is one of [Tasmania]({{ 'what-really-happened-in-tasmanias-ufo/' | relative_url }})’s most frequently cited UFO reports because it combined several features that investigators usually look for in a potentially strong case: named [witnesses]({{ 'witnesses-e9d9f7/' | relative_url }}), a daylight observation, detailed notes made close to the event, and witnesses with technical backgrounds. The report centred on two electrical engineers, Alan D. Shaw and W. L. Newton, who were working near Risdon on the eastern side of the Derwent estuary when they claimed to see unusual aerial objects. Most remembered is the assertion that one object appeared to descend into Hobart Bay or the Derwent without producing the splash, spray or disturbance that would normally be expected from an impact with water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
+The January 1959 Hobart Bay incident is one of [Tasmania]({{ 'what-really-happened-in-tasmanias-ufo/' | relative_url }})’s most frequently cited UFO reports because it combined several features that investigators usually look for in a potentially strong case: named [witnesses]({{ 'witnesses-e9d9f7/' | relative_url }}), a daylight observation, detailed notes made close to the event, and witnesses with technical backgrounds. The report centred on two electrical engineers, Alan D. Shaw and W. L. Newton, who were working near Risdon on the eastern side of the Derwent estuary when they claimed to see unusual aerial objects. Most remembered is the assertion that one object appeared to descend into Hobart Bay or the Derwent without producing the splash, spray or disturbance that would normally be expected from an impact with water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7_hobart_bay_water_ent_fd1aaa-Illustration-1-dark.svg" | relative_url }}" alt="Hobart Bay illustration 1" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7_hobart_bay_water_ent_fd1aaa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7_hobart_bay_water_ent_fd1aaa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,9 +264,9 @@ Within Tasmania’s UFO history, the case stands out less because of physical ev
 
 ## What really happened over Hobart Bay?
 
-On the morning of 8 January 1959, Shaw and Newton were inspecting electrical infrastructure near the Electrolytic Zinc Company works at Risdon, overlooking the Derwent. According to later summaries and interviews, Shaw first noticed what appeared to be a light-coloured object in the air. What initially looked like a piece of paper caught in an updraft soon seemed, in the witnesses’ view, to behave unlike ordinary wind-blown debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/100045659120462/posts/1195086618689964/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The ufo filesAt 0920 hrs Shaw drew Newton&#x27;s attention to what appeared to be a piece of newspaper in the air. The object may have...</span></span></span>
+On the morning of 8 January 1959, Shaw and Newton were inspecting electrical infrastructure near the Electrolytic Zinc Company works at Risdon, overlooking the Derwent. According to later summaries and interviews, Shaw first noticed what appeared to be a light-coloured object in the air. What initially looked like a piece of paper caught in an updraft soon seemed, in the witnesses’ view, to behave unlike ordinary wind-blown debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/100045659120462/posts/1195086618689964/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The ufo filesAt 0920 hrs Shaw drew Newton&#x27;s attention to what appeared to be a piece of newspaper in the air. The object may have...</span></span></span>
 
-The observation reportedly developed into a sequence involving more than one object. The men described bright, metallic-looking forms moving over the water and surrounding landscape. Shaw later prepared a written statement on the day of the sighting, and years afterwards discussed the incident with atmospheric physicist and UFO researcher James E. McDonald, who regarded it as one of the more interesting Australian witness cases because of the detail retained by the observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
+The observation reportedly developed into a sequence involving more than one object. The men described bright, metallic-looking forms moving over the water and surrounding landscape. Shaw later prepared a written statement on the day of the sighting, and years afterwards discussed the incident with atmospheric physicist and UFO researcher James E. McDonald, who regarded it as one of the more interesting Australian witness cases because of the detail retained by the observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
 
 Accounts vary in emphasis, but the broad narrative remained consistent:
 
@@ -274,13 +274,13 @@ Accounts vary in emphasis, but the broad narrative remained consistent:
 * Both men claimed prolonged observation rather than a brief glimpse.
 * They reported unusual movement that they did not believe matched aircraft.
 * One object was said to descend towards the water.
-* The witnesses maintained that no obvious splash or disturbance was visible when the object reached the bay area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research+2Kirk McDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
+* The witnesses maintained that no obvious splash or disturbance was visible when the object reached the bay area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
 
-The duration is often given as approximately fifteen minutes, considerably longer than many fleeting sighting reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/jem_tape_achives_basterfield.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk McDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">jem tape achives basterfield</span><span class="citation-popover-snippet">Sighting Time: 0900 hrs. Location of Sighting: Hobart Bay, Risdon, Hobart, Tasmania, Australia. Duration of Sighting: 15 minutes.Read more...</span></span></span>
+The duration is often given as approximately fifteen minutes, considerably longer than many fleeting sighting reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/jem_tape_achives_basterfield.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk McDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">jem tape achives basterfield</span><span class="citation-popover-snippet">Sighting Time: 0900 hrs. Location of Sighting: Hobart Bay, Risdon, Hobart, Tasmania, Australia. Duration of Sighting: 15 minutes.Read more...</span></span></span>
 
 ### Shaw and Newton as witnesses
 
-A major reason the case remained prominent in Australian UFO literature is that Shaw and Newton were not anonymous observers. Both were electrical engineers employed by the Tasmanian Hydro-Electric Commission. Supporters of the case have long argued that technically trained observers should carry greater evidential weight because they are accustomed to judging distance, structure and movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
+A major reason the case remained prominent in Australian UFO literature is that Shaw and Newton were not anonymous observers. Both were electrical engineers employed by the Tasmanian Hydro-Electric Commission. Supporters of the case have long argued that technically trained observers should carry greater evidential weight because they are accustomed to judging distance, structure and movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
 
 However, technical expertise does not automatically eliminate the possibility of misperception. Engineers are not necessarily trained observers of unusual atmospheric phenomena, and estimating the size, speed and distance of unfamiliar objects against a largely featureless sky or water background can be difficult even for experienced professionals. The witnesses’ credentials therefore strengthen the report’s credibility compared with an anonymous account, but they do not resolve the central question of what was actually seen.
 
@@ -297,7 +297,7 @@ For UFO proponents, the detail suggested that the object either:
 
 * entered the water in a controlled manner,
 * disappeared before reaching the surface,
-* or represented something not behaving like a conventional aircraft or physical object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
+* or represented something not behaving like a conventional aircraft or physical object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
 
 For sceptical investigators, the same detail raised a different possibility: that the witnesses may have misjudged the object's distance and line of sight. An object appearing to descend into water can actually pass beyond the horizon, move behind terrain, enter haze, or simply become too distant to resolve. Without independent measurements, it is difficult to determine whether the object genuinely reached the water surface at all.
 
@@ -314,7 +314,7 @@ Several factors favour the case:
 * Shaw reportedly prepared notes immediately after the incident.
 * The witnesses were named rather than anonymous.
 * The event was later discussed with researchers, including James McDonald.
-* Shaw reportedly gave presentations about the sighting and prepared illustrative slides recounting the sequence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
+* Shaw reportedly gave presentations about the sighting and prepared illustrative slides recounting the sequence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
 
 These points reduce the risk of the entire story being based on decades-later memory alone.
 
@@ -324,7 +324,7 @@ Yet important limitations remain:
 * No radar confirmation has been linked to the sighting.
 * No physical trace from the alleged water entry was recovered.
 * Independent witness corroboration appears limited.
-* Precise measurements of distance, altitude and speed were unavailable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research+2Kirk McDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
+* Precise measurements of distance, altitude and speed were unavailable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
 
 As a result, the case sits in an intermediate category common in UFO history: stronger than a brief anecdote, but lacking the objective evidence needed for a definitive conclusion.
 
@@ -341,7 +341,7 @@ Several conventional possibilities have been suggested over the years:
 
 **Atmospheric effects.** Bright reflections over water, haze layers and changing light conditions can create misleading impressions of shape and movement. The Derwent estuary can provide complex visual backgrounds, especially when viewed across significant distances.
 
-**Wind-borne material or balloons.** The sighting reportedly began with something resembling airborne debris. Although the witnesses concluded that the object behaved differently, the initial impression has remained part of sceptical discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/100045659120462/posts/1195086618689964/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The ufo filesAt 0920 hrs Shaw drew Newton&#x27;s attention to what appeared to be a piece of newspaper in the air. The object may have...</span></span></span>
+**Wind-borne material or balloons.** The sighting reportedly began with something resembling airborne debris. Although the witnesses concluded that the object behaved differently, the initial impression has remained part of sceptical discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/100045659120462/posts/1195086618689964/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The ufo filesAt 0920 hrs Shaw drew Newton&#x27;s attention to what appeared to be a piece of newspaper in the air. The object may have...</span></span></span>
 
 **Incomplete observation geometry.** Without multiple observation points, there is no reliable way to reconstruct the object's true path. What appeared to be a descent into the bay may have been a perspective effect.
 
@@ -351,7 +351,7 @@ None of these [explanations]({{ 'explanations-0349ac/' | relative_url }}) can be
 <img src="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7_hobart_bay_water_ent_fd1aaa-Illustration-3-dark.svg" | relative_url }}" alt="Hobart Bay illustration 3" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7_hobart_bay_water_ent_fd1aaa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_hobart_launceston_cl_964ee7_hobart_bay_water_ent_fd1aaa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case still matters in Tasmania's UFO history
 
-The Hobart Bay report occupies a distinctive place within the broader Hobart and Launceston sighting [clusters]({{ 'clusters/' | relative_url }}) because it was not merely another report of lights in the sky. It involved identifiable witnesses, a detailed narrative, and an unusual claimed interaction with the Derwent itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
+The Hobart Bay report occupies a distinctive place within the broader Hobart and Launceston sighting [clusters]({{ 'clusters/' | relative_url }}) because it was not merely another report of lights in the sky. It involved identifiable witnesses, a detailed narrative, and an unusual claimed interaction with the Derwent itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">a strange series of sightings hobart</span><span class="citation-popover-snippet">UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</span></span></span>
 
 Its importance lies less in proving an unknown craft entered the water than in illustrating how some Tasmanian cases survived long after the initial newspaper coverage faded. The Shaw–Newton account continued to attract attention because the witnesses remained consistent, technically trained and willing to discuss what they believed they had seen. At the same time, the lack of photographs, instrument records and independent confirmation has prevented the incident from moving beyond the category of an intriguing but unresolved historical sighting.
 
@@ -362,194 +362,194 @@ Within Tasmania’s UFO record, the Hobart Bay case remains one of the state's c
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What really happened over Hobart Bay?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What really happened over Hobart Bay?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on evaluating evidence and sightings, matching the article&#x27;s discussion of testimony versus proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating evidence and sightings, matching the article&#x27;s discussion of testimony versus proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Helps readers assess witness reports, official investigations, and unresolved cases like the Hobart Bay incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers assess witness reports, official investigations, and unresolved cases like the Hobart Bay incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines notable witness cases and the strengths and weaknesses of testimony-based reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines notable witness cases and the strengths and weaknesses of testimony-based reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Provides background on the UFO culture and investigative climate that shaped interpretation of 1950s sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on the UFO culture and investigative climate that shaped interpretation of 1950s sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Map of Tasmania 1831 - Vintage Tasmania Art Wall Decor"><img src="{{ '/assets/images/marketplace-covers/ccfed8fbe614c1d934ae.jpg' | relative_url }}" alt="Listing image for Old Map of Tasmania 1831 - Vintage Tasmania Art Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Map of Tasmania 1831 - Vintage Tasmania Art Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Map of Tasmania 1831 - Vintage Tasmania Art Wall Decor"><img src="{{ '/assets/images/marketplace-covers/ccfed8fbe614c1d934ae.jpg' | relative_url }}" alt="Listing image for Old Map of Tasmania 1831 - Vintage Tasmania Art Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Map of Tasmania 1831 - Vintage Tasmania Art Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Print Harrow Map 1880 Australia Tasmania Sydney Parth Pacific Ocean"><img src="{{ '/assets/images/marketplace-covers/4a546109651795d7c7c0.jpg' | relative_url }}" alt="Listing image for Antique Print Harrow Map 1880 Australia Tasmania Sydney Parth Pacific Ocean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Print Harrow Map 1880 Australia Tasmania Sydney Parth Pacific Ocean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Print Harrow Map 1880 Australia Tasmania Sydney Parth Pacific Ocean"><img src="{{ '/assets/images/marketplace-covers/4a546109651795d7c7c0.jpg' | relative_url }}" alt="Listing image for Antique Print Harrow Map 1880 Australia Tasmania Sydney Parth Pacific Ocean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Print Harrow Map 1880 Australia Tasmania Sydney Parth Pacific Ocean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Map of Tasmania 1832 - Vintage Tasmania Art Wall Decor"><img src="{{ '/assets/images/marketplace-covers/1688d1118569e36e2663.jpg' | relative_url }}" alt="Listing image for Old Map of Tasmania 1832 - Vintage Tasmania Art Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Map of Tasmania 1832 - Vintage Tasmania Art Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Map of Tasmania 1832 - Vintage Tasmania Art Wall Decor"><img src="{{ '/assets/images/marketplace-covers/1688d1118569e36e2663.jpg' | relative_url }}" alt="Listing image for Old Map of Tasmania 1832 - Vintage Tasmania Art Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Map of Tasmania 1832 - Vintage Tasmania Art Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876"><img src="{{ '/assets/images/marketplace-covers/c7c0b466707cc4242e56.jpg' | relative_url }}" alt="Listing image for TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876"><img src="{{ '/assets/images/marketplace-covers/c7c0b466707cc4242e56.jpg' | relative_url }}" alt="Listing image for TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="hobart-bay-what-really-happened-over-hobart-bay-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ Within Tasmania’s UFO record, the Hobart Bay case remains one of the state's c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ Within Tasmania’s UFO record, the Hobart Bay case remains one of the state's c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ Within Tasmania’s UFO record, the Hobart Bay case remains one of the state's c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ Within Tasmania’s UFO record, the Hobart Bay case remains one of the state's c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ Within Tasmania’s UFO record, the Hobart Bay case remains one of the state's c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,112 +755,112 @@ Within Tasmania’s UFO record, the Hobart Bay case remains one of the state's c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100045659120462/posts/1195086618689964/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100045659120462/posts/1195086618689964/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ufo filesAt 0920 hrs Shaw drew Newton&#x27;s attention to what appeared to be a piece of newspaper in the air. The object may have...</p></details>
+   Link:<a href="https://www.facebook.com/100045659120462/posts/1195086618689964/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100045659120462/posts/1195086618689964/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ufo filesAt 0920 hrs Shaw drew Newton&#x27;s attention to what appeared to be a piece of newspaper in the air. The object may have...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/auroraaustralis/posts/6670434572991369/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/auroraaustralis/posts/6670434572991369/</a>  
+   Link:<a href="https://www.facebook.com/groups/auroraaustralis/posts/6670434572991369/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/auroraaustralis/posts/6670434572991369/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/auroraaustralis/posts/8026948894006590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/auroraaustralis/posts/8026948894006590/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did you capture a UFO sighting in Nubeena, Tasmania?UFO sightings in Hobart, Tasmania, 1959... It descended vertically and entered the w...</p></details>
+   Link:<a href="https://www.facebook.com/groups/auroraaustralis/posts/8026948894006590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/auroraaustralis/posts/8026948894006590/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did you capture a UFO sighting in Nubeena, Tasmania?UFO sightings in Hobart, Tasmania, 1959... It descended vertically and entered the w...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1464145827194143/posts/4049760381965995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1464145827194143/posts/4049760381965995/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo over Mount Wellington Hobart Tasmania Australiaufo case report: Silver metallic object seen near road above house in Tasmania...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1464145827194143/posts/4049760381965995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1464145827194143/posts/4049760381965995/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo over Mount Wellington Hobart Tasmania Australiaufo case report: Silver metallic object seen near road above house in Tasmania...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/alotau.mbp/posts/9819879108044294/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/alotau.mbp/posts/9819879108044294/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Documentary of the Boianai, Rabaraba UFO sightings in...Of all of the many kinds of UFO encounters, cases of people going inside UFOs ar...</p></details>
+   Link:<a href="https://www.facebook.com/groups/alotau.mbp/posts/9819879108044294/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/alotau.mbp/posts/9819879108044294/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Documentary of the Boianai, Rabaraba UFO sightings in...Of all of the many kinds of UFO encounters, cases of people going inside UFOs ar...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: Fortean Friends  
-   Link: <a href="https://www.facebook.com/groups/ForteanFriends/posts/25453032007679909/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ForteanFriends/posts/25453032007679909/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hobart, Tasmania UFO wave 1971-1976 reported sightingsUFO sightings in Hobart, Tasmania, 1959. Emile Kelly Gauthier ▻ THE UFO FILES GROUP...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ForteanFriends/posts/25453032007679909/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ForteanFriends/posts/25453032007679909/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hobart, Tasmania UFO wave 1971-1976 reported sightingsUFO sightings in Hobart, Tasmania, 1959. Emile Kelly Gauthier ▻ THE UFO FILES GROUP...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/beyondearthsplane/posts/25007145105626915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/beyondearthsplane/posts/25007145105626915/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tasmania UFO wave 1971-1976 reported sightingsUFO sightings in Hobart, Tasmania, 1959. Emile Kelly Gauthier ▻ THE UFO FILES GROUP. 1y · P...</p></details>
+   Link:<a href="https://www.facebook.com/groups/beyondearthsplane/posts/25007145105626915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/beyondearthsplane/posts/25007145105626915/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tasmania UFO wave 1971-1976 reported sightingsUFO sightings in Hobart, Tasmania, 1959. Emile Kelly Gauthier ▻ THE UFO FILES GROUP. 1y · P...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: a strange series of sightings hobart  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2016/11/a-strange-series-of-sightings-hobart.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Scientific ResearchA strange series of sightings - Hobart, Tasmania - 195917 Nov 2016 — Witness(es): Alan D Shaw and W L Newton; bot...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: kirkmcd.princeton.edu  
    Title: jem tape achives basterfield  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/jem_tape_achives_basterfield.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/jem_tape_achives_basterfield.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sighting Time: 0900 hrs. Location of Sighting: Hobart Bay, Risdon, Hobart, Tasmania, Australia. Duration of Sighting: 15 minutes.Read more...</p></details>
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/jem_tape_achives_basterfield.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/jem_tape_achives_basterfield.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sighting Time: 0900 hrs. Location of Sighting: Hobart Bay, Risdon, Hobart, Tasmania, Australia. Duration of Sighting: 15 minutes.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: eprints.utas.edu.au  
-   Link: <a href="https://eprints.utas.edu.au/view/types/other.html" target="_blank" rel="noopener noreferrer nofollow">https://eprints.utas.edu.au/view/types/other.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by type - Other - ePrints - University of TasmaniaPaterson &amp; Sons, blacksmiths, engineers, boilermakers and machinists of Orient Iron Wor...</p></details>
+   Link:<a href="https://eprints.utas.edu.au/view/types/other.html" target="_blank" rel="noopener noreferrer nofollow">https://eprints.utas.edu.au/view/types/other.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by type - Other - ePrints - University of TasmaniaPaterson &amp; Sons, blacksmiths, engineers, boilermakers and machinists of Orient Iron Wor...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nla.gov.au  
-   Link: <a href="https://nla.gov.au/nla.obj-3444987911/findingaid" target="_blank" rel="noopener noreferrer nofollow">https://nla.gov.au/nla.obj-3444987911/findingaid</a>  
+   Link:<a href="https://nla.gov.au/nla.obj-3444987911/findingaid" target="_blank" rel="noopener noreferrer nofollow">https://nla.gov.au/nla.obj-3444987911/findingaid</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2020-02/research-guide-government-tasmania.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-02/research-guide-government-tasmania.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n, highlighting significant and valuable records from the Commonwealth archival...Read more...</p></details>
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2020-02/research-guide-government-tasmania.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-02/research-guide-government-tasmania.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n, highlighting significant and valuable records from the Commonwealth archival...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian colonist, deputy surveyor, explorer, naturalist and artist Australia...Read more...</p></details>
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530819" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530819</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian colonist, deputy surveyor, explorer, naturalist and artist Australia...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: utias.utoronto.ca  
    Title: 1960s dr gordon patterson establishes the utias ufo project  
-   Link: <a href="https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gordon Patterson establishes The UTIAS UFO...15 Aug 2018 — Throughout the following years, DND maintained a UFO file based on reports su...</p></details>
+   Link:<a href="https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gordon Patterson establishes The UTIAS UFO...15 Aug 2018 — Throughout the following years, DND maintained a UFO file based on reports su...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The 5 Strangest U.F.O. ENCOUNTERS in Australia | Australian Aliens  
-   Link: <a href="http://www.youtube.com/watch?v=fY2gXIjcOZU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=fY2gXIjcOZU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tasmania UFO sightings history 1959 5 Bizarre Accounts From History of UFO Sightings (74 BC - 1896) // Primary Sources Voices of the Past...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=fY2gXIjcOZU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=fY2gXIjcOZU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tasmania UFO sightings history 1959 5 Bizarre Accounts From History of UFO Sightings (74 BC - 1896) // Primary Sources Voices of the Past...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: parliament.tas.gov.au  
    Title: finalised20bio20register201825 1980  
-   Link: <a href="https://www.parliament.tas.gov.au/__data/assets/pdf_file/0022/54184/finalised20bio20register201825-1980.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.tas.gov.au/__data/assets/pdf_file/0022/54184/finalised20bio20register201825-1980.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biographical Register of the Tasmanian Parliament 1825-...by S Bennett · 2016 · Cited by 14 — This work is a revision of our original vo...</p></details>
+   Link:<a href="https://www.parliament.tas.gov.au/__data/assets/pdf_file/0022/54184/finalised20bio20register201825-1980.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.tas.gov.au/__data/assets/pdf_file/0022/54184/finalised20bio20register201825-1980.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biographical Register of the Tasmanian Parliament 1825-...by S Bennett · 2016 · Cited by 14 — This work is a revision of our original vo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britishnewspaperarchive.co.uk  
-   Link: <a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;county=staffordshire%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;county=staffordshire%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Results for &#x27;ufo&#x27; | Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 6274 newspaper articles contained information abou...</p></details>
+   Link:<a href="https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;county=staffordshire%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo" target="_blank" rel="noopener noreferrer nofollow">https://britishnewspaperarchive.co.uk/search/results/1950-01-01/1999-12-31?basicsearch=ufo&amp;county=staffordshire%2C+england&amp;retrievecountrycounts=false&amp;somesearch=ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results for &#x27;ufo&#x27; | Between 1st Jan 1950 and 31st Dec 1999Your search results for ufo: 6274 newspaper articles contained information abou...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: documents.theblackvault.com  
    Title: A703 580 1 1 Part 2 645647  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%202_645647.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%202_645647.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comA703_580-1-1_Part 2_645647.pdf7 May 1982 — UFO cases or files ore not closed and should additional informctioo be ob...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%202_645647.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%202_645647.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comA703_580-1-1_Part 2_645647.pdf7 May 1982 — UFO cases or files ore not closed and should additional informctioo be ob...</p></details>
    Published: May 1982  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Global crop circle phenomenon inspired by UFO mystery in Far North Queensland?  
-   Link: <a href="http://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0YvaAlgokSs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia’s Biggest UFO Cover-Up | The Westall Incident (1966)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0YvaAlgokSs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia’s Biggest UFO Cover-Up | The Westall Incident (1966)...</p></details>

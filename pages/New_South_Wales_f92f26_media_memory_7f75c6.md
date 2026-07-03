@@ -294,9 +294,9 @@ This matters because several NSW cases are still repeated as “classic” Austr
 
 ## Why Dramatic Reports Last
 
-A good UFO headline usually has three ingredients: a striking visual claim, a credible-sounding witness and a local setting readers recognise. NSW has supplied all three many times. Sydney newspapers were already carrying “flying saucer” stories in the early Cold War period, and Trove preserves examples of press attention to Royal Australian Air Force interest in the subject, including a January 1954 article headlined “The R.A.A.F. Investigates Flying Saucers”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/49610401" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
+A good UFO headline usually has three ingredients: a striking visual claim, a credible-sounding witness and a local setting readers recognise. NSW has supplied all three many times. Sydney newspapers were already carrying “flying saucer” stories in the early Cold War period, and Trove preserves examples of press attention to Royal Australian Air Force interest in the subject, including a January 1954 article headlined “The R.A.A.F. Investigates Flying Saucers”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/49610401" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 
-That kind of coverage mattered because it gave ordinary readers a template. A light in the sky was no longer merely a light; it could be a “saucer”, a possible defence problem or a mystery for experts. The National Archives of Australia notes that public fascination in the post-war years led the Commonwealth government, usually through the RAAF, to record possible sightings. The same archival overview makes clear that the official motive was not enthusiasm for aliens but prudence during the Cold War and space-race years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+That kind of coverage mattered because it gave ordinary readers a template. A light in the sky was no longer merely a light; it could be a “saucer”, a possible defence problem or a mystery for experts. The National Archives of Australia notes that public fascination in the post-war years led the Commonwealth government, usually through the RAAF, to record possible sightings. The same archival overview makes clear that the official motive was not enthusiasm for aliens but prudence during the Cold War and space-race years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 The media also helped decide which cases became part of the NSW memory bank. A short country-newspaper item might bring forward more witnesses; a metropolitan article might turn a local sighting into a national talking point; a television segment might give a case a second life decades later. That does not make the original report false. It means the public version may be shaped by repetition, simplification and the emotional force of a memorable image.
 
@@ -319,17 +319,17 @@ The danger is that each type can be weakened in a different way. Authority witne
 
 The most useful NSW UFO stories are often not the ones with the loudest first headline, but the ones where later reporting, archival work or sceptical review changed the weight of the evidence. In many cases, the change is not a clean “solved” stamp. It is a shift from “highly mysterious” to “interesting but not strong enough”.
 
-The National Archives gives a useful national baseline. It says sightings by the public were often identified as aircraft or ordinary celestial objects, with the Moon and Venus recurring as explanations, while reports from trained defence personnel were treated more seriously. It also records that the RAAF stopped investigating UFO sightings in 1994, reasoning that only a small percentage could not be explained and that these presented little or no security threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span> ABC reporting in 2024 similarly quoted former RAAF intelligence officer Brett Biddington explaining that unusual aerial sightings were judged not to be core intelligence business where there was no evidence of an extraterrestrial threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+The National Archives gives a useful national baseline. It says sightings by the public were often identified as aircraft or ordinary celestial objects, with the Moon and Venus recurring as explanations, while reports from trained defence personnel were treated more seriously. It also records that the RAAF stopped investigating UFO sightings in 1994, reasoning that only a small percentage could not be explained and that these presented little or no security threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span> ABC reporting in 2024 similarly quoted former RAAF intelligence officer Brett Biddington explaining that unusual aerial sightings were judged not to be core intelligence business where there was no evidence of an extraterrestrial threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
 That official withdrawal affected NSW media memory. After 1994, a dramatic local sighting could still become famous, but there was less chance of a routine public-facing RAAF investigation producing a neat official file. Civilian researchers, local reporters and community discussion increasingly filled the gap. That made cases more accessible, but also more uneven.
 
 ### The Sea Fury case: still strong, but not beyond challenge
 
-The Nowra Sea Fury incident of 31 August 1954 is one of the strongest NSW-linked media-memory cases because it contains elements many weak reports lack. Lieutenant J. A. O’Farrell, a Royal Australian Navy pilot, was returning to the RAN air station at Nowra when he reported bright objects near his Hawker Sea Fury. The National Archives account says Nowra confirmed unknown craft on radar, and that O’Farrell made a detailed report after landing. It concludes that the nature of the fast-moving objects remains a mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+The Nowra Sea Fury incident of 31 August 1954 is one of the strongest NSW-linked media-memory cases because it contains elements many weak reports lack. Lieutenant J. A. O’Farrell, a Royal Australian Navy pilot, was returning to the RAN air station at Nowra when he reported bright objects near his Hawker Sea Fury. The National Archives account says Nowra confirmed unknown craft on radar, and that O’Farrell made a detailed report after landing. It concludes that the nature of the fast-moving objects remains a mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 That is why the case has lasted. It is not just a vague light seen from a backyard. It has an experienced pilot, an aviation setting, radio contact and radar. It is also why it was attractive to newspapers: a military pilot chased or accompanied by unknown [lights]({{ 'lights/' | relative_url }}) over NSW airspace makes a far stronger story than an anonymous skywatcher.
 
-But the case has also been weakened, or at least complicated, by later analysis. Keith Basterfield’s Project 1947 re-examination argues that a possible conventional explanation could involve military aircraft, particularly CAC Sabre jet fighters, while acknowledging unresolved problems and the difficulty created by missing or inaccessible records. The point is not that this definitively solves the case. It is that later work moved the story away from a simple “flying saucers confirmed by radar” headline and towards a more cautious question: what aircraft, radar conditions, operational secrecy or reporting gaps might explain the encounter? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/sea_fury_1954.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">sea fury 1954</span><span class="citation-popover-snippet">sea fury 1954</span></span></span>
+But the case has also been weakened, or at least complicated, by later analysis. Keith Basterfield’s Project 1947 re-examination argues that a possible conventional explanation could involve military aircraft, particularly CAC Sabre jet fighters, while acknowledging unresolved problems and the difficulty created by missing or inaccessible records. The point is not that this definitively solves the case. It is that later work moved the story away from a simple “flying saucers confirmed by radar” headline and towards a more cautious question: what aircraft, radar conditions, operational secrecy or reporting gaps might explain the encounter?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/sea_fury_1954.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">sea fury 1954</span><span class="citation-popover-snippet">sea fury 1954</span></span></span>
 
 For a reader, the Sea Fury incident sits in the “serious but not settled” category. The original evidence is better than most media UFO reports, but the headline version often ignores the later aviation-focused possibilities.
 
@@ -338,17 +338,17 @@ For a reader, the Sea Fury incident sits in the “serious but not settled” ca
 
 ### The Gosford and Central Coast flap: famous because it was a cluster
 
-The Gosford and wider Central Coast sightings of the mid-1990s show a different mechanism: repetition. A single report can be dismissed; dozens of calls across a recognisable region feel harder to ignore. Civilian UFO material from NSW in 1996 treated the Central Coast and North Coast activity as major topics, with UFO Reporter listing both a “1996 NSW North Coast Flap” and a “1996 NSW Central Coast Flap”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/UFO_Reporter_Vol_5_No_1/UFO_Reporter_Vol_5_No_1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span></span></span> The State Library of NSW catalogue also records *The Gosford Files: UFOs over the Central Coast of New South Wales*, a 1997 book by Moira McGhee and Bryan Dickeson, showing how quickly the cluster moved from reports into a compiled case narrative. State Library of New South Wales Search <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay/SLNSW_ALMA21106647330002626/SLNSW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.sl.nsw.gov.au">[search.sl.nsw.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.sl.nsw.gov.au</span><span class="citation-popover-snippet">Open source on nsw.gov.au.</span></span></span>
+The Gosford and wider Central Coast sightings of the mid-1990s show a different mechanism: repetition. A single report can be dismissed; dozens of calls across a recognisable region feel harder to ignore. Civilian UFO material from NSW in 1996 treated the Central Coast and North Coast activity as major topics, with UFO Reporter listing both a “1996 NSW North Coast Flap” and a “1996 NSW Central Coast Flap”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/UFO_Reporter_Vol_5_No_1/UFO_Reporter_Vol_5_No_1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span></span></span> The State Library of NSW catalogue also records *The Gosford Files: UFOs over the Central Coast of New South Wales*, a 1997 book by Moira McGhee and Bryan Dickeson, showing how quickly the cluster moved from reports into a compiled case narrative. State Library of New South Wales Search<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay/SLNSW_ALMA21106647330002626/SLNSW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.sl.nsw.gov.au">[search.sl.nsw.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.sl.nsw.gov.au</span><span class="citation-popover-snippet">Open source on nsw.gov.au.</span></span></span>
 
-This is exactly how media memory is built. Local sightings generate calls; calls generate articles; articles encourage other witnesses to report older or similar experiences; civilian investigators compile the material; later anniversary pieces revive the story. By 2025, the Newcastle Herald was still revisiting the New Year’s Eve 1995 Gosford mystery with UFO author and investigator Moira McGhee. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newcastleherald.com.au/story/9140958/ufo-mystery-in-gosford-on-new-years-eve-1995-with-moira-mcghee/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newcastleherald.com.au">[Newcastle Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newcastleherald.com.au</span><span class="citation-popover-title">ufo mystery in gosford on new years eve 1995 with moira mcghee</span><span class="citation-popover-snippet">ufo mystery in gosford on new years eve 1995 with moira mcghee</span></span></span>
+This is exactly how media memory is built. Local sightings generate calls; calls generate articles; articles encourage other witnesses to report older or similar experiences; civilian investigators compile the material; later anniversary pieces revive the story. By 2025, the Newcastle Herald was still revisiting the New Year’s Eve 1995 Gosford mystery with UFO author and investigator Moira McGhee.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newcastleherald.com.au/story/9140958/ufo-mystery-in-gosford-on-new-years-eve-1995-with-moira-mcghee/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newcastleherald.com.au">[Newcastle Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newcastleherald.com.au</span><span class="citation-popover-title">ufo mystery in gosford on new years eve 1995 with moira mcghee</span><span class="citation-popover-snippet">ufo mystery in gosford on new years eve 1995 with moira mcghee</span></span></span>
 
 The weakness is that clusters can create their own momentum. Multiple reports do not automatically mean multiple unknown craft. They may reflect one stimulus seen from different places, several unrelated ordinary stimuli, or publicity that prompts people to reinterpret ambiguous lights. The Gosford material remains important to NSW UFO history because it shows the power of local reporting and civilian archiving after the RAAF stepped back. It is weaker as proof of an extraordinary object unless individual sightings can be separated, timed, checked against aircraft and astronomical data, and supported by independent records.
 
 ### The North Coast reports: how a “flap” can form
 
-The 1996 NSW North Coast material is especially useful because it shows the process almost in real time. UFO Reporter summarised press accounts from the Macleay and Lismore districts, including a 28 November 1995 Macleay Argus report of a bright light near Crescent Head and a 2 January 1996 Macleay Argus report of a disc-shaped object near West Kempsey on New Year’s Eve. The same article noted a possible explanation for one Macleay light: two military helicopters flying in tandem, with helicopters recently seen over the area on exercises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/UFO_Reporter_Vol_5_No_1/UFO_Reporter_Vol_5_No_1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span></span></span>
+The 1996 NSW North Coast material is especially useful because it shows the process almost in real time. UFO Reporter summarised press accounts from the Macleay and Lismore districts, including a 28 November 1995 Macleay Argus report of a bright light near Crescent Head and a 2 January 1996 Macleay Argus report of a disc-shaped object near West Kempsey on New Year’s Eve. The same article noted a possible explanation for one Macleay light: two military helicopters flying in tandem, with helicopters recently seen over the area on exercises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/UFO_Reporter_Vol_5_No_1/UFO_Reporter_Vol_5_No_1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span></span></span>
 
-That detail is exactly the kind later retellings can lose. A headline remembers “UFO over Kempsey” or “North Coast flap”; the body text may contain a mundane candidate explanation. UFO Reporter also observed that public interest created by a more sensational Kempsey entity-and-window story may have encouraged other witnesses to come forward and “helped to create the illusion that a UFO flap was happening in the area”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/UFO_Reporter_Vol_5_No_1/UFO_Reporter_Vol_5_No_1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span></span></span>
+That detail is exactly the kind later retellings can lose. A headline remembers “UFO over Kempsey” or “North Coast flap”; the body text may contain a mundane candidate explanation. UFO Reporter also observed that public interest created by a more sensational Kempsey entity-and-window story may have encouraged other witnesses to come forward and “helped to create the illusion that a UFO flap was happening in the area”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/UFO_Reporter_Vol_5_No_1/UFO_Reporter_Vol_5_No_1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span></span></span>
 
 That does not mean every North Coast report was false. It means the “flap” label should be handled carefully. A flap is partly a sighting pattern and partly a reporting pattern. Once people believe something unusual is happening over their district, normal lights can become more reportable.
 
@@ -356,7 +356,7 @@ That does not mean every North Coast report was false. It means the “flap” l
 <img src="{{ "/assets/images/New_South_Wales_f92f26_media_memory_7f75c6-Illustration-2-dark.svg" | relative_url }}" alt="Media Memory illustration 2" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_media_memory_7f75c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_media_memory_7f75c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Coffs Harbour fishermen: a video hook without a firm public resolution
 
-The 1999 Coffs Harbour fishermen case is a classic media-memory problem. It had what editors like: professional fishermen, a coastal setting, a claimed video, a dome-shaped orange object and confident witness language. Reprinted wire accounts said Tony Bell and six colleagues saw a strange object about six nautical miles off the coast near Coffs Harbour and that the video was being sent to the privately run National Space Centre in Melbourne for examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rense.com/ufo5/aussieufo_u.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[Rense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">Open source on rense.com.</span></span></span> A Google Groups repost of the AFP item preserves similar details, including the claim that the men were using two boats and that the object seemed to move closer and south of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://groups.google.com/g/alt.ufo.reports/c/VkiBwriHVjs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
+The 1999 Coffs Harbour fishermen case is a classic media-memory problem. It had what editors like: professional fishermen, a coastal setting, a claimed video, a dome-shaped orange object and confident witness language. Reprinted wire accounts said Tony Bell and six colleagues saw a strange object about six nautical miles off the coast near Coffs Harbour and that the video was being sent to the privately run National Space Centre in Melbourne for examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rense.com/ufo5/aussieufo_u.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[Rense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">Open source on rense.com.</span></span></span> A Google Groups repost of the AFP item preserves similar details, including the claim that the men were using two boats and that the object seemed to move closer and south of them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://groups.google.com/g/alt.ufo.reports/c/VkiBwriHVjs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
 
 As a media story, it is strong. As evidence, it is much weaker unless the footage, chain of custody, analysis and final conclusions are available. The striking phrases survive more easily than the technical follow-up. Without a clear public assessment of the video quality, camera settings, distance, weather, aircraft or marine possibilities, the case remains famous-but-thin rather than robust.
 
@@ -366,7 +366,7 @@ This is one of the central lessons of NSW UFO coverage: the existence of video i
 
 Not every remembered NSW UFO story began as a twentieth-century flying-saucer report. Some older accounts were later absorbed into UFO culture because they sound strangely modern when retold.
 
-The [Parramatta]({{ 'parramatta-1868/' | relative_url }}) case associated with Frederick William Birmingham is the best example. Later UFO writers have described Birmingham’s 1868 “vision” of a machine or ark-like object at Parramatta as an early Australian UFO narrative. Recent discussion by Australian researcher Bill Chalker’s *Oz Files* blog treats it as historically interesting and reports additional documentary material connected with Birmingham’s ideas about a machine “to navigate the air”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[The Oz Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">the 1868 ufo vision of frederick</span></span></span> Keith Basterfield’s catalogue similarly summarises the case as a “wonderful dream” or vision involving an “ark” and a “machine to go through the air”, sourced through Chalker’s earlier work on Birmingham’s memorandum. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Open source on project1947.com.</span></span></span>
+The [Parramatta]({{ 'parramatta-1868/' | relative_url }}) case associated with Frederick William Birmingham is the best example. Later UFO writers have described Birmingham’s 1868 “vision” of a machine or ark-like object at Parramatta as an early Australian UFO narrative. Recent discussion by Australian researcher Bill Chalker’s *Oz Files* blog treats it as historically interesting and reports additional documentary material connected with Birmingham’s ideas about a machine “to navigate the air”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[The Oz Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1868 ufo vision of frederick</span><span class="citation-popover-snippet">the 1868 ufo vision of frederick</span></span></span> Keith Basterfield’s catalogue similarly summarises the case as a “wonderful dream” or vision involving an “ark” and a “machine to go through the air”, sourced through Chalker’s earlier work on Birmingham’s memorandum.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Open source on project1947.com.</span></span></span>
 
 The weakness is obvious: this is not a modern sighting report with a time, direction, duration, corroborating witnesses and environmental checks. It is closer to a visionary or proto-aviation text. Its value is cultural and historical, not evidential in the same sense as an aviation incident. It shows that later readers often retrofit older strange-air stories into UFO history, especially when the wording resembles later technology.
 
@@ -393,13 +393,13 @@ A practical reading test helps separate useful testimony from media afterlife:
 
 </div>
 
-Modern UAP research bodies make the same basic point in more technical language. NASA’s UAP work stresses the need for better data and systematic study rather than relying only on scattered accounts, while the US All-domain Anomaly Resolution Office states that it has found no verifiable evidence that any UAP sighting represents extraterrestrial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">media engagement with acting aaro director tim phillips on the historical recor</span><span class="citation-popover-snippet">media engagement with acting aaro director tim phillips on the historical recor</span></span></span> Those sources are not NSW-specific, but they clarify why old media cases should be handled with discipline: extraordinary interpretations require more than a vivid report.
+Modern UAP research bodies make the same basic point in more technical language. NASA’s UAP work stresses the need for better data and systematic study rather than relying only on scattered accounts, while the US All-domain Anomaly Resolution Office states that it has found no verifiable evidence that any UAP sighting represents extraterrestrial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">media engagement with acting aaro director tim phillips on the historical recor</span><span class="citation-popover-snippet">media engagement with acting aaro director tim phillips on the historical recor</span></span></span> Those sources are not NSW-specific, but they clarify why old media cases should be handled with discipline: extraordinary interpretations require more than a vivid report.
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_media_memory_7f75c6-Illustration-3-dark.svg" | relative_url }}" alt="Media Memory illustration 3" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_media_memory_7f75c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_media_memory_7f75c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Media Memory Adds to NSW UFO History
 
-Media coverage is not just noise around NSW UFO cases. It is part of the evidence trail. Without newspapers and later broadcast coverage, many sightings would have vanished completely. Local articles preserve witness wording, community reaction and the moment before a case was polished into legend. Civilian publications such as UFO Reporter also show how NSW researchers gathered local clippings, compared reports and tried to identify patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/UFO_Reporter_Vol_5_No_1/UFO_Reporter_Vol_5_No_1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span></span></span>
+Media coverage is not just noise around NSW UFO cases. It is part of the evidence trail. Without newspapers and later broadcast coverage, many sightings would have vanished completely. Local articles preserve witness wording, community reaction and the moment before a case was polished into legend. Civilian publications such as UFO Reporter also show how NSW researchers gathered local clippings, compared reports and tried to identify patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/UFO_Reporter_Vol_5_No_1/UFO_Reporter_Vol_5_No_1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO Reporter Vol 5 No 1</span></span></span>
 
 The problem is that media memory rewards drama more than resolution. A report with a possible helicopter explanation may be remembered as a mystery. A claimed video may be remembered as “filmed proof” even if no public technical analysis survives. A visionary nineteenth-century text may be promoted as an early UFO case because it sounds uncanny in hindsight. A serious aviation case may be simplified until later conventional hypotheses disappear from view.
 
@@ -412,194 +412,194 @@ For New South Wales, the lesson is balanced rather than dismissive. Headlines he
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Headlines Shape NSW UFO Legends. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Headlines Shape NSW UFO Legends. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how UFO reports are collected, classified, and interpreted over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO reports are collected, classified, and interpreted over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on witness testimony, official records, and evaluating sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness testimony, official records, and evaluating sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how modern UFO narratives become embedded in society and collective memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how modern UFO narratives become embedded in society and collective memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Directly examines UFO claims, evidence standards, reporting, and how stories persist in public discourse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines UFO claims, evidence standards, reporting, and how stories persist in public discourse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm"><img src="{{ '/assets/images/marketplace-covers/bce7e59e976a632258ff.jpg' | relative_url }}" alt="Listing image for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-memory-how-headlines-shape-nsw-ufo-legends-new-south-wales-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-headlines-shape-nsw-ufo-legends-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -615,7 +615,7 @@ For New South Wales, the lesson is balanced rather than dismissive. Headlines he
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -635,7 +635,7 @@ For New South Wales, the lesson is balanced rather than dismissive. Headlines he
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -667,7 +667,7 @@ For New South Wales, the lesson is balanced rather than dismissive. Headlines he
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -719,7 +719,7 @@ For New South Wales, the lesson is balanced rather than dismissive. Headlines he
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -764,7 +764,7 @@ For New South Wales, the lesson is balanced rather than dismissive. Headlines he
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -805,190 +805,190 @@ For New South Wales, the lesson is balanced rather than dismissive. Headlines he
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: naa.gov.au  
    Title: NAAFlying saucers – fact or fiction? | naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: project1947.com  
    Title: sea fury 1954  
-   Link: <a href="https://www.project1947.com/kbcat/sea_fury_1954.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/sea_fury_1954.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/sea_fury_1954.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/sea_fury_1954.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "UFO Reporter Vol 5 No 1"  
-   Link: <a href="https://archive.org/stream/UFO_Reporter_Vol_5_No_1/UFO_Reporter_Vol_5_No_1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_Reporter_Vol_5_No_1/UFO_Reporter_Vol_5_No_1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/UFO_Reporter_Vol_5_No_1/UFO_Reporter_Vol_5_No_1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_Reporter_Vol_5_No_1/UFO_Reporter_Vol_5_No_1_djvu.txt</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rense.com  
-   Link: <a href="https://rense.com/ufo5/aussieufo_u.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/ufo5/aussieufo_u.htm</a>  
+   Link:<a href="https://rense.com/ufo5/aussieufo_u.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/ufo5/aussieufo_u.htm</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: groups.google.com  
-   Link: <a href="https://groups.google.com/g/alt.ufo.reports/c/VkiBwriHVjs" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/alt.ufo.reports/c/VkiBwriHVjs</a>  
+   Link:<a href="https://groups.google.com/g/alt.ufo.reports/c/VkiBwriHVjs" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/alt.ufo.reports/c/VkiBwriHVjs</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: groups.google.com  
    Title: ZDUSp Ld Mu DE  
-   Link: <a href="https://groups.google.com/g/fido7.ru.ufo/c/ZDUSpLdMuDE" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/fido7.ru.ufo/c/ZDUSpLdMuDE</a>  
+   Link:<a href="https://groups.google.com/g/fido7.ru.ufo/c/ZDUSpLdMuDE" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/fido7.ru.ufo/c/ZDUSpLdMuDE</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/49610401" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/49610401</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/49610401" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/49610401</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: search.sl.nsw.gov.au  
-   Link: <a href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay/SLNSW_ALMA21106647330002626/SLNSW" target="_blank" rel="noopener noreferrer nofollow">https://search.sl.nsw.gov.au/primo-explore/fulldisplay/SLNSW_ALMA21106647330002626/SLNSW</a>  
+   Link:<a href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay/SLNSW_ALMA21106647330002626/SLNSW" target="_blank" rel="noopener noreferrer nofollow">https://search.sl.nsw.gov.au/primo-explore/fulldisplay/SLNSW_ALMA21106647330002626/SLNSW</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: newcastleherald.com.au  
    Title: ufo mystery in gosford on new years eve 1995 with moira mcghee  
-   Link: <a href="https://www.newcastleherald.com.au/story/9140958/ufo-mystery-in-gosford-on-new-years-eve-1995-with-moira-mcghee/" target="_blank" rel="noopener noreferrer nofollow">https://www.newcastleherald.com.au/story/9140958/ufo-mystery-in-gosford-on-new-years-eve-1995-with-moira-mcghee/</a>  
+   Link:<a href="https://www.newcastleherald.com.au/story/9140958/ufo-mystery-in-gosford-on-new-years-eve-1995-with-moira-mcghee/" target="_blank" rel="noopener noreferrer nofollow">https://www.newcastleherald.com.au/story/9140958/ufo-mystery-in-gosford-on-new-years-eve-1995-with-moira-mcghee/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theozfiles.blogspot.com  
    Title: the 1868 ufo vision of frederick  
-   Link: <a href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html</a>  
+   Link:<a href="https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2023/12/the-1868-ufo-vision-of-frederick.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: naa.gov.au  
    Title: fact sheets  
-   Link: <a href="https://www.naa.gov.au/help-your-research/fact-sheets" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/help-your-research/fact-sheets</a>  
+   Link:<a href="https://www.naa.gov.au/help-your-research/fact-sheets" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/help-your-research/fact-sheets</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/312684935495543/posts/6797462170351088/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/312684935495543/posts/6797462170351088/</a>  
+   Link:<a href="https://www.facebook.com/groups/312684935495543/posts/6797462170351088/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/312684935495543/posts/6797462170351088/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/312684935495543/posts/2486653461432002/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/312684935495543/posts/2486653461432002/</a>  
+   Link:<a href="https://www.facebook.com/groups/312684935495543/posts/2486653461432002/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/312684935495543/posts/2486653461432002/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/629810917109125/posts/9799048606851931/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/629810917109125/posts/9799048606851931/</a>  
+   Link:<a href="https://www.facebook.com/groups/629810917109125/posts/9799048606851931/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/629810917109125/posts/9799048606851931/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/18158998" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18158998</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/18158998" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/18158998</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: trove.nla.gov.au  
    Title: nla.gov.au"FLYING SAUCERS" CONFIRMED BY NOWRA RADAR  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/96500678" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/96500678</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/96500678" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/96500678</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: abc.net.au  
    Title: min min lights seen in outback  
-   Link: <a href="https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058</a>  
+   Link:<a href="https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: abc.net.au  
    Title: westall ufo mystery witnesses want answers  
-   Link: <a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
+   Link:<a href="https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-04-06/westall-ufo-mystery-witnesses-want-answers/106126614</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: abc.net.au  
    Title: curious adelaide ufo sightings across australia  
-   Link: <a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
+   Link:<a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: australianacademicpress.com.au  
-   Link: <a href="https://www.australianacademicpress.com.au/aap_blog/post/flying-saucers-over-alice-springs" target="_blank" rel="noopener noreferrer nofollow">https://www.australianacademicpress.com.au/aap_blog/post/flying-saucers-over-alice-springs</a>  
+   Link:<a href="https://www.australianacademicpress.com.au/aap_blog/post/flying-saucers-over-alice-springs" target="_blank" rel="noopener noreferrer nofollow">https://www.australianacademicpress.com.au/aap_blog/post/flying-saucers-over-alice-springs</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: blogs.slv.vic.gov.au  
    Title: strange lights in the sky the westall ufo event 1966  
-   Link: <a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
+   Link:<a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: UFO Mystery Back In Spotlight As Witnesses Claim Cover Up | 10 News+  
-   Link: <a href="https://www.youtube.com/watch?v=OhAcIsKJcCQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OhAcIsKJcCQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &amp; UAP &#x27;Need to Know&#x27; News Documentary with Coulthart &amp; Zabel | 7NEWS Spotlight...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OhAcIsKJcCQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OhAcIsKJcCQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &amp; UAP &#x27;Need to Know&#x27; News Documentary with Coulthart &amp; Zabel | 7NEWS Spotlight...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Westall's 50-year-old UFO sighting emerges again | 7NEWS  
-   Link: <a href="https://www.youtube.com/watch?v=yePuBSftyhQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yePuBSftyhQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yePuBSftyhQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yePuBSftyhQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Melbourne UFO Mystery: 50 Years On | Studio 10  
-   Link: <a href="https://www.youtube.com/watch?v=sPHVvg-dXOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPHVvg-dXOs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mystery Back In Spotlight As Witnesses Claim Cover Up | 10 News+...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sPHVvg-dXOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPHVvg-dXOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mystery Back In Spotlight As Witnesses Claim Cover Up | 10 News+...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sm6AL5lA4Zc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sm6AL5lA4Zc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Melbourne UFO Mystery: 50 Years On | Studio 10...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sm6AL5lA4Zc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sm6AL5lA4Zc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Melbourne UFO Mystery: 50 Years On | Studio 10...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2</a>  
+   Link:<a href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/melbourne/comments/1si6v7j/after_60_years_witnesses_to_australias_biggest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/melbourne/comments/1si6v7j/after_60_years_witnesses_to_australias_biggest/</a>  
+   Link:<a href="https://www.reddit.com/r/melbourne/comments/1si6v7j/after_60_years_witnesses_to_australias_biggest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/melbourne/comments/1si6v7j/after_60_years_witnesses_to_australias_biggest/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/492616223/Australian-UFO-Magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/492616223/Australian-UFO-Magazine</a>  
+   Link:<a href="https://www.scribd.com/document/492616223/Australian-UFO-Magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/492616223/Australian-UFO-Magazine</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2513639668759108/posts/24460956840267409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2513639668759108/posts/24460956840267409/</a>  
+   Link:<a href="https://www.facebook.com/groups/2513639668759108/posts/24460956840267409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2513639668759108/posts/24460956840267409/</a>  

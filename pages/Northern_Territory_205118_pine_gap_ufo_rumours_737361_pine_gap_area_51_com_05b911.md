@@ -262,7 +262,7 @@ image: /assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine
 
 ## Introduction
 
-[Pine Gap]({{ 'pine-gap/' | relative_url }}) is often called “Australia’s Area 51”, but the comparison is more cultural than factual. Both sites are remote, heavily guarded facilities linked to the United States and surrounded by public curiosity. Those similarities have encouraged decades of speculation, including UFO rumours. Yet the documented role of Pine Gap points towards satellite intelligence, signals interception and missile-warning functions rather than the testing, storage or investigation of alien spacecraft. Understanding why the comparison emerged helps explain an important strand of [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) UFO folklore: how secrecy itself can become a source of extraordinary stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/australia-has-its-very-own-area-51-80544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience+2Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Australia Has Its Very Own &quot;Area 51</span><span class="citation-popover-snippet">Officially known as the Joint Defence Facility Pine Gap – or just Pine Gap...Read more...</span></span></span>
+[Pine Gap]({{ 'pine-gap/' | relative_url }}) is often called “Australia’s Area 51”, but the comparison is more cultural than factual. Both sites are remote, heavily guarded facilities linked to the United States and surrounded by public curiosity. Those similarities have encouraged decades of speculation, including UFO rumours. Yet the documented role of Pine Gap points towards satellite intelligence, signals interception and missile-warning functions rather than the testing, storage or investigation of alien spacecraft. Understanding why the comparison emerged helps explain an important strand of [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) UFO folklore: how secrecy itself can become a source of extraordinary stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/australia-has-its-very-own-area-51-80544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[iflscience.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Australia Has Its Very Own &quot;Area 51</span><span class="citation-popover-snippet">Officially known as the Joint Defence Facility Pine Gap – or just Pine Gap...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_area_51_com_05b911-Illustration-1-dark.svg" | relative_url }}" alt="Area 51 claim illustration 1" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_area_51_com_05b911-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_area_51_com_05b911-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -276,9 +276,9 @@ Several features made the comparison attractive:
 * **Restricted access.** The public cannot freely enter the facility, and much of its day-to-day operation remains classified.
 * **A strong US connection.** Pine Gap is a joint Australian–American facility, while Area 51 is one of the best-known secretive US military sites.
 * **Visible but unexplained infrastructure.** The distinctive [radomes]({{ 'radomes/' | relative_url }}) covering satellite dishes are highly visible from outside the base, yet many of their functions are not obvious to casual observers.
-* **Limited official discussion.** Governments have historically revealed only part of the facility’s role, creating space for rumours to flourish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — The Pine Gap intelligence-gathering facility is often d...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+* **Limited official discussion.** Governments have historically revealed only part of the facility’s role, creating space for rumours to flourish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — The Pine Gap intelligence-gathering facility is often d...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-As Pine Gap became better known through media reports, protests, documentaries and popular culture, journalists and commentators increasingly used “Australia’s Area 51” as a shorthand description. The phrase was memorable and immediately conveyed the idea of a secret installation hidden in the outback. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/australia-has-its-very-own-area-51-80544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience+2youngausint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Australia Has Its Very Own &quot;Area 51</span><span class="citation-popover-snippet">Officially known as the Joint Defence Facility Pine Gap – or just Pine Gap...Read more...</span></span></span>
+As Pine Gap became better known through media reports, protests, documentaries and popular culture, journalists and commentators increasingly used “Australia’s Area 51” as a shorthand description. The phrase was memorable and immediately conveyed the idea of a secret installation hidden in the outback.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/australia-has-its-very-own-area-51-80544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[iflscience.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Australia Has Its Very Own &quot;Area 51</span><span class="citation-popover-snippet">Officially known as the Joint Defence Facility Pine Gap – or just Pine Gap...Read more...</span></span></span>
 
 Within Northern Territory UFO culture, the comparison gained further momentum because many people already associated secret military facilities with hidden aerospace projects. Once Pine Gap acquired the Area 51 label, UFO stories were often attached to it whether or not they had any direct evidence behind them.
 
@@ -293,11 +293,11 @@ The comparison is not entirely baseless. Pine Gap and Area 51 do have some genui
 
 Both facilities became famous partly because outsiders knew they existed but knew relatively little about what happened inside. This creates an information gap that rumours naturally fill.
 
-For decades, Pine Gap's exact capabilities were discussed only in broad terms. Researchers, journalists and former officials gradually revealed more about its intelligence functions, but much remains classified. Area 51 developed a similar reputation through decades of limited public acknowledgement and restricted access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
+For decades, Pine Gap's exact capabilities were discussed only in broad terms. Researchers, journalists and former officials gradually revealed more about its intelligence functions, but much remains classified. Area 51 developed a similar reputation through decades of limited public acknowledgement and restricted access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
 
 ### Strategic military importance
 
-Both sites support major national-security activities. Pine Gap plays a role in signals intelligence, satellite operations and missile-warning systems that serve Australia and the United States. Area 51 has long been associated with the testing and development of advanced military aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus+2pyneonline.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
+Both sites support major national-security activities. Pine Gap plays a role in signals intelligence, satellite operations and missile-warning systems that serve Australia and the United States. Area 51 has long been associated with the testing and development of advanced military aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
 
 To ordinary observers, highly classified military technology can appear unusual or even inexplicable. Historically, many UFO reports around military sites worldwide have later turned out to involve secret aircraft, satellites or defence programmes rather than unknown craft.
 
@@ -318,15 +318,15 @@ The strongest evidence suggests that Pine Gap differs from Area 51 in the very a
 
 ### Pine Gap's known role is satellite intelligence
 
-Researchers, parliamentary discussions and official statements consistently describe Pine Gap as a ground station supporting intelligence satellites, communications interception and missile-warning systems. Its origins lie in Cold War surveillance and signals intelligence rather than experimental aircraft development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[PM Transcripts+4Nautilus+4Australian Print Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
+Researchers, parliamentary discussions and official statements consistently describe Pine Gap as a ground station supporting intelligence satellites, communications interception and missile-warning systems. Its origins lie in Cold War surveillance and signals intelligence rather than experimental aircraft development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
 
-Over time, additional reporting and declassified information have reinforced this picture. Pine Gap has been linked to geosynchronous intelligence satellites, communications interception and support for military intelligence operations. While many details remain classified, the broad purpose of the facility is far better documented than UFO theories suggest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/listen/programs/backgroundbriefing/the-base-pine-gaps-role-in-us-warfighting/8813604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2UNSW Sites]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News The Base: Pine Gap&#x27;s role in US Warfighting</span><span class="citation-popover-snippet">ABC NewsThe Base: Pine Gap&#x27;s role in US Warfighting - ABC listenAug 20, 2017 — Uncover the crucial role the US-Australian satellite surve...</span></span></span>
+Over time, additional reporting and declassified information have reinforced this picture. Pine Gap has been linked to geosynchronous intelligence satellites, communications interception and support for military intelligence operations. While many details remain classified, the broad purpose of the facility is far better documented than UFO theories suggest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/listen/programs/backgroundbriefing/the-base-pine-gaps-role-in-us-warfighting/8813604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News The Base: Pine Gap&#x27;s role in US Warfighting</span><span class="citation-popover-snippet">ABC NewsThe Base: Pine Gap&#x27;s role in US Warfighting - ABC listenAug 20, 2017 — Uncover the crucial role the US-Australian satellite surve...</span></span></span>
 
 ### No credible evidence of alien technology
 
 Unlike popular stories surrounding Area 51, Pine Gap has not produced a well-supported body of evidence pointing to recovered spacecraft, alien bodies or reverse-engineering programmes.
 
-Claims occasionally appear in UFO literature, online forums and social media discussions, but they generally rely on speculation, anonymous testimony or repetition of earlier rumours rather than verifiable documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1behxmx/discussingthe_ufo_to_big_to_move_hidden_under_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">DiscussingThe UFO to big to move, Hidden under a...March 14, 2024 — Pine Gap is an American satellite intelligence gathering and s...</span><span class="citation-popover-meta">Published: March 14, 2024</span></span></span>
+Claims occasionally appear in UFO literature, online forums and social media discussions, but they generally rely on speculation, anonymous testimony or repetition of earlier rumours rather than verifiable documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1behxmx/discussingthe_ufo_to_big_to_move_hidden_under_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">DiscussingThe UFO to big to move, Hidden under a...March 14, 2024 — Pine Gap is an American satellite intelligence gathering and s...</span><span class="citation-popover-meta">Published: March 14, 2024</span></span></span>
 
 The key distinction is that Pine Gap's secrecy can largely be explained by known intelligence and defence functions. Investigators do not need an extraterrestrial explanation to account for restricted access, security measures or classified operations.
 
@@ -336,211 +336,211 @@ The key distinction is that Pine Gap's secrecy can largely be explained by known
 
 What makes Pine Gap interesting is not necessarily what is hidden from the public, but the scale of the intelligence activities that are openly acknowledged.
 
-Many people encounter the base expecting a UFO mystery and instead discover a story about Cold War surveillance, satellite networks, intelligence-sharing and Australia's role in global security arrangements. Those realities are less sensational than alien spacecraft, but they are also much better supported by available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[IPAN+3Nautilus+3ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
+Many people encounter the base expecting a UFO mystery and instead discover a story about Cold War surveillance, satellite networks, intelligence-sharing and Australia's role in global security arrangements. Those realities are less sensational than alien spacecraft, but they are also much better supported by available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
 
 ## Why the comparison matters in Northern Territory UFO history
 
 The “Australia’s Area 51” label has had a lasting influence on how UFO stories are interpreted in the Northern Territory.
 
-Rather than generating a major UFO case of its own, Pine Gap functions as a focal point for speculation. Reports of unusual lights, aircraft or unexplained activity in Central Australia are sometimes connected to the base because it already carries a reputation for secrecy. In this sense, Pine Gap acts as a cultural magnet within the Territory's UFO landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/australia-has-its-very-own-area-51-80544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Australia Has Its Very Own &quot;Area 51</span><span class="citation-popover-snippet">Officially known as the Joint Defence Facility Pine Gap – or just Pine Gap...Read more...</span></span></span>
+Rather than generating a major UFO case of its own, Pine Gap functions as a focal point for speculation. Reports of unusual lights, aircraft or unexplained activity in Central Australia are sometimes connected to the base because it already carries a reputation for secrecy. In this sense, Pine Gap acts as a cultural magnet within the Territory's UFO landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/australia-has-its-very-own-area-51-80544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Australia Has Its Very Own &quot;Area 51</span><span class="citation-popover-snippet">Officially known as the Joint Defence Facility Pine Gap – or just Pine Gap...Read more...</span></span></span>
 
 The comparison also illustrates a broader pattern seen in UFO history. When a location combines restricted access, advanced technology and limited public information, rumours often grow faster than evidence. Pine Gap became Australia's Area 51 not because investigators uncovered convincing proof of alien activity there, but because it possessed many of the ingredients that make such stories attractive in the first place.
 
-For readers examining Northern Territory UFO history, that distinction is important. Pine Gap remains one of the most famous locations associated with Australian UFO speculation, yet the strongest available evidence points towards a secretive intelligence facility whose real-world functions are largely terrestrial, strategic and military rather than extraterrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Australian Parliament House+3Nautilus+3ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
+For readers examining Northern Territory UFO history, that distinction is important. Pine Gap remains one of the most famous locations associated with Australian UFO speculation, yet the strongest available evidence points towards a secretive intelligence facility whose real-world functions are largely terrestrial, strategic and military rather than extraterrestrial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gG0H421yBSg" title="Spy base Pine Gap’s role in Iran strike" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gG0H421yBSg" target="_blank" rel="noopener noreferrer">Spy base Pine Gap’s role in Iran strike</a></p><p class="youtube-embed-meta">Channel: The Australian</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gG0H421yBSg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gG0H421yBSg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Pine Gap Really Australia&#x27;s Area 51?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Pine Gap Really Australia&#x27;s Area 51?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how military secrecy and UFO claims become linked.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how military secrecy and UFO claims become linked.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Directly addresses the Area 51 comparison that frames the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the Area 51 comparison that frames the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pine+Gap+by+DAVID.+ROSENBERG&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pine Gap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lrs-uwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Pine Gap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pine+Gap+by+DAVID.+ROSENBERG&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pine Gap">Pine Gap</a>
-        </h4>
-        <p class="fr-book-author">By DAVID. ROSENBERG</p>
-        <p class="fr-book-popularity">Rating: 5.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains Pine Gap&#x27;s documented intelligence role, contrasting with UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pine+Gap+by+DAVID.+ROSENBERG&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pine+Gap+by+DAVID.+ROSENBERG&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pine Gap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lrs-uwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Pine Gap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pine+Gap+by+DAVID.+ROSENBERG&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pine Gap">Pine Gap</a>
+</h4>
+<p class="fr-book-author">By DAVID. ROSENBERG</p>
+<p class="fr-book-popularity">Rating: 5.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explains Pine Gap&#x27;s documented intelligence role, contrasting with UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pine+Gap+by+DAVID.+ROSENBERG&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores classified military and intelligence programs that fuel public speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores classified military and intelligence programs that fuel public speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pine+Gap&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pine Gap</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pine+Gap&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pine Gap</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift"><img src="{{ '/assets/images/marketplace-covers/9d2e078b71d572691f24.jpg' | relative_url }}" alt="Listing image for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift"><img src="{{ '/assets/images/marketplace-covers/9d2e078b71d572691f24.jpg' | relative_url }}" alt="Listing image for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting"><img src="{{ '/assets/images/marketplace-covers/b962bd3da6424d670f7d.jpg' | relative_url }}" alt="Listing image for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting"><img src="{{ '/assets/images/marketplace-covers/b962bd3da6424d670f7d.jpg' | relative_url }}" alt="Listing image for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="area-51-claim-is-pine-gap-really-australia-s-area-51-northern-territory-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ For readers examining Northern Territory UFO history, that distinction is import
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ For readers examining Northern Territory UFO history, that distinction is import
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ For readers examining Northern Territory UFO history, that distinction is import
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ For readers examining Northern Territory UFO history, that distinction is import
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ For readers examining Northern Territory UFO history, that distinction is import
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,150 +746,150 @@ For readers examining Northern Territory UFO history, that distinction is import
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: iflscience.com  
    Title: Australia Has Its Very Own "Area 51"  
-   Link: <a href="https://www.iflscience.com/australia-has-its-very-own-area-51-80544" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/australia-has-its-very-own-area-51-80544</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Officially known as the Joint Defence Facility Pine Gap – or just Pine Gap...Read more...</p></details>
+   Link:<a href="https://www.iflscience.com/australia-has-its-very-own-area-51-80544" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/australia-has-its-very-own-area-51-80544</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Officially known as the Joint Defence Facility Pine Gap – or just Pine Gap...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nautilus.org  
-   Link: <a href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</p></details>
+   Link:<a href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pyneonline.com.au  
    Title: Ministerial Statement  
-   Link: <a href="https://www.pyneonline.com.au/media-centre/speeches/ministerial-statement-joint-facilities-enhancing-australias-security-and-prosperity" target="_blank" rel="noopener noreferrer nofollow">https://www.pyneonline.com.au/media-centre/speeches/ministerial-statement-joint-facilities-enhancing-australias-security-and-prosperity</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Facilities20 Feb 2019 — Reliable, early and accurate warning of ballistic missile launches provides a crucial contribution to globa...</p></details>
+   Link:<a href="https://www.pyneonline.com.au/media-centre/speeches/ministerial-statement-joint-facilities-enhancing-australias-security-and-prosperity" target="_blank" rel="noopener noreferrer nofollow">https://www.pyneonline.com.au/media-centre/speeches/ministerial-statement-joint-facilities-enhancing-australias-security-and-prosperity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Facilities20 Feb 2019 — Reliable, early and accurate warning of ballistic missile launches provides a crucial contribution to globa...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1behxmx/discussingthe_ufo_to_big_to_move_hidden_under_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1behxmx/discussingthe_ufo_to_big_to_move_hidden_under_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DiscussingThe UFO to big to move, Hidden under a...March 14, 2024 — Pine Gap is an American satellite intelligence gathering and s...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1behxmx/discussingthe_ufo_to_big_to_move_hidden_under_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1behxmx/discussingthe_ufo_to_big_to_move_hidden_under_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DiscussingThe UFO to big to move, Hidden under a...March 14, 2024 — Pine Gap is an American satellite intelligence gathering and s...</p></details>
    Published: March 14, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ipan.org.au  
    Title: joint defence facility pine gap  
-   Link: <a href="https://ipan.org.au/joint-defence-facility-pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://ipan.org.au/joint-defence-facility-pine-gap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2000 — Pine Gap is a joint Australian–United States satellite communications and signals intelligence surveillance base and Austra...</p></details>
+   Link:<a href="https://ipan.org.au/joint-defence-facility-pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://ipan.org.au/joint-defence-facility-pine-gap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2000 — Pine Gap is a joint Australian–United States satellite communications and signals intelligence surveillance base and Austra...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskAnAustralian/comments/1czynj3/what_do_australians_think_of_pine_gap_insofar_as/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskAnAustralian/comments/1czynj3/what_do_australians_think_of_pine_gap_insofar_as/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>C documentary about the history of Pine Gap, and how important it was for...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskAnAustralian/comments/1czynj3/what_do_australians_think_of_pine_gap_insofar_as/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskAnAustralian/comments/1czynj3/what_do_australians_think_of_pine_gap_insofar_as/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C documentary about the history of Pine Gap, and how important it was for...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/friendlyjordies/comments/1m04koc/the_huge_desert_base_that_doesnt_officially_exist/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/friendlyjordies/comments/1m04koc/the_huge_desert_base_that_doesnt_officially_exist/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Echelon Project. That video concentrates on military and the possibility of surveillance of Australians anything...</p></details>
+   Link:<a href="https://www.reddit.com/r/friendlyjordies/comments/1m04koc/the_huge_desert_base_that_doesnt_officially_exist/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/friendlyjordies/comments/1m04koc/the_huge_desert_base_that_doesnt_officially_exist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Echelon Project. That video concentrates on military and the possibility of surveillance of Australians anything...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abc.net.au  
    Title: backstory expanse podcast spies in the outback pine gap barwick  
-   Link: <a href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — The Pine Gap intelligence-gathering facility is often d...</p></details>
+   Link:<a href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — The Pine Gap intelligence-gathering facility is often d...</p></details>
    Published: May 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youngausint.org.au  
    Title: australias own area 51 pine gap  
-   Link: <a href="https://www.youngausint.org.au/post/2015/06/12/australias-own-area-51-pine-gap" target="_blank" rel="noopener noreferrer nofollow">https://www.youngausint.org.au/post/2015/06/12/australias-own-area-51-pine-gap</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s own Area 51: Pine Gap12 June 2015 — The top secret Central Australian spy base of Pine Gap has taken on greater intelligence...</p></details>
+   Link:<a href="https://www.youngausint.org.au/post/2015/06/12/australias-own-area-51-pine-gap" target="_blank" rel="noopener noreferrer nofollow">https://www.youngausint.org.au/post/2015/06/12/australias-own-area-51-pine-gap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s own Area 51: Pine Gap12 June 2015 — The top secret Central Australian spy base of Pine Gap has taken on greater intelligence...</p></details>
    Published: June 2015  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aph.gov.au  
    Title: Australian Parliament House Hansard  
-   Link: <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F&amp;sid=0024" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F&amp;sid=0024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Parliament HouseHansard - House of Representatives 20/02/2019...As the minister outlined, Pine Gap is involved in the collect...</p></details>
+   Link:<a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F&amp;sid=0024" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2Fe0e7b3e2-2c86-47b4-8de2-de9e8f0f224b%2F&amp;sid=0024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Parliament HouseHansard - House of Representatives 20/02/2019...As the minister outlined, Pine Gap is involved in the collect...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: apo.org.au  
-   Link: <a href="https://apo.org.au/node/65059" target="_blank" rel="noopener noreferrer nofollow">https://apo.org.au/node/65059</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Print OfficeThe militarisation of Pine Gap: organisations and personnelby D Ball · 2015 · Cited by 4 — Its original and still...</p></details>
+   Link:<a href="https://apo.org.au/node/65059" target="_blank" rel="noopener noreferrer nofollow">https://apo.org.au/node/65059</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Print OfficeThe militarisation of Pine Gap: organisations and personnelby D Ball · 2015 · Cited by 4 — Its original and still...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmtranscripts.pmc.gov.au  
    Title: transcript 7438  
-   Link: <a href="https://pmtranscripts.pmc.gov.au/release/transcript-7438" target="_blank" rel="noopener noreferrer nofollow">https://pmtranscripts.pmc.gov.au/release/transcript-7438</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PM TranscriptsTranscript 7438 - PM Transcriptsseparate roles of Pine Gap and Nurrungar. Nurrungar is a ground station used for. controll...</p></details>
+   Link:<a href="https://pmtranscripts.pmc.gov.au/release/transcript-7438" target="_blank" rel="noopener noreferrer nofollow">https://pmtranscripts.pmc.gov.au/release/transcript-7438</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PM TranscriptsTranscript 7438 - PM Transcriptsseparate roles of Pine Gap and Nurrungar. Nurrungar is a ground station used for. controll...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abc.net.au  
    Title: ABC News The Base: Pine Gap's role in US Warfighting  
-   Link: <a href="https://www.abc.net.au/listen/programs/backgroundbriefing/the-base-pine-gaps-role-in-us-warfighting/8813604" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/backgroundbriefing/the-base-pine-gaps-role-in-us-warfighting/8813604</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsThe Base: Pine Gap&#x27;s role in US Warfighting - ABC listenAug 20, 2017 — Uncover the crucial role the US-Australian satellite surve...</p></details>
+   Link:<a href="https://www.abc.net.au/listen/programs/backgroundbriefing/the-base-pine-gaps-role-in-us-warfighting/8813604" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/backgroundbriefing/the-base-pine-gaps-role-in-us-warfighting/8813604</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsThe Base: Pine Gap&#x27;s role in US Warfighting - ABC listenAug 20, 2017 — Uncover the crucial role the US-Australian satellite surve...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unsw.edu.au  
    Title: pine gap s new spy role revealed  
-   Link: <a href="https://www.unsw.edu.au/newsroom/news/2015/06/pine-gap_s-new-spy-role-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/newsroom/news/2015/06/pine-gap_s-new-spy-role-revealed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap&#x27;s new spy role revealedJun 1, 2015 — The United States–Australia Joint Defence Facility at Pine Gap is now engaged in foreign sa...</p></details>
+   Link:<a href="https://www.unsw.edu.au/newsroom/news/2015/06/pine-gap_s-new-spy-role-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/newsroom/news/2015/06/pine-gap_s-new-spy-role-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap&#x27;s new spy role revealedJun 1, 2015 — The United States–Australia Joint Defence Facility at Pine Gap is now engaged in foreign sa...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Pine Gap  
-   Link: <a href="https://en.wikipedia.org/wiki/Pine_Gap" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pine_Gap</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pine GapPine Gap is a joint Australian-United States satellite communications and signals intelligence surveillance base and Australia...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Pine_Gap" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pine_Gap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pine GapPine Gap is a joint Australian-United States satellite communications and signals intelligence surveillance base and Australia...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2026-03-24/pine-gap-alice-springs-residents-conflicted/106468888" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-03-24/pine-gap-alice-springs-residents-conflicted/106468888</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alice Springs residents conflicted over Pine Gap&#x27;s role in...23 Mar 2026 — Defence experts agree its intelligence is probably being used...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2026-03-24/pine-gap-alice-springs-residents-conflicted/106468888" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-03-24/pine-gap-alice-springs-residents-conflicted/106468888</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alice Springs residents conflicted over Pine Gap&#x27;s role in...23 Mar 2026 — Defence experts agree its intelligence is probably being used...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: australianforeignaffairs.com  
-   Link: <a href="https://www.australianforeignaffairs.com/articles/extract/2020/02/silent-partners" target="_blank" rel="noopener noreferrer nofollow">https://www.australianforeignaffairs.com/articles/extract/2020/02/silent-partners</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Silent partners: US bases in AustraliaPine Gap (JDFPG) is a joint US/Australian defense facility whose function is to support the nationa...</p></details>
+   Link:<a href="https://www.australianforeignaffairs.com/articles/extract/2020/02/silent-partners" target="_blank" rel="noopener noreferrer nofollow">https://www.australianforeignaffairs.com/articles/extract/2020/02/silent-partners</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Silent partners: US bases in AustraliaPine Gap (JDFPG) is a joint US/Australian defense facility whose function is to support the nationa...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zgjLt3dyDWs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zgjLt3dyDWs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of the Joint Defence Facility Pine GapDavid Rosenberg speaks on the Role of the Joint Australian - US Defence Facility Pine Gap, Ali...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zgjLt3dyDWs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zgjLt3dyDWs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Role of the Joint Defence Facility Pine GapDavid Rosenberg speaks on the Role of the Joint Australian - US Defence Facility Pine Gap, Ali...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gG0H421yBSg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gG0H421yBSg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spy base Pine Gap&#x27;s role in Iran strikePine Gap or our other joint US base at Northwest Cape which is used to communicate with US nuclear...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gG0H421yBSg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gG0H421yBSg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spy base Pine Gap&#x27;s role in Iran strikePine Gap or our other joint US base at Northwest Cape which is used to communicate with US nuclear...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: journals.rudn.ru  
    Title: Scientific Periodicals Joint Defence Facility Pine Gap, Australia  
-   Link: <a href="https://journals.rudn.ru/public-administration/article/view/24025/en_US" target="_blank" rel="noopener noreferrer nofollow">https://journals.rudn.ru/public-administration/article/view/24025/en_US</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RUDN Scientific PeriodicalsJoint Defence Facility Pine Gap, Australia - Beckby M Beck · 2020 · Cited by 3 — From the base, the United Sta...</p></details>
+   Link:<a href="https://journals.rudn.ru/public-administration/article/view/24025/en_US" target="_blank" rel="noopener noreferrer nofollow">https://journals.rudn.ru/public-administration/article/view/24025/en_US</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RUDN Scientific PeriodicalsJoint Defence Facility Pine Gap, Australia - Beckby M Beck · 2020 · Cited by 3 — From the base, the United Sta...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aspistrategist.org.au  
    Title: since australia hosts us facilities we need a joint war plan  
-   Link: <a href="https://www.aspistrategist.org.au/since-australia-hosts-us-facilities-we-need-a-joint-war-plan/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/since-australia-hosts-us-facilities-we-need-a-joint-war-plan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since Australia hosts US facilities, we need a joint war plan12 Jul 2025 — Australia hosts several joint Australian-American facilities a...</p></details>
+   Link:<a href="https://www.aspistrategist.org.au/since-australia-hosts-us-facilities-we-need-a-joint-war-plan/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/since-australia-hosts-us-facilities-we-need-a-joint-war-plan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Since Australia hosts US facilities, we need a joint war plan12 Jul 2025 — Australia hosts several joint Australian-American facilities a...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1121214484648210/posts/25107792792230377/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1121214484648210/posts/25107792792230377/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>facility based in Pine Gap outside of Alice Springs in the Northern...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1121214484648210/posts/25107792792230377/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1121214484648210/posts/25107792792230377/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>facility based in Pine Gap outside of Alice Springs in the Northern...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: awm.gov.au  
-   Link: <a href="https://www.awm.gov.au/collection/LIB100048957" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/LIB100048957</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Rainfall: the secret history of Pine Gap / Tom...The job of the satellites controlled from Pine Gap was to eavesdrop on Soviet...</p></details>
+   Link:<a href="https://www.awm.gov.au/collection/LIB100048957" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/LIB100048957</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Rainfall: the secret history of Pine Gap / Tom...The job of the satellites controlled from Pine Gap was to eavesdrop on Soviet...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OVBbUpkgUiE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OVBbUpkgUiE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap &#x27;The Base&#x27; and the American spy in the desert who tells all | Spies in the Outback Ep4...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OVBbUpkgUiE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OVBbUpkgUiE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap &#x27;The Base&#x27; and the American spy in the desert who tells all | Spies in the Outback Ep4...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d again, making them some of the country&#x27;s most talked-about UFO...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d again, making them some of the country&#x27;s most talked-about UFO...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: redflag.org.au  
    Title: What you need to know about Pine Gap  
-   Link: <a href="https://redflag.org.au/article/what-you-need-to-know-about-pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://redflag.org.au/article/what-you-need-to-know-about-pine-gap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red FlagSep 11, 2025 — In short, Pine Gap has the capacity to control US military satellites, track missile launches, control military co...</p></details>
+   Link:<a href="https://redflag.org.au/article/what-you-need-to-know-about-pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://redflag.org.au/article/what-you-need-to-know-about-pine-gap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red FlagSep 11, 2025 — In short, Pine Gap has the capacity to control US military satellites, track missile launches, control military co...</p></details>

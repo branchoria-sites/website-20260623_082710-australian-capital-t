@@ -286,7 +286,7 @@ image: /assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f-overvi
 
 ## Introduction
 
-The [Australian Capital Territory]({{ 'australian-capital-territory/' | relative_url }})’s UFO significance is not only in what people saw over Canberra, but in where Australia’s official UFO paperwork could be followed. Canberra was the administrative setting for Defence, the Department of Air and later public access to Commonwealth records, while the National Archives of Australia became the place where many surviving “Unusual Aerial Sightings” files could be identified, requested, read and reinterpreted. The result is a different kind of UFO history: less a local legend than a record trail showing how reports were collected, classified, explained, filed, released and sometimes found wanting as evidence. The National Archives confirms that RAAF records of possible UFO sightings are retained in the national archival collection, and its own account says the RAAF stopped investigating sightings in 1994 after concluding that only a small proportion remained unexplained and posed little or no security threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — Royal Australian Airforce records documenting UFO sightings reported to the government...</span></span></span>
+The [Australian Capital Territory]({{ 'australian-capital-territory/' | relative_url }})’s UFO significance is not only in what people saw over Canberra, but in where Australia’s official UFO paperwork could be followed. Canberra was the administrative setting for Defence, the Department of Air and later public access to Commonwealth records, while the National Archives of Australia became the place where many surviving “Unusual Aerial Sightings” files could be identified, requested, read and reinterpreted. The result is a different kind of UFO history: less a local legend than a record trail showing how reports were collected, classified, explained, filed, released and sometimes found wanting as evidence. The National Archives confirms that RAAF records of possible UFO sightings are retained in the national archival collection, and its own account says the RAAF stopped investigating sightings in 1994 after concluding that only a small proportion remained unexplained and posed little or no security threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — Royal Australian Airforce records documenting UFO sightings reported to the government...</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f-overview.webp" | relative_url }}" alt="Overview image for Archives" loading="eager" decoding="sync" fetchpriority="high">
@@ -294,7 +294,7 @@ For ACT readers, this matters because Canberra sits at the centre of the officia
 
 ## What survives in official files
 
-The surviving Australian government UFO material is uneven but substantial. The strongest public anchor is the National Archives’ own description: postwar public fascination with “flying saucers” led Australians to report sightings to government, usually the Royal Australian Air Force, which used special forms to document details. The Archives frames this interest in Cold War and space-race terms: officials were not endorsing “little green men”, but keeping an open mind because unidentified objects, satellites, rockets and re-entry debris could have national security relevance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — Royal Australian Airforce records documenting UFO sightings reported to the government...</span></span></span>
+The surviving Australian government UFO material is uneven but substantial. The strongest public anchor is the National Archives’ own description: postwar public fascination with “flying saucers” led Australians to report sightings to government, usually the Royal Australian Air Force, which used special forms to document details. The Archives frames this interest in Cold War and space-race terms: officials were not endorsing “little green men”, but keeping an open mind because unidentified objects, satellites, rockets and re-entry debris could have national security relevance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — Royal Australian Airforce records documenting UFO sightings reported to the government...</span></span></span>
 
 That framing is important. It explains why official files can look intriguing without proving that officials believed in extraterrestrial craft. A RAAF form, a ministerial minute or a classified-looking cover sheet usually means a bureaucracy was recording and routing a report. It does not automatically mean the report was judged extraordinary. The files survive because public reports, military interest, aviation safety concerns and recordkeeping rules intersected.
 
@@ -310,7 +310,7 @@ The National Archives highlights several kinds of material that survive in the b
 
 </div>
 
-A concrete example shows the difference between a dramatic case and an archival case. The National Archives’ page on a 1960 Woomera-area report describes a confidential two-page document about an object seen near Wewak, within the Woomera Prohibited Area, and notes that the document formed part of a Department of Supply file later transferred to the Royal Commission into British Nuclear Tests in Australia. Its value is not that it proves an exotic craft; it shows that a UFO-like report could be preserved because it touched a sensitive weapons-testing environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, Woomera &#124; naa.gov.au</span></span></span>
+A concrete example shows the difference between a dramatic case and an archival case. The National Archives’ page on a 1960 Woomera-area report describes a confidential two-page document about an object seen near Wewak, within the Woomera Prohibited Area, and notes that the document formed part of a Department of Supply file later transferred to the Royal Commission into British Nuclear Tests in Australia. Its value is not that it proves an exotic craft; it shows that a UFO-like report could be preserved because it touched a sensitive weapons-testing environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, Woomera &#124; naa.gov.au</span></span></span>
 
 For the ACT branch, the key point is that Canberra’s importance lies in this record architecture. The National Archives and Defence offices do not merely store “UFO stories”; they preserve traces of how the Commonwealth decided whether a report was an air-safety issue, a defence matter, a public-relations nuisance, a meteorological problem or an unexplained entry in a file.
 
@@ -318,11 +318,11 @@ For the ACT branch, the key point is that Canberra’s importance lies in this r
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f-Illustration-1-dark.svg" | relative_url }}" alt="Archives illustration 1" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Canberra is the gateway to the national UFO trail
 
-Canberra became central because official UFO history in Australia was largely federal. The ACT was not the country’s most famous sighting location, but it was where researchers could pursue files created by national agencies. ABC reporting on Bill Chalker’s 1982 access to Defence UFO files places him inside Department of Defence headquarters in Canberra, looking at postal sacks of RAAF material that had not yet been fully declassified when he arrived. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access the RAAF&#x27;s UFO files - ABC News...</span></span></span>
+Canberra became central because official UFO history in Australia was largely federal. The ACT was not the country’s most famous sighting location, but it was where researchers could pursue files created by national agencies. ABC reporting on Bill Chalker’s 1982 access to Defence UFO files places him inside Department of Defence headquarters in Canberra, looking at postal sacks of RAAF material that had not yet been fully declassified when he arrived.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access the RAAF&#x27;s UFO files - ABC News...</span></span></span>
 
-That scene captures the ACT’s distinctive role. Chalker was not simply chasing a local Canberra sighting. He was trying to inspect the national [paper trail]({{ 'paper-trail/' | relative_url }}): files built from reports by civilians, researchers and military personnel over decades. The ABC account says the RAAF received thousands of reports and that the air force’s interest sat within the real-world Cold War context of space, rocketry and satellites, not an official belief that alien craft were visiting Australia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access the RAAF&#x27;s UFO files - ABC News...</span></span></span>
+That scene captures the ACT’s distinctive role. Chalker was not simply chasing a local Canberra sighting. He was trying to inspect the national [paper trail]({{ 'paper-trail/' | relative_url }}): files built from reports by civilians, researchers and military personnel over decades. The ABC account says the RAAF received thousands of reports and that the air force’s interest sat within the real-world Cold War context of space, rocketry and satellites, not an official belief that alien craft were visiting Australia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access the RAAF&#x27;s UFO files - ABC News...</span></span></span>
 
-Former RAAF intelligence officer Brett Biddington’s comments in the same ABC report are useful because they puncture two opposite myths. One myth says the files must contain hidden proof of aliens. The other says the whole subject was merely foolishness. Biddington’s explanation is more grounded: air forces had practical reasons to understand objects that might be returning from space, connected with rockets, satellites or other human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access the RAAF&#x27;s UFO files - ABC News...</span></span></span>
+Former RAAF intelligence officer Brett Biddington’s comments in the same ABC report are useful because they puncture two opposite myths. One myth says the files must contain hidden proof of aliens. The other says the whole subject was merely foolishness. Biddington’s explanation is more grounded: air forces had practical reasons to understand objects that might be returning from space, connected with rockets, satellites or other human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access the RAAF&#x27;s UFO files - ABC News...</span></span></span>
 
 Canberra therefore matters in three ways:
 
@@ -339,15 +339,15 @@ This is why the ACT’s UFO history cannot be measured only by counting local si
 
 ## How researchers used Canberra records
 
-The most detailed guide to the Australian government UFO file hunt remains Keith Basterfield’s “Unusual Aerial Sightings” survey for Project 1947, compiled from work undertaken between 2003 and 2008 to locate and examine Australian government records. Basterfield’s introduction is cautious: he says the search was as thorough as possible but incomplete, partly because the National Archives’ electronic RecordSearch indexed only a portion of the collection at that time, and partly because keyword searching was unreliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span>
+The most detailed guide to the Australian government UFO file hunt remains Keith Basterfield’s “Unusual Aerial Sightings” survey for Project 1947, compiled from work undertaken between 2003 and 2008 to locate and examine Australian government records. Basterfield’s introduction is cautious: he says the search was as thorough as possible but incomplete, partly because the National Archives’ electronic RecordSearch indexed only a portion of the collection at that time, and partly because keyword searching was unreliable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span>
 
-That warning is one of the most valuable lessons from the ACT paper trail. UFO research in the archives is not a simple matter of typing “UFO” and receiving a complete national list. Basterfield notes that researchers had to search under multiple labels: “UAS”, “flying saucers”, “aerial objects”, “unidentified flying objects”, “unusual sighting”, “strange sky lights”, “unusual occurrences” and “strange occurrences”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span>
+That warning is one of the most valuable lessons from the ACT paper trail. UFO research in the archives is not a simple matter of typing “UFO” and receiving a complete national list. Basterfield notes that researchers had to search under multiple labels: “UAS”, “flying saucers”, “aerial objects”, “unidentified flying objects”, “unusual sighting”, “strange sky lights”, “unusual occurrences” and “strange occurrences”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span>
 
 This matters because archival absence is easy to misread. If a famous case does not appear under one search term, that does not prove the government had no record of it. It may be filed under a different name, series, agency, date range or subject heading. Equally, finding a file title that sounds dramatic does not prove the case is strong. The file may contain a routine explanation, press correspondence, a ministerial reply or duplicated material already known from newspapers.
 
-The file-number lists circulated by researchers show how extensive the surviving structure can be. One index of National Archives file numbers lists long runs in series A703 under “Reports on Flying Saucers and other Aerial Objects”, with parts covering periods from the early 1950s through the 1970s, as well as policy files such as “Investigations of flying saucers-policy”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-foia-australia-notes-foia-australia-naa-file-numbers-notes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency NAA UFO File Numbers, Researcher FOIA / Access Notes Index</span><span class="citation-popover-snippet">UFO Transparency NAA UFO File Numbers, Researcher FOIA / Access Notes Index</span></span></span> These lists are useful signposts, but they are not a substitute for reading the documents themselves. A title can identify a box; it cannot establish what happened in the sky.
+The file-number lists circulated by researchers show how extensive the surviving structure can be. One index of National Archives file numbers lists long runs in series A703 under “Reports on Flying Saucers and other Aerial Objects”, with parts covering periods from the early 1950s through the 1970s, as well as policy files such as “Investigations of flying saucers-policy”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-foia-australia-notes-foia-australia-naa-file-numbers-notes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency NAA UFO File Numbers, Researcher FOIA / Access Notes Index</span><span class="citation-popover-snippet">UFO Transparency NAA UFO File Numbers, Researcher FOIA / Access Notes Index</span></span></span> These lists are useful signposts, but they are not a substitute for reading the documents themselves. A title can identify a box; it cannot establish what happened in the sky.
 
-The Canberra [Airport case]({{ 'airport-case/' | relative_url }}) illustrates how archival follow-up changes a story. Later researcher Keith Basterfield checked National Archives series A703, control symbol 554/1/30 Part 2, and found that the RAAF’s response to the 1965 Canberra Airport sighting took the form of a 30 July 1965 press release from the Minister for Air. His review found that contemporary press accounts did not all present the same conclusion: some described a likely balloon explanation, while others framed the origin as still unidentified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">the classic canberra airport sighting</span><span class="citation-popover-snippet">the classic canberra airport sighting</span></span></span>
+The Canberra [Airport case]({{ 'airport-case/' | relative_url }}) illustrates how archival follow-up changes a story. Later researcher Keith Basterfield checked National Archives series A703, control symbol 554/1/30 Part 2, and found that the RAAF’s response to the 1965 Canberra Airport sighting took the form of a 30 July 1965 press release from the Minister for Air. His review found that contemporary press accounts did not all present the same conclusion: some described a likely balloon explanation, while others framed the origin as still unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">the classic canberra airport sighting</span><span class="citation-popover-snippet">the classic canberra airport sighting</span></span></span>
 
 That is the archival method at its best. It does not turn the Canberra Airport sighting into a solved or unsolved legend by assertion. It compares newspapers, official statements and file references, then asks what the evidence actually supports.
 
@@ -355,13 +355,13 @@ That is the archival method at its best. It does not turn the Canberra Airport s
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f-Illustration-2-dark.svg" | relative_url }}" alt="Archives illustration 2" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the files show about official thinking
 
-The files show a government posture that was practical, cautious and often sceptical. The National Archives’ own summary says the RAAF ceased investigating UFO sightings in 1994 because only 3 per cent of reports could not be explained by natural phenomena and those unexplained cases presented little or no threat to security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — Royal Australian Airforce records documenting UFO sightings reported to the government...</span></span></span> That statistic should be read carefully. “Unexplained” does not mean “extraordinary”; it often means that the available information was too incomplete to identify the cause.
+The files show a government posture that was practical, cautious and often sceptical. The National Archives’ own summary says the RAAF ceased investigating UFO sightings in 1994 because only 3 per cent of reports could not be explained by natural phenomena and those unexplained cases presented little or no threat to security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — Royal Australian Airforce records documenting UFO sightings reported to the government...</span></span></span> That statistic should be read carefully. “Unexplained” does not mean “extraordinary”; it often means that the available information was too incomplete to identify the cause.
 
-The later public record supports the same broad picture. SBS reported in 2015 that the RAAF no longer wanted members of the public to call it with UFO reports, except where there were defence, security or public-safety implications such as crashing aircraft or falling space debris. It also cited Defence instructions saying the UFO function had officially ended in 1996 because scientific records gave no compelling reason for the RAAF to keep recording and investigating UAS. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sbs.com.au/news/article/if-you-see-an-ufo-dont-call-the-raaf/20fpw1f6x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sbs.com.au">[SBS Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sbs.com.au</span><span class="citation-popover-title">SBS Australia If you see an UFO, don&#x27;t call the RAAF &#124; SBS News</span><span class="citation-popover-snippet">SBS Australia If you see an UFO, don&#x27;t call the RAAF &#124; SBS News</span></span></span>
+The later public record supports the same broad picture. SBS reported in 2015 that the RAAF no longer wanted members of the public to call it with UFO reports, except where there were defence, security or public-safety implications such as crashing aircraft or falling space debris. It also cited Defence instructions saying the UFO function had officially ended in 1996 because scientific records gave no compelling reason for the RAAF to keep recording and investigating UAS.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sbs.com.au/news/article/if-you-see-an-ufo-dont-call-the-raaf/20fpw1f6x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sbs.com.au">[SBS Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sbs.com.au</span><span class="citation-popover-title">SBS Australia If you see an UFO, don&#x27;t call the RAAF &#124; SBS News</span><span class="citation-popover-snippet">SBS Australia If you see an UFO, don&#x27;t call the RAAF &#124; SBS News</span></span></span>
 
 This distinction between ordinary public sightings and safety-related reports is crucial. Defence did not say unusual things could never appear in the sky. It said routine public UFO reporting was no longer a task worth RAAF resources. Reports involving aircraft safety, possible debris, restricted airspace, defence activity or public danger could still matter, but through the relevant safety, police, aviation or Defence channels rather than a standing UFO desk.
 
-Basterfield’s survey also points to internal policy development. It refers to a 1996 “Defence Instructions (General) ADMIN 55-1” document on Unusual Aerial Sightings Policy, with filing instructions across Navy, Army and Air Force systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span> That suggests the official trail did not simply vanish overnight. It changed form: public-facing investigation stopped, while policy documents clarified how unusual reports should be handled inside Defence.
+Basterfield’s survey also points to internal policy development. It refers to a 1996 “Defence Instructions (General) ADMIN 55-1” document on Unusual Aerial Sightings Policy, with filing instructions across Navy, Army and Air Force systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span> That suggests the official trail did not simply vanish overnight. It changed form: public-facing investigation stopped, while policy documents clarified how unusual reports should be handled inside Defence.
 
 For a reader trying to judge the files, this is the main takeaway: the official archive is evidence of official attention, not official endorsement. It shows the RAAF and related agencies took reports seriously enough to log, route and assess them, especially during the Cold War and space age. It does not show that unresolved cases were accepted as alien craft.
 
@@ -385,7 +385,7 @@ They can prove that:
 
 They cannot, by themselves, prove that a witness saw a non-human craft. A file may preserve an honest report of an unusual light, but still lack distance, altitude, speed, direction, radar confirmation, weather data or astronomical checks. It may also preserve later interpretations that are more confident than the original evidence deserves.
 
-The National Archives’ own treatment of the Frederick Valentich disappearance is a useful caution. Its blog describes the 1978 case as a media sensation, but also notes later suggestions of a more prosaic explanation involving bright planets and stars, pilot inexperience and possible distraction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — Royal Australian Airforce records documenting UFO sightings reported to the government...</span></span></span> Whether or not one accepts every part of that interpretation, the example shows how archival and later analysis can weaken a sensational reading without erasing the seriousness of the original event.
+The National Archives’ own treatment of the Frederick Valentich disappearance is a useful caution. Its blog describes the 1978 case as a media sensation, but also notes later suggestions of a more prosaic explanation involving bright planets and stars, pilot inexperience and possible distraction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — Royal Australian Airforce records documenting UFO sightings reported to the government...</span></span></span> Whether or not one accepts every part of that interpretation, the example shows how archival and later analysis can weaken a sensational reading without erasing the seriousness of the original event.
 
 The same caution applies to Canberra-linked files. A press release, a RAAF memo or an archival barcode can make a case feel more authoritative, but official paperwork is not the same as physical proof. The best use of the ACT record trail is comparative: checking whether a claim grows stronger when placed beside contemporary documents, or whether it weakens because the file shows missing data, mundane candidate explanations or later exaggeration.
 
@@ -414,7 +414,7 @@ A balanced reading of the ACT UFO record trail starts with respect for witnesses
 
 A useful rule is to ask what each file adds beyond the original sighting claim. Does it include independent witnesses? Does it contain radar, photographs, astronomical checks, weather-balloon data, aircraft movements or debris reports? Does it show investigators testing multiple explanations, or merely forwarding a public letter? Does a later retelling quote the file accurately, or does it turn a cautious “unidentified” into a dramatic “confirmed unknown”?
 
-The Canberra record trail also reminds readers that “unidentified” is a modest word. It can mean the object was genuinely anomalous, but it can also mean the report was too brief, too late, too vague or too poorly documented to solve. The RAAF’s eventual withdrawal from public UFO investigation was based on that practical judgement: the unresolved residue did not justify continuing the old system as a Defence function. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — Royal Australian Airforce records documenting UFO sightings reported to the government...</span></span></span>
+The Canberra record trail also reminds readers that “unidentified” is a modest word. It can mean the object was genuinely anomalous, but it can also mean the report was too brief, too late, too vague or too poorly documented to solve. The RAAF’s eventual withdrawal from public UFO investigation was based on that practical judgement: the unresolved residue did not justify continuing the old system as a Defence function.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — Royal Australian Airforce records documenting UFO sightings reported to the government...</span></span></span>
 
 That does not make the files worthless. It makes them more interesting. They show a real historical system responding to public mystery, Cold War anxiety, aviation safety, media pressure and scientific uncertainty. In the ACT, the UFO story is not mainly about a single object in the sky. It is about the paper left behind when a nation tried to decide which strange reports mattered, which could be explained, and which remained open only because the evidence ran out.
 
@@ -423,194 +423,194 @@ That does not make the files worthless. It makes them more interesting. They sho
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Canberra&#x27;s UFO Paper Trail Leads. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Canberra&#x27;s UFO Paper Trail Leads. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides first-hand perspective on how sightings were collected, evaluated and filed by government investigators.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides first-hand perspective on how sightings were collected, evaluated and filed by government investigators.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on investigation methods, evidence assessment and the treatment of official UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigation methods, evidence assessment and the treatment of official UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Examines documented cases and evidential standards, complementing archive-based discussions about what records can prove.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documented cases and evidential standards, complementing archive-based discussions about what records can prove.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Built around official documents, military testimony, government investigations and archival evidence rather than local legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built around official documents, military testimony, government investigations and archival evidence rather than local legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="{{ '/assets/images/marketplace-covers/0c2eebb918fe7513f183.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="archives-where-canberra-s-ufo-paper-trail-leads-australian-capital-territory-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-canberra-s-ufo-paper-trail-leads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-canberra-s-ufo-paper-trail-leads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ That does not make the files worthless. It makes them more interesting. They sho
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ That does not make the files worthless. It makes them more interesting. They sho
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ That does not make the files worthless. It makes them more interesting. They sho
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ That does not make the files worthless. It makes them more interesting. They sho
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ That does not make the files worthless. It makes them more interesting. They sho
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -816,169 +816,169 @@ That does not make the files worthless. It makes them more interesting. They sho
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: naa.gov.au  
    Title: flying saucers fact or fiction  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers – fact or fiction?28 Feb 2018 — Royal Australian Airforce records documenting UFO sightings reported to the government...</p></details>
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers – fact or fiction?28 Feb 2018 — Royal Australian Airforce records documenting UFO sightings reported to the government...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: project1947.com  
    Title: kb uasgov  
-   Link: <a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</p></details>
+   Link:<a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: naa.gov.au  
    Title: NAAUFO sightings at weapons testing site, Woomera | naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsHow Bill Chalker became one of the first civilians to access the RAAF&#x27;s UFO files - ABC News...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsHow Bill Chalker became one of the first civilians to access the RAAF&#x27;s UFO files - ABC News...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufotransparency.com  
    Title: UFO Transparency NAA UFO File Numbers, Researcher FOIA / Access Notes Index  
-   Link: <a href="https://ufotransparency.com/files/intl-au-foia-australia-notes-foia-australia-naa-file-numbers-notes" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-au-foia-australia-notes-foia-australia-naa-file-numbers-notes</a>  
+   Link:<a href="https://ufotransparency.com/files/intl-au-foia-australia-notes-foia-australia-naa-file-numbers-notes" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-au-foia-australia-notes-foia-australia-naa-file-numbers-notes</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: the classic canberra airport sighting  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2018/12/the-classic-canberra-airport-sighting.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sbs.com.au  
    Title: SBS Australia If you see an UFO, don't call the RAAF | SBS News  
-   Link: <a href="https://www.sbs.com.au/news/article/if-you-see-an-ufo-dont-call-the-raaf/20fpw1f6x" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/if-you-see-an-ufo-dont-call-the-raaf/20fpw1f6x</a>  
+   Link:<a href="https://www.sbs.com.au/news/article/if-you-see-an-ufo-dont-call-the-raaf/20fpw1f6x" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/if-you-see-an-ufo-dont-call-the-raaf/20fpw1f6x</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abc.net.au  
    Title: australian defence dept says it is not looking at ufos  
-   Link: <a href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652</a>  
+   Link:<a href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force</a>  
+   Link:<a href="https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons?page=1</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: recordsearch.naa.gov.au  
    Title: naa.gov.au Record Search  
-   Link: <a href="https://recordsearch.naa.gov.au/" target="_blank" rel="noopener noreferrer nofollow">https://recordsearch.naa.gov.au/</a>  
+   Link:<a href="https://recordsearch.naa.gov.au/" target="_blank" rel="noopener noreferrer nofollow">https://recordsearch.naa.gov.au/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sbs.com.au  
-   Link: <a href="https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz</a>  
+   Link:<a href="https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/binaries/hansard/senate/commttee/s9357249.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/binaries/hansard/senate/commttee/s9357249.pdf</a>  
+   Link:<a href="https://www.aph.gov.au/binaries/hansard/senate/commttee/s9357249.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/binaries/hansard/senate/commttee/s9357249.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2</a>  
+   Link:<a href="https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/api/qon/downloadattachment?attachmentId=4bac42e4-2853-49e1-b4a5-e917d9e964b2</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nla.gov.au  
-   Link: <a href="https://nla.gov.au/nla.cat-vn2761219" target="_blank" rel="noopener noreferrer nofollow">https://nla.gov.au/nla.cat-vn2761219</a>  
+   Link:<a href="https://nla.gov.au/nla.cat-vn2761219" target="_blank" rel="noopener noreferrer nofollow">https://nla.gov.au/nla.cat-vn2761219</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archival.collections.slsa.sa.gov.au  
-   Link: <a href="https://archival.collections.slsa.sa.gov.au/srg/SRG410_UFOResearchAustralia_boxlist.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archival.collections.slsa.sa.gov.au/srg/SRG410_UFOResearchAustralia_boxlist.pdf</a>  
+   Link:<a href="https://archival.collections.slsa.sa.gov.au/srg/SRG410_UFOResearchAustralia_boxlist.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archival.collections.slsa.sa.gov.au/srg/SRG410_UFOResearchAustralia_boxlist.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: canberra 15 july 1965 two additional  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2013/11/canberra-15-july-1965-two-additional.html?m=1" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2013/11/canberra-15-july-1965-two-additional.html?m=1</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2013/11/canberra-15-july-1965-two-additional.html?m=1" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2013/11/canberra-15-july-1965-two-additional.html?m=1</a>  
    Published: july 1965  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ufos-scientificresearch.blogspot.com  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2013/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2013/</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2013/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2013/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ufos-scientificresearch.blogspot.com  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2018/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2018/</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2018/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2018/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: brett biddington unusual aerial 6  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2013/12/brett-biddington-unusual-aerial_6.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2013/12/brett-biddington-unusual-aerial_6.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2013/12/brett-biddington-unusual-aerial_6.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2013/12/brett-biddington-unusual-aerial_6.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Global crop circle phenomenon inspired by UFO mystery in Far North Queensland?  
-   Link: <a href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0YvaAlgokSs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>665 // Frederick Valentich - UFO Mystery?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0YvaAlgokSs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>665 // Frederick Valentich - UFO Mystery?...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
+   Link:<a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSsydney/posts/australias-department-of-defence-has-confirmed-it-will-not-be-looking-at-ufos-de/5223251181032306/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSsydney/posts/australias-department-of-defence-has-confirmed-it-will-not-be-looking-at-ufos-de/5223251181032306/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSsydney/posts/australias-department-of-defence-has-confirmed-it-will-not-be-looking-at-ufos-de/5223251181032306/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSsydney/posts/australias-department-of-defence-has-confirmed-it-will-not-be-looking-at-ufos-de/5223251181032306/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: en-academic.com  
-   Link: <a href="https://en-academic.com/dic.nsf/enwiki/1831500" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/1831500</a>  
+   Link:<a href="https://en-academic.com/dic.nsf/enwiki/1831500" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/1831500</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10NewsAU/posts/click-here-for-more-from-the-ufo-witnesses/1378153124351242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsAU/posts/click-here-for-more-from-the-ufo-witnesses/1378153124351242/</a>  
+   Link:<a href="https://www.facebook.com/10NewsAU/posts/click-here-for-more-from-the-ufo-witnesses/1378153124351242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsAU/posts/click-here-for-more-from-the-ufo-witnesses/1378153124351242/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/YQCNews/posts/in-australia-scientists-interested-in-the-ufo-issue-managed-to-gain-access-to-th/2603546106436139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YQCNews/posts/in-australia-scientists-interested-in-the-ufo-issue-managed-to-gain-access-to-th/2603546106436139/</a>  
+   Link:<a href="https://www.facebook.com/YQCNews/posts/in-australia-scientists-interested-in-the-ufo-issue-managed-to-gain-access-to-th/2603546106436139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YQCNews/posts/in-australia-scientists-interested-in-the-ufo-issue-managed-to-gain-access-to-th/2603546106436139/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rkiay1/national_archives_documents_reveal_royal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rkiay1/national_archives_documents_reveal_royal/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1rkiay1/national_archives_documents_reveal_royal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rkiay1/national_archives_documents_reveal_royal/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/519338456831780/posts/1122344059864547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/519338456831780/posts/1122344059864547/</a>  
+   Link:<a href="https://www.facebook.com/groups/519338456831780/posts/1122344059864547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/519338456831780/posts/1122344059864547/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: 665 // Frederick Valentich  
-   Link: <a href="https://www.youtube.com/watch?v=AA_JueUmgqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AA_JueUmgqM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;THIS IS NOT A PLANE&quot; - 17 seconds later it disappeared | 112...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AA_JueUmgqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AA_JueUmgqM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;THIS IS NOT A PLANE&quot; - 17 seconds later it disappeared | 112...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Westall 66 | Official Trailer | Doc Play  
-   Link: <a href="https://www.youtube.com/watch?v=ZY-xj_b-c7c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZY-xj_b-c7c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Mystery of Melbourne&#x27;s UFO Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZY-xj_b-c7c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZY-xj_b-c7c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Mystery of Melbourne&#x27;s UFO Encounter...</p></details>

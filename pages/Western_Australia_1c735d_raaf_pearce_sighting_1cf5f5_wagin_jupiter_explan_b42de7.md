@@ -262,7 +262,7 @@ image: /assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_wagin
 
 ## Introduction
 
-The Wagin light report is a useful reminder that not every unusual aerial sighting in [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }}) remained mysterious after official scrutiny. In March 1982, a report from the Wagin area in the state's Wheatbelt described a bright nocturnal light that attracted enough attention to enter Department of Aviation correspondence and eventually become part of Australia's surviving UFO paperwork. Yet the available records indicate that the case received a conventional explanation: the object was considered consistent with the planet Jupiter, supported by astronomical advice and by an assessment of what could realistically have been detected by radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Previously unknown Department of Aviation UAP file now available</span><span class="citation-popover-snippet">report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</span></span></span>
+The Wagin light report is a useful reminder that not every unusual aerial sighting in [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }}) remained mysterious after official scrutiny. In March 1982, a report from the Wagin area in the state's Wheatbelt described a bright nocturnal light that attracted enough attention to enter Department of Aviation correspondence and eventually become part of Australia's surviving UFO paperwork. Yet the available records indicate that the case received a conventional explanation: the object was considered consistent with the planet Jupiter, supported by astronomical advice and by an assessment of what could realistically have been detected by radar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Previously unknown Department of Aviation UAP file now available</span><span class="citation-popover-snippet">report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_wagin_jupiter_explan_b42de7-Illustration-1-dark.svg" | relative_url }}" alt="Wagin Light illustration 1" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_wagin_jupiter_explan_b42de7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_wagin_jupiter_explan_b42de7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -273,14 +273,14 @@ Within the broader history of [RAAF Pearce]({{ 'raaf-pearce/' | relative_url }})
 
 ## The Wagin-area nocturnal light report
 
-The surviving description comes from a Department of Aviation file covering unusual aerial phenomena in Western Australia during the early 1980s. Research notes based on the file describe a report concerning an event on 11 March 1982 near Wagin. According to the correspondence, a witness reported a nocturnal light in the early hours of the morning. The account included claims that the light appeared to affect a car radio and that it was seen by both the original witness and a police officer after the sighting was reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Previously unknown Department of Aviation UAP file now available</span><span class="citation-popover-snippet">report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</span></span></span>
+The surviving description comes from a Department of Aviation file covering unusual aerial phenomena in Western Australia during the early 1980s. Research notes based on the file describe a report concerning an event on 11 March 1982 near Wagin. According to the correspondence, a witness reported a nocturnal light in the early hours of the morning. The account included claims that the light appeared to affect a car radio and that it was seen by both the original witness and a police officer after the sighting was reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Previously unknown Department of Aviation UAP file now available</span><span class="citation-popover-snippet">report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</span></span></span>
 
 On its face, the report contained several elements that often help a sighting gain attention:
 
 * A bright light observed at night.
 * An apparent effect on equipment, in this case a vehicle radio.
 * More than one observer.
-* Contact with authorities rather than merely a private report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Previously unknown Department of Aviation UAP file now available</span><span class="citation-popover-snippet">report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</span></span></span>
+* Contact with authorities rather than merely a private report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Previously unknown Department of Aviation UAP file now available</span><span class="citation-popover-snippet">report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</span></span></span>
 
 Those features are precisely the sort of details that can cause a sighting to enter official aviation channels. However, the presence of unusual details does not automatically mean the underlying cause was unusual.
 
@@ -293,7 +293,7 @@ What makes the Wagin case particularly informative is the documented effort to t
 
 The aviation file indicates that enquiries were made about whether radar systems could have detected an object in the relevant area. Assessments of radar coverage suggested that the reported location was beyond the effective range at which the relevant radar installation could provide confirmation. In other words, there was no radar evidence supporting the presence of an unknown craft. The absence of radar confirmation did not prove that nothing was there, but it removed one potential line of support for an extraordinary interpretation.
 
-Officials also sought astronomical advice. The response pointed towards Jupiter as the likely source of the observed light. At the time, Jupiter was one of the brightest objects in the night sky and is frequently responsible for reports of apparently stationary or slowly moving luminous objects, particularly when viewed low on the horizon or under conditions that make distance and motion difficult to judge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jupiter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">JupiterJupiter is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that...</span></span></span>
+Officials also sought astronomical advice. The response pointed towards Jupiter as the likely source of the observed light. At the time, Jupiter was one of the brightest objects in the night sky and is frequently responsible for reports of apparently stationary or slowly moving luminous objects, particularly when viewed low on the horizon or under conditions that make distance and motion difficult to judge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jupiter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">JupiterJupiter is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that...</span></span></span>
 
 This combination of factors mattered:
 
@@ -306,7 +306,7 @@ This combination of factors mattered:
 
 </div>
 
-Rather than leaving the case in an unresolved category, officials concluded that a known celestial object offered the most plausible explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Previously unknown Department of Aviation UAP file now available</span><span class="citation-popover-snippet">report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</span></span></span>
+Rather than leaving the case in an unresolved category, officials concluded that a known celestial object offered the most plausible explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Previously unknown Department of Aviation UAP file now available</span><span class="citation-popover-snippet">report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_wagin_jupiter_explan_b42de7-Illustration-2-dark.svg" | relative_url }}" alt="Wagin Light illustration 2" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_wagin_jupiter_explan_b42de7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_wagin_jupiter_explan_b42de7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,9 +314,9 @@ Rather than leaving the case in an unresolved category, officials concluded that
 
 For readers encountering the case decades later, the Jupiter explanation may initially seem unsatisfying. Yet astronomy has a long history of generating UFO reports.
 
-Jupiter is among the brightest objects visible from Earth and can appear strikingly prominent when seen in darkness. Under some viewing conditions it may seem larger, brighter or more colourful than observers expect. Atmospheric turbulence near the horizon can make a planet appear to shimmer, pulse or change colour. When viewed from a moving vehicle, a bright planet can also create the impression of following a witness because distant celestial objects maintain nearly the same apparent position relative to the observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jupiter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">JupiterJupiter is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that...</span></span></span>
+Jupiter is among the brightest objects visible from Earth and can appear strikingly prominent when seen in darkness. Under some viewing conditions it may seem larger, brighter or more colourful than observers expect. Atmospheric turbulence near the horizon can make a planet appear to shimmer, pulse or change colour. When viewed from a moving vehicle, a bright planet can also create the impression of following a witness because distant celestial objects maintain nearly the same apparent position relative to the observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jupiter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">JupiterJupiter is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that...</span></span></span>
 
-These effects help explain why trained investigators frequently checked astronomical possibilities before considering more exotic interpretations. In Australia, as in other countries, planets, stars and the Moon have accounted for a significant proportion of reports initially described as unidentified aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesBriefing documentUnidentified Flying Objects (UFOs). 1. What is a UFO? The first reports of &#x27;flying saucers&#x27; being sight...</span></span></span>
+These effects help explain why trained investigators frequently checked astronomical possibilities before considering more exotic interpretations. In Australia, as in other countries, planets, stars and the Moon have accounted for a significant proportion of reports initially described as unidentified aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesBriefing documentUnidentified Flying Objects (UFOs). 1. What is a UFO? The first reports of &#x27;flying saucers&#x27; being sight...</span></span></span>
 
 The Wagin report therefore fits a broader pattern: a genuinely unusual experience for the witness, but one that became less mysterious when matched against known astronomical conditions.
 
@@ -327,204 +327,204 @@ The Wagin report therefore fits a broader pattern: a genuinely unusual experienc
 
 The value of the Wagin case extends beyond the specific sighting. It illustrates how aviation authorities approached reports linked to air safety and possible unidentified objects.
 
-Cases that receive a credible conventional explanation serve as a benchmark for evaluating the reports that remain unresolved. They demonstrate that officials did not simply label every sighting a UFO. Instead, reports were compared against aircraft activity, radar information and astronomical observations before any conclusion was reached. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Previously unknown Department of Aviation UAP file now available</span><span class="citation-popover-snippet">report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</span></span></span>
+Cases that receive a credible conventional explanation serve as a benchmark for evaluating the reports that remain unresolved. They demonstrate that officials did not simply label every sighting a UFO. Instead, reports were compared against aircraft activity, radar information and astronomical observations before any conclusion was reached.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Previously unknown Department of Aviation UAP file now available</span><span class="citation-popover-snippet">report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</span></span></span>
 
-For Western Australia's UFO history, that distinction is important. The existence of unresolved reports does not mean every report was mysterious. Equally, the successful identification of one case does not automatically explain every other case. The Wagin light report shows the middle ground: a sighting that entered [official records]({{ 'records-vs-proof/' | relative_url }}), attracted enough concern to prompt enquiries, and ultimately appears to have been resolved through ordinary investigative work rather than left as an enduring mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Previously unknown Department of Aviation UAP file now available</span><span class="citation-popover-snippet">report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</span></span></span>
+For Western Australia's UFO history, that distinction is important. The existence of unresolved reports does not mean every report was mysterious. Equally, the successful identification of one case does not automatically explain every other case. The Wagin light report shows the middle ground: a sighting that entered [official records]({{ 'records-vs-proof/' | relative_url }}), attracted enough concern to prompt enquiries, and ultimately appears to have been resolved through ordinary investigative work rather than left as an enduring mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Previously unknown Department of Aviation UAP file now available</span><span class="citation-popover-snippet">report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</span></span></span>
 
-In the context of RAAF Pearce and aviation-linked sightings, the lesson is straightforward. Some reports survived official review as unexplained observations, while others, like the Wagin light report, were substantially weakened by evidence pointing toward a familiar object in the night sky. The fact that a case once treated seriously could later be attributed to Jupiter is part of what makes the surviving Western Australian files valuable: they reveal not only mysteries, but also the process by which some mysteries disappeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Previously unknown Department of Aviation UAP file now available</span><span class="citation-popover-snippet">report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</span></span></span>
+In the context of RAAF Pearce and aviation-linked sightings, the lesson is straightforward. Some reports survived official review as unexplained observations, while others, like the Wagin light report, were substantially weakened by evidence pointing toward a familiar object in the night sky. The fact that a case once treated seriously could later be attributed to Jupiter is part of what makes the surviving Western Australian files valuable: they reveal not only mysteries, but also the process by which some mysteries disappeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Previously unknown Department of Aviation UAP file now available</span><span class="citation-popover-snippet">report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_wagin_jupiter_explan_b42de7-Illustration-3-dark.svg" | relative_url }}" alt="Wagin Light illustration 3" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_wagin_jupiter_explan_b42de7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_wagin_jupiter_explan_b42de7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a UFO Report Was Jupiter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a UFO Report Was Jupiter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and distinguishing explained cases from unexplained reports, matching the article&#x27;s theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and distinguishing explained cases from unexplained reports, matching the article&#x27;s theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains scientific skepticism and investigation of extraordinary claims, directly relevant to a UFO case resolved through astronomy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains scientific skepticism and investigation of extraordinary claims, directly relevant to a UFO case resolved through astronomy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for official handling of aerial anomaly reports and government investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official handling of aerial anomaly reports and government investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Covers how misperceptions, observational errors, and cognitive biases can create mysterious reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers how misperceptions, observational errors, and cognitive biases can create mysterious reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="wagin-light-when-a-ufo-report-was-jupiter-western-australia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ In the context of RAAF Pearce and aviation-linked sightings, the lesson is strai
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ In the context of RAAF Pearce and aviation-linked sightings, the lesson is strai
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ In the context of RAAF Pearce and aviation-linked sightings, the lesson is strai
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ In the context of RAAF Pearce and aviation-linked sightings, the lesson is strai
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ In the context of RAAF Pearce and aviation-linked sightings, the lesson is strai
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,107 +730,107 @@ In the context of RAAF Pearce and aviation-linked sightings, the lesson is strai
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: Previously unknown Department of Aviation UAP file now available  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2013/03/previously-unknown-department-of.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report. This report happened on 11 Mar 1982 at Wagin, WA. The event involved a nocturnal light which seemed to interfer with the radio of...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Jupiter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jupiter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JupiterJupiter is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Jupiter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jupiter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JupiterJupiter is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.sky.com  
    Title: nasa solves the mystery of jupiters lightning 11397316  
-   Link: <a href="https://news.sky.com/story/nasa-solves-the-mystery-of-jupiters-lightning-11397316" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-solves-the-mystery-of-jupiters-lightning-11397316</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>solves the mystery of Jupiter&#x27;s lightning7 Jun 2018 — The scientists from NASA&#x27;s Juno mission have discovered that Jovian lightning is in...</p></details>
+   Link:<a href="https://news.sky.com/story/nasa-solves-the-mystery-of-jupiters-lightning-11397316" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-solves-the-mystery-of-jupiters-lightning-11397316</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>solves the mystery of Jupiter&#x27;s lightning7 Jun 2018 — The scientists from NASA&#x27;s Juno mission have discovered that Jovian lightning is in...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBriefing documentUnidentified Flying Objects (UFOs). 1. What is a UFO? The first reports of &#x27;flying saucers&#x27; being sight...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBriefing documentUnidentified Flying Objects (UFOs). 1. What is a UFO? The first reports of &#x27;flying saucers&#x27; being sight...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jupiter-ascending.fandom.com  
-   Link: <a href="https://jupiter-ascending.fandom.com/wiki/Jupiter" target="_blank" rel="noopener noreferrer nofollow">https://jupiter-ascending.fandom.com/wiki/Jupiter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ascending Wiki | FandomJupiter is a giant gas planet located in the Solar System. Unlike the rocky planets, like Earth, Jupiter doesn&#x27;t h...</p></details>
+   Link:<a href="https://jupiter-ascending.fandom.com/wiki/Jupiter" target="_blank" rel="noopener noreferrer nofollow">https://jupiter-ascending.fandom.com/wiki/Jupiter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ascending Wiki | FandomJupiter is a giant gas planet located in the Solar System. Unlike the rocky planets, like Earth, Jupiter doesn&#x27;t h...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No way they could be aircraft. Four sets of them. 06-Feb-09. Not Given Rossendale.Read more...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No way they could be aircraft. Four sets of them. 06-Feb-09. Not Given Rossendale.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: galileo-unbound.blog  
-   Link: <a href="https://galileo-unbound.blog/tag/jupiter/" target="_blank" rel="noopener noreferrer nofollow">https://galileo-unbound.blog/tag/jupiter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Unbound29 May 2023 — Michelson realized that light from a distant object, like a Galilean moon of Jupiter, would retain some part...</p></details>
+   Link:<a href="https://galileo-unbound.blog/tag/jupiter/" target="_blank" rel="noopener noreferrer nofollow">https://galileo-unbound.blog/tag/jupiter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Unbound29 May 2023 — Michelson realized that light from a distant object, like a Galilean moon of Jupiter, would retain some part...</p></details>
    Published: May 2023  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...The earliest recorded UFO sighting by an airline pilot, during Capt. John Baldwin (former Air...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...The earliest recorded UFO sighting by an airline pilot, during Capt. John Baldwin (former Air...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/236986935_Collision_of_Comet_Shoemaker-Levy_9_with_Jupiter_Observed_by_the_NASA_Infrared_Telescope_Facility_Authors_G" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236986935_Collision_of_Comet_Shoemaker-Levy_9_with_Jupiter_Observed_by_the_NASA_Infrared_Telescope_Facility_Authors_G</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Collision of Comet Shoemaker-Levy 9 with Jupiter...PDF | The National Aeronautics and Space Administration (NASA) Infrared Telesco...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/236986935_Collision_of_Comet_Shoemaker-Levy_9_with_Jupiter_Observed_by_the_NASA_Infrared_Telescope_Facility_Authors_G" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236986935_Collision_of_Comet_Shoemaker-Levy_9_with_Jupiter_Observed_by_the_NASA_Infrared_Telescope_Facility_Authors_G</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Collision of Comet Shoemaker-Levy 9 with Jupiter...PDF | The National Aeronautics and Space Administration (NASA) Infrared Telesco...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dlab.epfl.ch  
-   Link: <a href="https://dlab.epfl.ch/wikispeedia/wpcd/wp/j/Jupiter.htm" target="_blank" rel="noopener noreferrer nofollow">https://dlab.epfl.ch/wikispeedia/wpcd/wp/j/Jupiter.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>naturally, Jupiter&#x27;s gravitational influence has dominated the evolution of the solar system: some have described the solar system as con...</p></details>
+   Link:<a href="https://dlab.epfl.ch/wikispeedia/wpcd/wp/j/Jupiter.htm" target="_blank" rel="noopener noreferrer nofollow">https://dlab.epfl.ch/wikispeedia/wpcd/wp/j/Jupiter.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>naturally, Jupiter&#x27;s gravitational influence has dominated the evolution of the solar system: some have described the solar system as con...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386011319_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Orientation_and_Energy_Coupling" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386011319_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Orientation_and_Energy_Coupling</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orb and Rod Object Orientation and Energy Coupling21 Nov 2024 — Unidentified Anomalous Phenomena (UAP) has been reported on globally for...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/386011319_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Orientation_and_Energy_Coupling" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386011319_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Orientation_and_Energy_Coupling</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orb and Rod Object Orientation and Energy Coupling21 Nov 2024 — Unidentified Anomalous Phenomena (UAP) has been reported on globally for...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cloudynights.com  
    Title: What level of clarity should I expect when viewing Jupiter?  
-   Link: <a href="https://www.cloudynights.com/forums/topic/647572-what-level-of-clarity-should-i-expect-when-viewing-jupiter-8-orion-newtonian/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/647572-what-level-of-clarity-should-i-expect-when-viewing-jupiter-8-orion-newtonian/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Jan 2019 — I have an 8&quot; Orion Dobsonian scope and this morning when I was viewing Jupiter with my Vixen SLV 5mm eyepiece. I couldn&#x27;t g...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/647572-what-level-of-clarity-should-i-expect-when-viewing-jupiter-8-orion-newtonian/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/647572-what-level-of-clarity-should-i-expect-when-viewing-jupiter-8-orion-newtonian/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Jan 2019 — I have an 8&quot; Orion Dobsonian scope and this morning when I was viewing Jupiter with my Vixen SLV 5mm eyepiece. I couldn&#x27;t g...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: UF Os, or the notion of them, have been around a long time  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/ufos-or-the-notion-of-them-have-been-around-a-long-time-heres-a-look-at-how-the-/1371436954843181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/ufos-or-the-notion-of-them-have-been-around-a-long-time-heres-a-look-at-how-the-/1371436954843181/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Are Real, but Aliens Are Not Responsible The U.S. government recently confirmed reports by military pilots of unidentified...</p></details>
+   Link:<a href="https://www.facebook.com/ABCNews/posts/ufos-or-the-notion-of-them-have-been-around-a-long-time-heres-a-look-at-how-the-/1371436954843181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/ufos-or-the-notion-of-them-have-been-around-a-long-time-heres-a-look-at-how-the-/1371436954843181/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Are Real, but Aliens Are Not Responsible The U.S. government recently confirmed reports by military pilots of unidentified...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>W ASH IN G TON ZOJJO. MAR&#x27; 7 1367. Dear Mr, Steck.11ng: Your letter concerning your unidentified flying obJect (UFO) film finally...Rea...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W ASH IN G TON ZOJJO. MAR&#x27; 7 1367. Dear Mr, Steck.11ng: Your letter concerning your unidentified flying obJect (UFO) film finally...Rea...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scirp.org  
-   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=136922" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=136922</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shapes and sizes, are attracted to electromagnetic activity, and travel at...Read more...</p></details>
+   Link:<a href="https://www.scirp.org/journal/paperinformation?paperid=136922" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=136922</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>shapes and sizes, are attracted to electromagnetic activity, and travel at...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: historyskills.com  
-   Link: <a href="https://www.historyskills.com/classroom/year-10/history-of-ufos/?srsltid=AfmBOor_ByTGdFgau5v1x7sAo7VaaJWaSVb2DOa9ert90hzMibv4-4Na" target="_blank" rel="noopener noreferrer nofollow">https://www.historyskills.com/classroom/year-10/history-of-ufos/?srsltid=AfmBOor_ByTGdFgau5v1x7sAo7VaaJWaSVb2DOa9ert90hzMibv4-4Na</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These sightings, now often referred to as unidentified flying...</p></details>
+   Link:<a href="https://www.historyskills.com/classroom/year-10/history-of-ufos/?srsltid=AfmBOor_ByTGdFgau5v1x7sAo7VaaJWaSVb2DOa9ert90hzMibv4-4Na" target="_blank" rel="noopener noreferrer nofollow">https://www.historyskills.com/classroom/year-10/history-of-ufos/?srsltid=AfmBOor_ByTGdFgau5v1x7sAo7VaaJWaSVb2DOa9ert90hzMibv4-4Na</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These sightings, now often referred to as unidentified flying...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bemidjistate.edu  
-   Link: <a href="https://www.bemidjistate.edu/academics/honors/wp-content/uploads/sites/73/2022/11/Listening-to-Jupiter-from-48N-Kistner-Matt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bemidjistate.edu/academics/honors/wp-content/uploads/sites/73/2022/11/Listening-to-Jupiter-from-48N-Kistner-Matt.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>m with an equatorial radius of 71,494 km and a...Read more...</p></details>
+   Link:<a href="https://www.bemidjistate.edu/academics/honors/wp-content/uploads/sites/73/2022/11/Listening-to-Jupiter-from-48N-Kistner-Matt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bemidjistate.edu/academics/honors/wp-content/uploads/sites/73/2022/11/Listening-to-Jupiter-from-48N-Kistner-Matt.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>m with an equatorial radius of 71,494 km and a...Read more...</p></details>

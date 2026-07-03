@@ -260,13 +260,13 @@ The first explanation offered for the [Wewak light]({{ 'wewak-light/' | relative
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_maralinga_wewak_ligh_3d462d_vixen_a_balloons_c50e84-Illustration-1-dark.svg" | relative_url }}" alt="Balloons illustration 1" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_maralinga_wewak_ligh_3d462d_vixen_a_balloons_c50e84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_maralinga_wewak_ligh_3d462d_vixen_a_balloons_c50e84-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That reaction mattered because Wewak was not an ordinary remote camp. The site was being used for the Vixen A safety trials associated with the British nuclear weapons programme at [Maralinga]({{ 'maralinga/' | relative_url }}), and static balloons formed part of the local instrumentation system. When Constable Hubert Dave Scarborough reported that he had seen what appeared to be a balloon burning in the air, he was drawing on something that genuinely existed at the site rather than making a random guess. The later discovery that all the balloons were still intact did not solve the mystery, but it did remove the most obvious explanation and force investigators to look elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
+That reaction mattered because Wewak was not an ordinary remote camp. The site was being used for the Vixen A safety trials associated with the British nuclear weapons programme at [Maralinga]({{ 'maralinga/' | relative_url }}), and static balloons formed part of the local instrumentation system. When Constable Hubert Dave Scarborough reported that he had seen what appeared to be a balloon burning in the air, he was drawing on something that genuinely existed at the site rather than making a random guess. The later discovery that all the balloons were still intact did not solve the mystery, but it did remove the most obvious explanation and force investigators to look elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
 
 ## Why Wewak's balloons mattered to the sighting
 
 The Wewak incident is often remembered as a UFO report near the Maralinga nuclear test range, but the balloon infrastructure is one of the most important details in the surviving records.
 
-Official documentation states that Wewak, about 15 miles (24 kilometres) from Maralinga Village, contained a number of static balloons used for instrumentation connected with the Vixen A programme. These were not recreational or meteorological balloons. They were part of the technical apparatus supporting weapons-related experiments and measurements. When Scarborough telephoned to report that a balloon had apparently burnt in the air, his conclusion matched a known feature of the site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
+Official documentation states that Wewak, about 15 miles (24 kilometres) from Maralinga Village, contained a number of static balloons used for instrumentation connected with the Vixen A programme. These were not recreational or meteorological balloons. They were part of the technical apparatus supporting weapons-related experiments and measurements. When Scarborough telephoned to report that a balloon had apparently burnt in the air, his conclusion matched a known feature of the site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
 
 This context helps explain why investigators initially treated the report as a possible equipment incident rather than immediately classifying it as an unidentified object. In a location where balloons were routinely present and visible, a bright airborne light changing appearance could naturally be interpreted through that frame of reference.
 
@@ -275,7 +275,7 @@ This context helps explain why investigators initially treated the report as a p
 
 ## What Vixen A equipment was doing at Wewak
 
-The Vixen A trials formed part of Britain's programme of nuclear weapon safety experiments. Rather than testing nuclear detonations, Vixen A investigated what might happen if a weapon were exposed to abnormal conditions such as fire. The experiments were conducted in the Wewak area between 1959 and 1961. Contemporary and later technical accounts note that balloons were used to carry instruments and collect samples during aspects of the programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/British_nuclear_tests_at_Maralinga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Department of Veterans&#x27; Affairs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">British nuclear tests at Maralinga</span><span class="citation-popover-snippet">British nuclear tests at Maralinga</span></span></span>
+The Vixen A trials formed part of Britain's programme of nuclear weapon safety experiments. Rather than testing nuclear detonations, Vixen A investigated what might happen if a weapon were exposed to abnormal conditions such as fire. The experiments were conducted in the Wewak area between 1959 and 1961. Contemporary and later technical accounts note that balloons were used to carry instruments and collect samples during aspects of the programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/British_nuclear_tests_at_Maralinga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">British nuclear tests at Maralinga</span><span class="citation-popover-snippet">British nuclear tests at Maralinga</span></span></span>
 
 That technical role is important because it places the balloons directly within the operating environment of the sighting. Personnel at Wewak knew balloons existed, knew roughly where they were located and understood that they formed part of ongoing experimental work. A report of a balloon failure would therefore have been credible enough to trigger an immediate inspection.
 
@@ -285,7 +285,7 @@ The presence of such equipment also illustrates a broader point about UFO report
 <img src="{{ "/assets/images/South_Australia_717e9f_maralinga_wewak_ligh_3d462d_vixen_a_balloons_c50e84-Illustration-2-dark.svg" | relative_url }}" alt="Balloons illustration 2" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_maralinga_wewak_ligh_3d462d_vixen_a_balloons_c50e84-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_maralinga_wewak_ligh_3d462d_vixen_a_balloons_c50e84-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a burning balloon seemed plausible
 
-According to the official report, Scarborough observed a bright white light that appeared to approach or increase in size and then change to red. His first thought was that it was a balloon on fire, partly because of its apparent position and height. The object was visible only briefly, making precise judgements of distance and size difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
+According to the official report, Scarborough observed a bright white light that appeared to approach or increase in size and then change to red. His first thought was that it was a balloon on fire, partly because of its apparent position and height. The object was visible only briefly, making precise judgements of distance and size difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
 
 Several factors made the balloon interpretation reasonable at the moment of observation:
 
@@ -293,7 +293,7 @@ Several factors made the balloon interpretation reasonable at the moment of obse
 * **The object was luminous rather than clearly structured.**
 * **Its colour reportedly changed from white to red.**
 * **The observation lasted only seconds, limiting reliable distance estimates.**
-* **The witness was interpreting an unexpected event against the background of familiar local equipment.** <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
+* **The witness was interpreting an unexpected event against the background of familiar local equipment.**<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
 
 In practical terms, [witnesses]({{ 'witnesses/' | relative_url }}) often identify unfamiliar lights by comparing them with the nearest known object that fits. At Wewak, a balloon malfunction was a more immediate and realistic possibility than an exotic craft.
 
@@ -302,11 +302,11 @@ In practical terms, [witnesses]({{ 'witnesses/' | relative_url }}) often identif
 
 ## How intact balloons narrowed the inquiry
 
-The most significant development came almost immediately after the report was received. The Balloon Officer inspected the equipment and found that all balloons were intact. The explanation that had prompted the initial alarm therefore failed a direct physical check. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
+The most significant development came almost immediately after the report was received. The Balloon Officer inspected the equipment and found that all balloons were intact. The explanation that had prompted the initial alarm therefore failed a direct physical check.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
 
 This is one of the most useful pieces of evidence in the entire Wewak case because it demonstrates an actual investigative step rather than later speculation. Officials did not simply record the witness account; they tested the most obvious hypothesis against the condition of the equipment on site.
 
-The result did not prove that the light was extraordinary. It merely showed that the specific object Scarborough thought he had seen was unlikely to have been one of the known static balloons at Wewak. Once the balloons were accounted for, investigators had to consider other possibilities, including meteor activity, atmospheric effects, distant lights or other misidentifications. The surviving records show that several alternatives were discussed, but no definitive solution emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
+The result did not prove that the light was extraordinary. It merely showed that the specific object Scarborough thought he had seen was unlikely to have been one of the known static balloons at Wewak. Once the balloons were accounted for, investigators had to consider other possibilities, including meteor activity, atmospheric effects, distant lights or other misidentifications. The surviving records show that several alternatives were discussed, but no definitive solution emerged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_maralinga_wewak_ligh_3d462d_vixen_a_balloons_c50e84-Illustration-3-dark.svg" | relative_url }}" alt="Balloons illustration 3" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_maralinga_wewak_ligh_3d462d_vixen_a_balloons_c50e84-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_maralinga_wewak_ligh_3d462d_vixen_a_balloons_c50e84-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,203 +314,203 @@ The result did not prove that the light was extraordinary. It merely showed that
 
 The balloon aspect of the case is valuable because it illustrates both sides of the Maralinga-era UFO problem.
 
-On one hand, the presence of specialised equipment makes a mundane explanation more plausible. Wewak genuinely contained balloons associated with technical work, so a witness mistaking a light for a balloon was entirely understandable. On the other hand, investigators were able to verify that the known balloons remained in place. That finding weakened the initial explanation and preserved the incident as an unresolved sighting rather than a straightforward equipment malfunction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
+On one hand, the presence of specialised equipment makes a mundane explanation more plausible. Wewak genuinely contained balloons associated with technical work, so a witness mistaking a light for a balloon was entirely understandable. On the other hand, investigators were able to verify that the known balloons remained in place. That finding weakened the initial explanation and preserved the incident as an unresolved sighting rather than a straightforward equipment malfunction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
 
-For the history of South Australian UFO reports, the episode is less important as evidence for an unknown craft than as an example of how sightings near sensitive Cold War facilities were investigated. The key lesson is not that a UFO was proven, but that a plausible, site-specific explanation was considered first and then partially ruled out through inspection. The surviving records therefore show a process of inquiry rather than a simple tale of belief or dismissal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA+2The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
+For the history of South Australian UFO reports, the episode is less important as evidence for an unknown craft than as an example of how sightings near sensitive Cold War facilities were investigated. The key lesson is not that a UFO was proven, but that a plausible, site-specific explanation was considered first and then partially ruled out through inspection. The surviving records therefore show a process of inquiry rather than a simple tale of belief or dismissal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[naa.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAUFO sightings at weapons testing site, Woomera The Balloon Officer made an inspection and found that all balloons were intact. ... The</span><span class="citation-popover-snippet">NAAUFO sightings at weapons testing site, WoomeraThe Balloon Officer made an inspection and found that all balloons were intact. ... The...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yqC9ICdfhQM" title="Shootin&#x27; Balloons: A History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yqC9ICdfhQM" target="_blank" rel="noopener noreferrer">Shootin&#x27; Balloons: A History</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yqC9ICdfhQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yqC9ICdfhQM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Wewak&#x27;s balloons mattered to the sighting. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Wewak&#x27;s balloons mattered to the sighting. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Thunder+by+Elizabeth+Tynan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Thunder on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YjRJvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Thunder" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Thunder+by+Elizabeth+Tynan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Thunder">Atomic Thunder</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth Tynan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Thunder+by+Elizabeth+Tynan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Thunder on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YjRJvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Thunder" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Thunder+by+Elizabeth+Tynan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Thunder">Atomic Thunder</a>
+</h4>
+<p class="fr-book-author">By Elizabeth Tynan</p>
         
-        <p class="fr-book-desc">Explains the Maralinga testing programme and associated operations, including the broader context around Vixen trials.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Thunder+by+Elizabeth+Tynan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the Maralinga testing programme and associated operations, including the broader context around Vixen trials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Thunder+by+Elizabeth+Tynan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to readers interested in how unusual aerial sightings are investigated and evaluated against conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to readers interested in how unusual aerial sightings are investigated and evaluated against conventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Britain+and+the+H-Bomb+by+Lorna+Arnold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Britain and the H-Bomb on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aTFVAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Britain and the H-Bomb" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Britain+and+the+H-Bomb+by+Lorna+Arnold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Britain and the H-Bomb">Britain and the H-Bomb</a>
-        </h4>
-        <p class="fr-book-author">By Lorna Arnold</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Britain+and+the+H-Bomb+by+Lorna+Arnold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Britain and the H-Bomb on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aTFVAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Britain and the H-Bomb" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Britain+and+the+H-Bomb+by+Lorna+Arnold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Britain and the H-Bomb">Britain and the H-Bomb</a>
+</h4>
+<p class="fr-book-author">By Lorna Arnold</p>
         
-        <p class="fr-book-desc">Helps readers understand the strategic and technical setting behind activities conducted at Maralinga and related sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Britain+and+the+H-Bomb+by+Lorna+Arnold&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand the strategic and technical setting behind activities conducted at Maralinga and related sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Britain+and+the+H-Bomb+by+Lorna+Arnold&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Need+to+Know+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Need to Know on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a8H2MAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Need to Know" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Need+to+Know+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Need to Know">Need to Know</a>
-        </h4>
-        <p class="fr-book-author">By Timothy Good</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Need+to+Know+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Need to Know on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a8H2MAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Need to Know" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Need+to+Know+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Need to Know">Need to Know</a>
+</h4>
+<p class="fr-book-author">By Timothy Good</p>
         
-        <p class="fr-book-desc">Connects military environments, official investigations, and unexplained sighting reports similar to the questions raised by the Wewak case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Need+to+Know+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects military environments, official investigations, and unexplained sighting reports similar to the questions raised by the Wewak case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Need+to+Know+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Thunder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Thunder</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Britain+and+the+H+Bomb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Britain and the H Bomb</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Thunder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Thunder</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Britain+and+the+H+Bomb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Britain and the H Bomb</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="balloons-b62c7f-why-wewak-s-balloons-mattered-to-the-sighting-south-australia-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -526,7 +526,7 @@ For the history of South Australian UFO reports, the episode is less important a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -546,7 +546,7 @@ For the history of South Australian UFO reports, the episode is less important a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -578,7 +578,7 @@ For the history of South Australian UFO reports, the episode is less important a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -630,7 +630,7 @@ For the history of South Australian UFO reports, the episode is less important a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -675,7 +675,7 @@ For the history of South Australian UFO reports, the episode is less important a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -716,117 +716,117 @@ For the history of South Australian UFO reports, the episode is less important a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: British nuclear tests at Maralinga  
-   Link: <a href="https://en.wikipedia.org/wiki/British_nuclear_tests_at_Maralinga" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/British_nuclear_tests_at_Maralinga</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/British_nuclear_tests_at_Maralinga" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/British_nuclear_tests_at_Maralinga</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Operation Vixen  
-   Link: <a href="https://en.wikipedia.org/wiki/Operation_Vixen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Operation_Vixen</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation VixenThe Vixen series of nuclear tests were all safety experiments, in which a bomb mechanism with a live core was subjected...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Operation_Vixen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Operation_Vixen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Operation VixenThe Vixen series of nuclear tests were all safety experiments, in which a bomb mechanism with a live core was subjected...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Westall UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westall_UFO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Westall UFOThe Westall UFO was a reported UFO sighting in Australia that occurred on 6 April 1966 in Melbourne, Victoria.Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westall_UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Westall UFOThe Westall UFO was a reported UFO sighting in Australia that occurred on 6 April 1966 in Melbourne, Victoria.Read more...</p></details>
    Published: April 1966  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: The Story of Maralinga | Off the Couch with Ethan  
-   Link: <a href="https://www.youtube.com/watch?v=FZs7nAOhu70" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FZs7nAOhu70</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Test - 1956 | Movietone Moment | 4 Oct 19...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FZs7nAOhu70" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FZs7nAOhu70</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Test - 1956 | Movietone Moment | 4 Oct 19...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Nuclear Test  
-   Link: <a href="https://www.youtube.com/watch?v=wbEdbqHf5fI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wbEdbqHf5fI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atom Test (1956)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wbEdbqHf5fI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wbEdbqHf5fI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atom Test (1956)...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-[woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-[woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-[woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-[woomera</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/UFO%20sightings%20at%20weapons%20testing%20site.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/UFO%20sightings%20at%20weapons%20testing%20site.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2. The Constable was questioned and said that he was sitting in his caravan at...Read more...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/UFO%20sightings%20at%20weapons%20testing%20site.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/UFO%20sightings%20at%20weapons%20testing%20site.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2. The Constable was questioned and said that he was sitting in his caravan at...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dva.gov.au  
    Title: dosimetry complete study 1  
-   Link: <a href="https://www.dva.gov.au/sites/default/files/dosimetry_complete_study_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dva.gov.au/sites/default/files/dosimetry_complete_study_1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All 31 Vixen A trials took place at Maralinga (Wewak) between 1959 and 1961. The. Vixen B series involved 12 trials...Read more...</p></details>
+   Link:<a href="https://www.dva.gov.au/sites/default/files/dosimetry_complete_study_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dva.gov.au/sites/default/files/dosimetry_complete_study_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All 31 Vixen A trials took place at Maralinga (Wewak) between 1959 and 1961. The. Vixen B series involved 12 trials...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: parlinfo.aph.gov.au  
-   Link: <a href="https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bquery%3DId%3A%22publications%2Ftabledpapers%2FHPP032016010929%22%3Bsrc1%3Dsm1" target="_blank" rel="noopener noreferrer nofollow">https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bquery%3DId%3A%22publications%2Ftabledpapers%2FHPP032016010929%22%3Bsrc1%3Dsm1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>British Nuclear Tests in Australia - Volume 232 The trials, code-named Vixen A, were conducted at Maralinga soon after and are described...</p></details>
+   Link:<a href="https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bquery%3DId%3A%22publications%2Ftabledpapers%2FHPP032016010929%22%3Bsrc1%3Dsm1" target="_blank" rel="noopener noreferrer nofollow">https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bquery%3DId%3A%22publications%2Ftabledpapers%2FHPP032016010929%22%3Bsrc1%3Dsm1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British Nuclear Tests in Australia - Volume 232 The trials, code-named Vixen A, were conducted at Maralinga soon after and are described...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: blogs.slv.vic.gov.au  
    Title: strange lights in the sky the westall ufo event 1966  
-   Link: <a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lights in the sky: The Westall UFO event, 19666 Apr 2024 — On 6 April 1966 something strange happened at a patch of scrubby, pine-ringed...</p></details>
+   Link:<a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lights in the sky: The Westall UFO event, 19666 Apr 2024 — On 6 April 1966 something strange happened at a patch of scrubby, pine-ringed...</p></details>
    Published: April 1966  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oecd-nea.org  
-   Link: <a href="https://www.oecd-nea.org/upload/docs/application/pdf/2023-02/2_presentationemmabarnes_opt.wswebinar-8feb2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd-nea.org/upload/docs/application/pdf/2023-02/2_presentationemmabarnes_opt.wswebinar-8feb2023.pdf</a>  
+   Link:<a href="https://www.oecd-nea.org/upload/docs/application/pdf/2023-02/2_presentationemmabarnes_opt.wswebinar-8feb2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd-nea.org/upload/docs/application/pdf/2023-02/2_presentationemmabarnes_opt.wswebinar-8feb2023.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: engineersaustralia.org.au  
    Title: MARALING A AND THE DISPOSAL OF NUCLEAR WASTEThere were two types of Vixen trial  
-   Link: <a href="https://www.engineersaustralia.org.au/sites/default/files/resource-files/2017-01/Maralinga%26NuclearWasteDisposal-Parkinson-30Sep10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.engineersaustralia.org.au/sites/default/files/resource-files/2017-01/Maralinga%26NuclearWasteDisposal-Parkinson-30Sep10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vixen A trials were conducted at the Wewak and TM sites. The Vixen B trials were all conducted at Taranaki. See: A...Read more...</p></details>
+   Link:<a href="https://www.engineersaustralia.org.au/sites/default/files/resource-files/2017-01/Maralinga%26NuclearWasteDisposal-Parkinson-30Sep10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.engineersaustralia.org.au/sites/default/files/resource-files/2017-01/Maralinga%26NuclearWasteDisposal-Parkinson-30Sep10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Vixen A trials were conducted at the Wewak and TM sites. The Vixen B trials were all conducted at Taranaki. See: A...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9w9RowkJ1yY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9w9RowkJ1yY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloons! The Forgotten Flights That No One Talks AboutToday we&#x27;re taking a brief look at the fascinating evolution of manned balloon fli...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9w9RowkJ1yY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9w9RowkJ1yY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balloons! The Forgotten Flights That No One Talks AboutToday we&#x27;re taking a brief look at the fascinating evolution of manned balloon fli...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yqC9ICdfhQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yqC9ICdfhQM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shootin&#x27; Balloons: A HistoryHow often do we have to call out the military to shoot down balloons? More often than you might think. Some n...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yqC9ICdfhQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yqC9ICdfhQM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shootin&#x27; Balloons: A HistoryHow often do we have to call out the military to shoot down balloons? More often than you might think. Some n...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufotransparency.com  
    Title: intl au woomera weapons testing ufo sightings at weapons testing site  
-   Link: <a href="https://ufotransparency.com/files/intl-au-woomera-weapons-testing-ufo-sightings-at-weapons-testing-site" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-au-woomera-weapons-testing-ufo-sightings-at-weapons-testing-site</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings at Weapons Testing Site, Woomera Rocket Range...On 15 July 1960 at about 7:15 p.m, Constable Hubert Dave Scarborough repor...</p></details>
+   Link:<a href="https://ufotransparency.com/files/intl-au-woomera-weapons-testing-ufo-sightings-at-weapons-testing-site" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-au-woomera-weapons-testing-ufo-sightings-at-weapons-testing-site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings at Weapons Testing Site, Woomera Rocket Range...On 15 July 1960 at about 7:15 p.m, Constable Hubert Dave Scarborough repor...</p></details>
    Published: July 1960  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: seattleballooning.com  
    Title: hot air balloons and ufos a history of mistaken identity  
-   Link: <a href="https://seattleballooning.com/hot-air-balloons-and-ufos-a-history-of-mistaken-identity/" target="_blank" rel="noopener noreferrer nofollow">https://seattleballooning.com/hot-air-balloons-and-ufos-a-history-of-mistaken-identity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hot Air Balloons and UFO&#x27;s: A History Of Mistaken Identity5 Jul 2021 — This article will look into the reported sightings and examine the...</p></details>
+   Link:<a href="https://seattleballooning.com/hot-air-balloons-and-ufos-a-history-of-mistaken-identity/" target="_blank" rel="noopener noreferrer nofollow">https://seattleballooning.com/hot-air-balloons-and-ufos-a-history-of-mistaken-identity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hot Air Balloons and UFO&#x27;s: A History Of Mistaken Identity5 Jul 2021 — This article will look into the reported sightings and examine the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: [archives](&#123;&#123; 'archives-d7c21b/' | relative_url &#125;&#125;). gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOs and UAPs in the National Archives Catalog.Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOs and UAPs in the National Archives Catalog.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: It's considered Australia's mass UFO sighting event  
-   Link: <a href="https://www.facebook.com/abcnews.au/posts/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/1518240172990581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/1518240172990581/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1966 over 300 children and staff from Westall Secondary College reportedly witnessed multiple UFOs silently flying through the s...</p></details>
+   Link:<a href="https://www.facebook.com/abcnews.au/posts/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/1518240172990581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/its-considered-australias-mass-ufo-sighting-event-in-1966-more-than-100-school-s/1518240172990581/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1966 over 300 children and staff from Westall Secondary College reportedly witnessed multiple UFOs silently flying through the s...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
    Title: It's considered Australia's mass UFO sighting event  
-   Link: <a href="https://www.instagram.com/reel/DWz6t-pjcVz/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWz6t-pjcVz/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1966...Four days before the famous Westall UFO incident on 6 April 1966, a respected Melbourne businessman photographed a strange dis...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWz6t-pjcVz/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWz6t-pjcVz/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1966...Four days before the famous Westall UFO incident on 6 April 1966, a respected Melbourne businessman photographed a strange dis...</p></details>
    Published: April 1966  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic records show that the wind would have taken the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historic records show that the wind would have taken the...Read more...</p></details>

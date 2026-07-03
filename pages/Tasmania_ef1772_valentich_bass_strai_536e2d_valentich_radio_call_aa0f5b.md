@@ -256,7 +256,7 @@ image: /assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_radi
 
 ## Introduction
 
-The final radio exchange between Frederick [Valentich]({{ 'valentich/' | relative_url }}) and Melbourne Flight Service is the strongest piece of evidence in the entire Bass Strait disappearance. It is also one of the most misunderstood. The recording does not prove that an unknown craft was present, let alone that a UFO caused the loss of the aircraft. What it does prove is that, shortly before radio contact ended, Valentich sincerely reported seeing something he could not identify, described unusual lights and manoeuvres, and believed the object was close enough to affect his flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+The final radio exchange between Frederick [Valentich]({{ 'valentich/' | relative_url }}) and Melbourne Flight Service is the strongest piece of evidence in the entire Bass Strait disappearance. It is also one of the most misunderstood. The recording does not prove that an unknown craft was present, let alone that a UFO caused the loss of the aircraft. What it does prove is that, shortly before radio contact ended, Valentich sincerely reported seeing something he could not identify, described unusual lights and manoeuvres, and believed the object was close enough to affect his flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_radio_call_aa0f5b-Illustration-1-dark.svg" | relative_url }}" alt="Radio Call illustration 1" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_radio_call_aa0f5b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_radio_call_aa0f5b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,7 +264,7 @@ For [Tasmania]({{ 'what-really-happened-in-tasmanias-ufo/' | relative_url }})'s 
 
 ## Timeline of the Melbourne Flight Service exchange
 
-The radio conversation lasted roughly six and a half minutes. During that period Valentich repeatedly updated Melbourne Flight Service about an unidentified object he believed was near his aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tahs.org.au/wp-content/uploads/2020/07/TAHS-2020.0002.0_Mystery-VH-DSJ.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tahs.org.au">[Tasmanian Aviation Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tahs.org.au</span><span class="citation-popover-snippet">Tasmanian Aviation SocietyMysteries of Aviation – Frederick Valentich and VH-DSJTaken from the official Air Transport Accident Board repo...</span></span></span>
+The radio conversation lasted roughly six and a half minutes. During that period Valentich repeatedly updated Melbourne Flight Service about an unidentified object he believed was near his aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tahs.org.au/wp-content/uploads/2020/07/TAHS-2020.0002.0_Mystery-VH-DSJ.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tahs.org.au">[Tasmanian Aviation Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tahs.org.au</span><span class="citation-popover-snippet">Tasmanian Aviation SocietyMysteries of Aviation – Frederick Valentich and VH-DSJTaken from the official Air Transport Accident Board repo...</span></span></span>
 
 The key progression was:
 
@@ -279,11 +279,11 @@ The key progression was:
 * He described a shiny metallic appearance and a green light.
 * He reported that his engine was running roughly.
 * When asked to identify the object, he eventually stated: "It's not an aircraft."
-* Radio contact ended after a period of unexplained sounds often described as metallic scraping or rubbing noises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+* Radio contact ended after a period of unexplained sounds often described as metallic scraping or rubbing noises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
 </div>
 
-What makes the exchange unusual is that the descriptions evolved over time. Valentich did not immediately declare a UFO encounter. Instead, he began by asking a routine traffic question and gradually became less certain that what he was observing was a conventional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+What makes the exchange unusual is that the descriptions evolved over time. Valentich did not immediately declare a UFO encounter. Instead, he began by asking a routine traffic question and gradually became less certain that what he was observing was a conventional aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
 ## Four lights, green light and engine roughness
 
@@ -294,15 +294,15 @@ Three elements of the transmission receive the most attention from UFO researche
 
 ### The four bright lights
 
-Valentich initially described what appeared to be four bright lights resembling landing lights. That description can support more than one interpretation. Four lights are consistent with a distant aircraft seen at night, but they are also consistent with misidentified celestial or atmospheric lights when depth and distance are difficult to judge over dark water. The radio call itself cannot distinguish between those possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+Valentich initially described what appeared to be four bright lights resembling landing lights. That description can support more than one interpretation. Four lights are consistent with a distant aircraft seen at night, but they are also consistent with misidentified celestial or atmospheric lights when depth and distance are difficult to judge over dark water. The radio call itself cannot distinguish between those possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
 ### The green light
 
-The green light became one of the most famous details because several later UFO interpretations treated it as evidence of an unusual craft. However, critics have noted that aircraft navigation lights themselves include green lights on the starboard wing, and some investigators have suggested that reflections, orientation errors, or misidentification could account for the observation. The radio exchange alone cannot determine which explanation is correct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+The green light became one of the most famous details because several later UFO interpretations treated it as evidence of an unusual craft. However, critics have noted that aircraft navigation lights themselves include green lights on the starboard wing, and some investigators have suggested that reflections, orientation errors, or misidentification could account for the observation. The radio exchange alone cannot determine which explanation is correct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
 ### The rough-running engine
 
-Valentich reported that his engine was "rough idling" and "coughing". This is an important detail because it points to a potential aviation problem independent of any unidentified object. The transmission confirms that Valentich perceived an engine issue, but it does not prove the engine was actually failing. Pilots can misdiagnose sounds and performance changes, especially when distracted or under stress. Conversely, a genuine mechanical problem could have contributed to confusion and workload in the cockpit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">V: My intentions are, ah, to go to King Island. Ah, Melbourne, that strange aircraft is hovering on top of me again.Read more...</span></span></span>
+Valentich reported that his engine was "rough idling" and "coughing". This is an important detail because it points to a potential aviation problem independent of any unidentified object. The transmission confirms that Valentich perceived an engine issue, but it does not prove the engine was actually failing. Pilots can misdiagnose sounds and performance changes, especially when distracted or under stress. Conversely, a genuine mechanical problem could have contributed to confusion and workload in the cockpit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">V: My intentions are, ah, to go to King Island. Ah, Melbourne, that strange aircraft is hovering on top of me again.Read more...</span></span></span>
 
 The radio call therefore establishes that an engine concern was reported. It does not establish the cause, severity or reality of that concern.
 
@@ -310,13 +310,13 @@ The radio call therefore establishes that an engine concern was reported. It doe
 <img src="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_radio_call_aa0f5b-Illustration-2-dark.svg" | relative_url }}" alt="Radio Call illustration 2" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_radio_call_aa0f5b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_radio_call_aa0f5b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “It's not an aircraft” matters
 
-The most quoted line in the entire case is Valentich's statement that the object was "not an aircraft". The phrase carries weight because it came from a licensed pilot who was actively observing the object at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+The most quoted line in the entire case is Valentich's statement that the object was "not an aircraft". The phrase carries weight because it came from a licensed pilot who was actively observing the object at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
 However, the evidential value of the statement depends on what question is being asked.
 
 If the question is whether Valentich believed he was observing something unusual, the answer is yes. The transmission strongly supports that conclusion.
 
-If the question is whether the object was objectively not an aircraft, the answer is different. The statement reflects a witness judgement, not an independently verified fact. Air traffic services had no radar confirmation of the object, no visual confirmation from another aircraft, and no physical evidence linking an unidentified craft to the disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+If the question is whether the object was objectively not an aircraft, the answer is different. The statement reflects a witness judgement, not an independently verified fact. Air traffic services had no radar confirmation of the object, no visual confirmation from another aircraft, and no physical evidence linking an unidentified craft to the disappearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
 This distinction is crucial. Witness testimony can be compelling evidence of perception without being definitive evidence of the external reality that produced that perception.
 
@@ -337,11 +337,11 @@ It shows that:
 * He described specific features, including bright lights and a green light.
 * He believed the object was manoeuvring around his aircraft.
 * He reported engine roughness.
-* Contact ended abruptly shortly afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+* Contact ended abruptly shortly afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
 </div>
 
-These points are supported directly by the recorded communications and associated investigation records. They are among the strongest facts in the entire case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">tober 21st,1978 over the Bass Strait. I believe that the accident...Read more...</span></span></span>
+These points are supported directly by the recorded communications and associated investigation records. They are among the strongest facts in the entire case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">tober 21st,1978 over the Bass Strait. I believe that the accident...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_radio_call_aa0f5b-Illustration-3-dark.svg" | relative_url }}" alt="Radio Call illustration 3" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_radio_call_aa0f5b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_radio_call_aa0f5b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -356,208 +356,208 @@ The transmission cannot prove:
 * That the object caused the disappearance.
 * That Valentich's engine was actually failing.
 * That the unidentified sounds after the final transmission came from another craft.
-* That his observations were free from misidentification or spatial [disorientation]({{ 'disorientation/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">tober 21st,1978 over the Bass Strait. I believe that the accident...Read more...</span></span></span>
+* That his observations were free from misidentification or spatial [disorientation]({{ 'disorientation/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">tober 21st,1978 over the Bass Strait. I believe that the accident...Read more...</span></span></span>
 
-Investigators never recovered enough evidence to determine what happened after the final call. As a result, every explanation—accident, disorientation, mechanical trouble, misperception, deliberate disappearance, or an encounter with an unknown object—extends beyond what the radio exchange alone can demonstrate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">tober 21st,1978 over the Bass Strait. I believe that the accident...Read more...</span></span></span>
+Investigators never recovered enough evidence to determine what happened after the final call. As a result, every explanation—accident, disorientation, mechanical trouble, misperception, deliberate disappearance, or an encounter with an unknown object—extends beyond what the radio exchange alone can demonstrate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">tober 21st,1978 over the Bass Strait. I believe that the accident...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W9hyfPpfL1k" title="The Pilot Who Vanished in Seconds —The Haunting Last Transmission of Frederick Valentich! #atc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W9hyfPpfL1k" target="_blank" rel="noopener noreferrer">The Pilot Who Vanished in Seconds —The Haunting Last Transmission of Frederick Valentich! #atc</a></p><p class="youtube-embed-meta">Channel: Flight Follower &middot; Views: 2.3K &middot; Uploaded: November 2025 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W9hyfPpfL1k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W9hyfPpfL1k">Open on YouTube</a></p></div></div></div>
 
 ## The lasting value of the recording
 
-Within Tasmania's UFO history, the Valentich radio call remains important because it captures an unfolding event rather than a retrospective story. Readers can hear a pilot attempting to describe something in real time, with no opportunity to reshape the account after the fact. That gives the case a degree of immediacy rarely found in UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/listen/programs/the-history-listen/valentich-mystery/10980258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Last Light: the Valentich Mystery</span><span class="citation-popover-snippet">ABC NewsLast Light: the Valentich Mystery - ABC listen4 June 2019 — When twenty-year-old pilot Frederick Valentich vanished off the coast...</span><span class="citation-popover-meta">Published: June 2019</span></span></span>
+Within Tasmania's UFO history, the Valentich radio call remains important because it captures an unfolding event rather than a retrospective story. Readers can hear a pilot attempting to describe something in real time, with no opportunity to reshape the account after the fact. That gives the case a degree of immediacy rarely found in UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/listen/programs/the-history-listen/valentich-mystery/10980258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Last Light: the Valentich Mystery</span><span class="citation-popover-snippet">ABC NewsLast Light: the Valentich Mystery - ABC listen4 June 2019 — When twenty-year-old pilot Frederick Valentich vanished off the coast...</span><span class="citation-popover-meta">Published: June 2019</span></span></span>
 
-Yet the same recording illustrates the limits of eyewitness evidence. The exchange is strong evidence that Valentich experienced something he could not explain. It is not strong evidence for what that something actually was. More than four decades later, the radio call remains the most compelling part of the Bass Strait mystery precisely because it is both detailed and inconclusive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Flight Safety Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+Yet the same recording illustrates the limits of eyewitness evidence. The exchange is strong evidence that Valentich experienced something he could not explain. It is not strong evidence for what that something actually was. More than four decades later, the radio call remains the most compelling part of the Bass Strait mystery precisely because it is both detailed and inconclusive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did Valentich really report?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did Valentich really report?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating eyewitness reports and unexplained aerial observations like the Valentich case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating eyewitness reports and unexplained aerial observations like the Valentich case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores how unusual aerial reports are assessed and debated, paralleling questions raised by Valentich&#x27;s radio call.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how unusual aerial reports are assessed and debated, paralleling questions raised by Valentich&#x27;s radio call.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on pilot and official testimony, making it particularly relevant to a pilot-reported incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on pilot and official testimony, making it particularly relevant to a pilot-reported incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines reports of strange aerial phenomena and how witness interpretations can shape extraordinary cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines reports of strange aerial phenomena and how witness interpretations can shape extraordinary cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th"><img src="{{ '/assets/images/marketplace-covers/af92614b71fb97920405.jpg' | relative_url }}" alt="Listing image for Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th"><img src="{{ '/assets/images/marketplace-covers/af92614b71fb97920405.jpg' | relative_url }}" alt="Listing image for Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Hammerton Map C1920 Australia Tasmania Bass Strait Kangaroo"><img src="{{ '/assets/images/marketplace-covers/04ea6d27afd10e0d44d9.jpg' | relative_url }}" alt="Listing image for Antique Old Print Hammerton Map C1920 Australia Tasmania Bass Strait Kangaroo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Hammerton Map C1920 Australia Tasmania Bass Strait Kangaroo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Hammerton Map C1920 Australia Tasmania Bass Strait Kangaroo"><img src="{{ '/assets/images/marketplace-covers/04ea6d27afd10e0d44d9.jpg' | relative_url }}" alt="Listing image for Antique Old Print Hammerton Map C1920 Australia Tasmania Bass Strait Kangaroo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Hammerton Map C1920 Australia Tasmania Bass Strait Kangaroo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Cassell Map 1920 Australia Tasmania Bass Strait Tasmania New Zeal 20th"><img src="{{ '/assets/images/marketplace-covers/357e9d199fd411f0115a.jpg' | relative_url }}" alt="Listing image for Old Cassell Map 1920 Australia Tasmania Bass Strait Tasmania New Zeal 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Cassell Map 1920 Australia Tasmania Bass Strait Tasmania New Zeal 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Cassell Map 1920 Australia Tasmania Bass Strait Tasmania New Zeal 20th"><img src="{{ '/assets/images/marketplace-covers/357e9d199fd411f0115a.jpg' | relative_url }}" alt="Listing image for Old Cassell Map 1920 Australia Tasmania Bass Strait Tasmania New Zeal 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Cassell Map 1920 Australia Tasmania Bass Strait Tasmania New Zeal 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bass Strait Australia Tasmania Victoria Flinders ADMIRALTY chart 1868 (1954) map"><img src="{{ '/assets/images/marketplace-covers/ea70cde5a066236ac70f.jpg' | relative_url }}" alt="Listing image for Bass Strait Australia Tasmania Victoria Flinders ADMIRALTY chart 1868 (1954) map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Bass Strait Australia Tasmania Victoria Flinders ADMIRALTY chart 1868 (1954) map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bass Strait Australia Tasmania Victoria Flinders ADMIRALTY chart 1868 (1954) map"><img src="{{ '/assets/images/marketplace-covers/ea70cde5a066236ac70f.jpg' | relative_url }}" alt="Listing image for Bass Strait Australia Tasmania Victoria Flinders ADMIRALTY chart 1868 (1954) map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Bass Strait Australia Tasmania Victoria Flinders ADMIRALTY chart 1868 (1954) map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="radio-call-what-did-valentich-really-report-tasmania-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ Yet the same recording illustrates the limits of eyewitness evidence. The exchan
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ Yet the same recording illustrates the limits of eyewitness evidence. The exchan
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ Yet the same recording illustrates the limits of eyewitness evidence. The exchan
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ Yet the same recording illustrates the limits of eyewitness evidence. The exchan
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ Yet the same recording illustrates the limits of eyewitness evidence. The exchan
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,107 +763,107 @@ Yet the same recording illustrates the limits of eyewitness evidence. The exchan
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Disappearance of Frederick Valentich  
-   Link: <a href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/385" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/385</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disappearance of Frederick Valentich22 Oct 2013 — The Australian Department of Transport&#x27;s official accident investigation summary re...</p></details>
+   Link:<a href="https://skeptoid.com/episodes/385" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/385</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Disappearance of Frederick Valentich22 Oct 2013 — The Australian Department of Transport&#x27;s official accident investigation summary re...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: Ep 126  
-   Link: <a href="https://www.youtube.com/watch?v=Ej8oiPX03w0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ej8oiPX03w0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ej8oiPX03w0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ej8oiPX03w0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tahs.org.au  
-   Link: <a href="https://tahs.org.au/wp-content/uploads/2020/07/TAHS-2020.0002.0_Mystery-VH-DSJ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tahs.org.au/wp-content/uploads/2020/07/TAHS-2020.0002.0_Mystery-VH-DSJ.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tasmanian Aviation SocietyMysteries of Aviation – Frederick Valentich and VH-DSJTaken from the official Air Transport Accident Board repo...</p></details>
+   Link:<a href="https://tahs.org.au/wp-content/uploads/2020/07/TAHS-2020.0002.0_Mystery-VH-DSJ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tahs.org.au/wp-content/uploads/2020/07/TAHS-2020.0002.0_Mystery-VH-DSJ.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tasmanian Aviation SocietyMysteries of Aviation – Frederick Valentich and VH-DSJTaken from the official Air Transport Accident Board repo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: abc.net.au  
    Title: ABC News Last Light: the Valentich Mystery  
-   Link: <a href="https://www.abc.net.au/listen/programs/the-history-listen/valentich-mystery/10980258" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/the-history-listen/valentich-mystery/10980258</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsLast Light: the Valentich Mystery - ABC listen4 June 2019 — When twenty-year-old pilot Frederick Valentich vanished off the coast...</p></details>
+   Link:<a href="https://www.abc.net.au/listen/programs/the-history-listen/valentich-mystery/10980258" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/the-history-listen/valentich-mystery/10980258</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsLast Light: the Valentich Mystery - ABC listen4 June 2019 — When twenty-year-old pilot Frederick Valentich vanished off the coast...</p></details>
    Published: June 2019  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>V: My intentions are, ah, to go to King Island. Ah, Melbourne, that strange aircraft is hovering on top of me again.Read more...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>V: My intentions are, ah, to go to King Island. Ah, Melbourne, that strange aircraft is hovering on top of me again.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tober 21st,1978 over the Bass Strait. I believe that the accident...Read more...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tober 21st,1978 over the Bass Strait. I believe that the accident...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: flightsafetyaustralia.com  
    Title: leaving this world  
-   Link: <a href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Feb 2025 — Fred Valentich&#x27;s disappearance remains a mystery but at the same time, there are lessons to be learnt from it.Read more...</p></details>
+   Link:<a href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24 Feb 2025 — Fred Valentich&#x27;s disappearance remains a mystery but at the same time, there are lessons to be learnt from it.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: flightsafetyaustralia.com  
    Title: driven to distraction  
-   Link: <a href="https://www.flightsafetyaustralia.com/2017/01/driven-to-distraction/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2017/01/driven-to-distraction/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>!18 Jan 2017 — CLEAROFF is an en-route informal check of: Engine (check gauges) Altitude (correct as assigned) Radio (check frequency)...</p></details>
+   Link:<a href="https://www.flightsafetyaustralia.com/2017/01/driven-to-distraction/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2017/01/driven-to-distraction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>!18 Jan 2017 — CLEAROFF is an en-route informal check of: Engine (check gauges) Altitude (correct as assigned) Radio (check frequency)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/ie/podcast/frederick-valentich-the-flight-australian-mystery/id1837358967?i=1000761416106" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ie/podcast/frederick-valentich-the-flight-australian-mystery/id1837358967?i=1000761416106</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Valentich - The Flight - Australian Mystery14 Apr 2026 — He crossed the coast at Cape Otway at seven o&#x27;clock, right on schedule...</p></details>
+   Link:<a href="https://podcasts.apple.com/ie/podcast/frederick-valentich-the-flight-australian-mystery/id1837358967?i=1000761416106" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ie/podcast/frederick-valentich-the-flight-australian-mystery/id1837358967?i=1000761416106</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Valentich - The Flight - Australian Mystery14 Apr 2026 — He crossed the coast at Cape Otway at seven o&#x27;clock, right on schedule...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2513639668759108/posts/24460956840267409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2513639668759108/posts/24460956840267409/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian pilot disappearance over Bass StraitThe Final Radio Exchange Below is the word-for-word transcript (as preserved by the Austra...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2513639668759108/posts/24460956840267409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2513639668759108/posts/24460956840267409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian pilot disappearance over Bass StraitThe Final Radio Exchange Below is the word-for-word transcript (as preserved by the Austra...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: x.com  
-   Link: <a href="https://x.com/VisionaryVoid/status/2060724158250787246" target="_blank" rel="noopener noreferrer nofollow">https://x.com/VisionaryVoid/status/2060724158250787246</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VisionaryVoidHe described it as a long, metallic object with a green light, moving at incredible speeds. Over the next several minutes, V...</p></details>
+   Link:<a href="https://x.com/VisionaryVoid/status/2060724158250787246" target="_blank" rel="noopener noreferrer nofollow">https://x.com/VisionaryVoid/status/2060724158250787246</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VisionaryVoidHe described it as a long, metallic object with a green light, moving at incredible speeds. Over the next several minutes, V...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: monumentaustralia.org  
-   Link: <a href="https://www.monumentaustralia.org/themes/people/aviation/display/30627-frederick-valentich" target="_blank" rel="noopener noreferrer nofollow">https://www.monumentaustralia.org/themes/people/aviation/display/30627-frederick-valentich</a>  
+   Link:<a href="https://www.monumentaustralia.org/themes/people/aviation/display/30627-frederick-valentich" target="_blank" rel="noopener noreferrer nofollow">https://www.monumentaustralia.org/themes/people/aviation/display/30627-frederick-valentich</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lostmedia/comments/gj5oo3/looking_for_the_frederick_valentich_original_audio/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lostmedia/comments/gj5oo3/looking_for_the_frederick_valentich_original_audio/</a>  
+   Link:<a href="https://www.reddit.com/r/lostmedia/comments/gj5oo3/looking_for_the_frederick_valentich_original_audio/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lostmedia/comments/gj5oo3/looking_for_the_frederick_valentich_original_audio/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40TheZionistWriters/this-pilots-last-words-are-an-enduring-true-crime-mystery-49b5019c4122" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40TheZionistWriters/this-pilots-last-words-are-an-enduring-true-crime-mystery-49b5019c4122</a>  
+   Link:<a href="https://medium.com/%40TheZionistWriters/this-pilots-last-words-are-an-enduring-true-crime-mystery-49b5019c4122" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40TheZionistWriters/this-pilots-last-words-are-an-enduring-true-crime-mystery-49b5019c4122</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“It&#x27;s Not an Aircraft”: The Vanishing of Frederick Valentich...On Saturday 21 October 1978, Valentich rented a Cessna 182L, registration...</p></details>
+   Link:<a href="https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“It&#x27;s Not an Aircraft”: The Vanishing of Frederick Valentich...On Saturday 21 October 1978, Valentich rented a Cessna 182L, registration...</p></details>
    Published: October 1978  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mystery/comments/1nomej6/its_not_an_aircraft_the_baffling_final_flight_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/1nomej6/its_not_an_aircraft_the_baffling_final_flight_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You left out the part where Nickell says the green light Valentich observed was his own wing marker.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/mystery/comments/1nomej6/its_not_an_aircraft_the_baffling_final_flight_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/1nomej6/its_not_an_aircraft_the_baffling_final_flight_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You left out the part where Nickell says the green light Valentich observed was his own wing marker.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vocal.media  
-   Link: <a href="https://vocal.media/horror/the-frederick-valentich-disappearance-the-pilot-who-narrated-his-own-vanishing" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/horror/the-frederick-valentich-disappearance-the-pilot-who-narrated-his-own-vanishing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steve Robey, a controller at Melbourne Air Traffic Control in Tullamarine, took the call. He transcribed every word in real time. Valenti...</p></details>
+   Link:<a href="https://vocal.media/horror/the-frederick-valentich-disappearance-the-pilot-who-narrated-his-own-vanishing" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/horror/the-frederick-valentich-disappearance-the-pilot-who-narrated-his-own-vanishing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steve Robey, a controller at Melbourne Air Traffic Control in Tullamarine, took the call. He transcribed every word in real time. Valenti...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/wikibase/wiki.php?id=166155" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/wiki.php?id=166155</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>le to determine the cause, but that it was &quot;presumed fatal&quot; for Valentich.Read more...</p></details>
+   Link:<a href="https://aviation-safety.net/wikibase/wiki.php?id=166155" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/wiki.php?id=166155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>le to determine the cause, but that it was &quot;presumed fatal&quot; for Valentich.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/themissingandunsolvedcrimesofsouthaus/posts/frederick-valentich-a-20-year-old-pilot-in-training-was-on-a-235km-training-flig/821670490418755/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themissingandunsolvedcrimesofsouthaus/posts/frederick-valentich-a-20-year-old-pilot-in-training-was-on-a-235km-training-flig/821670490418755/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>al-mile (232 km) training flight in a Cessna 182L light...</p></details>
+   Link:<a href="https://www.facebook.com/themissingandunsolvedcrimesofsouthaus/posts/frederick-valentich-a-20-year-old-pilot-in-training-was-on-a-235km-training-flig/821670490418755/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themissingandunsolvedcrimesofsouthaus/posts/frederick-valentich-a-20-year-old-pilot-in-training-was-on-a-235km-training-flig/821670490418755/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>al-mile (232 km) training flight in a Cessna 182L light...</p></details>

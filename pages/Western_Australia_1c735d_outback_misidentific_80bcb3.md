@@ -290,15 +290,15 @@ image: /assets/images/Western_Australia_1c735d_outback_misidentific_80bcb3-overv
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_outback_misidentific_80bcb3-overview.webp" | relative_url }}" alt="Overview image for Explanations" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many WA reports are remembered as mysteries not simply because of what was seen, but because of where and how they were seen: on isolated highways, over country towns, from moving vehicles, or across empty-looking horizons. The WA Police “UFO File” shows that country reports were taken seriously enough to be recorded, while later cases and modern sky events show how often “unidentified” first means “not yet checked against the environment”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News&#x27;UFO file&#x27; sheds light on strange encounters in Western</span><span class="citation-popover-snippet">July 28, 2020 — 27 Jul 2020 — The UFO file holds dozens of police reports linked to sightings of Unidentified Flying Objects across the s...</span><span class="citation-popover-meta">Published: July 28, 2020</span></span></span>
+This matters because many WA reports are remembered as mysteries not simply because of what was seen, but because of where and how they were seen: on isolated highways, over country towns, from moving vehicles, or across empty-looking horizons. The WA Police “UFO File” shows that country reports were taken seriously enough to be recorded, while later cases and modern sky events show how often “unidentified” first means “not yet checked against the environment”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News&#x27;UFO file&#x27; sheds light on strange encounters in Western</span><span class="citation-popover-snippet">July 28, 2020 — 27 Jul 2020 — The UFO file holds dozens of police reports linked to sightings of Unidentified Flying Objects across the s...</span><span class="citation-popover-meta">Published: July 28, 2020</span></span></span>
 
 ## Why WA roads turn lights into stories
 
 Western Australia is built for misjudgement at distance. A light that would be dismissed in Perth as an aircraft, drone, satellite or distant vehicle can feel much more dramatic on the Great Eastern Highway, the Eyre Highway, a mining road, or a dark coastal road in the Mid West. There may be no nearby buildings for scale, no familiar skyline, few other witnesses, and long stretches where the same light seems to “follow” the driver simply because both vehicle and observer keep moving along the same line of sight.
 
-Official road-safety advice gives a practical clue to the UFO problem. Main Roads Western Australia warns long-distance drivers to plan daylight travel where possible, share driving, swap drivers every two hours, take regular breaks, and watch for fatigue signs such as disconnected thoughts, missed road signs, unintentional slowing and late braking. Those are safety warnings, not UFO explanations, but they are directly relevant to night-sky perception: tired drivers are worse placed to judge speed, distance, direction and threat on an empty road. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mainroads.wa.gov.au/travel-information/driving-in-wa/long-distance-driving/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mainroads.wa.gov.au">[mainroads.wa.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mainroads.wa.gov.au</span><span class="citation-popover-title">Regional and long distance driving What do you need to know before you go?</span><span class="citation-popover-snippet">; Aim for at least seven hours of sleep per night; Avoid caffeine and alcohol before sleeping; Wandering or disconnected...Read more...</span></span></span>
+Official road-safety advice gives a practical clue to the UFO problem. Main Roads Western Australia warns long-distance drivers to plan daylight travel where possible, share driving, swap drivers every two hours, take regular breaks, and watch for fatigue signs such as disconnected thoughts, missed road signs, unintentional slowing and late braking. Those are safety warnings, not UFO explanations, but they are directly relevant to night-sky perception: tired drivers are worse placed to judge speed, distance, direction and threat on an empty road.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mainroads.wa.gov.au/travel-information/driving-in-wa/long-distance-driving/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mainroads.wa.gov.au">[mainroads.wa.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mainroads.wa.gov.au</span><span class="citation-popover-title">Regional and long distance driving What do you need to know before you go?</span><span class="citation-popover-snippet">; Aim for at least seven hours of sleep per night; Avoid caffeine and alcohol before sleeping; Wandering or disconnected...Read more...</span></span></span>
 
-The WA Road Safety Commission describes fatigue as a “silent killer” on WA roads and frames it especially around long-distance driving. The point for UFO history is not that tired witnesses invent everything. It is that fatigue, darkness and monotony can turn ambiguous stimuli into urgent narratives. A light on the horizon may be real; the interpretation that it is pacing the car, hovering over the road, or changing direction sharply may be partly produced by the driver’s moving viewpoint and lack of reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wa.gov.au/organisation/road-safety-commission/fatigue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wa.gov.au">[Western Australian Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wa.gov.au</span><span class="citation-popover-snippet">Open source on wa.gov.au.</span></span></span>
+The WA Road Safety Commission describes fatigue as a “silent killer” on WA roads and frames it especially around long-distance driving. The point for UFO history is not that tired witnesses invent everything. It is that fatigue, darkness and monotony can turn ambiguous stimuli into urgent narratives. A light on the horizon may be real; the interpretation that it is pacing the car, hovering over the road, or changing direction sharply may be partly produced by the driver’s moving viewpoint and lack of reference points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wa.gov.au/organisation/road-safety-commission/fatigue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wa.gov.au">[Western Australian Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wa.gov.au</span><span class="citation-popover-snippet">Open source on wa.gov.au.</span></span></span>
 
 This is one reason outback road reports should be read differently from airport, radar or multi-instrument cases. A road witness may be sincere and still be observing under conditions that make ordinary lights unusually hard to classify. A proper assessment asks: was the observer stationary or moving; was the light near the horizon; were there other vehicles, aircraft, ships or satellites in that direction; was there dust, heat haze or inversion weather; and did the report contain timings, bearings or independent checks?
 
@@ -306,9 +306,9 @@ This is one reason outback road reports should be read differently from airport,
 <img src="{{ "/assets/images/Western_Australia_1c735d_outback_misidentific_80bcb3-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_outback_misidentific_80bcb3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_outback_misidentific_80bcb3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Nullarbor lesson: a famous road case with weak hard evidence
 
-The best-known road encounter linked to Western Australia is the Knowles family’s 1988 [Nullarbor]({{ 'nullarbor/' | relative_url }}) incident near Mundrabilla, close to the WA-South Australia border. Contemporary reporting in *The Canberra Times* said the Perth family told police their car had been “plucked” from the road by a UFO in the early hours of 20 January 1988, about 40 kilometres west of Mundrabilla. Police were reported as taking the matter seriously after inspecting damage to the car and an ash-type substance, while other motorists were also said to have reported unusual activity that night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
+The best-known road encounter linked to Western Australia is the Knowles family’s 1988 [Nullarbor]({{ 'nullarbor/' | relative_url }}) incident near Mundrabilla, close to the WA-South Australia border. Contemporary reporting in *The Canberra Times* said the Perth family told police their car had been “plucked” from the road by a UFO in the early hours of 20 January 1988, about 40 kilometres west of Mundrabilla. Police were reported as taking the matter seriously after inspecting damage to the car and an ash-type substance, while other motorists were also said to have reported unusual activity that night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 
-The case endures because it has the classic ingredients of an outback road mystery: darkness, isolation, an early-morning drive, a bright light ahead, fear inside the vehicle, physical damage, media attention and later retellings that amplified the strangeness. The Nullarbor Roadhouse’s popular account, for example, presents the experience as a dramatic encounter along the Eyre Highway between Madura and Mundrabilla, with the family asking at first whether the light could have been another vehicle, a road train or a roadhouse light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nullarborroadhouse.com.au/hidden-secrets-nullarbor-plain-ufo-edition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nullarborroadhouse.com.au">[Nullarbor Roadhouse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nullarborroadhouse.com.au</span><span class="citation-popover-title">Nullarbor Roadhouse Hidden secrets on the Nullarbor Plain. UFO edition</span><span class="citation-popover-snippet">Nullarbor Roadhouse Hidden secrets on the Nullarbor Plain. UFO edition</span></span></span>
+The case endures because it has the classic ingredients of an outback road mystery: darkness, isolation, an early-morning drive, a bright light ahead, fear inside the vehicle, physical damage, media attention and later retellings that amplified the strangeness. The Nullarbor Roadhouse’s popular account, for example, presents the experience as a dramatic encounter along the Eyre Highway between Madura and Mundrabilla, with the family asking at first whether the light could have been another vehicle, a road train or a roadhouse light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nullarborroadhouse.com.au/hidden-secrets-nullarbor-plain-ufo-edition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nullarborroadhouse.com.au">[Nullarbor Roadhouse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nullarborroadhouse.com.au</span><span class="citation-popover-title">Nullarbor Roadhouse Hidden secrets on the Nullarbor Plain. UFO edition</span><span class="citation-popover-snippet">Nullarbor Roadhouse Hidden secrets on the Nullarbor Plain. UFO edition</span></span></span>
 
 That first question is the key one. A road case can begin with a genuinely puzzling light without requiring an exotic answer. Headlights, road trains, distant buildings, aircraft landing lights, celestial objects near the horizon and atmospheric refraction can all behave oddly to a moving observer. A light that appears to shift, vanish, reappear or keep pace may be changing relative to the car, the road, and the horizon rather than moving intelligently. None of that proves the Knowles case was “solved”, but it weakens the leap from frightening testimony to extraordinary craft.
 
@@ -321,13 +321,13 @@ The strongest balanced reading is that the Nullarbor incident remains culturally
 
 Many “UFO” lights over Western Australia are not road-specific, but roads make them easier to misread. A driver may see only part of the event, lose sight of it behind windscreen pillars or scrub, and then reconstruct the motion afterwards. A passenger may look up just as a meteor flares, a satellite brightens, or aircraft lights align with the road. The result can be a report that is sincere, vivid and still naturally explainable.
 
-Meteors are a recurring culprit because they are sudden, bright and emotionally memorable. In 2025, Western Australians reported a striking green or yellow fireball visible from areas including Perth, the Goldfields, Kalgoorlie, Mandurah and Mt Magnet; Perth Observatory identified it as most likely a meteor, with expert comment noting that small objects can arrive without warning and that colours may come from heat, friction and composition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/technology/science/space/mysterious-green-flash-lights-up-night-sky/news-story/8c47368dfaaebed8c95f635a0791f247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-title">Mysterious green flash lights up sky</span><span class="citation-popover-snippet">Mysterious green flash lights up sky</span></span></span>
+Meteors are a recurring culprit because they are sudden, bright and emotionally memorable. In 2025, Western Australians reported a striking green or yellow fireball visible from areas including Perth, the Goldfields, Kalgoorlie, Mandurah and Mt Magnet; Perth Observatory identified it as most likely a meteor, with expert comment noting that small objects can arrive without warning and that colours may come from heat, friction and composition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/technology/science/space/mysterious-green-flash-lights-up-night-sky/news-story/8c47368dfaaebed8c95f635a0791f247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-title">Mysterious green flash lights up sky</span><span class="citation-popover-snippet">Mysterious green flash lights up sky</span></span></span>
 
 From a road, a meteor can look especially deceptive. It may seem close because it is bright. It may appear to “fall” near a town, mine site or highway even when it is tens or hundreds of kilometres away. It can leave a trail, break up, flash green or orange, and disappear suddenly. These are exactly the features that often become UFO language: “shot across the sky”, “changed colour”, “vanished”, “came down nearby”. The difference is that meteors are fast natural events, not controlled objects.
 
-Satellites have become a newer source of confusion. The BBC’s *Sky at Night Magazine* lists satellites, aircraft, drones, meteors, planets and optical effects among common UFO misidentifications, and notes that many UFO reports have ordinary origins. In WA, the problem is sharpened by dark skies: a string of newly launched satellites or a bright satellite flare can be far more conspicuous away from city light pollution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
+Satellites have become a newer source of confusion. The BBC’s *Sky at Night Magazine* lists satellites, aircraft, drones, meteors, planets and optical effects among common UFO misidentifications, and notes that many UFO reports have ordinary origins. In WA, the problem is sharpened by dark skies: a string of newly launched satellites or a bright satellite flare can be far more conspicuous away from city light pollution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
 
-The 2025 [Mid West lights]({{ 'mid-west-lights/' | relative_url }}) show how modern sightings can repeat older patterns while adding social media speed. ABC News reported strange lights across Western Australia’s Mid West, with witnesses near Geraldton and reports extending from the coast to hundreds of kilometres inland. The Mid West Ports Authority suggested ship-light refraction as one possibility, while Perth Observatory noted that inland reports complicated a simple sea-only explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Unexplained lights in the sky sparks UAP chatter across</span><span class="citation-popover-snippet">ABC News Unexplained lights in the sky sparks UAP chatter across</span></span></span>
+The 2025 [Mid West lights]({{ 'mid-west-lights/' | relative_url }}) show how modern sightings can repeat older patterns while adding social media speed. ABC News reported strange lights across Western Australia’s Mid West, with witnesses near Geraldton and reports extending from the coast to hundreds of kilometres inland. The Mid West Ports Authority suggested ship-light refraction as one possibility, while Perth Observatory noted that inland reports complicated a simple sea-only explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Unexplained lights in the sky sparks UAP chatter across</span><span class="citation-popover-snippet">ABC News Unexplained lights in the sky sparks UAP chatter across</span></span></span>
 
 Aircraft and flares add another layer. Aircraft lights can appear stationary when a plane is heading towards the observer, then seem to change direction as its angle changes. Landing lights can be bright enough to dominate a dark horizon. Flares, whether maritime, emergency or training-related, can hang, drift, dim, multiply or descend slowly. The important investigative point is not that one explanation fits every sighting, but that the first round of checks should be mundane: flight paths, satellite passes, meteor reports, shipping, defence activity, emergency operations and weather.
 
@@ -335,11 +335,11 @@ Aircraft and flares add another layer. Aircraft lights can appear stationary whe
 <img src="{{ "/assets/images/Western_Australia_1c735d_outback_misidentific_80bcb3-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_outback_misidentific_80bcb3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_outback_misidentific_80bcb3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Mirage and horizon effects
 
-The most distinctively outback explanation is not a single object but a viewing mechanism: light bending through layers of air. In a Fata Morgana or superior mirage, temperature layers in the atmosphere refract light so that distant objects or lights can appear lifted, stretched, duplicated, displaced or hovering near the horizon. The Bureau of Meteorology explains the famous “Flying Dutchman” ghost-ship effect as a superior mirage caused when air below the line of sight is much colder than air above it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.bom.gov.au/social/blog/292/mirrors-in-the-sky-demystifying-the-legend-of-the-flying-dutchman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.bom.gov.au">[The Bureau of Meteorology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.bom.gov.au</span><span class="citation-popover-title">mirrors in the sky demystifying the legend of the flying dutchman</span><span class="citation-popover-snippet">mirrors in the sky demystifying the legend of the flying dutchman</span></span></span>
+The most distinctively outback explanation is not a single object but a viewing mechanism: light bending through layers of air. In a Fata Morgana or superior mirage, temperature layers in the atmosphere refract light so that distant objects or lights can appear lifted, stretched, duplicated, displaced or hovering near the horizon. The Bureau of Meteorology explains the famous “Flying Dutchman” ghost-ship effect as a superior mirage caused when air below the line of sight is much colder than air above it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.bom.gov.au/social/blog/292/mirrors-in-the-sky-demystifying-the-legend-of-the-flying-dutchman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.bom.gov.au">[The Bureau of Meteorology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.bom.gov.au</span><span class="citation-popover-title">mirrors in the sky demystifying the legend of the flying dutchman</span><span class="citation-popover-snippet">mirrors in the sky demystifying the legend of the flying dutchman</span></span></span>
 
-This matters for WA because the state offers long sightlines across land and sea. On inland roads, the source might be headlights, fires, mining lights, distant buildings or vehicles beyond the normal horizon. On the coast, it might be ship lights or port activity. The observer does not need to be foolish: the image itself can be physically distorted by the atmosphere. Aviation safety resource SKYbrary describes Fata Morgana as a complex superior mirage seen in a narrow band above the horizon, capable of making distant objects look unrecognisable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span>
+This matters for WA because the state offers long sightlines across land and sea. On inland roads, the source might be headlights, fires, mining lights, distant buildings or vehicles beyond the normal horizon. On the coast, it might be ship lights or port activity. The observer does not need to be foolish: the image itself can be physically distorted by the atmosphere. Aviation safety resource SKYbrary describes Fata Morgana as a complex superior mirage seen in a narrow band above the horizon, capable of making distant objects look unrecognisable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span>
 
-The best Australian comparison is the Min Min light tradition, more closely associated with outback Queensland but useful as a mechanism for interpreting WA road reports. Professor Jack Pettigrew argued in *Clinical and Experimental Optometry* that many Min Min properties could be explained by Fata Morgana effects, in which light from beyond the horizon is refracted over long distances by atmospheric gradients. ABC Science reported Pettigrew’s claim that the lights could be inverted mirages of light sources hundreds of kilometres away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12643807/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The best Australian comparison is the Min Min light tradition, more closely associated with outback Queensland but useful as a mechanism for interpreting WA road reports. Professor Jack Pettigrew argued in *Clinical and Experimental Optometry* that many Min Min properties could be explained by Fata Morgana effects, in which light from beyond the horizon is refracted over long distances by atmospheric gradients. ABC Science reported Pettigrew’s claim that the lights could be inverted mirages of light sources hundreds of kilometres away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12643807/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 The comparison should not be overstated. Western Australia’s UFO record is not simply “Min Min lights in another state”. But the mechanism travels well. If headlights or other lights can be refracted and displaced over the horizon in outback conditions, then a WA driver seeing a pale, floating, moving or pursuing light may be witnessing a real optical effect rather than a solid object. That is especially plausible when the report is low on bearings, altitude estimates, duration checks and independent triangulation.
 
@@ -350,13 +350,13 @@ Mirage explanations also help explain why some sightings feel intelligent. A ref
 
 ## What the WA Police file adds to misidentification
 
-The WA Police “UFO File” is valuable because it preserves how country sightings were recorded before online video and instant speculation. ABC Perth reported that the file contains dozens of police reports from across the state, with country areas such as Kojonup, [Dalwallinu]({{ 'dalwallinu/' | relative_url }}), Onslow and Bridgetown among the locations mentioned. The file was restricted for decades until 2007 after a review of police records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News&#x27;UFO file&#x27; sheds light on strange encounters in Western</span><span class="citation-popover-snippet">July 28, 2020 — 27 Jul 2020 — The UFO file holds dozens of police reports linked to sightings of Unidentified Flying Objects across the s...</span><span class="citation-popover-meta">Published: July 28, 2020</span></span></span>
+The WA Police “UFO File” is valuable because it preserves how country sightings were recorded before online video and instant speculation. ABC Perth reported that the file contains dozens of police reports from across the state, with country areas such as Kojonup, [Dalwallinu]({{ 'dalwallinu/' | relative_url }}), Onslow and Bridgetown among the locations mentioned. The file was restricted for decades until 2007 after a review of police records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News&#x27;UFO file&#x27; sheds light on strange encounters in Western</span><span class="citation-popover-snippet">July 28, 2020 — 27 Jul 2020 — The UFO file holds dozens of police reports linked to sightings of Unidentified Flying Objects across the s...</span><span class="citation-popover-meta">Published: July 28, 2020</span></span></span>
 
-The State Library of Western Australia notes that the file includes reports from government officials and members of the public dating back to 1951, before Sputnik and the satellite era. Many reports came from country areas in the 1950s, 1960s and 1970s, and police sometimes qualified witnesses as “reliable” or “teetotaller”. That is important: the archive does not show a parade of obvious cranks. It shows ordinary people and officials trying to describe puzzling lights and objects in the language available to them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
+The State Library of Western Australia notes that the file includes reports from government officials and members of the public dating back to 1951, before Sputnik and the satellite era. Many reports came from country areas in the 1950s, 1960s and 1970s, and police sometimes qualified witnesses as “reliable” or “teetotaller”. That is important: the archive does not show a parade of obvious cranks. It shows ordinary people and officials trying to describe puzzling lights and objects in the language available to them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
 
-But the same archive also warns against overclaiming. The State Library’s account says witnesses described metallic, round or cylindrical objects, bright lights, pale green illumination, silence and sudden changes of trajectory. Those details are intriguing, but they are also the kinds of impressions that become hardest to test when the observation is brief, distant, nocturnal or made from a rural setting without instruments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
+But the same archive also warns against overclaiming. The State Library’s account says witnesses described metallic, round or cylindrical objects, bright lights, pale green illumination, silence and sudden changes of trajectory. Those details are intriguing, but they are also the kinds of impressions that become hardest to test when the observation is brief, distant, nocturnal or made from a rural setting without instruments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slwa.wa.gov.au">[State Library of Western Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slwa.wa.gov.au</span><span class="citation-popover-snippet">State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</span></span></span>
 
-National context reinforces this caution. ABC reporting on Australia’s military UFO files notes that the RAAF was responsible for investigating “Unusual Aerial Sightings” until the 1990s and received thousands of reports from civilians, researchers and military personnel. That does not make every case robust; it shows that official systems collected reports because unknown aerial observations had aviation, defence and public-interest implications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How Bill Chalker became one of the first civilians to access</span><span class="citation-popover-snippet">ABC News How Bill Chalker became one of the first civilians to access</span></span></span>
+National context reinforces this caution. ABC reporting on Australia’s military UFO files notes that the RAAF was responsible for investigating “Unusual Aerial Sightings” until the 1990s and received thousands of reports from civilians, researchers and military personnel. That does not make every case robust; it shows that official systems collected reports because unknown aerial observations had aviation, defence and public-interest implications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News How Bill Chalker became one of the first civilians to access</span><span class="citation-popover-snippet">ABC News How Bill Chalker became one of the first civilians to access</span></span></span>
 
 For WA road and country cases, the file’s value is therefore double-edged. It strengthens the historical record by showing that sightings were logged, not merely gossiped about. At the same time, it highlights the usual evidential gap: a credible witness statement may identify a real experience, but not necessarily the correct cause. In many country reports, the most honest final category is not “alien craft” or “hoax”, but “insufficiently documented light seen under difficult observing conditions”.
 
@@ -394,194 +394,194 @@ That does not mean every WA sighting has been solved. Some reports are too thinl
 The practical lesson is simple: Western Australia’s outback does not merely host UFO stories; it helps manufacture their shape. The road gives the witness motion. The horizon removes scale. Darkness intensifies brightness. Fatigue changes judgement. The atmosphere bends light. Later retellings smooth uncertainty into narrative. Read that way, WA’s outback lights are not an embarrassment to UFO history. They are one of its clearest demonstrations that place, perception and evidence must be studied together.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Outback Lights Become UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Outback Lights Become UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how UFO reports are investigated and discussed, complementing misidentification topics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how UFO reports are investigated and discussed, complementing misidentification topics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Public+Belief+in+Unexplained+Phenomena+by+Barrie+Gunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Public Belief in Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i_GTEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Public Belief in Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Public+Belief+in+Unexplained+Phenomena+by+Barrie+Gunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Public Belief in Unexplained Phenomena">The Psychology of Public Belief in Unexplained Phenomena</a>
-        </h4>
-        <p class="fr-book-author">By Barrie Gunter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Public+Belief+in+Unexplained+Phenomena+by+Barrie+Gunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Public Belief in Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i_GTEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Public Belief in Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Public+Belief+in+Unexplained+Phenomena+by+Barrie+Gunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Public Belief in Unexplained Phenomena">The Psychology of Public Belief in Unexplained Phenomena</a>
+</h4>
+<p class="fr-book-author">By Barrie Gunter</p>
         
-        <p class="fr-book-desc">Directly examines how people interpret ambiguous events such as UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Public+Belief+in+Unexplained+Phenomena+by+Barrie+Gunter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how people interpret ambiguous events such as UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Public+Belief+in+Unexplained+Phenomena+by+Barrie+Gunter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how people interpret unusual observations and why extraordinary claims require careful investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains how people interpret unusual observations and why extraordinary claims require careful investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Helps readers understand how astronomical objects and sky events are commonly misinterpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how astronomical objects and sky events are commonly misinterpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Public+Belief+in+Unexplained+Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Public Belief in Unexplained Phenomena</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Public+Belief+in+Unexplained+Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Public Belief in Unexplained Phenomena</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-7a0dd2-why-outback-lights-become-ufo-stories-western-australia-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -597,7 +597,7 @@ The practical lesson is simple: Western Australia’s outback does not merely ho
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -617,7 +617,7 @@ The practical lesson is simple: Western Australia’s outback does not merely ho
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -649,7 +649,7 @@ The practical lesson is simple: Western Australia’s outback does not merely ho
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -701,7 +701,7 @@ The practical lesson is simple: Western Australia’s outback does not merely ho
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -746,7 +746,7 @@ The practical lesson is simple: Western Australia’s outback does not merely ho
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -787,182 +787,182 @@ The practical lesson is simple: Western Australia’s outback does not merely ho
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: slwa.wa.gov.au  
-   Link: <a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</p></details>
+   Link:<a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State Library of Western AustraliaThe truth is not out thereThe file includes reports of UFO sightings from government officials and memb...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mainroads.wa.gov.au  
    Title: Regional and long distance driving What do you need to know before you go?  
-   Link: <a href="https://www.mainroads.wa.gov.au/travel-information/driving-in-wa/long-distance-driving/" target="_blank" rel="noopener noreferrer nofollow">https://www.mainroads.wa.gov.au/travel-information/driving-in-wa/long-distance-driving/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>; Aim for at least seven hours of sleep per night; Avoid caffeine and alcohol before sleeping; Wandering or disconnected...Read more...</p></details>
+   Link:<a href="https://www.mainroads.wa.gov.au/travel-information/driving-in-wa/long-distance-driving/" target="_blank" rel="noopener noreferrer nofollow">https://www.mainroads.wa.gov.au/travel-information/driving-in-wa/long-distance-driving/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>; Aim for at least seven hours of sleep per night; Avoid caffeine and alcohol before sleeping; Wandering or disconnected...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wa.gov.au  
-   Link: <a href="https://www.wa.gov.au/organisation/road-safety-commission/fatigue" target="_blank" rel="noopener noreferrer nofollow">https://www.wa.gov.au/organisation/road-safety-commission/fatigue</a>  
+   Link:<a href="https://www.wa.gov.au/organisation/road-safety-commission/fatigue" target="_blank" rel="noopener noreferrer nofollow">https://www.wa.gov.au/organisation/road-safety-commission/fatigue</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/101971256</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/101971256</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.com.au  
    Title: Mysterious green flash lights up sky  
-   Link: <a href="https://www.news.com.au/technology/science/space/mysterious-green-flash-lights-up-night-sky/news-story/8c47368dfaaebed8c95f635a0791f247" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/mysterious-green-flash-lights-up-night-sky/news-story/8c47368dfaaebed8c95f635a0791f247</a>  
+   Link:<a href="https://www.news.com.au/technology/science/space/mysterious-green-flash-lights-up-night-sky/news-story/8c47368dfaaebed8c95f635a0791f247" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/mysterious-green-flash-lights-up-night-sky/news-story/8c47368dfaaebed8c95f635a0791f247</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/space/witnesses-stunned-as-fireball-meteor-lights-up-perth-skies/news-story/776e529e8d82345810563a10e2254afa" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/witnesses-stunned-as-fireball-meteor-lights-up-perth-skies/news-story/776e529e8d82345810563a10e2254afa</a>  
+   Link:<a href="https://www.news.com.au/technology/science/space/witnesses-stunned-as-fireball-meteor-lights-up-perth-skies/news-story/776e529e8d82345810563a10e2254afa" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/witnesses-stunned-as-fireball-meteor-lights-up-perth-skies/news-story/776e529e8d82345810563a10e2254afa</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: media.bom.gov.au  
    Title: mirrors in the sky demystifying the legend of the flying dutchman  
-   Link: <a href="https://media.bom.gov.au/social/blog/292/mirrors-in-the-sky-demystifying-the-legend-of-the-flying-dutchman/" target="_blank" rel="noopener noreferrer nofollow">https://media.bom.gov.au/social/blog/292/mirrors-in-the-sky-demystifying-the-legend-of-the-flying-dutchman/</a>  
+   Link:<a href="https://media.bom.gov.au/social/blog/292/mirrors-in-the-sky-demystifying-the-legend-of-the-flying-dutchman/" target="_blank" rel="noopener noreferrer nofollow">https://media.bom.gov.au/social/blog/292/mirrors-in-the-sky-demystifying-the-legend-of-the-flying-dutchman/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
+   Link:<a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/PP959-1_5-3-AIR_1826380_djvu.txt</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: naa.gov.au  
    Title: flying saucers fact or fiction  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wa.gov.au  
    Title: visitors regional wa  
-   Link: <a href="https://www.wa.gov.au/organisation/road-safety-commission/visitors-regional-wa" target="_blank" rel="noopener noreferrer nofollow">https://www.wa.gov.au/organisation/road-safety-commission/visitors-regional-wa</a>  
+   Link:<a href="https://www.wa.gov.au/organisation/road-safety-commission/visitors-regional-wa" target="_blank" rel="noopener noreferrer nofollow">https://www.wa.gov.au/organisation/road-safety-commission/visitors-regional-wa</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: abc.net.au  
    Title: ABC News'UFO file' sheds light on strange encounters in Western  
-   Link: <a href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 28, 2020 — 27 Jul 2020 — The UFO file holds dozens of police reports linked to sightings of Unidentified Flying Objects across the s...</p></details>
+   Link:<a href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 28, 2020 — 27 Jul 2020 — The UFO file holds dozens of police reports linked to sightings of Unidentified Flying Objects across the s...</p></details>
    Published: July 28, 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nullarborroadhouse.com.au  
    Title: Nullarbor Roadhouse Hidden secrets on the Nullarbor Plain. UFO edition  
-   Link: <a href="https://nullarborroadhouse.com.au/hidden-secrets-nullarbor-plain-ufo-edition/" target="_blank" rel="noopener noreferrer nofollow">https://nullarborroadhouse.com.au/hidden-secrets-nullarbor-plain-ufo-edition/</a>  
+   Link:<a href="https://nullarborroadhouse.com.au/hidden-secrets-nullarbor-plain-ufo-edition/" target="_blank" rel="noopener noreferrer nofollow">https://nullarborroadhouse.com.au/hidden-secrets-nullarbor-plain-ufo-edition/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: abc.net.au  
    Title: ABC News Unexplained lights in the sky sparks UAP chatter across  
-   Link: <a href="https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264</a>  
+   Link:<a href="https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2025-09-24/unexplained-uap-sightings-reported-across-midwest-wa/105803264</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12643807/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12643807/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12643807/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12643807/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/science/articles/2003/03/28/818193.htm</a>  
+   Link:<a href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/science/articles/2003/03/28/818193.htm</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: abc.net.au  
    Title: ABC News How Bill Chalker became one of the first civilians to access  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Min Min light  
-   Link: <a href="https://en.wikipedia.org/wiki/Min_Min_light" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Min_Min_light</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Min_Min_light" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Min_Min_light</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: abc.net.au  
    Title: curious adelaide ufo sightings across australia  
-   Link: <a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
+   Link:<a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/main" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/main</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/main" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/main</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YNj8MMcWWFM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YNj8MMcWWFM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=YNj8MMcWWFM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YNj8MMcWWFM</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9916394/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9916394/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9916394/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9916394/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: gymglish.com  
-   Link: <a href="https://www.gymglish.com/en/gymglish/english-translation/main" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/main</a>  
+   Link:<a href="https://www.gymglish.com/en/gymglish/english-translation/main" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/main</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wordreference.com  
-   Link: <a href="https://www.wordreference.com/EnglishCollocations/main" target="_blank" rel="noopener noreferrer nofollow">https://www.wordreference.com/EnglishCollocations/main</a>  
+   Link:<a href="https://www.wordreference.com/EnglishCollocations/main" target="_blank" rel="noopener noreferrer nofollow">https://www.wordreference.com/EnglishCollocations/main</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: netweather.tv  
    Title: Fata Morgana  
-   Link: <a href="https://www.netweather.tv/weather-forecasts/news/11436-fata-morgana---sea-mirage-ships-and-stories" target="_blank" rel="noopener noreferrer nofollow">https://www.netweather.tv/weather-forecasts/news/11436-fata-morgana---sea-mirage-ships-and-stories</a>  
+   Link:<a href="https://www.netweather.tv/weather-forecasts/news/11436-fata-morgana---sea-mirage-ships-and-stories" target="_blank" rel="noopener noreferrer nofollow">https://www.netweather.tv/weather-forecasts/news/11436-fata-morgana---sea-mirage-ships-and-stories</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Australia's Most Dangerous Roads for Road Trains  
-   Link: <a href="https://www.youtube.com/watch?v=u_Suh5a7Xqk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u_Suh5a7Xqk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Space junk: The mystery flying object that lit up Melbourne&#x27;s sky, revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u_Suh5a7Xqk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u_Suh5a7Xqk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Space junk: The mystery flying object that lit up Melbourne&#x27;s sky, revealed...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Min Min Lights: Mysterious Lights in the Australian Outback  
-   Link: <a href="https://www.youtube.com/watch?v=NwiMQm3wk1I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NwiMQm3wk1I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 This is What Really Happened During the GAP...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NwiMQm3wk1I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NwiMQm3wk1I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 This is What Really Happened During the GAP...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXOUvU4Eohk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXOUvU4Eohk/</a>  
+   Link:<a href="https://www.instagram.com/reel/DXOUvU4Eohk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXOUvU4Eohk/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/perth/comments/rwjzgn/anyone_got_any_tips_on_outback_out_of_city_driving/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/perth/comments/rwjzgn/anyone_got_any_tips_on_outback_out_of_city_driving/</a>  
+   Link:<a href="https://www.reddit.com/r/perth/comments/rwjzgn/anyone_got_any_tips_on_outback_out_of_city_driving/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/perth/comments/rwjzgn/anyone_got_any_tips_on_outback_out_of_city_driving/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/</a>  
+   Link:<a href="https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/perthisok/videos/perth-ufo-sightings/915746570413733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/perthisok/videos/perth-ufo-sightings/915746570413733/</a>  
+   Link:<a href="https://www.facebook.com/perthisok/videos/perth-ufo-sightings/915746570413733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/perthisok/videos/perth-ufo-sightings/915746570413733/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcperth/posts/did-you-see-the-strange-light-hovering-over-the-wa-coast-just-after-7pm-last-nig/4839256329440622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcperth/posts/did-you-see-the-strange-light-hovering-over-the-wa-coast-just-after-7pm-last-nig/4839256329440622/</a>  
+   Link:<a href="https://www.facebook.com/abcperth/posts/did-you-see-the-strange-light-hovering-over-the-wa-coast-just-after-7pm-last-nig/4839256329440622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcperth/posts/did-you-see-the-strange-light-hovering-over-the-wa-coast-just-after-7pm-last-nig/4839256329440622/</a>  

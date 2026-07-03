@@ -256,7 +256,7 @@ image: /assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine
 
 ## Introduction
 
-The white domes at [Pine Gap]({{ 'pine-gap/' | relative_url }}) are among the most photographed and most misunderstood features in [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) UFO lore. To some observers, they look like the visible tips of a much larger secret complex, leading to rumours about underground hangars, hidden aircraft and even concealed extraterrestrial technology. The available evidence points in a different direction. The radomes are a recognisable part of satellite and signals-intelligence infrastructure, and their growth over time closely matches the documented expansion of Pine Gap’s surveillance and communications missions rather than evidence of hidden UFO facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
+The white domes at [Pine Gap]({{ 'pine-gap/' | relative_url }}) are among the most photographed and most misunderstood features in [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) UFO lore. To some observers, they look like the visible tips of a much larger secret complex, leading to rumours about underground hangars, hidden aircraft and even concealed extraterrestrial technology. The available evidence points in a different direction. The radomes are a recognisable part of satellite and signals-intelligence infrastructure, and their growth over time closely matches the documented expansion of Pine Gap’s surveillance and communications missions rather than evidence of hidden UFO facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_radomes_rum_bba501-Illustration-1-dark.svg" | relative_url }}" alt="Radomes illustration 1" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_radomes_rum_bba501-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_radomes_rum_bba501-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,24 +264,24 @@ Within the broader story of Pine Gap secrecy and UFO speculation, the radomes ma
 
 ## What radomes look like from outside
 
-From public roads and aerial imagery, Pine Gap is dominated by large white spherical structures that resemble giant golf balls scattered across the desert floor. These structures are radomes: protective shells that cover antennas and satellite dishes. A radome allows radio signals to pass through while shielding the equipment inside from weather, dust and physical observation. It also prevents outsiders from easily determining exactly where a dish is pointing or what type of equipment it contains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Radome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+From public roads and aerial imagery, Pine Gap is dominated by large white spherical structures that resemble giant golf balls scattered across the desert floor. These structures are radomes: protective shells that cover antennas and satellite dishes. A radome allows radio signals to pass through while shielding the equipment inside from weather, dust and physical observation. It also prevents outsiders from easily determining exactly where a dish is pointing or what type of equipment it contains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Radome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-The visual impact of the radomes is important. Unlike ordinary military buildings, they are unusual enough to invite speculation. ABC reporting has noted that the domes are among the most recognisable features of the facility and are often the focus of local curiosity about what happens inside the base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — What goes on beneath the cluster of enormous, oversized...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The visual impact of the radomes is important. Unlike ordinary military buildings, they are unusual enough to invite speculation. ABC reporting has noted that the domes are among the most recognisable features of the facility and are often the focus of local curiosity about what happens inside the base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — What goes on beneath the cluster of enormous, oversized...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-Researchers who have tracked the site's development through satellite imagery show that the number of antenna systems and radomes has changed significantly over time. Detailed studies by the Nautilus Institute documented dozens of antenna installations since the late 1960s and found that many were housed inside radomes. These changes correspond to evolving intelligence and communications requirements rather than a hidden underground expansion suddenly appearing without trace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/napsnet/napsnet-special-reports/the-antennas-of-pine-gap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-title">the antennas of pine gap</span><span class="citation-popover-snippet">The Antennas of Pine Gap3 Mar 2016 — The antennas of Pine Gap are a powerful political symbol in Australia, representing either p...</span></span></span>
+Researchers who have tracked the site's development through satellite imagery show that the number of antenna systems and radomes has changed significantly over time. Detailed studies by the Nautilus Institute documented dozens of antenna installations since the late 1960s and found that many were housed inside radomes. These changes correspond to evolving intelligence and communications requirements rather than a hidden underground expansion suddenly appearing without trace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/napsnet/napsnet-special-reports/the-antennas-of-pine-gap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-title">the antennas of pine gap</span><span class="citation-popover-snippet">The Antennas of Pine Gap3 Mar 2016 — The antennas of Pine Gap are a powerful political symbol in Australia, representing either p...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BkPmreMus0k" title="The Huge Desert Base That Doesn&#x27;t (Officially) Exist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BkPmreMus0k" target="_blank" rel="noopener noreferrer">The Huge Desert Base That Doesn&#x27;t (Officially) Exist</a></p><p class="youtube-embed-meta">Channel: Megaprojects</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BkPmreMus0k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BkPmreMus0k">Open on YouTube</a></p></div></div></div>
 
 ## Satellite intelligence as the non-UFO explanation
 
-The strongest evidence-based explanation for the radomes is also the least dramatic. Pine Gap's documented role is as a ground station supporting intelligence satellites and related surveillance systems. Analysts who have studied the facility for decades describe its principal mission as controlling and receiving data from geosynchronous signals-intelligence satellites positioned above the equator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
+The strongest evidence-based explanation for the radomes is also the least dramatic. Pine Gap's documented role is as a ground station supporting intelligence satellites and related surveillance systems. Analysts who have studied the facility for decades describe its principal mission as controlling and receiving data from geosynchronous signals-intelligence satellites positioned above the equator.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
 
-That mission requires antennas. Large satellite dishes need protection from the harsh Central Australian environment and, in intelligence work, there are obvious reasons not to reveal the precise configuration of the equipment. Radomes solve both problems. They are common features at satellite-monitoring and intelligence sites around the world, not unique structures associated with Pine Gap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Radome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+That mission requires antennas. Large satellite dishes need protection from the harsh Central Australian environment and, in intelligence work, there are obvious reasons not to reveal the precise configuration of the equipment. Radomes solve both problems. They are common features at satellite-monitoring and intelligence sites around the world, not unique structures associated with Pine Gap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Radome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-The growth in the number of domes also follows the documented expansion of Pine Gap's technical capabilities. Research published in 2016 identified dozens of antenna systems accumulated over decades of operation, while more recent reporting describes additional radomes linked to missile-warning and satellite-surveillance functions. The pattern is consistent with a major intelligence facility adapting to new technologies rather than evidence of concealed alien craft storage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/napsnet/napsnet-special-reports/the-antennas-of-pine-gap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus+2The Saturday Paper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-title">the antennas of pine gap</span><span class="citation-popover-snippet">The Antennas of Pine Gap3 Mar 2016 — The antennas of Pine Gap are a powerful political symbol in Australia, representing either p...</span></span></span>
+The growth in the number of domes also follows the documented expansion of Pine Gap's technical capabilities. Research published in 2016 identified dozens of antenna systems accumulated over decades of operation, while more recent reporting describes additional radomes linked to missile-warning and satellite-surveillance functions. The pattern is consistent with a major intelligence facility adapting to new technologies rather than evidence of concealed alien craft storage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/napsnet/napsnet-special-reports/the-antennas-of-pine-gap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-title">the antennas of pine gap</span><span class="citation-popover-snippet">The Antennas of Pine Gap3 Mar 2016 — The antennas of Pine Gap are a powerful political symbol in Australia, representing either p...</span></span></span>
 
-A useful reality check is that intelligence specialists have been able to track many of these changes using commercially available satellite imagery. Researchers have identified new antennas, mapped antenna fields and documented construction projects over many years. If enormous underground hangars were being built beneath the visible antenna complex, convincing physical evidence has not emerged alongside the extensive imagery already available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/napsnet/napsnet-special-reports/the-antennas-of-pine-gap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-title">the antennas of pine gap</span><span class="citation-popover-snippet">The Antennas of Pine Gap3 Mar 2016 — The antennas of Pine Gap are a powerful political symbol in Australia, representing either p...</span></span></span>
+A useful reality check is that intelligence specialists have been able to track many of these changes using commercially available satellite imagery. Researchers have identified new antennas, mapped antenna fields and documented construction projects over many years. If enormous underground hangars were being built beneath the visible antenna complex, convincing physical evidence has not emerged alongside the extensive imagery already available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/napsnet/napsnet-special-reports/the-antennas-of-pine-gap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-title">the antennas of pine gap</span><span class="citation-popover-snippet">The Antennas of Pine Gap3 Mar 2016 — The antennas of Pine Gap are a powerful political symbol in Australia, representing either p...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_radomes_rum_bba501-Illustration-2-dark.svg" | relative_url }}" alt="Radomes illustration 2" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_radomes_rum_bba501-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_pine_gap_ufo_rumours_737361_pine_gap_radomes_rum_bba501-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -291,12 +291,12 @@ The hidden-hangar stories did not emerge because anyone publicly produced verifi
 
 Several factors encourage this process:
 
-* **The facility is genuinely secretive.** Official information about day-to-day operations is limited, creating information gaps that speculation naturally fills. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — What goes on beneath the cluster of enormous, oversized...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
-* **The architecture looks unusual.** Large white domes are visually distinctive and unfamiliar to most people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — What goes on beneath the cluster of enormous, oversized...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
-* **The base performs real space-related functions.** Because satellites and advanced surveillance systems already sound extraordinary, it becomes easier for some observers to imagine even more extraordinary activities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
-* **Popular culture reinforces the idea.** Fictional depictions of secret military installations often include underground hangars, hidden laboratories and concealed aircraft, making such explanations feel familiar even when evidence is lacking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pine_Gap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pine Gap</span><span class="citation-popover-snippet">Pine Gap</span></span></span>
+* **The facility is genuinely secretive.** Official information about day-to-day operations is limited, creating information gaps that speculation naturally fills.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — What goes on beneath the cluster of enormous, oversized...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+* **The architecture looks unusual.** Large white domes are visually distinctive and unfamiliar to most people.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — What goes on beneath the cluster of enormous, oversized...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+* **The base performs real space-related functions.** Because satellites and advanced surveillance systems already sound extraordinary, it becomes easier for some observers to imagine even more extraordinary activities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
+* **Popular culture reinforces the idea.** Fictional depictions of secret military installations often include underground hangars, hidden laboratories and concealed aircraft, making such explanations feel familiar even when evidence is lacking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pine_Gap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pine Gap</span><span class="citation-popover-snippet">Pine Gap</span></span></span>
 
-This pattern is not unique to Pine Gap. Other intelligence and satellite-monitoring facilities around the world have attracted similar rumours whenever highly visible radomes sit behind security fences. The presence of unusual infrastructure often becomes evidence of hidden activity in the public imagination, even when the visible equipment already has a documented purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Menwith_Hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Menwith Hill</span><span class="citation-popover-snippet">RAF Menwith Hill</span></span></span>
+This pattern is not unique to Pine Gap. Other intelligence and satellite-monitoring facilities around the world have attracted similar rumours whenever highly visible radomes sit behind security fences. The presence of unusual infrastructure often becomes evidence of hidden activity in the public imagination, even when the visible equipment already has a documented purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Menwith_Hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Menwith Hill</span><span class="citation-popover-snippet">RAF Menwith Hill</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G21r7ZUxnFY" title="What’s Inside Australia’s Most Secret Base?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G21r7ZUxnFY" target="_blank" rel="noopener noreferrer">What’s Inside Australia’s Most Secret Base?</a></p><p class="youtube-embed-meta">Channel: JB Motion</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G21r7ZUxnFY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G21r7ZUxnFY">Open on YouTube</a></p></div></div></div>
@@ -305,7 +305,7 @@ This pattern is not unique to Pine Gap. Other intelligence and satellite-monitor
 
 When judged by the standards used for assessing UFO-related claims—documents, credible witnesses, physical evidence and independent corroboration—the hidden-hangar story remains weak.
 
-There is abundant evidence that Pine Gap contains antennas, satellite dishes, communications systems and intelligence infrastructure. There is also extensive research describing how those systems support signals intelligence, satellite control and missile-warning functions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus+2Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
+There is abundant evidence that Pine Gap contains antennas, satellite dishes, communications systems and intelligence infrastructure. There is also extensive research describing how those systems support signals intelligence, satellite control and missile-warning functions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
 
 By contrast, claims of underground UFO hangars are largely speculative. They tend to rely on assumptions that something significant must be concealed beneath the facility because so much of its mission remains classified. Classification alone, however, does not demonstrate the existence of underground aircraft storage, recovered alien technology or secret UFO programmes.
 
@@ -317,203 +317,203 @@ That distinction is important for understanding Northern Territory UFO history. 
 
 The radomes are real, unusual and visually striking. They are also one of the clearest examples of how ordinary intelligence infrastructure can become transformed into UFO folklore.
 
-The available evidence indicates that the domes are protective covers for satellite and communications antennas connected to Pine Gap's documented intelligence missions. Their expansion over time mirrors the growth of the facility's surveillance and satellite-tracking roles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus+2Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
+The available evidence indicates that the domes are protective covers for satellite and communications antennas connected to Pine Gap's documented intelligence missions. Their expansion over time mirrors the growth of the facility's surveillance and satellite-tracking roles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[Nautilus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-snippet">Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</span></span></span>
 
-For readers interested in Northern Territory UFO traditions, the most revealing lesson may be less about what is hidden beneath the radomes than about how the radomes themselves create mystery. A secretive base, visible but unexplained technology and limited public access form exactly the conditions in which underground-base stories thrive, even when the strongest available evidence points to satellite intelligence rather than hidden UFO hangars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — What goes on beneath the cluster of enormous, oversized...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+For readers interested in Northern Territory UFO traditions, the most revealing lesson may be less about what is hidden beneath the radomes than about how the radomes themselves create mystery. A secretive base, visible but unexplained technology and limited public access form exactly the conditions in which underground-base stories thrive, even when the strongest available evidence points to satellite intelligence rather than hidden UFO hangars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">backstory expanse podcast spies in the outback pine gap barwick</span><span class="citation-popover-snippet">ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — What goes on beneath the cluster of enormous, oversized...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OVBbUpkgUiE" title="Pine Gap, the Cold War; when spies put Australia in nuclear crosshairs🕵️☣ | Spies in the Outback Ep2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OVBbUpkgUiE" target="_blank" rel="noopener noreferrer">Pine Gap, the Cold War; when spies put Australia in nuclear crosshairs🕵️☣ | Spies in the Outback Ep2</a></p><p class="youtube-embed-meta">Channel: ABC News In-depth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OVBbUpkgUiE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OVBbUpkgUiE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Pine Gap&#x27;s Radomes Explain the Rumours?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Pine Gap&#x27;s Radomes Explain the Rumours?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pine+Gap+by+DAVID.+ROSENBERG&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pine Gap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lrs-uwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Pine Gap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pine+Gap+by+DAVID.+ROSENBERG&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pine Gap">Pine Gap</a>
-        </h4>
-        <p class="fr-book-author">By DAVID. ROSENBERG</p>
-        <p class="fr-book-popularity">Rating: 5.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Directly explains Pine Gap&#x27;s surveillance mission and the purpose of its radomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pine+Gap+by+DAVID.+ROSENBERG&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pine+Gap+by+DAVID.+ROSENBERG&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pine Gap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lrs-uwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Pine Gap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pine+Gap+by+DAVID.+ROSENBERG&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pine Gap">Pine Gap</a>
+</h4>
+<p class="fr-book-author">By DAVID. ROSENBERG</p>
+<p class="fr-book-popularity">Rating: 5.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Directly explains Pine Gap&#x27;s surveillance mission and the purpose of its radomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pine+Gap+by+DAVID.+ROSENBERG&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Useful comparison point for understanding why unusual infrastructure attracts conspiracy theories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful comparison point for understanding why unusual infrastructure attracts conspiracy theories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Puzzle Palace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qcaS5hG8TiEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Puzzle Palace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Puzzle Palace">The Puzzle Palace</a>
-        </h4>
-        <p class="fr-book-author">By James Bamford</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Provides background on the intelligence world that Pine Gap supports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Puzzle Palace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qcaS5hG8TiEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Puzzle Palace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Puzzle Palace">The Puzzle Palace</a>
+</h4>
+<p class="fr-book-author">By James Bamford</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Provides background on the intelligence world that Pine Gap supports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Body+of+Secrets+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Body of Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VqY4Wr3T5K4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Body of Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Body+of+Secrets+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Body of Secrets">Body of Secrets</a>
-        </h4>
-        <p class="fr-book-author">By James Bamford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Body+of+Secrets+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Body of Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VqY4Wr3T5K4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Body of Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Body+of+Secrets+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Body of Secrets">Body of Secrets</a>
+</h4>
+<p class="fr-book-author">By James Bamford</p>
         
-        <p class="fr-book-desc">Helps explain the communications and interception context behind radome-covered antennas.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Body+of+Secrets+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain the communications and interception context behind radome-covered antennas.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Body+of+Secrets+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pine+Gap&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pine Gap</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Puzzle+Palace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Puzzle Palace</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pine+Gap&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pine Gap</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Puzzle+Palace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Puzzle Palace</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radomes-do-pine-gap-s-radomes-explain-the-rumours-northern-territory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pine-gap-s-radomes-explain-the-rumours-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-pine-gap-s-radomes-explain-the-rumours-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -529,7 +529,7 @@ For readers interested in Northern Territory UFO traditions, the most revealing 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -549,7 +549,7 @@ For readers interested in Northern Territory UFO traditions, the most revealing 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -581,7 +581,7 @@ For readers interested in Northern Territory UFO traditions, the most revealing 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -633,7 +633,7 @@ For readers interested in Northern Territory UFO traditions, the most revealing 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -678,7 +678,7 @@ For readers interested in Northern Territory UFO traditions, the most revealing 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -719,104 +719,104 @@ For readers interested in Northern Territory UFO traditions, the most revealing 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nautilus.org  
-   Link: <a href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</p></details>
+   Link:<a href="https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/publications/books/australian-forces-abroad/defence-facilities/pine-gap/pine-gap-intro/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap – an introductionIts original and still principal purpose is to serve as the ground control station for geosynchronous s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nautilus.org  
    Title: the antennas of pine gap  
-   Link: <a href="https://nautilus.org/napsnet/napsnet-special-reports/the-antennas-of-pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/napsnet/napsnet-special-reports/the-antennas-of-pine-gap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Antennas of Pine Gap3 Mar 2016 — The antennas of Pine Gap are a powerful political symbol in Australia, representing either p...</p></details>
+   Link:<a href="https://nautilus.org/napsnet/napsnet-special-reports/the-antennas-of-pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/napsnet/napsnet-special-reports/the-antennas-of-pine-gap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Antennas of Pine Gap3 Mar 2016 — The antennas of Pine Gap are a powerful political symbol in Australia, representing either p...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Radome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radome</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Radome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radome</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nautilus.org  
    Title: antennas of pine gap image gallery  
-   Link: <a href="https://nautilus.org/briefing-books/australian-defence-facilities/antennas-of-pine-gap-image-gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/briefing-books/australian-defence-facilities/antennas-of-pine-gap-image-gallery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Feb 2016 — The antenna identification number in column 2 is based on the year that the antenna was installed (see column 6), with a le...</p></details>
+   Link:<a href="https://nautilus.org/briefing-books/australian-defence-facilities/antennas-of-pine-gap-image-gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/briefing-books/australian-defence-facilities/antennas-of-pine-gap-image-gallery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Feb 2016 — The antenna identification number in column 2 is based on the year that the antenna was installed (see column 6), with a le...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: RAF Menwith Hill  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Menwith_Hill" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Menwith_Hill</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Menwith_Hill" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Menwith_Hill</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Pine Gap  
-   Link: <a href="https://en.wikipedia.org/wiki/Pine_Gap" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pine_Gap</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pine_Gap" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pine_Gap</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abc.net.au  
    Title: backstory expanse podcast spies in the outback pine gap barwick  
-   Link: <a href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — What goes on beneath the cluster of enormous, oversized...</p></details>
+   Link:<a href="https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/backstory/2024-05-16/backstory-expanse-podcast-spies-in-the-outback-pine-gap-barwick/103844652</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsIn Alice Springs everyone has an opinion on the Pine Gap...15 May 2024 — What goes on beneath the cluster of enormous, oversized...</p></details>
    Published: May 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thesaturdaypaper.com.au  
    Title: pine gaps secret expansion  
-   Link: <a href="https://www.thesaturdaypaper.com.au/news/defence/2024/06/15/pine-gaps-secret-expansion" target="_blank" rel="noopener noreferrer nofollow">https://www.thesaturdaypaper.com.au/news/defence/2024/06/15/pine-gaps-secret-expansion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap&#x27;s secret expansion15 Jun 2024 — The total number of satellite radomes, smaller dishes and antennas at the base is now the highes...</p></details>
+   Link:<a href="https://www.thesaturdaypaper.com.au/news/defence/2024/06/15/pine-gaps-secret-expansion" target="_blank" rel="noopener noreferrer nofollow">https://www.thesaturdaypaper.com.au/news/defence/2024/06/15/pine-gaps-secret-expansion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Gap&#x27;s secret expansion15 Jun 2024 — The total number of satellite radomes, smaller dishes and antennas at the base is now the highes...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arena.org.au  
-   Link: <a href="https://arena.org.au/minding-the-gap-by-felicity-ruby/" target="_blank" rel="noopener noreferrer nofollow">https://arena.org.au/minding-the-gap-by-felicity-ruby/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Minding the Gap, by Felicity RubyDetails of the military and intelligence technology and methodologies used at Pine Gap to process signal...</p></details>
+   Link:<a href="https://arena.org.au/minding-the-gap-by-felicity-ruby/" target="_blank" rel="noopener noreferrer nofollow">https://arena.org.au/minding-the-gap-by-felicity-ruby/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minding the Gap, by Felicity RubyDetails of the military and intelligence technology and methodologies used at Pine Gap to process signal...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: michaelwest.com.au  
-   Link: <a href="https://michaelwest.com.au/six-eyes-australias-secret-support-for-the-israeli-assault-on-gaza-through-pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://michaelwest.com.au/six-eyes-australias-secret-support-for-the-israeli-assault-on-gaza-through-pine-gap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Six Eyes: Australia&#x27;s secret support for the Israeli assault on...Nov 4, 2023 — The Pine Gap US surveillance base located outside of Ali...</p></details>
+   Link:<a href="https://michaelwest.com.au/six-eyes-australias-secret-support-for-the-israeli-assault-on-gaza-through-pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://michaelwest.com.au/six-eyes-australias-secret-support-for-the-israeli-assault-on-gaza-through-pine-gap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Six Eyes: Australia&#x27;s secret support for the Israeli assault on...Nov 4, 2023 — The Pine Gap US surveillance base located outside of Ali...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: findanexpert.unimelb.edu.au  
    Title: 5301 fifty years on pine gap should reform to better serve australia  
-   Link: <a href="https://findanexpert.unimelb.edu.au/news/5301-fifty-years-on--pine-gap-should-reform-to-better-serve-australia" target="_blank" rel="noopener noreferrer nofollow">https://findanexpert.unimelb.edu.au/news/5301-fifty-years-on--pine-gap-should-reform-to-better-serve-australia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Find an ExpertFifty years on, Pine Gap should reform to better serve Australia8 Dec 2016 — Today, three of Pine Gap&#x27;s antennas point up a...</p></details>
+   Link:<a href="https://findanexpert.unimelb.edu.au/news/5301-fifty-years-on--pine-gap-should-reform-to-better-serve-australia" target="_blank" rel="noopener noreferrer nofollow">https://findanexpert.unimelb.edu.au/news/5301-fifty-years-on--pine-gap-should-reform-to-better-serve-australia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Find an ExpertFifty years on, Pine Gap should reform to better serve Australia8 Dec 2016 — Today, three of Pine Gap&#x27;s antennas point up a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: australianforeignaffairs.com  
    Title: Ball described a fundamental transformation of Pine Gap  
-   Link: <a href="https://www.australianforeignaffairs.com/articles/extract/2020/02/silent-partners" target="_blank" rel="noopener noreferrer nofollow">https://www.australianforeignaffairs.com/articles/extract/2020/02/silent-partners</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Silent partners: US bases in AustraliaThe Torus antenna alone is believed to have trebled Pine Gap&#x27;s coverage of global commercial satell...</p></details>
+   Link:<a href="https://www.australianforeignaffairs.com/articles/extract/2020/02/silent-partners" target="_blank" rel="noopener noreferrer nofollow">https://www.australianforeignaffairs.com/articles/extract/2020/02/silent-partners</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Silent partners: US bases in AustraliaThe Torus antenna alone is believed to have trebled Pine Gap&#x27;s coverage of global commercial satell...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: the rising resistance to pine gap full story podcast  
-   Link: <a href="https://www.theguardian.com/australia-news/audio/2025/nov/03/the-rising-resistance-to-pine-gap-full-story-podcast" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/audio/2025/nov/03/the-rising-resistance-to-pine-gap-full-story-podcast</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The rising resistance to Pine Gap – Full Story podcast3 Nov 2025 — Protests on an outback road in the Northern Territory have refocused a...</p></details>
+   Link:<a href="https://www.theguardian.com/australia-news/audio/2025/nov/03/the-rising-resistance-to-pine-gap-full-story-podcast" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/audio/2025/nov/03/the-rising-resistance-to-pine-gap-full-story-podcast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rising resistance to Pine Gap – Full Story podcast3 Nov 2025 — Protests on an outback road in the Northern Territory have refocused a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYbj0FwFQb-/?hl=gu&amp;img_index=4" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYbj0FwFQb-/?hl=gu&amp;img_index=4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ypad&#x27; based in Australia. The US are very sneaky like that.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYbj0FwFQb-/?hl=gu&amp;img_index=4" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYbj0FwFQb-/?hl=gu&amp;img_index=4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ypad&#x27; based in Australia. The US are very sneaky like that.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dailymotion.com  
-   Link: <a href="https://www.dailymotion.com/video/xa37ik6" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/xa37ik6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ering whether intelligence from the US-Australian joint defence...</p></details>
+   Link:<a href="https://www.dailymotion.com/video/xa37ik6" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/xa37ik6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ering whether intelligence from the US-Australian joint defence...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ga.gov.au  
    Title: our satellite and ground station network  
-   Link: <a href="https://www.ga.gov.au/scientific-topics/space/our-satellite-and-ground-station-network" target="_blank" rel="noopener noreferrer nofollow">https://www.ga.gov.au/scientific-topics/space/our-satellite-and-ground-station-network</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Our satellite and ground station network4 Dec 2024 — Our contributions include satellite tracking using laser ranging stations, dow...</p></details>
+   Link:<a href="https://www.ga.gov.au/scientific-topics/space/our-satellite-and-ground-station-network" target="_blank" rel="noopener noreferrer nofollow">https://www.ga.gov.au/scientific-topics/space/our-satellite-and-ground-station-network</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Our satellite and ground station network4 Dec 2024 — Our contributions include satellite tracking using laser ranging stations, dow...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: redflag.org.au  
    Title: what you need to know about pine gap  
-   Link: <a href="https://redflag.org.au/article/what-you-need-to-know-about-pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://redflag.org.au/article/what-you-need-to-know-about-pine-gap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Sept 2025 — In short, Pine Gap has the capacity to control US military satellites, track missile launches, control military communicat...</p></details>
+   Link:<a href="https://redflag.org.au/article/what-you-need-to-know-about-pine-gap/" target="_blank" rel="noopener noreferrer nofollow">https://redflag.org.au/article/what-you-need-to-know-about-pine-gap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Sept 2025 — In short, Pine Gap has the capacity to control US military satellites, track missile launches, control military communicat...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: greydynamics.com  
    Title: Grey Dynamics Secret Bases: Pine Gap  
-   Link: <a href="https://greydynamics.com/secret-bases-pine-gap-spooks-in-the-outback/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/secret-bases-pine-gap-spooks-in-the-outback/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Bases: Pine Gap - Spooks in the OutbackThe Joint Defence Facility Pine Gap is a signals intelligence (SIGINT) base located in the...</p></details>
+   Link:<a href="https://greydynamics.com/secret-bases-pine-gap-spooks-in-the-outback/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/secret-bases-pine-gap-spooks-in-the-outback/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Bases: Pine Gap - Spooks in the OutbackThe Joint Defence Facility Pine Gap is a signals intelligence (SIGINT) base located in the...</p></details>

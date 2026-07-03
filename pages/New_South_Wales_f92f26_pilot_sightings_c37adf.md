@@ -296,19 +296,19 @@ The strongest Sydney-area cases are not proof of exotic craft. They are stronger
 
 Pilot reports carry weight for three main reasons. First, pilots are trained to notice traffic, [lights]({{ 'lights/' | relative_url }}), relative motion and hazards. Secondly, they usually report from a known position, altitude and time. Thirdly, a sighting in controlled airspace can leave a paper trail through air traffic control, company reporting systems, safety databases or, in older cases, defence files.
 
-That does not make pilots immune to error. A pilot in approach or climb is handling radio calls, navigation, traffic separation and aircraft configuration, often while looking through curved cockpit transparencies at lights against cloud, haze or darkness. A small object seen briefly at close range may be genuinely hazardous yet still impossible to identify afterwards. The Australian Transport Safety Bureau’s 2014 investigation of a near collision near Perth shows the point well: the crew saw a bright strobe on an unknown grey cylindrical object, took evasive action, and the ATSB treated it as a serious incident, but the object was still not conclusively identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/investigations/ao-2014-052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-snippet">Open source on atsb.gov.au.</span></span></span>
+That does not make pilots immune to error. A pilot in approach or climb is handling radio calls, navigation, traffic separation and aircraft configuration, often while looking through curved cockpit transparencies at lights against cloud, haze or darkness. A small object seen briefly at close range may be genuinely hazardous yet still impossible to identify afterwards. The Australian Transport Safety Bureau’s 2014 investigation of a near collision near Perth shows the point well: the crew saw a bright strobe on an unknown grey cylindrical object, took evasive action, and the ATSB treated it as a serious incident, but the object was still not conclusively identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/investigations/ao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-snippet">Open source on atsb.gov.au.</span></span></span>
 
-For New South Wales, the value of pilot evidence is highest when it can be matched to records from Airservices Australia, the ATSB, Defence, airport operations or historic archives. Airservices’ WebTrak, for example, uses air traffic control secondary surveillance radar to display aircraft movements within 100 kilometres of major airports and up to 30,000 feet, while also linking those tracks to noise monitoring data. That sort of infrastructure does not solve every UFO report, but it changes the question from folklore to reconstruction: what aircraft were present, where were they, and what else was happening in the airspace? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">Airservices Web Trak</span></span></span>
+For New South Wales, the value of pilot evidence is highest when it can be matched to records from Airservices Australia, the ATSB, Defence, airport operations or historic archives. Airservices’ WebTrak, for example, uses air traffic control secondary surveillance radar to display aircraft movements within 100 kilometres of major airports and up to 30,000 feet, while also linking those tracks to noise monitoring data. That sort of infrastructure does not solve every UFO report, but it changes the question from folklore to reconstruction: what aircraft were present, where were they, and what else was happening in the airspace?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Web Trak</span><span class="citation-popover-snippet">Airservices Web Trak</span></span></span>
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Reports illustration 1" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sydney Air Corridors Create Both Evidence and Confusion
 
-Sydney is not an empty sky. Sydney Airport has two north-south parallel runways and one east-west crossing runway, creating several standard traffic flows depending on wind and operational conditions. Airservices’ public flight-path material shows that inner suburbs can sit under arrivals and departures in both “south flow” and “north flow”, while noise monitors around places such as Sydenham, St Peters, Annandale, Leichhardt, Hunters Hill and Kurnell capture different runway patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/2020/04/30/sydney-airport-flight-paths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise+2Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-title">Aircraft Noise Sydney Airport flight paths</span><span class="citation-popover-snippet">Aircraft Noise Sydney Airport flight paths</span></span></span>
+Sydney is not an empty sky. Sydney Airport has two north-south parallel runways and one east-west crossing runway, creating several standard traffic flows depending on wind and operational conditions. Airservices’ public flight-path material shows that inner suburbs can sit under arrivals and departures in both “south flow” and “north flow”, while noise monitors around places such as Sydenham, St Peters, Annandale, Leichhardt, Hunters Hill and Kurnell capture different runway patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aircraftnoise.airservicesaustralia.com/2020/04/30/sydney-airport-flight-paths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aircraftnoise.airservicesaustralia.com">[Aircraft Noise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aircraftnoise.airservicesaustralia.com</span><span class="citation-popover-title">Aircraft Noise Sydney Airport flight paths</span><span class="citation-popover-snippet">Aircraft Noise Sydney Airport flight paths</span></span></span>
 
 That density matters for UFO interpretation. A witness may see aircraft lights converging, separating, appearing to hover on approach, or suddenly brightening as landing lights point towards the observer. From the cockpit, another aircraft or object may appear to move strangely if it is on a crossing track, if the observer’s own aircraft is turning, or if the sighting is close to the horizon. Around Sydney, ordinary aviation is not background noise; it is the environment in which many unusual reports are generated.
 
-The Sydney Basin is also complicated by nearby aviation nodes. Airservices’ Sydney Basin reporting has described distinct flight patterns to and from Sydney, Bankstown and Camden airports, with circuit patterns and entry and exit lanes visible in track-density plots. The same report notes RAAF Richmond within the broader regional picture. This means a Sydney-area UFO report may involve airline traffic, training traffic, general aviation, helicopter operations, military movements, airport procedures or objects operating unlawfully in controlled airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Sydney_Bankstown_Camden_ANIR-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Sydney Basin Aircraft Noise Information Report Quarter 1</span><span class="citation-popover-snippet">Airservices Sydney Basin Aircraft Noise Information Report Quarter 1</span></span></span>
+The Sydney Basin is also complicated by nearby aviation nodes. Airservices’ Sydney Basin reporting has described distinct flight patterns to and from Sydney, Bankstown and Camden airports, with circuit patterns and entry and exit lanes visible in track-density plots. The same report notes RAAF Richmond within the broader regional picture. This means a Sydney-area UFO report may involve airline traffic, training traffic, general aviation, helicopter operations, military movements, airport procedures or objects operating unlawfully in controlled airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Sydney_Bankstown_Camden_ANIR-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Sydney Basin Aircraft Noise Information Report Quarter 1</span><span class="citation-popover-snippet">Airservices Sydney Basin Aircraft Noise Information Report Quarter 1</span></span></span>
 
 The result is a paradox. Busy airspace gives investigators more data, but it also gives observers more chances to see something they cannot immediately identify.
 
@@ -319,7 +319,7 @@ The result is a paradox. Busy airspace gives investigators more data, but it als
 
 One of the most relevant New South Wales aviation-UFO reports is the 25 April 2010 incident near Mount [Jerrabomberra]({{ 'jerrabomberra/' | relative_url }}), south of Canberra but within the NSW branch of this project. It is not a classic “flying saucer” story. It is more useful as a safety-and-records case because named commercial flights were reportedly diverted around an unidentified object.
 
-Media accounts based on Airservices Australia material described an unidentified inverted-pyramid-shaped object hovering near the end of runway 35, initially moving west towards the runway end before rising and heading away. Two aircraft, identified as QFA814 and VOZ259, were reportedly diverted through noise-abatement areas to avoid the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/travel/travel-advice/flights/mysterious-sightings-in-australias-skies/news-story/33f2ccd0d9ca866b1e9ccb400772e362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-snippet">Open source on com.au.</span></span></span>
+Media accounts based on Airservices Australia material described an unidentified inverted-pyramid-shaped object hovering near the end of runway 35, initially moving west towards the runway end before rising and heading away. Two aircraft, identified as QFA814 and VOZ259, were reportedly diverted through noise-abatement areas to avoid the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/travel/travel-advice/flights/mysterious-sightings-in-australias-skies/news-story/33f2ccd0d9ca866b1e9ccb400772e362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-snippet">Open source on com.au.</span></span></span>
 
 The strength of the case is not that the object was proved extraordinary. It is that the report, if accurately summarised from Airservices records, involved air traffic management action. A diversion or route adjustment gives the claim a practical footprint: controllers and crews were not merely discussing a light in the sky, but managing a possible hazard near controlled operations.
 
@@ -327,7 +327,7 @@ The weakness is equally important. Publicly available summaries do not provide a
 
 ## The 2012 South of Sydney Cylindrical Object
 
-Another Sydney-route case appeared in reporting on Airservices material obtained by researchers Paul Dean and Keith Basterfield. In September 2012, flight TGW581 reportedly saw a red cylindrical object pass the aircraft in the opposite direction while the aircraft was climbing roughly 20 nautical miles south of Sydney. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.liputan6.com/global/read/2170838/pilot-australia-saksikan-penampakan-misterius-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liputan6.com">[Liputan6.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liputan6.com</span><span class="citation-popover-title">pilot australia saksikan penampakan misterius ufo</span><span class="citation-popover-snippet">pilot australia saksikan penampakan misterius ufo</span></span></span>
+Another Sydney-route case appeared in reporting on Airservices material obtained by researchers Paul Dean and Keith Basterfield. In September 2012, flight TGW581 reportedly saw a red cylindrical object pass the aircraft in the opposite direction while the aircraft was climbing roughly 20 nautical miles south of Sydney.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.liputan6.com/global/read/2170838/pilot-australia-saksikan-penampakan-misterius-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liputan6.com">[Liputan6.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liputan6.com</span><span class="citation-popover-title">pilot australia saksikan penampakan misterius ufo</span><span class="citation-popover-snippet">pilot australia saksikan penampakan misterius ufo</span></span></span>
 
 This is exactly the kind of report that attracts attention: a professional crew, a defined phase of flight, a location close to Sydney routes and a specific shape and colour. Yet it is also exactly the kind of report that must be handled cautiously. A [red cylinder]({{ 'red-cylinder/' | relative_url }}) crossing an aircraft’s path could suggest a drone, balloon, rocket-like object, model aircraft, debris or another human-made object rather than anything exotic. The sighting’s evidential value depends on what else was logged: radar returns, other crew reports, ATC recordings, weather, notices to airmen, military activity, or later identification.
 
@@ -337,11 +337,11 @@ The public record does not appear to settle those questions. That makes the 2012
 <img src="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf-Illustration-2-dark.svg" | relative_url }}" alt="Pilot Reports illustration 2" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Older Benchmark: The 1954 Sea Fury Case
 
-The best-known New South Wales pilot-radar case is not on a modern Sydney airline route, but it is essential background for judging pilot sighting evidence in the state. On 31 August 1954, Royal Australian Navy pilot Lieutenant J. A. O’Farrell was returning to the naval air station at Nowra in a Hawker Sea Fury after a night flight when he reported bright lights near his aircraft. According to the National Archives of Australia, O’Farrell described a vague shape with a white light centrally on top, radioed Nowra, and received confirmation that the unknown craft were registering on radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">flying saucers fact or fiction</span></span></span>
+The best-known New South Wales pilot-radar case is not on a modern Sydney airline route, but it is essential background for judging pilot sighting evidence in the state. On 31 August 1954, Royal Australian Navy pilot Lieutenant J. A. O’Farrell was returning to the naval air station at Nowra in a Hawker Sea Fury after a night flight when he reported bright lights near his aircraft. According to the National Archives of Australia, O’Farrell described a vague shape with a white light centrally on top, radioed Nowra, and received confirmation that the unknown craft were registering on radar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">flying saucers fact or fiction</span></span></span>
 
-The case gained public attention after newspaper reporting in December 1954. Trove’s archived newspaper record summarises the story as involving two objects seen by O’Farrell while flying over Goulburn on a return trip to Nowra, with radar confirmation from Nowra. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/96500678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
+The case gained public attention after newspaper reporting in December 1954. Trove’s archived newspaper record summarises the story as involving two objects seen by O’Farrell while flying over Goulburn on a return trip to Nowra, with radar confirmation from Nowra.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/96500678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 
-Why does this matter for a Sydney air-routes page? Because it shows the older template against which later pilot reports are often judged: trained aircrew plus radar plus official record. It also shows the dangers of later embellishment. Specialist re-examinations of the Sea Fury incident note that some retellings became more dramatic than the original descriptions, while original wording was more restrained: vague shapes and lights, not sharply detailed alien craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/sea_fury_1954.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Open source on project1947.com.</span></span></span>
+Why does this matter for a Sydney air-routes page? Because it shows the older template against which later pilot reports are often judged: trained aircrew plus radar plus official record. It also shows the dangers of later embellishment. Specialist re-examinations of the Sea Fury incident note that some retellings became more dramatic than the original descriptions, while original wording was more restrained: vague shapes and lights, not sharply detailed alien craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/sea_fury_1954.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Open source on project1947.com.</span></span></span>
 
 The Sea Fury case remains unresolved in the public record, but its lesson is clear. Pilot-radar cases deserve attention, yet the most reliable version is usually the least sensational one.
 
@@ -357,8 +357,8 @@ A strong case would ideally include:
 * **Time, position and altitude:** enough detail to place the aircraft in Sydney’s arrival, departure or en-route structure.
 * **ATC recordings or controller notes:** evidence of what was said in real time, before memory and media framing changed the story.
 * **Radar or surveillance data:** not just “radar saw it”, but the type of return, track behaviour and whether it could have been another aircraft, clutter, weather or a transponder-equipped target.
-* **Weather and visibility:** cloud, haze, wind, sun angle and darkness can transform ordinary lights into puzzling observations. The Bureau of Meteorology provides aviation weather observations, forecasts, warnings and advisories within the international aviation framework, which makes weather a basic part of any serious reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bom.gov.au/aviation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bom.gov.au">[Bureau of Meteorology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bom.gov.au</span><span class="citation-popover-snippet">Open source on bom.gov.au.</span></span></span>
-* **Known aircraft and drone constraints:** CASA rules make it clear that drones over 250 grams must not be flown within 5.5 kilometres of a controlled airport, and all drones must stay clear of runway approach and departure paths; separate authorisations are required for operations above 120 metres, in controlled or restricted airspace, or in approach and departure paths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/knowyourdrone/drone-rules" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-snippet">Open source on casa.gov.au.</span></span></span>
+* **Weather and visibility:** cloud, haze, wind, sun angle and darkness can transform ordinary lights into puzzling observations. The Bureau of Meteorology provides aviation weather observations, forecasts, warnings and advisories within the international aviation framework, which makes weather a basic part of any serious reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bom.gov.au/aviation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bom.gov.au">[Bureau of Meteorology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bom.gov.au</span><span class="citation-popover-snippet">Open source on bom.gov.au.</span></span></span>
+* **Known aircraft and drone constraints:** CASA rules make it clear that drones over 250 grams must not be flown within 5.5 kilometres of a controlled airport, and all drones must stay clear of runway approach and departure paths; separate authorisations are required for operations above 120 metres, in controlled or restricted airspace, or in approach and departure paths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casa.gov.au/knowyourdrone/drone-rules" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casa.gov.au">[Civil Aviation Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casa.gov.au</span><span class="citation-popover-snippet">Open source on casa.gov.au.</span></span></span>
 
 This is why pilot sightings are often stronger than casual sightings but still rarely decisive. They can be serious aviation-safety events even when they are not strong evidence for extraordinary technology. A drone, balloon or rocket-like object in the wrong place can be unidentified, dangerous and entirely human-made.
 
@@ -386,194 +386,194 @@ For Sydney and the wider New South Wales record, the most balanced judgement is 
 That makes Sydney air routes important within the state’s UFO history for a grounded reason. They do not prove extraordinary craft in New South Wales skies. They show where unusual reports have the best chance of being tested — and where the difference between “unidentified”, “unresolved” and “extraordinary” matters most.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Pilot UFO Sightings Stronger Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Pilot UFO Sightings Stronger Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on witness evaluation, case classification, and assessing testimony quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness evaluation, case classification, and assessing testimony quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses the evidential value of pilot reports, radar cases, and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the evidential value of pilot reports, radar cases, and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines investigative standards, aviation-related sightings, and official case handling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines investigative standards, aviation-related sightings, and official case handling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Illustrates how witness accounts become stronger when supported by records and multiple observers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how witness accounts become stronger when supported by records and multiple observers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pilot-reports-are-pilot-ufo-sightings-stronger-evidence-new-south-wales-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-pilot-ufo-sightings-stronger-evidence-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ That makes Sydney air routes important within the state’s UFO history for a gr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ That makes Sydney air routes important within the state’s UFO history for a gr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ That makes Sydney air routes important within the state’s UFO history for a gr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ That makes Sydney air routes important within the state’s UFO history for a gr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ That makes Sydney air routes important within the state’s UFO history for a gr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,301 +779,301 @@ That makes Sydney air routes important within the state’s UFO history for a gr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/investigations/ao-2014-052" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/investigations/ao-2014-052</a>  
+   Link:<a href="https://www.atsb.gov.au/investigations/ao" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/investigations/ao</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/travel/travel-advice/flights/mysterious-sightings-in-australias-skies/news-story/33f2ccd0d9ca866b1e9ccb400772e362" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/travel/travel-advice/flights/mysterious-sightings-in-australias-skies/news-story/33f2ccd0d9ca866b1e9ccb400772e362</a>  
+   Link:<a href="https://www.news.com.au/travel/travel-advice/flights/mysterious-sightings-in-australias-skies/news-story/33f2ccd0d9ca866b1e9ccb400772e362" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/travel/travel-advice/flights/mysterious-sightings-in-australias-skies/news-story/33f2ccd0d9ca866b1e9ccb400772e362</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: liputan6.com  
    Title: pilot australia saksikan penampakan misterius ufo  
-   Link: <a href="https://www.liputan6.com/global/read/2170838/pilot-australia-saksikan-penampakan-misterius-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.liputan6.com/global/read/2170838/pilot-australia-saksikan-penampakan-misterius-ufo</a>  
+   Link:<a href="https://www.liputan6.com/global/read/2170838/pilot-australia-saksikan-penampakan-misterius-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.liputan6.com/global/read/2170838/pilot-australia-saksikan-penampakan-misterius-ufo</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: naa.gov.au  
    Title: flying saucers fact or fiction  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/kbcat/sea_fury_1954.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/sea_fury_1954.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/sea_fury_1954.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/sea_fury_1954.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/wikibase/310449" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/310449</a>  
+   Link:<a href="https://aviation-safety.net/wikibase/310449" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/310449</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: au.webtrak.aero  
    Title: aero Sydney  
-   Link: <a href="https://au.webtrak.aero/syd3" target="_blank" rel="noopener noreferrer nofollow">https://au.webtrak.aero/syd3</a>  
+   Link:<a href="https://au.webtrak.aero/syd3" target="_blank" rel="noopener noreferrer nofollow">https://au.webtrak.aero/syd3</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/links/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/links/index.htm</a>  
+   Link:<a href="https://www.project1947.com/links/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/links/index.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: project1947.com  
    Title: SOUT H AUSTRALIAN UFO REPORTS LISTING  
-   Link: <a href="https://www.project1947.com/kbcat/kbsaufo05-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbsaufo05-1.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kbsaufo05-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbsaufo05-1.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: airservicesaustralia.com  
    Title: Airservices Web Trak  
-   Link: <a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/</a>  
+   Link:<a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/webtrak/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aircraftnoise.airservicesaustralia.com  
    Title: Aircraft Noise Sydney Airport flight paths  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/2020/04/30/sydney-airport-flight-paths/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2020/04/30/sydney-airport-flight-paths/</a>  
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/2020/04/30/sydney-airport-flight-paths/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/2020/04/30/sydney-airport-flight-paths/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aircraftnoise.airservicesaustralia.com  
    Title: Aircraft Noise Resources – Page 4  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/resources/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/resources/page/4/</a>  
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/resources/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/resources/page/4/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aircraftnoise.airservicesaustralia.com  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/5/</a>  
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/5/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: airservicesaustralia.com  
    Title: Airservices Sydney Basin Aircraft Noise Information Report Quarter 1  
-   Link: <a href="https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Sydney_Bankstown_Camden_ANIR-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Sydney_Bankstown_Camden_ANIR-1.pdf</a>  
+   Link:<a href="https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Sydney_Bankstown_Camden_ANIR-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Sydney_Bankstown_Camden_ANIR-1.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/96500678" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/96500678</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/96500678" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/96500678</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bom.gov.au  
-   Link: <a href="https://www.bom.gov.au/aviation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/aviation/</a>  
+   Link:<a href="https://www.bom.gov.au/aviation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/aviation/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: casa.gov.au  
-   Link: <a href="https://www.casa.gov.au/knowyourdrone/drone-rules" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/knowyourdrone/drone-rules</a>  
+   Link:<a href="https://www.casa.gov.au/knowyourdrone/drone-rules" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/knowyourdrone/drone-rules</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: casa.gov.au  
    Title: flight approvals and permissions  
-   Link: <a href="https://www.casa.gov.au/drones/flight-authorisations/flight-approvals-and-permissions" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/drones/flight-authorisations/flight-approvals-and-permissions</a>  
+   Link:<a href="https://www.casa.gov.au/drones/flight-authorisations/flight-approvals-and-permissions" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/drones/flight-authorisations/flight-approvals-and-permissions</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: naa.gov.au  
    Title: research guide the sinking of hmas sydney  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2020-06/research-guide-the-sinking-of-hmas-sydney.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-06/research-guide-the-sinking-of-hmas-sydney.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2020-06/research-guide-the-sinking-of-hmas-sydney.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-06/research-guide-the-sinking-of-hmas-sydney.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2019-10/Tune-review-MrNewellArmstrong.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2019-10/Tune-review-MrNewellArmstrong.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2019-10/Tune-review-MrNewellArmstrong.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2019-10/Tune-review-MrNewellArmstrong.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: naa.gov.au  
    Title: research guide commonwealth government records about tas  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2020-06/research-guide-commonwealth-government-records-about-tas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-06/research-guide-commonwealth-government-records-about-tas.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2020-06/research-guide-commonwealth-government-records-about-tas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-06/research-guide-commonwealth-government-records-about-tas.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: naa.gov.au  
    Title: records released july 2021  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2021-09/records-released-july-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2021-09/records-released-july-2021.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2021-09/records-released-july-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2021-09/records-released-july-2021.pdf</a>  
    Published: july 2021  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2021-06/records-released-may-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2021-06/records-released-may-2021.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2021-06/records-released-may-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2021-06/records-released-may-2021.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2021-03/records-released-february-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2021-03/records-released-february-2021.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2021-03/records-released-february-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2021-03/records-released-february-2021.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: naa.gov.au  
    Title: Research Guide  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2020-06/research-guide-allies-enemies-and-trading-partners_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-06/research-guide-allies-enemies-and-trading-partners_0.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2020-06/research-guide-allies-enemies-and-trading-partners_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-06/research-guide-allies-enemies-and-trading-partners_0.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: naa.gov.au  
    Title: research guide government records about ACT  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2022-06/research-guide-government-records-about-ACT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2022-06/research-guide-government-records-about-ACT.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2022-06/research-guide-government-records-about-ACT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2022-06/research-guide-government-records-about-ACT.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/sites/default/files/investigation-reports/AO-2014-052%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/investigation-reports/AO-2014-052%20Final.pdf</a>  
+   Link:<a href="https://www.atsb.gov.au/sites/default/files/investigation-reports/AO-2014-052%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/investigation-reports/AO-2014-052%20Final.pdf</a>  
 
-30. <a id="endnote-30"></a>
-   Source: atsb.gov.au  
-   Title: Insert document title  
-   Link: <a href="https://www.atsb.gov.au/sites/default/files/media/5204265/ab-2014-064_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/media/5204265/ab-2014-064_final.pdf</a>  
-
-31. <a id="endnote-31"></a>
-   Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/aviation-investigation-reports?field_aircraft_manufacturer_target_id=All&amp;field_aircraft_model_value=&amp;field_aircraft_operation_type_target_id=All&amp;field_aircraft_vehicle_sector_target_id=All&amp;field_aviation_occurrence_type_target_id=All&amp;field_completion_date_value%5Bmax%5D=&amp;field_completion_date_value%5Bmin%5D=&amp;field_damage_target_id=All&amp;field_event_location_value=&amp;field_highest_injury_level_target_id=All&amp;field_investigation_status_target_id=All&amp;field_investigation_type_target_id=All&amp;field_mode_of_transport_target_id%5B0%5D%5Btarget_id%5D=1&amp;field_occurence_date_value%5Bmax%5D=&amp;field_occurence_date_value%5Bmin%5D=&amp;field_occurrence_category_target_id=All&amp;field_occurrence_date_value%5Bmax%5D=&amp;field_occurrence_date_value%5Bmin%5D=&amp;field_registration_value=&amp;field_report_id_value=&amp;field_report_release_date_value%5Bmax%5D=&amp;field_report_release_date_value%5Bmin%5D=&amp;field_report_status_target_id=All&amp;field_state_target_id=All&amp;order=field_report_release_date&amp;page=53&amp;sort=desc&amp;title=" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/aviation-investigation-reports?field_aircraft_manufacturer_target_id=All&amp;field_aircraft_model_value=&amp;field_aircraft_operation_type_target_id=All&amp;field_aircraft_vehicle_sector_target_id=All&amp;field_aviation_occurrence_type_target_id=All&amp;field_completion_date_value%5Bmax%5D=&amp;field_completion_date_value%5Bmin%5D=&amp;field_damage_target_id=All&amp;field_event_location_value=&amp;field_highest_injury_level_target_id=All&amp;field_investigation_status_target_id=All&amp;field_investigation_type_target_id=All&amp;field_mode_of_transport_target_id%5B0%5D%5Btarget_id%5D=1&amp;field_occurence_date_value%5Bmax%5D=&amp;field_occurence_date_value%5Bmin%5D=&amp;field_occurrence_category_target_id=All&amp;field_occurrence_date_value%5Bmax%5D=&amp;field_occurrence_date_value%5Bmin%5D=&amp;field_registration_value=&amp;field_report_id_value=&amp;field_report_release_date_value%5Bmax%5D=&amp;field_report_release_date_value%5Bmin%5D=&amp;field_report_status_target_id=All&amp;field_state_target_id=All&amp;order=field_report_release_date&amp;page=53&amp;sort=desc&amp;title=</a>  
-
-32. <a id="endnote-32"></a>
-   Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/investigations?page=110" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/investigations?page=110</a>  
-
-33. <a id="endnote-33"></a>
-   Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/sites/default/files/media/5743306/AR-2015-082%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/media/5743306/AR-2015-082%20FINAL.pdf</a>  
-
-34. <a id="endnote-34"></a>
-   Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/aviation-investigation-reports?field_aircraft_manufacturer_target_id=All&amp;field_aircraft_model_value=&amp;field_aircraft_operation_type_target_id=All&amp;field_aircraft_vehicle_sector_target_id=All&amp;field_aviation_occurrence_type_target_id=All&amp;field_completion_date_value%5Bmax%5D=&amp;field_completion_date_value%5Bmin%5D=&amp;field_damage_target_id=All&amp;field_event_location_value=&amp;field_highest_injury_level_target_id=All&amp;field_investigation_status_target_id=All&amp;field_investigation_type_target_id=All&amp;field_occurence_date_value%5Bmax%5D=&amp;field_occurence_date_value%5Bmin%5D=&amp;field_occurrence_category_target_id=All&amp;field_occurrence_date_value%5Bmax%5D=&amp;field_occurrence_date_value%5Bmin%5D=2007&amp;field_registration_value=&amp;field_report_id_value=&amp;field_report_release_date_value%5Bmax%5D=&amp;field_report_release_date_value%5Bmin%5D=&amp;field_report_status_target_id=All&amp;field_state_target_id=All&amp;order=field_occurence_date&amp;page=52&amp;sort=desc&amp;title=" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/aviation-investigation-reports?field_aircraft_manufacturer_target_id=All&amp;field_aircraft_model_value=&amp;field_aircraft_operation_type_target_id=All&amp;field_aircraft_vehicle_sector_target_id=All&amp;field_aviation_occurrence_type_target_id=All&amp;field_completion_date_value%5Bmax%5D=&amp;field_completion_date_value%5Bmin%5D=&amp;field_damage_target_id=All&amp;field_event_location_value=&amp;field_highest_injury_level_target_id=All&amp;field_investigation_status_target_id=All&amp;field_investigation_type_target_id=All&amp;field_occurence_date_value%5Bmax%5D=&amp;field_occurence_date_value%5Bmin%5D=&amp;field_occurrence_category_target_id=All&amp;field_occurrence_date_value%5Bmax%5D=&amp;field_occurrence_date_value%5Bmin%5D=2007&amp;field_registration_value=&amp;field_report_id_value=&amp;field_report_release_date_value%5Bmax%5D=&amp;field_report_release_date_value%5Bmin%5D=&amp;field_report_status_target_id=All&amp;field_state_target_id=All&amp;order=field_occurence_date&amp;page=52&amp;sort=desc&amp;title=</a>  
-
-35. <a id="endnote-35"></a>
-   Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/investigations/ao-2014-164" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/investigations/ao-2014-164</a>  
-
-36. <a id="endnote-36"></a>
-   Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/taxonomy/term/358" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/taxonomy/term/358</a>  
-
-37. <a id="endnote-37"></a>
+30.<a id="endnote-30"></a>
    Source: atsb.gov.au  
    Title: Insert document title  
-   Link: <a href="https://www.atsb.gov.au/sites/default/files/media/5772518/aviation-short-investigation-bulletin-issue-58_finalreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/media/5772518/aviation-short-investigation-bulletin-issue-58_finalreport.pdf</a>  
+   Link:<a href="https://www.atsb.gov.au/sites/default/files/media/5204265/ab-2014-064_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/media/5204265/ab-2014-064_final.pdf</a>  
 
-38. <a id="endnote-38"></a>
+31.<a id="endnote-31"></a>
+   Source: atsb.gov.au  
+   Link:<a href="https://www.atsb.gov.au/aviation-investigation-reports?field_aircraft_manufacturer_target_id=All&amp;field_aircraft_model_value=&amp;field_aircraft_operation_type_target_id=All&amp;field_aircraft_vehicle_sector_target_id=All&amp;field_aviation_occurrence_type_target_id=All&amp;field_completion_date_value%5Bmax%5D=&amp;field_completion_date_value%5Bmin%5D=&amp;field_damage_target_id=All&amp;field_event_location_value=&amp;field_highest_injury_level_target_id=All&amp;field_investigation_status_target_id=All&amp;field_investigation_type_target_id=All&amp;field_mode_of_transport_target_id%5B0%5D%5Btarget_id%5D=1&amp;field_occurence_date_value%5Bmax%5D=&amp;field_occurence_date_value%5Bmin%5D=&amp;field_occurrence_category_target_id=All&amp;field_occurrence_date_value%5Bmax%5D=&amp;field_occurrence_date_value%5Bmin%5D=&amp;field_registration_value=&amp;field_report_id_value=&amp;field_report_release_date_value%5Bmax%5D=&amp;field_report_release_date_value%5Bmin%5D=&amp;field_report_status_target_id=All&amp;field_state_target_id=All&amp;order=field_report_release_date&amp;page=53&amp;sort=desc&amp;title=" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/aviation-investigation-reports?field_aircraft_manufacturer_target_id=All&amp;field_aircraft_model_value=&amp;field_aircraft_operation_type_target_id=All&amp;field_aircraft_vehicle_sector_target_id=All&amp;field_aviation_occurrence_type_target_id=All&amp;field_completion_date_value%5Bmax%5D=&amp;field_completion_date_value%5Bmin%5D=&amp;field_damage_target_id=All&amp;field_event_location_value=&amp;field_highest_injury_level_target_id=All&amp;field_investigation_status_target_id=All&amp;field_investigation_type_target_id=All&amp;field_mode_of_transport_target_id%5B0%5D%5Btarget_id%5D=1&amp;field_occurence_date_value%5Bmax%5D=&amp;field_occurence_date_value%5Bmin%5D=&amp;field_occurrence_category_target_id=All&amp;field_occurrence_date_value%5Bmax%5D=&amp;field_occurrence_date_value%5Bmin%5D=&amp;field_registration_value=&amp;field_report_id_value=&amp;field_report_release_date_value%5Bmax%5D=&amp;field_report_release_date_value%5Bmin%5D=&amp;field_report_status_target_id=All&amp;field_state_target_id=All&amp;order=field_report_release_date&amp;page=53&amp;sort=desc&amp;title=</a>  
+
+32.<a id="endnote-32"></a>
+   Source: atsb.gov.au  
+   Link:<a href="https://www.atsb.gov.au/investigations?page=110" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/investigations?page=110</a>  
+
+33.<a id="endnote-33"></a>
+   Source: atsb.gov.au  
+   Link:<a href="https://www.atsb.gov.au/sites/default/files/media/5743306/AR-2015-082%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/media/5743306/AR-2015-082%20FINAL.pdf</a>  
+
+34.<a id="endnote-34"></a>
+   Source: atsb.gov.au  
+   Link:<a href="https://www.atsb.gov.au/aviation-investigation-reports?field_aircraft_manufacturer_target_id=All&amp;field_aircraft_model_value=&amp;field_aircraft_operation_type_target_id=All&amp;field_aircraft_vehicle_sector_target_id=All&amp;field_aviation_occurrence_type_target_id=All&amp;field_completion_date_value%5Bmax%5D=&amp;field_completion_date_value%5Bmin%5D=&amp;field_damage_target_id=All&amp;field_event_location_value=&amp;field_highest_injury_level_target_id=All&amp;field_investigation_status_target_id=All&amp;field_investigation_type_target_id=All&amp;field_occurence_date_value%5Bmax%5D=&amp;field_occurence_date_value%5Bmin%5D=&amp;field_occurrence_category_target_id=All&amp;field_occurrence_date_value%5Bmax%5D=&amp;field_occurrence_date_value%5Bmin%5D=2007&amp;field_registration_value=&amp;field_report_id_value=&amp;field_report_release_date_value%5Bmax%5D=&amp;field_report_release_date_value%5Bmin%5D=&amp;field_report_status_target_id=All&amp;field_state_target_id=All&amp;order=field_occurence_date&amp;page=52&amp;sort=desc&amp;title=" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/aviation-investigation-reports?field_aircraft_manufacturer_target_id=All&amp;field_aircraft_model_value=&amp;field_aircraft_operation_type_target_id=All&amp;field_aircraft_vehicle_sector_target_id=All&amp;field_aviation_occurrence_type_target_id=All&amp;field_completion_date_value%5Bmax%5D=&amp;field_completion_date_value%5Bmin%5D=&amp;field_damage_target_id=All&amp;field_event_location_value=&amp;field_highest_injury_level_target_id=All&amp;field_investigation_status_target_id=All&amp;field_investigation_type_target_id=All&amp;field_occurence_date_value%5Bmax%5D=&amp;field_occurence_date_value%5Bmin%5D=&amp;field_occurrence_category_target_id=All&amp;field_occurrence_date_value%5Bmax%5D=&amp;field_occurrence_date_value%5Bmin%5D=2007&amp;field_registration_value=&amp;field_report_id_value=&amp;field_report_release_date_value%5Bmax%5D=&amp;field_report_release_date_value%5Bmin%5D=&amp;field_report_status_target_id=All&amp;field_state_target_id=All&amp;order=field_occurence_date&amp;page=52&amp;sort=desc&amp;title=</a>  
+
+35.<a id="endnote-35"></a>
+   Source: atsb.gov.au  
+   Link:<a href="https://www.atsb.gov.au/investigations/ao" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/investigations/ao</a>  
+
+36.<a id="endnote-36"></a>
+   Source: atsb.gov.au  
+   Link:<a href="https://www.atsb.gov.au/taxonomy/term/358" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/taxonomy/term/358</a>  
+
+37.<a id="endnote-37"></a>
+   Source: atsb.gov.au  
+   Title: Insert document title  
+   Link:<a href="https://www.atsb.gov.au/sites/default/files/media/5772518/aviation-short-investigation-bulletin-issue-58_finalreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/media/5772518/aviation-short-investigation-bulletin-issue-58_finalreport.pdf</a>  
+
+38.<a id="endnote-38"></a>
    Source: engage.airservicesaustralia.com  
-   Link: <a href="https://engage.airservicesaustralia.com/96933/widgets/452915/documents/313088" target="_blank" rel="noopener noreferrer nofollow">https://engage.airservicesaustralia.com/96933/widgets/452915/documents/313088</a>  
+   Link:<a href="https://engage.airservicesaustralia.com/96933/widgets/452915/documents/313088" target="_blank" rel="noopener noreferrer nofollow">https://engage.airservicesaustralia.com/96933/widgets/452915/documents/313088</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: aircraftnoise.airservicesaustralia.com  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/resources/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/resources/</a>  
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/resources/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/resources/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/</a>  
+   Link:<a href="https://www.airservicesaustralia.com/community/environment/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/community/environment/aircraft-noise/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: aircraftnoise.airservicesaustralia.com  
-   Link: <a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/6/</a>  
+   Link:<a href="https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://aircraftnoise.airservicesaustralia.com/category/what-are-the-flight-paths-in-my-area/page/6/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/industry-info/unmanned-aerial-systems-in-controlled-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/industry-info/unmanned-aerial-systems-in-controlled-airspace/</a>  
+   Link:<a href="https://www.airservicesaustralia.com/industry-info/unmanned-aerial-systems-in-controlled-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/industry-info/unmanned-aerial-systems-in-controlled-airspace/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: westernsydneyairport.gov.au  
    Title: Flight paths  
-   Link: <a href="https://www.westernsydneyairport.gov.au/flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.westernsydneyairport.gov.au/flight-paths</a>  
+   Link:<a href="https://www.westernsydneyairport.gov.au/flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.westernsydneyairport.gov.au/flight-paths</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: courts.qld.gov.au  
    Title: cif march2014cabooltureplanecrash 20200310  
-   Link: <a href="https://www.courts.qld.gov.au/__data/assets/pdf_file/0005/642551/cif-march2014cabooltureplanecrash-20200310.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.courts.qld.gov.au/__data/assets/pdf_file/0005/642551/cif-march2014cabooltureplanecrash-20200310.pdf</a>  
+   Link:<a href="https://www.courts.qld.gov.au/__data/assets/pdf_file/0005/642551/cif-march2014cabooltureplanecrash-20200310.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.courts.qld.gov.au/__data/assets/pdf_file/0005/642551/cif-march2014cabooltureplanecrash-20200310.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: casa.gov.au  
    Title: sydney airspace changes  
-   Link: <a href="https://www.casa.gov.au/operations-safety-and-travel/airspace/sydney-airspace-changes" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/operations-safety-and-travel/airspace/sydney-airspace-changes</a>  
+   Link:<a href="https://www.casa.gov.au/operations-safety-and-travel/airspace/sydney-airspace-changes" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/operations-safety-and-travel/airspace/sydney-airspace-changes</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: sydneyairport.com.au  
-   Link: <a href="https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise</a>  
+   Link:<a href="https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.sydneyairport.com.au/corporate/sustainability/supporting-our-people-and-communities/aircraft-noise</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: aph.gov.au  
    Title: Document Store.ashx  
-   Link: <a href="https://www.aph.gov.au/DocumentStore.ashx?id=fa57ff8b-6706-4560-a885-7025a58bfe0d&amp;subId=755250" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/DocumentStore.ashx?id=fa57ff8b-6706-4560-a885-7025a58bfe0d&amp;subId=755250</a>  
+   Link:<a href="https://www.aph.gov.au/DocumentStore.ashx?id=fa57ff8b-6706-4560-a885-7025a58bfe0d&amp;subId=755250" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/DocumentStore.ashx?id=fa57ff8b-6706-4560-a885-7025a58bfe0d&amp;subId=755250</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Rural_and_Regional_Affairs_and_Transport/Drones/Report/c02" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Rural_and_Regional_Affairs_and_Transport/Drones/Report/c02</a>  
+   Link:<a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Rural_and_Regional_Affairs_and_Transport/Drones/Report/c02" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Rural_and_Regional_Affairs_and_Transport/Drones/Report/c02</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: sacf.infrastructure.gov.au  
-   Link: <a href="https://sacf.infrastructure.gov.au/sites/default/files/documents/guide-to-navigating-sydney-airport-operational-statistics-noise-information_may_2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sacf.infrastructure.gov.au/sites/default/files/documents/guide-to-navigating-sydney-airport-operational-statistics-noise-information_may_2021.pdf</a>  
+   Link:<a href="https://sacf.infrastructure.gov.au/sites/default/files/documents/guide-to-navigating-sydney-airport-operational-statistics-noise-information_may_2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sacf.infrastructure.gov.au/sites/default/files/documents/guide-to-navigating-sydney-airport-operational-statistics-noise-information_may_2021.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: infrastructure.gov.au  
-   Link: <a href="https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/western-sydney-international-airport-flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/western-sydney-international-airport-flight-paths</a>  
+   Link:<a href="https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/western-sydney-international-airport-flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/western-sydney-international-airport-flight-paths</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: sacf.infrastructure.gov.au  
-   Link: <a href="https://sacf.infrastructure.gov.au/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://sacf.infrastructure.gov.au/aircraft-noise</a>  
+   Link:<a href="https://sacf.infrastructure.gov.au/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://sacf.infrastructure.gov.au/aircraft-noise</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: wsiflightpaths.gov.au  
    Title: Western Sydney International Airport  
-   Link: <a href="https://www.wsiflightpaths.gov.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.wsiflightpaths.gov.au/</a>  
+   Link:<a href="https://www.wsiflightpaths.gov.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.wsiflightpaths.gov.au/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: wsiflightpaths.gov.au  
-   Link: <a href="https://www.wsiflightpaths.gov.au/pdf-documents/eis-documents/WSI_EIS_Chapter_8_-_Facilitated_changes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wsiflightpaths.gov.au/pdf-documents/eis-documents/WSI_EIS_Chapter_8_-_Facilitated_changes.pdf</a>  
+   Link:<a href="https://www.wsiflightpaths.gov.au/pdf-documents/eis-documents/WSI_EIS_Chapter_8_-_Facilitated_changes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wsiflightpaths.gov.au/pdf-documents/eis-documents/WSI_EIS_Chapter_8_-_Facilitated_changes.pdf</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: wsiflightpaths.gov.au  
    Title: Chapter 11 Aircraft noise  
-   Link: <a href="https://www.wsiflightpaths.gov.au/pdf-documents/WSI_EIS_Chapter_11_Aircraft_noise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wsiflightpaths.gov.au/pdf-documents/WSI_EIS_Chapter_11_Aircraft_noise.pdf</a>  
+   Link:<a href="https://www.wsiflightpaths.gov.au/pdf-documents/WSI_EIS_Chapter_11_Aircraft_noise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wsiflightpaths.gov.au/pdf-documents/WSI_EIS_Chapter_11_Aircraft_noise.pdf</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: aviationcomplaints.gov.au  
-   Link: <a href="https://www.aviationcomplaints.gov.au/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationcomplaints.gov.au/aircraft-noise</a>  
+   Link:<a href="https://www.aviationcomplaints.gov.au/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationcomplaints.gov.au/aircraft-noise</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: bom.gov.au  
    Title: airport weather briefing  
-   Link: <a href="https://www.bom.gov.au/aviation/forecasts/airport-weather-briefing/" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/aviation/forecasts/airport-weather-briefing/</a>  
+   Link:<a href="https://www.bom.gov.au/aviation/forecasts/airport-weather-briefing/" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/aviation/forecasts/airport-weather-briefing/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: wollondilly.nsw.gov.au  
    Title: council responds to release of western sydney airport flight paths  
-   Link: <a href="https://www.wollondilly.nsw.gov.au/home/latest-news/council-responds-to-release-of-western-sydney-airport-flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.wollondilly.nsw.gov.au/home/latest-news/council-responds-to-release-of-western-sydney-airport-flight-paths</a>  
+   Link:<a href="https://www.wollondilly.nsw.gov.au/home/latest-news/council-responds-to-release-of-western-sydney-airport-flight-paths" target="_blank" rel="noopener noreferrer nofollow">https://www.wollondilly.nsw.gov.au/home/latest-news/council-responds-to-release-of-western-sydney-airport-flight-paths</a>  
 
 ### Additional References
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=6YNiiywi2V8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6YNiiywi2V8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Former fighter pilot reveal UFO abnormalities leaves hosts in disbelief | Today Show Australia...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=6YNiiywi2V8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6YNiiywi2V8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Former fighter pilot reveal UFO abnormalities leaves hosts in disbelief | Today Show Australia...</p></details>
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=nZ6s2NmySbs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nZ6s2NmySbs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Reconstruction Conversation of Australian Pilot Frederick Valentich in 1978 - FindingUFO...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=nZ6s2NmySbs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nZ6s2NmySbs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Reconstruction Conversation of Australian Pilot Frederick Valentich in 1978 - FindingUFO...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=IP_78YyK7rg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IP_78YyK7rg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Australian Filmmaker Claims To Have New Evidence Of 1980 UFO Sighting | 10 News+...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=IP_78YyK7rg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IP_78YyK7rg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Australian Filmmaker Claims To Have New Evidence Of 1980 UFO Sighting | 10 News+...</p></details>
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=8yFIRaalq10" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8yFIRaalq10</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Inside the Australian UFO Archive: Tullamarine, Goulburn, and the Townsville Radar Case...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8yFIRaalq10" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8yFIRaalq10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Inside the Australian UFO Archive: Tullamarine, Goulburn, and the Townsville Radar Case...</p></details>
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/38868449/Emniyet_Y%C3%B6netim_Sistemi" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/38868449/Emniyet_Y%C3%B6netim_Sistemi</a>  
+   Link:<a href="https://www.academia.edu/38868449/Emniyet_Y%C3%B6netim_Sistemi" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/38868449/Emniyet_Y%C3%B6netim_Sistemi</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSQld/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1302637121894911/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSQld/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1302637121894911/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSQld/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1302637121894911/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSQld/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1302637121894911/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSsydney/posts/a-mysterious-flying-object-seen-hovering-in-the-night-sky-had-many-people-wonder/5123956544295104/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSsydney/posts/a-mysterious-flying-object-seen-hovering-in-the-night-sky-had-many-people-wonder/5123956544295104/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSsydney/posts/a-mysterious-flying-object-seen-hovering-in-the-night-sky-had-many-people-wonder/5123956544295104/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSsydney/posts/a-mysterious-flying-object-seen-hovering-in-the-night-sky-had-many-people-wonder/5123956544295104/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: wmo.int  
-   Link: <a href="https://wmo.int/activities/aircraft-based-observations/aircraft-based-observations" target="_blank" rel="noopener noreferrer nofollow">https://wmo.int/activities/aircraft-based-observations/aircraft-based-observations</a>  
+   Link:<a href="https://wmo.int/activities/aircraft-based-observations/aircraft-based-observations" target="_blank" rel="noopener noreferrer nofollow">https://wmo.int/activities/aircraft-based-observations/aircraft-based-observations</a>  

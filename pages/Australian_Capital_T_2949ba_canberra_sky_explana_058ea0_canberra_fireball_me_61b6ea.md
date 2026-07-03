@@ -260,7 +260,7 @@ When Canberra residents report a fast-moving light with a tail, a sudden flash, 
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea-Illustration-1-dark.svg" | relative_url }}" alt="Fireballs illustration 1" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key point is that a fireball seen from Canberra may not be a local object at all. Bright meteors can be visible across hundreds of kilometres, generating simultaneous reports from the ACT, New South Wales, Queensland and beyond. Recent examples have produced exactly the sort of descriptions commonly associated with UFO reports: glowing green lights, apparent changes in direction, bright flashes, smoke-like trails and sudden disappearance. Yet subsequent investigation identified them as meteors entering Earth's atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
+The key point is that a fireball seen from Canberra may not be a local object at all. Bright meteors can be visible across hundreds of kilometres, generating simultaneous reports from the ACT, New South Wales, Queensland and beyond. Recent examples have produced exactly the sort of descriptions commonly associated with UFO reports: glowing green lights, apparent changes in direction, bright flashes, smoke-like trails and sudden disappearance. Yet subsequent investigation identified them as meteors entering Earth's atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
 
 ## What fireballs look like to ground witnesses
 
@@ -280,7 +280,7 @@ From the ground, witnesses often describe fireballs in ways that overlap with cl
 
 </div>
 
-These features can seem inconsistent with ordinary aircraft. In reality, they are exactly the effects expected when a meteoroid heats, fragments and ionises the surrounding atmosphere. Astrophysicists examining recent eastern Australian sightings noted that the prominent blue and green colours were strong indicators of a meteor rather than an aircraft or satellite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
+These features can seem inconsistent with ordinary aircraft. In reality, they are exactly the effects expected when a meteoroid heats, fragments and ionises the surrounding atmosphere. Astrophysicists examining recent eastern Australian sightings noted that the prominent blue and green colours were strong indicators of a meteor rather than an aircraft or satellite.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
 
 For Canberra observers, the brevity of the event is an important clue. Many fireballs remain visible for only a few seconds before burning out or fragmenting. The short duration often leaves witnesses with vivid memories but little reliable information about distance or size.
 
@@ -291,9 +291,9 @@ For Canberra observers, the brevity of the event is an important clue. Many fire
 
 One reason fireballs repeatedly appear in UFO files is that witnesses naturally assume the object was nearby. Human perception struggles to estimate the distance of a bright light against a dark sky.
 
-A large fireball over eastern Australia may be visible simultaneously from Canberra, Sydney, regional New South Wales and parts of Queensland. Witnesses in each location can sincerely believe the object passed directly overhead or landed nearby. In reality, they are all observing the same high-altitude atmospheric event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
+A large fireball over eastern Australia may be visible simultaneously from Canberra, Sydney, regional New South Wales and parts of Queensland. Witnesses in each location can sincerely believe the object passed directly overhead or landed nearby. In reality, they are all observing the same high-altitude atmospheric event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
 
-This pattern appeared clearly during the May 2026 fireball that generated widespread reports across eastern Australia. Sightings came from Canberra as well as numerous locations in New South Wales and Queensland. Some observers initially wondered whether they had seen a crash, a missile or a UFO before experts identified the phenomenon as a meteor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
+This pattern appeared clearly during the May 2026 fireball that generated widespread reports across eastern Australia. Sightings came from Canberra as well as numerous locations in New South Wales and Queensland. Some observers initially wondered whether they had seen a crash, a missile or a UFO before experts identified the phenomenon as a meteor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
 
 For ACT UFO researchers, this regional pattern is significant. When multiple reports emerge from widely separated locations at nearly the same time, the explanation often points towards a high-altitude astronomical event rather than a local craft operating over Canberra.
 
@@ -303,25 +303,25 @@ Not every strange light is a meteor. However, several characteristics strongly f
 
 ### Strong colours
 
-Green and blue fireballs are particularly noteworthy. Researchers and astronomers frequently associate these colours with specific elements vaporising during atmospheric entry, including iron, nickel and magnesium. Witnesses often interpret such colours as evidence of unusual technology because aircraft lights rarely produce the same intense effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2AcademicJobs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
+Green and blue fireballs are particularly noteworthy. Researchers and astronomers frequently associate these colours with specific elements vaporising during atmospheric entry, including iron, nickel and magnesium. Witnesses often interpret such colours as evidence of unusual technology because aircraft lights rarely produce the same intense effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
 
 ### Extreme speed
 
-Aircraft, helicopters and most drones move comparatively slowly across the sky. Fireballs can travel at tens of kilometres per second, creating the impression of an object crossing vast portions of the sky almost instantly. Reports describing a light that appears and vanishes within seconds strongly support a meteor explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/technology/science/space/witnesses-stunned-as-fireball-meteor-lights-up-perth-skies/news-story/776e529e8d82345810563a10e2254afa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-title">Aussies stunned by &#x27;fireball&#x27; meteor</span><span class="citation-popover-snippet">The dazzling yellow meteor, trailing bright green, appeared around 6 a.m., and while experts have yet to determine its landing site, the...</span></span></span>
+Aircraft, helicopters and most drones move comparatively slowly across the sky. Fireballs can travel at tens of kilometres per second, creating the impression of an object crossing vast portions of the sky almost instantly. Reports describing a light that appears and vanishes within seconds strongly support a meteor explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/technology/science/space/witnesses-stunned-as-fireball-meteor-lights-up-perth-skies/news-story/776e529e8d82345810563a10e2254afa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-title">Aussies stunned by &#x27;fireball&#x27; meteor</span><span class="citation-popover-snippet">The dazzling yellow meteor, trailing bright green, appeared around 6 a.m., and while experts have yet to determine its landing site, the...</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea-Illustration-2-dark.svg" | relative_url }}" alt="Fireballs illustration 2" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Short duration
 
-A sighting lasting two to ten seconds is often consistent with a fireball. By contrast, many genuinely unidentified aerial reports involve objects observed for several minutes. Fireballs are dramatic precisely because they are brief. Even exceptionally bright events usually end rapidly as the object burns up or fragments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">European Space AgencyESA analysing fireball over Europe on 8 March 2026The fireball glowed for approximately six seconds, leaving a visib...</span></span></span>
+A sighting lasting two to ten seconds is often consistent with a fireball. By contrast, many genuinely unidentified aerial reports involve objects observed for several minutes. Fireballs are dramatic precisely because they are brief. Even exceptionally bright events usually end rapidly as the object burns up or fragments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">European Space AgencyESA analysing fireball over Europe on 8 March 2026The fireball glowed for approximately six seconds, leaving a visib...</span></span></span>
 
 ## The 2026 eastern Australia fireball as a Canberra case study
 
 The May 2026 event provides a useful modern example of how a potential UFO report can become a well-understood astronomical sighting.
 
-Witnesses across eastern Australia reported a brilliant streak displaying blue and green colours. The phenomenon was seen from Canberra and many other locations. Video footage captured the object producing a dramatic flash and visible trail. Initial public reactions included speculation about aircraft incidents, space debris and UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
+Witnesses across eastern Australia reported a brilliant streak displaying blue and green colours. The phenomenon was seen from Canberra and many other locations. Video footage captured the object producing a dramatic flash and visible trail. Initial public reactions included speculation about aircraft incidents, space debris and UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
 
-Professional commentary quickly pointed towards a meteor. Australian National University astrophysicist Brad Tucker noted that the colour and behaviour were characteristic of a fireball. Subsequent reporting suggested the object was only around 30 to 50 centimetres across before entering the atmosphere, demonstrating how a relatively small space rock can create an enormous visual spectacle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
+Professional commentary quickly pointed towards a meteor. Australian National University astrophysicist Brad Tucker noted that the colour and behaviour were characteristic of a fireball. Subsequent reporting suggested the object was only around 30 to 50 centimetres across before entering the atmosphere, demonstrating how a relatively small space rock can create an enormous visual spectacle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
 
 For Canberra's UFO history, the lesson is straightforward. A witness can observe something genuinely spectacular and unusual without the event requiring an exotic explanation.
 
@@ -340,7 +340,7 @@ Third, they are seen by many people at once. Multiple witnesses can strengthen c
 
 Finally, most people see only a handful of bright fireballs during their lives. Lack of familiarity makes unusual but natural atmospheric events easier to interpret as mysterious.
 
-Large Australian meteor-monitoring projects such as the Desert Fireball Network exist partly because these events are scientifically valuable and comparatively uncommon. Their observations show that bright fireballs are real, measurable atmospheric phenomena rather than merely stories or folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Observation of metre-scale impactors by the Desert Fireball Network</span><span class="citation-popover-snippet">Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</span><span class="citation-popover-meta">Published: August 28, 2018</span></span></span>
+Large Australian meteor-monitoring projects such as the Desert Fireball Network exist partly because these events are scientifically valuable and comparatively uncommon. Their observations show that bright fireballs are real, measurable atmospheric phenomena rather than merely stories or folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Observation of metre-scale impactors by the Desert Fireball Network</span><span class="citation-popover-snippet">Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</span><span class="citation-popover-meta">Published: August 28, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea-Illustration-3-dark.svg" | relative_url }}" alt="Fireballs illustration 3" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_sky_explana_058ea0_canberra_fireball_me_61b6ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -354,7 +354,7 @@ When evaluating a Canberra UFO report involving a streaking or flashing object, 
 * Did the sighting last only a few seconds?
 * Was there a visible tail or trail?
 * Did the object show bright green, blue or orange colours?
-* Were reports received from locations far beyond Canberra? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/AustralianMeteorReports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">May 21, 2026, with reports from Sydney, Canberra, and several inland NSW locations. A bright fireball was observed over eastern...Read more...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
+* Were reports received from locations far beyond Canberra?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/AustralianMeteorReports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">May 21, 2026, with reports from Sydney, Canberra, and several inland NSW locations. A bright fireball was observed over eastern...Read more...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
 * Did the object flare brightly before disappearing?
 * Did it appear to move much faster than any aircraft?
 
@@ -362,201 +362,201 @@ When evaluating a Canberra UFO report involving a streaking or flashing object, 
 
 The more of these characteristics are present, the stronger the case for a fireball meteor.
 
-Within the broader pattern of Canberra sky explanations, fireballs are among the most convincing solutions because they naturally produce exactly the kinds of brief, dramatic sightings that often enter UFO records. They can be startling, memorable and genuinely rare without requiring anything beyond a fragment of cosmic debris encountering Earth's atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
+Within the broader pattern of Canberra sky explanations, fireballs are among the most convincing solutions because they naturally produce exactly the kinds of brief, dramatic sightings that often enter UFO records. They can be startling, memorable and genuinely rare without requiring anything beyond a fragment of cosmic debris encountering Earth's atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Footage shows &#x27;fireball&#x27; meteor lighting up skies in parts</span><span class="citation-popover-snippet">ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oZ8iKkz6nzE" title="Meteor Lights Up Night Sky Across New South Wales | 10 News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oZ8iKkz6nzE" target="_blank" rel="noopener noreferrer">Meteor Lights Up Night Sky Across New South Wales | 10 News</a></p><p class="youtube-embed-meta">Channel: 10 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oZ8iKkz6nzE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oZ8iKkz6nzE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Canberra UFO is really a fireball. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Canberra UFO is really a fireball. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
-        </h4>
-        <p class="fr-book-author">By Emile Souvestre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
+</h4>
+<p class="fr-book-author">By Emile Souvestre</p>
         
-        <p class="fr-book-desc">Useful context for understanding how unusual astronomical events can be reported and interpreted as UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful context for understanding how unusual astronomical events can be reported and interpreted as UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Meteors and Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OMgDhc8d7v4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Meteors and Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Meteors and Meteorites">Field Guide to Meteors and Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton, Lawrence Chitwood</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Meteors and Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OMgDhc8d7v4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Meteors and Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Meteors and Meteorites">Field Guide to Meteors and Meteorites</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton, Lawrence Chitwood</p>
         
-        <p class="fr-book-desc">Directly helps readers understand meteor appearances, fireballs and meteorite-related observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly helps readers understand meteor appearances, fireballs and meteorite-related observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their Parent Planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pib50AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites and their Parent Planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their Parent Planets">Meteorites and their Parent Planets</a>
-        </h4>
-        <p class="fr-book-author">By Harry Y. McSween</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their Parent Planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pib50AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites and their Parent Planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their Parent Planets">Meteorites and their Parent Planets</a>
+</h4>
+<p class="fr-book-author">By Harry Y. McSween</p>
         
-        <p class="fr-book-desc">Provides accessible background on the objects that create bright meteor and fireball events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible background on the objects that create bright meteor and fireball events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Gordon+L.+Dillow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gzLwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Gordon+L.+Dillow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Gordon L. Dillow</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Gordon+L.+Dillow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gzLwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Gordon+L.+Dillow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
+</h4>
+<p class="fr-book-author">By Gordon L. Dillow</p>
         
-        <p class="fr-book-desc">Covers impacts, atmospheric entries and the science behind dramatic celestial events often misunderstood by observers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Gordon+L.+Dillow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers impacts, atmospheric entries and the science behind dramatic celestial events often misunderstood by observers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Gordon+L.+Dillow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+Meteors+and+Meteorites+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to Meteors and Meteorites books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their Parent Planets</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+Meteors+and+Meteorites+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to Meteors and Meteorites books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their Parent Planets</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Anniversary custom star map/constellation night sky map"><img src="{{ '/assets/images/marketplace-covers/97d2ee827f2358e93cfd.jpg' | relative_url }}" alt="Listing image for Personalised Anniversary custom star map/constellation night sky map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised Anniversary custom star map/constellation night sky map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Anniversary custom star map/constellation night sky map"><img src="{{ '/assets/images/marketplace-covers/97d2ee827f2358e93cfd.jpg' | relative_url }}" alt="Listing image for Personalised Anniversary custom star map/constellation night sky map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised Anniversary custom star map/constellation night sky map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift"><img src="{{ '/assets/images/marketplace-covers/62cfe6602546b20f8e9a.jpg' | relative_url }}" alt="Listing image for Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift"><img src="{{ '/assets/images/marketplace-covers/62cfe6602546b20f8e9a.jpg' | relative_url }}" alt="Listing image for Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised &#x27;3 DATE&#x27; star map/constellation night sky map - Fantastic Special"><img src="{{ '/assets/images/marketplace-covers/bd484d45c3ede99b5543.jpg' | relative_url }}" alt="Listing image for Personalised &#x27;3 DATE&#x27; star map/constellation night sky map - Fantastic Special" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised &#x27;3 DATE&#x27; star map/constellation night sky map - Fantastic Special</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised &#x27;3 DATE&#x27; star map/constellation night sky map - Fantastic Special"><img src="{{ '/assets/images/marketplace-covers/bd484d45c3ede99b5543.jpg' | relative_url }}" alt="Listing image for Personalised &#x27;3 DATE&#x27; star map/constellation night sky map - Fantastic Special" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised &#x27;3 DATE&#x27; star map/constellation night sky map - Fantastic Special</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Parent and Child star map/constellation night sky map print"><img src="{{ '/assets/images/marketplace-covers/abffefe3c975afbcd4d1.jpg' | relative_url }}" alt="Listing image for Personalised Parent and Child star map/constellation night sky map print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised Parent and Child star map/constellation night sky map print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Parent and Child star map/constellation night sky map print"><img src="{{ '/assets/images/marketplace-covers/abffefe3c975afbcd4d1.jpg' | relative_url }}" alt="Listing image for Personalised Parent and Child star map/constellation night sky map print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">Personalised Parent and Child star map/constellation night sky map print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky map print" data-ebay-reference="fireballs-when-a-canberra-ufo-is-really-a-fireball-australian-capital-territory-night-sky-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ Within the broader pattern of Canberra sky explanations, fireballs are among the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ Within the broader pattern of Canberra sky explanations, fireballs are among the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ Within the broader pattern of Canberra sky explanations, fireballs are among the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ Within the broader pattern of Canberra sky explanations, fireballs are among the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ Within the broader pattern of Canberra sky explanations, fireballs are among the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,119 +762,119 @@ Within the broader pattern of Canberra sky explanations, fireballs are among the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/national/nsw-act/mysterious-flash-explodes-above-sydney/news-story/b87ee6966609e729895f811478c641ea" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/national/nsw-act/mysterious-flash-explodes-above-sydney/news-story/b87ee6966609e729895f811478c641ea</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Captured on cameras including a surf cam at Maroubra Beach and a golfer&#x27;s swing footage, the meteor briefly turned the ocean electric blu...</p></details>
+   Link:<a href="https://www.news.com.au/national/nsw-act/mysterious-flash-explodes-above-sydney/news-story/b87ee6966609e729895f811478c641ea" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/national/nsw-act/mysterious-flash-explodes-above-sydney/news-story/b87ee6966609e729895f811478c641ea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Captured on cameras including a surf cam at Maroubra Beach and a golfer&#x27;s swing footage, the meteor briefly turned the ocean electric blu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.com.au  
    Title: Australian National University astrophysicist Dr  
-   Link: <a href="https://www.news.com.au/technology/science/space/thursday-nights-unannounced-meteor-that-lit-up-australian-east-coast-was-just-3050cm-in-size/news-story/0a406767e8de8f96b60eeecd7e0c6514" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/thursday-nights-unannounced-meteor-that-lit-up-australian-east-coast-was-just-3050cm-in-size/news-story/0a406767e8de8f96b60eeecd7e0c6514</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brad Tucker explained that such small meteors are nearly impossible to detect in advance. Detection systems like NASA’s ATLAS are designe...</p></details>
+   Link:<a href="https://www.news.com.au/technology/science/space/thursday-nights-unannounced-meteor-that-lit-up-australian-east-coast-was-just-3050cm-in-size/news-story/0a406767e8de8f96b60eeecd7e0c6514" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/thursday-nights-unannounced-meteor-that-lit-up-australian-east-coast-was-just-3050cm-in-size/news-story/0a406767e8de8f96b60eeecd7e0c6514</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brad Tucker explained that such small meteors are nearly impossible to detect in advance. Detection systems like NASA’s ATLAS are designe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academicjobs.com  
-   Link: <a href="https://www.academicjobs.com/global-news/meteor-fireball-lights-up-eastern-australia-skies-sydney-nsw-act-sighting-or-academicjobs-20628" target="_blank" rel="noopener noreferrer nofollow">https://www.academicjobs.com/global-news/meteor-fireball-lights-up-eastern-australia-skies-sydney-nsw-act-sighting-or-academicjobs-20628</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Fireball Lights Up Eastern Australia Skies: Sydney22 May 2026 — Experts analysing footage noted the object&#x27;s colour suggested a me...</p></details>
+   Link:<a href="https://www.academicjobs.com/global-news/meteor-fireball-lights-up-eastern-australia-skies-sydney-nsw-act-sighting-or-academicjobs-20628" target="_blank" rel="noopener noreferrer nofollow">https://www.academicjobs.com/global-news/meteor-fireball-lights-up-eastern-australia-skies-sydney-nsw-act-sighting-or-academicjobs-20628</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Fireball Lights Up Eastern Australia Skies: Sydney22 May 2026 — Experts analysing footage noted the object&#x27;s colour suggested a me...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/space/fireball-seen-up-and-down-east-coast-likely-a-meteor-astrophysicist-says/news-story/705b4772aee55fec488b7f11baa3dfac" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/fireball-seen-up-and-down-east-coast-likely-a-meteor-astrophysicist-says/news-story/705b4772aee55fec488b7f11baa3dfac</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observers speculated it was a meteorite, as confirmed by Australian National University astrophysicist Brad Tucker. The high-speed object...</p></details>
+   Link:<a href="https://www.news.com.au/technology/science/space/fireball-seen-up-and-down-east-coast-likely-a-meteor-astrophysicist-says/news-story/705b4772aee55fec488b7f11baa3dfac" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/fireball-seen-up-and-down-east-coast-likely-a-meteor-astrophysicist-says/news-story/705b4772aee55fec488b7f11baa3dfac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observers speculated it was a meteorite, as confirmed by Australian National University astrophysicist Brad Tucker. The high-speed object...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.com.au  
    Title: Aussies stunned by 'fireball' meteor  
-   Link: <a href="https://www.news.com.au/technology/science/space/witnesses-stunned-as-fireball-meteor-lights-up-perth-skies/news-story/776e529e8d82345810563a10e2254afa" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/witnesses-stunned-as-fireball-meteor-lights-up-perth-skies/news-story/776e529e8d82345810563a10e2254afa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The dazzling yellow meteor, trailing bright green, appeared around 6 a.m., and while experts have yet to determine its landing site, the...</p></details>
+   Link:<a href="https://www.news.com.au/technology/science/space/witnesses-stunned-as-fireball-meteor-lights-up-perth-skies/news-story/776e529e8d82345810563a10e2254afa" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/witnesses-stunned-as-fireball-meteor-lights-up-perth-skies/news-story/776e529e8d82345810563a10e2254afa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The dazzling yellow meteor, trailing bright green, appeared around 6 a.m., and while experts have yet to determine its landing site, the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Observation of metre-scale impactors by the Desert Fireball Network  
-   Link: <a href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.09195</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.09195</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</p></details>
    Published: August 28, 2018  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Statistical analysis of fireballs: Seismic signature survey  
-   Link: <a href="https://arxiv.org/abs/2102.11534" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.11534</a>  
+   Link:<a href="https://arxiv.org/abs/2102.11534" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.11534</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Where Did They Come From, Where Did They Go. Grazing Fireballs  
-   Link: <a href="https://arxiv.org/abs/1912.01895" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.01895</a>  
+   Link:<a href="https://arxiv.org/abs/1912.01895" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.01895</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: abc.net.au  
    Title: ABC News Footage shows 'fireball' meteor lighting up skies in parts  
-   Link: <a href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-05-22/nsw-suspected-meteor-lights-sydney-skies/106708918</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFootage shows &#x27;fireball&#x27; meteor lighting up skies in parts...May 21, 2026 — 21 May 2026 — Colourful streaks across the sky have...</p></details>
    Published: May 21, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA analysing fireball over Europe on 8 March 2026The fireball glowed for approximately six seconds, leaving a visib...</p></details>
+   Link:<a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA analysing fireball over Europe on 8 March 2026The fireball glowed for approximately six seconds, leaving a visib...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYn4jEsBr9p/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYn4jEsBr9p/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC News on Instagram: &quot;Eyes on the wrong ball ☄️ A...A &quot;fireball&quot; meteor lit up skies across eastern Australia overnight, leaving brigh...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYn4jEsBr9p/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYn4jEsBr9p/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC News on Instagram: &quot;Eyes on the wrong ball ☄️ A...A &quot;fireball&quot; meteor lit up skies across eastern Australia overnight, leaving brigh...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcinsydney/posts/the-abc-spoke-to-australian-national-university-astrophysicist-dr-brad-tucker-ab/1388360703327014/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcinsydney/posts/the-abc-spoke-to-australian-national-university-astrophysicist-dr-brad-tucker-ab/1388360703327014/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC Sydney... Canberra. Did you see it? #ABCNewsACT #Space. &#x27;Is that a UFO?&#x27;: Suspected meteor lights up skies across NSW. Frances Cullen...</p></details>
+   Link:<a href="https://www.facebook.com/abcinsydney/posts/the-abc-spoke-to-australian-national-university-astrophysicist-dr-brad-tucker-ab/1388360703327014/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcinsydney/posts/the-abc-spoke-to-australian-national-university-astrophysicist-dr-brad-tucker-ab/1388360703327014/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC Sydney... Canberra. Did you see it? #ABCNewsACT #Space. &#x27;Is that a UFO?&#x27;: Suspected meteor lights up skies across NSW. Frances Cullen...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/10/12/world-news/video-shows-suspected-meteor-drop-from-the-sky-in-australia/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/12/world-news/video-shows-suspected-meteor-drop-from-the-sky-in-australia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos captured the phenomenon, which was widely discussed and reported, including by 2GB radio host Ben Fordham. Australian National Uni...</p></details>
+   Link:<a href="https://nypost.com/2024/10/12/world-news/video-shows-suspected-meteor-drop-from-the-sky-in-australia/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/12/world-news/video-shows-suspected-meteor-drop-from-the-sky-in-australia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Videos captured the phenomenon, which was widely discussed and reported, including by 2GB radio host Ben Fordham. Australian National Uni...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYon-G6Fhm_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYon-G6Fhm_/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#9NewsA bright “fireball” meteor has lit up skies across eastern Australia overnight, with sightings reported from Sydney to regional NSW...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYon-G6Fhm_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYon-G6Fhm_/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#9NewsA bright “fireball” meteor has lit up skies across eastern Australia overnight, with sightings reported from Sydney to regional NSW...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZl9oIWDPme/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZl9oIWDPme/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dozens of Victorians reported seeing the meteor – also known as a fireball or bolide – as they drove through Melbourne yesterday evening...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZl9oIWDPme/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZl9oIWDPme/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dozens of Victorians reported seeing the meteor – also known as a fireball or bolide – as they drove through Melbourne yesterday evening...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: A bright “fireball” meteor has lit up skies across eastern  
-   Link: <a href="https://www.facebook.com/10NewsAU/posts/a-bright-fireball-meteor-has-lit-up-skies-across-eastern-australia-overnight-wit/1417469167086304/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsAU/posts/a-bright-fireball-meteor-has-lit-up-skies-across-eastern-australia-overnight-wit/1417469167086304/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia overnight, with sightings reported from Sydney to regional NSW and Canberra.... &#x27;Is that a UFO?&#x27;: Suspected meteor lights up s...</p></details>
+   Link:<a href="https://www.facebook.com/10NewsAU/posts/a-bright-fireball-meteor-has-lit-up-skies-across-eastern-australia-overnight-wit/1417469167086304/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsAU/posts/a-bright-fireball-meteor-has-lit-up-skies-across-eastern-australia-overnight-wit/1417469167086304/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia overnight, with sightings reported from Sydney to regional NSW and Canberra.... &#x27;Is that a UFO?&#x27;: Suspected meteor lights up s...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/AustralianMeteorReports/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AustralianMeteorReports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2026, with reports from Sydney, Canberra, and several inland NSW locations. A bright fireball was observed over eastern...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/AustralianMeteorReports/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AustralianMeteorReports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2026, with reports from Sydney, Canberra, and several inland NSW locations. A bright fireball was observed over eastern...Read more...</p></details>
    Published: May 21, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10NewsSyd/posts/a-bright-fireball-meteor-has-lit-up-skies-across-eastern-australia-overnight-wit/1413046884200161/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsSyd/posts/a-bright-fireball-meteor-has-lit-up-skies-across-eastern-australia-overnight-wit/1413046884200161/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ght, with sightings reported from Sydney to regional NSW and Canberra...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/10NewsSyd/posts/a-bright-fireball-meteor-has-lit-up-skies-across-eastern-australia-overnight-wit/1413046884200161/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsSyd/posts/a-bright-fireball-meteor-has-lit-up-skies-across-eastern-australia-overnight-wit/1413046884200161/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ght, with sightings reported from Sydney to regional NSW and Canberra...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unusual trajectory and pulsing luminosity have led many to question...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unusual trajectory and pulsing luminosity have led many to question...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYn1KjESGAH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYn1KjESGAH/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>orted seeing bright green... UFO WTOL 11 OM 2026-05-21 18:33:44...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYn1KjESGAH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYn1KjESGAH/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>orted seeing bright green... UFO WTOL 11 OM 2026-05-21 18:33:44...</p></details>
    Published: May 21, 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYomnY4gtrv/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYomnY4gtrv/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bright blue and green streaks flashing through the atmosphere...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYomnY4gtrv/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYomnY4gtrv/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bright blue and green streaks flashing through the atmosphere...</p></details>

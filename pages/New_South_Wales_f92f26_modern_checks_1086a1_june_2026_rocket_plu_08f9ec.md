@@ -256,50 +256,50 @@ image: /assets/images/New_South_Wales_f92f26_modern_checks_1086a1_june_2026_rock
 
 ## Introduction
 
-On a June evening in 2026, people across parts of [New South Wales]({{ 'what-makes-new-south-wales-ufo-reports/' | relative_url }}) looked up to see what appeared to be a glowing, otherworldly object moving through the sky. Social media quickly filled with questions, photographs and suggestions that the strange light might be a UFO. Within hours, however, astronomers and space-tracking specialists identified the source: a rocket launch that had taken place hundreds of kilometres away. The incident became a useful modern example of how unusual sky phenomena can trigger UFO reports even when the underlying cause is entirely known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
+On a June evening in 2026, people across parts of [New South Wales]({{ 'what-makes-new-south-wales-ufo-reports/' | relative_url }}) looked up to see what appeared to be a glowing, otherworldly object moving through the sky. Social media quickly filled with questions, photographs and suggestions that the strange light might be a UFO. Within hours, however, astronomers and space-tracking specialists identified the source: a rocket launch that had taken place hundreds of kilometres away. The incident became a useful modern example of how unusual sky phenomena can trigger UFO reports even when the underlying cause is entirely known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_june_2026_rocket_plu_08f9ec-Illustration-1-dark.svg" | relative_url }}" alt="Rocket Plume illustration 1" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_june_2026_rocket_plu_08f9ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_june_2026_rocket_plu_08f9ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For students of New South Wales UFO history, the event matters because it demonstrates how contemporary investigators can use launch schedules, satellite tracking and expert analysis to test a sighting rapidly. Rather than remaining a mystery for decades, as many older cases did, this one was largely explained within a single news cycle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
+For students of New South Wales UFO history, the event matters because it demonstrates how contemporary investigators can use launch schedules, satellite tracking and expert analysis to test a sighting rapidly. Rather than remaining a mystery for decades, as many older cases did, this one was largely explained within a single news cycle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/frFdDCwq9as" title="🔴 Sydney Airport LIVE with Kurt, Will and Andrew 🔴" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=frFdDCwq9as" target="_blank" rel="noopener noreferrer">🔴 Sydney Airport LIVE with Kurt, Will and Andrew 🔴</a></p><p class="youtube-embed-meta">Channel: SydSquad</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=frFdDCwq9as" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=frFdDCwq9as">Open on YouTube</a></p></div></div></div>
 
 ## What Witnesses Reported Across NSW
 
-The reports emerged on the night of 9 June 2026, when observers in northern New South Wales and elsewhere along Australia's east coast noticed a bright object accompanied by a glowing white plume. Witnesses described a luminous shape that seemed far larger than a normal aircraft and unlike the familiar appearance of stars or planets. Some photographs showed a brilliant central point surrounded by a spreading cloud of light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+27NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
+The reports emerged on the night of 9 June 2026, when observers in northern New South Wales and elsewhere along Australia's east coast noticed a bright object accompanied by a glowing white plume. Witnesses described a luminous shape that seemed far larger than a normal aircraft and unlike the familiar appearance of stars or planets. Some photographs showed a brilliant central point surrounded by a spreading cloud of light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
 
-The sight was striking enough that many people immediately searched for explanations online. News outlets reported widespread confusion, with some observers openly wondering whether they had witnessed a UFO. Others compared the appearance to a jellyfish floating across the sky, a description often used for high-altitude rocket exhaust illuminated by sunlight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/10NewsAU/posts/a-mysterious-white-plume-has-lit-up-the-night-sky-across-parts-of-australia-in-w/1434405662059321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook+2YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Click the link below...Read more...</span></span></span>
+The sight was striking enough that many people immediately searched for explanations online. News outlets reported widespread confusion, with some observers openly wondering whether they had witnessed a UFO. Others compared the appearance to a jellyfish floating across the sky, a description often used for high-altitude rocket exhaust illuminated by sunlight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/10NewsAU/posts/a-mysterious-white-plume-has-lit-up-the-night-sky-across-parts-of-australia-in-w/1434405662059321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Click the link below...Read more...</span></span></span>
 
-What made the event particularly convincing to some witnesses was its scale. Unlike a distant aircraft light, the glow appeared enormous and unusual. The object also seemed to change shape as it crossed the sky, creating the impression of a dynamic and possibly unexplained phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
+What made the event particularly convincing to some witnesses was its scale. Unlike a distant aircraft light, the glow appeared enormous and unusual. The object also seemed to change shape as it crossed the sky, creating the impression of a dynamic and possibly unexplained phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zwga9ghTnHg" title="Reality Check: UAP skepticism &amp; paranormal experiences | Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zwga9ghTnHg" target="_blank" rel="noopener noreferrer">Reality Check: UAP skepticism &amp; paranormal experiences | Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zwga9ghTnHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zwga9ghTnHg">Open on YouTube</a></p></div></div></div>
 
 ## How the Rocket Plume Produced the Effect
 
-The object was identified as the plume from the Zhuque-2E Y6 rocket, launched by the Chinese company LandSpace from the Jiuquan Satellite Launch Centre. The rocket became visible over parts of eastern Australia shortly after launch as it climbed into space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 7news.com.au">[NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">7news.com.au</span><span class="citation-popover-snippet">Chinese rocket seen across NSW and Queensland as...9 Jun 2026 — The glowing spacecraft, identified as the Zhu Que-2E Y6 rocket, was...</span></span></span>
+The object was identified as the plume from the Zhuque-2E Y6 rocket, launched by the Chinese company LandSpace from the Jiuquan Satellite Launch Centre. The rocket became visible over parts of eastern Australia shortly after launch as it climbed into space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 7news.com.au">[NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">7news.com.au</span><span class="citation-popover-snippet">Chinese rocket seen across NSW and Queensland as...9 Jun 2026 — The glowing spacecraft, identified as the Zhu Que-2E Y6 rocket, was...</span></span></span>
 
-At high altitude, rocket exhaust behaves very differently from the trails produced by aircraft. As the vehicle enters thinner layers of the atmosphere, exhaust gases expand dramatically into a large cloud. If that cloud remains illuminated by the Sun while observers on the ground are already in darkness, it can appear as a glowing white or blue structure suspended in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
+At high altitude, rocket exhaust behaves very differently from the trails produced by aircraft. As the vehicle enters thinner layers of the atmosphere, exhaust gases expand dramatically into a large cloud. If that cloud remains illuminated by the Sun while observers on the ground are already in darkness, it can appear as a glowing white or blue structure suspended in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
 
-Several factors combined to make the June 2026 display especially dramatic: <span class="citation-chip-wrap"><a class="citation-chip" href="https://particle.scitech.org.au/atoms-galaxies/the-sky-tonight-june-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: particle.scitech.org.au">[particle.scitech.org.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">particle.scitech.org.au</span><span class="citation-popover-title">the sky tonight june 2026</span><span class="citation-popover-snippet">SKY TONIGHT: JUNE 2026 &#124; Particle - Scitech6 days ago — The Sky Tonight is a monthly update of the amazing things you can find when looki...</span><span class="citation-popover-meta">Published: june 2026</span></span></span>
+Several factors combined to make the June 2026 display especially dramatic:<span class="citation-chip-wrap"><a class="citation-chip" href="https://particle.scitech.org.au/atoms-galaxies/the-sky-tonight-june-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: particle.scitech.org.au">[particle.scitech.org.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">particle.scitech.org.au</span><span class="citation-popover-title">the sky tonight june 2026</span><span class="citation-popover-snippet">SKY TONIGHT: JUNE 2026 &#124; Particle - Scitech6 days ago — The Sky Tonight is a monthly update of the amazing things you can find when looki...</span><span class="citation-popover-meta">Published: june 2026</span></span></span>
 
 * The rocket was at a very high altitude when visible from Australia.
 * Exhaust gases expanded into a vast plume.
 * Sunlight illuminated the plume even though the ground below was in twilight or darkness.
-* The changing viewing angle caused the shape to evolve as the rocket moved along its trajectory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
+* The changing viewing angle caused the shape to evolve as the rocket moved along its trajectory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
 
-These conditions are responsible for what observers often call a "space jellyfish" effect. Similar [rocket-plume UFO]({{ 'rocket-plumes/' | relative_url }}) scares have occurred elsewhere in the world, including North America and Europe, whenever launches coincide with favourable lighting conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/spacex-falcon-9-rocket-plume-blossoms-over-florida-space-photo-of-the-day-for-feb-18-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceX Falcon 9 rocket plume blossoms over Florida18 Feb 2026 — NASA has released a mesmerising photo revealing the plume of the Fal...</span></span></span>
+These conditions are responsible for what observers often call a "space jellyfish" effect. Similar [rocket-plume UFO]({{ 'rocket-plumes/' | relative_url }}) scares have occurred elsewhere in the world, including North America and Europe, whenever launches coincide with favourable lighting conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/spacex-falcon-9-rocket-plume-blossoms-over-florida-space-photo-of-the-day-for-feb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceX Falcon 9 rocket plume blossoms over Florida18 Feb 2026 — NASA has released a mesmerising photo revealing the plume of the Fal...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_june_2026_rocket_plu_08f9ec-Illustration-2-dark.svg" | relative_url }}" alt="Rocket Plume illustration 2" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_june_2026_rocket_plu_08f9ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_modern_checks_1086a1_june_2026_rocket_plu_08f9ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Became a UFO Story So Quickly
 
-The June 2026 sighting illustrates a recurring pattern in UFO reporting. People are generally familiar with aircraft, bright planets and meteors, but far fewer have seen a rocket launch viewed from hundreds or thousands of kilometres away. As a result, witnesses often lack a ready-made explanation for what they are seeing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-10-09/spacex-launch-confuses-and-amazes-observers/10354900" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">spacex launch confuses and amazes observers</span><span class="citation-popover-snippet">ABC NewsSpaceX&#x27;s Falcon 9 rocket launch confuses and amazes...8 Oct 2018 — Two streaks of light in the sky. Two streaks in this long exp...</span></span></span>
+The June 2026 sighting illustrates a recurring pattern in UFO reporting. People are generally familiar with aircraft, bright planets and meteors, but far fewer have seen a rocket launch viewed from hundreds or thousands of kilometres away. As a result, witnesses often lack a ready-made explanation for what they are seeing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-10-09/spacex-launch-confuses-and-amazes-observers/10354900" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">spacex launch confuses and amazes observers</span><span class="citation-popover-snippet">ABC NewsSpaceX&#x27;s Falcon 9 rocket launch confuses and amazes...8 Oct 2018 — Two streaks of light in the sky. Two streaks in this long exp...</span></span></span>
 
-Historically, many unusual aerial reports in New South Wales depended on witness testimony alone. In earlier decades, an event like this might have remained unexplained for years, particularly if no local authority immediately recognised the phenomenon. The growth of online launch databases, spaceflight reporting and social media discussion meant that the 2026 case followed a different path. Experts quickly connected the timing of the sighting with a known launch and confirmed that the rocket's trajectory matched the observations from Australia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+27NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
+Historically, many unusual aerial reports in New South Wales depended on witness testimony alone. In earlier decades, an event like this might have remained unexplained for years, particularly if no local authority immediately recognised the phenomenon. The growth of online launch databases, spaceflight reporting and social media discussion meant that the 2026 case followed a different path. Experts quickly connected the timing of the sighting with a known launch and confirmed that the rocket's trajectory matched the observations from Australia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
 
-The speed of the identification also weakened any argument that the object represented an unknown craft. Once launch timing, direction and appearance were compared with known rocket-plume behaviour, the extraordinary explanation became unnecessary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
+The speed of the identification also weakened any argument that the object represented an unknown craft. Once launch timing, direction and appearance were compared with known rocket-plume behaviour, the extraordinary explanation became unnecessary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">The rocket was carrying a 6-tonne payload.Read more</span><span class="citation-popover-snippet">ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JBHjYc7wwRI" title="Mysterious White Plume Lights Up Australian Skies | 10 News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JBHjYc7wwRI" target="_blank" rel="noopener noreferrer">Mysterious White Plume Lights Up Australian Skies | 10 News</a></p><p class="youtube-embed-meta">Channel: 10 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JBHjYc7wwRI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JBHjYc7wwRI">Open on YouTube</a></p></div></div></div>
@@ -328,194 +328,194 @@ The case also highlights an important distinction in New South Wales UFO history
 Within the broader story of modern UFO checking, the June 2026 rocket plume stands as a textbook example of how satellite data, launch records and rapid information sharing can transform a potentially mysterious sighting into an explainable event. Rather than diminishing the witnesses, it shows how unusual the sky can appear when spaceflight, lighting conditions and human perception intersect. [ABC News+2Space](https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Night a Rocket Glow Became a UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Night a Rocket Glow Became a UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how unusual aerial observations are investigated and classified, matching the article&#x27;s focus on separating mystery from explana...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unusual aerial observations are investigated and classified, matching the article&#x27;s focus on separating mystery from explana...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Engages readers interested in contemporary UFO discussions while encouraging examination of possible explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Engages readers interested in contemporary UFO discussions while encouraging examination of possible explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides case-study style examination of UFO reports, complementing discussion of modern sighting investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides case-study style examination of UFO reports, complementing discussion of modern sighting investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes critical thinking and evidence-based analysis of extraordinary claims, directly relevant to explaining rocket-plume misidentific...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes critical thinking and evidence-based analysis of extraordinary claims, directly relevant to explaining rocket-plume misidentific...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saturn V Rocket Model Kit – Apollo NASA Space Rocket – Detailed Display Model"><img src="{{ '/assets/images/marketplace-covers/3ddd0595e99c9cd4703b.jpg' | relative_url }}" alt="Listing image for Saturn V Rocket Model Kit – Apollo NASA Space Rocket – Detailed Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Saturn V Rocket Model Kit – Apollo NASA Space Rocket – Detailed Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space X Starship V3 and Superheavy Booster Model Rocket Kit Various Scales"><img src="https://i.ebayimg.com/images/g/AycAAeSw77xqC3~2/s-l225.jpg" alt="Listing image for Space X Starship V3 and Superheavy Booster Model Rocket Kit Various Scales" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Space X Starship V3 and Superheavy Booster Model Rocket Kit Various Scales</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Earth Artemis Moon Rocket Premium Series 3D Metal Model Kit PS2019 Gift"><img src="{{ '/assets/images/marketplace-covers/059db7f9582bf3248d82.jpg' | relative_url }}" alt="Listing image for Metal Earth Artemis Moon Rocket Premium Series 3D Metal Model Kit PS2019 Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Metal Earth Artemis Moon Rocket Premium Series 3D Metal Model Kit PS2019 Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saturn V Rocket Model Kit – Apollo NASA Space Rocket – Detailed Display Model"><img src="https://i.ebayimg.com/images/g/nGAAAeSwwplp3h4Y/s-l225.jpg" alt="Listing image for Saturn V Rocket Model Kit – Apollo NASA Space Rocket – Detailed Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Saturn V Rocket Model Kit – Apollo NASA Space Rocket – Detailed Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Various Estes Model Rocket Accessories"><img src="{{ '/assets/images/marketplace-covers/cab04d84ca986b22e590.jpg' | relative_url }}" alt="Listing image for Various Estes Model Rocket Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Various Estes Model Rocket Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Titan II Rocket Model Kit – Gemini NASA Space Rocket – 1/40 scale Display Model"><img src="https://i.ebayimg.com/images/g/IGsAAeSwVKVqAcsI/s-l225.jpg" alt="Listing image for Titan II Rocket Model Kit – Gemini NASA Space Rocket – 1/40 scale Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Titan II Rocket Model Kit – Gemini NASA Space Rocket – 1/40 scale Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale"><img src="{{ '/assets/images/marketplace-covers/4507beea8dc428d22c02.jpg' | relative_url }}" alt="Listing image for NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="rocket-plume-the-night-a-rocket-glow-became-a-ufo-story-new-south-wales-rocket-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale"><img src="https://i.ebayimg.com/images/g/NR0AAeSwGLxp2RX9/s-l225.jpg" alt="Listing image for NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-a-rocket-glow-became-a-ufo-story-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="the-night-a-rocket-glow-became-a-ufo-story-rocket-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ Within the broader story of modern UFO checking, the June 2026 rocket plume stan
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ Within the broader story of modern UFO checking, the June 2026 rocket plume stan
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ Within the broader story of modern UFO checking, the June 2026 rocket plume stan
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ Within the broader story of modern UFO checking, the June 2026 rocket plume stan
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ Within the broader story of modern UFO checking, the June 2026 rocket plume stan
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,221 +721,221 @@ Within the broader story of modern UFO checking, the June 2026 rocket plume stan
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: 7news.com.au  
-   Link: <a href="https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese rocket seen across NSW and Queensland as...9 Jun 2026 — The glowing spacecraft, identified as the Zhu Que-2E Y6 rocket, was...</p></details>
+   Link:<a href="https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/chinese-rocket-rocket-seen-across-nsw-and-queensland-as-glowing-plume-sparks-confusion-c-22408991</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese rocket seen across NSW and Queensland as...9 Jun 2026 — The glowing spacecraft, identified as the Zhu Que-2E Y6 rocket, was...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSSC/posts/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/1081828230722856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSSC/posts/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/1081828230722856/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e sky on Wednesday night, speculating it could be a UFO...</p></details>
+   Link:<a href="https://www.facebook.com/7NEWSSC/posts/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/1081828230722856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSSC/posts/stargazers-in-nsw-and-queensland-have-reported-seeing-glowing-white-shapes-in-th/1081828230722856/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e sky on Wednesday night, speculating it could be a UFO...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10NewsAU/posts/a-mysterious-white-plume-has-lit-up-the-night-sky-across-parts-of-australia-in-w/1434405662059321/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsAU/posts/a-mysterious-white-plume-has-lit-up-the-night-sky-across-parts-of-australia-in-w/1434405662059321/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Click the link below...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/10NewsAU/posts/a-mysterious-white-plume-has-lit-up-the-night-sky-across-parts-of-australia-in-w/1434405662059321/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsAU/posts/a-mysterious-white-plume-has-lit-up-the-night-sky-across-parts-of-australia-in-w/1434405662059321/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Click the link below...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JBHjYc7wwRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JBHjYc7wwRI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious White Plume [Lights](&amp;#123;&amp;#123; &#x27;lights/&#x27; | relative_url &amp;#125;&amp;#125;) Up Australian Skies | 10 NewsA mysterious white plume has been seen lighting up the night sky across parts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JBHjYc7wwRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JBHjYc7wwRI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious White Plume [Lights](&amp;#123;&amp;#123; &#x27;lights/&#x27; | relative_url &amp;#125;&amp;#125;) Up Australian Skies | 10 NewsA mysterious white plume has been seen lighting up the night sky across parts...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/space-exploration/spacex-falcon-9-rocket-plume-blossoms-over-florida-space-photo-of-the-day-for-feb-18-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/spacex-falcon-9-rocket-plume-blossoms-over-florida-space-photo-of-the-day-for-feb-18-2026</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 rocket plume blossoms over Florida18 Feb 2026 — NASA has released a mesmerising photo revealing the plume of the Fal...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/spacex-falcon-9-rocket-plume-blossoms-over-florida-space-photo-of-the-day-for-feb" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/spacex-falcon-9-rocket-plume-blossoms-over-florida-space-photo-of-the-day-for-feb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 rocket plume blossoms over Florida18 Feb 2026 — NASA has released a mesmerising photo revealing the plume of the Fal...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Channel4News/videos/a-glowing-blue-and-white-spiral-lit-up-the-night-sky-across-the-uk-and-parts-of-/1329351244945759/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Channel4News/videos/a-glowing-blue-and-white-spiral-lit-up-the-night-sky-across-the-uk-and-parts-of-/1329351244945759/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>which was visible for several minutes - was light reflecting from a frozen exhaust plume from the Falcon9 rocket...</p></details>
+   Link:<a href="https://www.facebook.com/Channel4News/videos/a-glowing-blue-and-white-spiral-lit-up-the-night-sky-across-the-uk-and-parts-of-/1329351244945759/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Channel4News/videos/a-glowing-blue-and-white-spiral-lit-up-the-night-sky-across-the-uk-and-parts-of-/1329351244945759/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>which was visible for several minutes - was light reflecting from a frozen exhaust plume from the Falcon9 rocket...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/668711854761713/posts/1492557325710491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/668711854761713/posts/1492557325710491/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>what is the thing in the sky at casuarina beach?It was a rocket plume high above Earth, most likely from a SpaceX launch earlier this eve...</p></details>
+   Link:<a href="https://www.facebook.com/groups/668711854761713/posts/1492557325710491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/668711854761713/posts/1492557325710491/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>what is the thing in the sky at casuarina beach?It was a rocket plume high above Earth, most likely from a SpaceX launch earlier this eve...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sive, glowing mystery object blazed across the night sky. #9News...</p></details>
+   Link:<a href="https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsQueensland/posts/stargazers-across-parts-of-australia-were-left-puzzled-last-night-as-a-massive-g/1439132074926637/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sive, glowing mystery object blazed across the night sky. #9News...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TylerHardinReports/videos/check-this-out-a-spacex-falcon-9-rocket-lit-up-the-sky-with-a-stunning-pre-dawn-/1518034423257065/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TylerHardinReports/videos/check-this-out-a-spacex-falcon-9-rocket-lit-up-the-sky-with-a-stunning-pre-dawn-/1518034423257065/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CHECK THIS OUT: A #SpaceX Falcon 9 rocket lit up the sky...CHECK THIS OUT: A #SpaceX Falcon 9 rocket lit up the sky with a stunning pre...</p></details>
+   Link:<a href="https://www.facebook.com/TylerHardinReports/videos/check-this-out-a-spacex-falcon-9-rocket-lit-up-the-sky-with-a-stunning-pre-dawn-/1518034423257065/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TylerHardinReports/videos/check-this-out-a-spacex-falcon-9-rocket-lit-up-the-sky-with-a-stunning-pre-dawn-/1518034423257065/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CHECK THIS OUT: A #SpaceX Falcon 9 rocket lit up the sky...CHECK THIS OUT: A #SpaceX Falcon 9 rocket lit up the sky with a stunning pre...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcinbrisbane/videos/did-you-spot-something-that-looked-other-worldly-in-the-sky-last-nighta-chinese-/1021960313601255/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcinbrisbane/videos/did-you-spot-something-that-looked-other-worldly-in-the-sky-last-nighta-chinese-/1021960313601255/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wales as it passed over north- eastern Australia. University of...</p></details>
+   Link:<a href="https://www.facebook.com/abcinbrisbane/videos/did-you-spot-something-that-looked-other-worldly-in-the-sky-last-nighta-chinese-/1021960313601255/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcinbrisbane/videos/did-you-spot-something-that-looked-other-worldly-in-the-sky-last-nighta-chinese-/1021960313601255/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wales as it passed over north- eastern Australia. University of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: space.com  
    Title: 32286 space calendar  
-   Link: <a href="https://www.space.com/32286-space-calendar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/32286-space-calendar.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space calendar 2026: Rocket launches, skywatching...27 Mar 2026 — Keep up with all the rocket launches, astronomical events and mission...</p></details>
+   Link:<a href="https://www.space.com/32286-space-calendar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/32286-space-calendar.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space calendar 2026: Rocket launches, skywatching...27 Mar 2026 — Keep up with all the rocket launches, astronomical events and mission...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=taSmqJdw99s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=taSmqJdw99s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brisbane-made rocket breaks Australian record | 9 News AustraliaA rocket has successfully launched in South Australia, reaching higher th...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=taSmqJdw99s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=taSmqJdw99s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brisbane-made rocket breaks Australian record | 9 News AustraliaA rocket has successfully launched in South Australia, reaching higher th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rocket.new  
-   Link: <a href="https://www.rocket.new/" target="_blank" rel="noopener noreferrer nofollow">https://www.rocket.new/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It covers the full arc of how any business should operate — from the first question to a live product to...Read more...</p></details>
+   Link:<a href="https://www.rocket.new/" target="_blank" rel="noopener noreferrer nofollow">https://www.rocket.new/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It covers the full arc of how any business should operate — from the first question to a live product to...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Creating your image  
-   Link: <a href="https://www.youtube.com/watch?v=d3JfVxFsYy0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d3JfVxFsYy0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reality Check: UAP skepticism &amp; paranormal experiences | Backscroll...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d3JfVxFsYy0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d3JfVxFsYy0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reality Check: UAP skepticism &amp; paranormal experiences | Backscroll...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Reality Check: UAP skepticism & paranormal experiences | Backscroll  
-   Link: <a href="https://www.youtube.com/watch?v=Zwga9ghTnHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zwga9ghTnHg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Garry Nolan &amp; Ross Coulthart: Full interview | UFO UAP News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Zwga9ghTnHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zwga9ghTnHg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Garry Nolan &amp; Ross Coulthart: Full interview | UFO UAP News...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Professor Garry Nolan & Ross Coulthart: Full interview | UFO UAP News  
-   Link: <a href="https://www.youtube.com/watch?v=frFdDCwq9as" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=frFdDCwq9as</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airservices Australia digital aerodrome service (Western Sydney International Airport)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=frFdDCwq9as" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=frFdDCwq9as</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airservices Australia digital aerodrome service (Western Sydney International Airport)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Spxk6Yk8EgA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Spxk6Yk8EgA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>60 MINS of Plane Watching ✈️ Sydney Airport...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Spxk6Yk8EgA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Spxk6Yk8EgA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>60 MINS of Plane Watching ✈️ Sydney Airport...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: 60 MINS of Plane Watching ✈️ Sydney Airport  
-   Link: <a href="https://www.youtube.com/watch?v=K3nk3YOgxlw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K3nk3YOgxlw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=K3nk3YOgxlw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K3nk3YOgxlw</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abc.net.au  
    Title: The rocket was carrying a 6-tonne payload.Read more  
-   Link: <a href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2026-06-10/rocket-sighting-lights-australian-skies/106779074</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsChinese-launched rocket lights up Australian skies as it...6 days ago — A Chinese-launched rocket wowed stargazers across north...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: abc.net.au  
    Title: spacex launch confuses and amazes observers  
-   Link: <a href="https://www.abc.net.au/news/2018-10-09/spacex-launch-confuses-and-amazes-observers/10354900" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-10-09/spacex-launch-confuses-and-amazes-observers/10354900</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsSpaceX&#x27;s Falcon 9 rocket launch confuses and amazes...8 Oct 2018 — Two streaks of light in the sky. Two streaks in this long exp...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2018-10-09/spacex-launch-confuses-and-amazes-observers/10354900" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-10-09/spacex-launch-confuses-and-amazes-observers/10354900</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsSpaceX&#x27;s Falcon 9 rocket launch confuses and amazes...8 Oct 2018 — Two streaks of light in the sky. Two streaks in this long exp...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nextspaceflight.com  
-   Link: <a href="https://nextspaceflight.com/launches/" target="_blank" rel="noopener noreferrer nofollow">https://nextspaceflight.com/launches/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LaunchesCatch the next launches in spaceflight or view all previous launches...</p></details>
+   Link:<a href="https://nextspaceflight.com/launches/" target="_blank" rel="noopener noreferrer nofollow">https://nextspaceflight.com/launches/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LaunchesCatch the next launches in spaceflight or view all previous launches...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Australia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AustraliaAustralia is the world&#x27;s flattest and driest inhabited continent. It is a megadiverse country, and its size gives it a wide v...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Australia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AustraliaAustralia is the world&#x27;s flattest and driest inhabited continent. It is a megadiverse country, and its size gives it a wide v...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Falcon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FalconFalcons are birds of prey in the genus Falco, which includes about 40 species. Some small species of falcons with long, narrow w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Falcon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FalconFalcons are birds of prey in the genus Falco, which includes about 40 species. Some small species of falcons with long, narrow w...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Rocket" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rocket</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RocketRockets are now used for fireworks, missiles and other weaponry, ejection seats, launch vehicles for artificial satellites, huma...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rocket" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rocket</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RocketRockets are now used for fireworks, missiles and other weaponry, ejection seats, launch vehicles for artificial satellites, huma...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sbs.com.au  
-   Link: <a href="https://www.sbs.com.au/news/article/spacex-launches-10-satellites-lighting-up-californias-night-sky/nqcqwpg7h" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/spacex-launches-10-satellites-lighting-up-californias-night-sky/nqcqwpg7h</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SpaceX rocket lit up the night sky as it launched from Vandenberg Air Force Base.Read more...</p></details>
+   Link:<a href="https://www.sbs.com.au/news/article/spacex-launches-10-satellites-lighting-up-californias-night-sky/nqcqwpg7h" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/spacex-launches-10-satellites-lighting-up-californias-night-sky/nqcqwpg7h</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SpaceX rocket lit up the night sky as it launched from Vandenberg Air Force Base.Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: space.gov.au  
    Title: australian high power rocket permit  
-   Link: <a href="https://www.space.gov.au/about-agency/publications/australian-high-power-rocket-permit" target="_blank" rel="noopener noreferrer nofollow">https://www.space.gov.au/about-agency/publications/australian-high-power-rocket-permit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Dec 2023 — An Australian high power rocket permit is required for a rocket that will not reach or exceed an altitude of 100km above sea...</p></details>
+   Link:<a href="https://www.space.gov.au/about-agency/publications/australian-high-power-rocket-permit" target="_blank" rel="noopener noreferrer nofollow">https://www.space.gov.au/about-agency/publications/australian-high-power-rocket-permit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Dec 2023 — An Australian high power rocket permit is required for a rocket that will not reach or exceed an altitude of 100km above sea...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: space.gov.au  
    Title: rocket engine testers target global market  
-   Link: <a href="https://www.space.gov.au/news-and-media/rocket-engine-testers-target-global-market" target="_blank" rel="noopener noreferrer nofollow">https://www.space.gov.au/news-and-media/rocket-engine-testers-target-global-market</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Nov 2024 — The 6-metre high rocket was powered by a 5kN (500kg) hybrid engine, designed to reach the Karman line at 10km altitude - th...</p></details>
+   Link:<a href="https://www.space.gov.au/news-and-media/rocket-engine-testers-target-global-market" target="_blank" rel="noopener noreferrer nofollow">https://www.space.gov.au/news-and-media/rocket-engine-testers-target-global-market</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Nov 2024 — The 6-metre high rocket was powered by a 5kN (500kg) hybrid engine, designed to reach the Karman line at 10km altitude - th...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: spaceflightnow.com  
-   Link: <a href="https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 3, 2026 Will Robinson-Smith. A SpaceX Falcon 9 rocket lifts off from...Read more...</p></details>
+   Link:<a href="https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 3, 2026 Will Robinson-Smith. A SpaceX Falcon 9 rocket lifts off from...Read more...</p></details>
    Published: June 3, 2026  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/national/spacex-falcon-9-launch-creates-jellyfish-pattern-across-the-sky/video/c649c10513a1eb31ebee774e91fc5848" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/national/spacex-falcon-9-launch-creates-jellyfish-pattern-across-the-sky/video/c649c10513a1eb31ebee774e91fc5848</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 Launch Creates &#x27;Jellyfish&#x27; Pattern Across the...SpaceX launched its Falcon 9 rocket from the Cape Canaveral Space Force...</p></details>
+   Link:<a href="https://www.news.com.au/national/spacex-falcon-9-launch-creates-jellyfish-pattern-across-the-sky/video/c649c10513a1eb31ebee774e91fc5848" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/national/spacex-falcon-9-launch-creates-jellyfish-pattern-across-the-sky/video/c649c10513a1eb31ebee774e91fc5848</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 Launch Creates &#x27;Jellyfish&#x27; Pattern Across the...SpaceX launched its Falcon 9 rocket from the Cape Canaveral Space Force...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: particle.scitech.org.au  
    Title: the sky tonight june 2026  
-   Link: <a href="https://particle.scitech.org.au/atoms-galaxies/the-sky-tonight-june-2026/" target="_blank" rel="noopener noreferrer nofollow">https://particle.scitech.org.au/atoms-galaxies/the-sky-tonight-june-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SKY TONIGHT: JUNE 2026 | Particle - Scitech6 days ago — The Sky Tonight is a monthly update of the amazing things you can find when looki...</p></details>
+   Link:<a href="https://particle.scitech.org.au/atoms-galaxies/the-sky-tonight-june-2026/" target="_blank" rel="noopener noreferrer nofollow">https://particle.scitech.org.au/atoms-galaxies/the-sky-tonight-june-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SKY TONIGHT: JUNE 2026 | Particle - Scitech6 days ago — The Sky Tonight is a monthly update of the amazing things you can find when looki...</p></details>
    Published: june 2026  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/rocket</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ROCKET Definition &amp; Meaning1. a: a firework consisting of a case partly filled with a combustible composition fastened to a guiding stic...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/rocket</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ROCKET Definition &amp; Meaning1. a: a firework consisting of a case partly filled with a combustible composition fastened to a guiding stic...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
    Title: A white streak cut across the dusk sky above San Pedro  
-   Link: <a href="https://www.instagram.com/reel/DXxFNB0j_ql/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXxFNB0j_ql/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon 9 rocket streaking across the twilight sky over Los Angeles.... Space X woke us all up this morning for a spectacular Sunrise Fal...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXxFNB0j_ql/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXxFNB0j_ql/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon 9 rocket streaking across the twilight sky over Los Angeles.... Space X woke us all up this morning for a spectacular Sunrise Fal...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXBvY9FCY2P/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXBvY9FCY2P/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ght, with sightings reported from Sydney to regional NSW and Canberra...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXBvY9FCY2P/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXBvY9FCY2P/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ght, with sightings reported from Sydney to regional NSW and Canberra...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
    Title: It wasn't a bird, a plane or even Superman  
-   Link: <a href="https://www.instagram.com/p/DZZAXjkxnxQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZZAXjkxnxQ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But, it appears...A Chinese rocket has lit up the skies across Queensland and northern New South Wales overnight, as it passed over nort...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZZAXjkxnxQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZZAXjkxnxQ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But, it appears...A Chinese rocket has lit up the skies across Queensland and northern New South Wales overnight, as it passed over nort...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZY_txzHK2O/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZY_txzHK2O/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Wales overnight, as it passed over north-eastern Australia...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZY_txzHK2O/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZY_txzHK2O/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Wales overnight, as it passed over north-eastern Australia...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZZjS2sFBQ0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZZjS2sFBQ0/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wales overnight, as it passed over north-eastern Australia...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZZjS2sFBQ0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZZjS2sFBQ0/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wales overnight, as it passed over north-eastern Australia...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: ntnews.com.au  
-   Link: <a href="https://www.ntnews.com.au/news/a-mystery-white-light-hurtling-across-australias-northern-skies-sparked-theories-read-them-here/news-story/f4f8c8c260d0f479d1ab15c5f26698e2" target="_blank" rel="noopener noreferrer nofollow">https://www.ntnews.com.au/news/a-mystery-white-light-hurtling-across-australias-northern-skies-sparked-theories-read-them-here/news-story/f4f8c8c260d0f479d1ab15c5f26698e2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Darwin UFO sighting sparks theories from space jellyfish to...12 Apr 2026 — Onlookers right across the top of Australia, including the T...</p></details>
+   Link:<a href="https://www.ntnews.com.au/news/a-mystery-white-light-hurtling-across-australias-northern-skies-sparked-theories-read-them-here/news-story/f4f8c8c260d0f479d1ab15c5f26698e2" target="_blank" rel="noopener noreferrer nofollow">https://www.ntnews.com.au/news/a-mystery-white-light-hurtling-across-australias-northern-skies-sparked-theories-read-them-here/news-story/f4f8c8c260d0f479d1ab15c5f26698e2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Darwin UFO sighting sparks theories from space jellyfish to...12 Apr 2026 — Onlookers right across the top of Australia, including the T...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: List of spaceflight launches in April–June 2026  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_April%E2%80%93June_2026" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_April%E2%80%93June_2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For all other spaceflight activities, see 2026 in spaceflight.Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_April%E2%80%93June_2026" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_April%E2%80%93June_2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For all other spaceflight activities, see 2026 in spaceflight.Read more...</p></details>
    Published: June 2026  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: instagram.com  
    Title: DZZW9z MAhs O  
-   Link: <a href="https://www.instagram.com/reel/DZZW9zMAhsO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZZW9zMAhsO/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Instagram: &quot;Aussies were left bewildered by a...It wasn&#x27;t a UFO, it was actually a Chinese commercial rocket called the Zhuque-2E car...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZZW9zMAhsO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZZW9zMAhsO/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Instagram: &quot;Aussies were left bewildered by a...It wasn&#x27;t a UFO, it was actually a Chinese commercial rocket called the Zhuque-2E car...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: avsef.gov.au  
-   Link: <a href="https://www.avsef.gov.au/consultations/rocket-launch-north-white-cliffs-nsw-june-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.avsef.gov.au/consultations/rocket-launch-north-white-cliffs-nsw-june-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Launch North of White Cliffs, NSW - June 2026The sounding rockets are intended to be launched on 15 June 2026, 16 June 2026, and 1...</p></details>
+   Link:<a href="https://www.avsef.gov.au/consultations/rocket-launch-north-white-cliffs-nsw-june-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.avsef.gov.au/consultations/rocket-launch-north-white-cliffs-nsw-june-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Launch North of White Cliffs, NSW - June 2026The sounding rockets are intended to be launched on 15 June 2026, 16 June 2026, and 1...</p></details>
    Published: June 2026  

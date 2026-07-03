@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /victoria-df8cd5-index/
 description: Focused pages that expand on Why Victoria Became Australia's UFO Hotspot.
-date: '2026-06-23'
+date: '2026'
 layout: default
 parent_basename: Victoria_df8cd5
 parent_title: Why Victoria Became Australia's UFO Hotspot
@@ -16,7 +16,7 @@ parent_permalink: /why-victoria-became-australias-ufo/
 
 # Explore Topics in Why Victoria Became Australia's UFO Hotspot
 
-The following pages expand on the main **[Why Victoria Became Australia's UFO Hotspot]({{ '/why-victoria-became-australias-ufo/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Why Victoria Became Australia's UFO Hotspot]({{ '/why-victoria-became-australias-ufo/' | relative_url }})** page and cover its key branches in.
 
 - [Aviation]({{ '/aviation/' | relative_url }})
 - [Official Files]({{ '/official-files-a58fb3/' | relative_url }})

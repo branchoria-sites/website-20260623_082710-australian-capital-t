@@ -256,26 +256,26 @@ image: /assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalke
 
 ## Introduction
 
-One of the most important ACT-linked episodes in Australian UFO history did not involve a dramatic sighting over Canberra. Instead, it involved a researcher walking into Defence offices and examining government records. In 1982, Australian investigator Bill Chalker travelled to Defence headquarters in Canberra to inspect official UFO files that had previously been inaccessible to most civilian researchers. The visit became a landmark moment because it shifted attention from rumours about secret government knowledge to the actual contents of Commonwealth records. Rather than uncovering proof of extraterrestrial craft, Chalker gained access to a large body of administrative, intelligence and investigation material that helped reveal how Australian authorities handled reports of unusual aerial sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
+One of the most important ACT-linked episodes in Australian UFO history did not involve a dramatic sighting over Canberra. Instead, it involved a researcher walking into Defence offices and examining government records. In 1982, Australian investigator Bill Chalker travelled to Defence headquarters in Canberra to inspect official UFO files that had previously been inaccessible to most civilian researchers. The visit became a landmark moment because it shifted attention from rumours about secret government knowledge to the actual contents of Commonwealth records. Rather than uncovering proof of extraterrestrial craft, Chalker gained access to a large body of administrative, intelligence and investigation material that helped reveal how Australian authorities handled reports of unusual aerial sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729-Illustration-1-dark.svg" | relative_url }}" alt="Chalker Visit illustration 1" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader story of the National [Archives]({{ 'archives/' | relative_url }}) and the ACT UFO record trail, the significance of the visit lies in access. Canberra functioned as the gateway to federal records, and Chalker's experience demonstrated that understanding Australia's UFO history often depended less on hidden secrets than on who could inspect the files and what those files actually contained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Australian ufology</span><span class="citation-popover-snippet">Australian ufology</span></span></span>
+Within the broader story of the National [Archives]({{ 'archives/' | relative_url }}) and the ACT UFO record trail, the significance of the visit lies in access. Canberra functioned as the gateway to federal records, and Chalker's experience demonstrated that understanding Australia's UFO history often depended less on hidden secrets than on who could inspect the files and what those files actually contained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Australian ufology</span><span class="citation-popover-snippet">Australian ufology</span></span></span>
 
 ## The 1982 Defence Headquarters Visit
 
-By the early 1980s, Defence and [RAAF files]({{ 'raaf-files/' | relative_url }}) on UFO reports existed in substantial numbers, but access was tightly controlled. Earlier cooperation between Defence personnel and civilian researchers had gradually opened limited opportunities for inspection. By 1981, selected UFO files could be transferred to Defence headquarters in Canberra for approved civilian examination. This policy created the conditions that enabled Chalker's 1982 research visit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Australian ufology</span><span class="citation-popover-snippet">Australian ufology</span></span></span>
+By the early 1980s, Defence and [RAAF files]({{ 'raaf-files/' | relative_url }}) on UFO reports existed in substantial numbers, but access was tightly controlled. Earlier cooperation between Defence personnel and civilian researchers had gradually opened limited opportunities for inspection. By 1981, selected UFO files could be transferred to Defence headquarters in Canberra for approved civilian examination. This policy created the conditions that enabled Chalker's 1982 research visit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Australian ufology</span><span class="citation-popover-snippet">Australian ufology</span></span></span>
 
-Chalker was already an active investigator with Australian and international UFO research organisations. His Canberra visit was unusual because it moved beyond speculation about government records and into direct examination of them. According to later accounts, he was able to inspect a significant portion of the surviving Defence and RAAF UFO collection. The research formed the basis for articles published during 1982 that discussed official Australian involvement in UFO investigations and summarised what the files revealed about government procedures and individual cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20AustralianUFOFiles%20-%20A9755_22_353.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">JNCLA S</span><span class="citation-popover-snippet">JNCLAS - Project Blue Book ArchiveBy Bill Chalker... (a) Examine the majority of the extant UFO files held by the Royal Australian Air...</span></span></span>
+Chalker was already an active investigator with Australian and international UFO research organisations. His Canberra visit was unusual because it moved beyond speculation about government records and into direct examination of them. According to later accounts, he was able to inspect a significant portion of the surviving Defence and RAAF UFO collection. The research formed the basis for articles published during 1982 that discussed official Australian involvement in UFO investigations and summarised what the files revealed about government procedures and individual cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20AustralianUFOFiles%20-%20A9755_22_353.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">JNCLA S</span><span class="citation-popover-snippet">JNCLAS - Project Blue Book ArchiveBy Bill Chalker... (a) Examine the majority of the extant UFO files held by the Royal Australian Air...</span></span></span>
 
-The visit also highlighted Canberra's role as the administrative centre of Commonwealth record-keeping. Although many reports originated in distant parts of Australia, decisions about access, classification and retention increasingly passed through federal departments headquartered in the national capital. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Australian ufology</span><span class="citation-popover-snippet">Australian ufology</span></span></span>
+The visit also highlighted Canberra's role as the administrative centre of Commonwealth record-keeping. Although many reports originated in distant parts of Australia, decisions about access, classification and retention increasingly passed through federal departments headquartered in the national capital.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Australian ufology</span><span class="citation-popover-snippet">Australian ufology</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xOJmkmVrD_k" title="Real Eyewitness Stories of UFOs | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xOJmkmVrD_k" target="_blank" rel="noopener noreferrer">Real Eyewitness Stories of UFOs | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 190.6K &middot; Uploaded: March 2025 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xOJmkmVrD_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xOJmkmVrD_k">Open on YouTube</a></p></div></div></div>
 
 ## What the Postal Sacks Represented
 
-One of the most memorable details associated with Chalker's research concerns the sheer volume of material made available. Later descriptions refer to large quantities of Defence UFO paperwork being assembled for examination, sometimes characterised as postal sacks or bulk collections of files transported for review. The image is striking, but its historical importance is often misunderstood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
+One of the most memorable details associated with Chalker's research concerns the sheer volume of material made available. Later descriptions refer to large quantities of Defence UFO paperwork being assembled for examination, sometimes characterised as postal sacks or bulk collections of files transported for review. The image is striking, but its historical importance is often misunderstood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
 
 The sacks did not represent a cache of recovered alien technology or a secret archive hidden from government oversight. Instead, they symbolised something more mundane and, historically, more revealing:
 
@@ -289,7 +289,7 @@ The sacks did not represent a cache of recovered alien technology or a secret ar
 
 </div>
 
-The volume of material demonstrated that Australian authorities had taken the reporting process seriously enough to create and maintain extensive records. It did not demonstrate that officials had concluded UFOs were extraterrestrial. In many cases the files show investigators searching for conventional explanations, assessing aviation safety implications or determining whether a sighting had any defence significance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
+The volume of material demonstrated that Australian authorities had taken the reporting process seriously enough to create and maintain extensive records. It did not demonstrate that officials had concluded UFOs were extraterrestrial. In many cases the files show investigators searching for conventional explanations, assessing aviation safety implications or determining whether a sighting had any defence significance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
 
 For historians of the ACT record trail, the postal sacks are best understood as a symbol of bureaucracy rather than secrecy. They represented the accumulated paperwork of a government system that recorded unusual reports because they might matter, not because officials had already reached extraordinary conclusions.
 
@@ -297,25 +297,25 @@ For historians of the ACT record trail, the postal sacks are best understood as 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729-Illustration-2-dark.svg" | relative_url }}" alt="Chalker Visit illustration 2" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Chalker Found — And What He Did Not
 
-A recurring theme in Chalker's later commentary is that access to files often revealed a more complicated reality than either sceptics or believers expected. Some cases contained detailed witness statements from military personnel, pilots or radar-related environments. Others were thin files that ended with probable explanations or unresolved conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
+A recurring theme in Chalker's later commentary is that access to files often revealed a more complicated reality than either sceptics or believers expected. Some cases contained detailed witness statements from military personnel, pilots or radar-related environments. Others were thin files that ended with probable explanations or unresolved conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
 
-One notable lesson concerned gaps in the record. Chalker later recalled instances where files or portions of files appeared to be missing. In a 2024 ABC interview, he discussed a case that he expected to find in Defence records but which was absent when he examined the files in 1982, suggesting that some material had been removed or misplaced before his inspection. Such examples have fuelled debate among UFO researchers, but they do not automatically indicate a cover-up. Missing government files can result from routine archival loss, administrative disposal, transfers between agencies or cataloguing problems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
+One notable lesson concerned gaps in the record. Chalker later recalled instances where files or portions of files appeared to be missing. In a 2024 ABC interview, he discussed a case that he expected to find in Defence records but which was absent when he examined the files in 1982, suggesting that some material had been removed or misplaced before his inspection. Such examples have fuelled debate among UFO researchers, but they do not automatically indicate a cover-up. Missing government files can result from routine archival loss, administrative disposal, transfers between agencies or cataloguing problems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
 
-The broader finding was that the files contained both intriguing reports and evidence of ordinary bureaucratic processes. The records showed that Australian authorities investigated some sightings, corresponded about them and preserved documentation, but they did not provide conclusive proof of extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
+The broader finding was that the files contained both intriguing reports and evidence of ordinary bureaucratic processes. The records showed that Australian authorities investigated some sightings, corresponded about them and preserved documentation, but they did not provide conclusive proof of extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sPHVvg-dXOs" title="Melbourne UFO Mystery: 50 Years On | Studio 10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sPHVvg-dXOs" target="_blank" rel="noopener noreferrer">Melbourne UFO Mystery: 50 Years On | Studio 10</a></p><p class="youtube-embed-meta">Channel: Studio 10 &middot; Views: 1.3M &middot; Uploaded: January 2016 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sPHVvg-dXOs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sPHVvg-dXOs">Open on YouTube</a></p></div></div></div>
 
 ## Why Access Mattered More Than Secrecy Myths
 
-The lasting importance of the 1982 Canberra visit lies in what it revealed about evidence. UFO discussions often focus on claims that governments possess hidden knowledge. Chalker's access shifted attention towards the actual documentary record. By examining files directly, he could compare rumours with surviving paperwork and assess what the government had really recorded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20AustralianUFOFiles%20-%20A9755_22_353.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">JNCLA S</span><span class="citation-popover-snippet">JNCLAS - Project Blue Book ArchiveBy Bill Chalker... (a) Examine the majority of the extant UFO files held by the Royal Australian Air...</span></span></span>
+The lasting importance of the 1982 Canberra visit lies in what it revealed about evidence. UFO discussions often focus on claims that governments possess hidden knowledge. Chalker's access shifted attention towards the actual documentary record. By examining files directly, he could compare rumours with surviving paperwork and assess what the government had really recorded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20AustralianUFOFiles%20-%20A9755_22_353.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">JNCLA S</span><span class="citation-popover-snippet">JNCLAS - Project Blue Book ArchiveBy Bill Chalker... (a) Examine the majority of the extant UFO files held by the Royal Australian Air...</span></span></span>
 
 This distinction remains important when interpreting ACT-related UFO history:
 
 * **Access can be more revealing than classification.** Many files that once appeared mysterious were later transferred into archival collections and became available to researchers.
 * **Large archives do not automatically imply extraordinary conclusions.** Extensive paperwork can simply reflect decades of reporting and administration.
 * **Missing documents raise questions but not necessarily proof of concealment.** The evidential value depends on what can be independently verified.
-* **Official interest was often driven by defence and aviation concerns.** Authorities needed to know whether reported objects represented aircraft, missiles, satellites or potential security issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
+* **Official interest was often driven by defence and aviation concerns.** Authorities needed to know whether reported objects represented aircraft, missiles, satellites or potential security issues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
 
 The episode therefore serves as a corrective to simplistic narratives. The most significant discovery was not a sensational revelation but the existence of a substantial, traceable [paper trail]({{ 'paper-trail/' | relative_url }}).
 
@@ -323,203 +323,203 @@ The episode therefore serves as a corrective to simplistic narratives. The most 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729-Illustration-3-dark.svg" | relative_url }}" alt="Chalker Visit illustration 3" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_act_ufo_archives_1e924f_chalker_defence_file_c43729-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Canberra's Place in the National UFO Record Trail
 
-Bill Chalker's 1982 visit illustrates why the [Australian Capital Territory]({{ 'australian-capital-territory/' | relative_url }}) occupies a distinctive place in Australian UFO history. Canberra was not primarily a hotspot of sightings; it was the place where records converged. Defence headquarters, federal departments and, later, the National Archives became the institutions through which researchers could reconstruct how the Commonwealth responded to reports from across the country. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Australian ufology</span><span class="citation-popover-snippet">Australian ufology</span></span></span>
+Bill Chalker's 1982 visit illustrates why the [Australian Capital Territory]({{ 'australian-capital-territory/' | relative_url }}) occupies a distinctive place in Australian UFO history. Canberra was not primarily a hotspot of sightings; it was the place where records converged. Defence headquarters, federal departments and, later, the National Archives became the institutions through which researchers could reconstruct how the Commonwealth responded to reports from across the country.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Australian ufology</span><span class="citation-popover-snippet">Australian ufology</span></span></span>
 
-In that sense, the visit marks a transition from folklore to documentation. The postal sacks and Defence files were valuable not because they confirmed extraordinary claims, but because they allowed researchers to inspect the evidence trail itself. For anyone following the ACT's role in UFO history, that is the enduring significance of Chalker's Canberra file hunt: it demonstrated that the key question was not what people imagined was hidden in government vaults, but what could actually be found, read and checked in the records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
+In that sense, the visit marks a transition from folklore to documentation. The postal sacks and Defence files were valuable not because they confirmed extraordinary claims, but because they allowed researchers to inspect the evidence trail itself. For anyone following the ACT's role in UFO history, that is the enduring significance of Chalker's Canberra file hunt: it demonstrated that the key question was not what people imagined was hidden in government vaults, but what could actually be found, read and checked in the records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dHGn_yPSgg0" title="Why This UFO Sighting Was Different | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer">Why This UFO Sighting Was Different | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 427.6K &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dHGn_yPSgg0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Inside Canberra&#x27;s Defence UFO File Hunt. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Inside Canberra&#x27;s Defence UFO File Hunt. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context for how official investigations and researchers approached unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for how official investigations and researchers approached unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented testimony and official sources, aligning with the article&#x27;s emphasis on records over conspiracy myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented testimony and official sources, aligning with the article&#x27;s emphasis on records over conspiracy myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Readers interested in Defence files and archival access will naturally want a wider government-records perspective.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Readers interested in Defence files and archival access will naturally want a wider government-records perspective.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oz Files on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oz Files">The Oz Files</a>
-        </h4>
-        <p class="fr-book-author">By Bill Chalker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oz Files on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oz Files">The Oz Files</a>
+</h4>
+<p class="fr-book-author">By Bill Chalker</p>
         
-        <p class="fr-book-desc">Explains Australian UFO investigations, government records, and Chalker&#x27;s access to official files that underpin the Canberra Defence arc...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains Australian UFO investigations, government records, and Chalker&#x27;s access to official files that underpin the Canberra Defence arc...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chalker-visit-inside-canberra-s-defence-ufo-file-hunt-australian-capital-territory-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ In that sense, the visit marks a transition from folklore to documentation. The 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ In that sense, the visit marks a transition from folklore to documentation. The 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ In that sense, the visit marks a transition from folklore to documentation. The 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ In that sense, the visit marks a transition from folklore to documentation. The 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ In that sense, the visit marks a transition from folklore to documentation. The 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,74 +725,74 @@ In that sense, the visit marks a transition from folklore to documentation. The 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: files.bluebookfiles.org  
    Title: JNCLA S  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20AustralianUFOFiles%20-%20A9755_22_353.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20AustralianUFOFiles%20-%20A9755_22_353.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JNCLAS - Project Blue Book ArchiveBy Bill Chalker... (a) Examine the majority of the extant UFO files held by the Royal Australian Air...</p></details>
+   Link:<a href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20AustralianUFOFiles%20-%20A9755_22_353.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20AustralianUFOFiles%20-%20A9755_22_353.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JNCLAS - Project Blue Book ArchiveBy Bill Chalker... (a) Examine the majority of the extant UFO files held by the Royal Australian Air...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Australian ufology  
-   Link: <a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsHow Bill Chalker became one of the first civilians to access...6 Dec 2024 — The UFO files were sent to the National Archives of...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A9755_22_3533575.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A9755_22_3533575.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsAustralian Government(1-2) &quot;UFOs and the Royal Australian Air Force- the Inside Story&quot;, In the UFO. Research Aus...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/A9755_22_3533575.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A9755_22_3533575.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsAustralian Government(1-2) &quot;UFOs and the Royal Australian Air Force- the Inside Story&quot;, In the UFO. Research Aus...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/492616223/Australian-UFO-Magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/492616223/Australian-UFO-Magazine</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian UFO Magazine | PDF | Unidentified Flying ObjectAustralian UFO Magazine - Free download as PDF File (.pdf), Text File (.txt) or...</p></details>
+   Link:<a href="https://www.scribd.com/document/492616223/Australian-UFO-Magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/492616223/Australian-UFO-Magazine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian UFO Magazine | PDF | Unidentified Flying ObjectAustralian UFO Magazine - Free download as PDF File (.pdf), Text File (.txt) or...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pophorror.com  
-   Link: <a href="https://pophorror.com/available-now-on-streaming-archived-australias-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://pophorror.com/available-now-on-streaming-archived-australias-ufo-files/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Available Now On Streaming: &#x27;Archived: Australia&#x27;s UFO...18 Feb 2026 — The film features Wendy Burnham, Bill Chalker, and Steve Hiscocks...</p></details>
+   Link:<a href="https://pophorror.com/available-now-on-streaming-archived-australias-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://pophorror.com/available-now-on-streaming-archived-australias-ufo-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Available Now On Streaming: &#x27;Archived: Australia&#x27;s UFO...18 Feb 2026 — The film features Wendy Burnham, Bill Chalker, and Steve Hiscocks...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UAP/comments/10kiawk/australian_declassified_spy_documentation_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/10kiawk/australian_declassified_spy_documentation_on_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>summary (including a timeline) of US intelligence activities and research into UFOs between 1947 and 1955, namely SIGN...</p></details>
+   Link:<a href="https://www.reddit.com/r/UAP/comments/10kiawk/australian_declassified_spy_documentation_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/10kiawk/australian_declassified_spy_documentation_on_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>summary (including a timeline) of US intelligence activities and research into UFOs between 1947 and 1955, namely SIGN...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theworld.org  
    Title: australian military loses x files ufo sightings paper reports  
-   Link: <a href="https://theworld.org/stories/2016/08/02/australian-military-loses-x-files-ufo-sightings-paper-reports" target="_blank" rel="noopener noreferrer nofollow">https://theworld.org/stories/2016/08/02/australian-military-loses-x-files-ufo-sightings-paper-reports</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian military loses X-Files on UFO sightings, paper...2 Aug 2016 — Australia&#x27;s defense department has misplaced its X-Files detail...</p></details>
+   Link:<a href="https://theworld.org/stories/2016/08/02/australian-military-loses-x-files-ufo-sightings-paper-reports" target="_blank" rel="noopener noreferrer nofollow">https://theworld.org/stories/2016/08/02/australian-military-loses-x-files-ufo-sightings-paper-reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian military loses X-Files on UFO sightings, paper...2 Aug 2016 — Australia&#x27;s defense department has misplaced its X-Files detail...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: australian raaf files show in 1973 after a defcon  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/gz91vy/australian_raaf_files_show_in_1973_after_a_defcon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/gz91vy/australian_raaf_files_show_in_1973_after_a_defcon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian RAAF files show in 1973, after a DEFCON 3...Known as the 1973 North West Cape UFO, this is a lesser known case from the RAAF...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/gz91vy/australian_raaf_files_show_in_1973_after_a_defcon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/gz91vy/australian_raaf_files_show_in_1973_after_a_defcon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian RAAF files show in 1973, after a DEFCON 3...Known as the 1973 North West Cape UFO, this is a lesser known case from the RAAF...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified flyi...</p></details>
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified flyi...</p></details>
    Published: July 1960  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUEQjXYkzEU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUEQjXYkzEU/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s ever published. Author Bill Chalker is a scientist and a...</p></details>
+   Link:<a href="https://www.instagram.com/p/DUEQjXYkzEU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUEQjXYkzEU/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s ever published. Author Bill Chalker is a scientist and a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1966westallflyingsaucerincident/posts/10158822159511619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1966westallflyingsaucerincident/posts/10158822159511619/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s UFO crash retrievals: a confusing sagaThis one comes from Bill Chalker, an Australian engineer and UFO researcher. His 1972 s...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1966westallflyingsaucerincident/posts/10158822159511619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1966westallflyingsaucerincident/posts/10158822159511619/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s UFO crash retrievals: a confusing sagaThis one comes from Bill Chalker, an Australian engineer and UFO researcher. His 1972 s...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/Rrou1Yl-hao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/Rrou1Yl-hao</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ivilian wanted to get eyes on those files to see what was in them...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/Rrou1Yl-hao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/Rrou1Yl-hao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ivilian wanted to get eyes on those files to see what was in them...</p></details>

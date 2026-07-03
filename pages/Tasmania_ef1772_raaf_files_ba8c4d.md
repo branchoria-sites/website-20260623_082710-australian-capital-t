@@ -286,68 +286,68 @@ image: /assets/images/Tasmania_ef1772_raaf_files_ba8c4d-overview-social.jpg
 
 ## Introduction
 
-RAAF files do not show that [Tasmania]({{ 'what-really-happened-in-tasmanias-ufo/' | relative_url }}) had officially confirmed “alien” incidents. They show something more useful: how Australian authorities received, recorded, assessed and often limited UFO reports under the more cautious label of “unusual aerial sightings”. For Tasmania, the files matter most because they preserve the 1960 Cressy reports, related local follow-up, later possible [explanations]({{ 'explanations-0349ac/' | relative_url }}) such as Venus and blasting, and a revealing 1961 Devonport case in which a reported “UFO” appears to have been linked to a high-altitude U-2 aircraft over the island. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+RAAF files do not show that [Tasmania]({{ 'what-really-happened-in-tasmanias-ufo/' | relative_url }}) had officially confirmed “alien” incidents. They show something more useful: how Australian authorities received, recorded, assessed and often limited UFO reports under the more cautious label of “unusual aerial sightings”. For Tasmania, the files matter most because they preserve the 1960 Cressy reports, related local follow-up, later possible [explanations]({{ 'explanations-0349ac/' | relative_url }}) such as Venus and blasting, and a revealing 1961 Devonport case in which a reported “UFO” appears to have been linked to a high-altitude U-2 aircraft over the island.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_raaf_files_ba8c4d-overview.webp" | relative_url }}" alt="Overview image for RAAF Files" loading="eager" decoding="sync" fetchpriority="high">
-That makes the official record valuable, but also easy to misread. A sighting appearing in a RAAF file means it was logged, not solved in favour of the extraordinary. The best Tasmanian paperwork is careful, bureaucratic and sometimes sceptical. It records named [witnesses]({{ 'witnesses-e9d9f7/' | relative_url }}) and striking claims, but it also records uncertainty, media effects, ordinary explanations and the limits of what an air force investigation could realistically prove. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+That makes the official record valuable, but also easy to misread. A sighting appearing in a RAAF file means it was logged, not solved in favour of the extraordinary. The best Tasmanian paperwork is careful, bureaucratic and sometimes sceptical. It records named [witnesses]({{ 'witnesses-e9d9f7/' | relative_url }}) and striking claims, but it also records uncertainty, media effects, ordinary explanations and the limits of what an air force investigation could realistically prove.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
 
 ## Unusual aerial sightings in Australian files
 
-Australian official records usually treated UFO reports as defence and aviation information first, not as paranormal evidence. ABC reporting on the RAAF files notes that until the 1990s the Royal Australian Air Force was responsible for investigating reports then called “Unusual Aerial Sightings”, and that it received reports from civilians, researchers and military personnel over decades. Former RAAF intelligence officer Brett Biddington framed the interest in practical Cold War terms: space, rocketry, satellites and returned human-made objects mattered to air forces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+Australian official records usually treated UFO reports as defence and aviation information first, not as paranormal evidence. ABC reporting on the RAAF files notes that until the 1990s the Royal Australian Air Force was responsible for investigating reports then called “Unusual Aerial Sightings”, and that it received reports from civilians, researchers and military personnel over decades. Former RAAF intelligence officer Brett Biddington framed the interest in practical Cold War terms: space, rocketry, satellites and returned human-made objects mattered to air forces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
-That helps explain the tone of the Tasmanian files. They are not written like sensational newspaper stories. They are built from letters, officer memoranda, witness statements, sketches, weather notes, airport reports, air-traffic checks and internal comments. Later RAAF procedures used formal “Report of Unusual Aerial Sightings” proformas, asking for observer details, exact location, timing, sketches, photographs, physical traces and other witnesses. Air traffic controllers who received reports through aviation channels were instructed to complete the reporting form and pass it to the relevant intelligence officer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
+That helps explain the tone of the Tasmanian files. They are not written like sensational newspaper stories. They are built from letters, officer memoranda, witness statements, sketches, weather notes, airport reports, air-traffic checks and internal comments. Later RAAF procedures used formal “Report of Unusual Aerial Sightings” proformas, asking for observer details, exact location, timing, sketches, photographs, physical traces and other witnesses. Air traffic controllers who received reports through aviation channels were instructed to complete the reporting form and pass it to the relevant intelligence officer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
 
 The official category also explains why ordinary causes appear beside dramatic testimony. A RAAF file might contain a witness’s sincere account, a press clipping, a sketch of an unusual object, and then a note suggesting Venus, aircraft, cloud, a vapour trail or another mundane explanation. The file’s purpose was administrative and evaluative: to decide whether a report had defence relevance, whether further checking was justified, and whether the matter could be closed.
 
-The national programme eventually faded. The National Archives of Australia says the RAAF ceased investigating UFO sightings in 1994, reasoning that only a small percentage of reports could not be explained by natural phenomena and that those unexplained reports presented little or no security threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span> ABC’s later account similarly reports that the files were transferred to the National Archives, with hundreds digitised and available online. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+The national programme eventually faded. The National Archives of Australia says the RAAF ceased investigating UFO sightings in 1994, reasoning that only a small percentage of reports could not be explained by natural phenomena and that those unexplained reports presented little or no security threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span> ABC’s later account similarly reports that the files were transferred to the National Archives, with hundreds digitised and available online.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_raaf_files_ba8c4d-Illustration-1-dark.svg" | relative_url }}" alt="RAAF Files illustration 1" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_raaf_files_ba8c4d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_raaf_files_ba8c4d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tasmania in the RAAF record
 
-Tasmania’s official UFO record is not huge, but it is unusually instructive because several reports sit close together in time and geography. The key archival cluster is in the RAAF Department of Air UFO file series A703 580/1/1, Part 2. A digitised index and extracted text describe it as a National Archives of Australia file containing Tasmanian and regional sightings from late 1960 and early 1961, including [Cressy]({{ 'cressy/' | relative_url }}), Delmont, Trevallyn and related reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+Tasmania’s official UFO record is not huge, but it is unusually instructive because several reports sit close together in time and geography. The key archival cluster is in the RAAF Department of Air UFO file series A703 580/1/1, Part 2. A digitised index and extracted text describe it as a National Archives of Australia file containing Tasmanian and regional sightings from late 1960 and early 1961, including [Cressy]({{ 'cressy/' | relative_url }}), Delmont, Trevallyn and related reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
 
-The Cressy material is the centrepiece. Reverend Lionel Browning and Mrs Browning reported a dull grey cigar-shaped object near Cressy on 4 October 1960, with several smaller saucer-like objects emerging from low cloud. The RAAF file summary gives the time as approximately 1810 hours and records details such as a length estimate of about 100 feet, four or five dark vertical bands, and five or six smaller objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+The Cressy material is the centrepiece. Reverend Lionel Browning and Mrs Browning reported a dull grey cigar-shaped object near Cressy on 4 October 1960, with several smaller saucer-like objects emerging from low cloud. The RAAF file summary gives the time as approximately 1810 hours and records details such as a length estimate of about 100 feet, four or five dark vertical bands, and five or six smaller objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
 
-The same file does not treat Cressy as an isolated folklore item. It places it in a short-lived Tasmanian run of reports. The file summary notes seven Tasmanian sightings in roughly two months, involving a clergyman, grazier, housewife, senior Hydro-Electric Commission engineer, air traffic controller and an 11-year-old girl. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span> That breadth matters: the official papers show how a famous local sighting could generate further reports, some of which were taken seriously enough to record, and some of which were probably ordinary sky phenomena.
+The same file does not treat Cressy as an isolated folklore item. It places it in a short-lived Tasmanian run of reports. The file summary notes seven Tasmanian sightings in roughly two months, involving a clergyman, grazier, housewife, senior Hydro-Electric Commission engineer, air traffic controller and an 11-year-old girl.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span> That breadth matters: the official papers show how a famous local sighting could generate further reports, some of which were taken seriously enough to record, and some of which were probably ordinary sky phenomena.
 
-The record also contains less famous but important examples. E.D. Mills, a grazier at Cressy, reported a blinking light over Poatina on 27 November 1960; an air-traffic-control annotation attributed it to Venus, with cloud movement explaining the blinking and disappearance. The same cluster included loud explosions heard around Cressy, which the Resident RAAF Officer Tasmania traced to Hydro-Electric Commission rock blasting at Poatina, about ten miles away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+The record also contains less famous but important examples. E.D. Mills, a grazier at Cressy, reported a blinking light over Poatina on 27 November 1960; an air-traffic-control annotation attributed it to Venus, with cloud movement explaining the blinking and disappearance. The same cluster included loud explosions heard around Cressy, which the Resident RAAF Officer Tasmania traced to Hydro-Electric Commission rock blasting at Poatina, about ten miles away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
 
 ## The Cressy file’s careful wording
 
-The Cressy file is valuable partly because it resists simple conclusions. Wing Commander G.L. Waller, the Resident RAAF Officer Tasmania, interviewed the Brownings at their Cressy home on 11 November 1960. His report repeatedly called the event a “believed sighting”, a phrase that recognised the witnesses’ conviction without adopting their interpretation as proven fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+The Cressy file is valuable partly because it resists simple conclusions. Wing Commander G.L. Waller, the Resident RAAF Officer Tasmania, interviewed the Brownings at their Cressy home on 11 November 1960. His report repeatedly called the event a “believed sighting”, a phrase that recognised the witnesses’ conviction without adopting their interpretation as proven fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
 
-Waller’s judgement was not dismissive. He wrote that Mr and Mrs Browning were “stable, responsible and unexcitable individuals” who would not perpetrate a hoax, and that they were genuinely convinced they had seen actual objects. He also recorded more awkward human detail: Mr Browning was enjoying the publicity, Mrs Browning was not, and she was not someone likely to be influenced by her husband into believing she had seen something she had not seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+Waller’s judgement was not dismissive. He wrote that Mr and Mrs Browning were “stable, responsible and unexcitable individuals” who would not perpetrate a hoax, and that they were genuinely convinced they had seen actual objects. He also recorded more awkward human detail: Mr Browning was enjoying the publicity, Mrs Browning was not, and she was not someone likely to be influenced by her husband into believing she had seen something she had not seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
 
 That is the most important lesson of the file. Official doubt did not necessarily mean witness ridicule. The RAAF could accept that witnesses were sincere and still avoid declaring the reported object extraordinary. Waller’s report preserved both sides: credible local witnesses on one hand, and the possibility of error, publicity effects and local over-reporting on the other.
 
-The report also recorded how quickly a sighting could become a community event. Waller concluded that, after publicity around the Brownings’ report, “mild mass hysteria” had set in at Cressy and nearby areas, and that investigating every later local report would be a major task not justified by the likely results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span> That phrase can sound harsh today, but in context it reveals the governance problem: once a sighting became a newspaper story, the air force had to decide whether new reports were independent evidence, echo reports, misperceptions, or a mixture.
+The report also recorded how quickly a sighting could become a community event. Waller concluded that, after publicity around the Brownings’ report, “mild mass hysteria” had set in at Cressy and nearby areas, and that investigating every later local report would be a major task not justified by the likely results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span> That phrase can sound harsh today, but in context it reveals the governance problem: once a sighting became a newspaper story, the air force had to decide whether new reports were independent evidence, echo reports, misperceptions, or a mixture.
 
-Mrs Browning’s statement sharpened the case rather than resolving it. She broadly agreed with her husband’s account but differed on a detail at the northern end of the cigar-shaped object, thinking it resembled a propeller rotating in a vertical plane rather than an aerial array. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span> That kind of discrepancy is normal in eyewitness evidence. It does not prove fabrication, but it does warn readers not to treat every later retelling as a precise technical description.
+Mrs Browning’s statement sharpened the case rather than resolving it. She broadly agreed with her husband’s account but differed on a detail at the northern end of the cigar-shaped object, thinking it resembled a propeller rotating in a vertical plane rather than an aerial array.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span> That kind of discrepancy is normal in eyewitness evidence. It does not prove fabrication, but it does warn readers not to treat every later retelling as a precise technical description.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ovb2uMYstwY" title="Alderney UFO sighting explained | Why it&#x27;s one of the most incredible ever recorded | This Is Why" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ovb2uMYstwY" target="_blank" rel="noopener noreferrer">Alderney UFO sighting explained | Why it&#x27;s one of the most incredible ever recorded | This Is Why</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia &middot; Views: 723.2K &middot; Uploaded: January 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ovb2uMYstwY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ovb2uMYstwY">Open on YouTube</a></p></div></div></div>
 
 ## The Webster report shows why “official” does not mean “settled”
 
-Six days after the Browning sighting, Mrs D.A. Webster and her 11-year-old daughter reported a cigar-shaped object near Delmont. The RAAF file describes an object about 30 feet long, dull grey, with an orange rear portion and two rear protrusions. The witnesses thought it might be an aircraft at first, then noticed the lack of wings; it disappeared after their view was briefly blocked by a hedge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+Six days after the Browning sighting, Mrs D.A. Webster and her 11-year-old daughter reported a cigar-shaped object near Delmont. The RAAF file describes an object about 30 feet long, dull grey, with an orange rear portion and two rear protrusions. The witnesses thought it might be an aircraft at first, then noticed the lack of wings; it disappeared after their view was briefly blocked by a hedge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
 
-The officer’s comments again show care rather than credulity. Mrs Webster had reportedly been sceptical of the newspaper account of Browning’s sighting, yet became convinced she had seen an object herself. The officer described her as sensible and reliable, and described the daughter as mature for her age, while still cautioning that size and distance estimates were the weak point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+The officer’s comments again show care rather than credulity. Mrs Webster had reportedly been sceptical of the newspaper account of Browning’s sighting, yet became convinced she had seen an object herself. The officer described her as sensible and reliable, and described the daughter as mature for her age, while still cautioning that size and distance estimates were the weak point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
 
-For readers, that is more useful than a dramatic verdict. The Webster report strengthens the historical fact that a second named Tasmanian family reported something unusual soon after Cressy. It does not prove that both families saw the same object, or that either saw a non-human craft. It also shows how RAAF paperwork preserved sketches and disagreements, including exactly where the orange rear colouring began. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+For readers, that is more useful than a dramatic verdict. The Webster report strengthens the historical fact that a second named Tasmanian family reported something unusual soon after Cressy. It does not prove that both families saw the same object, or that either saw a non-human craft. It also shows how RAAF paperwork preserved sketches and disagreements, including exactly where the orange rear colouring began.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
 
 ## When official files point to ordinary explanations
 
 Some Tasmanian reports in or around the RAAF record became more interesting after later archival work, not because they looked more exotic, but because they looked more explainable. The best example is the 25 May 1961 Devonport sighting.
 
-Historian Philip Dorling’s study of Operation Crowflight, based on declassified Australian records, describes how Tasmanian Department of Agriculture inspector John Young reported an unidentified object to the RAAF after his children saw something in the sky from Devonport. The RAAF “report on aerial object observed” described it as “silvery but not reflective” and shaped like a thermometer or pencil without a point, moving high over Bass Strait. Crucially, the form’s air-traffic section recorded a “U-2 aircraft over Great Lake” at about 8.15 am, travelling north and leaving a distinct vapour trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/napsnet/napsnet-special-reports/atomic-spies-in-southern-skies-operation-crowflight/?view=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-title">atomic spies in southern skies operation crowflight</span><span class="citation-popover-snippet">atomic spies in southern skies operation crowflight</span></span></span>
+Historian Philip Dorling’s study of Operation Crowflight, based on declassified Australian records, describes how Tasmanian Department of Agriculture inspector John Young reported an unidentified object to the RAAF after his children saw something in the sky from Devonport. The RAAF “report on aerial object observed” described it as “silvery but not reflective” and shaped like a thermometer or pencil without a point, moving high over Bass Strait. Crucially, the form’s air-traffic section recorded a “U-2 aircraft over Great Lake” at about 8.15 am, travelling north and leaving a distinct vapour trail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/napsnet/napsnet-special-reports/atomic-spies-in-southern-skies-operation-crowflight/?view=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-title">atomic spies in southern skies operation crowflight</span><span class="citation-popover-snippet">atomic spies in southern skies operation crowflight</span></span></span>
 
-That note matters because it connects a Tasmanian “UFO” report to a real Cold War aircraft programme. Dorling explains that Operation Crowflight involved United States high-altitude radiological sampling in Australia from 1960 to 1966, with missions connected publicly to fallout and radioactivity studies and more sensitively to nuclear-detection intelligence. The proposed flights included routes south of the Australian continent and around Tasmanian latitudes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/napsnet/napsnet-special-reports/atomic-spies-in-southern-skies-operation-crowflight/?view=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-title">atomic spies in southern skies operation crowflight</span><span class="citation-popover-snippet">atomic spies in southern skies operation crowflight</span></span></span>
+That note matters because it connects a Tasmanian “UFO” report to a real Cold War aircraft programme. Dorling explains that Operation Crowflight involved United States high-altitude radiological sampling in Australia from 1960 to 1966, with missions connected publicly to fallout and radioactivity studies and more sensitively to nuclear-detection intelligence. The proposed flights included routes south of the Australian continent and around Tasmanian latitudes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/napsnet/napsnet-special-reports/atomic-spies-in-southern-skies-operation-crowflight/?view=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-title">atomic spies in southern skies operation crowflight</span><span class="citation-popover-snippet">atomic spies in southern skies operation crowflight</span></span></span>
 
 This is exactly the kind of case that official files are good at clarifying. A civilian observer saw something unusual; the RAAF form captured the sighting; later declassified defence records made the likely aviation context clearer. It does not explain every Tasmanian sighting. It does show why “unidentified to the witness” is not the same as “unidentifiable in principle”.
 
-Other file notes work in the same direction. The Mills light at Cressy was annotated as Venus, while local explosions linked by some residents to UFO activity were attributed by Waller to Hydro-Electric Commission blasting at Poatina. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span> These explanations do not debunk the Brownings’ main claim, but they weaken the idea that every associated sound or light in the Cressy period belonged to a single mystery.
+Other file notes work in the same direction. The Mills light at Cressy was annotated as Venus, while local explosions linked by some residents to UFO activity were attributed by Waller to Hydro-Electric Commission blasting at Poatina.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span> These explanations do not debunk the Brownings’ main claim, but they weaken the idea that every associated sound or light in the Cressy period belonged to a single mystery.
 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_raaf_files_ba8c4d-Illustration-2-dark.svg" | relative_url }}" alt="RAAF Files illustration 2" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_raaf_files_ba8c4d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_raaf_files_ba8c4d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -357,11 +357,11 @@ The strongest value of the RAAF files is not that they settle Tasmania’s UFO h
 
 For Tasmania, the files help establish several concrete points:
 
-* **Cressy was not merely a later legend.** It was recorded in RAAF correspondence, with witness statements, a sketch, weather context and an officer’s assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
-* **Officials sometimes respected witnesses while withholding endorsement.** Waller’s comments on the Brownings and Mullock’s comments on the Websters are sceptical in method but not contemptuous in tone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
-* **Local [clusters]({{ 'clusters/' | relative_url }}) can grow after publicity.** The Cressy file itself notes publicity, further reports and Waller’s concern about “mild mass hysteria”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
-* **Some explanations sit inside the files, not in later debunking essays.** Venus, blasting and possible aircraft explanations appear within or alongside the official paperwork itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
-* **Aviation secrecy can complicate sightings.** The [Devonport U-2]({{ 'devonport-u-2/' | relative_url }}) case shows how a genuine aircraft operating under Cold War arrangements could be reported as an unidentified object by a civilian witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/napsnet/napsnet-special-reports/atomic-spies-in-southern-skies-operation-crowflight/?view=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-title">atomic spies in southern skies operation crowflight</span><span class="citation-popover-snippet">atomic spies in southern skies operation crowflight</span></span></span>
+* **Cressy was not merely a later legend.** It was recorded in RAAF correspondence, with witness statements, a sketch, weather context and an officer’s assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+* **Officials sometimes respected witnesses while withholding endorsement.** Waller’s comments on the Brownings and Mullock’s comments on the Websters are sceptical in method but not contemptuous in tone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+* **Local [clusters]({{ 'clusters/' | relative_url }}) can grow after publicity.** The Cressy file itself notes publicity, further reports and Waller’s concern about “mild mass hysteria”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+* **Some explanations sit inside the files, not in later debunking essays.** Venus, blasting and possible aircraft explanations appear within or alongside the official paperwork itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+* **Aviation secrecy can complicate sightings.** The [Devonport U-2]({{ 'devonport-u-2/' | relative_url }}) case shows how a genuine aircraft operating under Cold War arrangements could be reported as an unidentified object by a civilian witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nautilus.org/napsnet/napsnet-special-reports/atomic-spies-in-southern-skies-operation-crowflight/?view=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nautilus.org">[nautilus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nautilus.org</span><span class="citation-popover-title">atomic spies in southern skies operation crowflight</span><span class="citation-popover-snippet">atomic spies in southern skies operation crowflight</span></span></span>
 
 These are modest conclusions, but they are historically strong. They do not require believing that the RAAF solved everything, or that witnesses imagined everything. They simply treat the files as records of how evidence moved through official channels.
 
@@ -372,9 +372,9 @@ These are modest conclusions, but they are historically strong. They do not requ
 
 The files have limits. A RAAF report cannot turn a distance estimate into a measurement, a short visual impression into a flight path, or a witness sketch into a technical drawing. Many reports lack photographs, radar data, physical traces or multiple independent observation points. Even when a witness is credible, the object may be too far away, too brief, too poorly contextualised or too affected by weather and expectation to identify confidently.
 
-The Cressy paperwork is a good example. It preserves a striking account by two named witnesses judged sincere by an officer. It also preserves reasons to be cautious: publicity, local follow-on reports, possible misidentified associated phenomena, and the impossibility of reconstructing exactly what was seen after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span> The case remains historically important, but “officially recorded” is not the same as “officially confirmed”.
+The Cressy paperwork is a good example. It preserves a striking account by two named witnesses judged sincere by an officer. It also preserves reasons to be cautious: publicity, local follow-on reports, possible misidentified associated phenomena, and the impossibility of reconstructing exactly what was seen after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span> The case remains historically important, but “officially recorded” is not the same as “officially confirmed”.
 
-There is also the problem of incompleteness. Civilian researchers have pointed out that some Tasmanian reports do not appear in RAAF files. Project 1947’s survey of Australian government records notes, for example, a 14 October 1960 Hagley report held in Tasmanian UFO Investigation Centre material but not found in the RAAF files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span> Absence from an official file can mean many things: no report was made to the RAAF, the report was not retained, it was filed elsewhere, or the search has missed it.
+There is also the problem of incompleteness. Civilian researchers have pointed out that some Tasmanian reports do not appear in RAAF files. Project 1947’s survey of Australian government records notes, for example, a 14 October 1960 Hagley report held in Tasmanian UFO Investigation Centre material but not found in the RAAF files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kb uasgov</span><span class="citation-popover-snippet">AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</span></span></span> Absence from an official file can mean many things: no report was made to the RAAF, the report was not retained, it was filed elsewhere, or the search has missed it.
 
 The reverse problem is also true. Presence in a file does not guarantee high quality. Official files contain weak reports as well as strong ones. They can include rumours, press clippings, uncertain OCR text, repeated material and unresolved administrative loose ends. Good historical reading means weighing each document, not treating the archive as a stamp of certainty.
 
@@ -385,7 +385,7 @@ The reverse problem is also true. Presence in a file does not guarantee high qua
 
 The fairest reading of Tasmania’s RAAF unusual aerial sightings is neither dismissive nor sensational. The files show that Tasmanians reported unusual things in the sky, that officials sometimes took the reports seriously enough to interview witnesses, and that several cases remain interesting because the original paperwork is more detailed than later folklore. They also show that many sightings were vulnerable to ordinary explanations: planets, aircraft, clouds, vapour trails, local industrial noise, media amplification and uncertain estimates.
 
-For Cressy, the official file strengthens the case as a serious historical report but does not prove an extraordinary object. For Webster, it adds a second careful witness account close in time, while still warning that size and distance were uncertain. For Devonport, it moves the balance towards an aircraft explanation tied to a real Cold War programme. Together, these cases show why Tasmania’s official UFO history is best understood as a record of governance: how authorities collected reports, filtered them, explained some, left others unresolved, and eventually decided that routine UFO investigation was not core air-force business. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+For Cressy, the official file strengthens the case as a serious historical report but does not prove an extraordinary object. For Webster, it adds a second careful witness account close in time, while still warning that size and distance were uncertain. For Devonport, it moves the balance towards an aircraft explanation tied to a real Cold War programme. Together, these cases show why Tasmania’s official UFO history is best understood as a record of governance: how authorities collected reports, filtered them, explained some, left others unresolved, and eventually decided that routine UFO investigation was not core air-force business.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
 The enduring value of the RAAF files is that they slow the story down. Instead of asking only “was it a UFO?”, they let readers ask better questions: who reported it, how soon, to whom, under what weather and aviation conditions, what did officials check, what did they leave open, and what later evidence changed the balance? In Tasmania, those questions matter more than any single dramatic label.
 
@@ -393,194 +393,194 @@ The enduring value of the RAAF files is that they slow the story down. Instead o
 <img src="{{ "/assets/images/Tasmania_ef1772_raaf_files_ba8c4d-Illustration-3-dark.svg" | relative_url }}" alt="RAAF Files illustration 3" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_raaf_files_ba8c4d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_raaf_files_ba8c4d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Officials Actually Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Officials Actually Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on military, government and aviation evidence, closely matching discussion of RAAF files and official documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on military, government and aviation evidence, closely matching discussion of RAAF files and official documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines how sightings are investigated, classified and evaluated rather than simply accepted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how sightings are investigated, classified and evaluated rather than simply accepted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Written by a former Project Blue Book leader and centered on official UFO case handling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by a former Project Blue Book leader and centered on official UFO case handling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Draws heavily on official case records and evaluation of reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Draws heavily on official case records and evaluation of reported sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876"><img src="{{ '/assets/images/marketplace-covers/c7c0b466707cc4242e56.jpg' | relative_url }}" alt="Listing image for TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876"><img src="{{ '/assets/images/marketplace-covers/c7c0b466707cc4242e56.jpg' | relative_url }}" alt="Listing image for TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">TASMANIA. State map showing counties &amp; railways. Australia. BARTHOLOMEW 1876</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map ATCJ 1894 Bird&#x27;s Eye View Hobart Tasmania Australia Large Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/821dc24429840a1b63c0.jpg' | relative_url }}" alt="Listing image for Map ATCJ 1894 Bird&#x27;s Eye View Hobart Tasmania Australia Large Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Map ATCJ 1894 Bird&#x27;s Eye View Hobart Tasmania Australia Large Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map ATCJ 1894 Bird&#x27;s Eye View Hobart Tasmania Australia Large Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/821dc24429840a1b63c0.jpg' | relative_url }}" alt="Listing image for Map ATCJ 1894 Bird&#x27;s Eye View Hobart Tasmania Australia Large Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Map ATCJ 1894 Bird&#x27;s Eye View Hobart Tasmania Australia Large Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Print Harrow Map 1880 Australia Tasmania Sydney Parth Pacific Ocean"><img src="{{ '/assets/images/marketplace-covers/4a546109651795d7c7c0.jpg' | relative_url }}" alt="Listing image for Antique Print Harrow Map 1880 Australia Tasmania Sydney Parth Pacific Ocean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Print Harrow Map 1880 Australia Tasmania Sydney Parth Pacific Ocean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Print Harrow Map 1880 Australia Tasmania Sydney Parth Pacific Ocean"><img src="{{ '/assets/images/marketplace-covers/4a546109651795d7c7c0.jpg' | relative_url }}" alt="Listing image for Antique Print Harrow Map 1880 Australia Tasmania Sydney Parth Pacific Ocean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Print Harrow Map 1880 Australia Tasmania Sydney Parth Pacific Ocean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tasmania Map Poster Print Unframed Tasmania Australia Art Modern Wall Print"><img src="{{ '/assets/images/marketplace-covers/7d2e085543d514a91fd5.jpg' | relative_url }}" alt="Listing image for Tasmania Map Poster Print Unframed Tasmania Australia Art Modern Wall Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Tasmania Map Poster Print Unframed Tasmania Australia Art Modern Wall Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tasmania Map Poster Print Unframed Tasmania Australia Art Modern Wall Print"><img src="{{ '/assets/images/marketplace-covers/7d2e085543d514a91fd5.jpg' | relative_url }}" alt="Listing image for Tasmania Map Poster Print Unframed Tasmania Australia Art Modern Wall Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">Tasmania Map Poster Print Unframed Tasmania Australia Art Modern Wall Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tasmania map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Tasmania map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tasmania+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tasmania map print" data-ebay-reference="raaf-files-d87b6c-what-did-officials-actually-record-tasmania-tasmania-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -596,7 +596,7 @@ The enduring value of the RAAF files is that they slow the story down. Instead o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -616,7 +616,7 @@ The enduring value of the RAAF files is that they slow the story down. Instead o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -648,7 +648,7 @@ The enduring value of the RAAF files is that they slow the story down. Instead o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -700,7 +700,7 @@ The enduring value of the RAAF files is that they slow the story down. Instead o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -745,7 +745,7 @@ The enduring value of the RAAF files is that they slow the story down. Instead o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -786,153 +786,153 @@ The enduring value of the RAAF files is that they slow the story down. Instead o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nautilus.org  
    Title: atomic spies in southern skies operation crowflight  
-   Link: <a href="https://nautilus.org/napsnet/napsnet-special-reports/atomic-spies-in-southern-skies-operation-crowflight/?view=pdf" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/napsnet/napsnet-special-reports/atomic-spies-in-southern-skies-operation-crowflight/?view=pdf</a>  
+   Link:<a href="https://nautilus.org/napsnet/napsnet-special-reports/atomic-spies-in-southern-skies-operation-crowflight/?view=pdf" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/napsnet/napsnet-special-reports/atomic-spies-in-southern-skies-operation-crowflight/?view=pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: naa.gov.au  
    Title: NAAFlying saucers – fact or fiction? | naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: project1947.com  
    Title: kb uasgov  
-   Link: <a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</p></details>
+   Link:<a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AUSTRALIAN GOVERNMENT’S RECORDS SYSTEMS...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/J63_25_5-40-AIR_Part%203_1878373_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/J63_25_5-40-AIR_Part%203_1878373_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/J63_25_5-40-AIR_Part%203_1878373_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/J63_25_5-40-AIR_Part%203_1878373_djvu.txt</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: rg 263 cia u2 aerial photography  
-   Link: <a href="https://www.archives.gov/research/cartographic/aerial-photography/rg-263-cia-u2-aerial-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/cartographic/aerial-photography/rg-263-cia-u2-aerial-photography</a>  
+   Link:<a href="https://www.archives.gov/research/cartographic/aerial-photography/rg-263-cia-u2-aerial-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/cartographic/aerial-photography/rg-263-cia-u2-aerial-photography</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2</a>  
+   Link:<a href="https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-au-a703-580-1-1-part2-a703-580-1-1-part-2</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/learning-resources/learning-resource-themes/environment-and-nature/weather-and-climate/cloud-seeding-operation-coast-sydney" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/learning-resources/learning-resource-themes/environment-and-nature/weather-and-climate/cloud-seeding-operation-coast-sydney</a>  
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/learning-resources/learning-resource-themes/environment-and-nature/weather-and-climate/cloud-seeding-operation-coast-sydney" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/learning-resources/learning-resource-themes/environment-and-nature/weather-and-climate/cloud-seeding-operation-coast-sydney</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: naa.gov.au  
    Title: research guide the sinking of hmas sydney  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2020-06/research-guide-the-sinking-of-hmas-sydney.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-06/research-guide-the-sinking-of-hmas-sydney.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2020-06/research-guide-the-sinking-of-hmas-sydney.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2020-06/research-guide-the-sinking-of-hmas-sydney.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf</a>  
+   Link:<a href="https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/sites/default/files/2021-05/records-released-march-2021.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: launceston.tas.gov.au  
-   Link: <a href="https://www.launceston.tas.gov.au/files/assets/public/v/2/parks-amp-reserves/myrtle-park-camping-map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.launceston.tas.gov.au/files/assets/public/v/2/parks-amp-reserves/myrtle-park-camping-map.pdf</a>  
+   Link:<a href="https://www.launceston.tas.gov.au/files/assets/public/v/2/parks-amp-reserves/myrtle-park-camping-map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.launceston.tas.gov.au/files/assets/public/v/2/parks-amp-reserves/myrtle-park-camping-map.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: byron.nsw.gov.au  
    Title: severe storms on the east coast of australia 1770 2008  
-   Link: <a href="https://www.byron.nsw.gov.au/files/assets/public/v/1/hptrim/bsc-file-number-pln301500/severe-storms-on-the-east-coast-of-australia-1770-2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.byron.nsw.gov.au/files/assets/public/v/1/hptrim/bsc-file-number-pln301500/severe-storms-on-the-east-coast-of-australia-1770-2008.pdf</a>  
+   Link:<a href="https://www.byron.nsw.gov.au/files/assets/public/v/1/hptrim/bsc-file-number-pln301500/severe-storms-on-the-east-coast-of-australia-1770-2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.byron.nsw.gov.au/files/assets/public/v/1/hptrim/bsc-file-number-pln301500/severe-storms-on-the-east-coast-of-australia-1770-2008.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: abc.net.au  
    Title: raaf pilot flies home to tasmanian on mission to show off plane  
-   Link: <a href="https://www.abc.net.au/news/2017-12-13/raaf-pilot-flies-home-to-tasmanian-on-mission-to-show-off-plane/9255492" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2017-12-13/raaf-pilot-flies-home-to-tasmanian-on-mission-to-show-off-plane/9255492</a>  
+   Link:<a href="https://www.abc.net.au/news/2017-12-13/raaf-pilot-flies-home-to-tasmanian-on-mission-to-show-off-plane/9255492" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2017-12-13/raaf-pilot-flies-home-to-tasmanian-on-mission-to-show-off-plane/9255492</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79dfc9ed915d042206ba86/UFOReport2001.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: slq.qld.gov.au  
    Title: The Truth Is Out There  
-   Link: <a href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow">https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals</a>  
+   Link:<a href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow">https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: plymouth.gov.uk  
-   Link: <a href="https://www.plymouth.gov.uk/devonport-park" target="_blank" rel="noopener noreferrer nofollow">https://www.plymouth.gov.uk/devonport-park</a>  
+   Link:<a href="https://www.plymouth.gov.uk/devonport-park" target="_blank" rel="noopener noreferrer nofollow">https://www.plymouth.gov.uk/devonport-park</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thedevonport.com  
    Title: The Devonport | Pub  
-   Link: <a href="https://thedevonport.com/" target="_blank" rel="noopener noreferrer nofollow">https://thedevonport.com/</a>  
+   Link:<a href="https://thedevonport.com/" target="_blank" rel="noopener noreferrer nofollow">https://thedevonport.com/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: qvmag.tas.gov.au  
    Title: chs037 peter sims  
-   Link: <a href="https://www.qvmag.tas.gov.au/files/assets/qvmag/v/1/library/collections/chs-cos-qvm/chs037-peter-sims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.qvmag.tas.gov.au/files/assets/qvmag/v/1/library/collections/chs-cos-qvm/chs037-peter-sims.pdf</a>  
+   Link:<a href="https://www.qvmag.tas.gov.au/files/assets/qvmag/v/1/library/collections/chs-cos-qvm/chs037-peter-sims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.qvmag.tas.gov.au/files/assets/qvmag/v/1/library/collections/chs-cos-qvm/chs037-peter-sims.pdf</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=Rrou1Yl-hao" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Rrou1Yl-hao</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Australian UFO Archive: Tullamarine, Goulburn, and the Townsville Radar Case...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Rrou1Yl-hao" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Rrou1Yl-hao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Australian UFO Archive: Tullamarine, Goulburn, and the Townsville Radar Case...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=28sddyAZrTY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=28sddyAZrTY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;RAAF&quot; UFO files Unusual Aerial Sightings In the 80s the RAAF held hundreds of files documenting UFO sightings 🛸 | Uncropped | ABC Austra...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=28sddyAZrTY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=28sddyAZrTY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;RAAF&quot; UFO files Unusual Aerial Sightings In the 80s the RAAF held hundreds of files documenting UFO sightings 🛸 | Uncropped | ABC Austra...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=nZ6s2NmySbs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nZ6s2NmySbs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>200 Students Watched a UFO Land in 1966 Australia. Every Record Disappeared...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=nZ6s2NmySbs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nZ6s2NmySbs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>200 Students Watched a UFO Land in 1966 Australia. Every Record Disappeared...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=2CEaxeOjySk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2CEaxeOjySk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>665 // Frederick [Valentich](&amp;#123;&amp;#123; &#x27;valentich/&#x27; | relative_url &amp;#125;&amp;#125;) - UFO Mystery?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=2CEaxeOjySk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2CEaxeOjySk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>665 // Frederick [Valentich](&amp;#123;&amp;#123; &#x27;valentich/&#x27; | relative_url &amp;#125;&amp;#125;) - UFO Mystery?...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DonnyFP/posts/a-ufo-has-been-spotted-in-the-skies-over-doncaster-this-morning-phone-footage-ca/1560605379401647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DonnyFP/posts/a-ufo-has-been-spotted-in-the-skies-over-doncaster-this-morning-phone-footage-ca/1560605379401647/</a>  
+   Link:<a href="https://www.facebook.com/DonnyFP/posts/a-ufo-has-been-spotted-in-the-skies-over-doncaster-this-morning-phone-footage-ca/1560605379401647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DonnyFP/posts/a-ufo-has-been-spotted-in-the-skies-over-doncaster-this-morning-phone-footage-ca/1560605379401647/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABClisten/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-/1047737677367220/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABClisten/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-/1047737677367220/</a>  
+   Link:<a href="https://www.facebook.com/ABClisten/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-/1047737677367220/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABClisten/posts/a-ufo-sighting-in-far-north-queensland-set-off-an-international-hoax-/1047737677367220/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DR5QRYZDIqN/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DR5QRYZDIqN/</a>  
+   Link:<a href="https://www.instagram.com/reel/DR5QRYZDIqN/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DR5QRYZDIqN/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
+   Link:<a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: freecampingtasmania.com  
-   Link: <a href="https://www.freecampingtasmania.com/listing/camping-myrtle-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.freecampingtasmania.com/listing/camping-myrtle-park/</a>  
+   Link:<a href="https://www.freecampingtasmania.com/listing/camping-myrtle-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.freecampingtasmania.com/listing/camping-myrtle-park/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cornwalllivenews/videos/cornwall-is-best-place-to-spot-aliens-as-experts-say-they-are-getting-braver/3358427064335695/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/videos/cornwall-is-best-place-to-spot-aliens-as-experts-say-they-are-getting-braver/3358427064335695/</a>  
+   Link:<a href="https://www.facebook.com/cornwalllivenews/videos/cornwall-is-best-place-to-spot-aliens-as-experts-say-they-are-getting-braver/3358427064335695/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/videos/cornwall-is-best-place-to-spot-aliens-as-experts-say-they-are-getting-braver/3358427064335695/</a>  

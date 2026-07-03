@@ -258,7 +258,7 @@ image: /assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_nulla
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_nullarbor_mirage_lig_291234-Illustration-1-dark.svg" | relative_url }}" alt="Mirage theory illustration 1" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_nullarbor_mirage_lig_291234-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_nullarbor_mirage_lig_291234-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-One of the most discussed sceptical [explanations]({{ 'explanations-7a0dd2/' | relative_url }}) for the strange light reported during the 1988 Knowles incident on the [Nullarbor]({{ 'nullarbor/' | relative_url }}) is not a spacecraft at all, but a mirage created by atmospheric refraction. The idea is straightforward: under the right weather conditions, a distant light can appear brighter, higher, larger and more mobile than it really is. On a long, dark and exceptionally flat stretch of highway, that distorted image can become difficult to judge accurately. This does not explain every detail later attached to the Knowles story, but it offers a plausible mechanism for how an ordinary light might have appeared extraordinary to witnesses travelling through the Western Australian outback at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[eoas.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+One of the most discussed sceptical [explanations]({{ 'explanations-7a0dd2/' | relative_url }}) for the strange light reported during the 1988 Knowles incident on the [Nullarbor]({{ 'nullarbor/' | relative_url }}) is not a spacecraft at all, but a mirage created by atmospheric refraction. The idea is straightforward: under the right weather conditions, a distant light can appear brighter, higher, larger and more mobile than it really is. On a long, dark and exceptionally flat stretch of highway, that distorted image can become difficult to judge accurately. This does not explain every detail later attached to the Knowles story, but it offers a plausible mechanism for how an ordinary light might have appeared extraordinary to witnesses travelling through the Western Australian outback at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[eoas.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Within discussions of the Nullarbor case, the mirage theory matters because it addresses the earliest stage of the encounter: the appearance of a bright light ahead of the vehicle. If that initial perception was distorted, later interpretations of the event may also have been affected.
 ## The Museum of Lost Things
@@ -268,7 +268,7 @@ Within discussions of the Nullarbor case, the mirage theory matters because it a
 A mirage is not an imaginary object. It is a real image created when light bends while travelling through layers of air with different temperatures and densities. Atmospheric scientists describe this process as refraction. Under certain conditions, especially during a temperature inversion, light can curve downward rather than travelling in a straight line. The observer then sees the source in the wrong position and may perceive it as elevated, enlarged or strangely mobile.
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[eoas.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A temperature inversion occurs when cooler air sits near the ground while warmer air lies above it. This arrangement can produce what meteorologists call a superior mirage. In such cases, distant objects and lights can appear higher than their true position, and lights beyond the normal horizon can sometimes become visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[eoas.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A temperature inversion occurs when cooler air sits near the ground while warmer air lies above it. This arrangement can produce what meteorologists call a superior mirage. In such cases, distant objects and lights can appear higher than their true position, and lights beyond the normal horizon can sometimes become visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[eoas.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a driver on a dark highway, the effect can be particularly misleading because there are few visual reference points. A distant vehicle, roadhouse light or other artificial source may appear suspended above the ground. Turbulence within the air layers can also make the image shimmer, fluctuate in brightness or seem to move unpredictably.
 
@@ -286,9 +286,9 @@ The Nullarbor Plain provides conditions that can amplify problems of visual judg
 <img src="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_nullarbor_mirage_lig_291234-Illustration-2-dark.svg" | relative_url }}" alt="Mirage theory illustration 2" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_nullarbor_mirage_lig_291234-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_nullarbor_mirage_lig_291234-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Museum of Lost Things
 
-This matters because human perception relies heavily on context. In cities or towns, buildings, trees and other landmarks help people judge where a light is located. On the Nullarbor, those reference points are largely absent. A light that appears to hover, accelerate or change direction may actually be moving normally while the observer struggles to judge its true distance. Atmospheric distortion can worsen that uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/mirages/mirintro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[aty.sdsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">An Introduction to MiragesIt is incorrect to say (as even some textbooks do) that a mirage is an image in the wrong place, because atmosp...</span></span></span>
+This matters because human perception relies heavily on context. In cities or towns, buildings, trees and other landmarks help people judge where a light is located. On the Nullarbor, those reference points are largely absent. A light that appears to hover, accelerate or change direction may actually be moving normally while the observer struggles to judge its true distance. Atmospheric distortion can worsen that uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/mirages/mirintro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[aty.sdsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">An Introduction to MiragesIt is incorrect to say (as even some textbooks do) that a mirage is an image in the wrong place, because atmosp...</span></span></span>
 
-The region is also known for strong day–night temperature changes. While every inversion does not produce a dramatic mirage, the broad, open terrain can support the sort of layered air conditions that allow distant lights to be refracted over long distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[eoas.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The region is also known for strong day–night temperature changes. While every inversion does not produce a dramatic mirage, the broad, open terrain can support the sort of layered air conditions that allow distant lights to be refracted over long distances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[eoas.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For this reason, investigators looking for conventional explanations of the Knowles sighting have often focused on atmospheric conditions before considering more exotic possibilities. The first question becomes whether a distant light could have appeared abnormal before any later claims about vehicle effects entered the story.
 
@@ -308,210 +308,210 @@ Sudden changes in brightness.
 
 The impression that a distant light is moving independently.
 
-Difficulty judging distance and speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[eoas.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Difficulty judging distance and speed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[eoas.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-These effects fit the basic claim that the Knowles family saw an unusually bright light behaving in a confusing way on the remote highway. They also fit broader patterns seen in other reports where atmospheric refraction later proved important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/mirages/mirintro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[aty.sdsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">An Introduction to MiragesIt is incorrect to say (as even some textbooks do) that a mirage is an image in the wrong place, because atmosp...</span></span></span>
+These effects fit the basic claim that the Knowles family saw an unusually bright light behaving in a confusing way on the remote highway. They also fit broader patterns seen in other reports where atmospheric refraction later proved important.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/mirages/mirintro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[aty.sdsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">An Introduction to MiragesIt is incorrect to say (as even some textbooks do) that a mirage is an image in the wrong place, because atmosp...</span></span></span>
 
 However, the mirage theory does not explain every element of the later narrative. It does not by itself account for claims that the vehicle was lifted, that a tyre was damaged, or that unusual sounds and sensations were experienced inside the car. Sceptical interpretations generally treat those claims separately, suggesting that panic, misperception, vehicle problems or subsequent embellishment may have contributed to the more dramatic parts of the story. The mirage hypothesis addresses the light; it is not a complete explanation for every reported event.
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_nullarbor_mirage_lig_291234-Illustration-3-dark.svg" | relative_url }}" alt="Mirage theory illustration 3" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_nullarbor_mirage_lig_291234-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e_nullarbor_mirage_lig_291234-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Museum of Lost Things
 
-That distinction is important when assessing the Knowles case. The question is not whether a mirage proves the entire incident was misunderstood. Rather, it asks whether the most visually striking part of the encounter—the strange light in the night sky—could have originated from an ordinary source whose appearance was transformed by atmospheric conditions. In the context of the Nullarbor evidence and doubts, that remains one of the most plausible conventional explanations for the sighting's beginning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[eoas.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That distinction is important when assessing the Knowles case. The question is not whether a mirage proves the entire incident was misunderstood. Rather, it asks whether the most visually striking part of the encounter—the strange light in the night sky—could have originated from an ordinary source whose appearance was transformed by atmospheric conditions. In the context of the Nullarbor evidence and doubts, that remains one of the most plausible conventional explanations for the sighting's beginning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[eoas.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fY2gXIjcOZU" title="The 5 Strangest U.F.O. ENCOUNTERS in Australia | Australian Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fY2gXIjcOZU" target="_blank" rel="noopener noreferrer">The 5 Strangest U.F.O. ENCOUNTERS in Australia | Australian Aliens</a></p><p class="youtube-embed-meta">Channel: Shadow Matter</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fY2gXIjcOZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fY2gXIjcOZU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could a mirage explain the Nullarbor light?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could a mirage explain the Nullarbor light?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Light and Color in the Outdoors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yPj2BwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Light and Color in the Outdoors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Light and Color in the Outdoors">Light and Color in the Outdoors</a>
-        </h4>
-        <p class="fr-book-author">By Marcel Minnaert</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Light and Color in the Outdoors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yPj2BwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Light and Color in the Outdoors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Light and Color in the Outdoors">Light and Color in the Outdoors</a>
+</h4>
+<p class="fr-book-author">By Marcel Minnaert</p>
         
-        <p class="fr-book-desc">Explains mirages, atmospheric refraction, visual perception, and many optical effects that help contextualize mirage-based explanations f...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains mirages, atmospheric refraction, visual perception, and many optical effects that help contextualize mirage-based explanations f...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rainbows%2C+Halos+and+Glories+by+Greenler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rainbows, Halos and Glories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nF84AAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rainbows, Halos and Glories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rainbows%2C+Halos+and+Glories+by+Greenler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rainbows, Halos and Glories">Rainbows, Halos and Glories</a>
-        </h4>
-        <p class="fr-book-author">By Greenler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rainbows%2C+Halos+and+Glories+by+Greenler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rainbows, Halos and Glories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nF84AAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rainbows, Halos and Glories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rainbows%2C+Halos+and+Glories+by+Greenler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rainbows, Halos and Glories">Rainbows, Halos and Glories</a>
+</h4>
+<p class="fr-book-author">By Greenler</p>
         
-        <p class="fr-book-desc">Provides accessible explanations of atmospheric refraction and optical distortions relevant to mirage theories and misidentified distant...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rainbows%2C+Halos+and+Glories+by+Greenler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible explanations of atmospheric refraction and optical distortions relevant to mirage theories and misidentified distant...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rainbows%2C+Halos+and+Glories+by+Greenler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly supports critical assessment of UFO reports, witness testimony and misperception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly supports critical assessment of UFO reports, witness testimony and misperception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Focuses on how astronomical, atmospheric, and perceptual misidentifications can produce convincing UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on how astronomical, atmospheric, and perceptual misidentifications can produce convincing UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Light and Color in the Outdoors</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rainbows%2C+Halos+and+Glories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rainbows, Halos and Glories</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Light and Color in the Outdoors</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rainbows%2C+Halos+and+Glories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rainbows, Halos and Glories</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor"><img src="{{ '/assets/images/marketplace-covers/93b7705b16efcc7df5e4.jpg' | relative_url }}" alt="Listing image for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor"><img src="{{ '/assets/images/marketplace-covers/93b7705b16efcc7df5e4.jpg' | relative_url }}" alt="Listing image for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/1a9c77cbc02519118525.jpg' | relative_url }}" alt="Listing image for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/1a9c77cbc02519118525.jpg' | relative_url }}" alt="Listing image for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art"><img src="{{ '/assets/images/marketplace-covers/098191b5399fbef0e42b.jpg' | relative_url }}" alt="Listing image for Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art"><img src="{{ '/assets/images/marketplace-covers/098191b5399fbef0e42b.jpg' | relative_url }}" alt="Listing image for Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars"><img src="{{ '/assets/images/marketplace-covers/b028d6a6f9b6b9500ede.jpg' | relative_url }}" alt="Listing image for Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars"><img src="{{ '/assets/images/marketplace-covers/b028d6a6f9b6b9500ede.jpg' | relative_url }}" alt="Listing image for Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Planets Space Solar System Wall Sticker Mural Decal Print Art Astronomy Stars</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-nullarbor-light-western-australia-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -527,7 +527,7 @@ That distinction is important when assessing the Knowles case. The question is n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -547,7 +547,7 @@ That distinction is important when assessing the Knowles case. The question is n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -579,7 +579,7 @@ That distinction is important when assessing the Knowles case. The question is n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -631,7 +631,7 @@ That distinction is important when assessing the Knowles case. The question is n
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -676,7 +676,7 @@ That distinction is important when assessing the Knowles case. The question is n
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -717,101 +717,101 @@ That distinction is important when assessing the Knowles case. The question is n
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: eoas.ubc.ca  
-   Link: <a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
+   Link:<a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
+   Link:<a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aty.sdsu.edu  
-   Link: <a href="https://aty.sdsu.edu/mirages/mirintro.html" target="_blank" rel="noopener noreferrer nofollow">https://aty.sdsu.edu/mirages/mirintro.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Introduction to MiragesIt is incorrect to say (as even some textbooks do) that a mirage is an image in the wrong place, because atmosp...</p></details>
+   Link:<a href="https://aty.sdsu.edu/mirages/mirintro.html" target="_blank" rel="noopener noreferrer nofollow">https://aty.sdsu.edu/mirages/mirintro.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Introduction to MiragesIt is incorrect to say (as even some textbooks do) that a mirage is an image in the wrong place, because atmosp...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Atmospheric refraction  
-   Link: <a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mirage" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mirage" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Atmospheric optics  
-   Link: <a href="https://en.wikipedia.org/wiki/Atmospheric_optics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_optics</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Atmospheric_optics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_optics</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and other atomospheric optic phenomenaMirages are produced by atmospheric refraction and are mainly seen in settings where there are larg...</p></details>
+   Link:<a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and other atomospheric optic phenomenaMirages are produced by atmospheric refraction and are mainly seen in settings where there are larg...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheNTNews/posts/onlookers-right-across-the-top-of-australia-including-the-top-end-have-reported-/1501268398015460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNTNews/posts/onlookers-right-across-the-top-of-australia-including-the-top-end-have-reported-/1501268398015460/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>drones or celestial objects, rather than something alien.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/TheNTNews/posts/onlookers-right-across-the-top-of-australia-including-the-top-end-have-reported-/1501268398015460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNTNews/posts/onlookers-right-across-the-top-of-australia-including-the-top-end-have-reported-/1501268398015460/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>drones or celestial objects, rather than something alien.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage | Science | Research StartersA mirage is an optical illusion resulting from the refraction of light in the atmosphere, primarily o...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage | Science | Research StartersA mirage is an optical illusion resulting from the refraction of light in the atmosphere, primarily o...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-9.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerPerhaps the most blatant example of omitting the prosaic explanation of a UFO event is in the recounting of the encount...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-9.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerPerhaps the most blatant example of omitting the prosaic explanation of a UFO event is in the recounting of the encount...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/640223543/Untitled" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/640223543/Untitled</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vehicle interference effect cases are those in which a UFO sighting has included reported effects on the operation of a...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/640223543/Untitled" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/640223543/Untitled</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vehicle interference effect cases are those in which a UFO sighting has included reported effects on the operation of a...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nullarborroadhouse.com.au  
    Title: Nullarbor Roadhouse Hidden secrets on the Nullarbor Plain  
-   Link: <a href="https://nullarborroadhouse.com.au/hidden-secrets-nullarbor-plain-ufo-edition/" target="_blank" rel="noopener noreferrer nofollow">https://nullarborroadhouse.com.au/hidden-secrets-nullarbor-plain-ufo-edition/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO edition.25 May 2017 — This story entails an unexpected visitor encountered by the Knowles family on their trip across the Nullarbor P...</p></details>
+   Link:<a href="https://nullarborroadhouse.com.au/hidden-secrets-nullarbor-plain-ufo-edition/" target="_blank" rel="noopener noreferrer nofollow">https://nullarborroadhouse.com.au/hidden-secrets-nullarbor-plain-ufo-edition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO edition.25 May 2017 — This story entails an unexpected visitor encountered by the Knowles family on their trip across the Nullarbor P...</p></details>
    Published: May 2017  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: Encounters: Light, Legends, and UFO Episode 14  
-   Link: <a href="https://www.instagram.com/p/DY8X336AYFP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY8X336AYFP/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Listen...#mystery #unknown #ghost #paranormal #ufo #uap #alien #history #haunted #minminlights · July 11, 2025. OCR. Min Min lights spir...</p></details>
+   Link:<a href="https://www.instagram.com/p/DY8X336AYFP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY8X336AYFP/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Listen...#mystery #unknown #ghost #paranormal #ufo #uap #alien #history #haunted #minminlights · July 11, 2025. OCR. Min Min lights spir...</p></details>
    Published: July 11, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bends due to temperature changes causing an inferior mirage.Read more...</p></details>
+   Link:<a href="https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bends due to temperature changes causing an inferior mirage.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mostamazingtop10videos/posts/mysterious-anomalies-discovered-in-the-australian-outback-scientists-cannot-expl/1026162892214843/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mostamazingtop10videos/posts/mysterious-anomalies-discovered-in-the-australian-outback-scientists-cannot-expl/1026162892214843/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ast Nullarbor: the perfect place for alien activity?Read more...</p></details>
+   Link:<a href="https://www.facebook.com/mostamazingtop10videos/posts/mysterious-anomalies-discovered-in-the-australian-outback-scientists-cannot-expl/1026162892214843/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mostamazingtop10videos/posts/mysterious-anomalies-discovered-in-the-australian-outback-scientists-cannot-expl/1026162892214843/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ast Nullarbor: the perfect place for alien activity?Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVS18dkCceF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVS18dkCceF/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 11, 2025. OCR. Min Min lights spirits, UFOs, or...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DVS18dkCceF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVS18dkCceF/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 11, 2025. OCR. Min Min lights spirits, UFOs, or...</p></details>
    Published: July 11, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/883854765125582/posts/3461393904038309/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/883854765125582/posts/3461393904038309/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a Fata Morgana. From what I understand, it requires...</p></details>
+   Link:<a href="https://www.facebook.com/groups/883854765125582/posts/3461393904038309/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/883854765125582/posts/3461393904038309/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a Fata Morgana. From what I understand, it requires...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DT7tHUwkjDC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DT7tHUwkjDC/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lone roads, open plains, and a flicker on the horizon… The...#mystery #unknown #ghost #paranormal #ufo #uap #alien #history #haunted #mi...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DT7tHUwkjDC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DT7tHUwkjDC/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lone roads, open plains, and a flicker on the horizon… The...#mystery #unknown #ghost #paranormal #ufo #uap #alien #history #haunted #mi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: heraldsun.com.au  
-   Link: <a href="https://www.heraldsun.com.au/news/national/south-australias-x-files-part-1--family-car-attacked-by-ufo-baffling-crop-circles/news-story/b5f666573304cd1f7b36c8baa63ee82c" target="_blank" rel="noopener noreferrer nofollow">https://www.heraldsun.com.au/news/national/south-australias-x-files-part-1--family-car-attacked-by-ufo-baffling-crop-circles/news-story/b5f666573304cd1f7b36c8baa63ee82c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The discovery was immediately attributed to UFOs by the late SA crop circle expert and “Mr UFO” Colin Norris...Read more...</p></details>
+   Link:<a href="https://www.heraldsun.com.au/news/national/south-australias-x-files-part-1--family-car-attacked-by-ufo-baffling-crop-circles/news-story/b5f666573304cd1f7b36c8baa63ee82c" target="_blank" rel="noopener noreferrer nofollow">https://www.heraldsun.com.au/news/national/south-australias-x-files-part-1--family-car-attacked-by-ufo-baffling-crop-circles/news-story/b5f666573304cd1f7b36c8baa63ee82c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The discovery was immediately attributed to UFOs by the late SA crop circle expert and “Mr UFO” Colin Norris...Read more...</p></details>

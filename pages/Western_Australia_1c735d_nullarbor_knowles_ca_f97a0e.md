@@ -286,38 +286,38 @@ image: /assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e-overv
 
 ## Introduction
 
-The Nullarbor Knowles incident did not prove that a craft lifted a family car from the Eyre Highway. It did, however, become [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }})’s most famous border-region UFO story because it combined a frightened family, apparent vehicle damage, police attention, other reported lights and a setting already perfect for dramatic night-time misperception. On 20 January 1988, Faye Knowles and her sons Patrick, Sean and Wayne reported that a bright object pursued them near Mundrabilla, close to the WA–South Australia border, before appearing to land on or lift their car. Early newspaper reports said police took the account seriously because the family were shaken and the car appeared damaged and dusty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reported - Trove...</span></span></span>
+The Nullarbor Knowles incident did not prove that a craft lifted a family car from the Eyre Highway. It did, however, become [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }})’s most famous border-region UFO story because it combined a frightened family, apparent vehicle damage, police attention, other reported lights and a setting already perfect for dramatic night-time misperception. On 20 January 1988, Faye Knowles and her sons Patrick, Sean and Wayne reported that a bright object pursued them near Mundrabilla, close to the WA–South Australia border, before appearing to land on or lift their car. Early newspaper reports said police took the account seriously because the family were shaken and the car appeared damaged and dusty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reported - Trove...</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e-overview.webp" | relative_url }}" alt="Overview image for Nullarbor" loading="eager" decoding="sync" fetchpriority="high">
-The best later explanation is much less spectacular: a distant light distorted by atmospheric refraction, followed by panic, high-speed driving, a tyre failure, brake dust and a story that grew under intense media pressure. That does not require calling the witnesses liars. It means the strongest physical and meteorological evidence weakens the extraordinary version of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open our most mysterious UFO cases - ABC News...</span></span></span>
+The best later explanation is much less spectacular: a distant light distorted by atmospheric refraction, followed by panic, high-speed driving, a tyre failure, brake dust and a story that grew under intense media pressure. That does not require calling the witnesses liars. It means the strongest physical and meteorological evidence weakens the extraordinary version of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open our most mysterious UFO cases - ABC News...</span></span></span>
 
 ## What the Knowles family said happened
 
-The reported encounter took place in the early hours of 20 January 1988 while the Knowles family were travelling east along the Eyre Highway, about 40 kilometres west of Mundrabilla Roadhouse. The first reports described Faye Knowles and her three sons as seeing a glowing object ahead of them at about 2.45 am, although later technical discussion placed the timing closer to 4.20 am Central Daylight Saving Time. The light was described as bright white with a yellow centre and shaped like an egg in an eggcup. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reported - Trove...</span></span></span>
+The reported encounter took place in the early hours of 20 January 1988 while the Knowles family were travelling east along the Eyre Highway, about 40 kilometres west of Mundrabilla Roadhouse. The first reports described Faye Knowles and her three sons as seeing a glowing object ahead of them at about 2.45 am, although later technical discussion placed the timing closer to 4.20 am Central Daylight Saving Time. The light was described as bright white with a yellow centre and shaped like an egg in an eggcup.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reported - Trove...</span></span></span>
 
-The most dramatic part of the claim was not merely that they saw a strange light. According to the early press account preserved by Trove, the family said the object chased a truck and another car travelling in the opposite direction, then turned back towards the Knowles vehicle, landed on it, lifted it, shook it and forced it back down hard enough to blow a tyre. They also reported distorted voices, a sense that speech had slowed, and that the vehicle had been turned around on the road. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reported - Trove...</span></span></span>
+The most dramatic part of the claim was not merely that they saw a strange light. According to the early press account preserved by Trove, the family said the object chased a truck and another car travelling in the opposite direction, then turned back towards the Knowles vehicle, landed on it, lifted it, shook it and forced it back down hard enough to blow a tyre. They also reported distorted voices, a sense that speech had slowed, and that the vehicle had been turned around on the road.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reported - Trove...</span></span></span>
 
-This is why the case became folklore rather than just another outback light sighting. It had a road-trip setting, a terrified family, an alleged physical interaction with a car, and police officers who did not instantly dismiss the report. Sergeant Fred Longley of Ceduna police was quoted as saying there were “too many witnesses” not to take the matter seriously, and that the car was damaged and covered in an ash-like substance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reported - Trove...</span></span></span>
+This is why the case became folklore rather than just another outback light sighting. It had a road-trip setting, a terrified family, an alleged physical interaction with a car, and police officers who did not instantly dismiss the report. Sergeant Fred Longley of Ceduna police was quoted as saying there were “too many witnesses” not to take the matter seriously, and that the car was damaged and covered in an ash-like substance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reported - Trove...</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e-Illustration-1-dark.svg" | relative_url }}" alt="Nullarbor illustration 1" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the story looked strong at first
 
-At first glance, the Knowles case had several features UFO investigators usually want: multiple witnesses in one vehicle, immediate reporting to police, apparent physical traces, and possible independent sightings. The family drove to Ceduna and reported the incident, where crime scene investigators happened to be available to examine the car. That gave the case a stronger documentary trail than many remote-road UFO stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reported - Trove...</span></span></span>
+At first glance, the Knowles case had several features UFO investigators usually want: multiple witnesses in one vehicle, immediate reporting to police, apparent physical traces, and possible independent sightings. The family drove to Ceduna and reported the incident, where crime scene investigators happened to be available to examine the car. That gave the case a stronger documentary trail than many remote-road UFO stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1988 - UFO encounter on Nullarbor Plain reported - Trove...</span></span></span>
 
-The apparent corroboration also mattered. Early reporting said a truck driver and another car driver had seen the object, and later accounts noted that Graham Henley, a truck driver travelling ahead of the Knowles family, reported seeing a white-yellow light that was too high to be an ordinary vehicle light and that disappeared and reappeared. A tuna boat in the Great Australian Bight also reported a strange light that night, though later analysis placed it hundreds of kilometres away and lacking enough direction or elevation detail to tie it firmly to the family’s sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">The SkepticFrom the archives: The 1988 Nullarbor UFO Mystery – Solved - The Skeptic...</span></span></span>
+The apparent corroboration also mattered. Early reporting said a truck driver and another car driver had seen the object, and later accounts noted that Graham Henley, a truck driver travelling ahead of the Knowles family, reported seeing a white-yellow light that was too high to be an ordinary vehicle light and that disappeared and reappeared. A tuna boat in the Great Australian Bight also reported a strange light that night, though later analysis placed it hundreds of kilometres away and lacking enough direction or elevation detail to tie it firmly to the family’s sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">The SkepticFrom the archives: The 1988 Nullarbor UFO Mystery – Solved - The Skeptic...</span></span></span>
 
-UFO researcher Keith Basterfield later told ABC that, when the incident occurred, it looked like the kind of case where “hard science” might be possible: there was a vehicle, reported dust, several witnesses and a claim of physical effects. That is precisely what made the case important. It was not just a story about a light in the sky; it offered testable claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open our most mysterious UFO cases - ABC News...</span></span></span>
+UFO researcher Keith Basterfield later told ABC that, when the incident occurred, it looked like the kind of case where “hard science” might be possible: there was a vehicle, reported dust, several witnesses and a claim of physical effects. That is precisely what made the case important. It was not just a story about a light in the sky; it offered testable claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open our most mysterious UFO cases - ABC News...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sEczN_8Q380" title="Secrets of the UFOs | Full Documentary | 7NEWS Spotlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sEczN_8Q380" target="_blank" rel="noopener noreferrer">Secrets of the UFOs | Full Documentary | 7NEWS Spotlight</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 4.5M &middot; Uploaded: December 2021 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sEczN_8Q380" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sEczN_8Q380">Open on YouTube</a></p></div></div></div>
 
 ## The car evidence weakened the extraordinary claim
 
-The turning point is that the physical evidence did not hold up as well as the first reports suggested. A later sceptical investigation by retired South Australian Bureau of Meteorology regional director A. T. Brunt said the car was inspected several times by police and UFO research groups, but those inspections found nothing unusual about it. The alleged black ash was not confirmed as mysterious material; the black deposit found on the metal rims of the two front tyres was described as consistent with brake-lining material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">The SkepticFrom the archives: The 1988 Nullarbor UFO Mystery – Solved - The Skeptic...</span></span></span>
+The turning point is that the physical evidence did not hold up as well as the first reports suggested. A later sceptical investigation by retired South Australian Bureau of Meteorology regional director A. T. Brunt said the car was inspected several times by police and UFO research groups, but those inspections found nothing unusual about it. The alleged black ash was not confirmed as mysterious material; the black deposit found on the metal rims of the two front tyres was described as consistent with brake-lining material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">The SkepticFrom the archives: The 1988 Nullarbor UFO Mystery – Solved - The Skeptic...</span></span></span>
 
-The tyre damage also had an ordinary pathway. Brunt reported that the rear right tyre had burst in a normal manner consistent with high-speed driving, leaving rubber marks on the wheel arch. The roof dents were described as insignificant, with no proof that they had not already been present before the encounter. ABC’s later account reached the same broad conclusion: forensic testing found nothing unusual, and Basterfield interpreted the vibration and dust as consistent with a tyre failure and brake dust entering the vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">The SkepticFrom the archives: The 1988 Nullarbor UFO Mystery – Solved - The Skeptic...</span></span></span>
+The tyre damage also had an ordinary pathway. Brunt reported that the rear right tyre had burst in a normal manner consistent with high-speed driving, leaving rubber marks on the wheel arch. The roof dents were described as insignificant, with no proof that they had not already been present before the encounter. ABC’s later account reached the same broad conclusion: forensic testing found nothing unusual, and Basterfield interpreted the vibration and dust as consistent with a tyre failure and brake dust entering the vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">The SkepticFrom the archives: The 1988 Nullarbor UFO Mystery – Solved - The Skeptic...</span></span></span>
 
 That matters because the alleged physical effects are the part of the story that would have moved the case beyond witness testimony. Once the ash, dents and tyre damage become explainable without a craft, the case rests mainly on what frightened people thought they saw and felt during a confused night-time episode.
 
@@ -325,22 +325,22 @@ That matters because the alleged physical effects are the part of the story that
 <img src="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e-Illustration-2-dark.svg" | relative_url }}" alt="Nullarbor illustration 2" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The mirage explanation fits the Nullarbor setting
 
-The strongest sceptical explanation is not simply “they saw a truck”. It is more specific: they may have seen a distant vehicle light distorted by a temperature inversion. A temperature inversion occurs when warmer air sits above colder air, bending light and making distant objects appear displaced, enlarged, raised above the horizon, distorted in shape or strangely mobile. Brunt’s analysis found marked inversions near the relevant area and argued that the Knowles light had the right features for a refracted distant light: white-yellow colour, apparent jumping, vertical elongation and sudden disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">The SkepticFrom the archives: The 1988 Nullarbor UFO Mystery – Solved - The Skeptic...</span></span></span>
+The strongest sceptical explanation is not simply “they saw a truck”. It is more specific: they may have seen a distant vehicle light distorted by a temperature inversion. A temperature inversion occurs when warmer air sits above colder air, bending light and making distant objects appear displaced, enlarged, raised above the horizon, distorted in shape or strangely mobile. Brunt’s analysis found marked inversions near the relevant area and argued that the Knowles light had the right features for a refracted distant light: white-yellow colour, apparent jumping, vertical elongation and sudden disappearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">The SkepticFrom the archives: The 1988 Nullarbor UFO Mystery – Solved - The Skeptic...</span></span></span>
 
-The Nullarbor is especially suited to this kind of mistake. Brunt described the region as having dry desert conditions, sparse traffic, little city light and flat, wide horizons. Under calm, clear conditions, distant truck or train lights can appear in the sky long before the actual vehicle is close. He compared the effect with Australian Min Min lights, often explained as distant lights refracted by inversion layers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">The SkepticFrom the archives: The 1988 Nullarbor UFO Mystery – Solved - The Skeptic...</span></span></span>
+The Nullarbor is especially suited to this kind of mistake. Brunt described the region as having dry desert conditions, sparse traffic, little city light and flat, wide horizons. Under calm, clear conditions, distant truck or train lights can appear in the sky long before the actual vehicle is close. He compared the effect with Australian Min Min lights, often explained as distant lights refracted by inversion layers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">The SkepticFrom the archives: The 1988 Nullarbor UFO Mystery – Solved - The Skeptic...</span></span></span>
 
-This explanation also preserves an important part of the witnesses’ experience: the light could genuinely have looked strange. A mirage is not a casual excuse for “nothing happened”. It is an optical effect that can make a real distant light appear larger, nearer, higher, brighter or oddly shaped. In this case, Brunt suggested the family’s first impression — that they were seeing an approaching truck light — may have been basically right, but that refraction made the image frightening and bizarre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">The SkepticFrom the archives: The 1988 Nullarbor UFO Mystery – Solved - The Skeptic...</span></span></span>
+This explanation also preserves an important part of the witnesses’ experience: the light could genuinely have looked strange. A mirage is not a casual excuse for “nothing happened”. It is an optical effect that can make a real distant light appear larger, nearer, higher, brighter or oddly shaped. In this case, Brunt suggested the family’s first impression — that they were seeing an approaching truck light — may have been basically right, but that refraction made the image frightening and bizarre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">from the archives the 1988 nullarbor ufo mystery solved</span><span class="citation-popover-snippet">The SkepticFrom the archives: The 1988 Nullarbor UFO Mystery – Solved - The Skeptic...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vvjSOp8O5NE" title="Family Say They Where Attacked by A UFO - Knowles Family Nullarbor 1988" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vvjSOp8O5NE" target="_blank" rel="noopener noreferrer">Family Say They Where Attacked by A UFO - Knowles Family Nullarbor 1988</a></p><p class="youtube-embed-meta">Channel: Info-Collector-Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vvjSOp8O5NE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vvjSOp8O5NE">Open on YouTube</a></p></div></div></div>
 
 ## Fear, speed and fatigue may explain the rest
 
-The Knowles incident is easiest to understand as a chain reaction. A remote highway at night, a strange distorted light, uncertainty about distance, and an exhausted road-trip setting created the conditions for panic. Once Sean Knowles accelerated, a tyre failure at high speed could have produced violent vibration, noise, smoke, dust and the sensation that something external was attacking the car. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open our most mysterious UFO cases - ABC News...</span></span></span>
+The Knowles incident is easiest to understand as a chain reaction. A remote highway at night, a strange distorted light, uncertainty about distance, and an exhausted road-trip setting created the conditions for panic. Once Sean Knowles accelerated, a tyre failure at high speed could have produced violent vibration, noise, smoke, dust and the sensation that something external was attacking the car.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open our most mysterious UFO cases - ABC News...</span></span></span>
 
 The voice distortion and time-slowing claims are harder to test. They are common features of frightening experiences: people under acute stress may later describe altered perception, slowed time, muffled sound or confused sequences. That does not prove the family invented the details. It does mean those details are weak evidence for a physical object because they are subjective and arose during panic.
 
-The media then amplified the case. ABC later noted that the story made headlines around the world, while Brunt wrote that the January 1988 reports were widely covered in Australian media. A dramatic phrase such as “UFO attack” can freeze an early interpretation before the slower technical work catches up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open our most mysterious UFO cases - ABC News...</span></span></span>
+The media then amplified the case. ABC later noted that the story made headlines around the world, while Brunt wrote that the January 1988 reports were widely covered in Australian media. A dramatic phrase such as “UFO attack” can freeze an early interpretation before the slower technical work catches up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open our most mysterious UFO cases - ABC News...</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e-Illustration-3-dark.svg" | relative_url }}" alt="Nullarbor illustration 3" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_nullarbor_knowles_ca_f97a0e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -355,194 +355,194 @@ What it does not prove is that a UFO lifted a car. The later evidence points the
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Nullarbor Case Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Nullarbor Case Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly supports critical assessment of UFO reports, witness testimony and misperception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly supports critical assessment of UFO reports, witness testimony and misperception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for how major UFO cases have been classified and debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how major UFO cases have been classified and debated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Examines UFO reports through conventional explanations, matching the article&#x27;s evidential approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines UFO reports through conventional explanations, matching the article&#x27;s evidential approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Places famous sightings such as the Knowles case within the broader UFO mythos.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places famous sightings such as the Knowles case within the broader UFO mythos.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="{{ '/assets/images/marketplace-covers/d0cbf96926a44bce4722.jpg' | relative_url }}" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="{{ '/assets/images/marketplace-covers/d0cbf96926a44bce4722.jpg' | relative_url }}" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color"><img src="{{ '/assets/images/marketplace-covers/f43222bff5987d254054.jpg' | relative_url }}" alt="Listing image for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color"><img src="{{ '/assets/images/marketplace-covers/f43222bff5987d254054.jpg' | relative_url }}" alt="Listing image for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/8a4534533a90e386a891.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/8a4534533a90e386a891.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/107817cab6cbf7458710.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/107817cab6cbf7458710.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nullarbor-did-the-nullarbor-case-prove-anything-western-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ What it does not prove is that a UFO lifted a car. The later evidence points the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ What it does not prove is that a UFO lifted a car. The later evidence points the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ What it does not prove is that a UFO lifted a car. The later evidence points the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ What it does not prove is that a UFO lifted a car. The later evidence points the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ What it does not prove is that a UFO lifted a car. The later evidence points the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,72 +748,72 @@ What it does not prove is that a UFO lifted a car. The later evidence points the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/101971256</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 1988 - UFO encounter on Nullarbor Plain reported - Trove...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/101971256" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/101971256</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 1988 - UFO encounter on Nullarbor Plain reported - Trove...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open our most mysterious UFO cases - ABC News...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsSouth Australia&#x27;s X-Files: Curious Adelaide cracks open our most mysterious UFO cases - ABC News...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skeptic.org.uk  
    Title: from the archives the 1988 nullarbor ufo mystery solved  
-   Link: <a href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticFrom the archives: The 1988 Nullarbor UFO Mystery – Solved - The Skeptic...</p></details>
+   Link:<a href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticFrom the archives: The 1988 Nullarbor UFO Mystery – Solved - The Skeptic...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1313851385327540/posts/8985229564856312/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1313851385327540/posts/8985229564856312/</a>  
+   Link:<a href="https://www.facebook.com/groups/1313851385327540/posts/8985229564856312/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1313851385327540/posts/8985229564856312/</a>  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=k0Wwjn1Ebz4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=k0Wwjn1Ebz4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Remarkable Knowles Family UFO Encounter Incident in Mundrabilla, Australia (1988) - FindingUFO...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=k0Wwjn1Ebz4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=k0Wwjn1Ebz4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Remarkable Knowles Family UFO Encounter Incident in Mundrabilla, Australia (1988) - FindingUFO...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Secrets of the UFOs | Full Documentary | 7NEWS Spotlight  
-   Link: <a href="http://www.youtube.com/watch?v=sEczN_8Q380" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sEczN_8Q380</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowles family UFO incident Nullarbor 1988 The Knowles Family Encounter(January 20, 1988 – Nullarbor Plain, Australia) #UFO #RealCase Tru...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=sEczN_8Q380" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sEczN_8Q380</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knowles family UFO incident Nullarbor 1988 The Knowles Family Encounter(January 20, 1988 – Nullarbor Plain, Australia) #UFO #RealCase Tru...</p></details>
    Published: January 20, 1988  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=HSAlt9TRB2s" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HSAlt9TRB2s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Family Say They Where Attacked by A UFO - Knowles Family Nullarbor 1988...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=HSAlt9TRB2s" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HSAlt9TRB2s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Family Say They Where Attacked by A UFO - Knowles Family Nullarbor 1988...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=hNe0xtc6q64" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hNe0xtc6q64</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Australian Family Knowles UFO Encounter &amp; Interview with other Eyewitnesses (1988) - FindingUFO...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=hNe0xtc6q64" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hNe0xtc6q64</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Australian Family Knowles UFO Encounter &amp; Interview with other Eyewitnesses (1988) - FindingUFO...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Family Say They Where Attacked by A UFO  
-   Link: <a href="http://www.youtube.com/watch?v=vvjSOp8O5NE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vvjSOp8O5NE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Secrets of the UFOs | Full Documentary | 7NEWS Spotlight...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vvjSOp8O5NE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vvjSOp8O5NE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secrets of the UFOs | Full Documentary | 7NEWS Spotlight...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/</a>  
+   Link:<a href="https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSCQ/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/1357592719727717/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/kbcat/kbnulla.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbnulla.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kbnulla.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbnulla.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/</a>  
+   Link:<a href="https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/videos/did-you-happen-to-see-this-mysterious-ufo-an-expert-reveals-what-the-unusual-sig/856929463667961/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-9.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-9.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/midlandhistory/posts/the-knowles-family-from-midland-were-on-their-way-to-victoria-when-they-encounte/1829228620755899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/midlandhistory/posts/the-knowles-family-from-midland-were-on-their-way-to-victoria-when-they-encounte/1829228620755899/</a>  
+   Link:<a href="https://www.facebook.com/midlandhistory/posts/the-knowles-family-from-midland-were-on-their-way-to-victoria-when-they-encounte/1829228620755899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/midlandhistory/posts/the-knowles-family-from-midland-were-on-their-way-to-victoria-when-they-encounte/1829228620755899/</a>  

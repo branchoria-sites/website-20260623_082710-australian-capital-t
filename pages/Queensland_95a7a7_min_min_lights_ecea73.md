@@ -286,7 +286,7 @@ image: /assets/images/Queensland_95a7a7_min_min_lights_ecea73-overview-social.jp
 
 ## Introduction
 
-Min Min lights are not a single [Queensland]({{ 'queenslands-ufo-stories-evidence-and/' | relative_url }}) “UFO case” so much as a recurring outback light tradition centred on Boulia and the western road network. Witnesses usually describe small, bright balls or patches of light near the horizon, sometimes white, yellow, blue or red, that seem to hover, retreat, approach or follow vehicles. That behaviour is why the lights have often been folded into UFO retellings. The best scientific explanation, however, is not a spacecraft but an optical mirage: distant headlights, campfires or other light sources refracted through layers of cold and warm air under a temperature inversion. That does not make every sighting automatically solved, but it does explain why western Queensland roads can produce lights that feel intelligent, close and impossible to place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiasomuchtosee.com/linked/minminceo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiasomuchtosee.com">[australiasomuchtosee.com+2News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiasomuchtosee.com</span><span class="citation-popover-snippet">110. The Min Min light and the Fata Morgana Pettigrew of the phenomenon. Finally, I will...Read more...</span></span></span>
+Min Min lights are not a single [Queensland]({{ 'queenslands-ufo-stories-evidence-and/' | relative_url }}) “UFO case” so much as a recurring outback light tradition centred on Boulia and the western road network. Witnesses usually describe small, bright balls or patches of light near the horizon, sometimes white, yellow, blue or red, that seem to hover, retreat, approach or follow vehicles. That behaviour is why the lights have often been folded into UFO retellings. The best scientific explanation, however, is not a spacecraft but an optical mirage: distant headlights, campfires or other light sources refracted through layers of cold and warm air under a temperature inversion. That does not make every sighting automatically solved, but it does explain why western Queensland roads can produce lights that feel intelligent, close and impossible to place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiasomuchtosee.com/linked/minminceo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiasomuchtosee.com">[australiasomuchtosee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiasomuchtosee.com</span><span class="citation-popover-snippet">110. The Min Min light and the Fata Morgana Pettigrew of the phenomenon. Finally, I will...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_min_min_lights_ecea73-overview.webp" | relative_url }}" alt="Overview image for Min Min Lights" loading="eager" decoding="sync" fetchpriority="high">
@@ -294,11 +294,11 @@ For Queensland’s UFO history, Min Min lights matter because they sit at the bo
 
 ## Where the lights are reported
 
-The Queensland centre of the Min Min story is Boulia, south of Mount Isa, where local tourism has long embraced the lights as part of the town’s identity. Boulia Shire Council describes the Min Min Encounter as a visitor attraction built around stories of “unexplained balls of glowing light”, with the first recorded local sighting placed at a Cobb and Co staging site in the shire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boulia.qld.gov.au/Tourism/Min-Min-Encounter-Visitor-Information-Centre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boulia.qld.gov.au">[Boulia Shire Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boulia.qld.gov.au</span><span class="citation-popover-snippet">Open source on qld.gov.au.</span></span></span> The wider outback tourism material describes the light as ground-based, often about the size of a football and usually around eye level, which is important: many reports are not of a high aircraft-like object but of a puzzling light apparently close to the road or horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outbackqueensland.com.au/attractions/min-min-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outbackqueensland.com.au">[Outback Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outbackqueensland.com.au</span><span class="citation-popover-title">min min encounter</span><span class="citation-popover-snippet">min min encounter</span></span></span>
+The Queensland centre of the Min Min story is Boulia, south of Mount Isa, where local tourism has long embraced the lights as part of the town’s identity. Boulia Shire Council describes the Min Min Encounter as a visitor attraction built around stories of “unexplained balls of glowing light”, with the first recorded local sighting placed at a Cobb and Co staging site in the shire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boulia.qld.gov.au/Tourism/Min-Min-Encounter-Visitor-Information-Centre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boulia.qld.gov.au">[Boulia Shire Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boulia.qld.gov.au</span><span class="citation-popover-snippet">Open source on qld.gov.au.</span></span></span> The wider outback tourism material describes the light as ground-based, often about the size of a football and usually around eye level, which is important: many reports are not of a high aircraft-like object but of a puzzling light apparently close to the road or horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outbackqueensland.com.au/attractions/min-min-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outbackqueensland.com.au">[Outback Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outbackqueensland.com.au</span><span class="citation-popover-title">min min encounter</span><span class="citation-popover-snippet">min min encounter</span></span></span>
 
-The name is commonly linked to the old Min Min locality between Boulia and Winton, with popular accounts saying a stockman saw a strange light there in 1918. Local retellings also connect the phenomenon to earlier Aboriginal stories, though details vary by region and source, and care is needed not to flatten distinct Indigenous traditions into one generic legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bouliacamelraces.com.au/the-min-min-light/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bouliacamelraces.com.au">[Boulia Camel Races]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bouliacamelraces.com.au</span><span class="citation-popover-title">Boulia Camel Races The Min Min Light!</span><span class="citation-popover-snippet">Boulia Camel Races The Min Min Light!</span></span></span> The ABC’s reporting on Min Min lights, for example, includes Kimberley accounts in which some Aboriginal people understand the lights as spirits connected with country; that is valuable cultural context, but it is not the same as evidence that every Queensland sighting has the same origin or meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">min min lights seen in outback</span><span class="citation-popover-snippet">min min lights seen in outback</span></span></span>
+The name is commonly linked to the old Min Min locality between Boulia and Winton, with popular accounts saying a stockman saw a strange light there in 1918. Local retellings also connect the phenomenon to earlier Aboriginal stories, though details vary by region and source, and care is needed not to flatten distinct Indigenous traditions into one generic legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bouliacamelraces.com.au/the-min-min-light/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bouliacamelraces.com.au">[Boulia Camel Races]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bouliacamelraces.com.au</span><span class="citation-popover-title">Boulia Camel Races The Min Min Light!</span><span class="citation-popover-snippet">Boulia Camel Races The Min Min Light!</span></span></span> The ABC’s reporting on Min Min lights, for example, includes Kimberley accounts in which some Aboriginal people understand the lights as spirits connected with country; that is valuable cultural context, but it is not the same as evidence that every Queensland sighting has the same origin or meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">min min lights seen in outback</span><span class="citation-popover-snippet">min min lights seen in outback</span></span></span>
 
-The road setting is central. Boulia promotes itself as “the land of the Min Min lights”, and ABC reporting notes roadside warning-style tourism signs telling visitors they may spot the lights while driving for the next 120 kilometres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">min min lights seen in outback</span><span class="citation-popover-snippet">min min lights seen in outback</span></span></span> That matters because many UFO-like Min Min accounts involve motorists or truck drivers at night, not observers using instruments from a fixed survey point. A light seen from a moving vehicle on a flat road can appear to move with the witness, especially when there are few landmarks and the true source is beyond the visible horizon.
+The road setting is central. Boulia promotes itself as “the land of the Min Min lights”, and ABC reporting notes roadside warning-style tourism signs telling visitors they may spot the lights while driving for the next 120 kilometres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">min min lights seen in outback</span><span class="citation-popover-snippet">min min lights seen in outback</span></span></span> That matters because many UFO-like Min Min accounts involve motorists or truck drivers at night, not observers using instruments from a fixed survey point. A light seen from a moving vehicle on a flat road can appear to move with the witness, especially when there are few landmarks and the true source is beyond the visible horizon.
 
 
 <img src="{{ "/assets/images/Queensland_95a7a7_min_min_lights_ecea73-Illustration-1-dark.svg" | relative_url }}" alt="Min Min Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Queensland_95a7a7_min_min_lights_ecea73-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Queensland_95a7a7_min_min_lights_ecea73-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -306,24 +306,24 @@ The road setting is central. Boulia promotes itself as “the land of the Min Mi
 
 The outback does not merely provide a dramatic backdrop; it changes what the eye and brain have to work with. On a western Queensland road at night, there may be no street lighting, few buildings, little traffic, a low horizon and long stretches with almost no close reference points. A single distant light can therefore look nearer, lower or stranger than it would in a town.
 
-Professor Jack Pettigrew’s 2003 paper in *Clinical and Experimental Optometry* is the key scientific source for the modern explanation. Pettigrew argued that the Min Min light is often an inverted mirage, or Fata Morgana, created when a temperature inversion bends light over long distances. His explanation was based on direct observations and a field demonstration in the Channel Country of western Queensland, not simply on armchair scepticism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiasomuchtosee.com/linked/minminceo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiasomuchtosee.com">[australiasomuchtosee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiasomuchtosee.com</span><span class="citation-popover-snippet">110. The Min Min light and the Fata Morgana Pettigrew of the phenomenon. Finally, I will...Read more...</span></span></span>
+Professor Jack Pettigrew’s 2003 paper in *Clinical and Experimental Optometry* is the key scientific source for the modern explanation. Pettigrew argued that the Min Min light is often an inverted mirage, or Fata Morgana, created when a temperature inversion bends light over long distances. His explanation was based on direct observations and a field demonstration in the Channel Country of western Queensland, not simply on armchair scepticism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiasomuchtosee.com/linked/minminceo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiasomuchtosee.com">[australiasomuchtosee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiasomuchtosee.com</span><span class="citation-popover-snippet">110. The Min Min light and the Fata Morgana Pettigrew of the phenomenon. Finally, I will...Read more...</span></span></span>
 
-A temperature inversion happens when cooler, denser air lies near the ground with warmer air above it. Queensland Government material explains this structure in the context of air pollution: stable air can trap material near the surface because cooler air sits below warmer air instead of mixing normally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qld.gov.au/environment/management/monitoring/air/air-monitoring/meteorology-influence/meteorology-inversions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Queensland Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Queensland Government Inversions</span><span class="citation-popover-snippet">Queensland Government Inversions</span></span></span> For light, the important point is refraction. When light passes through air layers of different density, it bends. In the right conditions, a distant light source that should be hidden below the horizon can be carried to an observer and appear as a hovering or oddly mobile light.
+A temperature inversion happens when cooler, denser air lies near the ground with warmer air above it. Queensland Government material explains this structure in the context of air pollution: stable air can trap material near the surface because cooler air sits below warmer air instead of mixing normally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qld.gov.au/environment/management/monitoring/air/air-monitoring/meteorology-influence/meteorology-inversions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qld.gov.au">[Queensland Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qld.gov.au</span><span class="citation-popover-title">Queensland Government Inversions</span><span class="citation-popover-snippet">Queensland Government Inversions</span></span></span> For light, the important point is refraction. When light passes through air layers of different density, it bends. In the right conditions, a distant light source that should be hidden below the horizon can be carried to an observer and appear as a hovering or oddly mobile light.
 
-This is why the Min Min explanation is subtler than “people saw car headlights”. The claim is not that witnesses simply failed to recognise a nearby car. It is that headlights, campfires or other lights may be optically displaced, distorted and transported through the atmosphere, so the source is not where the witness thinks it is. Pettigrew’s abstract states that both natural and man-made light sources can be involved, and that the lack of reference landmarks makes the night-time version especially hard to recognise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiasomuchtosee.com/linked/minminceo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiasomuchtosee.com">[australiasomuchtosee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiasomuchtosee.com</span><span class="citation-popover-snippet">110. The Min Min light and the Fata Morgana Pettigrew of the phenomenon. Finally, I will...Read more...</span></span></span>
+This is why the Min Min explanation is subtler than “people saw car headlights”. The claim is not that witnesses simply failed to recognise a nearby car. It is that headlights, campfires or other lights may be optically displaced, distorted and transported through the atmosphere, so the source is not where the witness thinks it is. Pettigrew’s abstract states that both natural and man-made light sources can be involved, and that the lack of reference landmarks makes the night-time version especially hard to recognise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiasomuchtosee.com/linked/minminceo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiasomuchtosee.com">[australiasomuchtosee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiasomuchtosee.com</span><span class="citation-popover-snippet">110. The Min Min light and the Fata Morgana Pettigrew of the phenomenon. Finally, I will...Read more...</span></span></span>
 
-The effect can also fit the famous “following” behaviour. If a refracted light source is tens or even hundreds of kilometres away, a driver’s attempt to approach or escape it may not change its apparent position in the expected way. UQ’s summary of Pettigrew’s work says the lights can seem to follow travellers for long distances, retreat, or move in ways that appear almost magical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uq.edu.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uq.edu.au</span><span class="citation-popover-title">News UQ scientist unlocks secret of Min Min lights</span><span class="citation-popover-snippet">News UQ scientist unlocks secret of Min Min lights</span></span></span> In a normal road situation, a light that stays with you suggests another vehicle, a person or an object moving alongside you. In a mirage situation, the apparent movement may be produced by the observer’s motion, changing air layers, or a distant vehicle that is itself moving beyond the horizon.
+The effect can also fit the famous “following” behaviour. If a refracted light source is tens or even hundreds of kilometres away, a driver’s attempt to approach or escape it may not change its apparent position in the expected way. UQ’s summary of Pettigrew’s work says the lights can seem to follow travellers for long distances, retreat, or move in ways that appear almost magical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uq.edu.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uq.edu.au</span><span class="citation-popover-title">News UQ scientist unlocks secret of Min Min lights</span><span class="citation-popover-snippet">News UQ scientist unlocks secret of Min Min lights</span></span></span> In a normal road situation, a light that stays with you suggests another vehicle, a person or an object moving alongside you. In a mirage situation, the apparent movement may be produced by the observer’s motion, changing air layers, or a distant vehicle that is itself moving beyond the horizon.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O4U_OB0Gat8" title="The Min Min Lights, A Big Country -1982/1978" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O4U_OB0Gat8" target="_blank" rel="noopener noreferrer">The Min Min Lights, A Big Country -1982/1978</a></p><p class="youtube-embed-meta">Channel: Geckos and Gum Leaves</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O4U_OB0Gat8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O4U_OB0Gat8">Open on YouTube</a></p></div></div></div>
 
 ## Natural explanations and UFO retellings
 
-The Fata Morgana explanation is the strongest candidate because it accounts for several puzzling features at once: low apparent height, horizon placement, colour and brightness changes, strange movement, seasonal or weather sensitivity, and the absence of a recoverable object. Pettigrew’s paper notes that many strange properties become explicable when the optical conditions are combined with human perception under “highly-reduced stimulus conditions”, meaning a sparse night scene with a single isolated light and few landmarks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiasomuchtosee.com/linked/minminceo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiasomuchtosee.com">[australiasomuchtosee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiasomuchtosee.com</span><span class="citation-popover-snippet">110. The Min Min light and the Fata Morgana Pettigrew of the phenomenon. Finally, I will...Read more...</span></span></span>
+The Fata Morgana explanation is the strongest candidate because it accounts for several puzzling features at once: low apparent height, horizon placement, colour and brightness changes, strange movement, seasonal or weather sensitivity, and the absence of a recoverable object. Pettigrew’s paper notes that many strange properties become explicable when the optical conditions are combined with human perception under “highly-reduced stimulus conditions”, meaning a sparse night scene with a single isolated light and few landmarks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiasomuchtosee.com/linked/minminceo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiasomuchtosee.com">[australiasomuchtosee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiasomuchtosee.com</span><span class="citation-popover-snippet">110. The Min Min light and the Fata Morgana Pettigrew of the phenomenon. Finally, I will...Read more...</span></span></span>
 
-ABC Science summarised the same mechanism in plain terms in 2003: Pettigrew claimed he could reproduce the phenomenon and that the lights were inverted mirages of sources that might be hundreds of kilometres away over the horizon. The report also emphasised the role of temperature inversion, with cold dense air near the ground and warmer air above. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Mystery of the Min Min lights explained</span><span class="citation-popover-snippet">ABC News Mystery of the Min Min lights explained</span></span></span> Specialist atmospheric-optics explanations make the same general point: superior mirages occur when colder air sits below warmer air, causing light rays to bend and making objects appear higher than their true position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span>
+ABC Science summarised the same mechanism in plain terms in 2003: Pettigrew claimed he could reproduce the phenomenon and that the lights were inverted mirages of sources that might be hundreds of kilometres away over the horizon. The report also emphasised the role of temperature inversion, with cold dense air near the ground and warmer air above.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Mystery of the Min Min lights explained</span><span class="citation-popover-snippet">ABC News Mystery of the Min Min lights explained</span></span></span> Specialist atmospheric-optics explanations make the same general point: superior mirages occur when colder air sits below warmer air, causing light rays to bend and making objects appear higher than their true position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span>
 
-Other proposed explanations are weaker for the Queensland road reports. Ball lightning is real but rare and brief, and it does not neatly explain lights that appear to follow vehicles for long distances. Marsh gas and bioluminescent insects struggle with the dry road-country setting and with reports of apparent long-distance motion. “Plasma” is sometimes invoked in popular retellings, but without measurements it often functions as a scientific-sounding label rather than a demonstrated cause. The Fata Morgana model has the advantage of a mechanism, a known atmospheric condition, a plausible light source and field observations in the right region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiasomuchtosee.com/linked/minminceo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiasomuchtosee.com">[australiasomuchtosee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiasomuchtosee.com</span><span class="citation-popover-snippet">110. The Min Min light and the Fata Morgana Pettigrew of the phenomenon. Finally, I will...Read more...</span></span></span>
+Other proposed explanations are weaker for the Queensland road reports. Ball lightning is real but rare and brief, and it does not neatly explain lights that appear to follow vehicles for long distances. Marsh gas and bioluminescent insects struggle with the dry road-country setting and with reports of apparent long-distance motion. “Plasma” is sometimes invoked in popular retellings, but without measurements it often functions as a scientific-sounding label rather than a demonstrated cause. The Fata Morgana model has the advantage of a mechanism, a known atmospheric condition, a plausible light source and field observations in the right region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiasomuchtosee.com/linked/minminceo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiasomuchtosee.com">[australiasomuchtosee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiasomuchtosee.com</span><span class="citation-popover-snippet">110. The Min Min light and the Fata Morgana Pettigrew of the phenomenon. Finally, I will...Read more...</span></span></span>
 
 That is also why Min Min lights are a useful caution in Queensland UFO history. A witness can be sincere, sober and experienced, and still misjudge a light in an environment designed to defeat ordinary distance cues. The conclusion should not be “people imagined it”. A better conclusion is that some outback light reports are probably real observations of displaced light, interpreted through folklore, fear, fatigue and the isolation of the road.
 
@@ -333,9 +333,9 @@ That is also why Min Min lights are a useful caution in Queensland UFO history. 
 
 The mirage explanation is powerful, but it does not turn every Min Min story into a closed file. Some reports are too loosely recorded to test. Others lack the basic details investigators need: direction of travel, exact location, time, weather, traffic, visibility, nearby stations, mining activity, road trains, aircraft, stars and planets, or whether the witness was moving. Without those details, a sighting can remain emotionally convincing but evidentially weak.
 
-Recent Queensland reporting shows how the Min Min label still attaches itself to unexplained lights in the north-west. A *Courier-Mail* report described Mount Isa resident Leanne Kum Sing filming mysterious lights outside the town and seeking input from UFO Research Queensland and other investigators; the report also quoted regional journalist John Andersen discussing slow-moving lights around Kynuna and Winton, while noting disagreement over whether newer reports are truly Min Min lights or something different. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.couriermail.com.au/news/could-these-mysterious-lights-in-north-west-qld-be-the-min-min/news-story/a29a6689cffa7ec0b078dffe91d4eb67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriermail.com.au">[Courier Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriermail.com.au</span><span class="citation-popover-title">Courier Mail Outback UFOs? Mysterious lights baffle residents out west</span><span class="citation-popover-snippet">Courier Mail Outback UFOs? Mysterious lights baffle residents out west</span></span></span> This is typical of the modern problem: videos may show that a light was visible, but they rarely establish distance, size or source.
+Recent Queensland reporting shows how the Min Min label still attaches itself to unexplained lights in the north-west. A *Courier-Mail* report described Mount Isa resident Leanne Kum Sing filming mysterious lights outside the town and seeking input from UFO Research Queensland and other investigators; the report also quoted regional journalist John Andersen discussing slow-moving lights around Kynuna and Winton, while noting disagreement over whether newer reports are truly Min Min lights or something different.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.couriermail.com.au/news/could-these-mysterious-lights-in-north-west-qld-be-the-min-min/news-story/a29a6689cffa7ec0b078dffe91d4eb67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriermail.com.au">[Courier Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriermail.com.au</span><span class="citation-popover-title">Courier Mail Outback UFOs? Mysterious lights baffle residents out west</span><span class="citation-popover-snippet">Courier Mail Outback UFOs? Mysterious lights baffle residents out west</span></span></span> This is typical of the modern problem: videos may show that a light was visible, but they rarely establish distance, size or source.
 
-There is also a cultural reason the mystery persists. Boulia’s official visitor material openly leans into the unresolved quality of the lights, telling visitors that the light “finds you” and presenting local stories as part of the town’s identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boulia.qld.gov.au/Tourism/Min-Min-Encounter-Visitor-Information-Centre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boulia.qld.gov.au">[Boulia Shire Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boulia.qld.gov.au</span><span class="citation-popover-snippet">Open source on qld.gov.au.</span></span></span> Tourism storytelling and scientific explanation therefore operate in parallel. One preserves the experience as local folklore; the other explains how such an experience can arise. They do not cancel each other out, but they answer different questions.
+There is also a cultural reason the mystery persists. Boulia’s official visitor material openly leans into the unresolved quality of the lights, telling visitors that the light “finds you” and presenting local stories as part of the town’s identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boulia.qld.gov.au/Tourism/Min-Min-Encounter-Visitor-Information-Centre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boulia.qld.gov.au">[Boulia Shire Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boulia.qld.gov.au</span><span class="citation-popover-snippet">Open source on qld.gov.au.</span></span></span> Tourism storytelling and scientific explanation therefore operate in parallel. One preserves the experience as local folklore; the other explains how such an experience can arise. They do not cancel each other out, but they answer different questions.
 
 For UFO classification, Min Min lights are best treated as a recurring outback light phenomenon with a strong natural explanation, not as a single confirmed object or craft. The unresolved residue lies mostly in individual witness accounts that cannot now be reconstructed, rather than in a lack of plausible mechanism.
 
@@ -348,10 +348,10 @@ A useful way to assess a Min Min report is to ask whether it contains enough inf
 
 Several practical clues point towards a mirage-style explanation:
 
-* **The light sits low near the horizon.** Min Min reports often describe a ground-level or eye-level glow rather than a high object crossing the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outbackqueensland.com.au/attractions/min-min-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outbackqueensland.com.au">[Outback Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outbackqueensland.com.au</span><span class="citation-popover-title">min min encounter</span><span class="citation-popover-snippet">min min encounter</span></span></span>
+* **The light sits low near the horizon.** Min Min reports often describe a ground-level or eye-level glow rather than a high object crossing the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outbackqueensland.com.au/attractions/min-min-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outbackqueensland.com.au">[Outback Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outbackqueensland.com.au</span><span class="citation-popover-title">min min encounter</span><span class="citation-popover-snippet">min min encounter</span></span></span>
 * **The setting is flat, dark and remote.** Sparse landmarks make distance and motion hard to judge, especially from a moving vehicle.
-* **The weather is calm, clear and cold near the surface.** Pettigrew’s model depends on stable layers of air and temperature inversion, conditions that can bend light over long distances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiasomuchtosee.com/linked/minminceo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiasomuchtosee.com">[australiasomuchtosee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiasomuchtosee.com</span><span class="citation-popover-snippet">110. The Min Min light and the Fata Morgana Pettigrew of the phenomenon. Finally, I will...Read more...</span></span></span>
-* **The source seems to follow or retreat.** That behaviour can arise when the apparent light is not a nearby object but a refracted image of a distant source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uq.edu.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uq.edu.au</span><span class="citation-popover-title">News UQ scientist unlocks secret of Min Min lights</span><span class="citation-popover-snippet">News UQ scientist unlocks secret of Min Min lights</span></span></span>
+* **The weather is calm, clear and cold near the surface.** Pettigrew’s model depends on stable layers of air and temperature inversion, conditions that can bend light over long distances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiasomuchtosee.com/linked/minminceo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiasomuchtosee.com">[australiasomuchtosee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiasomuchtosee.com</span><span class="citation-popover-snippet">110. The Min Min light and the Fata Morgana Pettigrew of the phenomenon. Finally, I will...Read more...</span></span></span>
+* **The source seems to follow or retreat.** That behaviour can arise when the apparent light is not a nearby object but a refracted image of a distant source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uq.edu.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uq.edu.au</span><span class="citation-popover-title">News UQ scientist unlocks secret of Min Min lights</span><span class="citation-popover-snippet">News UQ scientist unlocks secret of Min Min lights</span></span></span>
 * **No physical object, sound, landing trace or radar correlation follows.** The absence of supporting evidence does not disprove a witness, but it weakens a craft-based interpretation.
 
 The hardest cases are those where witnesses report close approach, multiple colours, rapid changes or a strong sense that the light had intent. Those features are memorable, but they are not automatically evidence of intelligence. Under poor visual conditions, the brain often converts uncertain movement into purposeful movement, especially when the observer is already alarmed.
@@ -362,7 +362,7 @@ The hardest cases are those where witnesses report close approach, multiple colo
 
 Min Min lights belong in a Queensland UFO history because many people experience them as UFO-like: strange lights, apparent pursuit, remote roads, fear, and no obvious source. But they also show why Queensland’s unexplained-aerial record cannot be read as one uniform category. A daylight object over a town, an alleged physical trace near Tully, and a Min Min light on a western road demand different standards of interpretation.
 
-The Min Min tradition is strongest when treated as a layered phenomenon. At one level, it is local folklore tied to Boulia and outback travel. At another, it is a recurring witness pattern in which motorists see lights they cannot place. At a third, it is a test case for atmospheric optics, because the Fata Morgana model can explain how distant light becomes a nearby mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boulia.qld.gov.au/Tourism/Min-Min-Encounter-Visitor-Information-Centre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boulia.qld.gov.au">[Boulia Shire Council+2australiasomuchtosee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boulia.qld.gov.au</span><span class="citation-popover-snippet">Open source on qld.gov.au.</span></span></span>
+The Min Min tradition is strongest when treated as a layered phenomenon. At one level, it is local folklore tied to Boulia and outback travel. At another, it is a recurring witness pattern in which motorists see lights they cannot place. At a third, it is a test case for atmospheric optics, because the Fata Morgana model can explain how distant light becomes a nearby mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boulia.qld.gov.au/Tourism/Min-Min-Encounter-Visitor-Information-Centre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boulia.qld.gov.au">[qld.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boulia.qld.gov.au</span><span class="citation-popover-snippet">Open source on qld.gov.au.</span></span></span>
 
 The balanced position is therefore neither ridicule nor credulity. Min Min witnesses may have seen real lights. The most persuasive explanation is that many of those lights were distant natural or human-made sources transformed by western Queensland’s night air. What remains is not proof of alien visitation, but a distinctive Queensland example of how landscape, weather, perception and storytelling can turn a light on the horizon into a lasting UFO-adjacent mystery.
 
@@ -371,194 +371,194 @@ The balanced position is therefore neither ridicule nor credulity. Min Min witne
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Min Min lights UFOs or outback mirages?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Min Min lights UFOs or outback mirages?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jcETEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jcETEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
+</h4>
+<p class="fr-book-author">By Ralph Blumenthal</p>
         
-        <p class="fr-book-desc">Explores how people interpret unusual experiences as extraterrestrial encounters, paralleling UFO interpretations of Min Min lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how people interpret unusual experiences as extraterrestrial encounters, paralleling UFO interpretations of Min Min lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=veXrRCyr1-EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rough Guide to Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Unexplained Phenomena">The Rough Guide to Unexplained Phenomena</a>
-        </h4>
-        <p class="fr-book-author">By John Michell, Bob Rickard et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=veXrRCyr1-EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rough Guide to Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Unexplained Phenomena">The Rough Guide to Unexplained Phenomena</a>
+</h4>
+<p class="fr-book-author">By John Michell, Bob Rickard et al.</p>
         
-        <p class="fr-book-desc">Places Min Min-style mystery lights within the wider context of natural anomalies, folklore and unexplained phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Min Min-style mystery lights within the wider context of natural anomalies, folklore and unexplained phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Dictionary+of+Australian+Folklore+by+Bill+Wannan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Dictionary of Australian Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R7XfAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Dictionary of Australian Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Dictionary+of+Australian+Folklore+by+Bill+Wannan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Dictionary of Australian Folklore">A Dictionary of Australian Folklore</a>
-        </h4>
-        <p class="fr-book-author">By Bill Wannan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Dictionary+of+Australian+Folklore+by+Bill+Wannan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Dictionary of Australian Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R7XfAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Dictionary of Australian Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Dictionary+of+Australian+Folklore+by+Bill+Wannan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Dictionary of Australian Folklore">A Dictionary of Australian Folklore</a>
+</h4>
+<p class="fr-book-author">By Bill Wannan</p>
         
-        <p class="fr-book-desc">Includes Australian legendary subjects such as outback mystery lights and helps explain the folklore context behind Min Min stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Dictionary+of+Australian+Folklore+by+Bill+Wannan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes Australian legendary subjects such as outback mystery lights and helps explain the folklore context behind Min Min stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Dictionary+of+Australian+Folklore+by+Bill+Wannan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Min-Min+by+Mavis+Thorpe+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Min-Min on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Min-Min+by+Mavis+Thorpe+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Min-Min">The Min-Min</a>
-        </h4>
-        <p class="fr-book-author">By Mavis Thorpe Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Min-Min+by+Mavis+Thorpe+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Min-Min on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Min-Min+by+Mavis+Thorpe+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Min-Min">The Min-Min</a>
+</h4>
+<p class="fr-book-author">By Mavis Thorpe Clark</p>
         
-        <p class="fr-book-desc">Directly uses the Min Min light tradition as a central motif and introduces readers to the cultural mythology surrounding the phenomenon.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Min-Min+by+Mavis+Thorpe+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly uses the Min Min light tradition as a central motif and introduces readers to the cultural mythology surrounding the phenomenon.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Min-Min+by+Mavis+Thorpe+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Unexplained+Phenomena+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Unexplained Phenomena books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Dictionary+of+Australian+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Dictionary of Australian Folklore</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Unexplained+Phenomena+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Unexplained Phenomena books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Dictionary+of+Australian+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Dictionary of Australian Folklore</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min"><img src="{{ '/assets/images/marketplace-covers/7dce6efe1ae3f275cca6.jpg' | relative_url }}" alt="Listing image for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min"><img src="{{ '/assets/images/marketplace-covers/7dce6efe1ae3f275cca6.jpg' | relative_url }}" alt="Listing image for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min"><img src="{{ '/assets/images/marketplace-covers/4b0841c18a7477a70bf3.jpg' | relative_url }}" alt="Listing image for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min"><img src="{{ '/assets/images/marketplace-covers/4b0841c18a7477a70bf3.jpg' | relative_url }}" alt="Listing image for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day CD Basket Case Grüne Sammler Hülle"><img src="{{ '/assets/images/marketplace-covers/57b827fd9c64b46341f3.jpg' | relative_url }}" alt="Listing image for Green Day CD Basket Case Grüne Sammler Hülle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day CD Basket Case Grüne Sammler Hülle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day CD Basket Case Grüne Sammler Hülle"><img src="{{ '/assets/images/marketplace-covers/57b827fd9c64b46341f3.jpg' | relative_url }}" alt="Listing image for Green Day CD Basket Case Grüne Sammler Hülle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day CD Basket Case Grüne Sammler Hülle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day - Basket Case MCD #G12447"><img src="{{ '/assets/images/marketplace-covers/538d5f3f3c67d195b72b.jpg' | relative_url }}" alt="Listing image for Green Day - Basket Case MCD #G12447" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day - Basket Case MCD #G12447</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day - Basket Case MCD #G12447"><img src="{{ '/assets/images/marketplace-covers/538d5f3f3c67d195b72b.jpg' | relative_url }}" alt="Listing image for Green Day - Basket Case MCD #G12447" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day - Basket Case MCD #G12447</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="min-min-lights-are-min-min-lights-ufos-or-outback-mirages-queensland-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ The balanced position is therefore neither ridicule nor credulity. Min Min witne
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ The balanced position is therefore neither ridicule nor credulity. Min Min witne
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ The balanced position is therefore neither ridicule nor credulity. Min Min witne
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ The balanced position is therefore neither ridicule nor credulity. Min Min witne
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ The balanced position is therefore neither ridicule nor credulity. Min Min witne
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,147 +764,147 @@ The balanced position is therefore neither ridicule nor credulity. Min Min witne
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: australiasomuchtosee.com  
-   Link: <a href="https://www.australiasomuchtosee.com/linked/minminceo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.australiasomuchtosee.com/linked/minminceo.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>110. The Min Min light and the Fata Morgana Pettigrew of the phenomenon. Finally, I will...Read more...</p></details>
+   Link:<a href="https://www.australiasomuchtosee.com/linked/minminceo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.australiasomuchtosee.com/linked/minminceo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>110. The Min Min light and the Fata Morgana Pettigrew of the phenomenon. Finally, I will...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
+   Link:<a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/source/zhu/ZHU_Training_Page/Miscellaneous/inversion/inversion.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/source/zhu/ZHU_Training_Page/Miscellaneous/inversion/inversion.html</a>  
+   Link:<a href="https://www.weather.gov/source/zhu/ZHU_Training_Page/Miscellaneous/inversion/inversion.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/source/zhu/ZHU_Training_Page/Miscellaneous/inversion/inversion.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: queensland.com  
    Title: Min Min Encounter  
-   Link: <a href="https://www.queensland.com/au/en/things-to-do/attractions/p-656978e245c0bb440ff2dd9b-min-min-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.queensland.com/au/en/things-to-do/attractions/p-656978e245c0bb440ff2dd9b-min-min-encounter</a>  
+   Link:<a href="https://www.queensland.com/au/en/things-to-do/attractions/p-656978e245c0bb440ff2dd9b-min-min-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.queensland.com/au/en/things-to-do/attractions/p-656978e245c0bb440ff2dd9b-min-min-encounter</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.uq.edu.au  
    Title: News UQ scientist unlocks secret of Min Min lights  
-   Link: <a href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow">https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights</a>  
+   Link:<a href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow">https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: abc.net.au  
    Title: min min lights seen in outback  
-   Link: <a href="https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058</a>  
+   Link:<a href="https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: boulia.qld.gov.au  
-   Link: <a href="https://www.boulia.qld.gov.au/Tourism/Min-Min-Encounter-Visitor-Information-Centre" target="_blank" rel="noopener noreferrer nofollow">https://www.boulia.qld.gov.au/Tourism/Min-Min-Encounter-Visitor-Information-Centre</a>  
+   Link:<a href="https://www.boulia.qld.gov.au/Tourism/Min-Min-Encounter-Visitor-Information-Centre" target="_blank" rel="noopener noreferrer nofollow">https://www.boulia.qld.gov.au/Tourism/Min-Min-Encounter-Visitor-Information-Centre</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: outbackqueensland.com.au  
    Title: min min encounter  
-   Link: <a href="https://www.outbackqueensland.com.au/attractions/min-min-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.outbackqueensland.com.au/attractions/min-min-encounter/</a>  
+   Link:<a href="https://www.outbackqueensland.com.au/attractions/min-min-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.outbackqueensland.com.au/attractions/min-min-encounter/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bouliacamelraces.com.au  
    Title: Boulia Camel Races The Min Min Light!  
-   Link: <a href="https://www.bouliacamelraces.com.au/the-min-min-light/" target="_blank" rel="noopener noreferrer nofollow">https://www.bouliacamelraces.com.au/the-min-min-light/</a>  
+   Link:<a href="https://www.bouliacamelraces.com.au/the-min-min-light/" target="_blank" rel="noopener noreferrer nofollow">https://www.bouliacamelraces.com.au/the-min-min-light/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: qld.gov.au  
    Title: Queensland Government Inversions  
-   Link: <a href="https://www.qld.gov.au/environment/management/monitoring/air/air-monitoring/meteorology-influence/meteorology-inversions" target="_blank" rel="noopener noreferrer nofollow">https://www.qld.gov.au/environment/management/monitoring/air/air-monitoring/meteorology-influence/meteorology-inversions</a>  
+   Link:<a href="https://www.qld.gov.au/environment/management/monitoring/air/air-monitoring/meteorology-influence/meteorology-inversions" target="_blank" rel="noopener noreferrer nofollow">https://www.qld.gov.au/environment/management/monitoring/air/air-monitoring/meteorology-influence/meteorology-inversions</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abc.net.au  
    Title: ABC News Mystery of the Min Min lights explained  
-   Link: <a href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/science/articles/2003/03/28/818193.htm</a>  
+   Link:<a href="https://www.abc.net.au/science/articles/2003/03/28/818193.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/science/articles/2003/03/28/818193.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: couriermail.com.au  
    Title: Courier Mail Outback UFOs? Mysterious lights baffle residents out west  
-   Link: <a href="https://www.couriermail.com.au/news/could-these-mysterious-lights-in-north-west-qld-be-the-min-min/news-story/a29a6689cffa7ec0b078dffe91d4eb67" target="_blank" rel="noopener noreferrer nofollow">https://www.couriermail.com.au/news/could-these-mysterious-lights-in-north-west-qld-be-the-min-min/news-story/a29a6689cffa7ec0b078dffe91d4eb67</a>  
+   Link:<a href="https://www.couriermail.com.au/news/could-these-mysterious-lights-in-north-west-qld-be-the-min-min/news-story/a29a6689cffa7ec0b078dffe91d4eb67" target="_blank" rel="noopener noreferrer nofollow">https://www.couriermail.com.au/news/could-these-mysterious-lights-in-north-west-qld-be-the-min-min/news-story/a29a6689cffa7ec0b078dffe91d4eb67</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: boulia.qld.gov.au  
-   Link: <a href="https://www.boulia.qld.gov.au/Tourism/Min-Min-Hotel-Site" target="_blank" rel="noopener noreferrer nofollow">https://www.boulia.qld.gov.au/Tourism/Min-Min-Hotel-Site</a>  
+   Link:<a href="https://www.boulia.qld.gov.au/Tourism/Min-Min-Hotel-Site" target="_blank" rel="noopener noreferrer nofollow">https://www.boulia.qld.gov.au/Tourism/Min-Min-Hotel-Site</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: epa.nsw.gov.au  
-   Link: <a href="https://www.epa.nsw.gov.au/sites/default/files/240162localgovernmentairqualitytoolkitmodule1scienceofairqualitypart1meteorologyairquality.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.nsw.gov.au/sites/default/files/240162localgovernmentairqualitytoolkitmodule1scienceofairqualitypart1meteorologyairquality.pdf</a>  
+   Link:<a href="https://www.epa.nsw.gov.au/sites/default/files/240162localgovernmentairqualitytoolkitmodule1scienceofairqualitypart1meteorologyairquality.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.nsw.gov.au/sites/default/files/240162localgovernmentairqualitytoolkitmodule1scienceofairqualitypart1meteorologyairquality.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: communication-arts.uq.edu.au  
    Title: uq.edu.au Research Seminar  
-   Link: <a href="https://communication-arts.uq.edu.au/event/session/7773" target="_blank" rel="noopener noreferrer nofollow">https://communication-arts.uq.edu.au/event/session/7773</a>  
+   Link:<a href="https://communication-arts.uq.edu.au/event/session/7773" target="_blank" rel="noopener noreferrer nofollow">https://communication-arts.uq.edu.au/event/session/7773</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bom.gov.au  
-   Link: <a href="https://www.bom.gov.au/climate/enso/" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/climate/enso/</a>  
+   Link:<a href="https://www.bom.gov.au/climate/enso/" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/climate/enso/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Min Min light  
-   Link: <a href="https://en.wikipedia.org/wiki/Min_Min_light" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Min_Min_light</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Min_Min_light" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Min_Min_light</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Min" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Min</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Min" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Min</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
+   Link:<a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/min" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/min</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/min" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/min</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: caseytours.com.au  
    Title: Min Min Lights  
-   Link: <a href="https://www.caseytours.com.au/news/min-min-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.caseytours.com.au/news/min-min-lights/</a>  
+   Link:<a href="https://www.caseytours.com.au/news/min-min-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.caseytours.com.au/news/min-min-lights/</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: We visit Boulia to discover the legend of the Min Min Lights  
-   Link: <a href="https://www.youtube.com/watch?v=J81p4tgNSCE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J81p4tgNSCE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost Lights Are A Real Thing - And They&#x27;re Super Weird...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J81p4tgNSCE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J81p4tgNSCE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost Lights Are A Real Thing - And They&#x27;re Super Weird...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Min Min Lights: Mysterious Lights in the Australian Outback  
-   Link: <a href="https://www.youtube.com/watch?v=NwiMQm3wk1I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NwiMQm3wk1I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We visit Boulia to discover the legend of the Min Min Lights - Roadtrip 2021 Episode 12...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NwiMQm3wk1I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NwiMQm3wk1I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We visit Boulia to discover the legend of the Min Min Lights - Roadtrip 2021 Episode 12...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=O4U_OB0Gat8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O4U_OB0Gat8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travelling Australia in the Summertime - BEDOURIE AND BOULIA - Min Min Light Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O4U_OB0Gat8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O4U_OB0Gat8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travelling Australia in the Summertime - BEDOURIE AND BOULIA - Min Min Light Encounter...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Ghost Lights Are A Real Thing  
-   Link: <a href="https://www.youtube.com/watch?v=VP3RBaq0nxo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VP3RBaq0nxo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Min Min Lights, A Big Country -1982/1978...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VP3RBaq0nxo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VP3RBaq0nxo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Min Min Lights, A Big Country -1982/1978...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/9967300/Fata_Morgana_mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/9967300/Fata_Morgana_mirage</a>  
+   Link:<a href="https://www.academia.edu/9967300/Fata_Morgana_mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/9967300/Fata_Morgana_mirage</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/325021243_Projected_change_in_characteristics_of_near_surface_temperature_inversions_for_southeast_Australia" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325021243_Projected_change_in_characteristics_of_near_surface_temperature_inversions_for_southeast_Australia</a>  
+   Link:<a href="https://www.researchgate.net/publication/325021243_Projected_change_in_characteristics_of_near_surface_temperature_inversions_for_southeast_Australia" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325021243_Projected_change_in_characteristics_of_near_surface_temperature_inversions_for_southeast_Australia</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: optometry.org.au  
-   Link: <a href="https://www.optometry.org.au/wp-content/uploads/Publications/CXO/Issues/cxo_v103_i1_Jan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.optometry.org.au/wp-content/uploads/Publications/CXO/Issues/cxo_v103_i1_Jan.pdf</a>  
+   Link:<a href="https://www.optometry.org.au/wp-content/uploads/Publications/CXO/Issues/cxo_v103_i1_Jan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.optometry.org.au/wp-content/uploads/Publications/CXO/Issues/cxo_v103_i1_Jan.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: doi.org  
-   Link: <a href="https://doi.org/10.1111/cxo.2003.86.issue-2" target="_blank" rel="noopener noreferrer nofollow">https://doi.org/10.1111/cxo.2003.86.issue-2</a>  
+   Link:<a href="https://doi.org/10.1111/cxo.2003.86.issue-2" target="_blank" rel="noopener noreferrer nofollow">https://doi.org/10.1111/cxo.2003.86.issue-2</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mattykjordan/posts/fata-morgana-mirages-are-fascinating-natural-phenomenon-that-happened-in-many-pl/10162845133036659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mattykjordan/posts/fata-morgana-mirages-are-fascinating-natural-phenomenon-that-happened-in-many-pl/10162845133036659/</a>  
+   Link:<a href="https://www.facebook.com/mattykjordan/posts/fata-morgana-mirages-are-fascinating-natural-phenomenon-that-happened-in-many-pl/10162845133036659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mattykjordan/posts/fata-morgana-mirages-are-fascinating-natural-phenomenon-that-happened-in-many-pl/10162845133036659/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050</a>  
+   Link:<a href="https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050</a>  

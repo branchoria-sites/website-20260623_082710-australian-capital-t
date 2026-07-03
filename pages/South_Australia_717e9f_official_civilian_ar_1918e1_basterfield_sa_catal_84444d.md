@@ -262,21 +262,21 @@ image: /assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_basterf
 
 ## Introduction
 
-For anyone trying to understand [South Australia]({{ 'why-south-australias-ufo-stories-still/' | relative_url }})’s UFO history, Keith Basterfield’s catalogue of South Australian reports is less a book of mysteries than a map of the available evidence. By bringing together reports from 1902 to 1987, the catalogue turned hundreds of scattered newspaper stories, investigation files, newsletters and witness accounts into a single chronological listing. Rather than arguing that particular sightings were extraterrestrial, it provided researchers with something more basic and often more valuable: dates, locations, [witnesses]({{ 'witnesses/' | relative_url }}) and source references that could be checked against original records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
+For anyone trying to understand [South Australia]({{ 'why-south-australias-ufo-stories-still/' | relative_url }})’s UFO history, Keith Basterfield’s catalogue of South Australian reports is less a book of mysteries than a map of the available evidence. By bringing together reports from 1902 to 1987, the catalogue turned hundreds of scattered newspaper stories, investigation files, newsletters and witness accounts into a single chronological listing. Rather than arguing that particular sightings were extraterrestrial, it provided researchers with something more basic and often more valuable: dates, locations, [witnesses]({{ 'witnesses/' | relative_url }}) and source references that could be checked against original records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_basterfield_sa_catal_84444d-Illustration-1-dark.svg" | relative_url }}" alt="SA catalogue illustration 1" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_basterfield_sa_catal_84444d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_basterfield_sa_catal_84444d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader story of official files and civilian UFO [archives]({{ 'archives-d7c21b/' | relative_url }}), the catalogue became a finding aid for South Australia. It helped researchers trace patterns, identify recurring hotspots and connect civilian reports with government records that might otherwise have remained isolated in archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
+Within the broader story of official files and civilian UFO [archives]({{ 'archives-d7c21b/' | relative_url }}), the catalogue became a finding aid for South Australia. It helped researchers trace patterns, identify recurring hotspots and connect civilian reports with government records that might otherwise have remained isolated in archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
 
 ## What the 1902–1987 listing records
 
-Basterfield’s South Australian catalogue was compiled as a chronological inventory of reported sightings. Entries typically recorded the date, location, time, number of witnesses, a short description of what was reported and, crucially, where the information came from. Sources included local newspapers, UFO organisation files, newsletters, books and investigation reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
+Basterfield’s South Australian catalogue was compiled as a chronological inventory of reported sightings. Entries typically recorded the date, location, time, number of witnesses, a short description of what was reported and, crucially, where the information came from. Sources included local newspapers, UFO organisation files, newsletters, books and investigation reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
 
-This structure transformed individual stories into a searchable dataset. Instead of relying on retellings of famous cases, a researcher could follow reports across decades and regions. Adelaide suburbs, rural districts, the Eyre Peninsula, the Nullarbor and areas associated with defence activity all appear in the listing, allowing readers to see where reports clustered and where they were comparatively rare. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
+This structure transformed individual stories into a searchable dataset. Instead of relying on retellings of famous cases, a researcher could follow reports across decades and regions. Adelaide suburbs, rural districts, the Eyre Peninsula, the Nullarbor and areas associated with defence activity all appear in the listing, allowing readers to see where reports clustered and where they were comparatively rare.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
 
-The catalogue also preserves many lesser-known reports that might otherwise have disappeared from the historical record. Not every entry concerns a dramatic close encounter. Many describe lights, discs, spheres, flashes or unusual aerial movements reported by one or more witnesses. Because the catalogue records even relatively mundane reports, it provides a broader picture of what people in South Australia were actually reporting over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
+The catalogue also preserves many lesser-known reports that might otherwise have disappeared from the historical record. Not every entry concerns a dramatic close encounter. Many describe lights, discs, spheres, flashes or unusual aerial movements reported by one or more witnesses. Because the catalogue records even relatively mundane reports, it provides a broader picture of what people in South Australia were actually reporting over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
 
-One important feature is that the catalogue does not focus solely on celebrated cases. Famous incidents and obscure sightings sit side by side. That helps reduce a common distortion in UFO history, where a handful of widely discussed cases can overshadow the much larger body of routine reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
+One important feature is that the catalogue does not focus solely on celebrated cases. Famous incidents and obscure sightings sit side by side. That helps reduce a common distortion in UFO history, where a handful of widely discussed cases can overshadow the much larger body of routine reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sm6AL5lA4Zc" title="The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sm6AL5lA4Zc" target="_blank" rel="noopener noreferrer">The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 16.9M &middot; Uploaded: September 2021 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sm6AL5lA4Zc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sm6AL5lA4Zc">Open on YouTube</a></p></div></div></div>
@@ -285,11 +285,11 @@ One important feature is that the catalogue does not focus solely on celebrated 
 
 The value of the catalogue lies in the links it creates between different kinds of evidence. A newspaper report may provide the first public account of a sighting, but a government file might contain witness interviews, radar information or correspondence that adds context. Conversely, an official file may make little sense without knowing how the event was reported publicly at the time.
 
-By listing sources systematically, Basterfield made it easier to move between those layers of documentation. A sighting mentioned briefly in a newspaper could be matched with later investigations. A case appearing in a UFO newsletter could be checked against archival records. Researchers examining South Australian defence-related incidents, including reports connected with the [Woomera]({{ 'woomera/' | relative_url }}) region, have often relied on this type of cross-referencing to locate relevant material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
+By listing sources systematically, Basterfield made it easier to move between those layers of documentation. A sighting mentioned briefly in a newspaper could be matched with later investigations. A case appearing in a UFO newsletter could be checked against archival records. Researchers examining South Australian defence-related incidents, including reports connected with the [Woomera]({{ 'woomera/' | relative_url }}) region, have often relied on this type of cross-referencing to locate relevant material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
 
-The catalogue also reflects the role of civilian research groups in preserving records. Organisations such as UFO Research South Australia (UFORSA) collected witness reports and maintained files long before many government records became readily accessible. Basterfield’s work drew on these collections while also preserving references that later researchers could verify independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbsaufo05-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947+2ufosa.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kbsaufo05 1</span><span class="citation-popover-snippet">Project 1947SOUTH AUSTRALIAN UFO REPORTS LISTING - Part OneThere were no external markings or portholes visible. (1. UFO Research South A...</span></span></span>
+The catalogue also reflects the role of civilian research groups in preserving records. Organisations such as UFO Research South Australia (UFORSA) collected witness reports and maintained files long before many government records became readily accessible. Basterfield’s work drew on these collections while also preserving references that later researchers could verify independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbsaufo05-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">kbsaufo05 1</span><span class="citation-popover-snippet">Project 1947SOUTH AUSTRALIAN UFO REPORTS LISTING - Part OneThere were no external markings or portholes visible. (1. UFO Research South A...</span></span></span>
 
-This approach matters because Australian UFO records are fragmented. Some survive in national archives, some in private collections, some in newspaper databases and some only in older UFO publications. A catalogue does not replace those sources, but it helps researchers find them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Online Catalogues and Sighting SummariesKeith has produced a collection of original news reports and correspondence regarding...</span></span></span>
+This approach matters because Australian UFO records are fragmented. Some survive in national archives, some in private collections, some in newspaper databases and some only in older UFO publications. A catalogue does not replace those sources, but it helps researchers find them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Online Catalogues and Sighting SummariesKeith has produced a collection of original news reports and correspondence regarding...</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_basterfield_sa_catal_84444d-Illustration-2-dark.svg" | relative_url }}" alt="SA catalogue illustration 2" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_basterfield_sa_catal_84444d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_basterfield_sa_catal_84444d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -302,9 +302,9 @@ Several patterns emerge from such listings:
 * Reports are not confined to Adelaide; they are distributed across much of the state.
 * Some clusters coincide with periods of intense public interest in UFOs, suggesting that media attention may influence reporting rates.
 * Defence-related regions attract particular attention because unusual aircraft, missile tests and restricted activities can generate unusual observations.
-* Many reports involve lights or distant objects rather than close-range encounters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com+2Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
+* Many reports involve lights or distant objects rather than close-range encounters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
 
-The catalogue therefore helps distinguish between a single famous incident and a broader reporting environment. A notable case can be placed alongside other reports from the same year, region or period, allowing patterns and differences to become clearer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
+The catalogue therefore helps distinguish between a single famous incident and a broader reporting environment. A notable case can be placed alongside other reports from the same year, region or period, allowing patterns and differences to become clearer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yePuBSftyhQ" title="Westall’s 50-year-old UFO sighting emerges again | 7NEWS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yePuBSftyhQ" target="_blank" rel="noopener noreferrer">Westall’s 50-year-old UFO sighting emerges again | 7NEWS</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia &middot; Views: 284.1K &middot; Uploaded: May 2021 &middot; Length: 2 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yePuBSftyhQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yePuBSftyhQ">Open on YouTube</a></p></div></div></div>
@@ -313,11 +313,11 @@ The catalogue therefore helps distinguish between a single famous incident and a
 
 The catalogue’s greatest strength is also its limitation. It records reports, not conclusions.
 
-An entry showing that a sighting occurred on a particular date and was reported by named witnesses does not establish what was seen. Some cases later acquired conventional explanations involving aircraft, [balloons]({{ 'balloons-b62c7f/' | relative_url }}), astronomical objects or other misidentifications. Others remained unresolved because the available evidence was insufficient. The catalogue deliberately preserves the report without necessarily deciding between competing explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+An entry showing that a sighting occurred on a particular date and was reported by named witnesses does not establish what was seen. Some cases later acquired conventional explanations involving aircraft, [balloons]({{ 'balloons-b62c7f/' | relative_url }}), astronomical objects or other misidentifications. Others remained unresolved because the available evidence was insufficient. The catalogue deliberately preserves the report without necessarily deciding between competing explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
-This distinction is important when reading South Australian UFO history. A catalogue can demonstrate that a claim was reported, discussed and investigated. It cannot by itself prove that the object was extraordinary. Researchers still need to examine original documents, witness testimony, weather records, aviation activity and later analyses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
+This distinction is important when reading South Australian UFO history. A catalogue can demonstrate that a claim was reported, discussed and investigated. It cannot by itself prove that the object was extraordinary. Researchers still need to examine original documents, witness testimony, weather records, aviation activity and later analyses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
-Basterfield’s later work often reflected this evidence-based approach. He became known for revisiting older cases, searching archives and testing explanations rather than simply repeating earlier claims. That attitude helps explain why the South Australian catalogue remains useful decades after its compilation: it is primarily a guide to evidence, not a catalogue of conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pilbaranews.com.au/news/pilbara/have-you-seen-a-ufo-researcher-wants-to-hear-from-you-ng-ya-131109" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilbaranews.com.au">[Pilbara News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilbaranews.com.au</span><span class="citation-popover-title">Pilbara News Have you seen a UFO?</span><span class="citation-popover-snippet">Researcher wants to hear from you.October 22, 2015 — 22 Oct 2015 — Adelaide-based scientific researcher Keith Basterfield is calling out...</span><span class="citation-popover-meta">Published: October 22, 2015</span></span></span>
+Basterfield’s later work often reflected this evidence-based approach. He became known for revisiting older cases, searching archives and testing explanations rather than simply repeating earlier claims. That attitude helps explain why the South Australian catalogue remains useful decades after its compilation: it is primarily a guide to evidence, not a catalogue of conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pilbaranews.com.au/news/pilbara/have-you-seen-a-ufo-researcher-wants-to-hear-from-you-ng-ya-131109" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilbaranews.com.au">[Pilbara News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilbaranews.com.au</span><span class="citation-popover-title">Pilbara News Have you seen a UFO?</span><span class="citation-popover-snippet">Researcher wants to hear from you.October 22, 2015 — 22 Oct 2015 — Adelaide-based scientific researcher Keith Basterfield is calling out...</span><span class="citation-popover-meta">Published: October 22, 2015</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_basterfield_sa_catal_84444d-Illustration-3-dark.svg" | relative_url }}" alt="SA catalogue illustration 3" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_basterfield_sa_catal_84444d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_official_civilian_ar_1918e1_basterfield_sa_catal_84444d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -325,201 +325,201 @@ Basterfield’s later work often reflected this evidence-based approach. He beca
 
 Many South Australian UFO reports survive today because someone recorded where they could be found. The catalogue’s enduring significance is that it transformed scattered sightings into a research trail. Historians, archivists and UFO researchers can use it to identify original newspaper articles, locate forgotten witness reports and connect civilian accounts with official records.
 
-In the context of South Australia’s UFO history, the catalogue functions much like a map. It does not tell readers exactly what happened in every case, but it shows where the evidence lies and how different pieces of the historical record connect. For a subject often dominated by anecdote and repetition, that alone is a substantial contribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[australianufoarchives.files.wordpress.com+2Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
+In the context of South Australia’s UFO history, the catalogue functions much like a map. It does not tell readers exactly what happened in every case, but it shows where the evidence lies and how different pieces of the historical record connect. For a subject often dominated by anecdote and repetition, that alone is a substantial contribution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australianufoarchives.files.wordpress.com">[wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australianufoarchives.files.wordpress.com</span><span class="citation-popover-title">sa ufo reports 1902 to 1987</span><span class="citation-popover-snippet">5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-YsZ0pFFBTg" title="Archived: Australia&#x27;s UFO Files | Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-YsZ0pFFBTg" target="_blank" rel="noopener noreferrer">Archived: Australia&#x27;s UFO Files | Official Trailer</a></p><p class="youtube-embed-meta">Channel: BayView Entertainment &middot; Views: 395 &middot; Uploaded: December 2025 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-YsZ0pFFBTg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-YsZ0pFFBTg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How one catalogue mapped South Australia&#x27;s sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How one catalogue mapped South Australia&#x27;s sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Closely aligns with discussion of government files, documentation, and historical reporting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely aligns with discussion of government files, documentation, and historical reporting records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on investigation methods, documentation, and evaluation of sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigation methods, documentation, and evaluation of sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines large collections of reports and patterns across time and geography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines large collections of reports and patterns across time and geography.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides broad context for cataloguing, investigating, and cross-referencing UFO reports and historical cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad context for cataloguing, investigating, and cross-referencing UFO reports and historical cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Landscape Painting Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/0kkAAeSw4ulo1amc/s-l225.jpg" alt="Listing image for UFO Abduction Landscape Painting Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Landscape Painting Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sa-catalogue-how-one-catalogue-mapped-south-australia-s-sightings-south-australia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-catalogue-mapped-south-australia-s-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ In the context of South Australia’s UFO history, the catalogue functions much 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ In the context of South Australia’s UFO history, the catalogue functions much 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ In the context of South Australia’s UFO history, the catalogue functions much 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ In the context of South Australia’s UFO history, the catalogue functions much 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ In the context of South Australia’s UFO history, the catalogue functions much 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,109 +725,109 @@ In the context of South Australia’s UFO history, the catalogue functions much 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: australianufoarchives.files.wordpress.com  
    Title: sa ufo reports 1902 to 1987  
-   Link: <a href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow">https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</p></details>
+   Link:<a href="https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf" target="_blank" rel="noopener noreferrer nofollow">https://australianufoarchives.files.wordpress.com/2018/01/sa-ufo-reports-1902-to-1987.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 July 1972 Hectorville Adelaide SA 1830hrs 1September 17, 2015 — The Canberra crew could not see the UFO, but both the plane and UFO wer...</p></details>
    Published: September 17, 2015  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: project1947.com  
    Title: kbsaufo05 1  
-   Link: <a href="https://www.project1947.com/kbcat/kbsaufo05-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbsaufo05-1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947SOUTH AUSTRALIAN UFO REPORTS LISTING - Part OneThere were no external markings or portholes visible. (1. UFO Research South A...</p></details>
+   Link:<a href="https://www.project1947.com/kbcat/kbsaufo05-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbsaufo05-1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947SOUTH AUSTRALIAN UFO REPORTS LISTING - Part OneThere were no external markings or portholes visible. (1. UFO Research South A...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/kbcat/" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947Online Catalogues and Sighting SummariesKeith has produced a collection of original news reports and correspondence regarding...</p></details>
+   Link:<a href="https://www.project1947.com/kbcat/" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947Online Catalogues and Sighting SummariesKeith has produced a collection of original news reports and correspondence regarding...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufosa.files.wordpress.com  
    Title: south australian ufo story  
-   Link: <a href="https://ufosa.files.wordpress.com/2011/05/south_australian_ufo_story.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufosa.files.wordpress.com/2011/05/south_australian_ufo_story.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Not much else is known about SPACERS other than that according to a 1979 UFORSA Newsletter item they were still in existence in that year...</p></details>
+   Link:<a href="https://ufosa.files.wordpress.com/2011/05/south_australian_ufo_story.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufosa.files.wordpress.com/2011/05/south_australian_ufo_story.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not much else is known about SPACERS other than that according to a 1979 UFORSA Newsletter item they were still in existence in that year...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Australian ufology  
-   Link: <a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Westall UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westall_UFO</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westall_UFO</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: catalogue.nla.gov.au  
    Title: nla.gov.au Close encounters of an Australian kind: UFOs  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/1422782" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1422782</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - the image hypothesis: including a full catalogue of sightings / Keith Basterfield... UFO&#x27;s: a report on Australian encounters /...</p></details>
+   Link:<a href="https://catalogue.nla.gov.au/catalog/1422782" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1422782</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - the image hypothesis: including a full catalogue of sightings / Keith Basterfield... UFO&#x27;s: a report on Australian encounters /...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keith Basterfield - A CATALOGUE OF THE MORE...UFOs Sub Rosa Down Under: The Australian Military &amp; Government role in the UFO controversy...</p></details>
+   Link:<a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keith Basterfield - A CATALOGUE OF THE MORE...UFOs Sub Rosa Down Under: The Australian Military &amp; Government role in the UFO controversy...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pilbaranews.com.au  
    Title: Pilbara News Have you seen a UFO?  
-   Link: <a href="https://www.pilbaranews.com.au/news/pilbara/have-you-seen-a-ufo-researcher-wants-to-hear-from-you-ng-ya-131109" target="_blank" rel="noopener noreferrer nofollow">https://www.pilbaranews.com.au/news/pilbara/have-you-seen-a-ufo-researcher-wants-to-hear-from-you-ng-ya-131109</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher wants to hear from you.October 22, 2015 — 22 Oct 2015 — Adelaide-based scientific researcher Keith Basterfield is calling out...</p></details>
+   Link:<a href="https://www.pilbaranews.com.au/news/pilbara/have-you-seen-a-ufo-researcher-wants-to-hear-from-you-ng-ya-131109" target="_blank" rel="noopener noreferrer nofollow">https://www.pilbaranews.com.au/news/pilbara/have-you-seen-a-ufo-researcher-wants-to-hear-from-you-ng-ya-131109</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher wants to hear from you.October 22, 2015 — 22 Oct 2015 — Adelaide-based scientific researcher Keith Basterfield is calling out...</p></details>
    Published: October 22, 2015  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufor.asn.au  
-   Link: <a href="https://www.ufor.asn.au/wp-content/uploads/2015/04/AngelHairMarch2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufor.asn.au/wp-content/uploads/2015/04/AngelHairMarch2001.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Catalogue And Analysis Of Australian &#x27;Angel Hair&#x27; CasesI also knew that in UFO lore material of a similar appearance was occasionally l...</p></details>
+   Link:<a href="https://www.ufor.asn.au/wp-content/uploads/2015/04/AngelHairMarch2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufor.asn.au/wp-content/uploads/2015/04/AngelHairMarch2001.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Catalogue And Analysis Of Australian &#x27;Angel Hair&#x27; CasesI also knew that in UFO lore material of a similar appearance was occasionally l...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/1468429" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1468429</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.auUFO&#x27;s: a report on Australian encounters / Keith BasterfieldClose encounters of an Australian kind: UFOs - the image hypothes...</p></details>
+   Link:<a href="https://catalogue.nla.gov.au/catalog/1468429" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/1468429</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.auUFO&#x27;s: a report on Australian encounters / Keith BasterfieldClose encounters of an Australian kind: UFOs - the image hypothes...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/492616223/Australian-UFO-Magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/492616223/Australian-UFO-Magazine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>about the actual nature and reality of UFOs and their occupants. That is why • Contrary to ideas put...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/492616223/Australian-UFO-Magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/492616223/Australian-UFO-Magazine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>about the actual nature and reality of UFOs and their occupants. That is why • Contrary to ideas put...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dokumen.pub  
    Title: The Outsider's Guide to UFOs Volume 2: What are They?  
-   Link: <a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings. All of them endured until “freedom of information” laws... There are witness statements from the Hudson Valley wave listi...</p></details>
+   Link:<a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings. All of them endured until “freedom of information” laws... There are witness statements from the Hudson Valley wave listi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: abc.net.au  
    Title: curious adelaide ufo sightings across australia  
-   Link: <a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Australia&#x27;s X-Files: Curious Adelaide cracks open...22 Feb 2018 — From flying saucers to balls of light rocketing through the sky...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Australia&#x27;s X-Files: Curious Adelaide cracks open...22 Feb 2018 — From flying saucers to balls of light rocketing through the sky...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/murdrapparel/posts/were-releasing-the-ufo-filesthe-files/915619444451275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/murdrapparel/posts/were-releasing-the-ufo-filesthe-files/915619444451275/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>all personally photographed! · No photo description available.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/murdrapparel/posts/were-releasing-the-ufo-filesthe-files/915619444451275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/murdrapparel/posts/were-releasing-the-ufo-filesthe-files/915619444451275/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>all personally photographed! · No photo description available.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: yumpu.com  
    Title: afu library book list acquisitions 1975 2006  
-   Link: <a href="https://www.yumpu.com/en/document/view/19958656/afu-library-book-list-acquisitions-1975-2006" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/19958656/afu-library-book-list-acquisitions-1975-2006</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFU Library Book List (acquisitions 1975-2006)9 Aug 2013 — Basterfield, Keith: A catalogue of Australian UFO entity and related reports...</p></details>
+   Link:<a href="https://www.yumpu.com/en/document/view/19958656/afu-library-book-list-acquisitions" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/19958656/afu-library-book-list-acquisitions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFU Library Book List (acquisitions 1975-2006)9 Aug 2013 — Basterfield, Keith: A catalogue of Australian UFO entity and related reports...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CATALOGUE OF UFO SIGHTINGS IN ESSEX FOR 1976. Not-...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CATALOGUE OF UFO SIGHTINGS IN ESSEX FOR 1976. Not-...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CATALOGUE OF UFO SIGHTINGS IN ESSEX FOR 1976. Not...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CATALOGUE OF UFO SIGHTINGS IN ESSEX FOR 1976. Not...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abebooks.com  
-   Link: <a href="https://www.abebooks.com/UFOS-Image-Hypothesis-Close-Encounters-Australian/32358975604/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/UFOS-Image-Hypothesis-Close-Encounters-Australian/32358975604/bd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS: The Image Hypothesis; Close Encounters Of An...Home Keith Basterfield UFOS: The Image Hypothesis; Close Encounters Of An Australian...</p></details>
+   Link:<a href="https://www.abebooks.com/UFOS-Image-Hypothesis-Close-Encounters-Australian/32358975604/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/UFOS-Image-Hypothesis-Close-Encounters-Australian/32358975604/bd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS: The Image Hypothesis; Close Encounters Of An...Home Keith Basterfield UFOS: The Image Hypothesis; Close Encounters Of An Australian...</p></details>

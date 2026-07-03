@@ -256,7 +256,7 @@ image: /assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_pearc
 
 ## Introduction
 
-When unusual aerial sightings in [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }}) reached the Royal Australian Air Force (RAAF) at Pearce, they usually arrived through an administrative reporting chain rather than through a special UFO investigation system. For aviation-related reports, the first concern was often flight safety, airspace awareness and possible defence implications. Civil aviation officials received the initial report, assessed whether it might affect aviation operations, and then forwarded it to RAAF Base Pearce if military review appeared appropriate. The surviving paperwork shows a process that was routine, bureaucratic and heavily focused on identification rather than sensational claims. In the context of Western Australia’s aviation-linked sightings, understanding this reporting chain is often more revealing than the sighting itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">UFO Sighting on 25 i&#x27;eb~ 1983. The attached letter refers to a UFO 8ighttng on the evening of 25 i&#x27;ebru&amp;%&#x27;7 1983 and is for- warded!or...</span></span></span>
+When unusual aerial sightings in [Western Australia]({{ 'what-did-western-australia-really-see/' | relative_url }}) reached the Royal Australian Air Force (RAAF) at Pearce, they usually arrived through an administrative reporting chain rather than through a special UFO investigation system. For aviation-related reports, the first concern was often flight safety, airspace awareness and possible defence implications. Civil aviation officials received the initial report, assessed whether it might affect aviation operations, and then forwarded it to RAAF Base Pearce if military review appeared appropriate. The surviving paperwork shows a process that was routine, bureaucratic and heavily focused on identification rather than sensational claims. In the context of Western Australia’s aviation-linked sightings, understanding this reporting chain is often more revealing than the sighting itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">UFO Sighting on 25 i&#x27;eb~ 1983. The attached letter refers to a UFO 8ighttng on the evening of 25 i&#x27;ebru&amp;%&#x27;7 1983 and is for- warded!or...</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_pearce_reporting_cha_7940c7-Illustration-1-dark.svg" | relative_url }}" alt="Report Chain illustration 1" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_pearce_reporting_cha_7940c7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_pearce_reporting_cha_7940c7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,9 +264,9 @@ When unusual aerial sightings in [Western Australia]({{ 'what-did-western-austra
 
 Many Western Australian sightings involving pilots, aircraft crews or aviation observers did not go directly to the Air Force. Instead, they entered the system through the federal civil aviation bureaucracy, then known as the Department of Aviation.
 
-A surviving Department of Aviation file from the early 1980s provides a clear example. After a reported UFO sighting near [Watheroo]({{ 'watheroo/' | relative_url }}) on 25 February 1983, the Regional Director's office informed the witness that the report had been forwarded to the Officer Commanding at RAAF Base Pearce “for information and necessary action”. The same correspondence shows the Department forwarding the report to Pearce rather than attempting a full military investigation itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">UFO Sighting on 25 i&#x27;eb~ 1983. The attached letter refers to a UFO 8ighttng on the evening of 25 i&#x27;ebru&amp;%&#x27;7 1983 and is for- warded!or...</span></span></span>
+A surviving Department of Aviation file from the early 1980s provides a clear example. After a reported UFO sighting near [Watheroo]({{ 'watheroo/' | relative_url }}) on 25 February 1983, the Regional Director's office informed the witness that the report had been forwarded to the Officer Commanding at RAAF Base Pearce “for information and necessary action”. The same correspondence shows the Department forwarding the report to Pearce rather than attempting a full military investigation itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">UFO Sighting on 25 i&#x27;eb~ 1983. The attached letter refers to a UFO 8ighttng on the evening of 25 i&#x27;ebru&amp;%&#x27;7 1983 and is for- warded!or...</span></span></span>
 
-This routing made practical sense. Civil aviation authorities were already responsible for air traffic matters, pilot reporting channels and aviation safety concerns. If a report suggested an unidentified object near aircraft operations, an unusual radar return, or something potentially relevant to national security, the Air Force became the logical next step. The process resembled the handling of other aviation anomalies: information moved through established government channels rather than through a dedicated UFO office. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">UFO Sighting on 25 i&#x27;eb~ 1983. The attached letter refers to a UFO 8ighttng on the evening of 25 i&#x27;ebru&amp;%&#x27;7 1983 and is for- warded!or...</span></span></span>
+This routing made practical sense. Civil aviation authorities were already responsible for air traffic matters, pilot reporting channels and aviation safety concerns. If a report suggested an unidentified object near aircraft operations, an unusual radar return, or something potentially relevant to national security, the Air Force became the logical next step. The process resembled the handling of other aviation anomalies: information moved through established government channels rather than through a dedicated UFO office.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">UFO Sighting on 25 i&#x27;eb~ 1983. The attached letter refers to a UFO 8ighttng on the evening of 25 i&#x27;ebru&amp;%&#x27;7 1983 and is for- warded!or...</span></span></span>
 
 For witnesses, this could later create the impression that “the RAAF investigated”. In reality, the initial trigger was often a routine aviation report that happened to be forwarded onward.
 
@@ -275,7 +275,7 @@ For witnesses, this could later create the impression that “the RAAF investiga
 
 ## What Pearce was expected to check
 
-[RAAF Pearce]({{ 'raaf-pearce/' | relative_url }}) occupied a special place in Western Australia because it was the state's principal Air Force base and an important aviation hub. When reports arrived, Pearce was well positioned to compare them against known military activity, aircraft movements and other information available within Defence channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAAF_Base_Pearce" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAAF Base Pearce</span><span class="citation-popover-snippet">RAAF Base Pearce</span></span></span>
+[RAAF Pearce]({{ 'raaf-pearce/' | relative_url }}) occupied a special place in Western Australia because it was the state's principal Air Force base and an important aviation hub. When reports arrived, Pearce was well positioned to compare them against known military activity, aircraft movements and other information available within Defence channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAAF_Base_Pearce" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAAF Base Pearce</span><span class="citation-popover-snippet">RAAF Base Pearce</span></span></span>
 
 Historically, RAAF procedures for what were called “Unusual Aerial Sightings” focused on identification and assessment. The key questions were straightforward:
 
@@ -289,7 +289,7 @@ Historically, RAAF procedures for what were called “Unusual Aerial Sightings�
 
 </div>
 
-Australian UFO policy documents repeatedly framed the issue in these terms. The emphasis was on determining whether a report represented something requiring operational attention rather than proving or disproving extraordinary [explanations]({{ 'explanations-7a0dd2/' | relative_url }}). Official guidance stressed that many reports ultimately turned out to be aircraft, planets, meteors or other conventional causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive+2NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;... UFOS&#x27; KIGET HAVE POSED A &#x27;lERE/.T TO NATIONAL SECUIilTX. POLLOTINC SSVEPAL... UFO...</span></span></span>
+Australian UFO policy documents repeatedly framed the issue in these terms. The emphasis was on determining whether a report represented something requiring operational attention rather than proving or disproving extraordinary [explanations]({{ 'explanations-7a0dd2/' | relative_url }}). Official guidance stressed that many reports ultimately turned out to be aircraft, planets, meteors or other conventional causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;... UFOS&#x27; KIGET HAVE POSED A &#x27;lERE/.T TO NATIONAL SECUIilTX. POLLOTINC SSVEPAL... UFO...</span></span></span>
 
 The existence of Pearce within the reporting chain therefore reflected its operational role. A sighting reaching the base did not automatically become a major investigation. Often it simply meant that someone at an appropriate military headquarters was expected to check whether a known explanation existed.
 
@@ -297,7 +297,7 @@ The existence of Pearce within the reporting chain therefore reflected its opera
 <img src="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_pearce_reporting_cha_7940c7-Illustration-2-dark.svg" | relative_url }}" alt="Report Chain illustration 2" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_pearce_reporting_cha_7940c7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_pearce_reporting_cha_7940c7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Pearce as a handling centre
 
-Archival material suggests that Pearce was not merely a passive recipient of correspondence. Internal RAAF discussions from the period when Australia maintained formal UFO reporting procedures identified Pearce as one of the bases that frequently handled initial sighting reports. This reflects its position as the principal Air Force presence in Western Australia and a key point of contact for aviation-related matters in the state. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
+Archival material suggests that Pearce was not merely a passive recipient of correspondence. Internal RAAF discussions from the period when Australia maintained formal UFO reporting procedures identified Pearce as one of the bases that frequently handled initial sighting reports. This reflects its position as the principal Air Force presence in Western Australia and a key point of contact for aviation-related matters in the state.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
 
 That role helps explain why Western Australian aviation sightings repeatedly appear in files linked to Pearce. The base sat at the junction between local aviation activity and national defence reporting structures.
 
@@ -308,11 +308,11 @@ That role helps explain why Western Australian aviation sightings repeatedly app
 
 One of the most common misunderstandings in Australian UFO history is the assumption that a report's arrival at an Air Force base means the government considered it extraordinary.
 
-The surviving Western Australian records point in a different direction. Forwarding a report to Pearce was often an administrative decision rather than a judgement about the credibility of a UFO claim. Civil aviation officials had a duty to pass potentially relevant information to Defence. Pearce, in turn, had a responsibility to determine whether anything in the report required further attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">UFO Sighting on 25 i&#x27;eb~ 1983. The attached letter refers to a UFO 8ighttng on the evening of 25 i&#x27;ebru&amp;%&#x27;7 1983 and is for- warded!or...</span></span></span>
+The surviving Western Australian records point in a different direction. Forwarding a report to Pearce was often an administrative decision rather than a judgement about the credibility of a UFO claim. Civil aviation officials had a duty to pass potentially relevant information to Defence. Pearce, in turn, had a responsibility to determine whether anything in the report required further attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">UFO Sighting on 25 i&#x27;eb~ 1983. The attached letter refers to a UFO 8ighttng on the evening of 25 i&#x27;ebru&amp;%&#x27;7 1983 and is for- warded!or...</span></span></span>
 
 This distinction matters because official paperwork can appear impressive when viewed decades later. A witness may recall correspondence with the Department of Aviation and the RAAF, while the underlying file shows a much narrower process: receipt of a report, referral to the appropriate authority, a check against known explanations and closure if no defence concern was identified.
 
-National Archives material on Australia's UFO files repeatedly emphasises that the RAAF's interest arose from Cold War concerns about airspace security and unidentified objects in the sky, not from acceptance of alien visitation claims. The category “Unusual Aerial Sighting” itself was designed as a neutral reporting term. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</span></span></span>
+National Archives material on Australia's UFO files repeatedly emphasises that the RAAF's interest arose from Cold War concerns about airspace security and unidentified objects in the sky, not from acceptance of alien visitation claims. The category “Unusual Aerial Sighting” itself was designed as a neutral reporting term.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6A89_B2Jlfs" title="Pentagon releases UFO files after crew left ‘speechless’ by encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6A89_B2Jlfs" target="_blank" rel="noopener noreferrer">Pentagon releases UFO files after crew left ‘speechless’ by encounter</a></p><p class="youtube-embed-meta">Channel: Sky News Australia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6A89_B2Jlfs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6A89_B2Jlfs">Open on YouTube</a></p></div></div></div>
@@ -333,202 +333,202 @@ The paper trail shows a system concerned with practical questions:
 
 </div>
 
-Those questions explain why Pearce appears repeatedly in archival records connected to unusual aerial sightings. The base functioned as a regional assessment point within a wider national reporting network. Its involvement demonstrates that reports were taken seriously enough to be logged and checked, but not that officials regarded them as evidence of extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">UFO Sighting on 25 i&#x27;eb~ 1983. The attached letter refers to a UFO 8ighttng on the evening of 25 i&#x27;ebru&amp;%&#x27;7 1983 and is for- warded!or...</span></span></span>
+Those questions explain why Pearce appears repeatedly in archival records connected to unusual aerial sightings. The base functioned as a regional assessment point within a wider national reporting network. Its involvement demonstrates that reports were taken seriously enough to be logged and checked, but not that officials regarded them as evidence of extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">UFO Sighting on 25 i&#x27;eb~ 1983. The attached letter refers to a UFO 8ighttng on the evening of 25 i&#x27;ebru&amp;%&#x27;7 1983 and is for- warded!or...</span></span></span>
 
-For readers exploring Western Australia's UFO history, the significance of Pearce lies less in dramatic investigations than in what its paperwork reveals about government procedure. The route to the base was usually a matter of aviation administration, safety oversight and defence awareness—a reminder that many of the state's most interesting UFO records began as ordinary reports moving through ordinary channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">UFO Sighting on 25 i&#x27;eb~ 1983. The attached letter refers to a UFO 8ighttng on the evening of 25 i&#x27;ebru&amp;%&#x27;7 1983 and is for- warded!or...</span></span></span>
+For readers exploring Western Australia's UFO history, the significance of Pearce lies less in dramatic investigations than in what its paperwork reveals about government procedure. The route to the base was usually a matter of aviation administration, safety oversight and defence awareness—a reminder that many of the state's most interesting UFO records began as ordinary reports moving through ordinary channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">UFO Sighting on 25 i&#x27;eb~ 1983. The attached letter refers to a UFO 8ighttng on the evening of 25 i&#x27;ebru&amp;%&#x27;7 1983 and is for- warded!or...</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_pearce_reporting_cha_7940c7-Illustration-3-dark.svg" | relative_url }}" alt="Report Chain illustration 3" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_pearce_reporting_cha_7940c7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_raaf_pearce_sighting_1cf5f5_pearce_reporting_cha_7940c7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Reports Went to Pearce. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Reports Went to Pearce. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Keith+Basterfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BNS9PQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Keith+Basterfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Keith Basterfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Keith+Basterfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BNS9PQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Keith+Basterfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Keith Basterfield</p>
         
-        <p class="fr-book-desc">Covers Australian sightings, reporting practices and official responses that provide context for reports routed to RAAF facilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Keith+Basterfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers Australian sightings, reporting practices and official responses that provide context for reports routed to RAAF facilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Keith+Basterfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Government+UFO+Files+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Government UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQdlCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Government UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Government+UFO+Files+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Government UFO Files">The Government UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Government+UFO+Files+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Government UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQdlCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Government UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Government+UFO+Files+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Government UFO Files">The Government UFO Files</a>
+</h4>
+<p class="fr-book-author">By Kevin D Randle</p>
         
-        <p class="fr-book-desc">Focuses on bureaucratic handling, records and investigations of UFO reports, paralleling the administrative routing discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Government+UFO+Files+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on bureaucratic handling, records and investigations of UFO reports, paralleling the administrative routing discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Government+UFO+Files+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oz Files on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oz Files">The Oz Files</a>
-        </h4>
-        <p class="fr-book-author">By Bill Chalker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oz Files on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oz Files">The Oz Files</a>
+</h4>
+<p class="fr-book-author">By Bill Chalker</p>
         
-        <p class="fr-book-desc">Explains Australian government and RAAF handling of UFO reports, closely matching the reporting-chain focus of the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains Australian government and RAAF handling of UFO reports, closely matching the reporting-chain focus of the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides background on how military and government organisations worldwide handled unidentified aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on how military and government organisations worldwide handled unidentified aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Government+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Government UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oz+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oz Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Government+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Government UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oz+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oz Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 77 Squadron, RAAF Royal Australian Air Force (Kings Crown)"><img src="{{ '/assets/images/marketplace-covers/277319a451c5f41dbdee.jpg' | relative_url }}" alt="Listing image for 77 Squadron, RAAF Royal Australian Air Force (Kings Crown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">77 Squadron, RAAF Royal Australian Air Force (Kings Crown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 77 Squadron, RAAF Royal Australian Air Force (Kings Crown)"><img src="{{ '/assets/images/marketplace-covers/277319a451c5f41dbdee.jpg' | relative_url }}" alt="Listing image for 77 Squadron, RAAF Royal Australian Air Force (Kings Crown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">77 Squadron, RAAF Royal Australian Air Force (Kings Crown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for No. 77 Squadron - Royal Australian Air Force - Framed Memento of Service"><img src="{{ '/assets/images/marketplace-covers/21f2e2b3404911fb5734.jpg' | relative_url }}" alt="Listing image for No. 77 Squadron - Royal Australian Air Force - Framed Memento of Service" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">No. 77 Squadron - Royal Australian Air Force - Framed Memento of Service</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for No. 77 Squadron - Royal Australian Air Force - Framed Memento of Service"><img src="{{ '/assets/images/marketplace-covers/21f2e2b3404911fb5734.jpg' | relative_url }}" alt="Listing image for No. 77 Squadron - Royal Australian Air Force - Framed Memento of Service" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">No. 77 Squadron - Royal Australian Air Force - Framed Memento of Service</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO PLYMOUTH RAAF 10 SQUADRON MEMORIAL AT THE BARBICAN PLYMOUTH."><img src="{{ '/assets/images/marketplace-covers/d4c082ded62dec646fa1.jpg' | relative_url }}" alt="Listing image for PHOTO PLYMOUTH RAAF 10 SQUADRON MEMORIAL AT THE BARBICAN PLYMOUTH." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO PLYMOUTH RAAF 10 SQUADRON MEMORIAL AT THE BARBICAN PLYMOUTH.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO PLYMOUTH RAAF 10 SQUADRON MEMORIAL AT THE BARBICAN PLYMOUTH."><img src="{{ '/assets/images/marketplace-covers/d4c082ded62dec646fa1.jpg' | relative_url }}" alt="Listing image for PHOTO PLYMOUTH RAAF 10 SQUADRON MEMORIAL AT THE BARBICAN PLYMOUTH." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO PLYMOUTH RAAF 10 SQUADRON MEMORIAL AT THE BARBICAN PLYMOUTH.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Australia • RAAF Memorabilia: Sweetheart Badge, RAAF Metal Badge, RAAF Button"><img src="{{ '/assets/images/marketplace-covers/e643c822242ec6f6f922.jpg' | relative_url }}" alt="Listing image for Australia • RAAF Memorabilia: Sweetheart Badge, RAAF Metal Badge, RAAF Button" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Australia • RAAF Memorabilia: Sweetheart Badge, RAAF Metal Badge, RAAF Button</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Australia • RAAF Memorabilia: Sweetheart Badge, RAAF Metal Badge, RAAF Button"><img src="{{ '/assets/images/marketplace-covers/e643c822242ec6f6f922.jpg' | relative_url }}" alt="Listing image for Australia • RAAF Memorabilia: Sweetheart Badge, RAAF Metal Badge, RAAF Button" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Australia • RAAF Memorabilia: Sweetheart Badge, RAAF Metal Badge, RAAF Button</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="report-chain-why-ufo-reports-went-to-pearce-western-australia-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ For readers exploring Western Australia's UFO history, the significance of Pearc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ For readers exploring Western Australia's UFO history, the significance of Pearc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ For readers exploring Western Australia's UFO history, the significance of Pearc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ For readers exploring Western Australia's UFO history, the significance of Pearc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ For readers exploring Western Australia's UFO history, the significance of Pearc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,138 +734,138 @@ For readers exploring Western Australia's UFO history, the significance of Pearc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting on 25 i&#x27;eb~ 1983. The attached letter refers to a UFO 8ighttng on the evening of 25 i&#x27;ebru&amp;%&#x27;7 1983 and is for- warded!or...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/K95_1986-871_1886625.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting on 25 i&#x27;eb~ 1983. The attached letter refers to a UFO 8ighttng on the evening of 25 i&#x27;ebru&amp;%&#x27;7 1983 and is for- warded!or...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: naa.gov.au  
    Title: flying saucers fact or fiction  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</p></details>
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers – fact or fiction?28 Feb 2018 — The disappearance of an aircraft while the pilot was reporting a UFO created a media se...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: RAAF Base Pearce  
-   Link: <a href="https://en.wikipedia.org/wiki/RAAF_Base_Pearce" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAAF_Base_Pearce</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAAF_Base_Pearce" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAAF_Base_Pearce</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;Australian UFO Files&quot;... UFOS&#x27; KIGET HAVE POSED A &#x27;lERE/.T TO NATIONAL SECUIilTX. POLLOTINC SSVEPAL... UFO...</p></details>
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;Australian UFO Files&quot;... UFOS&#x27; KIGET HAVE POSED A &#x27;lERE/.T TO NATIONAL SECUIilTX. POLLOTINC SSVEPAL... UFO...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_554-1-30_Part%202_12055824_djvu.txt</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: documents.theblackvault.com  
    Title: E1327 5 4 AIR part 1 7061046  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%201_7061046.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%201_7061046.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>, AUSTRALIAN AIR FORCEHeadquarters RAAF PEARCE WA 6085. (2). Headquarters RAAF EDINBtJRGH SA 5111. (2)... ~au¥ have been in tho reported...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%201_7061046.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%201_7061046.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, AUSTRALIAN AIR FORCEHeadquarters RAAF PEARCE WA 6085. (2). Headquarters RAAF EDINBtJRGH SA 5111. (2)... ~au¥ have been in tho reported...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Australian ufology  
-   Link: <a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian ufologyUFO investigation groups · Mutual UFO Network Australia and New Zealand (MUFON) · Australian Centre for UFO Studies...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian ufologyUFO investigation groups · Mutual UFO Network Australia and New Zealand (MUFON) · Australian Centre for UFO Studies...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Pentagon releases UFO files after crew left 'speechless' by encounter  
-   Link: <a href="https://www.youtube.com/watch?v=6A89_B2Jlfs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6A89_B2Jlfs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Base Pearce...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6A89_B2Jlfs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6A89_B2Jlfs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Base Pearce...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: RAAF Base Pearce  
-   Link: <a href="https://www.youtube.com/watch?v=W6sbN8wM_DU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W6sbN8wM_DU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF - Our Air Force Heritage, a narration by Bryan Brown...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W6sbN8wM_DU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W6sbN8wM_DU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF - Our Air Force Heritage, a narration by Bryan Brown...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4ot2FCFinPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ot2FCFinPo</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4ot2FCFinPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ot2FCFinPo</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abc.net.au  
    Title: accessing australia secret ufo files  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Up until the 1990s, the Royal Australian Air Force (RAAF) was responsible for investigating UFOs — then called Unusual Aerial...Read more...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Up until the 1990s, the Royal Australian Air Force (RAAF) was responsible for investigating UFOs — then called Unusual Aerial...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO file&#x27; sheds light on strange encounters in Western...27 Jul 2020 — The UFO file holds dozens of police reports linked to sightings...</p></details>
+   Link:<a href="https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/perth-focus/ufo/12499372</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO file&#x27; sheds light on strange encounters in Western...27 Jul 2020 — The UFO file holds dozens of police reports linked to sightings...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified flyi...</p></details>
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified flyi...</p></details>
    Published: July 1960  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Each service record documents an individual&#x27;s career with the RAAF. Other useful records...Read more...</p></details>
+   Link:<a href="https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection/defence-and-war-service-records/royal-australian-air-force</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Each service record documents an individual&#x27;s career with the RAAF. Other useful records...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: slwa.wa.gov.au  
-   Link: <a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is not out thereThose reporting UFO sightings would describe what they saw in detail. The UFOs described were often metallic an...</p></details>
+   Link:<a href="https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there" target="_blank" rel="noopener noreferrer nofollow">https://slwa.wa.gov.au/stories/slwa-abc-radio/truth-not-out-there</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is not out thereThose reporting UFO sightings would describe what they saw in detail. The UFOs described were often metallic an...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/intl-au-pp959-5-3-air-pp959-1-5-3-air" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-au-pp959-5-3-air-pp959-1-5-3-air</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PP959/1 5/3/AIR, RAAF North-Eastern Area (Queensland) UFO File...Royal Australian Air Force North-Eastern Area (Queensland) regional UFO...</p></details>
+   Link:<a href="https://ufotransparency.com/files/intl-au-pp959-5-3-air-pp959-1-5-3-air" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-au-pp959-5-3-air-pp959-1-5-3-air</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PP959/1 5/3/AIR, RAAF North-Eastern Area (Queensland) UFO File...Royal Australian Air Force North-Eastern Area (Queensland) regional UFO...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thewest.com.au  
-   Link: <a href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow">https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>State records show the skies over WA have seen many UFOs5 Nov 2022 — Malcolm Quekett trawls through the Western Australian State records...</p></details>
+   Link:<a href="https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517" target="_blank" rel="noopener noreferrer nofollow">https://thewest.com.au/news/wa/was-ufo-history-revealed-state-records-show-the-skies-over-wa-have-seen-many-unidentified-flying-objects-c-8450517</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State records show the skies over WA have seen many UFOs5 Nov 2022 — Malcolm Quekett trawls through the Western Australian State records...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the lead up to Halloween, we&#x27;re diving into Perth&#x27;s history of alien encounters. Many of the reports come from country towns across WA...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DBs7Gd6yood/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBs7Gd6yood/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the lead up to Halloween, we&#x27;re diving into Perth&#x27;s history of alien encounters. Many of the reports come from country towns across WA...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: upload.wikimedia.org  
    Title: Investigations of flying saucers in Australia, A703, 554 1 30, part 3  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_554-1-30%2C_part_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/a8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_554-1-30%2C_part_3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5~4and Professor Bolotin&#x27;s article should be included in RAAF UFO policy and... policy as such, but it suggests a connection between UFO...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_554-1-30%2C_part_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/a8/Investigations_of_flying_saucers_in_Australia%2C_A703%2C_554-1-30%2C_part_3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5~4and Professor Bolotin&#x27;s article should be included in RAAF UFO policy and... policy as such, but it suggests a connection between UFO...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
    Title: australian raaf files show in 1973 after a defcon  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/gz91vy/australian_raaf_files_show_in_1973_after_a_defcon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/gz91vy/australian_raaf_files_show_in_1973_after_a_defcon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian RAAF files show in 1973, after a DEFCON 3 nuclear alert sent out by a base at NW Cape, two officers independently saw a “black...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/gz91vy/australian_raaf_files_show_in_1973_after_a_defcon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/gz91vy/australian_raaf_files_show_in_1973_after_a_defcon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian RAAF files show in 1973, after a DEFCON 3 nuclear alert sent out by a base at NW Cape, two officers independently saw a “black...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings are retained in the national archival...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/australias-forgotten-uap-record-now-part-disclosure-dr-andrew-btobc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings are retained in the national archival...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/WesternAustralia/comments/1nowen8/unexplained_lights_in_the_sky_sparks_uap_chatter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WesternAustralia/comments/1nowen8/unexplained_lights_in_the_sky_sparks_uap_chatter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s A newspaper report from Sydney&#x27;s The Daily Mirror on a UFO...</p></details>
+   Link:<a href="https://www.reddit.com/r/WesternAustralia/comments/1nowen8/unexplained_lights_in_the_sky_sparks_uap_chatter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WesternAustralia/comments/1nowen8/unexplained_lights_in_the_sky_sparks_uap_chatter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s A newspaper report from Sydney&#x27;s The Daily Mirror on a UFO...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>emains Australia&#x27;s largest mass sighting of a flying saucer...</p></details>
+   Link:<a href="https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/more-than-60-years-after-a-mass-ufo-sighting-in-melbourne-witnesses-are-still-st/122161955744899199/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>emains Australia&#x27;s largest mass sighting of a flying saucer...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Giant triangle&#x27;: Aussie&#x27;s &#x27;mind-blowing&#x27; UFO encounter1 Sept 2024 — Australia has a few “hot spots”, including Gosford, south of Wyong w...</p></details>
+   Link:<a href="https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Giant triangle&#x27;: Aussie&#x27;s &#x27;mind-blowing&#x27; UFO encounter1 Sept 2024 — Australia has a few “hot spots”, including Gosford, south of Wyong w...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: canberradaily.com.au  
    Title: the truth is out there canberra  
-   Link: <a href="https://canberradaily.com.au/the-truth-is-out-there-canberra/" target="_blank" rel="noopener noreferrer nofollow">https://canberradaily.com.au/the-truth-is-out-there-canberra/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is out there, Canberra11 Aug 2025 — Unbeknownst to many, every UFO sighting reported by the public up until 1994 was investigat...</p></details>
+   Link:<a href="https://canberradaily.com.au/the-truth-is-out-there-canberra/" target="_blank" rel="noopener noreferrer nofollow">https://canberradaily.com.au/the-truth-is-out-there-canberra/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is out there, Canberra11 Aug 2025 — Unbeknownst to many, every UFO sighting reported by the public up until 1994 was investigat...</p></details>

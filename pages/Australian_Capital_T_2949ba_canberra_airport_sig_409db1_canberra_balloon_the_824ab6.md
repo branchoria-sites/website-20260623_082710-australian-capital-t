@@ -256,7 +256,7 @@ image: /assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_ca
 
 ## Introduction
 
-For the Canberra Airport sighting of 15 July 1965, the weather balloon explanation remains the strongest conventional solution. It is not a perfect fit, but it accounts for more of the reported features than the competing Venus explanation that was initially circulated. The significance of the balloon theory is that it emerged from the official investigation itself: after examining the reports, the Royal Australian Air Force concluded that the object was probably a meteorological balloon released from the Wagga Wagga area rather than an extraordinary aerial craft. At the same time, investigators stopped short of claiming absolute certainty, leaving a small but persistent ambiguity in the case record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">31 Jul 1965 - Balloon theory on UFO - TroveBalloon theory on UFO. The RAAF issued a report yesterday on Us investigations into the s...</span></span></span>
+For the Canberra Airport sighting of 15 July 1965, the weather balloon explanation remains the strongest conventional solution. It is not a perfect fit, but it accounts for more of the reported features than the competing Venus explanation that was initially circulated. The significance of the balloon theory is that it emerged from the official investigation itself: after examining the reports, the Royal Australian Air Force concluded that the object was probably a meteorological balloon released from the Wagga Wagga area rather than an extraordinary aerial craft. At the same time, investigators stopped short of claiming absolute certainty, leaving a small but persistent ambiguity in the case record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">31 Jul 1965 - Balloon theory on UFO - TroveBalloon theory on UFO. The RAAF issued a report yesterday on Us investigations into the s...</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6-Illustration-1-dark.svg" | relative_url }}" alt="Balloon Theory illustration 1" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -267,31 +267,31 @@ Within [Australian Capital Territory]({{ 'australian-capital-territory/' | relat
 
 ## Why a Balloon Matched the Sighting
 
-The reported object was described as white, silvery, or bright against the daytime sky and was observed for an extended period by people accustomed to watching aircraft movements. Such descriptions are broadly consistent with a high-altitude meteorological balloon illuminated by sunlight. Weather balloons can appear remarkably conspicuous at altitude because the expanding balloon reflects sunlight and presents a bright, featureless target against a blue sky. The Bureau of Meteorology notes that weather balloons are routinely launched to gather atmospheric data and ascend to very high altitudes, where they can remain visible over long distances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bom.gov.au">[Bureau of Meteorology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bom.gov.au</span><span class="citation-popover-snippet">Bureau of MeteorologyWeather balloons &#124; The Bureau of...September 29, 2021 — Balloon-based weather observations provide precise measurem...</span><span class="citation-popover-meta">Published: September 29, 2021</span></span></span>
+The reported object was described as white, silvery, or bright against the daytime sky and was observed for an extended period by people accustomed to watching aircraft movements. Such descriptions are broadly consistent with a high-altitude meteorological balloon illuminated by sunlight. Weather balloons can appear remarkably conspicuous at altitude because the expanding balloon reflects sunlight and presents a bright, featureless target against a blue sky. The Bureau of Meteorology notes that weather balloons are routinely launched to gather atmospheric data and ascend to very high altitudes, where they can remain visible over long distances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bom.gov.au">[Bureau of Meteorology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bom.gov.au</span><span class="citation-popover-snippet">Bureau of MeteorologyWeather balloons &#124; The Bureau of...September 29, 2021 — Balloon-based weather observations provide precise measurem...</span><span class="citation-popover-meta">Published: September 29, 2021</span></span></span>
 
 Several aspects of the Canberra report align with that possibility:
 
 * The object was observed in daylight.
 * Witnesses described a bright white or silver appearance rather than structured aircraft features.
 * Reports suggested little or no obvious aircraft-like movement.
-* No radar evidence, photographs, or physical traces emerged to support a more exotic interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://citynews.com.au/2018/overall-its-the-season-to-be-looking-skywards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citynews.com.au">[Canberra CityNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citynews.com.au</span><span class="citation-popover-title">overall its the season to be looking skywards</span><span class="citation-popover-snippet">Canberra CityNewsOverall / It&#x27;s the season to be looking skywards18 Jul 2018 — Two among these once classified “UFO Files” to cause a sen...</span></span></span>
+* No radar evidence, photographs, or physical traces emerged to support a more exotic interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citynews.com.au/2018/overall-its-the-season-to-be-looking-skywards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citynews.com.au">[Canberra CityNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citynews.com.au</span><span class="citation-popover-title">overall its the season to be looking skywards</span><span class="citation-popover-snippet">Canberra CityNewsOverall / It&#x27;s the season to be looking skywards18 Jul 2018 — Two among these once classified “UFO Files” to cause a sen...</span></span></span>
 
 A balloon can also create the impression of remaining stationary. At high altitude, motion may be difficult to judge without nearby reference points. An object drifting slowly towards or away from an observer can appear fixed in place for long periods before suddenly seeming to move.
 
-This characteristic has repeatedly appeared in UFO investigations worldwide and explains why weather balloons became a frequent official explanation during the 1950s and 1960s. Large balloons operating at tens of thousands of feet could look unlike familiar aircraft while still being entirely mundane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk McDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">UFO was a...Read more...</span></span></span>
+This characteristic has repeatedly appeared in UFO investigations worldwide and explains why weather balloons became a frequent official explanation during the 1950s and 1960s. Large balloons operating at tens of thousands of feet could look unlike familiar aircraft while still being entirely mundane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk McDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">UFO was a...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sPHVvg-dXOs" title="Melbourne UFO Mystery: 50 Years On | Studio 10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sPHVvg-dXOs" target="_blank" rel="noopener noreferrer">Melbourne UFO Mystery: 50 Years On | Studio 10</a></p><p class="youtube-embed-meta">Channel: Studio 10 &middot; Views: 1.3M &middot; Uploaded: January 2016 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sPHVvg-dXOs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sPHVvg-dXOs">Open on YouTube</a></p></div></div></div>
 
 ## The Wagga Wagga Release Explanation
 
-The most important point in favour of the balloon theory is that it was not merely a speculative suggestion. Contemporary reporting stated that the RAAF investigation concluded the Canberra object was probably a weather balloon released from Wagga Wagga. The official report was issued about two weeks after the sighting and represented the Air Force's best reconstruction of events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">31 Jul 1965 - Balloon theory on UFO - TroveBalloon theory on UFO. The RAAF issued a report yesterday on Us investigations into the s...</span></span></span>
+The most important point in favour of the balloon theory is that it was not merely a speculative suggestion. Contemporary reporting stated that the RAAF investigation concluded the Canberra object was probably a weather balloon released from Wagga Wagga. The official report was issued about two weeks after the sighting and represented the Air Force's best reconstruction of events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">31 Jul 1965 - Balloon theory on UFO - TroveBalloon theory on UFO. The RAAF issued a report yesterday on Us investigations into the s...</span></span></span>
 
-Wagga Wagga lies to the south-west of Canberra and was part of a region where meteorological and defence-related balloon operations were entirely normal during the period. A balloon launched there could, under suitable wind conditions, travel substantial distances while remaining visible from locations far from its release point. Meteorological balloons are specifically designed to rise into upper atmospheric wind streams, making long-distance drift an expected behaviour rather than an anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bom.gov.au">[Bureau of Meteorology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bom.gov.au</span><span class="citation-popover-snippet">Bureau of MeteorologyWeather balloons &#124; The Bureau of...September 29, 2021 — Balloon-based weather observations provide precise measurem...</span><span class="citation-popover-meta">Published: September 29, 2021</span></span></span>
+Wagga Wagga lies to the south-west of Canberra and was part of a region where meteorological and defence-related balloon operations were entirely normal during the period. A balloon launched there could, under suitable wind conditions, travel substantial distances while remaining visible from locations far from its release point. Meteorological balloons are specifically designed to rise into upper atmospheric wind streams, making long-distance drift an expected behaviour rather than an anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bom.gov.au">[Bureau of Meteorology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bom.gov.au</span><span class="citation-popover-snippet">Bureau of MeteorologyWeather balloons &#124; The Bureau of...September 29, 2021 — Balloon-based weather observations provide precise measurem...</span><span class="citation-popover-meta">Published: September 29, 2021</span></span></span>
 
 The attraction of the Wagga Wagga explanation is that it links the sighting to a real object that would have existed independently of the witnesses. Unlike the Venus theory, which depended on observers misidentifying an astronomical object, the balloon hypothesis accepts that the witnesses genuinely saw something physical in the sky. The disagreement concerns what that object was, not whether it existed.
 
-This distinction helps explain why later commentators have often viewed the balloon explanation as stronger than the original Venus proposal. The witnesses included aviation personnel who were accustomed to observing the sky, making a simple planetary misidentification appear less convincing to many researchers. By contrast, a bright high-altitude balloon is exactly the sort of unusual but real aerial object that could momentarily puzzle experienced observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">31 Jul 1965 - Balloon theory on UFO - TroveBalloon theory on UFO. The RAAF issued a report yesterday on Us investigations into the s...</span></span></span>
+This distinction helps explain why later commentators have often viewed the balloon explanation as stronger than the original Venus proposal. The witnesses included aviation personnel who were accustomed to observing the sky, making a simple planetary misidentification appear less convincing to many researchers. By contrast, a bright high-altitude balloon is exactly the sort of unusual but real aerial object that could momentarily puzzle experienced observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">31 Jul 1965 - Balloon theory on UFO - TroveBalloon theory on UFO. The RAAF issued a report yesterday on Us investigations into the s...</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6-Illustration-2-dark.svg" | relative_url }}" alt="Balloon Theory illustration 2" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -307,11 +307,11 @@ Several uncertainties remain:
 * No publicly available launch record has emerged that definitively identifies the balloon involved.
 * No photograph ties the object to a recognisable balloon shape.
 * No instrument or radar record independently confirms the object's identity.
-* Witness recollections collected later sometimes emphasised features that seem unusual for an ordinary balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">31 Jul 1965 - Balloon theory on UFO - TroveBalloon theory on UFO. The RAAF issued a report yesterday on Us investigations into the s...</span></span></span>
+* Witness recollections collected later sometimes emphasised features that seem unusual for an ordinary balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">31 Jul 1965 - Balloon theory on UFO - TroveBalloon theory on UFO. The RAAF issued a report yesterday on Us investigations into the s...</span></span></span>
 
 </div>
 
-Because of these gaps, the RAAF's conclusion was expressed as a probability rather than a proven fact. The investigation effectively argued that a weather balloon best matched the available evidence, not that the case had been solved beyond dispute. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">31 Jul 1965 - Balloon theory on UFO - TroveBalloon theory on UFO. The RAAF issued a report yesterday on Us investigations into the s...</span></span></span>
+Because of these gaps, the RAAF's conclusion was expressed as a probability rather than a proven fact. The investigation effectively argued that a weather balloon best matched the available evidence, not that the case had been solved beyond dispute.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">31 Jul 1965 - Balloon theory on UFO - TroveBalloon theory on UFO. The RAAF issued a report yesterday on Us investigations into the s...</span></span></span>
 
 This distinction is important when assessing the Canberra Airport incident today. Some UFO cases remain unresolved because there is too little information to support any explanation. The Canberra case is different. Here, investigators identified a specific, realistic mechanism that fits much of the evidence, but the surviving documentation is insufficient to eliminate every doubt.
 
@@ -320,202 +320,202 @@ This distinction is important when assessing the Canberra Airport incident today
 
 ## Why the Balloon Theory Remains the Leading Explanation
 
-More than sixty years later, the weather balloon hypothesis remains the most persuasive interpretation because it explains the central observations without requiring extraordinary assumptions. It accounts for a bright daytime object, apparent stationarity, prolonged visibility, and the official investigative outcome. It also fits the broader pattern of mid-century UFO reports in which meteorological balloons repeatedly generated confusion among otherwise reliable witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bom.gov.au">[Bureau of Meteorology+2Kirk McDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bom.gov.au</span><span class="citation-popover-snippet">Bureau of MeteorologyWeather balloons &#124; The Bureau of...September 29, 2021 — Balloon-based weather observations provide precise measurem...</span><span class="citation-popover-meta">Published: September 29, 2021</span></span></span>
+More than sixty years later, the weather balloon hypothesis remains the most persuasive interpretation because it explains the central observations without requiring extraordinary assumptions. It accounts for a bright daytime object, apparent stationarity, prolonged visibility, and the official investigative outcome. It also fits the broader pattern of mid-century UFO reports in which meteorological balloons repeatedly generated confusion among otherwise reliable witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bom.gov.au">[bom.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bom.gov.au</span><span class="citation-popover-snippet">Bureau of MeteorologyWeather balloons &#124; The Bureau of...September 29, 2021 — Balloon-based weather observations provide precise measurem...</span><span class="citation-popover-meta">Published: September 29, 2021</span></span></span>
 
-Yet the Canberra Airport sighting has not become a straightforward debunking story. The surviving evidence is incomplete, and the exact balloon has never been conclusively identified in the public record. As a result, the case occupies an interesting middle ground in Australian Capital Territory UFO history: not a strong candidate for an extraordinary event, but not a perfectly closed case either. The weather balloon theory comes closest to fitting the known facts, while still leaving a few loose ends that prevent absolute certainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">31 Jul 1965 - Balloon theory on UFO - TroveBalloon theory on UFO. The RAAF issued a report yesterday on Us investigations into the s...</span></span></span>
+Yet the Canberra Airport sighting has not become a straightforward debunking story. The surviving evidence is incomplete, and the exact balloon has never been conclusively identified in the public record. As a result, the case occupies an interesting middle ground in Australian Capital Territory UFO history: not a strong candidate for an extraordinary event, but not a perfectly closed case either. The weather balloon theory comes closest to fitting the known facts, while still leaving a few loose ends that prevent absolute certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">31 Jul 1965 - Balloon theory on UFO - TroveBalloon theory on UFO. The RAAF issued a report yesterday on Us investigations into the s...</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6-Illustration-3-dark.svg" | relative_url }}" alt="Balloon Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_balloon_the_824ab6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Weather Balloon Theory That Almost Fits. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Weather Balloon Theory That Almost Fits. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on Project Blue Book-era case analysis and the challenge of separating misidentifications from unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on Project Blue Book-era case analysis and the challenge of separating misidentifications from unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader context for interpreting unusual aerial reports and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for interpreting unusual aerial reports and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores aviation-related UFO cases, making it relevant to an airport sighting discussed in the article.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores aviation-related UFO cases, making it relevant to an airport sighting discussed in the article.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek, J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek, J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines UFO reports using investigative methods similar to those applied in evaluating conventional explanations such as weather balloons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines UFO reports using investigative methods similar to those applied in evaluating conventional explanations such as weather balloons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy diagram earth other planets 1874 VINTAGE science posters print"><img src="{{ '/assets/images/marketplace-covers/e85671b1db334aea5420.jpg' | relative_url }}" alt="Listing image for Astronomy diagram earth other planets 1874 VINTAGE science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy diagram earth other planets 1874 VINTAGE science posters print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy diagram earth other planets 1874 VINTAGE science posters print"><img src="{{ '/assets/images/marketplace-covers/e85671b1db334aea5420.jpg' | relative_url }}" alt="Listing image for Astronomy diagram earth other planets 1874 VINTAGE science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy diagram earth other planets 1874 VINTAGE science posters print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOLAR SYSTEM PLANETS POSTER UNIVERSE SPACE TRAVEL ASTRONOMY ART IMAGE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/6df3d17fec6741e49492.jpg' | relative_url }}" alt="Listing image for SOLAR SYSTEM PLANETS POSTER UNIVERSE SPACE TRAVEL ASTRONOMY ART IMAGE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">SOLAR SYSTEM PLANETS POSTER UNIVERSE SPACE TRAVEL ASTRONOMY ART IMAGE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOLAR SYSTEM PLANETS POSTER UNIVERSE SPACE TRAVEL ASTRONOMY ART IMAGE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/6df3d17fec6741e49492.jpg' | relative_url }}" alt="Listing image for SOLAR SYSTEM PLANETS POSTER UNIVERSE SPACE TRAVEL ASTRONOMY ART IMAGE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">SOLAR SYSTEM PLANETS POSTER UNIVERSE SPACE TRAVEL ASTRONOMY ART IMAGE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="{{ '/assets/images/marketplace-covers/e5aa9449b49d3a654f6b.jpg' | relative_url }}" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="{{ '/assets/images/marketplace-covers/e5aa9449b49d3a654f6b.jpg' | relative_url }}" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="{{ '/assets/images/marketplace-covers/a6c54d90e907a807b9eb.jpg' | relative_url }}" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="{{ '/assets/images/marketplace-covers/a6c54d90e907a807b9eb.jpg' | relative_url }}" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="balloon-theory-the-weather-balloon-theory-that-almost-fits-australian-capital-territory-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ Yet the Canberra Airport sighting has not become a straightforward debunking sto
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ Yet the Canberra Airport sighting has not become a straightforward debunking sto
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ Yet the Canberra Airport sighting has not become a straightforward debunking sto
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ Yet the Canberra Airport sighting has not become a straightforward debunking sto
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ Yet the Canberra Airport sighting has not become a straightforward debunking sto
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,97 +721,97 @@ Yet the Canberra Airport sighting has not become a straightforward debunking sto
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105763811</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Jul 1965 - Balloon theory on UFO - TroveBalloon theory on UFO. The RAAF issued a report yesterday on Us investigations into the s...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105763811</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>31 Jul 1965 - Balloon theory on UFO - TroveBalloon theory on UFO. The RAAF issued a report yesterday on Us investigations into the s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: citynews.com.au  
    Title: overall its the season to be looking skywards  
-   Link: <a href="https://citynews.com.au/2018/overall-its-the-season-to-be-looking-skywards/" target="_blank" rel="noopener noreferrer nofollow">https://citynews.com.au/2018/overall-its-the-season-to-be-looking-skywards/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canberra CityNewsOverall / It&#x27;s the season to be looking skywards18 Jul 2018 — Two among these once classified “UFO Files” to cause a sen...</p></details>
+   Link:<a href="https://citynews.com.au/2018/overall-its-the-season-to-be-looking-skywards/" target="_blank" rel="noopener noreferrer nofollow">https://citynews.com.au/2018/overall-its-the-season-to-be-looking-skywards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canberra CityNewsOverall / It&#x27;s the season to be looking skywards18 Jul 2018 — Two among these once classified “UFO Files” to cause a sen...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bom.gov.au  
-   Link: <a href="https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of MeteorologyWeather balloons | The Bureau of...September 29, 2021 — Balloon-based weather observations provide precise measurem...</p></details>
+   Link:<a href="https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of MeteorologyWeather balloons | The Bureau of...September 29, 2021 — Balloon-based weather observations provide precise measurem...</p></details>
    Published: September 29, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: kirkmcd.princeton.edu  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO was a...Read more...</p></details>
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO was a...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: airforce.gov.au  
    Title: Display Aircraft  
-   Link: <a href="https://www.airforce.gov.au/community/visit-and-learn/heritage-centres/raaf-base-wagga-heritage-centre/display-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/community/visit-and-learn/heritage-centres/raaf-base-wagga-heritage-centre/display-aircraft</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It has been on display in the RAAF Wagga Aviation Heritage...Read more...</p></details>
+   Link:<a href="https://www.airforce.gov.au/community/visit-and-learn/heritage-centres/raaf-base-wagga-heritage-centre/display-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/community/visit-and-learn/heritage-centres/raaf-base-wagga-heritage-centre/display-aircraft</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It has been on display in the RAAF Wagga Aviation Heritage...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aer.gov.au  
    Title: Attachment 3 Bureau of Meteorology A history of stormy weather  
-   Link: <a href="https://www.aer.gov.au/system/files/Attachment%203%20-%20Bureau%20of%20Meteorology%20-%20A%20history%20of%20stormy%20weather.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aer.gov.au/system/files/Attachment%203%20-%20Bureau%20of%20Meteorology%20-%20A%20history%20of%20stormy%20weather.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There were heavy snowfalls in the Blue Mountains and Central Tablelands from. 18-20 July 1965 with areas around Lithgow reporting 30-60 c...</p></details>
+   Link:<a href="https://www.aer.gov.au/system/files/Attachment%203%20-%20Bureau%20of%20Meteorology%20-%20A%20history%20of%20stormy%20weather.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aer.gov.au/system/files/Attachment%203%20-%20Bureau%20of%20Meteorology%20-%20A%20history%20of%20stormy%20weather.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There were heavy snowfalls in the Blue Mountains and Central Tablelands from. 18-20 July 1965 with areas around Lithgow reporting 30-60 c...</p></details>
    Published: July 1965  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: defence-honours-tribunal.gov.au  
-   Link: <a href="https://defence-honours-tribunal.gov.au/wp-content/uploads/2019/11/Ubon-Inquiry-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://defence-honours-tribunal.gov.au/wp-content/uploads/2019/11/Ubon-Inquiry-Report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>INQUIRY INTO UNRESOLVED RECOGNITION ISSUES...I am pleased to present the report of the Defence Honours and Awards Appeals Tribunal on th...</p></details>
+   Link:<a href="https://defence-honours-tribunal.gov.au/wp-content/uploads/2019/11/Ubon-Inquiry-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://defence-honours-tribunal.gov.au/wp-content/uploads/2019/11/Ubon-Inquiry-Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INQUIRY INTO UNRESOLVED RECOGNITION ISSUES...I am pleased to present the report of the Defence Honours and Awards Appeals Tribunal on th...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: balloonaloftcanberra.com.au  
-   Link: <a href="https://balloonaloftcanberra.com.au/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://balloonaloftcanberra.com.au/about-us/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us | Hot Air Balloon RidesOur crew greet you upon arrival and see your balloon safely into the air, then return you after the fligh...</p></details>
+   Link:<a href="https://balloonaloftcanberra.com.au/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://balloonaloftcanberra.com.au/about-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Us | Hot Air Balloon RidesOur crew greet you upon arrival and see your balloon safely into the air, then return you after the fligh...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: canberraballoonspectacular.com  
-   Link: <a href="https://canberraballoonspectacular.com/" target="_blank" rel="noopener noreferrer nofollow">https://canberraballoonspectacular.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canberra Balloon SpectacularExperience the awe of vibrant hot air. We hope you enjoyed seeing so many hot air balloons inflate and launch...</p></details>
+   Link:<a href="https://canberraballoonspectacular.com/" target="_blank" rel="noopener noreferrer nofollow">https://canberraballoonspectacular.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canberra Balloon SpectacularExperience the awe of vibrant hot air. We hope you enjoyed seeing so many hot air balloons inflate and launch...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DV-tEpZD1Gg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV-tEpZD1Gg/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The #CanberraBalloonSpectacular is also the only festival on Earth that floats right over a national capital… and yes, you can stand bene...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DV-tEpZD1Gg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV-tEpZD1Gg/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The #CanberraBalloonSpectacular is also the only festival on Earth that floats right over a national capital… and yes, you can stand bene...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VisitCanberra/videos/canberra-balloon-spectacular-2026-/1961387824764589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VisitCanberra/videos/canberra-balloon-spectacular-2026-/1961387824764589/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s capital for the longest-running balloon fest | Visit Canberrayou can stand beneath the balloons as they inflate before drifting across...</p></details>
+   Link:<a href="https://www.facebook.com/VisitCanberra/videos/canberra-balloon-spectacular-2026-/1961387824764589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VisitCanberra/videos/canberra-balloon-spectacular-2026-/1961387824764589/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s capital for the longest-running balloon fest | Visit Canberrayou can stand beneath the balloons as they inflate before drifting across...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: raafbasewagga.com.au  
-   Link: <a href="https://raafbasewagga.com.au/history-of-raaf-base-wagga/" target="_blank" rel="noopener noreferrer nofollow">https://raafbasewagga.com.au/history-of-raaf-base-wagga/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Base Wagga MagazineHistory of RAAF Base WaggaRAAF Base Wagga is now the largest ground training base in the RAAF servicing not only...</p></details>
+   Link:<a href="https://raafbasewagga.com.au/history-of-raaf-base-wagga/" target="_blank" rel="noopener noreferrer nofollow">https://raafbasewagga.com.au/history-of-raaf-base-wagga/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Base Wagga MagazineHistory of RAAF Base WaggaRAAF Base Wagga is now the largest ground training base in the RAAF servicing not only...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: and the good time birthday celebrations keep on coming yesterday was raaf base w  
-   Link: <a href="https://www.facebook.com/AusAirForce/posts/and-the-good-time-birthday-celebrations-keep-on-coming-yesterday-was-raaf-base-w/10157858853532639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AusAirForce/posts/and-the-good-time-birthday-celebrations-keep-on-coming-yesterday-was-raaf-base-w/10157858853532639/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Australian Air ForceThe main centre for ground training in the RAAF today, RAAF Base Wagga was established in 1940 and housed No 2...</p></details>
+   Link:<a href="https://www.facebook.com/AusAirForce/posts/and-the-good-time-birthday-celebrations-keep-on-coming-yesterday-was-raaf-base-w/10157858853532639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AusAirForce/posts/and-the-good-time-birthday-celebrations-keep-on-coming-yesterday-was-raaf-base-w/10157858853532639/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Australian Air ForceThe main centre for ground training in the RAAF today, RAAF Base Wagga was established in 1940 and housed No 2...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: Hot Air Balloon Ride in Canberra An amazing flight this morning  
-   Link: <a href="https://www.facebook.com/groups/951618864874073/posts/9498019196900621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/951618864874073/posts/9498019196900621/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hot Air Balloon Ride in CanberraAn amazing flight this morning - thank you Suze McKenzie for the invite, you made these pictures possible...</p></details>
+   Link:<a href="https://www.facebook.com/groups/951618864874073/posts/9498019196900621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/951618864874073/posts/9498019196900621/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hot Air Balloon Ride in CanberraAn amazing flight this morning - thank you Suze McKenzie for the invite, you made these pictures possible...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: balloonstodrones.com  
-   Link: <a href="https://balloonstodrones.com/category/research-note/" target="_blank" rel="noopener noreferrer nofollow">https://balloonstodrones.com/category/research-note/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Squadron RAAF Canberra bombers are parked in the bays located in the immediate...Read more...</p></details>
+   Link:<a href="https://balloonstodrones.com/category/research-note/" target="_blank" rel="noopener noreferrer nofollow">https://balloonstodrones.com/category/research-note/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Squadron RAAF Canberra bombers are parked in the bays located in the immediate...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dailymotion.com  
    Title: Thousands gather for Canberra's annual Balloon Spectacular  
-   Link: <a href="https://www.dailymotion.com/video/xa201ww" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/xa201ww</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>video DailymotionDozens of hot air balloons took to the sky over Lake Burley Griffen for one of the capitals most colourful and most popu...</p></details>
+   Link:<a href="https://www.dailymotion.com/video/xa201ww" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/xa201ww</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>video DailymotionDozens of hot air balloons took to the sky over Lake Burley Griffen for one of the capitals most colourful and most popu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/CqH_GgSOEKs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CqH_GgSOEKs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#ICYMI our balloon team was back at it thrilling crowds along with many other...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/CqH_GgSOEKs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CqH_GgSOEKs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#ICYMI our balloon team was back at it thrilling crowds along with many other...Read more...</p></details>

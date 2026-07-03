@@ -260,20 +260,20 @@ One of the newest sources of UFO reports on [Western Australia]({{ 'what-did-wes
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_outback_misidentific_80bcb3_satellite_trains_wa_8826a7-Illustration-1-dark.svg" | relative_url }}" alt="Satellites illustration 1" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_outback_misidentific_80bcb3_satellite_trains_wa_8826a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_outback_misidentific_80bcb3_satellite_trains_wa_8826a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within Western Australia’s UFO history, satellite trains matter because they have introduced a modern explanation for some reports of lights travelling in formation. A witness may genuinely see a row of bright objects moving together overhead, yet the sight can often be traced to recently launched communications satellites, particularly those from the Starlink constellation. What once might have been logged as an unidentified formation can now frequently be checked against publicly available satellite data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did the sighting occur shortly after sunset or before sunrise?">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did the sighting occur shortly after sunset or before sunrise?</span><span class="citation-popover-snippet">Open source on space.com.</span></span></span>
+Within Western Australia’s UFO history, satellite trains matter because they have introduced a modern explanation for some reports of lights travelling in formation. A witness may genuinely see a row of bright objects moving together overhead, yet the sight can often be traced to recently launched communications satellites, particularly those from the Starlink constellation. What once might have been logged as an unidentified formation can now frequently be checked against publicly available satellite data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did the sighting occur shortly after sunset or before sunrise?">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did the sighting occur shortly after sunset or before sunrise?</span><span class="citation-popover-snippet">Open source on space.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hg0147s7NTI" title="Starlink Satellites Train - 5 most incredible Starlink Satellites Train seen earth Elon Musk SpaceX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hg0147s7NTI" target="_blank" rel="noopener noreferrer">Starlink Satellites Train - 5 most incredible Starlink Satellites Train seen earth Elon Musk SpaceX</a></p><p class="youtube-embed-meta">Channel: ViralVideoLab &middot; Views: 2.5K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hg0147s7NTI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hg0147s7NTI">Open on YouTube</a></p></div></div></div>
 
 ## How satellite strings appear after launch
 
-A satellite train forms shortly after a launch when a group of satellites has been released into a similar orbit but has not yet spread out. Seen from the ground, the satellites can resemble a chain of evenly spaced lights crossing the sky together. Witnesses commonly describe them as a “string of pearls”, a convoy of lights, or a formation moving with unusual precision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did the sighting occur shortly after sunset or before sunrise?">[Space+2EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did the sighting occur shortly after sunset or before sunrise?</span><span class="citation-popover-snippet">Open source on space.com.</span></span></span>
+A satellite train forms shortly after a launch when a group of satellites has been released into a similar orbit but has not yet spread out. Seen from the ground, the satellites can resemble a chain of evenly spaced lights crossing the sky together. Witnesses commonly describe them as a “string of pearls”, a convoy of lights, or a formation moving with unusual precision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did the sighting occur shortly after sunset or before sunrise?">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did the sighting occur shortly after sunset or before sunrise?</span><span class="citation-popover-snippet">Open source on space.com.</span></span></span>
 
-The effect is especially associated with SpaceX’s Starlink system. Newly deployed satellites remain close together for a limited period before gradually separating and moving into their operational positions. During this early phase they can appear as a long, coherent line of lights travelling silently across the heavens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did the sighting occur shortly after sunset or before sunrise?">[Space+2Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did the sighting occur shortly after sunset or before sunrise?</span><span class="citation-popover-snippet">Open source on space.com.</span></span></span>
+The effect is especially associated with SpaceX’s Starlink system. Newly deployed satellites remain close together for a limited period before gradually separating and moving into their operational positions. During this early phase they can appear as a long, coherent line of lights travelling silently across the heavens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did the sighting occur shortly after sunset or before sunrise?">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did the sighting occur shortly after sunset or before sunrise?</span><span class="citation-popover-snippet">Open source on space.com.</span></span></span>
 
 From a moving vehicle on an isolated WA highway, the sight can seem even stranger. The lights maintain their spacing, move steadily, and do not display the flashing navigation lights normally associated with aircraft. Because there is no engine noise and often no nearby source of illumination for comparison, the formation may look unlike anything the observer has previously encountered.
 
-Reports from around Australia repeatedly show people initially wondering whether they have seen a UFO, only to discover later that the lights were a recently launched satellite train. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/technology/science/space/hawkesbury-residents-shocked-by-lights-in-the-early-morning-sky/news-story/103b9b474f30c1c2e234badd23d4b165" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-snippet">It has been adopted by businesses, emergency services, and even Australia Post, which announced a partnership with Starlink to connect 27...</span></span></span>
+Reports from around Australia repeatedly show people initially wondering whether they have seen a UFO, only to discover later that the lights were a recently launched satellite train.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/technology/science/space/hawkesbury-residents-shocked-by-lights-in-the-early-morning-sky/news-story/103b9b474f30c1c2e234badd23d4b165" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-snippet">It has been adopted by businesses, emergency services, and even Australia Post, which announced a partnership with Starlink to connect 27...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/19QJb-fMvZ4" title="What&#x27;s that in the sky? Starlink puts on a show for the Triad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=19QJb-fMvZ4" target="_blank" rel="noopener noreferrer">What&#x27;s that in the sky? Starlink puts on a show for the Triad</a></p><p class="youtube-embed-meta">Channel: WFMY News 2</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=19QJb-fMvZ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=19QJb-fMvZ4">Open on YouTube</a></p></div></div></div>
@@ -282,7 +282,7 @@ Reports from around Australia repeatedly show people initially wondering whether
 
 Western Australia provides some of the darkest accessible skies in the world. Away from Perth and the major regional centres, there is very little light pollution. This is one reason the state is prized by amateur astronomers, but it also means satellite formations are often far more obvious than they would be over a brightly lit city.
 
-A satellite is visible when sunlight still reaches it even though the observer on the ground is already in darkness. This most commonly happens shortly after sunset or before sunrise. At those times the satellites can shine brightly while the surrounding sky remains dark. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did the sighting occur shortly after sunset or before sunrise?">[Space+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did the sighting occur shortly after sunset or before sunrise?</span><span class="citation-popover-snippet">Open source on space.com.</span></span></span>
+A satellite is visible when sunlight still reaches it even though the observer on the ground is already in darkness. This most commonly happens shortly after sunset or before sunrise. At those times the satellites can shine brightly while the surrounding sky remains dark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did the sighting occur shortly after sunset or before sunrise?">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did the sighting occur shortly after sunset or before sunrise?</span><span class="citation-popover-snippet">Open source on space.com.</span></span></span>
 
 Several features make satellite trains particularly memorable to outback drivers:
 
@@ -296,7 +296,7 @@ Several features make satellite trains particularly memorable to outback drivers
 
 </div>
 
-These characteristics can encourage an initial interpretation that something unusual or controlled is taking place. In reality, the formation itself is often the strongest clue that a recently launched group of satellites is involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did the sighting occur shortly after sunset or before sunrise?">[Space+2EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did the sighting occur shortly after sunset or before sunrise?</span><span class="citation-popover-snippet">Open source on space.com.</span></span></span>
+These characteristics can encourage an initial interpretation that something unusual or controlled is taking place. In reality, the formation itself is often the strongest clue that a recently launched group of satellites is involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did the sighting occur shortly after sunset or before sunrise?">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did the sighting occur shortly after sunset or before sunrise?</span><span class="citation-popover-snippet">Open source on space.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Western_Australia_1c735d_outback_misidentific_80bcb3_satellite_trains_wa_8826a7-Illustration-2-dark.svg" | relative_url }}" alt="Satellites illustration 2" data-theme-src-dark="{{ "/assets/images/Western_Australia_1c735d_outback_misidentific_80bcb3_satellite_trains_wa_8826a7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Western_Australia_1c735d_outback_misidentific_80bcb3_satellite_trains_wa_8826a7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -338,194 +338,194 @@ However, for reports from the late 2010s onwards, satellite constellations have 
 Within the broader theme of outback roads and natural misidentifications, satellite trains are a reminder that “unidentified” often means “not yet checked”. A dramatic formation seen above a lonely Western Australian highway may look extraordinary in the moment, but one of the first modern questions is now whether a recently launched chain of satellites was passing overhead at exactly the same time. [Space+2EarthSky](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why satellite trains fool outback drivers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why satellite trains fool outback drivers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how people interpret unusual observations and why extraordinary claims require careful investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains how people interpret unusual observations and why extraordinary claims require careful investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dG2DkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dG2DkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify satellites, planets, and other night-sky phenomena that are often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify satellites, planets, and other night-sky phenomena that are often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers context for evaluating reported unidentified objects and distinguishing investigated cases from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers context for evaluating reported unidentified objects and distinguishing investigated cases from misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IQhUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IQhUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Provides practical knowledge about observing objects moving across the night sky, including artificial satellites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical knowledge about observing objects moving across the night sky, including artificial satellites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="{{ '/assets/images/marketplace-covers/f78134edf861d5e1c812.jpg' | relative_url }}" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="{{ '/assets/images/marketplace-covers/f78134edf861d5e1c812.jpg' | relative_url }}" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="{{ '/assets/images/marketplace-covers/9bf58eaacb4a953fd330.jpg' | relative_url }}" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="{{ '/assets/images/marketplace-covers/9bf58eaacb4a953fd330.jpg' | relative_url }}" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift"><img src="{{ '/assets/images/marketplace-covers/e322cc9ac8d8a2d50029.jpg' | relative_url }}" alt="Listing image for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Space Satellite Base Building Block MOC Toy Model Set for Kids Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift"><img src="{{ '/assets/images/marketplace-covers/e322cc9ac8d8a2d50029.jpg' | relative_url }}" alt="Listing image for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Space Satellite Base Building Block MOC Toy Model Set for Kids Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kids STEM Toys DIY Physical Model Science Experiment Educational Toy Handmade Sm"><img src="{{ '/assets/images/marketplace-covers/2ade5e6d59045a92474d.jpg' | relative_url }}" alt="Listing image for Kids STEM Toys DIY Physical Model Science Experiment Educational Toy Handmade Sm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Kids STEM Toys DIY Physical Model Science Experiment Educational Toy Handmade Sm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kids STEM Toys DIY Physical Model Science Experiment Educational Toy Handmade Sm"><img src="{{ '/assets/images/marketplace-covers/2ade5e6d59045a92474d.jpg' | relative_url }}" alt="Listing image for Kids STEM Toys DIY Physical Model Science Experiment Educational Toy Handmade Sm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Kids STEM Toys DIY Physical Model Science Experiment Educational Toy Handmade Sm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-why-satellite-trains-fool-outback-drivers-western-australia-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ Within the broader theme of outback roads and natural misidentifications, satell
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ Within the broader theme of outback roads and natural misidentifications, satell
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ Within the broader theme of outback roads and natural misidentifications, satell
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ Within the broader theme of outback roads and natural misidentifications, satell
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ Within the broader theme of outback roads and natural misidentifications, satell
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,109 +731,109 @@ Within the broader theme of outback roads and natural misidentifications, satell
 
 ## Endnotes
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/space/hawkesbury-residents-shocked-by-lights-in-the-early-morning-sky/news-story/103b9b474f30c1c2e234badd23d4b165" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/hawkesbury-residents-shocked-by-lights-in-the-early-morning-sky/news-story/103b9b474f30c1c2e234badd23d4b165</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It has been adopted by businesses, emergency services, and even Australia Post, which announced a partnership with Starlink to connect 27...</p></details>
+   Link:<a href="https://www.news.com.au/technology/science/space/hawkesbury-residents-shocked-by-lights-in-the-early-morning-sky/news-story/103b9b474f30c1c2e234badd23d4b165" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/hawkesbury-residents-shocked-by-lights-in-the-early-morning-sky/news-story/103b9b474f30c1c2e234badd23d4b165</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It has been adopted by businesses, emergency services, and even Australia Post, which announced a partnership with Starlink to connect 27...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/1sgdril/im_trying_to_figure_out_if_what_i_just_saw_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/1sgdril/im_trying_to_figure_out_if_what_i_just_saw_in_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink internet satellites, often visible shortly after...</p></details>
+   Link:<a href="https://www.reddit.com/r/Starlink/comments/1sgdril/im_trying_to_figure_out_if_what_i_just_saw_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/1sgdril/im_trying_to_figure_out_if_what_i_just_saw_in_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink internet satellites, often visible shortly after...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the satellites need to be in the sun to be visible. A train of SpaceX Starlink satellites seen...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the satellites need to be in the sun to be visible. A train of SpaceX Starlink satellites seen...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/g4ghpk/if_you_saw_a_string_of_lights_in_the_sky_it_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/g4ghpk/if_you_saw_a_string_of_lights_in_the_sky_it_was/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If you saw a string of lights in the sky, it was part...Notice the starlink orbit paths are in sunlight while the UK is in shadow. That&#x27;...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/g4ghpk/if_you_saw_a_string_of_lights_in_the_sky_it_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/g4ghpk/if_you_saw_a_string_of_lights_in_the_sky_it_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If you saw a string of lights in the sky, it was part...Notice the starlink orbit paths are in sunlight while the UK is in shadow. That&#x27;...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
    Title: x starlink satellites  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomy5 May 2026 — Starlink satellites are easier to see a day or two after their l...</p></details>
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomy5 May 2026 — Starlink satellites are easier to see a day or two after their l...</p></details>
    Published: May 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The dispenser on the rocket releases them as a train. They will move apart and eventually make it...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The dispenser on the rocket releases them as a train. They will move apart and eventually make it...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/woahdude/comments/1dbdo5q/a_train_of_starlink_satellites_in_the_night_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/woahdude/comments/1dbdo5q/a_train_of_starlink_satellites_in_the_night_sky/</a>  
+   Link:<a href="https://www.reddit.com/r/woahdude/comments/1dbdo5q/a_train_of_starlink_satellites_in_the_night_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/woahdude/comments/1dbdo5q/a_train_of_starlink_satellites_in_the_night_sky/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: starwalk.space  
-   Link: <a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Tracker: Find Starlink Satellites TonightAfter launch, Starlink satellites usually remain tightly grouped into a line of moving...</p></details>
+   Link:<a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Tracker: Find Starlink Satellites TonightAfter launch, Starlink satellites usually remain tightly grouped into a line of moving...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StarlinkSpaceX began launching Starlink satellites in 2019. As of June 2026, the network consisted of approximately 10,413 satellites...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StarlinkSpaceX began launching Starlink satellites in 2019. As of June 2026, the network consisted of approximately 10,413 satellites...</p></details>
    Published: June 2026  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/video/SpaceX-Starlink-satellite-train-2019/-280374" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/video/SpaceX-Starlink-satellite-train-2019/-280374</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video of Starlink trainSpaceX Starlink satellites in the night sky over northwest Europe on May 24, 2019, shortly after they were launche...</p></details>
+   Link:<a href="https://www.britannica.com/video/SpaceX-Starlink-satellite-train-2019/-280374" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/video/SpaceX-Starlink-satellite-train-2019/-280374</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video of Starlink trainSpaceX Starlink satellites in the night sky over northwest Europe on May 24, 2019, shortly after they were launche...</p></details>
    Published: May 24, 2019  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space by the...</p></details>
+   Link:<a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space by the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: what youre seeing is a starlink satellite train a group of satellites traveling  
-   Link: <a href="https://www.facebook.com/AstronomyClips/posts/what-youre-seeing-is-a-starlink-satellite-train-a-group-of-satellites-traveling-/869816752072375/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstronomyClips/posts/what-youre-seeing-is-a-starlink-satellite-train-a-group-of-satellites-traveling-/869816752072375/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What you&#x27;re seeing is a Starlink “satellite train”9 Dec 2025 — What you&#x27;re seeing is a Starlink “satellite train”: a group of satellites...</p></details>
+   Link:<a href="https://www.facebook.com/AstronomyClips/posts/what-youre-seeing-is-a-starlink-satellite-train-a-group-of-satellites-traveling-/869816752072375/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstronomyClips/posts/what-youre-seeing-is-a-starlink-satellite-train-a-group-of-satellites-traveling-/869816752072375/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What you&#x27;re seeing is a Starlink “satellite train”9 Dec 2025 — What you&#x27;re seeing is a Starlink “satellite train”: a group of satellites...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: fox5atlanta.com  
    Title: FOX 5 Atlanta What are those lights in the sky?  
-   Link: <a href="https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites explained8 Apr 2025 — The line of lights seen across the Southeast was a formation of SpaceX&#x27;s Starlink satellites, a...</p></details>
+   Link:<a href="https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites explained8 Apr 2025 — The line of lights seen across the Southeast was a formation of SpaceX&#x27;s Starlink satellites, a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacexgroup/posts/10161479123196318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacexgroup/posts/10161479123196318/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ise when the satellites are still in sunlight and the observer is...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacexgroup/posts/10161479123196318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacexgroup/posts/10161479123196318/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ise when the satellites are still in sunlight and the observer is...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ksat.com  
    Title: Line of lights in the sky?  
-   Link: <a href="https://www.ksat.com/features/2023/10/20/line-of-lights-in-the-sky-how-starlink-satellites-are-creating-sense-of-wonder/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksat.com/features/2023/10/20/line-of-lights-in-the-sky-how-starlink-satellites-are-creating-sense-of-wonder/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Starlink satellites are creating...20 Oct 2023 — The source of these lights is Starlink satellites being launched in groups, and the...</p></details>
+   Link:<a href="https://www.ksat.com/features/2023/10/20/line-of-lights-in-the-sky-how-starlink-satellites-are-creating-sense-of-wonder/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksat.com/features/2023/10/20/line-of-lights-in-the-sky-how-starlink-satellites-are-creating-sense-of-wonder/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Starlink satellites are creating...20 Oct 2023 — The source of these lights is Starlink satellites being launched in groups, and the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wsls.com  
    Title: Line of lights in the sky?  
-   Link: <a href="https://www.wsls.com/features/2023/10/20/line-of-lights-in-the-sky-how-starlink-satellites-are-creating-sense-of-wonder/" target="_blank" rel="noopener noreferrer nofollow">https://www.wsls.com/features/2023/10/20/line-of-lights-in-the-sky-how-starlink-satellites-are-creating-sense-of-wonder/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Starlink satellites are creating...20 Oct 2023 — The source of these lights is Starlink satellites being launched in groups, and the...</p></details>
+   Link:<a href="https://www.wsls.com/features/2023/10/20/line-of-lights-in-the-sky-how-starlink-satellites-are-creating-sense-of-wonder/" target="_blank" rel="noopener noreferrer nofollow">https://www.wsls.com/features/2023/10/20/line-of-lights-in-the-sky-how-starlink-satellites-are-creating-sense-of-wonder/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Starlink satellites are creating...20 Oct 2023 — The source of these lights is Starlink satellites being launched in groups, and the...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: STARLIN K satellites train seen from earth  
-   Link: <a href="https://www.youtube.com/watch?v=pgysWWwESfU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pgysWWwESfU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STARLINK satellites train seen from earth - SpaceX Elon MuskThis video shows the SpaceX Starlink satellites train seen from europe. Some...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pgysWWwESfU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pgysWWwESfU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STARLINK satellites train seen from earth - SpaceX Elon MuskThis video shows the SpaceX Starlink satellites train seen from europe. Some...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: 5 most incredible Starlink Satellites Train seen earth Elon Musk Space X  
-   Link: <a href="https://www.youtube.com/watch?v=Hg0147s7NTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hg0147s7NTI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 What&#x27;s that in the sky? Starlink puts on a show for the Triad...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Hg0147s7NTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hg0147s7NTI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 What&#x27;s that in the sky? Starlink puts on a show for the Triad...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: What's that in the sky? Starlink puts on a show for the Triad  
-   Link: <a href="https://www.youtube.com/watch?v=19QJb-fMvZ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19QJb-fMvZ4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Starlink satellites, the string of lights in the night sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=19QJb-fMvZ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19QJb-fMvZ4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Starlink satellites, the string of lights in the night sky...</p></details>

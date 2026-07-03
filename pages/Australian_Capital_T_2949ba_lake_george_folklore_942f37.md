@@ -286,17 +286,17 @@ image: /assets/images/Australian_Capital_T_2949ba_lake_george_folklore_942f37-ov
 
 ## Introduction
 
-Lake George is part of the Canberra-region mystery landscape, but it is not the same thing as documented ACT UFO evidence. The lake lies in New South Wales, roughly north-east of Canberra, and its reputation comes from a wider mix of disappearing-water legends, ghost stories, bunyip tales, highway folklore and occasional UFO talk. That folklore matters because it shapes how many Canberrans imagine “strange skies” near the capital. But when the question is evidence, the stronger ACT material sits elsewhere: in dated newspaper reports, Royal Australian Air Force files, National [Archives]({{ 'archives/' | relative_url }}) holdings and specific Canberra-area cases such as the July 1965 Canberra Airport sighting. Lake George is best treated as a cultural hotspot, not as a well-documented UFO case file in its own right. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hercanberra.com.au">[HerCanberra+2NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hercanberra.com.au</span><span class="citation-popover-title">Her Canberra The mysteries of Lake George: fact or folklore? &#124; Her Canberra</span><span class="citation-popover-snippet">Her Canberra The mysteries of Lake George: fact or folklore? &#124; Her Canberra</span></span></span>
+Lake George is part of the Canberra-region mystery landscape, but it is not the same thing as documented ACT UFO evidence. The lake lies in New South Wales, roughly north-east of Canberra, and its reputation comes from a wider mix of disappearing-water legends, ghost stories, bunyip tales, highway folklore and occasional UFO talk. That folklore matters because it shapes how many Canberrans imagine “strange skies” near the capital. But when the question is evidence, the stronger ACT material sits elsewhere: in dated newspaper reports, Royal Australian Air Force files, National [Archives]({{ 'archives/' | relative_url }}) holdings and specific Canberra-area cases such as the July 1965 Canberra Airport sighting. Lake George is best treated as a cultural hotspot, not as a well-documented UFO case file in its own right.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hercanberra.com.au">[com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hercanberra.com.au</span><span class="citation-popover-title">Her Canberra The mysteries of Lake George: fact or folklore? &#124; Her Canberra</span><span class="citation-popover-snippet">Her Canberra The mysteries of Lake George: fact or folklore? &#124; Her Canberra</span></span></span>
 
 
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_lake_george_folklore_942f37-overview.webp" | relative_url }}" alt="Overview image for Lake George" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Lake George attracts mystery stories
 
-Lake George has all the ingredients of a local mystery site. It is large, exposed, close to the Federal Highway, visually dramatic, and familiar to generations of people driving between Canberra, Goulburn and Sydney. It can appear full, empty, glassy, windswept or strangely distant depending on the season and the weather. HerCanberra describes it as a place that has long gathered stories of “bunyips, UFOs and apparitions”, while also noting the very ordinary human fascination created by its changing water levels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hercanberra.com.au">[HerCanberra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hercanberra.com.au</span><span class="citation-popover-title">Her Canberra The mysteries of Lake George: fact or folklore? &#124; Her Canberra</span><span class="citation-popover-snippet">Her Canberra The mysteries of Lake George: fact or folklore? &#124; Her Canberra</span></span></span>
+Lake George has all the ingredients of a local mystery site. It is large, exposed, close to the Federal Highway, visually dramatic, and familiar to generations of people driving between Canberra, Goulburn and Sydney. It can appear full, empty, glassy, windswept or strangely distant depending on the season and the weather. HerCanberra describes it as a place that has long gathered stories of “bunyips, UFOs and apparitions”, while also noting the very ordinary human fascination created by its changing water levels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hercanberra.com.au">[HerCanberra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hercanberra.com.au</span><span class="citation-popover-title">Her Canberra The mysteries of Lake George: fact or folklore? &#124; Her Canberra</span><span class="citation-popover-snippet">Her Canberra The mysteries of Lake George: fact or folklore? &#124; Her Canberra</span></span></span>
 
-The lake’s physical behaviour is the key to its folklore. It is a shallow, closed basin: water does not drain out through a normal river system, so rainfall, inflow, wind and evaporation dominate what people see from the road. Geoscience Australia’s record of a 1979 hydrological study says the marked fluctuations are responses to seasonal and long-term variation in rainfall, evaporation and stream inflow, with winter increases and summer losses reflecting the balance between water entering and leaving the basin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ecat.ga.gov.au/geonetwork/srv/api/records/fae9173a-6fb3-71e4-e044-00144fdd4fa6?language=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecat.ga.gov.au">[ecat.ga.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecat.ga.gov.au</span><span class="citation-popover-title">Water levels, balance, and chemistry of Lake George, New South Wales</span><span class="citation-popover-snippet">Water levels, balance, and chemistry of Lake George, New South Wales</span></span></span>
+The lake’s physical behaviour is the key to its folklore. It is a shallow, closed basin: water does not drain out through a normal river system, so rainfall, inflow, wind and evaporation dominate what people see from the road. Geoscience Australia’s record of a 1979 hydrological study says the marked fluctuations are responses to seasonal and long-term variation in rainfall, evaporation and stream inflow, with winter increases and summer losses reflecting the balance between water entering and leaving the basin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ecat.ga.gov.au/geonetwork/srv/api/records/fae9173a-6fb3-71e4-e044-00144fdd4fa6?language=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecat.ga.gov.au">[ecat.ga.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecat.ga.gov.au</span><span class="citation-popover-title">Water levels, balance, and chemistry of Lake George, New South Wales</span><span class="citation-popover-snippet">Water levels, balance, and chemistry of Lake George, New South Wales</span></span></span>
 
-A later scientific review of two centuries of [Lake George water]({{ 'water-myths/' | relative_url }})-level records makes the same point in a broader historical frame. It says the lake’s flood-and-drought pattern corresponds with the climate of south-eastern Australia, and it explicitly notes that the lake’s unusual behaviour has led to myths about subterranean rivers and supposed connections with other distant lakes. The review also describes the record as the longest water-level record of its kind in the Southern Hemisphere, which helps explain why Lake George is both scientifically important and locally mythologised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://yumi-sabe.aiatsis.gov.au/sites/default/files/outputs/2024-05/08120099.2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumi-sabe.aiatsis.gov.au">[yumi-sabe.aiatsis.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumi-sabe.aiatsis.gov.au</span><span class="citation-popover-title">Two centuries of water-level records at Lake George, NSW</span><span class="citation-popover-snippet">Two centuries of water-level records at Lake George, NSW</span></span></span>
+A later scientific review of two centuries of [Lake George water]({{ 'water-myths/' | relative_url }})-level records makes the same point in a broader historical frame. It says the lake’s flood-and-drought pattern corresponds with the climate of south-eastern Australia, and it explicitly notes that the lake’s unusual behaviour has led to myths about subterranean rivers and supposed connections with other distant lakes. The review also describes the record as the longest water-level record of its kind in the Southern Hemisphere, which helps explain why Lake George is both scientifically important and locally mythologised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://yumi-sabe.aiatsis.gov.au/sites/default/files/outputs/2024-05/08120099.2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumi-sabe.aiatsis.gov.au">[yumi-sabe.aiatsis.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumi-sabe.aiatsis.gov.au</span><span class="citation-popover-title">Two centuries of water-level records at Lake George, NSW</span><span class="citation-popover-snippet">Two centuries of water-level records at Lake George, NSW</span></span></span>
 
 That scientific background does not make the folklore meaningless. It explains why the folklore is so durable. A place that visibly changes over years, months or even under strong wind is much easier to turn into a mystery landscape than a more predictable lake. The surprise is not that UFO stories attached themselves to Lake George; it is that almost every kind of strange-local-history story has done so.
 
@@ -306,11 +306,11 @@ That scientific background does not make the folklore meaningless. It explains w
 
 The useful distinction is not “believers versus sceptics”. It is folklore versus case evidence.
 
-Folklore is a repeated story attached to a place. It may be entertaining, locally meaningful and persistent without being tied to a dated report, named witness, investigation file, weather check, aircraft check or contemporary record. Lake George UFO talk usually appears in this form: as a claim that the lake is “known” for UFOs, a line in a mystery article, a ghost-tour theme, a local anecdote, or a playful explanation for odd structures on the lake bed. Region Canberra, for example, has described the lake in a popular mystery frame, while other local coverage has treated “UFO landing pad” comments as part of the lake’s wider culture of speculation rather than as investigated evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://region.com.au/lake-george-australias-bermuda-triangle-of-mystery/947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: region.com.au">[Region Canberra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">region.com.au</span><span class="citation-popover-title">Region Canberra Lake George</span><span class="citation-popover-snippet">Region Canberra Lake George</span></span></span>
+Folklore is a repeated story attached to a place. It may be entertaining, locally meaningful and persistent without being tied to a dated report, named witness, investigation file, weather check, aircraft check or contemporary record. Lake George UFO talk usually appears in this form: as a claim that the lake is “known” for UFOs, a line in a mystery article, a ghost-tour theme, a local anecdote, or a playful explanation for odd structures on the lake bed. Region Canberra, for example, has described the lake in a popular mystery frame, while other local coverage has treated “UFO landing pad” comments as part of the lake’s wider culture of speculation rather than as investigated evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://region.com.au/lake-george-australias-bermuda-triangle-of-mystery/947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: region.com.au">[Region Canberra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">region.com.au</span><span class="citation-popover-title">Region Canberra Lake George</span><span class="citation-popover-snippet">Region Canberra Lake George</span></span></span>
 
-Case evidence is different. It asks: when exactly was the object seen, by whom, from where, for how long, in what direction, with what weather and astronomical conditions, and what did investigators do next? By that standard, the documented ACT-region UFO material is thinner but more useful. The strongest Canberra example remains the 15 July 1965 Canberra Airport sighting, where civil aviation air traffic control officers reported a white object north-east of the control tower. A Canberra Times report nine days later said RAAF investigators had not completed their report, but that the airport object was believed to have been a daylight appearance of Venus; it also mentioned a separate brief night-time report of a white object with a tail, thought likely to be a meteorite or rocket body re-entering the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
+Case evidence is different. It asks: when exactly was the object seen, by whom, from where, for how long, in what direction, with what weather and astronomical conditions, and what did investigators do next? By that standard, the documented ACT-region UFO material is thinner but more useful. The strongest Canberra example remains the 15 July 1965 Canberra Airport sighting, where civil aviation air traffic control officers reported a white object north-east of the control tower. A Canberra Times report nine days later said RAAF investigators had not completed their report, but that the airport object was believed to have been a daylight appearance of Venus; it also mentioned a separate brief night-time report of a white object with a tail, thought likely to be a meteorite or rocket body re-entering the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 
-Keith Basterfield’s later review of the 1965 case adds an important archival layer. He reported that an RAAF summary listed the 15 July 1965 Canberra event as a “white spherical object” with possible astronomical cause, and that a telex from Headquarters Operations Command to the Department of Air concluded the object was Venus and that no further action would be taken. His review also shows why the case persisted in UFO literature: contemporary newspaper language made the sighting sound dramatic, partly because the object was seen during the period when attention was on Mars and the Mariner space probe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2011/09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena</span></span></span>
+Keith Basterfield’s later review of the 1965 case adds an important archival layer. He reported that an RAAF summary listed the 15 July 1965 Canberra event as a “white spherical object” with possible astronomical cause, and that a telex from Headquarters Operations Command to the Department of Air concluded the object was Venus and that no further action would be taken. His review also shows why the case persisted in UFO literature: contemporary newspaper language made the sighting sound dramatic, partly because the object was seen during the period when attention was on Mars and the Mariner space probe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2011/09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena</span></span></span>
 
 This is the central difference. Lake George folklore creates atmosphere; the Canberra [Airport case]({{ 'airport-case/' | relative_url }}) creates an evidentiary trail. That trail does not prove an extraordinary object, but it gives researchers something concrete to test. There are identifiable observers, a date, a place, an official response and proposed explanations. Lake George’s UFO reputation, by contrast, is usually a cluster of claims about a place rather than a single well-documented incident.
 
@@ -319,13 +319,13 @@ This is the central difference. Lake George folklore creates atmosphere; the Can
 
 ## What the Canberra records show more clearly than the lake legends
 
-Canberra’s real importance in Australian UFO history is administrative as much as local. The National Archives of Australia notes that postwar flying-saucer reports were usually recorded by the RAAF, which used forms and retained many files in the national archival collection. The Archives also explains that many public reports were identified as aircraft, the Moon, Venus or other ordinary objects, while reports by trained defence personnel could be harder to dismiss. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
+Canberra’s real importance in Australian UFO history is administrative as much as local. The National Archives of Australia notes that postwar flying-saucer reports were usually recorded by the RAAF, which used forms and retained many files in the national archival collection. The Archives also explains that many public reports were identified as aircraft, the Moon, Venus or other ordinary objects, while reports by trained defence personnel could be harder to dismiss.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
-That official record-keeping culture matters for ACT-region interpretation. A Lake George story passed around as a “mystery” may be locally famous, but unless it appears in a dated file or a contemporary report it cannot carry the same evidentiary weight as an airport, pilot, radar or official-report case. Canberra Daily’s 2025 overview of the old Defence files states that public UFO sightings were investigated by the RAAF until 1994, that reports were commonly attributed to satellites, meteors, aircraft, weather balloons, fireworks or birds, and that Canberra holds about 200 folders on UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canberradaily.com.au/the-truth-is-out-there-canberra/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canberradaily.com.au">[Canberra Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canberradaily.com.au</span><span class="citation-popover-title">Canberra Daily The truth is out there, Canberra &#124; Canberra Daily</span><span class="citation-popover-snippet">Canberra Daily The truth is out there, Canberra &#124; Canberra Daily</span></span></span>
+That official record-keeping culture matters for ACT-region interpretation. A Lake George story passed around as a “mystery” may be locally famous, but unless it appears in a dated file or a contemporary report it cannot carry the same evidentiary weight as an airport, pilot, radar or official-report case. Canberra Daily’s 2025 overview of the old Defence files states that public UFO sightings were investigated by the RAAF until 1994, that reports were commonly attributed to satellites, meteors, aircraft, weather balloons, fireworks or birds, and that Canberra holds about 200 folders on UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canberradaily.com.au/the-truth-is-out-there-canberra/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canberradaily.com.au">[Canberra Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canberradaily.com.au</span><span class="citation-popover-title">Canberra Daily The truth is out there, Canberra &#124; Canberra Daily</span><span class="citation-popover-snippet">Canberra Daily The truth is out there, Canberra &#124; Canberra Daily</span></span></span>
 
-The end of RAAF routine UFO investigation also changes how modern Canberra-region stories should be read. ABC reporting on Bill Chalker’s work with [RAAF files]({{ 'raaf-files/' | relative_url }}) says the Air Force closed its UFO files in the 1990s, and a former RAAF intelligence officer explained the decision as a judgement that unusual aerial sightings were not core intelligence business where there was no evidence of threat. The same report notes that official systemic investigations did not resume in the same way and that the files were sent to the National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+The end of RAAF routine UFO investigation also changes how modern Canberra-region stories should be read. ABC reporting on Bill Chalker’s work with [RAAF files]({{ 'raaf-files/' | relative_url }}) says the Air Force closed its UFO files in the 1990s, and a former RAAF intelligence officer explained the decision as a judgement that unusual aerial sightings were not core intelligence business where there was no evidence of threat. The same report notes that official systemic investigations did not resume in the same way and that the files were sent to the National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
-That leaves modern ACT-region sightings in a looser environment. A 2023 Canberra Daily story about astro-photographer Ari Rex, for example, describes an object photographed near Gundaroo that moved across the night sky for about ten minutes; the article also notes a possible explanation involving an Indian space launch around the same time. This kind of report is useful because it gives date, location, witness context and a plausible spaceflight check, but it is still not the same as a RAAF-era investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canberradaily.com.au/canberra-astro-photographer-captures-incredible-image-of-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canberradaily.com.au">[Canberra Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canberradaily.com.au</span><span class="citation-popover-snippet">Open source on com.au.</span></span></span>
+That leaves modern ACT-region sightings in a looser environment. A 2023 Canberra Daily story about astro-photographer Ari Rex, for example, describes an object photographed near Gundaroo that moved across the night sky for about ten minutes; the article also notes a possible explanation involving an Indian space launch around the same time. This kind of report is useful because it gives date, location, witness context and a plausible spaceflight check, but it is still not the same as a RAAF-era investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canberradaily.com.au/canberra-astro-photographer-captures-incredible-image-of-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canberradaily.com.au">[Canberra Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canberradaily.com.au</span><span class="citation-popover-snippet">Open source on com.au.</span></span></span>
 
 Lake George sits beside this record rather than inside it. It is part of the same Canberra-region imagination, but the evidence trail is not comparable.
 
@@ -367,194 +367,194 @@ The fairest assessment is that Lake George is an important Canberra-region myste
 <img src="{{ "/assets/images/Australian_Capital_T_2949ba_lake_george_folklore_942f37-Illustration-3-dark.svg" | relative_url }}" alt="Lake George illustration 3" data-theme-src-dark="{{ "/assets/images/Australian_Capital_T_2949ba_lake_george_folklore_942f37-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australian_Capital_T_2949ba_lake_george_folklore_942f37-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Lake George Folklore or UFO Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Lake George Folklore or UFO Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps readers distinguish folklore, anecdote, and evidence-based UFO case assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish folklore, anecdote, and evidence-based UFO case assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oz Files on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oz Files">The Oz Files</a>
-        </h4>
-        <p class="fr-book-author">By Bill Chalker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oz Files on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oz Files">The Oz Files</a>
+</h4>
+<p class="fr-book-author">By Bill Chalker</p>
         
-        <p class="fr-book-desc">Directly connects to Australian UFO culture and documented sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects to Australian UFO culture and documented sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oz+Files+by+Bill+Chalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Australian+Dreaming+by+Jennifer+Isaacs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Australian Dreaming on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Australian+Dreaming+by+Jennifer+Isaacs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Australian Dreaming">Australian Dreaming</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Isaacs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Australian+Dreaming+by+Jennifer+Isaacs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Australian Dreaming on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Australian+Dreaming+by+Jennifer+Isaacs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Australian Dreaming">Australian Dreaming</a>
+</h4>
+<p class="fr-book-author">By Jennifer Isaacs</p>
         
-        <p class="fr-book-desc">Provides cultural context for bunyip tales and folklore traditions associated with mysterious landscapes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Australian+Dreaming+by+Jennifer+Isaacs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cultural context for bunyip tales and folklore traditions associated with mysterious landscapes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Australian+Dreaming+by+Jennifer+Isaacs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oz+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oz Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oz+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oz Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="{{ '/assets/images/marketplace-covers/de21d59ef368bbab6f93.jpg' | relative_url }}" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="{{ '/assets/images/marketplace-covers/de21d59ef368bbab6f93.jpg' | relative_url }}" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="lake-george-lake-george-folklore-or-ufo-evidence-australian-capital-territory-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ The fairest assessment is that Lake George is an important Canberra-region myste
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ The fairest assessment is that Lake George is an important Canberra-region myste
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ The fairest assessment is that Lake George is an important Canberra-region myste
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ The fairest assessment is that Lake George is an important Canberra-region myste
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ The fairest assessment is that Lake George is an important Canberra-region myste
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,145 +760,145 @@ The fairest assessment is that Lake George is an important Canberra-region myste
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: naa.gov.au  
    Title: NAAFlying saucers – fact or fiction? | naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105762549</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/105762549" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105762549</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ecat.ga.gov.au  
    Title: Water levels, balance, and chemistry of Lake George, New South Wales  
-   Link: <a href="https://ecat.ga.gov.au/geonetwork/srv/api/records/fae9173a-6fb3-71e4-e044-00144fdd4fa6?language=eng" target="_blank" rel="noopener noreferrer nofollow">https://ecat.ga.gov.au/geonetwork/srv/api/records/fae9173a-6fb3-71e4-e044-00144fdd4fa6?language=eng</a>  
+   Link:<a href="https://ecat.ga.gov.au/geonetwork/srv/api/records/fae9173a-6fb3-71e4-e044-00144fdd4fa6?language=eng" target="_blank" rel="noopener noreferrer nofollow">https://ecat.ga.gov.au/geonetwork/srv/api/records/fae9173a-6fb3-71e4-e044-00144fdd4fa6?language=eng</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: yumi-sabe.aiatsis.gov.au  
    Title: Two centuries of water-level records at Lake George, NSW  
-   Link: <a href="https://yumi-sabe.aiatsis.gov.au/sites/default/files/outputs/2024-05/08120099.2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://yumi-sabe.aiatsis.gov.au/sites/default/files/outputs/2024-05/08120099.2020.pdf</a>  
+   Link:<a href="https://yumi-sabe.aiatsis.gov.au/sites/default/files/outputs/2024-05/08120099.2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://yumi-sabe.aiatsis.gov.au/sites/default/files/outputs/2024-05/08120099.2020.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: Unidentified Anomalous Phenomena  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2011/09/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2011/09/</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2011/09/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2011/09/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105763811</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/105763811" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/105763811</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ecat.ga.gov.au  
    Title: ga.gov.au Geology of the Lake George Basin  
-   Link: <a href="https://ecat.ga.gov.au/geonetwork/srv/api/records/a05f7892-7632-7506-e044-00144fdd4fa6" target="_blank" rel="noopener noreferrer nofollow">https://ecat.ga.gov.au/geonetwork/srv/api/records/a05f7892-7632-7506-e044-00144fdd4fa6</a>  
+   Link:<a href="https://ecat.ga.gov.au/geonetwork/srv/api/records/a05f7892-7632-7506-e044-00144fdd4fa6" target="_blank" rel="noopener noreferrer nofollow">https://ecat.ga.gov.au/geonetwork/srv/api/records/a05f7892-7632-7506-e044-00144fdd4fa6</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: AATI P/AAWSAP  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2018/12/aatipaawsap-publicly-available.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2018/12/aatipaawsap-publicly-available.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2018/12/aatipaawsap-publicly-available.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2018/12/aatipaawsap-publicly-available.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: airforce.gov.au  
    Title: Display Aircraft  
-   Link: <a href="https://www.airforce.gov.au/community/visit-and-learn/heritage-centres/raaf-base-wagga-heritage-centre/display-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/community/visit-and-learn/heritage-centres/raaf-base-wagga-heritage-centre/display-aircraft</a>  
+   Link:<a href="https://www.airforce.gov.au/community/visit-and-learn/heritage-centres/raaf-base-wagga-heritage-centre/display-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/community/visit-and-learn/heritage-centres/raaf-base-wagga-heritage-centre/display-aircraft</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: awm.gov.au  
-   Link: <a href="https://www.awm.gov.au/collection/F04785" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/F04785</a>  
+   Link:<a href="https://www.awm.gov.au/collection/F04785" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/F04785</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hercanberra.com.au  
    Title: Her Canberra The mysteries of Lake George: fact or folklore? | Her Canberra  
-   Link: <a href="https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/" target="_blank" rel="noopener noreferrer nofollow">https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/</a>  
+   Link:<a href="https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/" target="_blank" rel="noopener noreferrer nofollow">https://hercanberra.com.au/city/the-mysteries-of-lake-george-fact-or-folklore/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: region.com.au  
    Title: Region Canberra Lake George  
-   Link: <a href="https://region.com.au/lake-george-australias-bermuda-triangle-of-mystery/947/" target="_blank" rel="noopener noreferrer nofollow">https://region.com.au/lake-george-australias-bermuda-triangle-of-mystery/947/</a>  
+   Link:<a href="https://region.com.au/lake-george-australias-bermuda-triangle-of-mystery/947/" target="_blank" rel="noopener noreferrer nofollow">https://region.com.au/lake-george-australias-bermuda-triangle-of-mystery/947/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: canberradaily.com.au  
    Title: Canberra Daily The truth is out there, Canberra | Canberra Daily  
-   Link: <a href="https://canberradaily.com.au/the-truth-is-out-there-canberra/" target="_blank" rel="noopener noreferrer nofollow">https://canberradaily.com.au/the-truth-is-out-there-canberra/</a>  
+   Link:<a href="https://canberradaily.com.au/the-truth-is-out-there-canberra/" target="_blank" rel="noopener noreferrer nofollow">https://canberradaily.com.au/the-truth-is-out-there-canberra/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: canberradaily.com.au  
-   Link: <a href="https://canberradaily.com.au/canberra-astro-photographer-captures-incredible-image-of-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://canberradaily.com.au/canberra-astro-photographer-captures-incredible-image-of-ufo/</a>  
+   Link:<a href="https://canberradaily.com.au/canberra-astro-photographer-captures-incredible-image-of-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://canberradaily.com.au/canberra-astro-photographer-captures-incredible-image-of-ufo/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: region.com.au  
-   Link: <a href="https://region.com.au/lake-george-extract-from-a-case-for-ghosts-part-5/132530/" target="_blank" rel="noopener noreferrer nofollow">https://region.com.au/lake-george-extract-from-a-case-for-ghosts-part-5/132530/</a>  
+   Link:<a href="https://region.com.au/lake-george-extract-from-a-case-for-ghosts-part-5/132530/" target="_blank" rel="noopener noreferrer nofollow">https://region.com.au/lake-george-extract-from-a-case-for-ghosts-part-5/132530/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: region.com.au  
    Title: sneaky ufos sound good for gig at lake george winery  
-   Link: <a href="https://region.com.au/sneaky-ufos-sound-good-for-gig-at-lake-george-winery/416720/" target="_blank" rel="noopener noreferrer nofollow">https://region.com.au/sneaky-ufos-sound-good-for-gig-at-lake-george-winery/416720/</a>  
+   Link:<a href="https://region.com.au/sneaky-ufos-sound-good-for-gig-at-lake-george-winery/416720/" target="_blank" rel="noopener noreferrer nofollow">https://region.com.au/sneaky-ufos-sound-good-for-gig-at-lake-george-winery/416720/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: region.com.au  
    Title: lake george hasnt been this full for this long since the 1960s why is that  
-   Link: <a href="https://region.com.au/lake-george-hasnt-been-this-full-for-this-long-since-the-1960s-why-is-that/739551/" target="_blank" rel="noopener noreferrer nofollow">https://region.com.au/lake-george-hasnt-been-this-full-for-this-long-since-the-1960s-why-is-that/739551/</a>  
+   Link:<a href="https://region.com.au/lake-george-hasnt-been-this-full-for-this-long-since-the-1960s-why-is-that/739551/" target="_blank" rel="noopener noreferrer nofollow">https://region.com.au/lake-george-hasnt-been-this-full-for-this-long-since-the-1960s-why-is-that/739551/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: region.com.au  
-   Link: <a href="https://region.com.au/canberra-most-haunted/7970/" target="_blank" rel="noopener noreferrer nofollow">https://region.com.au/canberra-most-haunted/7970/</a>  
+   Link:<a href="https://region.com.au/canberra-most-haunted/7970/" target="_blank" rel="noopener noreferrer nofollow">https://region.com.au/canberra-most-haunted/7970/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: avalonlibrary.net  
    Title: Bill Chalker  
-   Link: <a href="https://avalonlibrary.net/ebooks/Bill%20Chalker%20-%20Hair%20of%20the%20Alien%20-%20DNA%20and%20Other%20Forensic%20Evidence%20for%20Alien%20Abductions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Bill%20Chalker%20-%20Hair%20of%20the%20Alien%20-%20DNA%20and%20Other%20Forensic%20Evidence%20for%20Alien%20Abductions.pdf</a>  
+   Link:<a href="https://avalonlibrary.net/ebooks/Bill%20Chalker%20-%20Hair%20of%20the%20Alien%20-%20DNA%20and%20Other%20Forensic%20Evidence%20for%20Alien%20Abductions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Bill%20Chalker%20-%20Hair%20of%20the%20Alien%20-%20DNA%20and%20Other%20Forensic%20Evidence%20for%20Alien%20Abductions.pdf</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: 'I could see this green mass': Tim The Yowie Man talks to 'ghost' eyewitness  
-   Link: <a href="https://www.youtube.com/watch?v=MhZK6QJvV0Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MhZK6QJvV0Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global crop circle phenomenon inspired by UFO mystery in Far North Queensland?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MhZK6QJvV0Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MhZK6QJvV0Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global crop circle phenomenon inspired by UFO mystery in Far North Queensland?...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Global crop circle phenomenon inspired by UFO mystery in Far North Queensland?  
-   Link: <a href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0YvaAlgokSs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Queensland&#x27;s X-Files: UFO sightings in North Queensland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0YvaAlgokSs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Queensland&#x27;s X-Files: UFO sightings in North Queensland...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: TYM The Series  
-   Link: <a href="https://www.youtube.com/watch?v=FaTUynwV9N8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FaTUynwV9N8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I could see this green mass&#x27;: Tim The Yowie Man talks to &#x27;ghost&#x27; eyewitness...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FaTUynwV9N8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FaTUynwV9N8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I could see this green mass&#x27;: Tim The Yowie Man talks to &#x27;ghost&#x27; eyewitness...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Queensland's X-Files: UFO sightings in North Queensland  
-   Link: <a href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yM7YtfUhEWM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Westall&#x27;s 50-year-old UFO sighting emerges again | 7NEWS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yM7YtfUhEWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yM7YtfUhEWM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Westall&#x27;s 50-year-old UFO sighting emerges again | 7NEWS...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/braidwoodbugle/posts/the-vast-brooding-expanse-of-lake-george-tucked-against-the-foothills-of-mountai/1455748326553922/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/braidwoodbugle/posts/the-vast-brooding-expanse-of-lake-george-tucked-against-the-foothills-of-mountai/1455748326553922/</a>  
+   Link:<a href="https://www.facebook.com/braidwoodbugle/posts/the-vast-brooding-expanse-of-lake-george-tucked-against-the-foothills-of-mountai/1455748326553922/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/braidwoodbugle/posts/the-vast-brooding-expanse-of-lake-george-tucked-against-the-foothills-of-mountai/1455748326553922/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dailymotion.com  
-   Link: <a href="https://www.dailymotion.com/video/x8o28gn" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x8o28gn</a>  
+   Link:<a href="https://www.dailymotion.com/video/x8o28gn" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x8o28gn</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: dailymotion.com  
-   Link: <a href="https://www.dailymotion.com/video/xa9rwm0" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/xa9rwm0</a>  
+   Link:<a href="https://www.dailymotion.com/video/xa9rwm0" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/xa9rwm0</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/CqH_GgSOEKs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CqH_GgSOEKs/</a>  
+   Link:<a href="https://www.instagram.com/p/CqH_GgSOEKs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CqH_GgSOEKs/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: muckrack.com  
-   Link: <a href="https://muckrack.com/christine-aldred-1/articles" target="_blank" rel="noopener noreferrer nofollow">https://muckrack.com/christine-aldred-1/articles</a>  
+   Link:<a href="https://muckrack.com/christine-aldred-1/articles" target="_blank" rel="noopener noreferrer nofollow">https://muckrack.com/christine-aldred-1/articles</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/videos/australias-ghost-lake-the-disappearing-waters-of-lake-george-/1603642697266257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/videos/australias-ghost-lake-the-disappearing-waters-of-lake-george-/1603642697266257/</a>  
+   Link:<a href="https://www.facebook.com/Abovethenormnews/videos/australias-ghost-lake-the-disappearing-waters-of-lake-george-/1603642697266257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/videos/australias-ghost-lake-the-disappearing-waters-of-lake-george-/1603642697266257/</a>  

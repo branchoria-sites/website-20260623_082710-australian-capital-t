@@ -256,13 +256,13 @@ image: /assets/images/Northern_Territory_205118_katherine_1974_light_d52979_kath
 
 ## Introduction
 
-On the evening of 15 October 1974, people in both Katherine in the [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) and the Fitzroy Crossing region of Western Australia reported an unusual display of reddish lights with visible tails moving across the sky. What makes these reports important is not that they came from one location, but that they came from places separated by hundreds of kilometres and yet described broadly similar phenomena at roughly the same time. That geographical spread became one of the strongest arguments against a local UFO event and in favour of a high-altitude re-entry of space hardware. Contemporary RAAF correspondence noted reports from both regions and treated the sightings as part of the same event, not as unrelated incidents. Later orbital re-entry research has reinforced that interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cyclonetracy.au/darwin-1974-a-letter-sent-the-next-day-frances-marilyn-roberts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclonetracy.au">[Cyclone Tracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclonetracy.au</span><span class="citation-popover-title">darwin 1974 a letter sent the next day frances marilyn roberts</span><span class="citation-popover-snippet">Cyclone TracyDarwin 1974 &amp; a Letter Sent the Next Day – Frances Marilyn...My husband John and I had recently relocated to Darwin with ou...</span></span></span>
+On the evening of 15 October 1974, people in both Katherine in the [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) and the Fitzroy Crossing region of Western Australia reported an unusual display of reddish lights with visible tails moving across the sky. What makes these reports important is not that they came from one location, but that they came from places separated by hundreds of kilometres and yet described broadly similar phenomena at roughly the same time. That geographical spread became one of the strongest arguments against a local UFO event and in favour of a high-altitude re-entry of space hardware. Contemporary RAAF correspondence noted reports from both regions and treated the sightings as part of the same event, not as unrelated incidents. Later orbital re-entry research has reinforced that interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cyclonetracy.au/darwin-1974-a-letter-sent-the-next-day-frances-marilyn-roberts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclonetracy.au">[Cyclone Tracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclonetracy.au</span><span class="citation-popover-title">darwin 1974 a letter sent the next day frances marilyn roberts</span><span class="citation-popover-snippet">Cyclone TracyDarwin 1974 &amp; a Letter Sent the Next Day – Frances Marilyn...My husband John and I had recently relocated to Darwin with ou...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_katherine_1974_light_d52979_katherine_witness_sp_31f149-Illustration-1-dark.svg" | relative_url }}" alt="Witness spread illustration 1" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_katherine_1974_light_d52979_katherine_witness_sp_31f149-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_katherine_1974_light_d52979_katherine_witness_sp_31f149-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Katherine witnesses said after 8 pm
 
-The Katherine reports described a group of reddish lights with tails moving rapidly across the sky shortly after 8 pm local time. Contemporary accounts recorded by RAAF personnel emphasised movement and appearance rather than any close encounter. Witnesses were not describing a hovering object, a landed craft or an object manoeuvring at low altitude. Instead, they described multiple glowing lights travelling together across a broad section of sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cyclonetracy.au/darwin-1974-a-letter-sent-the-next-day-frances-marilyn-roberts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclonetracy.au">[Cyclone Tracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclonetracy.au</span><span class="citation-popover-title">darwin 1974 a letter sent the next day frances marilyn roberts</span><span class="citation-popover-snippet">Cyclone TracyDarwin 1974 &amp; a Letter Sent the Next Day – Frances Marilyn...My husband John and I had recently relocated to Darwin with ou...</span></span></span>
+The Katherine reports described a group of reddish lights with tails moving rapidly across the sky shortly after 8 pm local time. Contemporary accounts recorded by RAAF personnel emphasised movement and appearance rather than any close encounter. Witnesses were not describing a hovering object, a landed craft or an object manoeuvring at low altitude. Instead, they described multiple glowing lights travelling together across a broad section of sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cyclonetracy.au/darwin-1974-a-letter-sent-the-next-day-frances-marilyn-roberts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclonetracy.au">[Cyclone Tracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclonetracy.au</span><span class="citation-popover-title">darwin 1974 a letter sent the next day frances marilyn roberts</span><span class="citation-popover-snippet">Cyclone TracyDarwin 1974 &amp; a Letter Sent the Next Day – Frances Marilyn...My husband John and I had recently relocated to Darwin with ou...</span></span></span>
 
 Several features stand out:
 
@@ -285,7 +285,7 @@ Those characteristics are often reported during atmospheric re-entries, when pie
 
 If the Katherine sighting had been the only report, investigators would have faced a wider range of possible explanations. Aircraft lights, unusual atmospheric effects, local misidentifications or isolated observational errors might all have remained candidates.
 
-The Fitzroy Crossing reports changed that picture. Witnesses in the Kimberley region reported a remarkably similar display on the same evening. The significance lies less in the exact wording of each account and more in their overall consistency. Observers separated by vast distances described a moving formation of reddish lights with tails rather than entirely different phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cyclonetracy.au/darwin-1974-a-letter-sent-the-next-day-frances-marilyn-roberts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclonetracy.au">[Cyclone Tracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclonetracy.au</span><span class="citation-popover-title">darwin 1974 a letter sent the next day frances marilyn roberts</span><span class="citation-popover-snippet">Cyclone TracyDarwin 1974 &amp; a Letter Sent the Next Day – Frances Marilyn...My husband John and I had recently relocated to Darwin with ou...</span></span></span>
+The Fitzroy Crossing reports changed that picture. Witnesses in the Kimberley region reported a remarkably similar display on the same evening. The significance lies less in the exact wording of each account and more in their overall consistency. Observers separated by vast distances described a moving formation of reddish lights with tails rather than entirely different phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cyclonetracy.au/darwin-1974-a-letter-sent-the-next-day-frances-marilyn-roberts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclonetracy.au">[Cyclone Tracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclonetracy.au</span><span class="citation-popover-title">darwin 1974 a letter sent the next day frances marilyn roberts</span><span class="citation-popover-snippet">Cyclone TracyDarwin 1974 &amp; a Letter Sent the Next Day – Frances Marilyn...My husband John and I had recently relocated to Darwin with ou...</span></span></span>
 
 For investigators, this was a crucial clue. A local object seen from Katherine would not normally generate matching reports from the Fitzroy Crossing area. The greater the distance between witness groups, the higher the object must generally be to remain visible to all of them simultaneously.
 
@@ -311,14 +311,14 @@ When sightings occur across a wide area, several common explanations become less
 
 By contrast, objects at very high altitude can be seen across enormous areas. A spacecraft or [rocket body]({{ 'rocket-body/' | relative_url }}) re-entering the atmosphere may become visible over several states or territories at once. As it breaks apart, observers can perceive multiple glowing fragments, often described as fireballs, tailed lights or formations of objects travelling together.
 
-The Katherine and Fitzroy Crossing reports fit this pattern more closely than they fit a localised UFO encounter. The wide witness distribution is not a secondary detail; it is one of the strongest pieces of evidence in the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cyclonetracy.au/darwin-1974-a-letter-sent-the-next-day-frances-marilyn-roberts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclonetracy.au">[Cyclone Tracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclonetracy.au</span><span class="citation-popover-title">darwin 1974 a letter sent the next day frances marilyn roberts</span><span class="citation-popover-snippet">Cyclone TracyDarwin 1974 &amp; a Letter Sent the Next Day – Frances Marilyn...My husband John and I had recently relocated to Darwin with ou...</span></span></span>
+The Katherine and Fitzroy Crossing reports fit this pattern more closely than they fit a localised UFO encounter. The wide witness distribution is not a secondary detail; it is one of the strongest pieces of evidence in the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cyclonetracy.au/darwin-1974-a-letter-sent-the-next-day-frances-marilyn-roberts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclonetracy.au">[Cyclone Tracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclonetracy.au</span><span class="citation-popover-title">darwin 1974 a letter sent the next day frances marilyn roberts</span><span class="citation-popover-snippet">Cyclone TracyDarwin 1974 &amp; a Letter Sent the Next Day – Frances Marilyn...My husband John and I had recently relocated to Darwin with ou...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VJvfZRY4Vbk" title="Fireball across Queensland causes panic | 7NEWS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VJvfZRY4Vbk" target="_blank" rel="noopener noreferrer">Fireball across Queensland causes panic | 7NEWS</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VJvfZRY4Vbk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VJvfZRY4Vbk">Open on YouTube</a></p></div></div></div>
 
 ## Why the witness spread supports a re-entry explanation
 
-The later identification of a likely Agena-D rocket body re-entry strengthened an interpretation that was already suggested by the witness geography. Researchers studying historical re-entries have linked the timing of the event to the atmospheric decay of a rocket body associated with the ATS-1 programme. The estimated timing aligns closely with the evening observations from northern Australia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/collection-objects/model-rocket-atlas-agena-d-148/nasm_A19720999000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">The Lockheed Missiles and Space Company began developing the Agena upper stage for the US Air Force in 1956.Read more...</span></span></span>
+The later identification of a likely Agena-D rocket body re-entry strengthened an interpretation that was already suggested by the witness geography. Researchers studying historical re-entries have linked the timing of the event to the atmospheric decay of a rocket body associated with the ATS-1 programme. The estimated timing aligns closely with the evening observations from northern Australia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/collection-objects/model-rocket-atlas-agena-d-148/nasm_A19720999000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">The Lockheed Missiles and Space Company began developing the Agena upper stage for the US Air Force in 1956.Read more...</span></span></span>
 
 Importantly, the witness reports and the re-entry model complement each other.
 
@@ -344,201 +344,201 @@ Comparing Katherine and Fitzroy Crossing highlights why investigators moved away
 
 The reports show that something genuinely unusual was visible in the northern Australian sky on 15 October 1974. Yet the very breadth of the observations points towards a high-altitude phenomenon rather than a nearby object. In that sense, the witness spread does not deepen the mystery; it helps explain it.
 
-Within the broader history of Northern Territory UFO reports, the Katherine case remains a useful example of how multiple independent sightings can strengthen an investigation while simultaneously supporting a conventional explanation. The matching reports from Katherine and Fitzroy Crossing transformed what might have looked like an isolated UFO sighting into evidence consistent with a dramatic atmospheric re-entry seen across northern Australia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cyclonetracy.au/darwin-1974-a-letter-sent-the-next-day-frances-marilyn-roberts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclonetracy.au">[Cyclone Tracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclonetracy.au</span><span class="citation-popover-title">darwin 1974 a letter sent the next day frances marilyn roberts</span><span class="citation-popover-snippet">Cyclone TracyDarwin 1974 &amp; a Letter Sent the Next Day – Frances Marilyn...My husband John and I had recently relocated to Darwin with ou...</span></span></span>
+Within the broader history of Northern Territory UFO reports, the Katherine case remains a useful example of how multiple independent sightings can strengthen an investigation while simultaneously supporting a conventional explanation. The matching reports from Katherine and Fitzroy Crossing transformed what might have looked like an isolated UFO sighting into evidence consistent with a dramatic atmospheric re-entry seen across northern Australia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cyclonetracy.au/darwin-1974-a-letter-sent-the-next-day-frances-marilyn-roberts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclonetracy.au">[Cyclone Tracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclonetracy.au</span><span class="citation-popover-title">darwin 1974 a letter sent the next day frances marilyn roberts</span><span class="citation-popover-snippet">Cyclone TracyDarwin 1974 &amp; a Letter Sent the Next Day – Frances Marilyn...My husband John and I had recently relocated to Darwin with ou...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HDlsdVuv6qQ" title="Spectacular fireball blazes across the night sky | ABC News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HDlsdVuv6qQ" target="_blank" rel="noopener noreferrer">Spectacular fireball blazes across the night sky | ABC News</a></p><p class="youtube-embed-meta">Channel: ABC News (Australia)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HDlsdVuv6qQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HDlsdVuv6qQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why did distant witnesses report the same lights?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why did distant witnesses report the same lights?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses witness testimony, patterns in reports, and methods for evaluating sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses witness testimony, patterns in reports, and methods for evaluating sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how multiple-witness and geographically separated reports are analysed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how multiple-witness and geographically separated reports are analysed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Discusses how large-scale sightings can arise from astronomical and atmospheric events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how large-scale sightings can arise from astronomical and atmospheric events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible College on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o4RTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible College" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible College">The Invisible College</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible College on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o4RTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible College" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible College">The Invisible College</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores patterns across witness reports and the interpretation of widespread sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores patterns across witness reports and the interpretation of widespread sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day CD Basket Case Grüne Sammler Hülle"><img src="{{ '/assets/images/marketplace-covers/57b827fd9c64b46341f3.jpg' | relative_url }}" alt="Listing image for Green Day CD Basket Case Grüne Sammler Hülle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day CD Basket Case Grüne Sammler Hülle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day CD Basket Case Grüne Sammler Hülle"><img src="{{ '/assets/images/marketplace-covers/57b827fd9c64b46341f3.jpg' | relative_url }}" alt="Listing image for Green Day CD Basket Case Grüne Sammler Hülle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day CD Basket Case Grüne Sammler Hülle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day - Basket Case MCD #G12447"><img src="{{ '/assets/images/marketplace-covers/538d5f3f3c67d195b72b.jpg' | relative_url }}" alt="Listing image for Green Day - Basket Case MCD #G12447" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day - Basket Case MCD #G12447</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day - Basket Case MCD #G12447"><img src="{{ '/assets/images/marketplace-covers/538d5f3f3c67d195b72b.jpg' | relative_url }}" alt="Listing image for Green Day - Basket Case MCD #G12447" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day - Basket Case MCD #G12447</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min"><img src="{{ '/assets/images/marketplace-covers/7dce6efe1ae3f275cca6.jpg' | relative_url }}" alt="Listing image for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min"><img src="{{ '/assets/images/marketplace-covers/7dce6efe1ae3f275cca6.jpg' | relative_url }}" alt="Listing image for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5dde7063b632c45a7f2c.jpg' | relative_url }}" alt="Listing image for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5dde7063b632c45a7f2c.jpg' | relative_url }}" alt="Listing image for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="witness-spread-why-did-distant-witnesses-report-the-same-lights-northern-territory-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ Within the broader history of Northern Territory UFO reports, the Katherine case
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ Within the broader history of Northern Territory UFO reports, the Katherine case
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ Within the broader history of Northern Territory UFO reports, the Katherine case
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ Within the broader history of Northern Territory UFO reports, the Katherine case
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ Within the broader history of Northern Territory UFO reports, the Katherine case
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,95 +744,95 @@ Within the broader history of Northern Territory UFO reports, the Katherine case
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cyclonetracy.au  
    Title: darwin 1974 a letter sent the next day frances marilyn roberts  
-   Link: <a href="https://cyclonetracy.au/darwin-1974-a-letter-sent-the-next-day-frances-marilyn-roberts/" target="_blank" rel="noopener noreferrer nofollow">https://cyclonetracy.au/darwin-1974-a-letter-sent-the-next-day-frances-marilyn-roberts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cyclone TracyDarwin 1974 &amp; a Letter Sent the Next Day – Frances Marilyn...My husband John and I had recently relocated to Darwin with ou...</p></details>
+   Link:<a href="https://cyclonetracy.au/darwin-1974-a-letter-sent-the-next-day-frances-marilyn-roberts/" target="_blank" rel="noopener noreferrer nofollow">https://cyclonetracy.au/darwin-1974-a-letter-sent-the-next-day-frances-marilyn-roberts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cyclone TracyDarwin 1974 &amp; a Letter Sent the Next Day – Frances Marilyn...My husband John and I had recently relocated to Darwin with ou...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: airandspace.si.edu  
-   Link: <a href="https://airandspace.si.edu/collection-objects/model-rocket-atlas-agena-d-148/nasm_A19720999000" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/collection-objects/model-rocket-atlas-agena-d-148/nasm_A19720999000</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lockheed Missiles and Space Company began developing the Agena upper stage for the US Air Force in 1956.Read more...</p></details>
+   Link:<a href="https://airandspace.si.edu/collection-objects/model-rocket-atlas-agena-d-148/nasm_A19720999000" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/collection-objects/model-rocket-atlas-agena-d-148/nasm_A19720999000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lockheed Missiles and Space Company began developing the Agena upper stage for the US Air Force in 1956.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pursuit.unimelb.edu.au  
    Title: unimelb.edu.au Send us baby food, board games  
-   Link: <a href="https://pursuit.unimelb.edu.au/articles/send-us-baby-food-board-games-and-some-barmaids" target="_blank" rel="noopener noreferrer nofollow">https://pursuit.unimelb.edu.au/articles/send-us-baby-food-board-games-and-some-barmaids</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>us baby food, board games - and some barmaids - PursuitNew records are filling the gaps in the story of how Darwin Red Cross responded to...</p></details>
+   Link:<a href="https://pursuit.unimelb.edu.au/articles/send-us-baby-food-board-games-and-some-barmaids" target="_blank" rel="noopener noreferrer nofollow">https://pursuit.unimelb.edu.au/articles/send-us-baby-food-board-games-and-some-barmaids</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>us baby food, board games - and some barmaids - PursuitNew records are filling the gaps in the story of how Darwin Red Cross responded to...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Cyclone Tracy  
-   Link: <a href="https://en.wikipedia.org/wiki/Cyclone_Tracy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cyclone_Tracy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cyclone TracyCyclone Tracy was a small but destructive tropical cyclone that devastated the city of Darwin, in the Northern Territory...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cyclone_Tracy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cyclone_Tracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cyclone TracyCyclone Tracy was a small but destructive tropical cyclone that devastated the city of Darwin, in the Northern Territory...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nma.gov.au  
    Title: cyclone tracy  
-   Link: <a href="https://www.nma.gov.au/defining-moments/resources/cyclone-tracy" target="_blank" rel="noopener noreferrer nofollow">https://www.nma.gov.au/defining-moments/resources/cyclone-tracy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Dec 2025 — Cyclone Tracy, which hit Darwin in the small hours of Christmas Day 1974, killed 66 people and devastated 80 per cent of the...</p></details>
+   Link:<a href="https://www.nma.gov.au/defining-moments/resources/cyclone-tracy" target="_blank" rel="noopener noreferrer nofollow">https://www.nma.gov.au/defining-moments/resources/cyclone-tracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Dec 2025 — Cyclone Tracy, which hit Darwin in the small hours of Christmas Day 1974, killed 66 people and devastated 80 per cent of the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: airforce.gov.au  
    Title: cyclone tracys destruction darwin  
-   Link: <a href="https://www.airforce.gov.au/about-us/history/our-journey/cyclone-tracys-destruction-darwin" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/about-us/history/our-journey/cyclone-tracys-destruction-darwin</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cyclone Tracy&#x27;s destruction of Darwin | Air Force25 Dec 1974 — After Darwin was devastated by Cyclone Tracy on Christmas Eve of 1974, the...</p></details>
+   Link:<a href="https://www.airforce.gov.au/about-us/history/our-journey/cyclone-tracys-destruction-darwin" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/about-us/history/our-journey/cyclone-tracys-destruction-darwin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cyclone Tracy&#x27;s destruction of Darwin | Air Force25 Dec 1974 — After Darwin was devastated by Cyclone Tracy on Christmas Eve of 1974, the...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: darwinproject.ac.uk  
-   Link: <a href="https://www.darwinproject.ac.uk/search?f1-date=1835&amp;f1-document-type=letter&amp;keyword=darwin&amp;sort=date" target="_blank" rel="noopener noreferrer nofollow">https://www.darwinproject.ac.uk/search?f1-date=1835&amp;f1-document-type=letter&amp;keyword=darwin&amp;sort=date</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResultsFound a new letter? Think we&#x27;ve made a mistake? Have a question? We&#x27;d like to hear from you. Email the Darwin Correspondence Proje...</p></details>
+   Link:<a href="https://www.darwinproject.ac.uk/search?f1-date=1835&amp;f1-document-type=letter&amp;keyword=darwin&amp;sort=date" target="_blank" rel="noopener noreferrer nofollow">https://www.darwinproject.ac.uk/search?f1-date=1835&amp;f1-document-type=letter&amp;keyword=darwin&amp;sort=date</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResultsFound a new letter? Think we&#x27;ve made a mistake? Have a question? We&#x27;d like to hear from you. Email the Darwin Correspondence Proje...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Thor-Agena" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thor-Agena</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thor-AgenaThor-Agena was a series of orbital launch vehicles. The launch vehicles used the Douglas-built Thor first stage and the Lock...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Thor-Agena" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thor-Agena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thor-AgenaThor-Agena was a series of orbital launch vehicles. The launch vehicles used the Douglas-built Thor first stage and the Lock...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: on this day 25 december 1974 cyclone tracy devastated the city of darwin with th  
-   Link: <a href="https://www.facebook.com/RoyalAustralianNavy/posts/on-this-day-25-december-1974-cyclone-tracy-devastated-the-city-of-darwin-with-th/1906939649320726/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyalAustralianNavy/posts/on-this-day-25-december-1974-cyclone-tracy-devastated-the-city-of-darwin-with-th/1906939649320726/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Dec: Cyclone Tracy devastated the city of DarwinOn this day, 25 December 1974, Cyclone Tracy devastated the city of Darwin with the lo...</p></details>
+   Link:<a href="https://www.facebook.com/RoyalAustralianNavy/posts/on-this-day-25-december-1974-cyclone-tracy-devastated-the-city-of-darwin-with-th/1906939649320726/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyalAustralianNavy/posts/on-this-day-25-december-1974-cyclone-tracy-devastated-the-city-of-darwin-with-th/1906939649320726/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Dec: Cyclone Tracy devastated the city of DarwinOn this day, 25 December 1974, Cyclone Tracy devastated the city of Darwin with the lo...</p></details>
    Published: december 1974  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: knowledge.aidr.org.au  
-   Link: <a href="https://knowledge.aidr.org.au/resources/cyclone-cyclone-tracy-darwin-1974/" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.aidr.org.au/resources/cyclone-cyclone-tracy-darwin-1974/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracy, NT 1974 | Australian DisastersTropical Cyclone Tracy struck Darwin in the early hours of 25 December 1974 killing 66 people and de...</p></details>
+   Link:<a href="https://knowledge.aidr.org.au/resources/cyclone-cyclone-tracy-darwin-1974/" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.aidr.org.au/resources/cyclone-cyclone-tracy-darwin-1974/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracy, NT 1974 | Australian DisastersTropical Cyclone Tracy struck Darwin in the early hours of 25 December 1974 killing 66 people and de...</p></details>
    Published: December 1974  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZeFqY3n9El/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZeFqY3n9El/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rrying nine small satellites into...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZeFqY3n9El/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZeFqY3n9El/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rrying nine small satellites into...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nextspaceflight.com  
-   Link: <a href="https://nextspaceflight.com/launches/details/2845/" target="_blank" rel="noopener noreferrer nofollow">https://nextspaceflight.com/launches/details/2845/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA on Wednesday August We, 1966 at 19:26 UTC...</p></details>
+   Link:<a href="https://nextspaceflight.com/launches/details/2845/" target="_blank" rel="noopener noreferrer nofollow">https://nextspaceflight.com/launches/details/2845/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA on Wednesday August We, 1966 at 19:26 UTC...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ccspacemuseum.org  
    Title: space launch complex 2 east  
-   Link: <a href="https://ccspacemuseum.org/facilities/space-launch-complex-2-east/" target="_blank" rel="noopener noreferrer nofollow">https://ccspacemuseum.org/facilities/space-launch-complex-2-east/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Gallery · Thorad Agena D 543/6222, SLC-2E, 14 April 1969 · Thor 220 – Complex 75-1-1 – 21 October 1959 · Thor Agena B 324/1114, Com...</p></details>
+   Link:<a href="https://ccspacemuseum.org/facilities/space-launch-complex-2-east/" target="_blank" rel="noopener noreferrer nofollow">https://ccspacemuseum.org/facilities/space-launch-complex-2-east/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Gallery · Thorad Agena D 543/6222, SLC-2E, 14 April 1969 · Thor 220 – Complex 75-1-1 – 21 October 1959 · Thor Agena B 324/1114, Com...</p></details>
    Published: April 1969  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: territorystories.nt.gov.au  
-   Link: <a href="https://territorystories.nt.gov.au/10070/660397/0" target="_blank" rel="noopener noreferrer nofollow">https://territorystories.nt.gov.au/10070/660397/0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracy 25 December 1974: typed list of evacuees...Cyclone Tracy 25 December 1974: typed list of evacuees passing through Katherine and/...</p></details>
+   Link:<a href="https://territorystories.nt.gov.au/10070/660397/0" target="_blank" rel="noopener noreferrer nofollow">https://territorystories.nt.gov.au/10070/660397/0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracy 25 December 1974: typed list of evacuees...Cyclone Tracy 25 December 1974: typed list of evacuees passing through Katherine and/...</p></details>
    Published: December 1974  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sandiegoairandspace.org  
-   Link: <a href="https://sandiegoairandspace.org/exhibits/online-exhibit-page/second-stage-needed-to-reach-deeper-space" target="_blank" rel="noopener noreferrer nofollow">https://sandiegoairandspace.org/exhibits/online-exhibit-page/second-stage-needed-to-reach-deeper-space</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Second Stage Needed to Reach Deeper SpaceAgena sat atop an Atlas D lower “stage and a half” configuration and, combined, provided two and...</p></details>
+   Link:<a href="https://sandiegoairandspace.org/exhibits/online-exhibit-page/second-stage-needed-to-reach-deeper-space" target="_blank" rel="noopener noreferrer nofollow">https://sandiegoairandspace.org/exhibits/online-exhibit-page/second-stage-needed-to-reach-deeper-space</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Second Stage Needed to Reach Deeper SpaceAgena sat atop an Atlas D lower “stage and a half” configuration and, combined, provided two and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19700003428/downloads/19700003428.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19700003428/downloads/19700003428.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thrust Augmented Thor-Agena successfully launched the Orbiting Geophysical. Observatory-IV into a low-altitude, near-polar elliptical tra...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19700003428/downloads/19700003428.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19700003428/downloads/19700003428.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thrust Augmented Thor-Agena successfully launched the Orbiting Geophysical. Observatory-IV into a low-altitude, near-polar elliptical tra...</p></details>

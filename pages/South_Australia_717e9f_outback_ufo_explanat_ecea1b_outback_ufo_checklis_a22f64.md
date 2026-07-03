@@ -256,7 +256,7 @@ image: /assets/images/South_Australia_717e9f_outback_ufo_explanat_ecea1b_outback
 
 ## Introduction
 
-Many South Australian outback UFO reports can be tested against ordinary sky sources before anyone decides that a sighting is truly unexplained. In practice, a careful check of the time, direction, duration and location often narrows the possibilities dramatically. Bright planets, aircraft, meteors, satellite re-entries, defence-range activity and unusual atmospheric conditions can all produce lights that seem extraordinary when viewed from a remote road or station property. The goal is not to dismiss [witnesses]({{ 'witnesses/' | relative_url }}). It is to separate what was observed from what was later inferred. In a state that contains vast dark-sky regions, active defence ranges and some of the longest sightlines in Australia, that distinction is essential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defence.gov.au/about/locations-property/base-induction/woomera-prohibited-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defence.gov.au">[Defence+2Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defence.gov.au</span><span class="citation-popover-title">Defence Woomera Prohibited Area</span><span class="citation-popover-snippet">Woomera Prohibited Area - Base induction - DefenceVisit the Woomera Prohibited Area website. Warning system: Sirens and lights wil...</span></span></span>
+Many South Australian outback UFO reports can be tested against ordinary sky sources before anyone decides that a sighting is truly unexplained. In practice, a careful check of the time, direction, duration and location often narrows the possibilities dramatically. Bright planets, aircraft, meteors, satellite re-entries, defence-range activity and unusual atmospheric conditions can all produce lights that seem extraordinary when viewed from a remote road or station property. The goal is not to dismiss [witnesses]({{ 'witnesses/' | relative_url }}). It is to separate what was observed from what was later inferred. In a state that contains vast dark-sky regions, active defence ranges and some of the longest sightlines in Australia, that distinction is essential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defence.gov.au/about/locations-property/base-induction/woomera-prohibited-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defence.gov.au">[defence.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defence.gov.au</span><span class="citation-popover-title">Defence Woomera Prohibited Area</span><span class="citation-popover-snippet">Woomera Prohibited Area - Base induction - DefenceVisit the Woomera Prohibited Area website. Warning system: Sirens and lights wil...</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_outback_ufo_explanat_ecea1b_outback_ufo_checklis_a22f64-Illustration-1-dark.svg" | relative_url }}" alt="Checklists illustration 1" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_outback_ufo_explanat_ecea1b_outback_ufo_checklis_a22f64-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_outback_ufo_explanat_ecea1b_outback_ufo_checklis_a22f64-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -297,7 +297,7 @@ Once the basic details are known, the next step is comparison with known sky act
 
 Meteor fireballs are among the most dramatic ordinary explanations for outback UFO reports. South Australia's dark skies make bright meteors especially conspicuous. Witnesses may describe glowing objects, sudden flashes, fragmentation or apparent manoeuvres when a meteor breaks apart during atmospheric entry.
 
-Spacecraft re-entries can be even more confusing because they often remain visible longer than natural meteors and may produce multiple glowing fragments. A modern example was the highly visible return of Japan's [Hayabusa-2]({{ 'hayabusa-2/' | relative_url }}) capsule over South Australia in 2020, observed as a bright fireball crossing the sky before landing within the [Woomera]({{ 'woomera/' | relative_url }}) region. To an observer unaware of the planned event, the spectacle could easily have resembled a classic UFO report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2111.02235" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Scientific Observation Campaign of the Hayabusa-2 Capsule Re-entry</span><span class="citation-popover-snippet">The Scientific Observation Campaign of the Hayabusa-2 Capsule Re-entryNovember 3, 2021...</span><span class="citation-popover-meta">Published: November 3, 2021</span></span></span>
+Spacecraft re-entries can be even more confusing because they often remain visible longer than natural meteors and may produce multiple glowing fragments. A modern example was the highly visible return of Japan's [Hayabusa-2]({{ 'hayabusa-2/' | relative_url }}) capsule over South Australia in 2020, observed as a bright fireball crossing the sky before landing within the [Woomera]({{ 'woomera/' | relative_url }}) region. To an observer unaware of the planned event, the spectacle could easily have resembled a classic UFO report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2111.02235" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Scientific Observation Campaign of the Hayabusa-2 Capsule Re-entry</span><span class="citation-popover-snippet">The Scientific Observation Campaign of the Hayabusa-2 Capsule Re-entryNovember 3, 2021...</span><span class="citation-popover-meta">Published: November 3, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_outback_ufo_explanat_ecea1b_outback_ufo_checklis_a22f64-Illustration-2-dark.svg" | relative_url }}" alt="Checklists illustration 2" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_outback_ufo_explanat_ecea1b_outback_ufo_checklis_a22f64-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_outback_ufo_explanat_ecea1b_outback_ufo_checklis_a22f64-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -309,9 +309,9 @@ The outback environment exaggerates these effects because observers often lack n
 
 ### Defence and range activity
 
-South Australia has an additional factor that many UFO hotspots elsewhere do not possess: the enormous Woomera testing area and associated restricted airspace. The region has been used for rockets, missile trials, aerospace testing, drones and other defence activities for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airforce.gov.au/about-us/bases/woomera-range-complex" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airforce.gov.au">[Air Force+2Defence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airforce.gov.au</span><span class="citation-popover-title">Air Force Woomera Range Complex</span><span class="citation-popover-snippet">Air ForceWoomera Range Complex - Royal Australian Air ForceThe Woomera Test Range includes: Woomera Prohibited Area, the large land mass...</span></span></span>
+South Australia has an additional factor that many UFO hotspots elsewhere do not possess: the enormous Woomera testing area and associated restricted airspace. The region has been used for rockets, missile trials, aerospace testing, drones and other defence activities for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airforce.gov.au/about-us/bases/woomera-range-complex" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airforce.gov.au">[airforce.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airforce.gov.au</span><span class="citation-popover-title">Air Force Woomera Range Complex</span><span class="citation-popover-snippet">Air ForceWoomera Range Complex - Royal Australian Air ForceThe Woomera Test Range includes: Woomera Prohibited Area, the large land mass...</span></span></span>
 
-That history means investigators should routinely ask whether a sighting occurred near periods of authorised testing or restricted-range operations. The Woomera Prohibited Area continues to support defence activities and maintains exclusion periods associated with testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://energymining.sa.gov.au/industry/minerals-and-mining/communities-and-land-access/mineral-exploration-and-land-access/defence-land/woomera-prohibited-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energymining.sa.gov.au">[Energy &amp; Mining]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energymining.sa.gov.au</span><span class="citation-popover-title">Energy &amp; Mining Woomera Prohibited Area</span><span class="citation-popover-snippet">Energy &amp; MiningWoomera Prohibited AreaFebruary 25, 2025 — The Woomera Prohibited Area has been divided into four access zones (Red, Amber...</span><span class="citation-popover-meta">Published: February 25, 2025</span></span></span>
+That history means investigators should routinely ask whether a sighting occurred near periods of authorised testing or restricted-range operations. The Woomera Prohibited Area continues to support defence activities and maintains exclusion periods associated with testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://energymining.sa.gov.au/industry/minerals-and-mining/communities-and-land-access/mineral-exploration-and-land-access/defence-land/woomera-prohibited-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energymining.sa.gov.au">[Energy &amp; Mining]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energymining.sa.gov.au</span><span class="citation-popover-title">Energy &amp; Mining Woomera Prohibited Area</span><span class="citation-popover-snippet">Energy &amp; MiningWoomera Prohibited AreaFebruary 25, 2025 — The Woomera Prohibited Area has been divided into four access zones (Red, Amber...</span><span class="citation-popover-meta">Published: February 25, 2025</span></span></span>
 
 This does not mean every unusual light near Woomera has a military explanation. It means military activity belongs on the checklist before a sighting is classified as unexplained.
 
@@ -320,9 +320,9 @@ This does not mean every unusual light near Woomera has a military explanation. 
 
 ## A South Australian example of why context matters
 
-Historical records show that unusual aerial observations around South Australia's weapons-testing regions attracted official attention during the Cold War. The National [Archives]({{ 'archives-d7c21b/' | relative_url }}) of Australia preserves material relating to sightings around the Woomera and [Maralinga]({{ 'maralinga/' | relative_url }}) areas, including reports that security and defence personnel considered noteworthy enough to document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+Historical records show that unusual aerial observations around South Australia's weapons-testing regions attracted official attention during the Cold War. The National [Archives]({{ 'archives-d7c21b/' | relative_url }}) of Australia preserves material relating to sightings around the Woomera and [Maralinga]({{ 'maralinga/' | relative_url }}) areas, including reports that security and defence personnel considered noteworthy enough to document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
-What makes these cases interesting is not that they automatically support extraordinary explanations. Rather, they demonstrate the importance of context. A light observed near a major testing range could potentially be linked to aircraft, rockets, instrumentation, flares or classified activities that were not immediately known to all witnesses. The same observation made hundreds of kilometres away might require a different set of checks. Historical investigators therefore had to balance genuine uncertainty against the practical reality that unusual technology was often being tested in the region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA+2Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+What makes these cases interesting is not that they automatically support extraordinary explanations. Rather, they demonstrate the importance of context. A light observed near a major testing range could potentially be linked to aircraft, rockets, instrumentation, flares or classified activities that were not immediately known to all witnesses. The same observation made hundreds of kilometres away might require a different set of checks. Historical investigators therefore had to balance genuine uncertainty against the practical reality that unusual technology was often being tested in the region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[naa.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">ufo sightings weapons testing site woomera</span><span class="citation-popover-snippet">UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
 ## Weather and optical effects that can mislead observers
 
@@ -351,194 +351,194 @@ For South Australian UFO history, this distinction is important. Some of the sta
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How ordinary checks can solve strange lights. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How ordinary checks can solve strange lights. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joJTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joJTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sighting reports, classifications, witness evidence and distinguishing unexplained cases from ordinary observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sighting reports, classifications, witness evidence and distinguishing unexplained cases from ordinary observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Investigator%27s+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigator&#x27;s Manual on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EjlHngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Investigator&#x27;s Manual" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigator%27s+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigator&#x27;s Manual">UFO Investigator&#x27;s Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Investigator%27s+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigator&#x27;s Manual on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EjlHngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Investigator&#x27;s Manual" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigator%27s+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigator&#x27;s Manual">UFO Investigator&#x27;s Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Directly aligns with the page&#x27;s checklist approach of comparing reports against conventional explanations before treating them as unresol...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigator%27s+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly aligns with the page&#x27;s checklist approach of comparing reports against conventional explanations before treating them as unresol...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigator%27s+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify planets, meteors and other astronomical sources often mistaken for unusual lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify planets, meteors and other astronomical sources often mistaken for unusual lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports the article&#x27;s emphasis on careful evidence evaluation, skepticism and testing ordinary explanations first.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the article&#x27;s emphasis on careful evidence evaluation, skepticism and testing ordinary explanations first.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Investigator%27s+Manual&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Investigator&#x27;s Manual</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Investigator%27s+Manual&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Investigator&#x27;s Manual</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min"><img src="{{ '/assets/images/marketplace-covers/4b0841c18a7477a70bf3.jpg' | relative_url }}" alt="Listing image for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min"><img src="{{ '/assets/images/marketplace-covers/4b0841c18a7477a70bf3.jpg' | relative_url }}" alt="Listing image for Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Two Lights: Relumino 2017 B5 Flyer Chirashi Mini Poster Japanese Han Ji-Min</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day CD Basket Case Grüne Sammler Hülle"><img src="{{ '/assets/images/marketplace-covers/57b827fd9c64b46341f3.jpg' | relative_url }}" alt="Listing image for Green Day CD Basket Case Grüne Sammler Hülle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day CD Basket Case Grüne Sammler Hülle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Day CD Basket Case Grüne Sammler Hülle"><img src="{{ '/assets/images/marketplace-covers/57b827fd9c64b46341f3.jpg' | relative_url }}" alt="Listing image for Green Day CD Basket Case Grüne Sammler Hülle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Green Day CD Basket Case Grüne Sammler Hülle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5dde7063b632c45a7f2c.jpg' | relative_url }}" alt="Listing image for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5dde7063b632c45a7f2c.jpg' | relative_url }}" alt="Listing image for Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Mirror Mirror Min Min Lights 2. Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min"><img src="{{ '/assets/images/marketplace-covers/7dce6efe1ae3f275cca6.jpg' | relative_url }}" alt="Listing image for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min"><img src="{{ '/assets/images/marketplace-covers/7dce6efe1ae3f275cca6.jpg' | relative_url }}" alt="Listing image for White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">White Light Pollock 1954 Art Print Poster Wall Decor Stylish Classic Exhibit Min</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Min Min lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Min Min lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Min+Min+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Min Min lights poster" data-ebay-reference="checklists-how-ordinary-checks-can-solve-strange-lights-south-australia-min-min-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ For South Australian UFO history, this distinction is important. Some of the sta
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ For South Australian UFO history, this distinction is important. Some of the sta
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ For South Australian UFO history, this distinction is important. Some of the sta
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ For South Australian UFO history, this distinction is important. Some of the sta
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ For South Australian UFO history, this distinction is important. Some of the sta
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,115 +744,115 @@ For South Australian UFO history, this distinction is important. Some of the sta
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: defence.gov.au  
    Title: Defence Woomera Prohibited Area  
-   Link: <a href="https://www.defence.gov.au/about/locations-property/base-induction/woomera-prohibited-area" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/about/locations-property/base-induction/woomera-prohibited-area</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Woomera Prohibited Area - Base induction - DefenceVisit the Woomera Prohibited Area website. Warning system: Sirens and lights wil...</p></details>
+   Link:<a href="https://www.defence.gov.au/about/locations-property/base-induction/woomera-prohibited-area" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/about/locations-property/base-induction/woomera-prohibited-area</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Woomera Prohibited Area - Base induction - DefenceVisit the Woomera Prohibited Area website. Warning system: Sirens and lights wil...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: airforce.gov.au  
    Title: Air Force Woomera Range Complex  
-   Link: <a href="https://www.airforce.gov.au/about-us/bases/woomera-range-complex" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/about-us/bases/woomera-range-complex</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceWoomera Range Complex - Royal Australian Air ForceThe Woomera Test Range includes: Woomera Prohibited Area, the large land mass...</p></details>
+   Link:<a href="https://www.airforce.gov.au/about-us/bases/woomera-range-complex" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/about-us/bases/woomera-range-complex</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceWoomera Range Complex - Royal Australian Air ForceThe Woomera Test Range includes: Woomera Prohibited Area, the large land mass...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: defence.gov.au  
-   Link: <a href="https://www.defence.gov.au/bases-locations/sa/woomera/about" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/bases-locations/sa/woomera/about</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The area was declared a Prohibited Area in 1947 and...Read more...</p></details>
+   Link:<a href="https://www.defence.gov.au/bases-locations/sa/woomera/about" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/bases-locations/sa/woomera/about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The area was declared a Prohibited Area in 1947 and...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv The Scientific Observation Campaign of the Hayabusa-2 Capsule Re-entry  
-   Link: <a href="https://arxiv.org/abs/2111.02235" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.02235</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Observation Campaign of the Hayabusa-2 Capsule Re-entryNovember 3, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2111.02235" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.02235</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Observation Campaign of the Hayabusa-2 Capsule Re-entryNovember 3, 2021...</p></details>
    Published: November 3, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: energymining.sa.gov.au  
    Title: Energy & Mining Woomera Prohibited Area  
-   Link: <a href="https://energymining.sa.gov.au/industry/minerals-and-mining/communities-and-land-access/mineral-exploration-and-land-access/defence-land/woomera-prohibited-area" target="_blank" rel="noopener noreferrer nofollow">https://energymining.sa.gov.au/industry/minerals-and-mining/communities-and-land-access/mineral-exploration-and-land-access/defence-land/woomera-prohibited-area</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy &amp; MiningWoomera Prohibited AreaFebruary 25, 2025 — The Woomera Prohibited Area has been divided into four access zones (Red, Amber...</p></details>
+   Link:<a href="https://energymining.sa.gov.au/industry/minerals-and-mining/communities-and-land-access/mineral-exploration-and-land-access/defence-land/woomera-prohibited-area" target="_blank" rel="noopener noreferrer nofollow">https://energymining.sa.gov.au/industry/minerals-and-mining/communities-and-land-access/mineral-exploration-and-land-access/defence-land/woomera-prohibited-area</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy &amp; MiningWoomera Prohibited AreaFebruary 25, 2025 — The Woomera Prohibited Area has been divided into four access zones (Red, Amber...</p></details>
    Published: February 25, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: naa.gov.au  
    Title: ufo sightings weapons testing site woomera  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</p></details>
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraThis confidential two-page report details sightings on 15 July 1960 of an unidentified f...</p></details>
    Published: July 1960  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Woomera Prohibited Area  
-   Link: <a href="https://en.wikipedia.org/wiki/Woomera_Prohibited_Area" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Woomera_Prohibited_Area</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Woomera Prohibited AreaWith an area roughly the size of England, it restricts access to RAAF Woomera Range Complex, the largest land-b...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Woomera_Prohibited_Area" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Woomera_Prohibited_Area</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Woomera Prohibited AreaWith an area roughly the size of England, it restricts access to RAAF Woomera Range Complex, the largest land-b...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: defencesa.com  
    Title: test and training areas  
-   Link: <a href="https://defencesa.com/precincts/test-and-training-areas/" target="_blank" rel="noopener noreferrer nofollow">https://defencesa.com/precincts/test-and-training-areas/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Dec 2025 — The Woomera Range Complex is the largest land-based test range in the world, covering 122,000 square kilometres.Read more...</p></details>
+   Link:<a href="https://defencesa.com/precincts/test-and-training-areas/" target="_blank" rel="noopener noreferrer nofollow">https://defencesa.com/precincts/test-and-training-areas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Dec 2025 — The Woomera Range Complex is the largest land-based test range in the world, covering 122,000 square kilometres.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/270084667" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/270084667</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.au12 Sep 1974 - FLYING SAUCERS ARE WATCHING - Trove&quot;flying saucer&quot;, he said. &quot;All R. A. A.F. stations. have a UFO investigation...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/270084667" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/270084667</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.au12 Sep 1974 - FLYING SAUCERS ARE WATCHING - Trove&quot;flying saucer&quot;, he said. &quot;All R. A. A.F. stations. have a UFO investigation...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/kbcat/kbwoomera.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbwoomera.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kbwoomera.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbwoomera.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: it remains the biggest mass sighting of a ufo in australian history  
-   Link: <a href="https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It remains the biggest mass sighting of a UFO in Australian...UFO Sightings in Australia: History, Hotspots, and Government Files [2025...</p></details>
+   Link:<a href="https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/it-remains-the-biggest-mass-sighting-of-a-ufo-in-australian-history/1420616840104260/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It remains the biggest mass sighting of a UFO in Australian...UFO Sightings in Australia: History, Hotspots, and Government Files [2025...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lumsx-bbb.lums.edu.pk  
    Title: ufo sightings australia latest updates and hotspots 1767647390  
-   Link: <a href="https://lumsx-bbb.lums.edu.pk/fast-dispatch/ufo-sightings-australia-latest-updates-and-hotspots-1767647390" target="_blank" rel="noopener noreferrer nofollow">https://lumsx-bbb.lums.edu.pk/fast-dispatch/ufo-sightings-australia-latest-updates-and-hotspots-1767647390</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings Australia: Latest Updates &amp; Hotspots5 Jan 2026 — Some believe that Pine Gap is a hub for monitoring UFO activity, while others...</p></details>
+   Link:<a href="https://lumsx-bbb.lums.edu.pk/fast-dispatch/ufo-sightings-australia-latest-updates-and-hotspots-1767647390" target="_blank" rel="noopener noreferrer nofollow">https://lumsx-bbb.lums.edu.pk/fast-dispatch/ufo-sightings-australia-latest-updates-and-hotspots-1767647390</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings Australia: Latest Updates &amp; Hotspots5 Jan 2026 — Some believe that Pine Gap is a hub for monitoring UFO activity, while others...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: 7NEWS Adelaide on Instagram: "From Strathalbyn to Largs  
-   Link: <a href="https://www.instagram.com/reel/DUroW6SgJUm/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUroW6SgJUm/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Australia have been left baffled after spotting a mysterious light in the sky. What... It was a ufo. May 22. Transcript. So, did y...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DUroW6SgJUm/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUroW6SgJUm/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Australia have been left baffled after spotting a mysterious light in the sky. What... It was a ufo. May 22. Transcript. So, did y...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10NewsAU/posts/click-here-for-more-from-the-ufo-witnesses/1378153124351242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsAU/posts/click-here-for-more-from-the-ufo-witnesses/1378153124351242/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 047 – The Aliens of the Dandenong Ranges One of Australia&#x27;s most famous abduction stories, with multiple witnesses and an alleged...</p></details>
+   Link:<a href="https://www.facebook.com/10NewsAU/posts/click-here-for-more-from-the-ufo-witnesses/1378153124351242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsAU/posts/click-here-for-more-from-the-ufo-witnesses/1378153124351242/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 047 – The Aliens of the Dandenong Ranges One of Australia&#x27;s most famous abduction stories, with multiple witnesses and an alleged...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>terious lights floating in Mt Isa fit the pattern of alien activity...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCDarwin/posts/northern-territory-police-address-ufo-sightings-after-multiple-unusual-sightings/1368157208688792/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>terious lights floating in Mt Isa fit the pattern of alien activity...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AusAirForce/posts/woomeras-cmt-conducts-first-joint-aerial-operationby-aurora-danielsthe-team-resp/10151948301742639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AusAirForce/posts/woomeras-cmt-conducts-first-joint-aerial-operationby-aurora-danielsthe-team-resp/10151948301742639/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ponsible for monitoring the Woomera Prohibited Area has taken...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/AusAirForce/posts/woomeras-cmt-conducts-first-joint-aerial-operationby-aurora-danielsthe-team-resp/10151948301742639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AusAirForce/posts/woomeras-cmt-conducts-first-joint-aerial-operationby-aurora-danielsthe-team-resp/10151948301742639/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ponsible for monitoring the Woomera Prohibited Area has taken...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: abc.net.au  
    Title: curious adelaide ufo sightings across australia  
-   Link: <a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reported encounters with UFOs and alien spacecraft... The Bunyip reported on a widespread flying saucer sighting in January 1954.Read more...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reported encounters with UFOs and alien spacecraft... The Bunyip reported on a widespread flying saucer sighting in January 1954.Read more...</p></details>
    Published: January 1954  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: space.com  
    Title: 11892 australian government loses ufo files  
-   Link: <a href="https://www.space.com/11892-australian-government-loses-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/11892-australian-government-loses-ufo-files.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Government Loses All Its UFO Files7 Jun 2011 — Australia&#x27;s Department of Defense has lost or destroyed all but one of its file...</p></details>
+   Link:<a href="https://www.space.com/11892-australian-government-loses-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/11892-australian-government-loses-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Government Loses All Its UFO Files7 Jun 2011 — Australia&#x27;s Department of Defense has lost or destroyed all but one of its file...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: exploroz.com  
    Title: woomera and maralinga ufo sightings 1952 1960  
-   Link: <a href="https://www.exploroz.com/forum/141257/woomera-and-maralinga-ufo-sightings-1952-1960" target="_blank" rel="noopener noreferrer nofollow">https://www.exploroz.com/forum/141257/woomera-and-maralinga-ufo-sightings-1952-1960</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Documention of those 1952-1954 &quot;UFO&quot; sightings in Woomera (pages in reverse chronological order): Document link. Then, on...Read more...</p></details>
+   Link:<a href="https://www.exploroz.com/forum/141257/woomera-and-maralinga-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.exploroz.com/forum/141257/woomera-and-maralinga-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Documention of those 1952-1954 &quot;UFO&quot; sightings in Woomera (pages in reverse chronological order): Document link. Then, on...Read more...</p></details>

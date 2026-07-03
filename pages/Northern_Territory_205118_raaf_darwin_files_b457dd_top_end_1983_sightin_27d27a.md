@@ -256,15 +256,15 @@ image: /assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd_top_end
 
 ## Introduction
 
-The late-1983 [Top End]({{ 'top-end/' | relative_url }}) sighting cluster is important not because it proves that something extraordinary crossed [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) skies, but because it shows exactly how unusual aerial reports moved through official channels. Surviving Royal Australian Air Force (RAAF) records reveal that multiple people around Darwin and its rural outskirts reported unusual aerial observations within a short period, prompting formal follow-up by RAAF Darwin. The records preserve names, dates, correspondence and investigative procedures. What they do not preserve is any confirmed finding that the reported objects were unknown technology, extraterrestrial craft or even genuinely unexplained phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+The late-1983 [Top End]({{ 'top-end/' | relative_url }}) sighting cluster is important not because it proves that something extraordinary crossed [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) skies, but because it shows exactly how unusual aerial reports moved through official channels. Surviving Royal Australian Air Force (RAAF) records reveal that multiple people around Darwin and its rural outskirts reported unusual aerial observations within a short period, prompting formal follow-up by RAAF Darwin. The records preserve names, dates, correspondence and investigative procedures. What they do not preserve is any confirmed finding that the reported objects were unknown technology, extraterrestrial craft or even genuinely unexplained phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd_top_end_1983_sightin_27d27a-Illustration-1-dark.svg" | relative_url }}" alt="1983 Cluster illustration 1" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd_top_end_1983_sightin_27d27a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd_top_end_1983_sightin_27d27a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For historians of Northern Territory UFO reports, the 1983 cluster is valuable because it provides a rare documentary trail. Rather than relying on later retellings, researchers can see how reports were received, acknowledged and investigated at the time. That makes the episode one of the clearest examples of what official UFO paperwork can and cannot demonstrate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+For historians of Northern Territory UFO reports, the 1983 cluster is valuable because it provides a rare documentary trail. Rather than relying on later retellings, researchers can see how reports were received, acknowledged and investigated at the time. That makes the episode one of the clearest examples of what official UFO paperwork can and cannot demonstrate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 
 ## Who Reported the Sightings
 
-The surviving file contains a series of nearly identical letters sent from RAAF Base Darwin on 22 and 23 November 1983. The letters thanked members of the public for reporting an “unusual aerial occurrence” and requested additional information through a formal observer's report form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+The surviving file contains a series of nearly identical letters sent from RAAF Base Darwin on 22 and 23 November 1983. The letters thanked members of the public for reporting an “unusual aerial occurrence” and requested additional information through a formal observer's report form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 
 The recipients came from several parts of the Darwin region, including:
 
@@ -275,13 +275,13 @@ The recipients came from several parts of the Darwin region, including:
 * Nightcliff.
 * Moil.
 * Winnellie.
-* Humpty Doo. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+* Humpty Doo.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 
 </div>
 
-The geographic spread matters. These were not all residents of a single street or neighbourhood reporting the same event. Instead, the correspondence suggests that multiple reports from across the greater Darwin area reached the base during the same period. That pattern is why some researchers describe the episode as a small Top End sighting cluster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+The geographic spread matters. These were not all residents of a single street or neighbourhood reporting the same event. Instead, the correspondence suggests that multiple reports from across the greater Darwin area reached the base during the same period. That pattern is why some researchers describe the episode as a small Top End sighting cluster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 
-There is also evidence that public interest in unusual aerial reports was receiving local media attention at roughly the same time. A November 1983 Northern Territory News item noted that several people had reported a supposed flying saucer sighting in Arnhem Land to RAAF authorities in Darwin. While this newspaper reference may not relate directly to every report in the Darwin correspondence file, it shows that unusual aerial sightings were attracting enough attention to reach both journalists and defence officials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://territorystories.nt.gov.au/10070/198775/0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: territorystories.nt.gov.au">[Territory Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">territorystories.nt.gov.au</span><span class="citation-popover-snippet">Territory StoriesUFO answers04/11/1983. Subject: Unidentified flying objects... Seven people have reported sighting a flying saucer in A...</span></span></span>
+There is also evidence that public interest in unusual aerial reports was receiving local media attention at roughly the same time. A November 1983 Northern Territory News item noted that several people had reported a supposed flying saucer sighting in Arnhem Land to RAAF authorities in Darwin. While this newspaper reference may not relate directly to every report in the Darwin correspondence file, it shows that unusual aerial sightings were attracting enough attention to reach both journalists and defence officials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://territorystories.nt.gov.au/10070/198775/0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: territorystories.nt.gov.au">[Territory Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">territorystories.nt.gov.au</span><span class="citation-popover-snippet">Territory StoriesUFO answers04/11/1983. Subject: Unidentified flying objects... Seven people have reported sighting a flying saucer in A...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GqpAsmQnoZY" title="Government UFO/UAP Sightings Exposed: Shocking 2009 7NEWS Documentary | Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GqpAsmQnoZY" target="_blank" rel="noopener noreferrer">Government UFO/UAP Sightings Exposed: Shocking 2009 7NEWS Documentary | Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 1.3M &middot; Uploaded: May 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GqpAsmQnoZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GqpAsmQnoZY">Open on YouTube</a></p></div></div></div>
@@ -290,7 +290,7 @@ There is also evidence that public interest in unusual aerial reports was receiv
 
 The most revealing aspect of the 1983 cluster is not the sightings themselves but the response.
 
-Each witness received a request for further details. RAAF personnel did not simply file the reports and move on. Instead, witnesses were asked to complete a structured observer form designed to capture information useful for investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+Each witness received a request for further details. RAAF personnel did not simply file the reports and move on. Instead, witnesses were asked to complete a structured observer form designed to capture information useful for investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 
 The form sought details such as:
 
@@ -305,13 +305,13 @@ The form sought details such as:
 * Duration of the observation.
 * Weather conditions.
 * Presence of other witnesses.
-* Whether photographs or physical evidence existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+* Whether photographs or physical evidence existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 
 </div>
 
-This approach reflected established RAAF procedures for unusual aerial sightings. The goal was to obtain enough information to compare reports with known aircraft activity, astronomical objects, atmospheric effects or other possible explanations. The process was investigative rather than dismissive. A report was treated as something requiring documentation, but not as evidence that an extraordinary event had occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+This approach reflected established RAAF procedures for unusual aerial sightings. The goal was to obtain enough information to compare reports with known aircraft activity, astronomical objects, atmospheric effects or other possible explanations. The process was investigative rather than dismissive. A report was treated as something requiring documentation, but not as evidence that an extraordinary event had occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 
-The letters were signed on behalf of the commanding officer by Flight Lieutenant Brett Biddington, an intelligence officer who later became known for his interest in the history of Australian UFO reporting. His presence in the file reinforces that these reports were being handled through intelligence and administrative channels rather than ignored at unit level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/12/brett-biddington-unusual-aerial_6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">brett biddington unusual aerial 6</span><span class="citation-popover-snippet">UFOs Scientific ResearchBrett Biddington, Unusual Aerial Sightings, and the end of...6 Dec 2013 — In November 1983, Biddington was poste...</span><span class="citation-popover-meta">Published: November 1983</span></span></span>
+The letters were signed on behalf of the commanding officer by Flight Lieutenant Brett Biddington, an intelligence officer who later became known for his interest in the history of Australian UFO reporting. His presence in the file reinforces that these reports were being handled through intelligence and administrative channels rather than ignored at unit level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/12/brett-biddington-unusual-aerial_6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">brett biddington unusual aerial 6</span><span class="citation-popover-snippet">UFOs Scientific ResearchBrett Biddington, Unusual Aerial Sightings, and the end of...6 Dec 2013 — In November 1983, Biddington was poste...</span><span class="citation-popover-meta">Published: November 1983</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd_top_end_1983_sightin_27d27a-Illustration-2-dark.svg" | relative_url }}" alt="1983 Cluster illustration 2" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd_top_end_1983_sightin_27d27a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_raaf_darwin_files_b457dd_top_end_1983_sightin_27d27a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -321,7 +321,7 @@ A common mistake is to assume that multiple reports automatically strengthen the
 
 The 1983 documents show why that assumption can be misleading.
 
-The surviving records primarily consist of acknowledgement letters and blank or partially preserved reporting forms. They demonstrate that reports were received and that officials sought additional information. They do not provide a final investigative conclusion for the cluster as a whole. Nor do they show radar confirmation, aircraft interception, physical evidence or a definitive identification of an unknown object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+The surviving records primarily consist of acknowledgement letters and blank or partially preserved reporting forms. They demonstrate that reports were received and that officials sought additional information. They do not provide a final investigative conclusion for the cluster as a whole. Nor do they show radar confirmation, aircraft interception, physical evidence or a definitive identification of an unknown object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 
 In other words, the strongest evidence concerns the reporting process, not the phenomenon being reported.
 
@@ -330,7 +330,7 @@ This distinction is important. A cluster of reports can indicate:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A genuinely unusual aerial event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+* A genuinely unusual aerial event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 * Several independent observations of a conventional object.
 * Public attention generated by media coverage.
 * Misidentification of astronomical or atmospheric phenomena.
@@ -338,14 +338,14 @@ This distinction is important. A cluster of reports can indicate:
 
 </div>
 
-The surviving Darwin file does not contain enough information to determine which explanation applies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+The surviving Darwin file does not contain enough information to determine which explanation applies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sPHVvg-dXOs" title="Melbourne UFO Mystery: 50 Years On | Studio 10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sPHVvg-dXOs" target="_blank" rel="noopener noreferrer">Melbourne UFO Mystery: 50 Years On | Studio 10</a></p><p class="youtube-embed-meta">Channel: Studio 10 &middot; Views: 1.3M &middot; Uploaded: January 2016 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sPHVvg-dXOs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sPHVvg-dXOs">Open on YouTube</a></p></div></div></div>
 
 ## What the Records Can and Cannot Prove
 
-The 1983 Top End correspondence is often cited because it survives in an official archive. That gives it greater evidential value than stories passed on decades later. However, archival survival does not automatically transform a sighting into a confirmed mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%206-7_7061048.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048</span><span class="citation-popover-snippet">The Black Vault DocumentsROYAL AUSTRALIAN AIR FORCE8 Aug 2012 — Record Series: E1327...</span></span></span>
+The 1983 Top End correspondence is often cited because it survives in an official archive. That gives it greater evidential value than stories passed on decades later. However, archival survival does not automatically transform a sighting into a confirmed mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%206-7_7061048.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048</span><span class="citation-popover-snippet">The Black Vault DocumentsROYAL AUSTRALIAN AIR FORCE8 Aug 2012 — Record Series: E1327...</span></span></span>
 
 What the records can prove:
 
@@ -355,7 +355,7 @@ What the records can prove:
 * Multiple Northern Territory residents reported unusual aerial observations to RAAF Darwin in late 1983.
 * RAAF personnel considered the reports important enough to document and follow up.
 * A formal investigative procedure existed and was actively used.
-* The reports entered the official defence record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+* The reports entered the official defence record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 
 </div>
 
@@ -365,7 +365,7 @@ What the records cannot prove:
 * That the observed objects were genuinely unknown.
 * That the events involved advanced technology.
 * That extraterrestrial explanations were supported by evidence.
-* That investigators reached a conclusion favouring an extraordinary interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+* That investigators reached a conclusion favouring an extraordinary interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 
 This is why the 1983 cluster occupies an unusual place in Northern Territory UFO history. It is neither a dramatic solved case nor a compelling unresolved mystery. Instead, it is one of the best surviving examples of how official UFO reporting worked in practice.
 
@@ -375,203 +375,203 @@ This is why the 1983 cluster occupies an unusual place in Northern Territory UFO
 
 Within the broader history of Northern Territory sightings, the 1983 Top End cluster demonstrates something more valuable than a single unexplained observation: it reveals the mechanics of official documentation.
 
-Researchers often struggle because witness stories survive while paperwork disappears. In this case, the paperwork survived. The letters show that RAAF Darwin maintained a system for receiving reports, requesting evidence and forwarding information through defence channels. That bureaucratic trail is the most reliable fact preserved by the file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+Researchers often struggle because witness stories survive while paperwork disappears. In this case, the paperwork survived. The letters show that RAAF Darwin maintained a system for receiving reports, requesting evidence and forwarding information through defence channels. That bureaucratic trail is the most reliable fact preserved by the file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 
-As a result, the 1983 cluster is best understood not as proof of an extraordinary aerial event, but as proof that unusual aerial sightings in the Top End were taken seriously enough to be recorded, investigated and archived. The surviving documents illuminate the reporting process far more clearly than they illuminate whatever was seen in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
+As a result, the 1983 cluster is best understood not as proof of an extraordinary aerial event, but as proof that unusual aerial sightings in the Top End were taken seriously enough to be recorded, investigated and archived. The surviving documents illuminate the reporting process far more clearly than they illuminate whatever was seen in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">E1327 5 4 AIR part 6 7 7061048 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=hzoJPerhz-I" target="_blank" rel="noopener noreferrer">Australia&#x27;s UFO Secrets Exposed with Ross Coulthart</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hzoJPerhz-I" target="_blank" rel="noopener noreferrer">Australia&#x27;s UFO Secrets Exposed with Ross Coulthart</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hzoJPerhz-I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hzoJPerhz-I">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in the 1983 Top End Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in the 1983 Top End Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented cases, official records, and military involvement, paralleling the RAAF Darwin paperwork discussed in the article.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented cases, official records, and military involvement, paralleling the RAAF Darwin paperwork discussed in the article.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how aerial sightings are reported, classified, investigated, and interpreted, matching the article&#x27;s focus on official reports r...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how aerial sightings are reported, classified, investigated, and interpreted, matching the article&#x27;s focus on official reports r...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Written by the first head of Project Blue Book and centered on how official agencies processed and evaluated sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by the first head of Project Blue Book and centered on how official agencies processed and evaluated sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Identification on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Identification">Project Identification</a>
-        </h4>
-        <p class="fr-book-author">By Harley D. Rutledge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Identification on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Identification">Project Identification</a>
+</h4>
+<p class="fr-book-author">By Harley D. Rutledge</p>
         
-        <p class="fr-book-desc">Examines systematic observation and evidence-gathering methods relevant to assessing unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines systematic observation and evidence-gathering methods relevant to assessing unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO PLYMOUTH RAAF 10 SQUADRON MEMORIAL AT THE BARBICAN PLYMOUTH."><img src="{{ '/assets/images/marketplace-covers/d4c082ded62dec646fa1.jpg' | relative_url }}" alt="Listing image for PHOTO PLYMOUTH RAAF 10 SQUADRON MEMORIAL AT THE BARBICAN PLYMOUTH." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO PLYMOUTH RAAF 10 SQUADRON MEMORIAL AT THE BARBICAN PLYMOUTH.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO PLYMOUTH RAAF 10 SQUADRON MEMORIAL AT THE BARBICAN PLYMOUTH."><img src="{{ '/assets/images/marketplace-covers/d4c082ded62dec646fa1.jpg' | relative_url }}" alt="Listing image for PHOTO PLYMOUTH RAAF 10 SQUADRON MEMORIAL AT THE BARBICAN PLYMOUTH." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO PLYMOUTH RAAF 10 SQUADRON MEMORIAL AT THE BARBICAN PLYMOUTH.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for No. 77 Squadron - Royal Australian Air Force - Framed Memento of Service"><img src="{{ '/assets/images/marketplace-covers/21f2e2b3404911fb5734.jpg' | relative_url }}" alt="Listing image for No. 77 Squadron - Royal Australian Air Force - Framed Memento of Service" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">No. 77 Squadron - Royal Australian Air Force - Framed Memento of Service</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for No. 77 Squadron - Royal Australian Air Force - Framed Memento of Service"><img src="{{ '/assets/images/marketplace-covers/21f2e2b3404911fb5734.jpg' | relative_url }}" alt="Listing image for No. 77 Squadron - Royal Australian Air Force - Framed Memento of Service" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">No. 77 Squadron - Royal Australian Air Force - Framed Memento of Service</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF Signed Memorabilia Robert. B. Cowper 153rd Sqdn &amp; D.H.Smith 126th Sqdn RARE"><img src="{{ '/assets/images/marketplace-covers/1403662d51321b346bd7.jpg' | relative_url }}" alt="Listing image for RAAF Signed Memorabilia Robert. B. Cowper 153rd Sqdn &amp; D.H.Smith 126th Sqdn RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">RAAF Signed Memorabilia Robert. B. Cowper 153rd Sqdn &amp; D.H.Smith 126th Sqdn RARE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF Signed Memorabilia Robert. B. Cowper 153rd Sqdn &amp; D.H.Smith 126th Sqdn RARE"><img src="{{ '/assets/images/marketplace-covers/1403662d51321b346bd7.jpg' | relative_url }}" alt="Listing image for RAAF Signed Memorabilia Robert. B. Cowper 153rd Sqdn &amp; D.H.Smith 126th Sqdn RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">RAAF Signed Memorabilia Robert. B. Cowper 153rd Sqdn &amp; D.H.Smith 126th Sqdn RARE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO MEMORIAL TO ALL THOSE KILLED IN A TRAGIC MID AIR COLLISION 463 (RAAF) SQN"><img src="{{ '/assets/images/marketplace-covers/e865705a090fba19fd38.jpg' | relative_url }}" alt="Listing image for PHOTO MEMORIAL TO ALL THOSE KILLED IN A TRAGIC MID AIR COLLISION 463 (RAAF) SQN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO MEMORIAL TO ALL THOSE KILLED IN A TRAGIC MID AIR COLLISION 463 (RAAF) SQN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO MEMORIAL TO ALL THOSE KILLED IN A TRAGIC MID AIR COLLISION 463 (RAAF) SQN"><img src="{{ '/assets/images/marketplace-covers/e865705a090fba19fd38.jpg' | relative_url }}" alt="Listing image for PHOTO MEMORIAL TO ALL THOSE KILLED IN A TRAGIC MID AIR COLLISION 463 (RAAF) SQN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO MEMORIAL TO ALL THOSE KILLED IN A TRAGIC MID AIR COLLISION 463 (RAAF) SQN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAAF memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAAF memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAAF+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAAF memorabilia" data-ebay-reference="1983-cluster-what-really-happened-in-the-1983-top-end-reports-northern-territory-raaf-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ As a result, the 1983 cluster is best understood not as proof of an extraordinar
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ As a result, the 1983 cluster is best understood not as proof of an extraordinar
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ As a result, the 1983 cluster is best understood not as proof of an extraordinar
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ As a result, the 1983 cluster is best understood not as proof of an extraordinar
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ As a result, the 1983 cluster is best understood not as proof of an extraordinar
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,103 +777,103 @@ As a result, the 1983 cluster is best understood not as proof of an extraordinar
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: E1327 5 4 AIR part 6 7 7061048 djvu.txt  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</p></details>
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;Australian UFO Files&quot;898211 Headquarters RAAF Base DARWIN NT 5789 5/4/Air Ptl (25) 23 November... DEPARTWJ...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;Australian UFO Files&quot;Full text of &quot;Australian UFO Files&quot;. See other formats... reports to official authori...</p></details>
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;Australian UFO Files&quot;Full text of &quot;Australian UFO Files&quot;. See other formats... reports to official authori...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: ldpd 11897910 002 djvu.txt  
-   Link: <a href="https://archive.org/stream/ldpd_11897910_002/ldpd_11897910_002_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ldpd_11897910_002/ldpd_11897910_002_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Colonial Office list for 1902&quot;Full text of &quot;The Colonial Office list for 1902&quot;. See other formats. COLUMBIA LIBRARIES O...</p></details>
+   Link:<a href="https://archive.org/stream/ldpd_11897910_002/ldpd_11897910_002_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ldpd_11897910_002/ldpd_11897910_002_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Colonial Office list for 1902&quot;Full text of &quot;The Colonial Office list for 1902&quot;. See other formats. COLUMBIA LIBRARIES O...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: documents.theblackvault.com  
    Title: E1327 5 4 AIR part 6 7 7061048  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%206-7_7061048.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%206-7_7061048.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsROYAL AUSTRALIAN AIR FORCE8 Aug 2012 — Record Series: E1327...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%206-7_7061048.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/E1327_5-4-AIR_part%206-7_7061048.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsROYAL AUSTRALIAN AIR FORCE8 Aug 2012 — Record Series: E1327...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: territorystories.nt.gov.au  
-   Link: <a href="https://territorystories.nt.gov.au/10070/198775/0" target="_blank" rel="noopener noreferrer nofollow">https://territorystories.nt.gov.au/10070/198775/0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Territory StoriesUFO answers04/11/1983. Subject: Unidentified flying objects... Seven people have reported sighting a flying saucer in A...</p></details>
+   Link:<a href="https://territorystories.nt.gov.au/10070/198775/0" target="_blank" rel="noopener noreferrer nofollow">https://territorystories.nt.gov.au/10070/198775/0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Territory StoriesUFO answers04/11/1983. Subject: Unidentified flying objects... Seven people have reported sighting a flying saucer in A...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: brett biddington unusual aerial 6  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2013/12/brett-biddington-unusual-aerial_6.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2013/12/brett-biddington-unusual-aerial_6.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Scientific ResearchBrett Biddington, Unusual Aerial Sightings, and the end of...6 Dec 2013 — In November 1983, Biddington was poste...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2013/12/brett-biddington-unusual-aerial_6.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2013/12/brett-biddington-unusual-aerial_6.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Scientific ResearchBrett Biddington, Unusual Aerial Sightings, and the end of...6 Dec 2013 — In November 1983, Biddington was poste...</p></details>
    Published: November 1983  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: defence.gov.au  
    Title: 83 years of intelligence, reconnaissance and security  
-   Link: <a href="https://www.defence.gov.au/news-events/news/2026-04-07/83-years-intelligence-reconnaissance-security" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/news-events/news/2026-04-07/83-years-intelligence-reconnaissance-security</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Apr 2026 — 83 Squadron continue to evolve and prove their intelligence capability to meet an ever-complex, modern battlespace...</p></details>
+   Link:<a href="https://www.defence.gov.au/news-events/news/2026-04-07/83-years-intelligence-reconnaissance-security" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/news-events/news/2026-04-07/83-years-intelligence-reconnaissance-security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Apr 2026 — 83 Squadron continue to evolve and prove their intelligence capability to meet an ever-complex, modern battlespace...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: awm.gov.au  
-   Link: <a href="https://www.awm.gov.au/collection/060743" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/060743</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MILLINGIMBI ISLAND, NT. 1943-11-21. ARMOURERS OF...Armourers of No. 83 Squadron, Royal Australian Air Force, cleaning cannons and loadin...</p></details>
+   Link:<a href="https://www.awm.gov.au/collection/060743" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/060743</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MILLINGIMBI ISLAND, NT. 1943-11-21. ARMOURERS OF...Armourers of No. 83 Squadron, Royal Australian Air Force, cleaning cannons and loadin...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AusAirForce/posts/when-a-sonar-image-reveals-a-piece-of-history-the-discovery-of-a-world-war-2-air/1109521257877374/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AusAirForce/posts/when-a-sonar-image-reveals-a-piece-of-history-the-discovery-of-a-world-war-2-air/1109521257877374/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Australian Air ForceIt was a routine hydrographic survey that uncovered a World War 2 Beaufort Bomber aircraft off the coast of Dar...</p></details>
+   Link:<a href="https://www.facebook.com/AusAirForce/posts/when-a-sonar-image-reveals-a-piece-of-history-the-discovery-of-a-world-war-2-air/1109521257877374/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AusAirForce/posts/when-a-sonar-image-reveals-a-piece-of-history-the-discovery-of-a-world-war-2-air/1109521257877374/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Australian Air ForceIt was a routine hydrographic survey that uncovered a World War 2 Beaufort Bomber aircraft off the coast of Dar...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/a/a5/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/a5/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_24.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OF DEFENCEEnclosure: UFO Report j. 10. 11. t., ·~--c-. Wha.t first attracted observer• s... REPORTS OF UNUSUAL AERIAL OCCURRENCES. Refe...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/a/a5/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/a5/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_24.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OF DEFENCEEnclosure: UFO Report j. 10. 11. t., ·~--c-. Wha.t first attracted observer• s... REPORTS OF UNUSUAL AERIAL OCCURRENCES. Refe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/492616223/Australian-UFO-Magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/492616223/Australian-UFO-Magazine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian UFO Magazine | PDF | Unidentified Flying ObjectAustralian UFO Magazine - Free download as PDF File (.pdf), Text File (.txt) or...</p></details>
+   Link:<a href="https://www.scribd.com/document/492616223/Australian-UFO-Magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/492616223/Australian-UFO-Magazine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian UFO Magazine | PDF | Unidentified Flying ObjectAustralian UFO Magazine - Free download as PDF File (.pdf), Text File (.txt) or...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: s3-ap-southeast-2.amazonaws.com  
-   Link: <a href="https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RC09125.037/document/7720095.PDF" target="_blank" rel="noopener noreferrer nofollow">https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RC09125.037/document/7720095.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wireless Section, and had attached one end of the aerial around an electric power plug in the section. When...Read more...</p></details>
+   Link:<a href="https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RC09125.037/document/7720095.PDF" target="_blank" rel="noopener noreferrer nofollow">https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RC09125.037/document/7720095.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wireless Section, and had attached one end of the aerial around an electric power plug in the section. When...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/wikibase/263222" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/263222</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accident Bristol Beaufighter Mk Ic A19-18, Saturday 9...Aircraft damage: Destroyed; Location: near RAAF Darwin, Darwin, Northern Territory...</p></details>
+   Link:<a href="https://aviation-safety.net/wikibase/263222" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/263222</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accident Bristol Beaufighter Mk Ic A19-18, Saturday 9...Aircraft damage: Destroyed; Location: near RAAF Darwin, Darwin, Northern Territory...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries latest draft  
-   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — RAAF File E1327 5-4 Air Part 6-7: 38, National Archives of Australia;. Western Australia Police...</p></details>
+   Link:<a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — RAAF File E1327 5-4 Air Part 6-7: 38, National Archives of Australia;. Western Australia Police...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ence, less well known, stretching back to the sixteenth century.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ence, less well known, stretching back to the sixteenth century.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: List of unusual deaths in the 20th century  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_unusual_deaths_in_the_20th_century" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_unusual_deaths_in_the_20th_century</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of unusual deaths in the 20th century... UFO sighting. Officially, the object remains unidentified, though the most likely explan...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_unusual_deaths_in_the_20th_century" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_unusual_deaths_in_the_20th_century</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of unusual deaths in the 20th century... UFO sighting. Officially, the object remains unidentified, though the most likely explan...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GqpAsmQnoZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GqpAsmQnoZY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s UFO Secrets Exposed with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GqpAsmQnoZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GqpAsmQnoZY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s UFO Secrets Exposed with Ross Coulthart...</p></details>

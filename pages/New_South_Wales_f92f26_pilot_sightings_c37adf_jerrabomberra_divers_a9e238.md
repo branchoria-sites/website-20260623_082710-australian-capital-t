@@ -272,7 +272,7 @@ What makes the case historically interesting is also what makes it difficult to 
 
 The core claim is that an unidentified object was observed in airspace associated with approaches to Canberra Airport's runway 35 and that at least some aircraft were routed around the area as a precaution. Jerrabomberra, immediately east of Canberra Airport and closely associated with runway 35 arrival and departure tracks, became the geographic label attached to the incident.
 
-The report gained attention because runway 35 is not a remote piece of airspace. It sits within a controlled aviation environment used by scheduled passenger services, regional flights and general aviation traffic. Canberra's runway system is heavily centred on runway 17/35, and aircraft arriving from the south or departing to the north commonly operate through the Jerrabomberra area. Airservices Australia flight-path material shows that runway 17/35 handles the majority of airport traffic and that aircraft using runway 35 follow well-defined arrival and departure corridors extending beyond the immediate airport boundary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Canberra_ANIR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Canberra Airport Aircraft Noise Information Report Quarter</span><span class="citation-popover-snippet">AirservicesCanberra Airport Aircraft Noise Information Report Quarter...June 22, 2016 — Jerrabomberra, The main runway 17/35 length 3 28...</span><span class="citation-popover-meta">Published: June 22, 2016</span></span></span>
+The report gained attention because runway 35 is not a remote piece of airspace. It sits within a controlled aviation environment used by scheduled passenger services, regional flights and general aviation traffic. Canberra's runway system is heavily centred on runway 17/35, and aircraft arriving from the south or departing to the north commonly operate through the Jerrabomberra area. Airservices Australia flight-path material shows that runway 17/35 handles the majority of airport traffic and that aircraft using runway 35 follow well-defined arrival and departure corridors extending beyond the immediate airport boundary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Canberra_ANIR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Canberra Airport Aircraft Noise Information Report Quarter</span><span class="citation-popover-snippet">AirservicesCanberra Airport Aircraft Noise Information Report Quarter...June 22, 2016 — Jerrabomberra, The main runway 17/35 length 3 28...</span><span class="citation-popover-meta">Published: June 22, 2016</span></span></span>
 
 In UFO literature, the significance of the alleged diversion is straightforward: if controllers altered aircraft routing because of an unidentified object, that would move the case beyond a simple visual sighting and into the realm of aviation safety decision-making. However, the exact sequence of events, the duration of the observation and the nature of the object remain unclear in publicly accessible records.
 
@@ -285,7 +285,7 @@ One reason the Jerrabomberra story continues to be discussed is that modern avia
 
 That does not automatically mean that every unusual observation produces a publicly released file. Airservices Australia, airport operators, airlines and the Australian Transport Safety Bureau (ATSB) all maintain different categories of operational records, and many routine reports never become public investigations.
 
-The available Canberra aviation material demonstrates how detailed such records can be when released. Airservices documentation describes runway usage patterns, approach paths and aircraft movements around runway 35, while ATSB investigations routinely reconstruct events using controller communications, [flight tracks]({{ 'flight-tracks/' | relative_url }}) and witness evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Canberra_ANIR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Canberra Airport Aircraft Noise Information Report Quarter</span><span class="citation-popover-snippet">AirservicesCanberra Airport Aircraft Noise Information Report Quarter...June 22, 2016 — Jerrabomberra, The main runway 17/35 length 3 28...</span><span class="citation-popover-meta">Published: June 22, 2016</span></span></span>
+The available Canberra aviation material demonstrates how detailed such records can be when released. Airservices documentation describes runway usage patterns, approach paths and aircraft movements around runway 35, while ATSB investigations routinely reconstruct events using controller communications, [flight tracks]({{ 'flight-tracks/' | relative_url }}) and witness evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Canberra_ANIR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Canberra Airport Aircraft Noise Information Report Quarter</span><span class="citation-popover-snippet">AirservicesCanberra Airport Aircraft Noise Information Report Quarter...June 22, 2016 — Jerrabomberra, The main runway 17/35 length 3 28...</span><span class="citation-popover-meta">Published: June 22, 2016</span></span></span>
 
 For supporters of the unidentified-object interpretation, this matters because a reported diversion would theoretically be capable of leaving a documentary trail. For sceptics, the same point cuts the other way: if aircraft were substantially rerouted around a genuine hazard, stronger documentary evidence might be expected to have emerged.
 
@@ -322,7 +322,7 @@ Within the broader history of [pilot sightings]({{ 'pilot-reports/' | relative_u
 
 Many UFO reports involving aircraft rely almost entirely on witness testimony. The Jerrabomberra story became notable because it suggested a practical consequence: controllers or flight crews treating an unknown object seriously enough to adjust operations. That claim places it alongside a small group of Australian aviation cases where the question is not merely what someone saw, but how the aviation system responded.
 
-At the same time, Canberra's location between major Sydney and Melbourne air corridors means the region contains dense and complex air traffic. Airservices flight-path information shows routine commercial traffic, overflights and local operations sharing the same airspace environment. In such settings, unusual visual observations can arise from ordinary aviation activity just as easily as from genuinely unidentified phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Canberra_ANIR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Canberra Airport Aircraft Noise Information Report Quarter</span><span class="citation-popover-snippet">AirservicesCanberra Airport Aircraft Noise Information Report Quarter...June 22, 2016 — Jerrabomberra, The main runway 17/35 length 3 28...</span><span class="citation-popover-meta">Published: June 22, 2016</span></span></span>
+At the same time, Canberra's location between major Sydney and Melbourne air corridors means the region contains dense and complex air traffic. Airservices flight-path information shows routine commercial traffic, overflights and local operations sharing the same airspace environment. In such settings, unusual visual observations can arise from ordinary aviation activity just as easily as from genuinely unidentified phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Canberra_ANIR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Canberra Airport Aircraft Noise Information Report Quarter</span><span class="citation-popover-snippet">AirservicesCanberra Airport Aircraft Noise Information Report Quarter...June 22, 2016 — Jerrabomberra, The main runway 17/35 length 3 28...</span><span class="citation-popover-meta">Published: June 22, 2016</span></span></span>
 
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf_jerrabomberra_divers_a9e238-Illustration-3-dark.svg" | relative_url }}" alt="Jerrabomberra illustration 3" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf_jerrabomberra_divers_a9e238-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_pilot_sightings_c37adf_jerrabomberra_divers_a9e238-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -332,201 +332,201 @@ The strongest claim associated with the Jerrabomberra incident is not that an ex
 
 That claim gives the case enduring interest within New South Wales and Canberra-region UFO history. However, the publicly available evidence remains fragmentary. No widely available official report has emerged that conclusively confirms the object's identity, nor has a public record surfaced that decisively disproves the diversion story.
 
-As a result, the Jerrabomberra runway 35 incident is best classified as an unresolved aviation-related unidentified-object report. Its historical importance comes from the reported interaction between an unknown aerial object and controlled airspace operations, while its main weakness remains the limited quantity of verifiable public documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Canberra_ANIR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Canberra Airport Aircraft Noise Information Report Quarter</span><span class="citation-popover-snippet">AirservicesCanberra Airport Aircraft Noise Information Report Quarter...June 22, 2016 — Jerrabomberra, The main runway 17/35 length 3 28...</span><span class="citation-popover-meta">Published: June 22, 2016</span></span></span>
+As a result, the Jerrabomberra runway 35 incident is best classified as an unresolved aviation-related unidentified-object report. Its historical importance comes from the reported interaction between an unknown aerial object and controlled airspace operations, while its main weakness remains the limited quantity of verifiable public documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Canberra_ANIR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-title">Airservices Canberra Airport Aircraft Noise Information Report Quarter</span><span class="citation-popover-snippet">AirservicesCanberra Airport Aircraft Noise Information Report Quarter...June 22, 2016 — Jerrabomberra, The main runway 17/35 length 3 28...</span><span class="citation-popover-meta">Published: June 22, 2016</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DZP-x4Ko_JI" title="Australia’s Biggest UFO Cover-Up | The Westall Incident (1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DZP-x4Ko_JI" target="_blank" rel="noopener noreferrer">Australia’s Biggest UFO Cover-Up | The Westall Incident (1966)</a></p><p class="youtube-embed-meta">Channel: Project Unknown: Field Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DZP-x4Ko_JI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DZP-x4Ko_JI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why did flights divert near Jerrabomberra?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why did flights divert near Jerrabomberra?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses heavily on pilot reports, radar cases, aviation safety issues and government documentation that closely match the Jerrabomberra d...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on pilot reports, radar cases, aviation safety issues and government documentation that closely match the Jerrabomberra d...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a structured framework for assessing unexplained aerial reports and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a structured framework for assessing unexplained aerial reports and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Offers historical context for unusual aerial reports and competing interpretations of unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical context for unusual aerial reports and competing interpretations of unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful background for readers interested in how aviation-related UFO cases are documented and investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background for readers interested in how aviation-related UFO cases are documented and investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="jerrabomberra-why-did-flights-divert-near-jerrabomberra-new-south-wales-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-flights-divert-near-jerrabomberra-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-flights-divert-near-jerrabomberra-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ As a result, the Jerrabomberra runway 35 incident is best classified as an unres
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ As a result, the Jerrabomberra runway 35 incident is best classified as an unres
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ As a result, the Jerrabomberra runway 35 incident is best classified as an unres
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ As a result, the Jerrabomberra runway 35 incident is best classified as an unres
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ As a result, the Jerrabomberra runway 35 incident is best classified as an unres
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,79 +732,79 @@ As a result, the Jerrabomberra runway 35 incident is best classified as an unres
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: airservicesaustralia.com  
    Title: Airservices Canberra Airport Aircraft Noise Information Report Quarter  
-   Link: <a href="https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Canberra_ANIR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Canberra_ANIR.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesCanberra Airport Aircraft Noise Information Report Quarter...June 22, 2016 — Jerrabomberra, The main runway 17/35 length 3 28...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Canberra_ANIR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/Q1_2016_Canberra_ANIR.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesCanberra Airport Aircraft Noise Information Report Quarter...June 22, 2016 — Jerrabomberra, The main runway 17/35 length 3 28...</p></details>
    Published: June 22, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/sites/default/files/2024-03/ao2010008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/2024-03/ao2010008.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Turbulence event Canberra Aerodrome, Australian Capital...In 2002, ATSB investigation 200205179 examined a turbulence event during landi...</p></details>
+   Link:<a href="https://www.atsb.gov.au/sites/default/files/2024-03/ao2010008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/2024-03/ao2010008.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turbulence event Canberra Aerodrome, Australian Capital...In 2002, ATSB investigation 200205179 examined a turbulence event during landi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: airservicesaustralia.com  
    Title: 20190227 Canberra PSI  
-   Link: <a href="https://airservicesaustralia.com/wp-content/uploads/20190227-Canberra-PSI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airservicesaustralia.com/wp-content/uploads/20190227-Canberra-PSI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Site Investigation and Limited Sampling...21 Feb 2019 — AECOM has prepared this document for the sole use of the Client and...</p></details>
+   Link:<a href="https://airservicesaustralia.com/wp-content/uploads/20190227-Canberra-PSI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airservicesaustralia.com/wp-content/uploads/20190227-Canberra-PSI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Site Investigation and Limited Sampling...21 Feb 2019 — AECOM has prepared this document for the sole use of the Client and...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSsydney/videos/ufo-over-nsw/1719217448102381/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSsydney/videos/ufo-over-nsw/1719217448102381/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO over NSW | 7NEWS SydneyUFO over NSW: &quot;Probably some space junk from some defunct satellite&quot; - Simon O&#x27;Toole - Australian Astronomical...</p></details>
+   Link:<a href="https://www.facebook.com/7NEWSsydney/videos/ufo-over-nsw/1719217448102381/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSsydney/videos/ufo-over-nsw/1719217448102381/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO over NSW | 7NEWS SydneyUFO over NSW: &quot;Probably some space junk from some defunct satellite&quot; - Simon O&#x27;Toole - Australian Astronomical...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: naa.gov.au  
-   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraA confidential report detailing sightings of an unidentified flying object near Wewak, a nu...</p></details>
+   Link:<a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, WoomeraA confidential report detailing sightings of an unidentified flying object near Wewak, a nu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/a/a5/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/a5/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_24.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OF DEFENCEREPORTS ON FLYlliC SAUCERS AND OTHER AERIAL OBJECTS. an runway 34, take off runway 16. A RADAR Met balloon (non illuminated) wa...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/a/a5/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/a5/Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia%2C_A703%2C_580-1-1%2C_part_24.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OF DEFENCEREPORTS ON FLYlliC SAUCERS AND OTHER AERIAL OBJECTS. an runway 34, take off runway 16. A RADAR Met balloon (non illuminated) wa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/bookshelf/occurrence-investigation-report-runway-incursion-johanesburg-south-africa-27-july-2010" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/bookshelf/occurrence-investigation-report-runway-incursion-johanesburg-south-africa-27-july-2010</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Runway Incursion at Johanesburg, South Africa, 27 July...27 Jul 2010 — On 27 July 2010, a South African Airways Boeing 737-800 on take f...</p></details>
+   Link:<a href="https://skybrary.aero/bookshelf/occurrence-investigation-report-runway-incursion-johanesburg-south-africa-27-july-2010" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/bookshelf/occurrence-investigation-report-runway-incursion-johanesburg-south-africa-27-july-2010</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Runway Incursion at Johanesburg, South Africa, 27 July...27 Jul 2010 — On 27 July 2010, a South African Airways Boeing 737-800 on take f...</p></details>
    Published: july 2010  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: csmonitor.com  
    Title: Australia UFO sightings Was that the Falcon 9 rocket  
-   Link: <a href="https://www.csmonitor.com/Science/2010/0607/Australia-UFO-sightings-Was-that-the-Falcon-9-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2010/0607/Australia-UFO-sightings-Was-that-the-Falcon-9-rocket</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia UFO sightings: Was that the Falcon 9 rocket?7 Jun 2010 — An eerie spiral light show in the pre-dawn sky over Australia early Sa...</p></details>
+   Link:<a href="https://www.csmonitor.com/Science/2010/0607/Australia-UFO-sightings-Was-that-the-Falcon-9-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2010/0607/Australia-UFO-sightings-Was-that-the-Falcon-9-rocket</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia UFO sightings: Was that the Falcon 9 rocket?7 Jun 2010 — An eerie spiral light show in the pre-dawn sky over Australia early Sa...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: datocms-assets.com  
    Title: 1679461525 canberra airport 2014 master plan  
-   Link: <a href="https://www.datocms-assets.com/88007/1679461525-canberra-airport-2014-master-plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.datocms-assets.com/88007/1679461525-canberra-airport-2014-master-plan.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CANBERRA AIRPORT MASTER PLAN12 Jun 2008 — RNP procedures have facilitated a curved approach for aircraft arriving runway 35, thus displac...</p></details>
+   Link:<a href="https://www.datocms-assets.com/88007/1679461525-canberra-airport-2014-master-plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.datocms-assets.com/88007/1679461525-canberra-airport-2014-master-plan.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CANBERRA AIRPORT MASTER PLAN12 Jun 2008 — RNP procedures have facilitated a curved approach for aircraft arriving runway 35, thus displac...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
    Title: Canberra Airport Draft Master Plan 2009  
-   Link: <a href="https://www.scribd.com/document/18961394/Canberra-Airport-Draft-Master-Plan-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/18961394/Canberra-Airport-Draft-Master-Plan-2009</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canberra Airport Master Plan Overview | PDFThis document is a preliminary draft of Canberra Airport&#x27;s 2009 Master Plan. It provides an ov...</p></details>
+   Link:<a href="https://www.scribd.com/document/18961394/Canberra-Airport-Draft-Master-Plan-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/18961394/Canberra-Airport-Draft-Master-Plan-2009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canberra Airport Master Plan Overview | PDFThis document is a preliminary draft of Canberra Airport&#x27;s 2009 Master Plan. It provides an ov...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: simpleflying.com  
    Title: virgin australia runway incursion  
-   Link: <a href="https://simpleflying.com/virgin-australia-runway-incursion/" target="_blank" rel="noopener noreferrer nofollow">https://simpleflying.com/virgin-australia-runway-incursion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Virgin Australia ATR72 Lines Up For Wrong Runway In...1 Oct 2019 — A Virgin Australia ATR72 was involved in an incident at Canberra Airp...</p></details>
+   Link:<a href="https://simpleflying.com/virgin-australia-runway-incursion/" target="_blank" rel="noopener noreferrer nofollow">https://simpleflying.com/virgin-australia-runway-incursion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Virgin Australia ATR72 Lines Up For Wrong Runway In...1 Oct 2019 — A Virgin Australia ATR72 was involved in an incident at Canberra Airp...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: drones.gov.au  
    Title: Submission 73 – Dr Murray May  
-   Link: <a href="https://www.drones.gov.au/sites/default/files/documents/submission-73-dr-murray-may.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.drones.gov.au/sites/default/files/documents/submission-73-dr-murray-may.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Dec 2022 — Dr Murray May, Canberra, a flying object which has no pilot on board. In 2004, the Federal Minister for Transpo...</p></details>
+   Link:<a href="https://www.drones.gov.au/sites/default/files/documents/submission-73-dr-murray-may.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.drones.gov.au/sites/default/files/documents/submission-73-dr-murray-may.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Dec 2022 — Dr Murray May, Canberra, a flying object which has no pilot on board. In 2004, the Federal Minister for Transpo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO sightings in South Africa  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in South AfricaThis is a list of alleged sightings of unidentified flying objects or UFOs in South Africa. [35] Crash cl...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in South AfricaThis is a list of alleged sightings of unidentified flying objects or UFOs in South Africa. [35] Crash cl...</p></details>

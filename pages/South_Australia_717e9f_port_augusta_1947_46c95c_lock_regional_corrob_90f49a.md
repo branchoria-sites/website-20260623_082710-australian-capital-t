@@ -262,36 +262,36 @@ image: /assets/images/South_Australia_717e9f_port_augusta_1947_46c95c_lock_regio
 
 ## Introduction
 
-Did the Lock report confirm the [Port Augusta]({{ 'port-augusta/' | relative_url }}) sighting? The short answer is: not conclusively. A second South Australian report did emerge from the Eyre Peninsula on the same morning as the Port Augusta incident, and it also described five unusual objects in the sky. That coincidence has attracted attention because independent reports from different locations can strengthen the case that [witnesses]({{ 'witnesses/' | relative_url }}) were observing a real regional event rather than a purely local misunderstanding. However, the Lock account differs from the Port Augusta report in important ways, including the reported time, direction of travel and appearance of the objects. As a result, it functions more as a possible corroborating sighting than as firm confirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</span></span></span>
+Did the Lock report confirm the [Port Augusta]({{ 'port-augusta/' | relative_url }}) sighting? The short answer is: not conclusively. A second South Australian report did emerge from the Eyre Peninsula on the same morning as the Port Augusta incident, and it also described five unusual objects in the sky. That coincidence has attracted attention because independent reports from different locations can strengthen the case that [witnesses]({{ 'witnesses/' | relative_url }}) were observing a real regional event rather than a purely local misunderstanding. However, the Lock account differs from the Port Augusta report in important ways, including the reported time, direction of travel and appearance of the objects. As a result, it functions more as a possible corroborating sighting than as firm confirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_port_augusta_1947_46c95c_lock_regional_corrob_90f49a-Illustration-1-dark.svg" | relative_url }}" alt="Lock report illustration 1" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_port_augusta_1947_46c95c_lock_regional_corrob_90f49a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_port_augusta_1947_46c95c_lock_regional_corrob_90f49a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within [South Australia]({{ 'why-south-australias-ufo-stories-still/' | relative_url }})'s early flying-saucer history, the Lock report is significant because it provides a rare second testimony from roughly the same period and region. Yet the differences between the two accounts are substantial enough that historians and UFO researchers generally treat the connection as suggestive rather than proven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove+2UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</span></span></span>
+Within [South Australia]({{ 'why-south-australias-ufo-stories-still/' | relative_url }})'s early flying-saucer history, the Lock report is significant because it provides a rare second testimony from roughly the same period and region. Yet the differences between the two accounts are substantial enough that historians and UFO researchers generally treat the connection as suggestive rather than proven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/peB3uXxQFjc" title="#712. Alien DNA, Ground Traces &amp; Police Chases: Australian UFO Cases with Bill Chalker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=peB3uXxQFjc" target="_blank" rel="noopener noreferrer">#712. Alien DNA, Ground Traces &amp; Police Chases: Australian UFO Cases with Bill Chalker</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=peB3uXxQFjc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=peB3uXxQFjc">Open on YouTube</a></p></div></div></div>
 
 ## What F. W. Flavel reported from Eyre Peninsula
 
-The Lock witness was identified as F. W. Flavel, a resident of the Eyre Peninsula township of Lock. His account appeared in a letter published after newspapers had already reported the Port Augusta sighting. According to Flavel, he and his wife observed five unusual objects between 7 and 8 a.m. on 5 February 1947 while he was returning to his house after feeding pigs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</span></span></span>
+The Lock witness was identified as F. W. Flavel, a resident of the Eyre Peninsula township of Lock. His account appeared in a letter published after newspapers had already reported the Port Augusta sighting. According to Flavel, he and his wife observed five unusual objects between 7 and 8 a.m. on 5 February 1947 while he was returning to his house after feeding pigs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</span></span></span>
 
-Flavel described the objects as: <span class="citation-chip-wrap"><a class="citation-chip" href="https://americanalchemymagazine.substack.com/p/the-australian-ufo-sighting-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanalchemymagazine.substack.com">[americanalchemymagazine.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanalchemymagazine.substack.com</span><span class="citation-popover-title">the australian ufo sighting that</span><span class="citation-popover-snippet">W. Flavel of Lock on the Eyre Peninsula described seeing five similar objects in the sky between 7 and 8 a.m....Read more...</span></span></span>
+Flavel described the objects as:<span class="citation-chip-wrap"><a class="citation-chip" href="https://americanalchemymagazine.substack.com/p/the-australian-ufo-sighting-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanalchemymagazine.substack.com">[americanalchemymagazine.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanalchemymagazine.substack.com</span><span class="citation-popover-title">the australian ufo sighting that</span><span class="citation-popover-snippet">W. Flavel of Lock on the Eyre Peninsula described seeing five similar objects in the sky between 7 and 8 a.m....Read more...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Five objects travelling together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/585244406/In-Plain-Sight-A-fascinating-investigation-into-UFOs-and-alien-encounters-from-an-award-winning-journalist-fully-updated-and-revised-new-edition-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[everand.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">A farmer on South Australia&#x27;s Eyre Peninsula reported seeing five strange oblong-shaped objects...Read more...</span></span></span>
+* Five objects travelling together.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/585244406/In-Plain-Sight-A-fascinating-investigation-into-UFOs-and-alien-encounters-from-an-award-winning-journalist-fully-updated-and-revised-new-edition-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[everand.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">A farmer on South Australia&#x27;s Eyre Peninsula reported seeing five strange oblong-shaped objects...Read more...</span></span></span>
 * Oblong in shape, with narrow points.
 * Surrounded by a smoky grey appearance.
 * Moving from north-west towards south-east.
 * Appearing to rise from the direction of the sea.
-* Casting or causing a shadow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</span></span></span>
+* Casting or causing a shadow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</span></span></span>
 
 </div>
 
-He stressed that he saw the objects clearly and that his wife also observed them. He later wrote that he had never seen anything similar before and only decided to report the sighting after reading of the Port Augusta incident in the newspapers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</span></span></span>
+He stressed that he saw the objects clearly and that his wife also observed them. He later wrote that he had never seen anything similar before and only decided to report the sighting after reading of the Port Augusta incident in the newspapers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</span></span></span>
 
-Geographically, Lock lies on the eastern Eyre Peninsula, roughly 225 kilometres from Port Augusta. That separation is important because it means the report did not come from the same workplace, town or witness group. If both accounts referred to the same phenomenon, it would imply an event extending across a large area of South Australia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2011/01/cold-case-port-augusta-5-february-1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Cold case</span><span class="citation-popover-snippet">UFOs Scientific ResearchCold case - Port Augusta - 5 February 194729 Jan 2011 — &quot;Writing in the Advertiser, Mr F W Flavel of Lock, Eyre P...</span></span></span>
+Geographically, Lock lies on the eastern Eyre Peninsula, roughly 225 kilometres from Port Augusta. That separation is important because it means the report did not come from the same workplace, town or witness group. If both accounts referred to the same phenomenon, it would imply an event extending across a large area of South Australia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2011/01/cold-case-port-augusta-5-february-1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Cold case</span><span class="citation-popover-snippet">UFOs Scientific ResearchCold case - Port Augusta - 5 February 194729 Jan 2011 — &quot;Writing in the Advertiser, Mr F W Flavel of Lock, Eyre P...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IhKyQkhOfoM" title="Schoolyard witnesses in mass UFO sighting demand answers | Australian Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer">Schoolyard witnesses in mass UFO sighting demand answers | Australian Story</a></p><p class="youtube-embed-meta">Channel: ABC News In-depth &middot; Views: 691.6K &middot; Uploaded: April 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IhKyQkhOfoM">Open on YouTube</a></p></div></div></div>
@@ -300,13 +300,13 @@ Geographically, Lock lies on the eastern Eyre Peninsula, roughly 225 kilometres 
 
 The strongest argument for treating the Lock sighting as corroboration is the number of unusual similarities between the two reports.
 
-Most notably, both accounts involved five objects observed on the same morning. The Port Augusta witnesses reported five white or pale pink egg-shaped objects travelling in formation, while Flavel described five oblong objects moving together. Reports involving exactly five objects are not especially common, making the coincidence noteworthy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove+2Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
+Most notably, both accounts involved five objects observed on the same morning. The Port Augusta witnesses reported five white or pale pink egg-shaped objects travelling in formation, while Flavel described five oblong objects moving together. Reports involving exactly five objects are not especially common, making the coincidence noteworthy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
 
-A second similarity concerns the apparent physicality of the objects. In both cases, witnesses referred to shadows. The Port Augusta railway workers stated that the objects appeared to cast shadows, while Flavel also remarked that the objects caused a shadow. Although neither report provides enough detail to evaluate this claim rigorously, the parallel wording has often been highlighted by later commentators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove+2Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
+A second similarity concerns the apparent physicality of the objects. In both cases, witnesses referred to shadows. The Port Augusta railway workers stated that the objects appeared to cast shadows, while Flavel also remarked that the objects caused a shadow. Although neither report provides enough detail to evaluate this claim rigorously, the parallel wording has often been highlighted by later commentators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
 
-The timing is also broadly compatible. Flavel's observation occurred between 7 and 8 a.m., whereas the Port Augusta sighting was reported at about 9 a.m. If a genuine aerial phenomenon had crossed a large part of South Australia, a difference of roughly an hour would not automatically rule out a connection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
+The timing is also broadly compatible. Flavel's observation occurred between 7 and 8 a.m., whereas the Port Augusta sighting was reported at about 9 a.m. If a genuine aerial phenomenon had crossed a large part of South Australia, a difference of roughly an hour would not automatically rule out a connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
 
-For these reasons, some later writers have presented the Lock report as evidence that the Port Augusta witnesses were not alone and that an unusual aerial event may have been observed across a wider region of the state. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everand.com/book/585244406/In-Plain-Sight-A-fascinating-investigation-into-UFOs-and-alien-encounters-from-an-award-winning-journalist-fully-updated-and-revised-new-edition-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">A farmer on South Australia&#x27;s Eyre Peninsula reported seeing five strange oblong-shaped objects...Read more...</span></span></span>
+For these reasons, some later writers have presented the Lock report as evidence that the Port Augusta witnesses were not alone and that an unusual aerial event may have been observed across a wider region of the state.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everand.com/book/585244406/In-Plain-Sight-A-fascinating-investigation-into-UFOs-and-alien-encounters-from-an-award-winning-journalist-fully-updated-and-revised-new-edition-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">A farmer on South Australia&#x27;s Eyre Peninsula reported seeing five strange oblong-shaped objects...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_port_augusta_1947_46c95c_lock_regional_corrob_90f49a-Illustration-2-dark.svg" | relative_url }}" alt="Lock report illustration 2" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_port_augusta_1947_46c95c_lock_regional_corrob_90f49a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_port_augusta_1947_46c95c_lock_regional_corrob_90f49a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,217 +314,217 @@ For these reasons, some later writers have presented the Lock report as evidence
 
 The problem is that the two reports do not match closely enough to establish that both groups saw the same thing.
 
-The clearest discrepancy concerns direction of travel. At Port Augusta, the objects were reported moving from north to south. Flavel, by contrast, described objects travelling from north-west to south-east. These are not identical flight paths, and without more precise bearings it is difficult to reconcile them confidently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
+The clearest discrepancy concerns direction of travel. At Port Augusta, the objects were reported moving from north to south. Flavel, by contrast, described objects travelling from north-west to south-east. These are not identical flight paths, and without more precise bearings it is difficult to reconcile them confidently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
 
-The reported appearance also differs. The Port Augusta witnesses described white or light pink egg-shaped objects. Flavel's objects were oblong, pointed at the ends and surrounded by a smoky grey colouring. While these descriptions are not completely incompatible, they are not close matches either. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove+2Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
+The reported appearance also differs. The Port Augusta witnesses described white or light pink egg-shaped objects. Flavel's objects were oblong, pointed at the ends and surrounded by a smoky grey colouring. While these descriptions are not completely incompatible, they are not close matches either.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
 
-Another issue is the apparent motion. The Port Augusta objects reportedly crossed the sky rapidly and disappeared within seconds. Flavel's description suggests a slower, floating movement that allowed him time to observe the objects, call his wife and continue watching. Such differences may reflect perspective effects, but they also raise the possibility that the witnesses were describing different phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove+2Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
+Another issue is the apparent motion. The Port Augusta objects reportedly crossed the sky rapidly and disappeared within seconds. Flavel's description suggests a slower, floating movement that allowed him time to observe the objects, call his wife and continue watching. Such differences may reflect perspective effects, but they also raise the possibility that the witnesses were describing different phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
 
-There is also the problem of chronology. Flavel's account was published only after newspaper coverage of the Port Augusta sighting had appeared. That does not make his report false, but it means historians cannot treat it as a completely independent contemporary record in the same way as two reports submitted before either became publicly known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</span></span></span>
+There is also the problem of chronology. Flavel's account was published only after newspaper coverage of the Port Augusta sighting had appeared. That does not make his report false, but it means historians cannot treat it as a completely independent contemporary record in the same way as two reports submitted before either became publicly known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fY2gXIjcOZU" title="The 5 Strangest U.F.O. ENCOUNTERS in Australia | Australian Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fY2gXIjcOZU" target="_blank" rel="noopener noreferrer">The 5 Strangest U.F.O. ENCOUNTERS in Australia | Australian Aliens</a></p><p class="youtube-embed-meta">Channel: Shadow Matter</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fY2gXIjcOZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fY2gXIjcOZU">Open on YouTube</a></p></div></div></div>
 
 ## How much weight should the Lock report carry?
 
-The Lock report occupies an intermediate position in the evidence surrounding South Australia's early 1947 sightings. It is stronger than a later rumour because it came from a named witness, was published in a contemporary newspaper, and included a second observer in the form of Flavel's wife. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</span></span></span>
+The Lock report occupies an intermediate position in the evidence surrounding South Australia's early 1947 sightings. It is stronger than a later rumour because it came from a named witness, was published in a contemporary newspaper, and included a second observer in the form of Flavel's wife.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</span></span></span>
 
-At the same time, it does not provide the kind of close correspondence that investigators usually seek when using multiple reports to establish a single event. The matching number of objects and the same-date timing are intriguing, but the differences in direction, shape and behaviour prevent the case from serving as decisive confirmation of the Port Augusta sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove+2Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
+At the same time, it does not provide the kind of close correspondence that investigators usually seek when using multiple reports to establish a single event. The matching number of objects and the same-date timing are intriguing, but the differences in direction, shape and behaviour prevent the case from serving as decisive confirmation of the Port Augusta sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
 
-Viewed within South Australia's UFO history, the Lock account is best understood as regional corroboration of a limited kind. It suggests that more than one group of people reported unusual objects in the state's skies on 5 February 1947. What it does not do is prove that both groups witnessed the same phenomenon. The report therefore strengthens the historical interest of the Port Augusta case while leaving its ultimate explanation unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Everand+3Trove+3Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
+Viewed within South Australia's UFO history, the Lock account is best understood as regional corroboration of a limited kind. It suggests that more than one group of people reported unusual objects in the state's skies on 5 February 1947. What it does not do is prove that both groups witnessed the same phenomenon. The report therefore strengthens the historical interest of the Port Augusta case while leaving its ultimate explanation unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">· The objects were white or light · pink, and were shaped like an egg...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Australia_717e9f_port_augusta_1947_46c95c_lock_regional_corrob_90f49a-Illustration-3-dark.svg" | relative_url }}" alt="Lock report illustration 3" data-theme-src-dark="{{ "/assets/images/South_Australia_717e9f_port_augusta_1947_46c95c_lock_regional_corrob_90f49a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Australia_717e9f_port_augusta_1947_46c95c_lock_regional_corrob_90f49a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Lock confirm the Port Augusta sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Lock confirm the Port Augusta sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sighting reports and corroborative evidence, matching a page assessing whether two sightings confirm each other.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sighting reports and corroborative evidence, matching a page assessing whether two sightings confirm each other.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical context on early flying-saucer reports and how investigators weighed witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context on early flying-saucer reports and how investigators weighed witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines multiple-witness cases and the value of independent corroboration in UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines multiple-witness cases and the value of independent corroboration in UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Encourages comparison of reports across locations and time periods, useful when considering possible regional corroboration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages comparison of reports across locations and time periods, useful when considering possible regional corroboration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster"><img src="{{ '/assets/images/marketplace-covers/0b94c1ecef458b62a06c.jpg' | relative_url }}" alt="Listing image for BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster"><img src="{{ '/assets/images/marketplace-covers/0b94c1ecef458b62a06c.jpg' | relative_url }}" alt="Listing image for BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart"><img src="{{ '/assets/images/marketplace-covers/11c4fcce147baab28608.jpg' | relative_url }}" alt="Listing image for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart"><img src="{{ '/assets/images/marketplace-covers/11c4fcce147baab28608.jpg' | relative_url }}" alt="Listing image for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3"><img src="{{ '/assets/images/marketplace-covers/bae82c6b1b04090fc911.jpg' | relative_url }}" alt="Listing image for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3"><img src="{{ '/assets/images/marketplace-covers/bae82c6b1b04090fc911.jpg' | relative_url }}" alt="Listing image for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="lock-report-did-lock-confirm-the-port-augusta-sighting-south-australia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ Viewed within South Australia's UFO history, the Lock account is best understood
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ Viewed within South Australia's UFO history, the Lock account is best understood
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ Viewed within South Australia's UFO history, the Lock account is best understood
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ Viewed within South Australia's UFO history, the Lock account is best understood
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ Viewed within South Australia's UFO history, the Lock account is best understood
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,114 +730,114 @@ Viewed within South Australia's UFO history, the Lock account is best understood
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/30512759</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/30512759" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/30512759</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Feb 1947 - Strange Objects In Sky - TroveSir—I saw objects in the sky between 7 and 8 o clock the same day ps you received a repo...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: UFOs Scientific Research Cold case  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2011/01/cold-case-port-augusta-5-february-1947.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2011/01/cold-case-port-augusta-5-february-1947.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Scientific ResearchCold case - Port Augusta - 5 February 194729 Jan 2011 — &quot;Writing in the Advertiser, Mr F W Flavel of Lock, Eyre P...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2011/01/cold-case-port-augusta-5-february-1947.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2011/01/cold-case-port-augusta-5-february-1947.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Scientific ResearchCold case - Port Augusta - 5 February 194729 Jan 2011 — &quot;Writing in the Advertiser, Mr F W Flavel of Lock, Eyre P...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: everand.com  
-   Link: <a href="https://www.everand.com/book/585244406/In-Plain-Sight-A-fascinating-investigation-into-UFOs-and-alien-encounters-from-an-award-winning-journalist-fully-updated-and-revised-new-edition-for" target="_blank" rel="noopener noreferrer nofollow">https://www.everand.com/book/585244406/In-Plain-Sight-A-fascinating-investigation-into-UFOs-and-alien-encounters-from-an-award-winning-journalist-fully-updated-and-revised-new-edition-for</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A farmer on South Australia&#x27;s Eyre Peninsula reported seeing five strange oblong-shaped objects...Read more...</p></details>
+   Link:<a href="https://www.everand.com/book/585244406/In-Plain-Sight-A-fascinating-investigation-into-UFOs-and-alien-encounters-from-an-award-winning-journalist-fully-updated-and-revised-new-edition-for" target="_blank" rel="noopener noreferrer nofollow">https://www.everand.com/book/585244406/In-Plain-Sight-A-fascinating-investigation-into-UFOs-and-alien-encounters-from-an-award-winning-journalist-fully-updated-and-revised-new-edition-for</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A farmer on South Australia&#x27;s Eyre Peninsula reported seeing five strange oblong-shaped objects...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/30511159</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· The objects were white or light · pink, and were shaped like an egg...Read more...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/30511159" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/30511159</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· The objects were white or light · pink, and were shaped like an egg...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sahistoryhub.history.sa.gov.au  
-   Link: <a href="https://sahistoryhub.history.sa.gov.au/wp-content/uploads/2024/08/eyre_peninsula_bibliography_19122010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sahistoryhub.history.sa.gov.au/wp-content/uploads/2024/08/eyre_peninsula_bibliography_19122010.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Peninsula, South Australia: a bibliographyEyre Peninsula rural chronicle [newspaper], Peninsula Publishers Pty Ltd, Port Lincoln, 1987-19...</p></details>
+   Link:<a href="https://sahistoryhub.history.sa.gov.au/wp-content/uploads/2024/08/eyre_peninsula_bibliography_19122010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sahistoryhub.history.sa.gov.au/wp-content/uploads/2024/08/eyre_peninsula_bibliography_19122010.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peninsula, South Australia: a bibliographyEyre Peninsula rural chronicle [newspaper], Peninsula Publishers Pty Ltd, Port Lincoln, 1987-19...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: explore.history.sa.gov.au  
    Title: history.sa.gov.au Author: digitalbarn  
-   Link: <a href="https://explore.history.sa.gov.au/author/digitalbarn/" target="_blank" rel="noopener noreferrer nofollow">https://explore.history.sa.gov.au/author/digitalbarn/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>history.sa.gov.auAuthor: digitalbarn - South Australian History NetworkThe South Australian History Network is a directory of community r...</p></details>
+   Link:<a href="https://explore.history.sa.gov.au/author/digitalbarn/" target="_blank" rel="noopener noreferrer nofollow">https://explore.history.sa.gov.au/author/digitalbarn/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>history.sa.gov.auAuthor: digitalbarn - South Australian History NetworkThe South Australian History Network is a directory of community r...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: newly discovered australian report from  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2017/01/newly-discovered-australian-report-from.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2017/01/newly-discovered-australian-report-from.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I was walking in a north-westerly...Read more...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2017/01/newly-discovered-australian-report-from.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2017/01/newly-discovered-australian-report-from.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I was walking in a north-westerly...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: guides.slsa.sa.gov.au  
-   Link: <a href="https://guides.slsa.sa.gov.au/c.php?g=410317&amp;p=2796444" target="_blank" rel="noopener noreferrer nofollow">https://guides.slsa.sa.gov.au/c.php?g=410317&amp;p=2796444</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Newspapers: West Coast/ Eyre Peninsula18 May 2026 — David Drysdale of the Port Augusta Dispatch established this Port Lincoln newspaper i...</p></details>
+   Link:<a href="https://guides.slsa.sa.gov.au/c.php?g=410317&amp;p=2796444" target="_blank" rel="noopener noreferrer nofollow">https://guides.slsa.sa.gov.au/c.php?g=410317&amp;p=2796444</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Newspapers: West Coast/ Eyre Peninsula18 May 2026 — David Drysdale of the Port Augusta Dispatch established this Port Lincoln newspaper i...</p></details>
    Published: May 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: webarchive.nationalarchives.gov.uk  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/20100208151854/http%3A/research.dwp.gov.uk/asd/asd5/84summ.asp" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20100208151854/http%3A/research.dwp.gov.uk/asd/asd5/84summ.asp</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nationalarchives.gov.uk[http://webarchive.nationalarchives.gov.uk/20100208...No](http://webarchive.nationalarchives.gov.uk/20100208...No) information is available for this page...</p></details>
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/20100208151854/http%3A/research.dwp.gov.uk/asd/asd5/84summ.asp" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/20100208151854/http%3A/research.dwp.gov.uk/asd/asd5/84summ.asp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nationalarchives.gov.uk[http://webarchive.nationalarchives.gov.uk/20100208...No](http://webarchive.nationalarchives.gov.uk/20100208...No) information is available for this page...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mylibrary.brimbank.vic.gov.au  
-   Link: <a href="https://mylibrary.brimbank.vic.gov.au/cgi-bin/koha/opac-detail.pl?biblionumber=379471" target="_blank" rel="noopener noreferrer nofollow">https://mylibrary.brimbank.vic.gov.au/cgi-bin/koha/opac-detail.pl?biblionumber=379471</a>  
+   Link:<a href="https://mylibrary.brimbank.vic.gov.au/cgi-bin/koha/opac-detail.pl?biblionumber=379471" target="_blank" rel="noopener noreferrer nofollow">https://mylibrary.brimbank.vic.gov.au/cgi-bin/koha/opac-detail.pl?biblionumber=379471</a>  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rssa.org.au  
-   Link: <a href="https://www.rssa.org.au/wp-content/uploads/2022/07/nhkangarooisland.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rssa.org.au/wp-content/uploads/2022/07/nhkangarooisland.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural History of Kangaroo IslandWell Completion Report, Stansbury Basin, Kangaroo Island. Department of Mines and Energy, South Austral...</p></details>
+   Link:<a href="https://www.rssa.org.au/wp-content/uploads/2022/07/nhkangarooisland.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rssa.org.au/wp-content/uploads/2022/07/nhkangarooisland.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Natural History of Kangaroo IslandWell Completion Report, Stansbury Basin, Kangaroo Island. Department of Mines and Energy, South Austral...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: 201squadronassociation.com  
-   Link: <a href="https://www.201squadronassociation.com/wp-content/uploads/2015/08/On-The-Step-Searchable-OCR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.201squadronassociation.com/wp-content/uploads/2015/08/On-The-Step-Searchable-OCR.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ON THE STEPIn addition to the chronological narrative, there are two other elements to the book: a reference section in the appendices wh...</p></details>
+   Link:<a href="https://www.201squadronassociation.com/wp-content/uploads/2015/08/On-The-Step-Searchable-OCR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.201squadronassociation.com/wp-content/uploads/2015/08/On-The-Step-Searchable-OCR.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ON THE STEPIn addition to the chronological narrative, there are two other elements to the book: a reference section in the appendices wh...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: upload.wikimedia.org  
    Title: Victoria Daily Times (1916 07 15) (IA victoriadailytimes19160715)  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/b/b9/Victoria_Daily_Times_%281916-07-15%29_%28IA_victoriadailytimes19160715%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/b/b9/Victoria_Daily_Times_%281916-07-15%29_%28IA_victoriadailytimes19160715%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgUiftoritt—German forces made a determined effort yesterday to force back the Russian troops in the region of Barano- wichi...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/b/b9/Victoria_Daily_Times_%281916-07-15%29_%28IA_victoriadailytimes19160715%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/b/b9/Victoria_Daily_Times_%281916-07-15%29_%28IA_victoriadailytimes19160715%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgUiftoritt—German forces made a determined effort yesterday to force back the Russian troops in the region of Barano- wichi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: abc.net.au  
    Title: curious adelaide ufo sightings across australia  
-   Link: <a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Australia&#x27;s X-Files: Curious Adelaide cracks open...22 Feb 2018 — From flying saucers to balls of light rocketing through the sky...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Australia&#x27;s X-Files: Curious Adelaide cracks open...22 Feb 2018 — From flying saucers to balls of light rocketing through the sky...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The 5 Strangest U.F.O. ENCOUNTERS in Australia | Australian Aliens  
-   Link: <a href="http://www.youtube.com/watch?v=fY2gXIjcOZU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=fY2gXIjcOZU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia UFO files documentary Australia’s Biggest UFO Cover-Up | The Westall Incident (1966) Project Unknown: Field Files...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=fY2gXIjcOZU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=fY2gXIjcOZU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia UFO files documentary Australia’s Biggest UFO Cover-Up | The Westall Incident (1966) Project Unknown: Field Files...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ightings from ancient times to the present...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ightings from ancient times to the present...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: academia.edu  
    Title: UF Os and Intelligence: A Timeline  
-   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee experiences to misidentifications of mundane p...</p></details>
+   Link:<a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee experiences to misidentifications of mundane p...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: americanalchemymagazine.substack.com  
    Title: the australian ufo sighting that  
-   Link: <a href="https://americanalchemymagazine.substack.com/p/the-australian-ufo-sighting-that" target="_blank" rel="noopener noreferrer nofollow">https://americanalchemymagazine.substack.com/p/the-australian-ufo-sighting-that</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>W. Flavel of Lock on the Eyre Peninsula described seeing five similar objects in the sky between 7 and 8 a.m....Read more...</p></details>
+   Link:<a href="https://americanalchemymagazine.substack.com/p/the-australian-ufo-sighting-that" target="_blank" rel="noopener noreferrer nofollow">https://americanalchemymagazine.substack.com/p/the-australian-ufo-sighting-that</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Flavel of Lock on the Eyre Peninsula described seeing five similar objects in the sky between 7 and 8 a.m....Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: espace.library.uq.edu.au  
    Title: Pughs Almanac 1866  
-   Link: <a href="https://espace.library.uq.edu.au/view/UQ%3A211251/Pughs_Almanac_1866.pdf" target="_blank" rel="noopener noreferrer nofollow">https://espace.library.uq.edu.au/view/UQ%3A211251/Pughs_Almanac_1866.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alman-Dir Queensland 1866by Q BRISBANE — TIM _Q5en4er is tl}e only paper which contains all the Ac -ertise nts published in Brisbane it i...</p></details>
+   Link:<a href="https://espace.library.uq.edu.au/view/UQ%3A211251/Pughs_Almanac_1866.pdf" target="_blank" rel="noopener noreferrer nofollow">https://espace.library.uq.edu.au/view/UQ%3A211251/Pughs_Almanac_1866.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alman-Dir Queensland 1866by Q BRISBANE — TIM _Q5en4er is tl}e only paper which contains all the Ac -ertise nts published in Brisbane it i...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Schoolyard witnesses in mass UFO sighting demand answers | Australian Story  
-   Link: <a href="http://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IhKyQkhOfoM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia’s Biggest UFO Cover-Up | The Westall Incident (1966)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IhKyQkhOfoM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia’s Biggest UFO Cover-Up | The Westall Incident (1966)...</p></details>

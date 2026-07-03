@@ -286,7 +286,7 @@ image: /assets/images/Northern_Territory_205118_top_end_sighting_clu_a7d378-over
 
 ## Introduction
 
-Darwin and the Top End matter in [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) UFO history because several reports did not stay as pub talk or private memory: they reached newspapers, air traffic channels, and Royal Australian Air Force paperwork. The pattern is not proof of alien craft. It is a record-making pattern: sightings from suburbs and nearby rural places such as Nightcliff, Winnellie and Humpty Doo were gathered through local media, [RAAF forms]({{ 'raaf-forms/' | relative_url }}) and official correspondence, then assessed against aircraft, balloons, satellites, rocket debris and weak witness detail. RAAF Darwin’s own files show that by the early 1980s most reports coming into the base arrived through air traffic control channels, with formal procedures proposed for handling unusual aerial sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+Darwin and the Top End matter in [Northern Territory]({{ 'what-really-happened-in-northern/' | relative_url }}) UFO history because several reports did not stay as pub talk or private memory: they reached newspapers, air traffic channels, and Royal Australian Air Force paperwork. The pattern is not proof of alien craft. It is a record-making pattern: sightings from suburbs and nearby rural places such as Nightcliff, Winnellie and Humpty Doo were gathered through local media, [RAAF forms]({{ 'raaf-forms/' | relative_url }}) and official correspondence, then assessed against aircraft, balloons, satellites, rocket debris and weak witness detail. RAAF Darwin’s own files show that by the early 1980s most reports coming into the base arrived through air traffic control channels, with formal procedures proposed for handling unusual aerial sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_top_end_sighting_clu_a7d378-overview.webp" | relative_url }}" alt="Overview image for Top End" loading="eager" decoding="sync" fetchpriority="high">
@@ -296,7 +296,7 @@ The useful question, then, is not whether Darwin was a hidden UFO capital. It is
 
 Darwin’s UFO record looks different from the remote-road mythology of central Australia. Around Darwin, sightings were often suburban, coastal, or peri-urban: a person in Nightcliff, a postal address in Winnellie, a rural block near Humpty Doo, or witnesses looking across open sky from the city edge. That matters because these were not isolated desert travellers with no reporting route. They were residents close to newspapers, police, air traffic control, the airport and RAAF Base Darwin.
 
-The 1983 RAAF Darwin file is a good example. In late November that year, RAAF Base Darwin sent follow-up letters to a Winnellie witness, a Nightcliff witness and a Humpty Doo witness, each asking for more details on an “unusual aerial occurrence” and enclosing an observer’s report form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span> The wording is cautious, but the geography is important: the cluster sits around Greater Darwin and the rural fringe, not at a single legendary hotspot.
+The 1983 RAAF Darwin file is a good example. In late November that year, RAAF Base Darwin sent follow-up letters to a Winnellie witness, a Nightcliff witness and a Humpty Doo witness, each asking for on an “unusual aerial occurrence” and enclosing an observer’s report form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span> The wording is cautious, but the geography is important: the cluster sits around Greater Darwin and the rural fringe, not at a single legendary hotspot.
 
 This is how clusters often form in archival UFO history. One report prompts another. A newspaper item, radio discussion or official enquiry gives people a channel for experiences they might otherwise have kept private. The resulting file may look like a wave of strange activity, but it may also reflect a temporary surge in reporting confidence.
 
@@ -304,11 +304,11 @@ This is how clusters often form in archival UFO history. One report prompts anot
 <img src="{{ "/assets/images/Northern_Territory_205118_top_end_sighting_clu_a7d378-Illustration-1-dark.svg" | relative_url }}" alt="Top End illustration 1" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_top_end_sighting_clu_a7d378-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_top_end_sighting_clu_a7d378-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Nightcliff, Humpty Doo and Winnellie as reporting places
 
-Nightcliff appears in both official and media-linked UFO material because it gave witnesses a broad coastal sky and a familiar suburban reference point. One 1971 press-derived report, later reproduced in an Australian flying saucer publication, described a Nightcliff man and his daughter seeing three bright lights in triangular formation near Progress Drive at about 8.30 pm. The report’s value is not that it proves a craft; it shows the kind of ordinary suburban observation that could become part of local UFO memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/356790042/Australian-Flying-Saucer-Review-Volume-3-Number-4-February-1972" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Australian Flying Saucer Review Volume 3 Number 4 February 1972</span><span class="citation-popover-snippet">Australian Flying Saucer Review Volume 3 Number 4 February 1972</span><span class="citation-popover-meta">Published: February 1972</span></span></span>
+Nightcliff appears in both official and media-linked UFO material because it gave witnesses a broad coastal sky and a familiar suburban reference point. One 1971 press-derived report, later reproduced in an Australian flying saucer publication, described a Nightcliff man and his daughter seeing three bright lights in triangular formation near Progress Drive at about 8.30 pm. The report’s value is not that it proves a craft; it shows the kind of ordinary suburban observation that could become part of local UFO memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/356790042/Australian-Flying-Saucer-Review-Volume-3-Number-4-February-1972" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Australian Flying Saucer Review Volume 3 Number 4 February 1972</span><span class="citation-popover-snippet">Australian Flying Saucer Review Volume 3 Number 4 February 1972</span><span class="citation-popover-meta">Published: February 1972</span></span></span>
 
-Humpty Doo is different. It sits in the Darwin rural area, where a witness may have darker skies, fewer nearby reference lights and more room for apparent low-altitude movement. A later summary of the [RAAF Darwin files]({{ 'raaf-files-c842ff/' | relative_url }}) describes a 1983 Humpty Doo-area report from McMinns Lagoon in which a witness claimed a small, fast, low object passed near a house; the RAAF investigator noted that it “may have been a Mirage”, but also that no further investigation was proposed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
+Humpty Doo is different. It sits in the Darwin rural area, where a witness may have darker skies, fewer nearby reference lights and more room for apparent low-altitude movement. A later summary of the [RAAF Darwin files]({{ 'raaf-files-c842ff/' | relative_url }}) describes a 1983 Humpty Doo-area report from McMinns Lagoon in which a witness claimed a small, fast, low object passed near a house; the RAAF investigator noted that it “may have been a Mirage”, but also that no further investigation was proposed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
 
-Winnellie’s importance is more bureaucratic than dramatic. The surviving 1983 correspondence shows a Winnellie postal address among the witnesses asked to complete RAAF observer paperwork. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span> That small detail matters because it shows how reports entered the system: not as polished case narratives, but as names, addresses, forms, sketches, descriptions and follow-up letters.
+Winnellie’s importance is more bureaucratic than dramatic. The surviving 1983 correspondence shows a Winnellie postal address among the witnesses asked to complete RAAF observer paperwork.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span> That small detail matters because it shows how reports entered the system: not as polished case narratives, but as names, addresses, forms, sketches, descriptions and follow-up letters.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pcLkkoR2LS4" title="Weather Balloons and Radiosondes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pcLkkoR2LS4" target="_blank" rel="noopener noreferrer">Weather Balloons and Radiosondes</a></p><p class="youtube-embed-meta">Channel: CoCoRaHS HQ &middot; Views: 92.3K &middot; Uploaded: April 2018 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pcLkkoR2LS4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pcLkkoR2LS4">Open on YouTube</a></p></div></div></div>
@@ -317,9 +317,9 @@ Winnellie’s importance is more bureaucratic than dramatic. The surviving 1983 
 
 A cluster can prove that multiple reports were made. It cannot, by itself, prove that multiple unusual objects were present. Darwin and the Top End had several built-in reasons for repeated misidentification: military and civil aviation, weather [balloons]({{ 'balloons/' | relative_url }}), satellites, meteors, rocket re-entries, coastal haze, storm clouds, and long sightlines across flat or open country.
 
-The RAAF files show that investigators were well aware of these possibilities. A 1974 letter from RAAF Base Darwin to the Northern Territory News said several reports from Katherine and localities around Fitzroy Crossing described reddish “tailed” lights moving rapidly across the sky, and the preliminary assessment favoured a man-made cause, possibly satellite or rocket debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+The RAAF files show that investigators were well aware of these possibilities. A 1974 letter from RAAF Base Darwin to the Northern Territory News said several reports from Katherine and localities around Fitzroy Crossing described reddish “tailed” lights moving rapidly across the sky, and the preliminary assessment favoured a man-made cause, possibly satellite or rocket debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
-Weather balloons are especially relevant to Top End reports because they can look odd when lit, distant, high and wind-driven. The Bureau of Meteorology explains that weather balloons carry radiosondes measuring temperature, pressure, humidity and wind speed and direction, can rise to 16–35 km, and eventually burst before the instrument package descends. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bom.gov.au">[Bureau of Meteorology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bom.gov.au</span><span class="citation-popover-title">Bureau of Meteorology Weather balloons &#124; The Bureau of Meteorology</span><span class="citation-popover-snippet">Bureau of Meteorology Weather balloons &#124; The Bureau of Meteorology</span></span></span> In one RAAF-linked report from Tennant Creek, a meteorological officer noted that a low-powered light had been launched with a weather balloon; earlier sightings by the same witness had been assessed as meteorological balloons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+Weather balloons are especially relevant to Top End reports because they can look odd when lit, distant, high and wind-driven. The Bureau of Meteorology explains that weather balloons carry radiosondes measuring temperature, pressure, humidity and wind speed and direction, can rise to 16–35 km, and eventually burst before the instrument package descends.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bom.gov.au">[Bureau of Meteorology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bom.gov.au</span><span class="citation-popover-title">Bureau of Meteorology Weather balloons &#124; The Bureau of Meteorology</span><span class="citation-popover-snippet">Bureau of Meteorology Weather balloons &#124; The Bureau of Meteorology</span></span></span> In one RAAF-linked report from Tennant Creek, a meteorological officer noted that a low-powered light had been launched with a weather balloon; earlier sightings by the same witness had been assessed as meteorological balloons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 That does not mean every Darwin-area report was a balloon, aircraft or satellite. It means the burden of proof is high. A cluster with no photographs, no radar correlation, no independent timing checks and no recovered material remains a cluster of reports, not a demonstrated unknown object.
 
@@ -327,9 +327,9 @@ That does not mean every Darwin-area report was a balloon, aircraft or satellite
 <img src="{{ "/assets/images/Northern_Territory_205118_top_end_sighting_clu_a7d378-Illustration-2-dark.svg" | relative_url }}" alt="Top End illustration 2" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_top_end_sighting_clu_a7d378-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_top_end_sighting_clu_a7d378-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How RAAF Darwin shaped the record
 
-RAAF Darwin was not merely a passive recipient of UFO rumours. It was part of the national reporting machinery for what the Air Force called Unusual Aerial Sightings. ABC’s account of the Australian files notes that, until the 1990s, the RAAF was responsible for investigating UFO reports in Australia and received thousands of reports from civilians, researchers and military personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
+RAAF Darwin was not merely a passive recipient of UFO rumours. It was part of the national reporting machinery for what the Air Force called Unusual Aerial Sightings. ABC’s account of the Australian files notes that, until the 1990s, the RAAF was responsible for investigating UFO reports in Australia and received thousands of reports from civilians, researchers and military personnel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">Open source on abc.net.au.</span></span></span>
 
-Darwin’s local file shows the practical strain of that role. A 1982 minute noted that Darwin lacked formal internal procedures for reporting unusual aerial sightings, that most reports received that year had come through air traffic control, and that a formation standing order was proposed so reports could be directed to the right intelligence personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+Darwin’s local file shows the practical strain of that role. A 1982 minute noted that Darwin lacked formal internal procedures for reporting unusual aerial sightings, that most reports received that year had come through air traffic control, and that a formation standing order was proposed so reports could be directed to the right intelligence personnel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 This explains why Darwin clusters are historically useful even when individual cases are weak. They reveal how a northern military and aviation hub handled unusual public reports: take the call, send the form, compare the sighting with known traffic or atmospheric causes, and forward significant material upward.
 
@@ -338,11 +338,11 @@ This explains why Darwin clusters are historically useful even when individual c
 
 ## Local media helped create the shape of the cluster
 
-The Northern Territory News and other local outlets did not simply report UFO interest; they helped organise it. A Library & Archives NT index entry records a 4 November 1983 Northern Territory News item titled “UFO answers” under the subject “Unidentified flying objects”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://territorystories.nt.gov.au/10070/198775/0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: territorystories.nt.gov.au">[Territory Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">territorystories.nt.gov.au</span><span class="citation-popover-snippet">Open source on nt.gov.au.</span></span></span> The RAAF file also preserves correspondence addressed to the editor of the Northern Territory News about unusual aerial sightings, showing that official explanations could be routed back through the local press. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+The Northern Territory News and other local outlets did not simply report UFO interest; they helped organise it. A Library & Archives NT index entry records a 4 November 1983 Northern Territory News item titled “UFO answers” under the subject “Unidentified flying objects”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://territorystories.nt.gov.au/10070/198775/0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: territorystories.nt.gov.au">[Territory Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">territorystories.nt.gov.au</span><span class="citation-popover-snippet">Open source on nt.gov.au.</span></span></span> The RAAF file also preserves correspondence addressed to the editor of the Northern Territory News about unusual aerial sightings, showing that official explanations could be routed back through the local press.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 That feedback loop matters. A sighting becomes public; other witnesses recognise something similar; RAAF asks for forms; the press reports official responses; the story becomes part of local memory. In a small population centre, this can make a short burst of reports feel larger and more coherent than the underlying evidence allows.
 
-Modern Darwin reports follow a similar pattern, though the platform has shifted from newspaper pages to social media and online news. Recent NT News coverage has described unusual lights seen from Darwin, Nightcliff, Casuarina Beach and other Top End locations, with public speculation ranging from aliens to rocket-related explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.couriermail.com.au/news/a-mystery-white-light-hurtling-across-australias-northern-skies-sparked-theories-read-them-here/news-story/f4f8c8c260d0f479d1ab15c5f26698e2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriermail.com.au">[Courier Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriermail.com.au</span><span class="citation-popover-title">Courier Mail Darwin UFO sighting sparks theories from space jellyfish to aliens</span><span class="citation-popover-snippet">Courier Mail Darwin UFO sighting sparks theories from space jellyfish to aliens</span></span></span> The mechanism is familiar: a striking sky event becomes a shared local puzzle before a conventional explanation catches up.
+Modern Darwin reports follow a similar pattern, though the platform has shifted from newspaper pages to social media and online news. Recent NT News coverage has described unusual lights seen from Darwin, Nightcliff, Casuarina Beach and other Top End locations, with public speculation ranging from aliens to rocket-related explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.couriermail.com.au/news/a-mystery-white-light-hurtling-across-australias-northern-skies-sparked-theories-read-them-here/news-story/f4f8c8c260d0f479d1ab15c5f26698e2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriermail.com.au">[Courier Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriermail.com.au</span><span class="citation-popover-title">Courier Mail Darwin UFO sighting sparks theories from space jellyfish to aliens</span><span class="citation-popover-snippet">Courier Mail Darwin UFO sighting sparks theories from space jellyfish to aliens</span></span></span> The mechanism is familiar: a striking sky event becomes a shared local puzzle before a conventional explanation catches up.
 
 
 <img src="{{ "/assets/images/Northern_Territory_205118_top_end_sighting_clu_a7d378-Illustration-3-dark.svg" | relative_url }}" alt="Top End illustration 3" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_top_end_sighting_clu_a7d378-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_top_end_sighting_clu_a7d378-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -357,194 +357,194 @@ For Northern Territory UFO history, that makes the Darwin-area material more val
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Top End Reports Cluster?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Top End Reports Cluster?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s focus on official reporting channels, military involvement, and documented sighting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s focus on official reporting channels, military involvement, and documented sighting records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Fits discussion of what clusters can and cannot prove from available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits discussion of what clusters can and cannot prove from available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader context on recurring reports, folklore, and reporting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context on recurring reports, folklore, and reporting patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports critical evaluation of witness testimony, media influence, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical evaluation of witness testimony, media influence, and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bass Strait Australia Tasmania Victoria Flinders ADMIRALTY chart 1868 (1954) map"><img src="{{ '/assets/images/marketplace-covers/ea70cde5a066236ac70f.jpg' | relative_url }}" alt="Listing image for Bass Strait Australia Tasmania Victoria Flinders ADMIRALTY chart 1868 (1954) map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Bass Strait Australia Tasmania Victoria Flinders ADMIRALTY chart 1868 (1954) map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bass Strait Australia Tasmania Victoria Flinders ADMIRALTY chart 1868 (1954) map"><img src="{{ '/assets/images/marketplace-covers/ea70cde5a066236ac70f.jpg' | relative_url }}" alt="Listing image for Bass Strait Australia Tasmania Victoria Flinders ADMIRALTY chart 1868 (1954) map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Bass Strait Australia Tasmania Victoria Flinders ADMIRALTY chart 1868 (1954) map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old 1897 Johnston Map Australia New South Wales Victoria Bass Strait Victorian"><img src="{{ '/assets/images/marketplace-covers/1abb0dcc1100e77265aa.jpg' | relative_url }}" alt="Listing image for Old 1897 Johnston Map Australia New South Wales Victoria Bass Strait Victorian" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Old 1897 Johnston Map Australia New South Wales Victoria Bass Strait Victorian</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old 1897 Johnston Map Australia New South Wales Victoria Bass Strait Victorian"><img src="{{ '/assets/images/marketplace-covers/1abb0dcc1100e77265aa.jpg' | relative_url }}" alt="Listing image for Old 1897 Johnston Map Australia New South Wales Victoria Bass Strait Victorian" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Old 1897 Johnston Map Australia New South Wales Victoria Bass Strait Victorian</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print 1935 Map Australia Vegitation Tasmania Bass Strait"><img src="{{ '/assets/images/marketplace-covers/2775ba0bad366a5f3c72.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print 1935 Map Australia Vegitation Tasmania Bass Strait" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print 1935 Map Australia Vegitation Tasmania Bass Strait</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print 1935 Map Australia Vegitation Tasmania Bass Strait"><img src="{{ '/assets/images/marketplace-covers/2775ba0bad366a5f3c72.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print 1935 Map Australia Vegitation Tasmania Bass Strait" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print 1935 Map Australia Vegitation Tasmania Bass Strait</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th"><img src="{{ '/assets/images/marketplace-covers/af92614b71fb97920405.jpg' | relative_url }}" alt="Listing image for Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th"><img src="{{ '/assets/images/marketplace-covers/af92614b71fb97920405.jpg' | relative_url }}" alt="Listing image for Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Antique Print Map C1790-C1900 Australia Tasmania Bass Strait 18th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bass Strait map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bass Strait map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bass+Strait+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bass Strait map print" data-ebay-reference="top-end-why-did-top-end-reports-cluster-northern-territory-bass-strait-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ For Northern Territory UFO history, that makes the Darwin-area material more val
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ For Northern Territory UFO history, that makes the Darwin-area material more val
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ For Northern Territory UFO history, that makes the Darwin-area material more val
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ For Northern Territory UFO history, that makes the Darwin-area material more val
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ For Northern Territory UFO history, that makes the Darwin-area material more val
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,182 +750,182 @@ For Northern Territory UFO history, that makes the Darwin-area material more val
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Australian UFO Files"  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/E1327_5-4-AIR_part%206-7_7061048_djvu.txt</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribd.com  
    Title: Australian Flying Saucer Review Volume 3 Number 4 February 1972  
-   Link: <a href="https://www.scribd.com/document/356790042/Australian-Flying-Saucer-Review-Volume-3-Number-4-February-1972" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/356790042/Australian-Flying-Saucer-Review-Volume-3-Number-4-February-1972</a>  
+   Link:<a href="https://www.scribd.com/document/356790042/Australian-Flying-Saucer-Review-Volume-3-Number-4-February-1972" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/356790042/Australian-Flying-Saucer-Review-Volume-3-Number-4-February-1972</a>  
    Published: February 1972  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/upperair/reqdahdr" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/reqdahdr</a>  
+   Link:<a href="https://www.weather.gov/upperair/reqdahdr" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/reqdahdr</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scribd.com  
    Title: ETI 1978 11 November  
-   Link: <a href="https://www.scribd.com/document/428529087/ETI-1978-11-November" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/428529087/ETI-1978-11-November</a>  
+   Link:<a href="https://www.scribd.com/document/428529087/ETI-1978-11-November" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/428529087/ETI-1978-11-November</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: UFOs Scientific Research Unidentified Anomalous Phenomena  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2012/08/raaf-darwin-uap-national-archive-files.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bom.gov.au  
    Title: Bureau of Meteorology Weather balloons | The Bureau of Meteorology  
-   Link: <a href="https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons</a>  
+   Link:<a href="https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/resources/learn-and-explore/radar-and-equipment-knowledge-centre/weather-balloons</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-07/accessing-australia-secret-ufo-files/104673082</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: territorystories.nt.gov.au  
-   Link: <a href="https://territorystories.nt.gov.au/10070/198775/0" target="_blank" rel="noopener noreferrer nofollow">https://territorystories.nt.gov.au/10070/198775/0</a>  
+   Link:<a href="https://territorystories.nt.gov.au/10070/198775/0" target="_blank" rel="noopener noreferrer nofollow">https://territorystories.nt.gov.au/10070/198775/0</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: couriermail.com.au  
    Title: Courier Mail Darwin UFO sighting sparks theories from space jellyfish to aliens  
-   Link: <a href="https://www.couriermail.com.au/news/a-mystery-white-light-hurtling-across-australias-northern-skies-sparked-theories-read-them-here/news-story/f4f8c8c260d0f479d1ab15c5f26698e2" target="_blank" rel="noopener noreferrer nofollow">https://www.couriermail.com.au/news/a-mystery-white-light-hurtling-across-australias-northern-skies-sparked-theories-read-them-here/news-story/f4f8c8c260d0f479d1ab15c5f26698e2</a>  
+   Link:<a href="https://www.couriermail.com.au/news/a-mystery-white-light-hurtling-across-australias-northern-skies-sparked-theories-read-them-here/news-story/f4f8c8c260d0f479d1ab15c5f26698e2" target="_blank" rel="noopener noreferrer nofollow">https://www.couriermail.com.au/news/a-mystery-white-light-hurtling-across-australias-northern-skies-sparked-theories-read-them-here/news-story/f4f8c8c260d0f479d1ab15c5f26698e2</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bom.gov.au  
-   Link: <a href="https://www.bom.gov.au/aviation/observations/aerological-diagrams/" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/aviation/observations/aerological-diagrams/</a>  
+   Link:<a href="https://www.bom.gov.au/aviation/observations/aerological-diagrams/" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/aviation/observations/aerological-diagrams/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ntnews.com.au  
-   Link: <a href="https://www.ntnews.com.au/news/a-mystery-white-light-hurtling-across-australias-northern-skies-sparked-theories-read-them-here/news-story/f4f8c8c260d0f479d1ab15c5f26698e2" target="_blank" rel="noopener noreferrer nofollow">https://www.ntnews.com.au/news/a-mystery-white-light-hurtling-across-australias-northern-skies-sparked-theories-read-them-here/news-story/f4f8c8c260d0f479d1ab15c5f26698e2</a>  
+   Link:<a href="https://www.ntnews.com.au/news/a-mystery-white-light-hurtling-across-australias-northern-skies-sparked-theories-read-them-here/news-story/f4f8c8c260d0f479d1ab15c5f26698e2" target="_blank" rel="noopener noreferrer nofollow">https://www.ntnews.com.au/news/a-mystery-white-light-hurtling-across-australias-northern-skies-sparked-theories-read-them-here/news-story/f4f8c8c260d0f479d1ab15c5f26698e2</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: airforce.gov.au  
-   Link: <a href="https://www.airforce.gov.au/about-us/bases/raaf-base-darwin" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/about-us/bases/raaf-base-darwin</a>  
+   Link:<a href="https://www.airforce.gov.au/about-us/bases/raaf-base-darwin" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/about-us/bases/raaf-base-darwin</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: airforce.gov.au  
    Title: establishment raaf base darwin  
-   Link: <a href="https://www.airforce.gov.au/about-us/history/our-journey/establishment-raaf-base-darwin" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/about-us/history/our-journey/establishment-raaf-base-darwin</a>  
+   Link:<a href="https://www.airforce.gov.au/about-us/history/our-journey/establishment-raaf-base-darwin" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.gov.au/about-us/history/our-journey/establishment-raaf-base-darwin</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: parliament.nt.gov.au  
    Title: nest content  
-   Link: <a href="https://parliament.nt.gov.au/business/hansard/transcripts/listing/nest_content?parent_id=358664&amp;target_id=346081" target="_blank" rel="noopener noreferrer nofollow">https://parliament.nt.gov.au/business/hansard/transcripts/listing/nest_content?parent_id=358664&amp;target_id=346081</a>  
+   Link:<a href="https://parliament.nt.gov.au/business/hansard/transcripts/listing/nest_content?parent_id=358664&amp;target_id=346081" target="_blank" rel="noopener noreferrer nofollow">https://parliament.nt.gov.au/business/hansard/transcripts/listing/nest_content?parent_id=358664&amp;target_id=346081</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: RAAF Base Darwin  
-   Link: <a href="https://en.wikipedia.org/wiki/RAAF_Base_Darwin" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAAF_Base_Darwin</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAAF_Base_Darwin" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAAF_Base_Darwin</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dcceew.gov.au  
-   Link: <a href="https://www.dcceew.gov.au/sites/default/files/documents/bureau-meteorology-weather-balloons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dcceew.gov.au/sites/default/files/documents/bureau-meteorology-weather-balloons.pdf</a>  
+   Link:<a href="https://www.dcceew.gov.au/sites/default/files/documents/bureau-meteorology-weather-balloons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dcceew.gov.au/sites/default/files/documents/bureau-meteorology-weather-balloons.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: australian naval vessel reports ufo  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2012/06/australian-naval-vessel-reports-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2012/06/australian-naval-vessel-reports-ufo.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2012/06/australian-naval-vessel-reports-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2012/06/australian-naval-vessel-reports-ufo.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: defence.gov.au  
    Title: RAA F Darwin  
-   Link: <a href="https://www.defence.gov.au/about/locations-property/base-induction/raaf-darwin" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/about/locations-property/base-induction/raaf-darwin</a>  
+   Link:<a href="https://www.defence.gov.au/about/locations-property/base-induction/raaf-darwin" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/about/locations-property/base-induction/raaf-darwin</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: defence.gov.au  
    Title: construction commenced raaf base darwin mid term refresh project  
-   Link: <a href="https://www.defence.gov.au/news-events/releases/2025-05-01/construction-commenced-raaf-base-darwin-mid-term-refresh-project" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/news-events/releases/2025-05-01/construction-commenced-raaf-base-darwin-mid-term-refresh-project</a>  
+   Link:<a href="https://www.defence.gov.au/news-events/releases/2025-05-01/construction-commenced-raaf-base-darwin-mid-term-refresh-project" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/news-events/releases/2025-05-01/construction-commenced-raaf-base-darwin-mid-term-refresh-project</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aafcans.gov.au  
    Title: RAA F Darwin  
-   Link: <a href="https://www.aafcans.gov.au/outlet/raaf-darwin/" target="_blank" rel="noopener noreferrer nofollow">https://www.aafcans.gov.au/outlet/raaf-darwin/</a>  
+   Link:<a href="https://www.aafcans.gov.au/outlet/raaf-darwin/" target="_blank" rel="noopener noreferrer nofollow">https://www.aafcans.gov.au/outlet/raaf-darwin/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/emergency/warning/AUREMER-ea8ab75f7b3a12cd6202582a2adb25c4" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/emergency/warning/AUREMER-ea8ab75f7b3a12cd6202582a2adb25c4</a>  
+   Link:<a href="https://www.abc.net.au/emergency/warning/AUREMER-ea8ab75f7b3a12cd6202582a2adb25c4" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/emergency/warning/AUREMER-ea8ab75f7b3a12cd6202582a2adb25c4</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: abc.net.au  
    Title: why is darwin international airport in the middle of the city  
-   Link: <a href="https://www.abc.net.au/news/2019-05-14/why-is-darwin-international-airport-in-the-middle-of-the-city/10905366" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2019-05-14/why-is-darwin-international-airport-in-the-middle-of-the-city/10905366</a>  
+   Link:<a href="https://www.abc.net.au/news/2019-05-14/why-is-darwin-international-airport-in-the-middle-of-the-city/10905366" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2019-05-14/why-is-darwin-international-airport-in-the-middle-of-the-city/10905366</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/240702992" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/240702992</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/240702992" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/240702992</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/245926830" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/245926830</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/245926830" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/245926830</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: naa.gov.au  
    Title: flying saucers fact or fiction  
-   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
+   Link:<a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: kids.kiddle.co  
    Title: RAAF Base Darwin  
-   Link: <a href="https://kids.kiddle.co/RAAF_Base_Darwin" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/RAAF_Base_Darwin</a>  
+   Link:<a href="https://kids.kiddle.co/RAAF_Base_Darwin" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/RAAF_Base_Darwin</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: townsvillebulletin.com.au  
-   Link: <a href="https://www.townsvillebulletin.com.au/news/northern-territory/page/23" target="_blank" rel="noopener noreferrer nofollow">https://www.townsvillebulletin.com.au/news/northern-territory/page/23</a>  
+   Link:<a href="https://www.townsvillebulletin.com.au/news/northern-territory/page/23" target="_blank" rel="noopener noreferrer nofollow">https://www.townsvillebulletin.com.au/news/northern-territory/page/23</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/~/media/wopapub/house/committee/pwc/raafDarwin/subs/sub001_pdf.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/~/media/wopapub/house/committee/pwc/raafDarwin/subs/sub001_pdf.ashx</a>  
+   Link:<a href="https://www.aph.gov.au/~/media/wopapub/house/committee/pwc/raafDarwin/subs/sub001_pdf.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/~/media/wopapub/house/committee/pwc/raafDarwin/subs/sub001_pdf.ashx</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Mysterious White Plume Lights Up Australian Skies | 10 News  
-   Link: <a href="https://www.youtube.com/watch?v=JBHjYc7wwRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JBHjYc7wwRI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Government Files Declassified | Trailer | Available Now...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JBHjYc7wwRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JBHjYc7wwRI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Government Files Declassified | Trailer | Available Now...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Experience the UFO capital of Australia  
-   Link: <a href="https://www.youtube.com/watch?v=Cn6rPRPh6cU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cn6rPRPh6cU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious White Plume Lights Up Australian Skies | 10 News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Cn6rPRPh6cU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cn6rPRPh6cU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious White Plume Lights Up Australian Skies | 10 News...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HKXjkZatnf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HKXjkZatnf4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep 18 [Wycliffe Well](&amp;#123;&amp;#123; &#x27;wycliffe-well/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Devils Marbles...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HKXjkZatnf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HKXjkZatnf4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep 18 [Wycliffe Well](&amp;#123;&amp;#123; &#x27;wycliffe-well/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Devils Marbles...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theanimalrescuesite/posts/a-homeowner-in-australia-noticed-something-strange-in-their-childs-play-area-at-/1593380388813643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theanimalrescuesite/posts/a-homeowner-in-australia-noticed-something-strange-in-their-childs-play-area-at-/1593380388813643/</a>  
+   Link:<a href="https://www.facebook.com/theanimalrescuesite/posts/a-homeowner-in-australia-noticed-something-strange-in-their-childs-play-area-at-/1593380388813643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theanimalrescuesite/posts/a-homeowner-in-australia-noticed-something-strange-in-their-childs-play-area-at-/1593380388813643/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: powerwater.com.au  
-   Link: <a href="https://www.powerwater.com.au/customers/moving-and-building/easements-on-your-property/allowable-planting-on-water-and-sewer-easements" target="_blank" rel="noopener noreferrer nofollow">https://www.powerwater.com.au/customers/moving-and-building/easements-on-your-property/allowable-planting-on-water-and-sewer-easements</a>  
+   Link:<a href="https://www.powerwater.com.au/customers/moving-and-building/easements-on-your-property/allowable-planting-on-water-and-sewer-easements" target="_blank" rel="noopener noreferrer nofollow">https://www.powerwater.com.au/customers/moving-and-building/easements-on-your-property/allowable-planting-on-water-and-sewer-easements</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: centreforaviation.com  
-   Link: <a href="https://centreforaviation.com/data/profiles/airports/darwin-international-airport-drw" target="_blank" rel="noopener noreferrer nofollow">https://centreforaviation.com/data/profiles/airports/darwin-international-airport-drw</a>  
+   Link:<a href="https://centreforaviation.com/data/profiles/airports/darwin-international-airport-drw" target="_blank" rel="noopener noreferrer nofollow">https://centreforaviation.com/data/profiles/airports/darwin-international-airport-drw</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/668711854761713/posts/1120153702950857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/668711854761713/posts/1120153702950857/</a>  
+   Link:<a href="https://www.facebook.com/groups/668711854761713/posts/1120153702950857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/668711854761713/posts/1120153702950857/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/499687943439298/posts/31805711752410175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/499687943439298/posts/31805711752410175/</a>  
+   Link:<a href="https://www.facebook.com/groups/499687943439298/posts/31805711752410175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/499687943439298/posts/31805711752410175/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/499687943439298/posts/5295976437143734/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/499687943439298/posts/5295976437143734/</a>  
+   Link:<a href="https://www.facebook.com/groups/499687943439298/posts/5295976437143734/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/499687943439298/posts/5295976437143734/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/668711854761713/posts/953090329657196/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/668711854761713/posts/953090329657196/</a>  
+   Link:<a href="https://www.facebook.com/groups/668711854761713/posts/953090329657196/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/668711854761713/posts/953090329657196/</a>  

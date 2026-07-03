@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /northern-territory-205118-ordinary-sky/
 description: Focused pages that expand on Sky Causes.
-date: '2026-06-23'
+date: '2026'
 layout: default
 parent_basename: Northern_Territory_205118_ordinary_sky_causes_971a90
 parent_title: Sky Causes
@@ -16,7 +16,7 @@ parent_permalink: /sky-causes/
 
 # Explore Topics in Sky Causes
 
-The following pages expand on the main **[Sky Causes]({{ '/sky-causes/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Sky Causes]({{ '/sky-causes/' | relative_url }})** page and cover its key branches in.
 
 - [Rocket plumes]({{ '/rocket-plumes-835863/' | relative_url }})
 - [Satellite trains]({{ '/satellite-trains/' | relative_url }})
