@@ -179,8 +179,16 @@ site_image_description: A quiet Canberra airport control tower at dusk with runw
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="australia" data-map-item-type="state" data-map-label="UFO and UAP Australian states and territories map" data-map-fallback-summary="Open this state or territory file from the map." data-map-src="{{ 'assets/maps/australia.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/australian-states.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="AU-WA" data-map-preview-preload="all">
-<div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
+<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="australia" data-map-item-type="state" data-map-label="UFO and UAP Australian states and territories map" data-map-fallback-summary="Open this state or territory file from the map." data-map-src="{{ 'assets/maps/australia.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/australian-states.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="AU-WA" data-map-preview-preload="8">
+<nav class="interactive-map-region-nav" aria-label="Map regions">
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="central-australia" aria-label="Focus map on Central Australia"><span>Central Australia</span><small>2</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="eastern-australia" aria-label="Focus map on Eastern Australia"><span>Eastern Australia</span><small>4</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="island-state" aria-label="Focus map on Island State"><span>Island State</span><small>1</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="western-australia" aria-label="Focus map on Western Australia"><span>Western Australia</span><small>1</small></button>
+</nav>
+<div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
+<span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
+</div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
 <img src="{{ '/assets/images/Western_Australia_1c735d-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
