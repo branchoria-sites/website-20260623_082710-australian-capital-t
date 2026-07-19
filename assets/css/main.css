@@ -15954,19 +15954,22 @@ a.fr-book-fit:focus-visible {
 }
 
 .interactive-map-region-button {
+  appearance: none;
   display: inline-flex;
   align-items: center;
   gap: 0.45rem;
   min-height: 2.2rem;
   padding: 0.42rem 0.72rem;
-  border: 1px solid rgba(126, 210, 223, 0.34);
+  border: 1px solid color-mix(in srgb, var(--card-border) 58%, var(--brand) 42%);
   border-radius: 999px;
-  background: rgba(255, 255, 255, 0.62);
-  color: var(--ink);
+  background: color-mix(in srgb, var(--surface-alt) 86%, var(--brand) 14%);
+  color: var(--heading);
+  box-shadow: inset 0 1px 0 color-mix(in srgb, var(--heading) 12%, transparent);
   font: inherit;
   font-size: 0.78rem;
   font-weight: 760;
   cursor: pointer;
+  transition: border-color 140ms ease, background 140ms ease, color 140ms ease, box-shadow 140ms ease, transform 140ms ease;
 }
 
 .interactive-map-region-button small {
@@ -15975,17 +15978,29 @@ a.fr-book-fit:focus-visible {
   min-height: 1.35rem;
   place-items: center;
   border-radius: 999px;
-  background: rgba(126, 210, 223, 0.18);
-  color: var(--ink-soft);
+  background: color-mix(in srgb, var(--brand) 20%, transparent);
+  color: color-mix(in srgb, var(--heading) 78%, var(--brand) 22%);
   font-size: 0.7rem;
 }
 
 .interactive-map-region-button:hover,
-.interactive-map-region-button:focus-visible {
-  border-color: rgba(217, 130, 43, 0.62);
-  background: rgba(255, 255, 255, 0.9);
-  outline: none;
+.interactive-map-region-button:focus-visible,
+.interactive-map-region-button.is-active {
+  border-color: color-mix(in srgb, var(--brand) 58%, #d9822b 42%);
+  background: color-mix(in srgb, var(--surface-alt) 72%, var(--brand) 28%);
+  color: var(--heading);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--brand) 20%, transparent), inset 0 1px 0 color-mix(in srgb, var(--heading) 16%, transparent);
   transform: translateY(-1px);
+}
+
+.interactive-map-region-button:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--brand) 72%, #f2a64a 28%);
+  outline-offset: 2px;
+}
+
+.interactive-map-region-button.is-active small {
+  background: color-mix(in srgb, var(--brand) 34%, transparent);
+  color: var(--heading);
 }
 
 :where(.interactive-map-canvas, .uap-world-map-canvas) {

@@ -10096,8 +10096,39 @@
         zoomToScreenBounds(bounds, targetRegionKey === 'americas' ? 1.75 : 2.05);
         root.setAttribute('data-interactive-map-region-focus', targetRegionKey);
         root.setAttribute('data-uap-world-map-region-focus', targetRegionKey);
+        Array.prototype.forEach.call(
+          root.querySelectorAll('[data-interactive-map-continent-focus], [data-uap-world-map-region-focus]'),
+          function(button) {
+            var buttonRegionKey = normaliseRegionKey(
+              button.getAttribute('data-interactive-map-continent-focus')
+              || button.getAttribute('data-uap-world-map-region-focus')
+            );
+            var isActive = buttonRegionKey === targetRegionKey;
+            button.classList.toggle('is-active', isActive);
+            if (button.classList.contains('interactive-map-region-button')) {
+              button.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+            }
+          }
+        );
         return true;
       };
+      var regionNav = root.querySelector('.interactive-map-region-nav');
+      if (regionNav) {
+        regionNav.addEventListener('click', function(event) {
+          var regionFocusButton = event.target && event.target.closest
+            ? event.target.closest('[data-interactive-map-continent-focus], [data-uap-world-map-region-focus]')
+            : null;
+          if (!regionFocusButton || !regionNav.contains(regionFocusButton)) {
+            return;
+          }
+          event.preventDefault();
+          event.stopPropagation();
+          focusMapOnRegion(
+            regionFocusButton.getAttribute('data-interactive-map-continent-focus')
+            || regionFocusButton.getAttribute('data-uap-world-map-region-focus')
+          );
+        });
+      }
       var updatePreview = function(item) {
         if (!item || !preview) {
           return;
