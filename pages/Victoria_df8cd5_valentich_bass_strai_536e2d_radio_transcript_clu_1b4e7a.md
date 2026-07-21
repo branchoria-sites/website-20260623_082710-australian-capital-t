@@ -345,89 +345,89 @@ That tension is why the case remains debated. The transcript is strong evidence 
 <img src="{{ "/assets/images/Victoria_df8cd5_valentich_bass_strai_536e2d_radio_transcript_clu_1b4e7a-Illustration-3-dark.svg" | relative_url }}" alt="Radio calls illustration 3" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_valentich_bass_strai_536e2d_radio_transcript_clu_1b4e7a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_valentich_bass_strai_536e2d_radio_transcript_clu_1b4e7a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What did Valentich&#x27;s final calls really show?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What did Valentich&#x27;s final calls really show?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die+by+Paul+A.+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Killing Zone: How &amp; Why Pilots Die on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=esvc9h5nevUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Killing Zone: How &amp; Why Pilots Die" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die+by+Paul+A.+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Killing Zone: How &amp; Why Pilots Die">The Killing Zone: How &amp; Why Pilots Die</a>
-</h4>
-<p class="fr-book-author">By Paul A. Craig</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die+Paul+A.+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Killing Zone: How &amp; Why Pilots Die on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=esvc9h5nevUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Killing Zone: How &amp; Why Pilots Die" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die+Paul+A.+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Killing Zone: How &amp; Why Pilots Die">The Killing Zone: How &amp; Why Pilots Die</a>
+        </h4>
+        <p class="fr-book-author">By Paul A. Craig</p>
         
-<p class="fr-book-desc">Helps readers understand perception errors, disorientation and cockpit decision-making relevant to interpreting the calls.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die+by+Paul+A.+Craig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand perception errors, disorientation and cockpit decision-making relevant to interpreting the calls.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die+Paul+A.+Craig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
-</h4>
-<p class="fr-book-author">By Ernest K Gann</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
+        </h4>
+        <p class="fr-book-author">By Ernest K Gann</p>
         
-<p class="fr-book-desc">Offers real-world aviation context that helps readers assess how unusual flight situations can be perceived and reported.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Offers real-world aviation context that helps readers assess how unusual flight situations can be perceived and reported.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+killing+zone+Paul+A+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The killing zone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13018923-M.jpg" alt="Cover for The killing zone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+killing+zone+Paul+A+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The killing zone">The killing zone</a>
-</h4>
-<p class="fr-book-author">By Paul A Craig</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
         
-<p class="fr-book-desc">First published 2001. Subjects: Aeronautics, Safety measures, Aircraft accidents, Aeronautics, safety measures.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+killing+zone+Paul+A+Craig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides a framework for evaluating witness reports and UFO claims without assuming conclusions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-</h4>
-<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stick+and+Rudder%3A+An+Explanation+of+the+Art+of+Flying+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder: An Explanation of the Art of Flying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NlFaMKzeuWMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Stick and Rudder: An Explanation of the Art of Flying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Stick+and+Rudder%3A+An+Explanation+of+the+Art+of+Flying+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder: An Explanation of the Art of Flying">Stick and Rudder: An Explanation of the Art of Flying</a>
+        </h4>
+        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-<p class="fr-book-desc">Explains aircraft handling and pilot perception issues that feature in sceptical readings of the transcript.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains aircraft handling and pilot perception issues that feature in sceptical readings of the transcript.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Stick+and+Rudder%3A+An+Explanation+of+the+Art+of+Flying+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Killing Zone: How &amp; Why Pilots Die</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+killing+zone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The killing zone</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Killing+Zone%3A+How+%26+Why+Pilots+Die&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Killing Zone: How &amp; Why Pilots Die</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
