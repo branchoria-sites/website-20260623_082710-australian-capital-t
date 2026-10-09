@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:24:54'
 level: 2
 basename: New_South_Wales_f92f26_rural_coastal_lights_9bb1ae
 parent_basename: New_South_Wales_f92f26

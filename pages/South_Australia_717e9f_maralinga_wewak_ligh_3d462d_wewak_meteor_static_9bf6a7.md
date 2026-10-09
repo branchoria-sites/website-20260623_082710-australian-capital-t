@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:24:54'
 level: 3
 basename: South_Australia_717e9f_maralinga_wewak_ligh_3d462d_wewak_meteor_static_9bf6a7
 parent_basename: South_Australia_717e9f_maralinga_wewak_ligh_3d462d
