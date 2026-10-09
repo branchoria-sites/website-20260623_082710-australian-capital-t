@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:44:49'
 level: 3
 basename: Northern_Territory_205118_katherine_1974_light_d52979_ats1_rocket_body_94d838
 parent_basename: Northern_Territory_205118_katherine_1974_light_d52979

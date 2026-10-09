@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:24:54'
 level: 3
 basename: Australian_Capital_T_2949ba_lake_george_folklore_942f37_gundaroo_photo_post_06d772
 parent_basename: Australian_Capital_T_2949ba_lake_george_folklore_942f37
