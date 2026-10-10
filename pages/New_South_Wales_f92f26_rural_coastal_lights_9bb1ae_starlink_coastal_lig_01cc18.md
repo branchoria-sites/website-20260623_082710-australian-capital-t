@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-03 18:19:44'
 level: 3
 basename: New_South_Wales_f92f26_rural_coastal_lights_9bb1ae_starlink_coastal_lig_01cc18
 parent_basename: New_South_Wales_f92f26_rural_coastal_lights_9bb1ae

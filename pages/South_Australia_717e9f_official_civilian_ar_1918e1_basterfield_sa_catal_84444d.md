@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:44:49'
 level: 3
 basename: South_Australia_717e9f_official_civilian_ar_1918e1_basterfield_sa_catal_84444d
 parent_basename: South_Australia_717e9f_official_civilian_ar_1918e1
