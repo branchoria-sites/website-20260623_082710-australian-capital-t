@@ -4,7 +4,7 @@ title_full: Airport Case Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /australian-capital-t-2949ba-canberra/
+permalink: /australian-capital-t-2949ba-canberra-airport-case/
 description: Focused pages that expand on Airport Case.
 date: '2026'
 layout: default
