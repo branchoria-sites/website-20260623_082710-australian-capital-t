@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-03 18:19:44'
-title: Explanations Sub-Topic Index
-title_full: Explanations Sub-Topic Index
+title: "Western Australia Explanations Sub-Topic Index"
+title_full: "Western Australia Explanations Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /western-australia-1c735d-outback/
-description: Focused pages that expand on Explanations.
+description: "Focused pages that expand on Explanations - Western Australia."
 date: '2026'
 layout: default
 parent_basename: Western_Australia_1c735d_outback_misidentific_80bcb3

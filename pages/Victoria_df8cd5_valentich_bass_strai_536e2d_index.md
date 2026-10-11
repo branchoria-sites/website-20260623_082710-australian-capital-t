@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-03 18:19:44'
-title: Valentich Sub-Topic Index
-title_full: Valentich Sub-Topic Index
+title: "Victoria Valentich Sub-Topic Index"
+title_full: "Victoria Valentich Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /victoria-df8cd5-valentich-bass-strai/
-description: Focused pages that expand on Valentich.
+description: "Focused pages that expand on Valentich - Victoria."
 date: '2026'
 layout: default
 parent_basename: Victoria_df8cd5_valentich_bass_strai_536e2d

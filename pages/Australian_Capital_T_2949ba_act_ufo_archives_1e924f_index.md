@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-03 18:19:44'
-title: Archives Sub-Topic Index
-title_full: Archives Sub-Topic Index
+title: "Australian Capital T Archives Sub-Topic Index"
+title_full: "Australian Capital T Archives Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /australian-capital-t-2949ba-act-ufo/
-description: Focused pages that expand on Archives.
+description: "Focused pages that expand on Archives - Australian Capital T."
 date: '2026'
 layout: default
 parent_basename: Australian_Capital_T_2949ba_act_ufo_archives_1e924f
