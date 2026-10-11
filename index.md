@@ -191,7 +191,7 @@ site_image_description: A quiet Canberra airport control tower at dusk with runw
 <span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
 </div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
-<img src="{{ '/assets/images/Western_Australia_1c735d-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<img src="{{ '/assets/images/Western_Australia_1c735d-overview-social.jpg' | relative_url }}" alt="{{ site.title | escape }} overview image" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
 <span class="interactive-map-preview-chip uap-world-map-preview-chip">WA</span>
 <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="western-australia" data-uap-world-map-region-focus="western-australia" aria-label="Focus map on Western Australia">Western Australia</button>
