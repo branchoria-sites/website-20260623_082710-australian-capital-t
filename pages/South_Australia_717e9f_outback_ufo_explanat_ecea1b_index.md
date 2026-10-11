@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-03 18:19:44'
-title: Explanations Sub-Topic Index
-title_full: Explanations Sub-Topic Index
+title: "South Australia Explanations Sub-Topic Index"
+title_full: "South Australia Explanations Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /south-australia-717e9f-outback-ufo/
-description: Focused pages that expand on Explanations.
+description: "Focused pages that expand on Explanations - South Australia."
 date: '2026'
 layout: default
 parent_basename: South_Australia_717e9f_outback_ufo_explanat_ecea1b

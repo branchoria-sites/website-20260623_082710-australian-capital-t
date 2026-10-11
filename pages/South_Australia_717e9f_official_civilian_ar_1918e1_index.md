@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-03 18:19:44'
-title: Archives Sub-Topic Index
-title_full: Archives Sub-Topic Index
+title: "South Australia Archives Sub-Topic Index"
+title_full: "South Australia Archives Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /south-australia-717e9f-official/
-description: Focused pages that expand on Archives.
+description: "Focused pages that expand on Archives - South Australia."
 date: '2026'
 layout: default
 parent_basename: South_Australia_717e9f_official_civilian_ar_1918e1
